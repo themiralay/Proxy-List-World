@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|8|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
-|9|8.211.136.41|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|3|210.246.200.135|3128|Laos|Vientiane|Proen Corp Public Company Limited|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|137.174.129.86|3128|United States|Dallas|Equinix (EMEA) Acquisition Enterprises B.V.|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|195.224.198.222|3128|United Kingdom|Kensington|Daisy Corporate Services Trading Ltd|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|27.66.195.78|25100|Vietnam|Hà Tĩnh|Viettel Group|
+|11|144.126.229.211|1080|United Kingdom|Slough|DigitalOcean, LLC|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|95.159.105.21|8080|Iraq|Sulaymaniyah|7NETLAYERS|
 |14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|15|170.81.77.132|2222|Brazil|João Pessoa|Sigtel Servicos De Telecomunicacoes Ltda|
-|16|195.224.198.222|3128|United Kingdom|Kensington|Daisy Corporate Services Trading Ltd|
-|17|60.50.128.61|8081|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
-|18|104.248.163.184|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|19|27.66.195.78|25100|Vietnam|Hà Tĩnh|Viettel Group|
-|20|157.10.97.119|8181|Indonesia|Pulau Temiang|PT Lintas Jaringan Nusantara|
+|15|86.106.132.186|3128|Germany|Neustadt am Rübenberge|M247 Europe SRL|
+|16|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|13.40.239.130|1080|United Kingdom|London|Amazon Technologies Inc.|
+|19|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|20|164.70.72.23|3128|Japan|Chiyoda|InfoSphere|
 
 
 
