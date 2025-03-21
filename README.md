@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4584** proxies at the latest update. Usable proxies are below.
+> Scraper found **4525** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|294|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|647|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|588|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|721|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.251.135|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|27.79.144.37|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|72.52.87.199|3128|United States|Fremont|Hurricane Electric LLC|
-|6|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
-|7|43.156.246.213|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
-|9|65.49.2.99|3128|United States|Cheyenne|Hurricane Electric LLC|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|124.108.19.6|9292|India|Navi Mumbai|Advantus Corporate Infoserv Private Ltd|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
-|14|35.212.152.89|8118|United States|The Dalles|Google LLC|
-|15|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
-|16|27.66.193.203|25100|Vietnam|Hà Tĩnh|Viettel Group|
-|17|65.49.2.99|3128|United States|Cheyenne|Hurricane Electric LLC|
-|18|150.107.244.188|8080|Indonesia|Bandung|Infrastruktur STARNET|
-|19|64.62.219.199|3128|United States|San Jose|Hurricane Electric LLC|
-|20|64.62.219.199|3128|United States|San Jose|Hurricane Electric LLC|
+|1|8.209.250.196|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
+|2|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|43.156.246.213|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|27.79.144.37|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|10|27.66.193.203|25100|Vietnam|Hà Tĩnh|Viettel Group|
+|11|187.172.203.143|999|Mexico|Mazatlán|Uninet S.A. de C.V.|
+|12|186.208.248.46|8080|Brazil|Cuité|Pbnet Telecom|
+|13|104.248.163.184|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|14|201.91.82.155|3128|Brazil|Santos|Vivo|
+|15|66.94.108.138|3128|United States|Orangeburg|Nubes, LLC|
+|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|17|212.69.114.161|8080|Russia|Moscow|MegaFon|
+|18|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|19|203.138.189.19|3128|Japan|Tokyo|SIMPLEIA|
+|20|208.87.243.199|7878|United States|Walnut|Psychz Networks|
 
 
 
