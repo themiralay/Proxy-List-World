@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|209.145.58.104|3128|United States|St Louis|Nubes, LLC|
-|6|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|152.228.206.180|63650|France|Roubaix|OVH SAS|
-|8|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|9|79.133.180.198|33333|The Netherlands|Amsterdam|Hostkey B.V.|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|27.79.200.232|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|74.82.60.199|3128|United States|Fremont|Hurricane Electric LLC|
+|8|65.49.14.168|3128|United States|Fremont|Hurricane Electric LLC|
+|9|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
 |10|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|12|85.239.149.128|1080|Finland|Helsinki|Aeza International LTD|
-|13|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|14|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
-|15|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|16|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|17|198.145.118.8|1080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|11|72.52.87.99|3128|United States|Fremont|Hurricane Electric LLC|
+|12|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|13|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|14|103.227.107.4|1111|Indonesia|Lubuk Sikaping|PT Skynet Network Bersama|
+|15|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|16|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|17|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
 |18|219.135.229.197|7890|China|Guangzhou|Chinanet|
-|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|20|188.117.108.66|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
+|19|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|20|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
