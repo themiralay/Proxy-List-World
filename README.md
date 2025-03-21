@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|8|141.11.123.197|63650|The Netherlands|Amsterdam|NForce Entertainment B.V.|
+|2|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
+|3|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|7|141.11.123.197|63650|The Netherlands|Amsterdam|NForce Entertainment B.V.|
+|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
 |9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|65.49.14.150|3128|United States|Fremont|Hurricane Electric LLC|
-|12|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|13|65.49.14.150|3128|United States|Fremont|Hurricane Electric LLC|
-|14|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|15|65.49.14.168|3128|United States|Fremont|Hurricane Electric LLC|
-|16|188.117.108.67|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
-|17|188.117.108.66|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
+|10|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|11|27.79.251.135|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|115.77.143.111|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|13|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|14|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|15|188.117.108.67|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
+|16|188.117.108.66|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
+|17|219.135.229.197|7890|China|Guangzhou|Chinanet|
 |18|188.117.108.68|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
-|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|20|72.52.87.99|3128|United States|Fremont|Hurricane Electric LLC|
+|19|104.248.163.184|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|20|203.138.145.215|3128|Japan|Chiyoda|SIMPLEIA|
 
 
 
