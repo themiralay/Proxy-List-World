@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
-|4|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|8|27.79.251.135|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|85.239.149.128|1080|Finland|Helsinki|Aeza International LTD|
-|11|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|27.79.200.232|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|152.228.206.180|63650|France|Roubaix|OVH SAS|
-|15|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|16|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|17|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|18|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
-|19|104.248.163.184|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|20|110.74.192.124|8181|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|3|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|4|85.239.149.128|1080|Finland|Helsinki|Aeza International LTD|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
+|7|72.52.87.99|3128|United States|Fremont|Hurricane Electric LLC|
+|8|74.82.60.199|3128|United States|Fremont|Hurricane Electric LLC|
+|9|65.49.68.99|3128|United States|Santaquin|Hurricane Electric LLC|
+|10|74.82.60.199|3128|United States|Fremont|Hurricane Electric LLC|
+|11|74.82.60.99|3128|United States|Fremont|Hurricane Electric LLC|
+|12|72.52.87.99|3128|United States|Fremont|Hurricane Electric LLC|
+|13|65.49.14.168|3128|United States|Fremont|Hurricane Electric LLC|
+|14|65.49.14.168|3128|United States|Fremont|Hurricane Electric LLC|
+|15|65.49.68.99|3128|United States|Santaquin|Hurricane Electric LLC|
+|16|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|20|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
 
 
 
