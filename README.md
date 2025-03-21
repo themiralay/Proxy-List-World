@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.138.145.206|3128|Japan|Chiyoda|SIMPLEIA|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|4|27.79.200.232|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
-|8|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|10|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
-|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|12|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
-|13|103.191.196.96|8080|Indonesia|Indramayu|PT Pangkalan Lintas Data|
-|14|103.189.96.96|2022|Indonesia|Ngapus|Lintas Data Prima, PT|
-|15|103.180.196.141|8080|Indonesia|Yogyakarta|PT Dekadata Lingkar Nusantara|
-|16|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|18|110.172.187.97|8080|India|Coimbatore|World Phone Internet Service Pvt. Ltd|
-|19|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|20|122.52.213.79|62102|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|27.79.251.135|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|51.144.23.80|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|9|115.77.174.135|10001|Vietnam|Vũng Tàu|Viettel Group|
+|10|195.224.198.222|3128|United Kingdom|Kensington|Daisy Corporate Services Trading Ltd|
+|11|79.133.180.198|33333|The Netherlands|Amsterdam|Hostkey B.V.|
+|12|104.248.163.184|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|13|185.138.120.109|8080|Iraq|Abu Ghraib|Horizon Scope Mobile Telecom WLL|
+|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|15|101.255.165.106|8090|Indonesia|Jakarta|PT Remala Abadi|
+|16|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|17|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|18|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|19|219.135.229.197|7890|China|Guangzhou|Chinanet|
+|20|201.186.41.103|999|Chile|Ancud|Telefonica del Sur S.A.|
 
 
 
