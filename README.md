@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|129.146.177.165|8081|United States|Phoenix|Oracle Corporation|
-|6|141.11.123.197|63650|The Netherlands|Amsterdam|NForce Entertainment B.V.|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|79.133.180.198|33333|The Netherlands|Amsterdam|Hostkey B.V.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|12|129.146.177.165|8081|United States|Phoenix|Oracle Corporation|
-|13|201.186.41.103|999|Chile|Ancud|Telefonica del Sur S.A.|
-|14|89.249.62.6|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|16|124.248.190.213|8080|Cambodia|Phnom Penh|COGETEL Co., Ltd|
-|17|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
-|18|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|19|45.228.235.10|999|Guatemala|Guatemala City|Infinitum S.A.|
-|20|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|27.79.251.135|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|64.62.219.199|3128|United States|San Jose|Hurricane Electric LLC|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|74.82.60.199|3128|United States|Fremont|Hurricane Electric LLC|
+|10|72.52.87.199|3128|United States|Fremont|Hurricane Electric LLC|
+|11|72.52.87.99|3128|United States|Fremont|Hurricane Electric LLC|
+|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|13|79.133.180.198|33333|The Netherlands|Amsterdam|Hostkey B.V.|
+|14|141.11.123.197|63650|The Netherlands|Amsterdam|NForce Entertainment B.V.|
+|15|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
+|16|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
+|17|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
+|18|65.49.14.6|3128|United States|Fremont|Hurricane Electric LLC|
+|19|74.82.60.199|3128|United States|Fremont|Hurricane Electric LLC|
+|20|44.215.100.135|8118|United States|Ashburn|Amazon.com|
 
 
 
