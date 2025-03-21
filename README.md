@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
 |4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|7|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
 |8|85.239.149.128|1080|Finland|Helsinki|Aeza International LTD|
 |9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|11|18.135.133.116|80|United Kingdom|London|Amazon Technologies Inc.|
-|12|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|13|219.135.229.197|7890|China|Guangzhou|Chinanet|
-|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|15|67.43.236.18|33075|Canada|Montreal|GloboTech Communications|
-|16|203.138.145.205|3128|Japan|Chiyoda|SIMPLEIA|
-|17|72.10.160.90|31973|Canada|Montreal|GloboTech Communications|
-|18|27.189.132.37|8089|China|Langfang|Chinanet|
-|19|188.117.108.66|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
-|20|188.117.108.67|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|13|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|14|103.170.64.200|1111|India|Pimpri-Chinchwad|Dream Cables|
+|15|219.135.229.197|7890|China|Guangzhou|Chinanet|
+|16|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|188.117.108.66|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
+|19|188.117.108.67|80|Saudi Arabia|Jubail|Sahara Net IP Class|
+|20|203.138.145.205|3128|Japan|Chiyoda|SIMPLEIA|
 
 
 
