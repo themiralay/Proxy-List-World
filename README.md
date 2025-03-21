@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|47.245.40.68|3389|Japan|Tokyo|Alibaba Cloud LLC|
 |2|203.138.145.212|3128|Japan|Chiyoda|SIMPLEIA|
-|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
+|4|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
 |5|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|27.79.144.37|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|129.146.177.165|8081|United States|Phoenix|Oracle Corporation|
-|11|85.143.249.88|3128|Russia|St Petersburg|First Service Provider|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|79.133.180.198|33333|The Netherlands|Amsterdam|Hostkey B.V.|
-|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|15|186.31.140.215|999|Colombia|Bogotá|ETB - Colombia|
-|16|8.209.200.138|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|17|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|8|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
+|9|64.62.219.199|3128|United States|San Jose|Hurricane Electric LLC|
+|10|74.82.60.199|3128|United States|Fremont|Hurricane Electric LLC|
+|11|74.82.60.199|3128|United States|Fremont|Hurricane Electric LLC|
+|12|65.49.14.6|3128|United States|Fremont|Hurricane Electric LLC|
+|13|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
+|14|65.49.14.168|3128|United States|Fremont|Hurricane Electric LLC|
+|15|64.62.219.199|3128|United States|San Jose|Hurricane Electric LLC|
+|16|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
+|17|23.95.215.26|8080|United States|Santa Clara|HostPapa|
+|18|186.31.140.215|999|Colombia|Bogotá|ETB - Colombia|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|72.52.87.199|3128|United States|Fremont|Hurricane Electric LLC|
 
 
 
