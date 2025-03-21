@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|203.138.145.210|3128|Japan|Chiyoda|SIMPLEIA|
 |2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|8|201.186.41.103|999|Chile|Ancud|Telefonica del Sur S.A.|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|10|201.186.41.103|999|Chile|Ancud|Telefonica del Sur S.A.|
 |11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|195.224.198.222|3128|United Kingdom|Kensington|Daisy Corporate Services Trading Ltd|
-|13|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|14|104.248.163.184|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
-|16|38.156.14.197|999|Dominican Republic|Santo Domingo Este|Bravic SRL|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|170.78.210.123|999|Mexico|Ejido San Jerónimo|Wantelco SAS de CV|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|85.215.242.55|1080|Germany|Berlin|IONOS SE|
+|16|44.215.100.135|8118|United States|Ashburn|Amazon.com|
 |17|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|18|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|19|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|20|188.117.108.68|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
+|18|115.72.44.22|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|19|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|20|58.147.186.214|3125|Indonesia|Sambas|PT. Transhybrid Communication|
 
 
 
