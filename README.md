@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.227.124.33|3128|Japan|Tokyo|InfoSphere|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|27.79.200.232|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|129.146.177.165|8080|United States|Phoenix|Oracle Corporation|
+|6|129.146.177.165|8080|United States|Phoenix|Oracle Corporation|
+|7|27.79.200.232|16000|Vietnam|Hanoi|Viettel Corporation|
 |8|186.31.140.217|999|Colombia|Bogotá|ETB - Colombia|
-|9|186.31.140.213|999|Colombia|Bogotá|ETB - Colombia|
-|10|186.31.140.218|999|Colombia|Bogotá|ETB - Colombia|
-|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|186.31.140.218|999|Colombia|Bogotá|ETB - Colombia|
+|10|186.31.140.213|999|Colombia|Bogotá|ETB - Colombia|
+|11|48.210.29.193|3128|Japan|Tokyo|Microsoft Corporation|
 |12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|88.99.25.133|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|15|48.210.29.193|3128|Japan|Tokyo|Microsoft Corporation|
-|16|213.199.136.86|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|18|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|19|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|20|195.224.198.222|3128|United Kingdom|Kensington|Daisy Corporate Services Trading Ltd|
+|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|14|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|16|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|17|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
+|18|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
 
 
 
