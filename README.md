@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4107** proxies at the latest update. Usable proxies are below.
+> Scraper found **4019** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|479|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|435|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|406|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|362|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|1|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
 |5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|27.79.251.135|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|103.227.187.19|6080|Indonesia|Banyuwangi|PT Master Star Network|
-|9|195.224.198.222|3128|United Kingdom|Kensington|Daisy Corporate Services Trading Ltd|
-|10|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|6|141.11.123.189|63650|The Netherlands|Amsterdam|NForce Entertainment B.V.|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
+|9|27.79.251.135|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |11|219.135.229.197|7890|China|Guangzhou|Chinanet|
-|12|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|15|198.145.118.8|1080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|18|103.154.230.130|8080|Indonesia|Lamongan|DIGITNET|
-|19|203.138.145.109|3128|Japan|Chiyoda|SIMPLEIA|
-|20|188.117.108.67|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|15|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
+|16|219.135.229.197|7890|China|Guangzhou|Chinanet|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|198.145.118.8|1080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|19|195.224.198.222|3128|United Kingdom|Kensington|Daisy Corporate Services Trading Ltd|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
