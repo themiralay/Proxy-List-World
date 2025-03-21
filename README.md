@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.138.145.216|3128|Japan|Chiyoda|SIMPLEIA|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|203.138.145.216|3128|Japan|Chiyoda|SIMPLEIA|
+|3|108.62.60.32|3128|United States|Seattle|Leaseweb USA, Inc.|
 |4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|7|141.11.123.197|63650|The Netherlands|Amsterdam|NForce Entertainment B.V.|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|27.66.193.203|25100|Vietnam|Hà Tĩnh|Viettel Group|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|104.248.163.184|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|46.187.93.52|8080|Russia|Cheboksary|Net By Net Holding LLC (Cheboksary)|
-|17|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
-|18|36.88.249.106|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|19|213.141.128.113|8080|Russia|Moscow|MERIDIAN|
-|20|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|5|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|6|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|103.82.246.249|6080|Indonesia|Kedungrejo|PT Master Star Network|
+|8|101.99.13.76|3128|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
+|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|13|141.11.123.197|63650|The Netherlands|Amsterdam|NForce Entertainment B.V.|
+|14|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|15|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|195.224.198.222|3128|United Kingdom|Kensington|Daisy Corporate Services Trading Ltd|
+|18|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|19|186.121.234.93|8080|Bolivia|La Paz|AXS Bolivia S. A.|
+|20|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
 
 
 
