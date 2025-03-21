@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|3|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
+|2|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
+|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
 |4|125.164.213.160|3128|Indonesia|Malang|PT. TELKOM INDONESIA|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|97.79.251.186|80|United States|Dallas|Spectrum|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|97.79.251.186|80|United States|Dallas|Spectrum|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|195.224.198.222|3128|United Kingdom|Kensington|Daisy Corporate Services Trading Ltd|
-|12|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|14|45.252.181.4|63650|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
-|15|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
-|16|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|17|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|20|161.49.90.70|1337|Philippines|Pasig|Converge ICT Solution Inc|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|72.52.87.199|3128|United States|Fremont|Hurricane Electric LLC|
+|9|74.82.60.199|3128|United States|Fremont|Hurricane Electric LLC|
+|10|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
+|11|65.49.68.99|3128|United States|Santaquin|Hurricane Electric LLC|
+|12|64.62.219.199|3128|United States|San Jose|Hurricane Electric LLC|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|65.49.14.168|3128|United States|Fremont|Hurricane Electric LLC|
+|15|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
+|19|64.62.219.199|3128|United States|San Jose|Hurricane Electric LLC|
+|20|201.185.42.139|11201|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
 
 
 
