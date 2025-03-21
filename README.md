@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|7|181.78.3.170|999|Colombia|Sopetrán|IFX Networks Argentina S.R.L|
-|8|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|9|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|10|85.239.149.128|1080|Finland|Helsinki|Aeza International LTD|
-|11|115.77.143.111|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|15|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|16|219.135.229.197|7890|China|Guangzhou|Chinanet|
-|17|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|18|221.202.27.194|10809|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
-|19|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
-|20|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|7|103.172.121.29|1111|Indonesia|Semarang|PT Digital Akses Nusantara|
+|8|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|79.133.180.198|33333|The Netherlands|Amsterdam|Hostkey B.V.|
+|12|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
+|13|170.80.234.145|8080|Brazil|Olinda|Agility Telecom Ltda|
+|14|104.248.163.184|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|15|36.151.194.43|8087|China|Qinnan|China Mobile Communications Corporation|
+|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|17|198.145.118.8|1080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|19|38.194.250.66|999|Mexico|Jerécuaro|Ientc S De RL De CV|
+|20|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
 
 
 
