@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.22.55.140|10001|Vietnam|Hanoi|FPT Telecom Company|
-|2|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|3|27.79.144.37|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|203.138.145.216|3128|Japan|Chiyoda|SIMPLEIA|
-|6|79.133.180.198|33333|The Netherlands|Amsterdam|Hostkey B.V.|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|11|195.224.198.222|3128|United Kingdom|Kensington|Daisy Corporate Services Trading Ltd|
-|12|104.248.163.184|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|212.68.38.121|8080|Turkey|Kilis|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|46.187.93.52|8080|Russia|Cheboksary|Net By Net Holding LLC (Cheboksary)|
-|17|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|20|65.49.2.99|3128|United States|Cheyenne|Hurricane Electric LLC|
+|1|203.138.145.216|3128|Japan|Chiyoda|SIMPLEIA|
+|2|118.70.11.9|1015|Vietnam|Hanoi|FPT Telecom Company|
+|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|4|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|79.133.180.198|33333|The Netherlands|Amsterdam|Hostkey B.V.|
+|12|5.161.121.186|8118|United States|Ashburn|Hetzner Online GmbH|
+|13|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|14|202.165.47.90|55443|Indonesia|Jakarta|Circlecom|
+|15|104.248.163.184|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|17|103.97.140.76|8080|Indonesia|Jakarta|PT Jembatan Data Pangrango|
+|18|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|20|195.224.198.222|3128|United Kingdom|Kensington|Daisy Corporate Services Trading Ltd|
 
 
 
