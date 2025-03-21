@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|27.79.251.135|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|27.79.144.37|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|5|8.209.250.196|3389|Japan|Tokyo|Alibaba.com Singapore E-Commerce Private Limited|
-|6|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|8|27.66.193.203|25100|Vietnam|Hà Tĩnh|Viettel Group|
-|9|72.52.87.199|3128|United States|Fremont|Hurricane Electric LLC|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|27.79.144.37|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|72.52.87.199|3128|United States|Fremont|Hurricane Electric LLC|
+|6|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
+|7|43.156.246.213|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
+|9|65.49.2.99|3128|United States|Cheyenne|Hurricane Electric LLC|
 |10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
-|12|65.49.2.99|3128|United States|Cheyenne|Hurricane Electric LLC|
-|13|65.49.68.99|3128|United States|Santaquin|Hurricane Electric LLC|
-|14|212.69.114.161|8080|Russia|Moscow|MegaFon|
+|11|124.108.19.6|9292|India|Navi Mumbai|Advantus Corporate Infoserv Private Ltd|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
+|14|35.212.152.89|8118|United States|The Dalles|Google LLC|
 |15|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
-|16|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
-|17|64.62.219.199|3128|United States|San Jose|Hurricane Electric LLC|
-|18|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
-|19|65.49.14.150|3128|United States|Fremont|Hurricane Electric LLC|
-|20|65.49.68.99|3128|United States|Santaquin|Hurricane Electric LLC|
+|16|27.66.193.203|25100|Vietnam|Hà Tĩnh|Viettel Group|
+|17|65.49.2.99|3128|United States|Cheyenne|Hurricane Electric LLC|
+|18|150.107.244.188|8080|Indonesia|Bandung|Infrastruktur STARNET|
+|19|64.62.219.199|3128|United States|San Jose|Hurricane Electric LLC|
+|20|64.62.219.199|3128|United States|San Jose|Hurricane Electric LLC|
 
 
 
