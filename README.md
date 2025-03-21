@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -43,21 +43,21 @@ Click the file format that you want and copy the URL.
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|129.146.177.165|8081|United States|Phoenix|Oracle Corporation|
-|6|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|7|129.146.177.165|8081|United States|Phoenix|Oracle Corporation|
-|8|85.143.249.88|3128|Russia|St Petersburg|First Service Provider|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|72.52.87.199|3128|United States|Fremont|Hurricane Electric LLC|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|27.79.200.232|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|14|72.52.87.99|3128|United States|Fremont|Hurricane Electric LLC|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|85.143.249.88|3128|Russia|St Petersburg|First Service Provider|
+|8|65.49.14.168|3128|United States|Fremont|Hurricane Electric LLC|
+|9|72.52.87.199|3128|United States|Fremont|Hurricane Electric LLC|
+|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|11|72.52.87.99|3128|United States|Fremont|Hurricane Electric LLC|
+|12|64.62.219.199|3128|United States|San Jose|Hurricane Electric LLC|
+|13|64.62.219.99|3128|United States|San Jose|Hurricane Electric LLC|
+|14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
 |15|65.49.14.6|3128|United States|Fremont|Hurricane Electric LLC|
-|16|212.33.205.55|3128|Iran|Tehran|Asiatech Data Transmission company|
-|17|5.160.224.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|18|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|19|74.82.60.199|3128|United States|Fremont|Hurricane Electric LLC|
+|16|65.49.14.6|3128|United States|Fremont|Hurricane Electric LLC|
+|17|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|18|65.49.14.150|3128|United States|Fremont|Hurricane Electric LLC|
+|19|64.62.219.99|3128|United States|San Jose|Hurricane Electric LLC|
 |20|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
 
 
