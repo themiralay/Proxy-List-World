@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.124.33|3128|Japan|Tokyo|InfoSphere|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|48.210.29.193|3128|Japan|Tokyo|Microsoft Corporation|
-|4|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|5|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|8|27.79.200.232|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|186.31.140.213|999|Colombia|Bogotá|ETB - Colombia|
-|10|186.31.140.218|999|Colombia|Bogotá|ETB - Colombia|
-|11|186.31.140.217|999|Colombia|Bogotá|ETB - Colombia|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|14|88.99.25.133|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|15|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|195.224.198.222|3128|United Kingdom|Kensington|Daisy Corporate Services Trading Ltd|
-|18|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|19|37.114.192.104|3128|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|20|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|7|186.31.140.213|999|Colombia|Bogotá|ETB - Colombia|
+|8|186.31.140.217|999|Colombia|Bogotá|ETB - Colombia|
+|9|186.31.140.218|999|Colombia|Bogotá|ETB - Colombia|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|88.99.25.133|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
+|13|48.210.29.193|3128|Japan|Tokyo|Microsoft Corporation|
+|14|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
+|15|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|16|95.47.239.221|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
+|17|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|18|122.3.16.181|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|20|213.199.136.86|3128|Netherlands|Amsterdam|Microsoft Corporation|
 
 
 
