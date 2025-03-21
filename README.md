@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.227.124.33|3128|Japan|Tokyo|InfoSphere|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|27.79.200.232|16000|Vietnam|Hanoi|Viettel Corporation|
 |4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|27.79.200.232|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|129.146.177.165|8080|United States|Phoenix|Oracle Corporation|
-|9|48.210.29.193|3128|Japan|Tokyo|Microsoft Corporation|
-|10|129.146.177.165|8080|United States|Phoenix|Oracle Corporation|
-|11|186.31.140.218|999|Colombia|Bogotá|ETB - Colombia|
+|5|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|186.31.140.218|999|Colombia|Bogotá|ETB - Colombia|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|186.31.140.213|999|Colombia|Bogotá|ETB - Colombia|
+|11|48.210.29.193|3128|Japan|Tokyo|Microsoft Corporation|
 |12|186.31.140.217|999|Colombia|Bogotá|ETB - Colombia|
-|13|186.31.140.213|999|Colombia|Bogotá|ETB - Colombia|
-|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|15|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|16|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|17|213.199.136.86|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|18|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|19|89.36.65.133|3128|United Kingdom|Islington|Hyperoptic Ltd|
-|20|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|15|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|16|212.33.205.55|3128|Iran|Tehran|Asiatech Data Transmission company|
+|17|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|18|95.47.239.221|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
 
 
 
