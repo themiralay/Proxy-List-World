@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|95.47.239.221|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
 |8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|12|103.172.71.140|8080|Indonesia|Karawang|AZNET|
-|13|79.133.180.198|33333|The Netherlands|Amsterdam|Hostkey B.V.|
-|14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|15|81.90.39.82|3128|Germany|Reutlingen|CMO Internet Dienstleistungen GmbH|
-|16|154.126.209.146|8080|South Africa|Newcastle|JENNY Network|
-|17|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|18|89.36.65.133|3128|United Kingdom|Islington|Hyperoptic Ltd|
-|19|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|20|103.158.126.65|3888|Indonesia|Bekasi|PT Maxindo Mitra Solusi|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
+|12|45.252.181.4|63650|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
+|13|89.36.65.133|3128|United Kingdom|Islington|Hyperoptic Ltd|
+|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|15|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
+|16|181.119.93.28|999|Peru|Lima|Ufinet Panama S.A.|
+|17|190.111.193.83|8080|Argentina|Buenos Aires|CPS|
+|18|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|19|27.79.200.232|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|44.215.100.135|8118|United States|Ashburn|Amazon.com|
 
 
 
