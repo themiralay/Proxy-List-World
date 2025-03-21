@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|27.79.200.232|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|74.82.60.199|3128|United States|Fremont|Hurricane Electric LLC|
-|5|64.62.219.199|3128|United States|San Jose|Hurricane Electric LLC|
-|6|65.49.2.99|3128|United States|Cheyenne|Hurricane Electric LLC|
-|7|65.49.14.150|3128|United States|Fremont|Hurricane Electric LLC|
-|8|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
-|9|45.147.201.66|3128|Russia|Moscow|LLC Baxet|
-|10|72.52.87.99|3128|United States|Fremont|Hurricane Electric LLC|
-|11|65.49.14.6|3128|United States|Fremont|Hurricane Electric LLC|
-|12|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
-|13|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|14|65.49.14.168|3128|United States|Fremont|Hurricane Electric LLC|
-|15|65.49.68.99|3128|United States|Santaquin|Hurricane Electric LLC|
-|16|65.49.68.99|3128|United States|Santaquin|Hurricane Electric LLC|
-|17|65.49.14.168|3128|United States|Fremont|Hurricane Electric LLC|
-|18|65.49.2.99|3128|United States|Cheyenne|Hurricane Electric LLC|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
+|1|65.49.14.6|3128|United States|Fremont|Hurricane Electric LLC|
+|2|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
+|3|65.49.68.99|3128|United States|Santaquin|Hurricane Electric LLC|
+|4|64.62.219.199|3128|United States|San Jose|Hurricane Electric LLC|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|65.49.2.99|3128|United States|Cheyenne|Hurricane Electric LLC|
+|9|65.49.14.168|3128|United States|Fremont|Hurricane Electric LLC|
+|10|65.49.14.150|3128|United States|Fremont|Hurricane Electric LLC|
+|11|74.82.60.199|3128|United States|Fremont|Hurricane Electric LLC|
+|12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|13|65.49.14.6|3128|United States|Fremont|Hurricane Electric LLC|
+|14|64.62.219.199|3128|United States|San Jose|Hurricane Electric LLC|
+|15|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|72.52.87.99|3128|United States|Fremont|Hurricane Electric LLC|
+|18|72.52.87.99|3128|United States|Fremont|Hurricane Electric LLC|
+|19|65.49.14.150|3128|United States|Fremont|Hurricane Electric LLC|
+|20|74.82.60.199|3128|United States|Fremont|Hurricane Electric LLC|
 
 
 
