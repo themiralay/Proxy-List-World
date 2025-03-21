@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|129.146.177.165|8080|United States|Phoenix|Oracle Corporation|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|129.146.177.165|8080|United States|Phoenix|Oracle Corporation|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|27.79.200.232|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
-|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|14|35.180.172.243|8080|France|Paris|Amazon Technologies Inc.|
-|15|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|16|116.109.213.252|80|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
+|10|45.252.181.4|63650|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|81.90.39.82|3128|Germany|Reutlingen|CMO Internet Dienstleistungen GmbH|
+|13|129.146.177.165|8080|United States|Phoenix|Oracle Corporation|
+|14|95.47.239.221|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
+|15|129.146.177.165|8080|United States|Phoenix|Oracle Corporation|
+|16|44.215.100.135|8118|United States|Ashburn|Amazon.com|
 |17|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|18|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|19|117.80.188.44|8089|China|Nanjing|China Telecom|
-|20|190.111.193.83|8080|Argentina|Buenos Aires|CPS|
+|18|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|103.190.171.33|8080|Indonesia|Jakarta|WMS|
 
 
 
