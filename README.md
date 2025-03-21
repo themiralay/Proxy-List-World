@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|203.138.189.19|3128|Japan|Tokyo|SIMPLEIA|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|113.22.55.44|10003|Vietnam|Hanoi|FPT Telecom Company|
 |5|3.12.146.153|3128|United States|Dublin|Amazon.com, Inc.|
-|6|186.31.140.216|999|Colombia|Bogotá|ETB - Colombia|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|129.146.177.165|8080|United States|Phoenix|Oracle Corporation|
+|8|3.12.146.153|3128|United States|Dublin|Amazon.com, Inc.|
 |9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|10|3.12.146.153|3128|United States|Dublin|Amazon.com, Inc.|
-|11|79.133.180.198|33333|The Netherlands|Amsterdam|Hostkey B.V.|
-|12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|186.31.140.216|999|Colombia|Bogotá|ETB - Colombia|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|79.133.180.198|33333|The Netherlands|Amsterdam|Hostkey B.V.|
 |13|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|14|195.224.198.222|3128|United Kingdom|Kensington|Daisy Corporate Services Trading Ltd|
-|15|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
-|16|64.62.219.199|3128|United States|San Jose|Hurricane Electric LLC|
-|17|5.161.121.186|8118|United States|Ashburn|Hetzner Online GmbH|
-|18|72.52.87.99|3128|United States|Fremont|Hurricane Electric LLC|
-|19|72.52.87.99|3128|United States|Fremont|Hurricane Electric LLC|
-|20|212.33.205.55|3128|Iran|Tehran|Asiatech Data Transmission company|
+|14|103.19.59.168|1080|Indonesia|Ngawi|BITSNET|
+|15|116.212.182.74|8081|India|Chennai|Microsense Private Limited|
+|16|182.253.38.179|3128|Indonesia|Wonosobo|BIZNET|
+|17|104.248.163.184|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|18|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|19|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|20|181.198.1.85|999|Ecuador|Quito|Telconet S.A|
 
 
 
