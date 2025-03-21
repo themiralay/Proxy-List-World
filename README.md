@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
-|7|74.82.60.199|3128|United States|Fremont|Hurricane Electric LLC|
-|8|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
-|9|64.62.219.199|3128|United States|San Jose|Hurricane Electric LLC|
-|10|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|11|103.169.254.11|6080|Indonesia|Curahjati|PT Master Star Network|
-|12|74.82.60.199|3128|United States|Fremont|Hurricane Electric LLC|
-|13|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
-|14|201.186.41.103|999|Chile|Ancud|Telefonica del Sur S.A.|
-|15|72.52.87.99|3128|United States|Fremont|Hurricane Electric LLC|
-|16|64.62.219.99|3128|United States|San Jose|Hurricane Electric LLC|
-|17|65.49.14.6|3128|United States|Fremont|Hurricane Electric LLC|
-|18|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|1|203.138.145.210|3128|Japan|Chiyoda|SIMPLEIA|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|79.133.180.198|33333|The Netherlands|Amsterdam|Hostkey B.V.|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|10|201.186.41.103|999|Chile|Ancud|Telefonica del Sur S.A.|
+|11|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|13|103.187.164.66|8080|Indonesia|Jakarta|PT Amanusa Telemedia Mahardika|
+|14|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|15|81.23.152.244|8090|Russia|Kazan'|Rostelecom networks|
+|16|104.248.163.184|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|17|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|18|219.135.229.197|7890|China|Guangzhou|Chinanet|
 |19|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|20|74.82.60.99|3128|United States|Fremont|Hurricane Electric LLC|
+|20|170.78.210.123|999|Mexico|Ejido San Jerónimo|Wantelco SAS de CV|
 
 
 
