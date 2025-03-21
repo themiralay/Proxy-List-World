@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.138.145.212|3128|Japan|Chiyoda|SIMPLEIA|
-|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|8.209.200.138|3389|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|203.138.145.212|3128|Japan|Chiyoda|SIMPLEIA|
+|3|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |5|129.146.177.165|8081|United States|Phoenix|Oracle Corporation|
-|6|186.31.140.215|999|Colombia|Bogotá|ETB - Colombia|
-|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|8|79.133.180.198|33333|The Netherlands|Amsterdam|Hostkey B.V.|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|12|27.66.193.203|25100|Vietnam|Hà Tĩnh|Viettel Group|
-|13|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|154.16.214.14|3128|United States|Chicago|ipxo|
-|16|35.212.152.89|8118|United States|The Dalles|Google LLC|
+|6|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|10|186.31.140.215|999|Colombia|Bogotá|ETB - Colombia|
+|11|129.146.177.165|8081|United States|Phoenix|Oracle Corporation|
+|12|103.120.76.34|8080|Indonesia|Tangerang|PT Haci Telekomunikasi Indonesia|
+|13|79.133.180.198|33333|The Netherlands|Amsterdam|Hostkey B.V.|
+|14|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|15|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|19|195.224.198.222|3128|United Kingdom|Kensington|Daisy Corporate Services Trading Ltd|
-|20|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|18|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
