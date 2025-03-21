@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4341** proxies at the latest update. Usable proxies are below.
+> Scraper found **4454** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|392|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|392|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|392|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|576|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|543|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|656|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.138.145.216|3128|Japan|Chiyoda|SIMPLEIA|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
-|5|64.62.219.199|3128|United States|San Jose|Hurricane Electric LLC|
-|6|65.49.14.6|3128|United States|Fremont|Hurricane Electric LLC|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
-|9|85.143.249.88|3128|Russia|St Petersburg|First Service Provider|
-|10|79.133.180.198|33333|The Netherlands|Amsterdam|Hostkey B.V.|
-|11|72.52.87.199|3128|United States|Fremont|Hurricane Electric LLC|
-|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|13|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
-|14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|15|195.224.198.222|3128|United Kingdom|Kensington|Daisy Corporate Services Trading Ltd|
-|16|72.52.87.99|3128|United States|Fremont|Hurricane Electric LLC|
-|17|65.49.14.150|3128|United States|Fremont|Hurricane Electric LLC|
-|18|3.12.146.153|3128|United States|Dublin|Amazon.com, Inc.|
-|19|74.82.60.199|3128|United States|Fremont|Hurricane Electric LLC|
-|20|3.12.146.153|3128|United States|Dublin|Amazon.com, Inc.|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|129.146.177.165|8080|United States|Phoenix|Oracle Corporation|
+|4|27.79.144.37|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|3.12.146.153|3128|United States|Dublin|Amazon.com, Inc.|
+|7|113.22.55.44|10003|Vietnam|Hanoi|FPT Telecom Company|
+|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|9|186.31.140.216|999|Colombia|Bogotá|ETB - Colombia|
+|10|129.146.177.165|8080|United States|Phoenix|Oracle Corporation|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|3.12.146.153|3128|United States|Dublin|Amazon.com, Inc.|
+|13|141.11.123.197|63650|The Netherlands|Amsterdam|NForce Entertainment B.V.|
+|14|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|16|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|17|101.99.13.76|3128|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
+|18|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
+|19|195.224.198.222|3128|United Kingdom|Kensington|Daisy Corporate Services Trading Ltd|
+|20|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
 
 
 
