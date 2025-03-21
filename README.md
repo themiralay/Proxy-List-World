@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.138.145.245|3128|Japan|Chiyoda|SIMPLEIA|
-|2|203.138.145.206|3128|Japan|Chiyoda|SIMPLEIA|
-|3|27.79.200.232|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|12|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|104.248.163.184|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|14|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|15|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|16|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|188.117.108.67|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
-|19|191.115.213.178|999|Chile|Cauquenes|TELEFÓNICA CHILE S.A.|
-|20|67.43.227.226|30881|Canada|Montreal|GloboTech Communications|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
