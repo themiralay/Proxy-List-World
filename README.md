@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|7|195.224.198.222|3128|United Kingdom|Kensington|Daisy Corporate Services Trading Ltd|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
 |8|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
 |9|188.117.108.68|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
-|10|60.53.115.29|8123|Malaysia|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|
-|11|116.169.61.56|10990|China|Chengdu|China Unicom CHINA169 Network|
-|12|140.227.119.17|3128|Japan|Tokyo|InfoSphere|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
+|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|11|188.117.108.66|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
+|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|13|140.227.119.17|3128|Japan|Tokyo|InfoSphere|
+|14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
 |15|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
-|16|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|18|203.138.145.109|3128|Japan|Chiyoda|SIMPLEIA|
-|19|129.146.177.165|8081|United States|Phoenix|Oracle Corporation|
-|20|188.117.108.66|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
+|16|203.138.145.62|3128|Japan|Chiyoda|SIMPLEIA|
+|17|49.0.87.62|8080|Thailand|Bangkok|AIS-Fibre|
+|18|201.91.82.155|3128|Brazil|Santos|Vivo|
+|19|203.138.145.109|3128|Japan|Chiyoda|SIMPLEIA|
+|20|141.11.123.197|63650|The Netherlands|Amsterdam|NForce Entertainment B.V.|
 
 
 
