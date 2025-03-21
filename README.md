@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|203.138.145.216|3128|Japan|Chiyoda|SIMPLEIA|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|4|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
-|5|129.146.177.165|8080|United States|Phoenix|Oracle Corporation|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|27.79.144.37|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|129.146.177.165|8080|United States|Phoenix|Oracle Corporation|
-|11|72.52.87.199|3128|United States|Fremont|Hurricane Electric LLC|
-|12|74.82.60.99|3128|United States|Fremont|Hurricane Electric LLC|
-|13|74.82.60.199|3128|United States|Fremont|Hurricane Electric LLC|
-|14|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
-|15|65.49.14.6|3128|United States|Fremont|Hurricane Electric LLC|
-|16|64.62.219.199|3128|United States|San Jose|Hurricane Electric LLC|
-|17|141.11.123.197|63650|The Netherlands|Amsterdam|NForce Entertainment B.V.|
-|18|64.62.219.99|3128|United States|San Jose|Hurricane Electric LLC|
-|19|72.52.87.99|3128|United States|Fremont|Hurricane Electric LLC|
-|20|65.49.14.168|3128|United States|Fremont|Hurricane Electric LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|7|195.224.198.222|3128|United Kingdom|Kensington|Daisy Corporate Services Trading Ltd|
+|8|65.49.68.99|3128|United States|Santaquin|Hurricane Electric LLC|
+|9|141.11.123.197|63650|The Netherlands|Amsterdam|NForce Entertainment B.V.|
+|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|11|27.66.193.203|25100|Vietnam|Hà Tĩnh|Viettel Group|
+|12|79.133.180.198|33333|The Netherlands|Amsterdam|Hostkey B.V.|
+|13|64.62.219.199|3128|United States|San Jose|Hurricane Electric LLC|
+|14|45.87.154.85|3128|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|15|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|16|65.49.14.6|3128|United States|Fremont|Hurricane Electric LLC|
+|17|65.49.2.99|3128|United States|Cheyenne|Hurricane Electric LLC|
+|18|65.49.68.99|3128|United States|Santaquin|Hurricane Electric LLC|
+|19|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
+|20|72.52.87.199|3128|United States|Fremont|Hurricane Electric LLC|
 
 
 
