@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|7|72.52.87.99|3128|United States|Fremont|Hurricane Electric LLC|
-|8|72.52.87.99|3128|United States|Fremont|Hurricane Electric LLC|
-|9|65.49.14.168|3128|United States|Fremont|Hurricane Electric LLC|
-|10|74.82.60.199|3128|United States|Fremont|Hurricane Electric LLC|
-|11|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
-|12|74.82.60.99|3128|United States|Fremont|Hurricane Electric LLC|
-|13|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|65.49.68.99|3128|United States|Santaquin|Hurricane Electric LLC|
-|15|219.135.229.197|7890|China|Guangzhou|Chinanet|
+|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|181.198.1.84|999|Ecuador|Quito|Telconet S.A|
+|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|9|195.224.198.222|3128|United Kingdom|Kensington|Daisy Corporate Services Trading Ltd|
+|10|38.86.249.14|999|Venezuela|Santa Teresa del Tuy|Gold Data USA Inc|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|103.213.218.23|22466|Vietnam|Haiphong|V9ERP|
+|13|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|14|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|15|104.248.163.184|3128|United Kingdom|Slough|DigitalOcean, LLC|
 |16|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|17|61.164.204.130|4999|China|Hangzhou|Chinanet|
-|18|201.186.41.103|999|Chile|Ancud|Telefonica del Sur S.A.|
-|19|188.117.108.66|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
-|20|188.117.108.67|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
+|17|188.117.108.66|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
+|18|188.117.108.68|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
+|19|188.117.108.67|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
+|20|219.135.229.197|7890|China|Guangzhou|Chinanet|
 
 
 
