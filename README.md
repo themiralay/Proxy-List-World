@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|63.151.67.7|8080|United States|Steamboat Springs|Visionary Communications, Inc.|
-|7|85.239.149.128|1080|Finland|Helsinki|Aeza International LTD|
-|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|10|38.45.32.131|999|Venezuela|La Guaira|TELECOMUNICACIONES G-NETWORK, C.A.|
+|5|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
+|6|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|85.239.149.128|1080|Finland|Helsinki|Aeza International LTD|
+|9|161.49.90.70|1337|Philippines|Pasig|Converge ICT Solution Inc|
+|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
 |11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|13|72.10.160.170|7769|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.250|21095|Canada|Montreal|GloboTech Communications|
-|15|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|16|188.117.108.68|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
-|17|103.46.11.148|3000|Indonesia|Malang|Lintas Data Prima, PT|
+|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|13|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|15|38.7.3.8|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
 |18|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
-|19|27.189.131.152|8089|China|Langfang|Chinanet|
-|20|140.227.119.19|3128|Japan|Tokyo|InfoSphere|
+|19|188.117.108.68|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
+|20|219.135.229.197|7890|China|Guangzhou|Chinanet|
 
 
 
