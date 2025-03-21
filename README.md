@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|74.82.60.99|3128|United States|Fremont|Hurricane Electric LLC|
-|4|141.11.123.197|63650|The Netherlands|Amsterdam|NForce Entertainment B.V.|
-|5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|7|65.49.14.150|3128|United States|Fremont|Hurricane Electric LLC|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|104.248.163.184|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|79.133.180.198|33333|The Netherlands|Amsterdam|Hostkey B.V.|
+|5|141.11.123.197|63650|The Netherlands|Amsterdam|NForce Entertainment B.V.|
+|6|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
+|7|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|8|179.1.122.34|8080|Colombia|Bogotá|Internexa S.a. E.S.P|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
 |12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|13|202.154.18.160|8087|Indonesia|Pagerwojo|DIGITNET|
-|14|164.70.72.23|3128|Japan|Chiyoda|InfoSphere|
-|15|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|16|188.117.108.68|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
-|17|65.49.14.150|3128|United States|Fremont|Hurricane Electric LLC|
-|18|188.117.108.67|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
-|19|188.117.108.66|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
-|20|154.64.215.132|999|United States|Jacksonville|OSNET Wireless|
+|13|164.70.72.23|3128|Japan|Chiyoda|InfoSphere|
+|14|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|15|188.117.108.67|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
+|16|219.135.229.197|7890|China|Guangzhou|Chinanet|
+|17|188.117.108.68|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
+|18|188.117.108.66|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
+|19|115.77.142.218|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|20|180.190.200.33|8082|Philippines|Lahug|Globe Telecom|
 
 
 
