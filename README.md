@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|27.79.200.232|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|15|114.231.74.32|1080|China|Nanjing|Chinanet|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|89.36.65.133|3128|United Kingdom|Islington|Hyperoptic Ltd|
-|18|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|19|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|20|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|27.79.200.232|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|129.146.177.165|8080|United States|Phoenix|Oracle Corporation|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|157.10.97.155|1111|Indonesia|Terawas|PT Lintas Jaringan Nusantara|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|81.90.39.82|3128|Germany|Reutlingen|CMO Internet Dienstleistungen GmbH|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|13|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
+|14|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
+|15|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|16|89.36.65.133|3128|United Kingdom|Islington|Hyperoptic Ltd|
+|17|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|19|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|181.129.183.19|53281|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
 
 
 
