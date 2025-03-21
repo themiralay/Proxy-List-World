@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |2|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|6|65.49.14.168|3128|United States|Fremont|Hurricane Electric LLC|
-|7|103.112.163.46|8080|Indonesia|Jakarta|24AS|
-|8|219.135.229.197|7890|China|Guangzhou|Chinanet|
+|3|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|74.82.60.199|3128|United States|Fremont|Hurricane Electric LLC|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|65.49.14.168|3128|United States|Fremont|Hurricane Electric LLC|
+|8|74.82.60.199|3128|United States|Fremont|Hurricane Electric LLC|
 |9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|10|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|11|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
-|12|65.49.14.150|3128|United States|Fremont|Hurricane Electric LLC|
-|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|14|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|15|201.186.41.108|999|Chile|Ancud|Telefonica del Sur S.A.|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|188.117.108.67|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
-|18|74.82.60.99|3128|United States|Fremont|Hurricane Electric LLC|
-|19|27.189.132.198|8089|China|Langfang|Chinanet|
-|20|203.138.145.206|3128|Japan|Chiyoda|SIMPLEIA|
+|10|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
+|11|65.49.14.150|3128|United States|Fremont|Hurricane Electric LLC|
+|12|65.49.14.6|3128|United States|Fremont|Hurricane Electric LLC|
+|13|65.49.2.99|3128|United States|Cheyenne|Hurricane Electric LLC|
+|14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|15|64.62.219.199|3128|United States|San Jose|Hurricane Electric LLC|
+|16|65.49.2.99|3128|United States|Cheyenne|Hurricane Electric LLC|
+|17|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
+|18|65.49.14.150|3128|United States|Fremont|Hurricane Electric LLC|
+|19|65.49.14.6|3128|United States|Fremont|Hurricane Electric LLC|
+|20|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
 
 
 
