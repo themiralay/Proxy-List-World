@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|4|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
 |6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |8|85.143.249.88|3128|Russia|St Petersburg|First Service Provider|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
-|11|45.252.181.4|63650|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|27.79.200.232|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |14|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
-|15|72.52.87.99|3128|United States|Fremont|Hurricane Electric LLC|
-|16|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
-|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|18|74.82.60.199|3128|United States|Fremont|Hurricane Electric LLC|
-|19|74.82.60.199|3128|United States|Fremont|Hurricane Electric LLC|
-|20|97.79.251.186|80|United States|Dallas|Spectrum|
+|15|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
+|16|64.62.219.99|3128|United States|San Jose|Hurricane Electric LLC|
+|17|45.252.181.4|63650|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
+|18|180.191.20.208|8082|Philippines|Cabanatuan City|Globe Telecom|
+|19|5.160.224.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|20|72.52.87.199|3128|United States|Fremont|Hurricane Electric LLC|
 
 
 
