@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|203.138.145.206|3128|Japan|Chiyoda|SIMPLEIA|
-|2|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|18.135.211.182|1080|United Kingdom|London|Amazon Technologies Inc.|
-|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|10|79.133.180.198|33333|The Netherlands|Amsterdam|Hostkey B.V.|
-|11|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|13|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
-|14|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|15|188.117.108.68|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
-|16|188.117.108.66|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
-|17|188.117.108.67|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
-|18|27.189.129.144|8089|China|Langfang|Chinanet|
-|19|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|4|103.213.218.23|22466|Vietnam|Haiphong|V9ERP|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
+|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|8|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|9|79.133.180.198|33333|The Netherlands|Amsterdam|Hostkey B.V.|
+|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|160.19.178.42|8080|Indonesia|Cirebon|PT Jaringan Cyber Evo|
+|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|14|190.122.88.144|8080|Argentina|Puerto Tirol|Servicios y Telecomunicaciones S.A|
+|15|88.99.171.90|7003|Germany|Nuremberg|Hetzner Online GmbH|
+|16|104.248.163.184|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|17|188.117.108.66|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
+|18|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|19|219.135.229.197|7890|China|Guangzhou|Chinanet|
+|20|188.117.108.67|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
 
 
 
