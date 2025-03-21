@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|4|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|27.79.251.135|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|8|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|9|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|10|45.147.201.66|3128|Russia|Moscow|LLC Baxet|
-|11|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|27.79.251.135|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|37.152.163.87|3128|Iran|Zanjan|Rahanet Zanjan Co. (Private Joint-Stock)|
+|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
 |12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|104.248.163.184|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|14|195.224.198.222|3128|United Kingdom|Kensington|Daisy Corporate Services Trading Ltd|
-|15|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|16|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|17|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|18|45.82.246.174|3128|South Korea|Seoul|Stark Industries Solutions LTD|
-|19|219.135.229.197|7890|China|Guangzhou|Chinanet|
-|20|188.117.108.67|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
+|13|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|14|95.47.239.221|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
+|15|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|16|201.71.137.90|5128|Brazil|Cuiabá|Avato Tecnologia S.A|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
+|19|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|20|219.135.229.197|7890|China|Guangzhou|Chinanet|
 
 
 
