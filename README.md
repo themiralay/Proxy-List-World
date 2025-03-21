@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|27.79.251.135|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|141.11.123.197|63650|The Netherlands|Amsterdam|NForce Entertainment B.V.|
+|3|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|6|195.224.198.222|3128|United Kingdom|Kensington|Daisy Corporate Services Trading Ltd|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|79.133.180.198|33333|The Netherlands|Amsterdam|Hostkey B.V.|
 |9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|10|185.138.120.109|8080|Iraq|Abu Ghraib|Horizon Scope Mobile Telecom WLL|
-|11|104.248.163.184|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|79.133.180.198|33333|The Netherlands|Amsterdam|Hostkey B.V.|
+|10|103.189.96.96|2022|Indonesia|Ngapus|Lintas Data Prima, PT|
+|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|12|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
 |13|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|14|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|17|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|18|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|19|188.117.108.67|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
-|20|219.135.229.197|7890|China|Guangzhou|Chinanet|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|160.19.178.42|8080|Indonesia|Cirebon|PT Jaringan Cyber Evo|
+|16|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|19|104.248.163.184|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|20|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
 
 
 
