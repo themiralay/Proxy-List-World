@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4266** proxies at the latest update. Usable proxies are below.
+> Scraper found **4325** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|501|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|560|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|543|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|203.138.145.216|3128|Japan|Chiyoda|SIMPLEIA|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|27.79.144.37|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|7|89.249.62.8|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|8|141.11.123.197|63650|The Netherlands|Amsterdam|NForce Entertainment B.V.|
-|9|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|46.161.195.133|8080|Iraq|Baghdad|Valin Company for General Trading and Communication LTD|
-|11|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|12|190.94.213.234|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|13|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|14|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|15|188.117.108.66|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
-|16|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|17|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|18|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
-|19|140.227.119.17|3128|Japan|Tokyo|InfoSphere|
-|20|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
+|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|4|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
+|5|129.146.177.165|8080|United States|Phoenix|Oracle Corporation|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|27.79.144.37|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|129.146.177.165|8080|United States|Phoenix|Oracle Corporation|
+|11|72.52.87.199|3128|United States|Fremont|Hurricane Electric LLC|
+|12|74.82.60.99|3128|United States|Fremont|Hurricane Electric LLC|
+|13|74.82.60.199|3128|United States|Fremont|Hurricane Electric LLC|
+|14|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
+|15|65.49.14.6|3128|United States|Fremont|Hurricane Electric LLC|
+|16|64.62.219.199|3128|United States|San Jose|Hurricane Electric LLC|
+|17|141.11.123.197|63650|The Netherlands|Amsterdam|NForce Entertainment B.V.|
+|18|64.62.219.99|3128|United States|San Jose|Hurricane Electric LLC|
+|19|72.52.87.99|3128|United States|Fremont|Hurricane Electric LLC|
+|20|65.49.14.168|3128|United States|Fremont|Hurricane Electric LLC|
 
 
 
