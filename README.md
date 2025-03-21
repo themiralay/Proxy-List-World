@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|140.227.176.95|3128|Japan|Chiyoda|InfoSphere|
 |3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|5|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|209.145.58.104|3128|United States|St Louis|Nubes, LLC|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
-|12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|13|152.228.206.180|63650|France|Roubaix|OVH SAS|
-|14|45.252.181.4|63650|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
-|15|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|16|103.247.13.98|8080|Indonesia|Klaten|PT SELARAS CITRA TERABIT|
-|17|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|18|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|19|85.239.149.128|1080|Finland|Helsinki|Aeza International LTD|
-|20|122.54.95.25|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|13|49.0.87.62|8080|Thailand|Bangkok|AIS-Fibre|
+|14|152.228.206.180|63650|France|Roubaix|OVH SAS|
+|15|27.79.200.232|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|45.252.181.4|63650|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
+|17|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|18|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
+|19|103.123.64.234|3128|Indonesia|Jakarta|CEPATNET|
+|20|44.215.100.135|8118|United States|Ashburn|Amazon.com|
 
 
 
