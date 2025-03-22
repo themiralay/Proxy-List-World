@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.124.33|3128|Japan|Tokyo|InfoSphere|
-|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|4|101.99.13.76|3128|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
 |8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|129.146.177.165|8081|United States|Phoenix|Oracle Corporation|
+|9|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
 |10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|85.143.249.88|3128|Russia|St Petersburg|First Service Provider|
-|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|13|115.72.4.150|10001|Vietnam|Vũng Tàu|VIETELmetro|
-|14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|15|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|18|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|19|181.39.23.110|999|Ecuador|Guayaquil|Telconet S.A|
-|20|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|13|213.159.67.176|3128|Spain|Madrid|Stark Industries Solutions LTD|
+|14|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|15|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|16|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
+|17|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|20|115.72.4.150|10001|Vietnam|Vũng Tàu|VIETELmetro|
 
 
 
