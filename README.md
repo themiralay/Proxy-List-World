@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|3|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|2|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|3|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
+|4|12.204.44.57|8080|United States|Calhoun|AT&T Services, Inc.|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |6|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|201.186.41.108|999|Chile|Ancud|Telefonica del Sur S.A.|
-|9|45.191.7.249|8080|Argentina|Centenario|Estrella Jorge Alberto|
-|10|35.154.71.72|1080|India|Mumbai|Amazon Technologies Inc.|
-|11|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|12|85.143.249.88|3128|Russia|St Petersburg|First Service Provider|
-|13|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|7|201.186.41.108|999|Chile|Ancud|Telefonica del Sur S.A.|
+|8|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|45.87.68.8|15321|Germany|Frankfurt am Main|Cogent Communications|
+|11|103.82.37.21|8888|Vietnam|Ho Chi Minh City|Cloudfly Corporation|
+|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|13|89.36.65.133|3128|United Kingdom|Islington|Hyperoptic Ltd|
 |14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|15|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|16|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|17|1.33.111.12|8080|Japan|Roppongi|NTT PC Communications, Inc.|
-|18|38.123.220.11|999|Mexico|Ixtlahuaca de Rayón|Cogent Communications|
-|19|97.79.251.186|80|United States|Dallas|Spectrum|
-|20|37.114.192.104|3128|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|15|103.169.254.9|6080|Indonesia|Curahjati|PT Master Star Network|
+|16|115.79.70.69|8470|Vietnam|Đồng Nại|VIETELftth|
+|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|18|103.59.44.171|8080|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|19|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|20|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 
 
 
