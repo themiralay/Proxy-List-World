@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|2|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
+|3|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|4|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|45.252.181.4|63650|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
 |10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|13|129.146.177.165|8081|United States|Phoenix|Oracle Corporation|
-|14|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|15|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|115.245.46.173|8080|India|Visakhapatnam|Reliance Jio Infocomm Limited|
-|19|89.19.175.122|8019|Russia|Moscow|OJSC Comcor|
-|20|219.135.229.197|7890|China|Guangzhou|Chinanet|
+|13|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|15|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|16|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|17|61.164.204.130|4999|China|Hangzhou|Chinanet|
+|18|219.135.229.197|7890|China|Guangzhou|Chinanet|
+|19|103.233.152.18|8080|Indonesia|Jimbaran|BIZNET|
+|20|38.51.207.184|999|Venezuela|Maracaibo|Tecnoven Services CA|
 
 
 
