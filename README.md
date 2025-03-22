@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|5|129.146.177.165|8081|United States|Phoenix|Oracle Corporation|
-|6|5.250.180.187|3128|France|Courbevoie|IONOS SE|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|104.248.163.184|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|6|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|5.181.178.46|8080|Japan|Koto City|Lain.sh|
+|8|103.148.131.179|8080|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|9|103.28.16.36|8080|Indonesia|Jakarta|PT Centrix Media Teknologi|
+|10|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|12|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
 |13|195.224.198.222|3128|United Kingdom|Kensington|Daisy Corporate Services Trading Ltd|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|67.43.227.227|2625|Canada|Montreal|GloboTech Communications|
-|16|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|17|219.135.229.197|7890|China|Guangzhou|Chinanet|
-|18|27.189.133.190|8089|China|Langfang|Chinanet|
-|19|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|15|5.250.180.187|3128|France|Courbevoie|IONOS SE|
+|16|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
+|17|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|18|67.43.227.227|2625|Canada|Montreal|GloboTech Communications|
+|19|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
 |20|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
 
 
