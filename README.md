@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|27.79.200.232|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|79.133.180.198|33333|The Netherlands|Amsterdam|Hostkey B.V.|
+|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|7|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
 |8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|10|24.72.215.236|8246|United States|Schuyler|Vyve Broadband|
-|11|79.133.180.198|33333|The Netherlands|Amsterdam|Hostkey B.V.|
-|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|13|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
-|14|104.248.163.184|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|16|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|17|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|18|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|19|121.232.178.34|8089|China|Nanjing|Chinanet|
-|20|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|9|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
+|10|70.186.128.126|8080|United States|Oklahoma City|Cox Communications Inc.|
+|11|49.88.62.91|1080|China|Nanjing|Chinanet|
+|12|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|14|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
+|15|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|17|188.117.108.68|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
+|18|129.146.177.165|8081|United States|Phoenix|Oracle Corporation|
+|19|188.117.108.67|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
+|20|188.117.108.66|80|Saudi Arabia|Jubail|Sahara Net IP Class|
 
 
 
