@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |5|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|10|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|13|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
-|14|129.146.177.165|8080|United States|Phoenix|Oracle Corporation|
-|15|104.248.163.184|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|36.91.68.149|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|17|219.135.229.197|7890|China|Guangzhou|Chinanet|
-|18|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|19|72.10.160.170|8081|Canada|Montreal|GloboTech Communications|
-|20|49.84.175.83|8089|China|Nanjing|China Telecom|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|165.22.94.230|41820|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|48.210.24.180|3128|Japan|Tokyo|Microsoft Corporation|
+|12|200.56.120.198|999|Mexico|Hunucmá|Alestra, S. de R.L. de C.V.|
+|13|129.146.177.165|8081|United States|Phoenix|Oracle Corporation|
+|14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|15|37.114.192.104|3128|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|16|206.189.231.227|999|United States|North Bergen|DigitalOcean, LLC|
+|17|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|129.146.177.165|8081|United States|Phoenix|Oracle Corporation|
+|20|104.248.163.184|3128|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
