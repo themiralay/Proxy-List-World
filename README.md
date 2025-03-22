@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|3.10.93.50|80|United Kingdom|London|Amazon Technologies Inc.|
-|5|18.133.16.21|3128|United Kingdom|London|Amazon Technologies Inc.|
-|6|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|14|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|19|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|20|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
+|3|129.146.177.165|8080|United States|Phoenix|Oracle Corporation|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|13|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|14|212.33.205.55|3128|Iran|Tehran|Asiatech Data Transmission company|
+|15|114.229.213.216|8089|China|Nanjing|Chinanet|
+|16|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|17|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
+|18|195.224.198.222|3128|United Kingdom|Kensington|Daisy Corporate Services Trading Ltd|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|129.146.177.165|8080|United States|Phoenix|Oracle Corporation|
 
 
 
