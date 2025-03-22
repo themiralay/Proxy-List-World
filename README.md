@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|9|129.146.177.165|8081|United States|Phoenix|Oracle Corporation|
 |10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|104.248.163.184|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|13|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
-|14|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|15|121.232.181.174|8089|China|Nanjing|Chinanet|
-|16|67.43.227.227|2625|Canada|Montreal|GloboTech Communications|
-|17|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|18|103.213.218.79|12591|Vietnam|Haiphong|V9ERP|
-|19|121.227.118.128|8089|China|Nanjing|China Telecom|
-|20|49.70.172.224|8089|China|Nanjing|Chinanet|
+|11|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
+|12|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|13|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|14|67.43.227.227|2625|Canada|Montreal|GloboTech Communications|
+|15|119.8.175.159|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|16|49.70.172.224|8089|China|Nanjing|Chinanet|
+|17|129.146.177.165|8081|United States|Phoenix|Oracle Corporation|
+|18|188.117.108.67|80|Saudi Arabia|Jubail|Sahara Net IP Class|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|72.10.160.172|11639|Canada|Montreal|GloboTech Communications|
 
 
 
