@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.212.71.109|3128|Japan|Katsushika|SIMPLEIA|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|129.146.177.165|8081|United States|Phoenix|Oracle Corporation|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|54.212.22.168|80|United States|Portland|Amazon.com, Inc.|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|13|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
-|14|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|15|129.146.177.165|8081|United States|Phoenix|Oracle Corporation|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|18|95.158.15.161|8080|Ukraine|Irpin|LIMITED LIABILITY COMPANY "BEST SOLUTIONS"|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|202.212.71.109|3128|Japan|Katsushika|SIMPLEIA|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|8|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|12|212.33.205.55|3128|Iran|Tehran|Asiatech Data Transmission company|
+|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|17|103.112.144.46|9191|Indonesia|Muara Siau|PT Phinisi Media Indonesia|
+|18|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
 |19|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
 
 
 
