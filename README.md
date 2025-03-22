@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|27.79.200.232|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|104.248.163.184|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|13|45.225.89.145|999|Ecuador|Balzar|Vasquez Burgos Livington|
-|14|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
-|15|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|16|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|17|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|18|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
-|19|38.72.142.113|8080|United States|Tukwila|Cogent Communications|
-|20|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|4|27.79.200.232|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|79.100.2.191|3128|Bulgaria|Sofia|BTC-BROADBAND|
+|12|38.123.220.173|999|Mexico|Manzana Tercera de Santa Cruz Tepexpan|Cogent Communications|
+|13|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|14|195.224.198.222|3128|United Kingdom|Kensington|Daisy Corporate Services Trading Ltd|
+|15|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|16|104.248.163.184|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|18|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
+|19|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|20|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
 
 
 
