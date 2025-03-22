@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|27.79.200.232|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|129.146.177.165|8080|United States|Phoenix|Oracle Corporation|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|195.224.198.222|3128|United Kingdom|Kensington|Daisy Corporate Services Trading Ltd|
-|12|24.72.215.236|8246|United States|Schuyler|Vyve Broadband|
-|13|85.143.249.88|3128|Russia|St Petersburg|First Service Provider|
-|14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|15|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|16|45.252.183.236|5619|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
-|17|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
-|18|38.123.220.173|999|Mexico|Manzana Tercera de Santa Cruz Tepexpan|Cogent Communications|
-|19|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|20|45.87.68.9|15321|Germany|Frankfurt am Main|Cogent Communications|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|180.180.123.40|8080|Thailand|Rayong|TOT Public Company Limited|
+|14|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
+|15|38.123.220.173|999|Mexico|Manzana Tercera de Santa Cruz Tepexpan|Cogent Communications|
+|16|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|17|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|18|89.36.65.133|3128|United Kingdom|Islington|Hyperoptic Ltd|
+|19|103.152.93.157|8080|Indonesia|Gemiring|PT. JAYA LINTAS INDONESIA|
+|20|190.121.145.115|999|Colombia|Villavicencio|Media Commerce Partners S.A|
 
 
 
