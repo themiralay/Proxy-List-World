@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|129.146.177.165|8081|United States|Phoenix|Oracle Corporation|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
-|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|103.82.132.80|8080|India|Faridabad|Cloudfly Corporation|
-|13|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|14|54.212.22.168|1080|United States|Portland|Amazon.com, Inc.|
-|15|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|18|89.36.65.133|3128|United Kingdom|Islington|Hyperoptic Ltd|
-|19|219.135.229.165|7890|China|Guangzhou|Chinanet|
-|20|219.135.229.197|7890|China|Guangzhou|Chinanet|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
+|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|12|177.53.155.204|999|Peru|Lima|Moreno Yanoc Nemias Bernardo|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|219.135.229.165|7890|China|Guangzhou|Chinanet|
+|16|188.117.108.68|80|Saudi Arabia|Jubail|Sahara Net IP Class|
+|17|188.117.108.66|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
+|18|38.45.46.2|6332|Dominican Republic|Santo Domingo Este|FENIX NETWORKS, S.R.L.|
+|19|201.186.41.103|999|Chile|Ancud|Telefonica del Sur S.A.|
+|20|188.117.108.67|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
 
 
 
