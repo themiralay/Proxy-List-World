@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|3|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |6|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|195.224.198.222|3128|United Kingdom|Kensington|Daisy Corporate Services Trading Ltd|
-|12|45.252.181.4|63650|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
-|13|209.145.58.104|3128|United States|St Louis|Nubes, LLC|
+|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|12|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
+|13|44.215.100.135|8118|United States|Ashburn|Amazon.com|
 |14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|15|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
-|16|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|17|212.33.205.55|3128|Iran|Tehran|Asiatech Data Transmission company|
-|18|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
-|19|38.137.252.10|999|Mexico|Ajacuba|Javier Alejandro Olvera Granados|
-|20|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|15|85.143.249.88|3128|Russia|St Petersburg|First Service Provider|
+|16|38.137.252.10|999|Mexico|Ajacuba|Javier Alejandro Olvera Granados|
+|17|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|195.224.198.222|3128|United Kingdom|Kensington|Daisy Corporate Services Trading Ltd|
+|20|104.248.163.184|3128|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
