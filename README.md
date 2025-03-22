@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
+|5|101.99.13.76|3128|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
 |6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|129.146.177.165|8080|United States|Phoenix|Oracle Corporation|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|12|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
-|13|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|13|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
 |14|104.248.163.184|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|16|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|17|81.90.39.82|3128|Germany|Reutlingen|CMO Internet Dienstleistungen GmbH|
-|18|114.229.213.199|8089|China|Nanjing|Chinanet|
-|19|219.135.229.197|7890|China|Guangzhou|Chinanet|
+|15|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|190.211.4.139|999|Chile|Chillán|Telefonica del Sur S.A.|
+|18|38.43.150.76|999|Peru|Lima|Nextnet SAC|
+|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
 |20|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
 
 
