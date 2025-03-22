@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|103.155.199.104|8080|Indonesia|Bandung|PT Lintas Jaringan Nusantara|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|8|129.146.177.165|8080|United States|Phoenix|Oracle Corporation|
-|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|8|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |10|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|11|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
-|12|67.43.236.18|31353|Canada|Montreal|GloboTech Communications|
-|13|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|14|45.252.181.4|63650|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
-|15|72.10.160.91|24297|Canada|Montreal|GloboTech Communications|
-|16|27.189.130.71|8089|China|Langfang|Chinanet|
-|17|45.55.123.126|8080|United States|Clifton|DigitalOcean, LLC|
-|18|27.189.132.192|8089|China|Langfang|Chinanet|
-|19|27.189.130.187|8089|China|Langfang|Chinanet|
-|20|140.227.125.69|3128|Japan|Tokyo|InfoSphere|
+|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|12|139.162.163.203|8123|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
+|13|36.67.8.169|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|16|111.125.242.34|80|India|Mumbai|NIXI|
+|17|27.189.129.60|8089|China|Langfang|Chinanet|
+|18|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
+|19|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|20|188.117.108.66|80|Saudi Arabia|Jubail|Sahara Net IP Class|
 
 
 
