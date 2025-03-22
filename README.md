@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.125.69|3128|Japan|Tokyo|InfoSphere|
-|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|209.145.58.104|3128|United States|St Louis|Nubes, LLC|
-|8|129.146.177.165|8081|United States|Phoenix|Oracle Corporation|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|15|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|16|104.248.163.184|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|17|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|7|129.146.177.165|8080|United States|Phoenix|Oracle Corporation|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|42.113.148.184|10032|Vietnam|Hanoi|FPT Telecom Company|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|14|182.78.196.18|8080|India|Kolkata|Bharti Airtel|
+|15|209.145.58.104|3128|United States|St Louis|Nubes, LLC|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|181.119.94.16|999|Paraguay|Asunción|Ufinet Paraguay S.A|
 |18|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
-|19|101.99.13.76|3128|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
-|20|195.224.198.222|3128|United Kingdom|Kensington|Daisy Corporate Services Trading Ltd|
+|19|89.36.65.133|3128|United Kingdom|Islington|Hyperoptic Ltd|
+|20|103.171.255.59|8080|Indonesia|Sleman|ZKI|
 
 
 
