@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|20.27.86.185|8080|Japan|Osaka|Microsoft Corporation|
-|6|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|209.145.58.104|3128|United States|St Louis|Nubes, LLC|
-|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|15|160.19.18.209|8080|Indonesia|Ploso|PT Indo Telemedia Solusi|
+|3|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|23.122.184.9|8888|United States|Fort Lauderdale|AT&T Services, Inc.|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|5.181.178.46|8080|Japan|Koto City|Lain.sh|
+|11|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
+|12|160.19.18.209|8080|Indonesia|Ploso|PT Indo Telemedia Solusi|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|15|178.252.177.33|3128|Iran|Tehran|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
 |16|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|17|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|17|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
 |18|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|19|85.143.249.88|3128|Russia|St Petersburg|First Service Provider|
+|19|103.42.242.51|3125|Indonesia|Tangerang|PT. Jet Cyber Network Nusantara|
 |20|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
