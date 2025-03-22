@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
-|3|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|11|102.210.28.133|8080|Kenya|Nairobi|Vilcom Networks Limited|
-|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|13|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|14|161.49.94.215|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|61.91.202.210|8080|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
-|19|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|20|219.135.229.197|7890|China|Guangzhou|Chinanet|
+|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|45.252.181.4|63650|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
+|7|79.133.180.198|33333|The Netherlands|Amsterdam|Hostkey B.V.|
+|8|15.207.35.241|80|India|Mumbai|Amazon Technologies Inc.|
+|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|14|219.135.229.197|7890|China|Guangzhou|Chinanet|
+|15|188.117.108.67|443|Saudi Arabia|Jubail|Sahara Net IP Class|
+|16|181.209.122.75|999|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|17|188.117.108.66|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
+|18|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|19|103.180.123.107|8085|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|20|95.47.239.221|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
 
 
 
