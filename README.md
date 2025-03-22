@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|209.121.164.51|31147|Canada|Creston|TELUS Communications Inc.|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|6|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|9|48.210.24.180|3128|Japan|Tokyo|Microsoft Corporation|
-|10|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
-|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|12|41.32.39.118|3128|Egypt|Cairo|TE Data|
-|13|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
-|14|101.99.13.76|3128|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
-|15|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|17|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|13|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|14|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
+|15|190.189.249.108|3128|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|16|219.135.229.197|7890|China|Guangzhou|Chinanet|
+|17|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
 |18|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|19|113.160.133.32|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|20|103.126.119.246|8080|Indonesia|Tangerang|PT. Media Tekno Nusantara|
+|19|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|20|201.186.41.108|999|Chile|Ancud|Telefonica del Sur S.A.|
 
 
 
