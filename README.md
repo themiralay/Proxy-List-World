@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.227.124.33|3128|Japan|Tokyo|InfoSphere|
 |2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|115.72.169.143|10006|Vietnam|Vũng Tàu|VIETELmetro|
+|3|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|129.146.177.165|8080|United States|Phoenix|Oracle Corporation|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|10|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|11|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|12|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
-|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|14|202.152.24.50|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|15|219.135.229.197|7890|China|Guangzhou|Chinanet|
-|16|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|191.102.104.163|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|19|103.143.8.126|8089|India|Mumbai|Juweriyah Networks Private Limited|
-|20|103.233.152.18|8080|Indonesia|Jimbaran|BIZNET|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|14|160.19.18.143|8080|Indonesia|Ploso|PT Indo Telemedia Solusi|
+|15|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|18|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
+|19|129.146.177.165|8080|United States|Phoenix|Oracle Corporation|
+|20|81.90.39.82|3128|Germany|Reutlingen|CMO Internet Dienstleistungen GmbH|
 
 
 
