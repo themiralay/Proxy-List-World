@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
 |2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
 |8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|10|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
-|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|13|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
-|14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|35.176.148.8|3128|United Kingdom|London|Amazon Technologies Inc.|
+|11|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
+|12|129.146.177.165|8080|United States|Phoenix|Oracle Corporation|
+|13|129.146.177.165|8080|United States|Phoenix|Oracle Corporation|
+|14|85.143.249.88|3128|Russia|St Petersburg|First Service Provider|
 |15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|17|181.78.75.213|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|18|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|19|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|16|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|17|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|18|89.249.62.6|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|52.13.248.29|1080|United States|Portland|Amazon.com, Inc.|
 |20|195.224.198.222|3128|United Kingdom|Kensington|Daisy Corporate Services Trading Ltd|
 
 
