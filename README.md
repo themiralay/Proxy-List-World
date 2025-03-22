@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|129.146.177.165|8081|United States|Phoenix|Oracle Corporation|
 |4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|9|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|5|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
 |11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|12|195.224.198.222|3128|United Kingdom|Kensington|Daisy Corporate Services Trading Ltd|
-|13|219.135.229.197|7890|China|Guangzhou|Chinanet|
-|14|118.113.244.222|2324|China|Shanghai|Chinanet|
-|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|16|72.10.160.92|12607|Canada|Montreal|GloboTech Communications|
-|17|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|18|27.189.134.65|8089|China|Langfang|Chinanet|
-|19|121.224.156.173|8089|China|Nanjing|China Telecom|
-|20|114.219.102.49|8089|China|Nanjing|China Telecom|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|195.224.198.222|3128|United Kingdom|Kensington|Daisy Corporate Services Trading Ltd|
+|14|187.190.127.212|8081|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|15|118.113.244.222|2324|China|Shanghai|Chinanet|
+|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|17|219.135.229.197|7890|China|Guangzhou|Chinanet|
+|18|219.135.229.197|7890|China|Guangzhou|Chinanet|
+|19|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|20|188.117.108.66|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
 
 
 
