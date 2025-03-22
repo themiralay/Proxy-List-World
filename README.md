@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
-|9|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|11|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
-|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|16|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
-|17|104.248.163.184|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|195.224.198.222|3128|United Kingdom|Kensington|Daisy Corporate Services Trading Ltd|
-|19|209.121.164.50|31147|Canada|Creston|TELUS Communications Inc.|
-|20|219.135.229.197|7890|China|Guangzhou|Chinanet|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|119.8.175.159|3128|Singapore|Singapore|Huawei International Pte. LTD|
+|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|10|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|11|219.135.229.197|7890|China|Guangzhou|Chinanet|
+|12|188.117.108.66|80|Saudi Arabia|Jubail|Sahara Net IP Class|
+|13|188.117.108.68|80|Saudi Arabia|Jubail|Sahara Net IP Class|
+|14|81.30.196.146|8080|Russia|Ufa|JSC "Ufanet"|
+|15|138.59.20.220|9999|Brazil|Mariana|Companhia Itabirana Telecomunicações Ltda|
+|16|201.186.41.108|999|Chile|Ancud|Telefonica del Sur S.A.|
+|17|177.234.247.234|999|Ecuador|Guanujo|Ufinet Panama S.A.|
+|18|103.235.181.1|8080|Indonesia|Jakarta|PT Top Class Universal|
+|19|188.117.108.68|80|Saudi Arabia|Jubail|Sahara Net IP Class|
+|20|201.186.41.103|999|Chile|Ancud|Telefonica del Sur S.A.|
 
 
 
