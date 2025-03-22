@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|203.138.145.131|3128|Japan|Chiyoda|SIMPLEIA|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|13|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|14|209.145.58.104|3128|United States|St Louis|Nubes, LLC|
-|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|16|39.112.232.27|8080|South Korea|Gimcheon|SK Broadband Co Ltd|
-|17|79.133.180.198|33333|The Netherlands|Amsterdam|Hostkey B.V.|
-|18|219.135.229.197|7890|China|Guangzhou|Chinanet|
-|19|195.224.198.222|3128|United Kingdom|Kensington|Daisy Corporate Services Trading Ltd|
-|20|103.97.140.76|8080|Indonesia|Jakarta|PT Jembatan Data Pangrango|
+|1|203.138.145.131|3128|Japan|Chiyoda|SIMPLEIA|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|4|59.3.228.41|65001|South Korea|Nam-gu|Korea Telecom|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|122.52.109.3|8081|Philippines|Maasim|Philippine Long Distance Telephone Co.|
+|7|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|11|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|201.186.41.98|999|Chile|Ancud|Telefonica del Sur S.A.|
+|15|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
+|16|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|18|104.248.163.184|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|19|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|20|44.215.100.135|8118|United States|Ashburn|Amazon.com|
 
 
 
