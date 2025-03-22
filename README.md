@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.125.69|3128|Japan|Tokyo|InfoSphere|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|209.145.58.104|3128|United States|St Louis|Nubes, LLC|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|45.9.73.203|8080|Russia|Moscow|First Server Limited|
-|13|129.146.177.165|8080|United States|Phoenix|Oracle Corporation|
-|14|89.36.65.133|3128|United Kingdom|Islington|Hyperoptic Ltd|
+|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|3|129.146.177.165|8080|United States|Phoenix|Oracle Corporation|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|188.132.222.15|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|10|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|12|81.90.39.82|3128|Germany|Reutlingen|CMO Internet Dienstleistungen GmbH|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|189.156.201.180|999|Mexico|Orizaba|UNINET|
 |15|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
-|16|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|17|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
-|18|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|19|186.96.69.136|999|Venezuela|Caracas|Gold Data USA Inc|
-|20|27.189.132.102|8089|China|Langfang|Chinanet|
+|16|186.7.72.220|999|Dominican Republic|Puerto Plata|Compañía Dominicana de Teléfonos S. A.|
+|17|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
+|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
