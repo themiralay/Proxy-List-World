@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|59.3.228.41|65001|South Korea|Nam-gu|Korea Telecom|
+|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|27.79.200.232|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|6|113.192.31.87|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|45.252.183.236|5619|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
-|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|13|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|14|101.51.90.118|8080|Thailand|Bangkok|TOT Public Company Limited|
-|15|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|103.23.196.21|8080|Indonesia|Duri|PT Aneka Teguh Jaya|
+|16|44.215.100.135|8118|United States|Ashburn|Amazon.com|
 |17|79.133.180.198|33333|The Netherlands|Amsterdam|Hostkey B.V.|
-|18|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
-|19|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|19|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
+|20|45.231.208.49|3128|Brazil|Vitória de Santo Antão|Filhonet Telecomunicacoes Ltda - ME|
 
 
 
