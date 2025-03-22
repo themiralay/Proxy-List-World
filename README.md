@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|27.79.200.232|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|42.113.148.184|10005|Vietnam|Hanoi|FPT Telecom Company|
-|6|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|38.22.17.50|3128|United States|Atlanta|GTHost|
-|9|38.22.17.50|3128|United States|Atlanta|GTHost|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|201.186.41.108|999|Chile|Ancud|Telefonica del Sur S.A.|
-|12|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
-|13|45.87.68.8|15321|Germany|Frankfurt am Main|Cogent Communications|
-|14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|15|46.245.69.171|8080|Iran|Tehran|Asiatech Data Transmission company|
-|16|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|17|38.86.249.6|999|Venezuela|Santa Teresa del Tuy|Gold Data USA Inc|
+|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|1.33.111.12|8080|Japan|Roppongi|NTT PC Communications, Inc.|
+|4|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|201.186.41.108|999|Chile|Ancud|Telefonica del Sur S.A.|
+|7|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|8|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
+|9|103.94.250.151|8080|Indonesia|Kurintji|PT Centronet Data Indonesia|
+|10|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
+|11|37.114.192.104|3128|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|13|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|14|27.79.200.232|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|38.159.229.74|999|Ecuador|Vinces|Turbonet S.A.|
+|16|43.133.13.187|10809|Japan|Tokyo|Aceville Pte.ltd|
+|17|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
 |18|181.129.178.188|999|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
-|19|104.248.163.184|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|20|45.191.7.249|8080|Argentina|Centenario|Estrella Jorge Alberto|
+|19|195.224.198.222|3128|United Kingdom|Kensington|Daisy Corporate Services Trading Ltd|
+|20|36.136.27.2|4999|China|Guangzhou|China Mobile|
 
 
 
