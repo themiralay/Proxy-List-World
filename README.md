@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|4|129.146.177.165|8080|United States|Phoenix|Oracle Corporation|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|3|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
 |10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|12|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|13|38.172.130.216|999|Peru|Lima|Conex TV E.I.R.L.|
-|14|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|15|72.10.160.171|16531|Canada|Montreal|GloboTech Communications|
-|16|210.48.154.94|80|Malaysia|Kuala Lumpur|TM ONE DC|
-|17|27.189.135.206|8089|China|Langfang|Chinanet|
-|18|201.186.41.103|999|Chile|Ancud|Telefonica del Sur S.A.|
-|19|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|20|121.224.156.165|8089|China|Nanjing|China Telecom|
+|11|104.248.163.184|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
+|13|110.74.192.124|8181|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|14|201.186.41.103|999|Chile|Ancud|Telefonica del Sur S.A.|
+|15|188.117.108.68|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
+|16|188.117.108.66|80|Saudi Arabia|Jubail|Sahara Net IP Class|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|19|188.117.108.66|80|Saudi Arabia|Jubail|Sahara Net IP Class|
+|20|188.117.108.66|80|Saudi Arabia|Jubail|Sahara Net IP Class|
 
 
 
