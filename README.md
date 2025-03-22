@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4232** proxies at the latest update. Usable proxies are below.
+> Scraper found **4289** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|567|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|624|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|443|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.138.145.131|3128|Japan|Chiyoda|SIMPLEIA|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|203.138.145.131|3128|Japan|Chiyoda|SIMPLEIA|
 |3|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|4|59.3.228.41|65001|South Korea|Nam-gu|Korea Telecom|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|122.52.109.3|8081|Philippines|Maasim|Philippine Long Distance Telephone Co.|
-|7|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
-|11|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|14|201.186.41.98|999|Chile|Ancud|Telefonica del Sur S.A.|
-|15|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
-|16|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|18|104.248.163.184|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|19|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|20|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|27.79.200.232|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|12|95.158.15.161|8080|Ukraine|Irpin|LIMITED LIABILITY COMPANY "BEST SOLUTIONS"|
+|13|129.146.177.165|8080|United States|Phoenix|Oracle Corporation|
+|14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|15|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|18|195.224.198.222|3128|United Kingdom|Kensington|Daisy Corporate Services Trading Ltd|
+|19|79.133.180.198|33333|The Netherlands|Amsterdam|Hostkey B.V.|
+|20|219.135.229.197|7890|China|Guangzhou|Chinanet|
 
 
 
