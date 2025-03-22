@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4154** proxies at the latest update. Usable proxies are below.
+> Scraper found **4170** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|531|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|547|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|401|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
 |3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|152.228.206.180|63650|France|Roubaix|OVH SAS|
-|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|9|115.72.0.87|10001|Vietnam|Vũng Tàu|VIETELmetro|
-|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|11|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
-|12|38.65.172.81|999|Mexico|San José Iturbide|Guillermo Robles Ramirez|
-|13|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|14|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
-|15|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|16|103.247.23.177|8080|Indonesia|Baturaden|PT wifian Solution|
-|17|103.227.24.154|1111|Indonesia|Jakarta|PT Sumber Data Indonesia|
-|18|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
-|19|142.93.211.107|3128|India|Bengaluru|DigitalOcean, LLC|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|152.228.206.180|63650|France|Roubaix|OVH SAS|
+|9|103.125.174.85|8080|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|12|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|13|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
+|14|187.172.203.143|999|Mexico|Mazatlán|Uninet S.A. de C.V.|
+|15|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
+|16|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|17|118.113.244.222|2324|China|Shanghai|Chinanet|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|188.132.150.162|8080|Turkey|Istanbul|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
 |20|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 
 
