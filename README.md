@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|10|45.252.181.4|63650|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
-|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|12|202.145.3.242|8080|Indonesia|Jakarta|PT UniNET Media Sakti|
-|13|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
-|14|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|15|79.133.180.198|33333|The Netherlands|Amsterdam|Hostkey B.V.|
-|16|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|17|140.227.119.17|3128|Japan|Tokyo|InfoSphere|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|188.117.108.67|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
-|20|223.205.186.103|8080|Thailand|Hat Yai|Triple T Broadband Public Company Limited|
+|1|140.227.118.200|3128|Japan|Tokyo|InfoSphere|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|85.143.249.88|3128|Russia|St Petersburg|First Service Provider|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|13|183.88.231.188|34599|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|15|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|16|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
+|17|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|18|103.165.128.171|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|103.76.15.70|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
 
 
 
