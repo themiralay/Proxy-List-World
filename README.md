@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
+|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|129.146.177.165|8080|United States|Phoenix|Oracle Corporation|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|8|101.47.43.146|8080|Singapore|Singapore|Byteplus Pte. Ltd.|
-|9|152.228.206.180|63650|France|Roubaix|OVH SAS|
-|10|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|15|81.90.39.82|3128|Germany|Reutlingen|CMO Internet Dienstleistungen GmbH|
-|16|60.188.49.53|1999|China|Taizhou|Chinanet|
-|17|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|18|195.224.198.222|3128|United Kingdom|Kensington|Daisy Corporate Services Trading Ltd|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|5|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|6|38.199.30.173|999|Colombia|Santiago de Cali|Conexion Comercializacion De Servicios De Telecomunicaciones Empalmeria Y Constr|
+|7|129.146.177.165|8081|United States|Phoenix|Oracle Corporation|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|177.93.49.203|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|10|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|11|89.36.65.133|3128|United Kingdom|Islington|Hyperoptic Ltd|
+|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|13|45.228.234.153|999|Guatemala|Guatemala City|Infinitum S.A.|
+|14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|15|140.227.124.33|3128|Japan|Tokyo|InfoSphere|
+|16|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|17|223.205.176.53|8080|Thailand|Hat Yai|Triple T Broadband Public Company Limited|
+|18|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
 |19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|20|114.229.213.216|8089|China|Nanjing|Chinanet|
+|20|188.117.108.67|443|Saudi Arabia|Jubail|Sahara Net IP Class|
 
 
 
