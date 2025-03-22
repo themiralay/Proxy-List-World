@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|8|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|10|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|11|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|12|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|13|121.224.156.176|8089|China|Nanjing|China Telecom|
-|14|121.224.156.184|8089|China|Nanjing|China Telecom|
-|15|104.248.163.184|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|121.224.156.174|8089|China|Nanjing|China Telecom|
-|17|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|18|27.189.129.211|8089|China|Langfang|Chinanet|
-|19|27.189.135.188|8089|China|Langfang|Chinanet|
-|20|67.43.227.226|5991|Canada|Montreal|GloboTech Communications|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|4|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|152.228.206.180|63650|France|Roubaix|OVH SAS|
+|10|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|11|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|13|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|17|118.113.247.163|2324|China|Shanghai|Chinanet|
+|18|195.224.198.222|3128|United Kingdom|Kensington|Daisy Corporate Services Trading Ltd|
+|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|20|208.87.243.199|7878|United States|Walnut|Psychz Networks|
 
 
 
