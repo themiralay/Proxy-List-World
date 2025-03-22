@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,24 +39,24 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|129.146.177.165|8081|United States|Phoenix|Oracle Corporation|
-|5|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|85.143.249.88|3128|Russia|St Petersburg|First Service Provider|
-|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|1|140.227.124.33|3128|Japan|Tokyo|InfoSphere|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|4|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|103.132.41.243|8090|Indonesia|Wonosobo|KALIMASADAINTISARANA|
+|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|14|129.146.177.165|8081|United States|Phoenix|Oracle Corporation|
-|15|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|201.150.119.170|999|Mexico|Mineral de la Reforma|Hulux Telecomunicaciones|
+|13|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|14|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|15|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
 |16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|18|115.72.1.37|10001|Vietnam|Vũng Tàu|VIETELmetro|
 |19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |20|219.135.229.197|7890|China|Guangzhou|Chinanet|
 
