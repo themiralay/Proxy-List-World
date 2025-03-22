@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|129.146.177.165|8081|United States|Phoenix|Oracle Corporation|
-|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|188.117.108.68|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
-|8|188.117.108.66|443|Saudi Arabia|Jubail|Sahara Net IP Class|
+|3|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|6|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
+|7|89.36.65.133|3128|United Kingdom|Islington|Hyperoptic Ltd|
+|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
 |9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|10|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
-|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|12|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|13|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|10|188.117.108.66|443|Saudi Arabia|Jubail|Sahara Net IP Class|
+|11|188.117.108.68|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
+|12|103.155.198.50|3127|Indonesia|Bandung|PT Lintas Jaringan Nusantara|
+|13|119.8.175.159|3128|Singapore|Singapore|Huawei International Pte. LTD|
 |14|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
 |15|219.135.229.197|7890|China|Guangzhou|Chinanet|
-|16|129.146.177.165|8081|United States|Phoenix|Oracle Corporation|
-|17|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
-|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|19|188.117.108.67|443|Saudi Arabia|Jubail|Sahara Net IP Class|
-|20|49.70.172.211|8089|China|Nanjing|Chinanet|
+|16|101.108.26.94|8080|Thailand|Nakhon Pathom|TOT Public Company Limited|
+|17|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|18|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
+|20|67.43.236.20|30267|Canada|Montreal|GloboTech Communications|
 
 
 
