@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|7|129.146.177.165|8080|United States|Phoenix|Oracle Corporation|
-|8|209.145.58.104|3128|United States|St Louis|Nubes, LLC|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
 |10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|13|195.224.198.222|3128|United Kingdom|Kensington|Daisy Corporate Services Trading Ltd|
-|14|115.79.70.69|8470|Vietnam|Đồng Nại|VIETELftth|
-|15|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|16|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|17|219.135.229.197|7890|China|Guangzhou|Chinanet|
-|18|219.135.229.165|7890|China|Guangzhou|Chinanet|
-|19|195.224.198.222|3128|United Kingdom|Kensington|Daisy Corporate Services Trading Ltd|
-|20|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|11|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|175.138.75.137|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|14|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|15|219.135.229.197|7890|China|Guangzhou|Chinanet|
+|16|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|17|181.129.183.19|53281|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
+|18|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|19|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|20|201.186.41.103|999|Chile|Ancud|Telefonica del Sur S.A.|
 
 
 
