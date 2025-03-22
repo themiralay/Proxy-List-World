@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |6|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|7|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|85.143.249.88|3128|Russia|St Petersburg|First Service Provider|
-|10|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|81.90.39.82|3128|Germany|Reutlingen|CMO Internet Dienstleistungen GmbH|
+|9|212.33.205.55|3128|Iran|Tehran|Asiatech Data Transmission company|
+|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
 |11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|12|65.1.244.232|3128|India|Mumbai|Amazon.com|
-|13|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|14|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|15|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|16|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|17|140.227.124.33|3128|Japan|Tokyo|InfoSphere|
-|18|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|188.117.108.67|80|Saudi Arabia|Jubail|Sahara Net IP Class|
-|20|122.52.213.79|62102|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|13|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|14|103.175.225.29|9090|Indonesia|Jakarta|MYREPUBLIC|
+|15|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|16|95.47.239.221|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
+|17|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
+|18|45.55.123.126|8080|United States|Clifton|DigitalOcean, LLC|
+|19|195.224.198.222|3128|United Kingdom|Kensington|Daisy Corporate Services Trading Ltd|
+|20|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
 
 
 
