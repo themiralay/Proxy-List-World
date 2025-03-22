@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|3|113.23.155.110|1231|Malaysia|Putrajaya|Extreme Broadband|
+|2|27.79.200.232|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|92.255.196.39|8080|Russia|Kazan'|JSC "ER-Telecom Holding"|
-|9|45.235.200.32|4000|Brazil|Santa Barbara|VIA ONDAS TELECOMUNICACOES LTDA|
-|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|12|103.23.196.21|8080|Indonesia|Duri|PT Aneka Teguh Jaya|
-|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|14|104.248.163.184|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|13|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
+|14|79.133.180.198|33333|The Netherlands|Amsterdam|Hostkey B.V.|
+|15|219.135.229.197|7890|China|Guangzhou|Chinanet|
 |16|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
 |17|202.212.71.109|3128|Japan|Katsushika|SIMPLEIA|
-|18|49.84.134.52|8089|China|Nanjing|China Telecom|
-|19|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|20|114.231.74.55|1080|China|Nanjing|Chinanet|
+|18|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|19|188.117.108.68|80|Saudi Arabia|Jubail|Sahara Net IP Class|
+|20|213.239.221.24|8888|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
