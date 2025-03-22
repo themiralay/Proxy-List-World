@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|2|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|3|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|212.33.205.55|3128|Iran|Tehran|Asiatech Data Transmission company|
-|6|129.146.177.165|8081|United States|Phoenix|Oracle Corporation|
-|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|8|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|10|219.135.229.197|7890|China|Guangzhou|Chinanet|
-|11|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|12|188.117.108.66|443|Saudi Arabia|Jubail|Sahara Net IP Class|
-|13|49.70.190.155|2324|China|Nanjing|Chinanet|
-|14|72.10.160.173|11941|Canada|Montreal|GloboTech Communications|
-|15|118.113.246.196|2324|China|Shanghai|Chinanet|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|129.146.177.165|8081|United States|Phoenix|Oracle Corporation|
+|4|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|129.146.177.165|8081|United States|Phoenix|Oracle Corporation|
+|6|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|7|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
+|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|9|18.134.236.231|3128|United Kingdom|London|Amazon Technologies Inc.|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|12|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|13|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
+|14|3.10.93.50|80|United Kingdom|London|Amazon Technologies Inc.|
+|15|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
 |16|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|17|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|18|188.117.108.68|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
-|19|54.248.79.99|3128|Japan|Tokyo|Amazon.com, Inc.|
-|20|27.189.131.18|8089|China|Langfang|Chinanet|
+|17|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|18|219.135.229.197|7890|China|Guangzhou|Chinanet|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
 
 
 
