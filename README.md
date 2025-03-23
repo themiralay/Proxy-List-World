@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|43.167.165.210|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|6|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|43.153.17.69|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|43.167.165.210|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|43.153.17.69|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|49.0.87.62|8088|Thailand|Bangkok|AIS-Fibre|
 |9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|34.58.105.225|3128|United States|Council Bluffs|Google LLC|
-|12|103.99.27.146|8181|Indonesia|Tangerang|PT Lintas Network Solusi|
-|13|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
-|14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|15|203.114.66.85|59876|Philippines|Pasay|W Network Inc.|
+|10|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|11|115.127.5.146|8674|Bangladesh|Dhaka|bracNet|
+|12|51.195.40.233|28003|Germany|Limburg an der Lahn|OVH SAS|
+|13|43.153.17.69|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|14|34.58.105.225|3128|United States|Council Bluffs|Google LLC|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |16|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|17|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
-|18|157.15.0.160|7777|Indonesia|Ngawi|Gopalnet|
-|19|41.139.237.126|8080|Kenya|Nairobi|Converged services Coast|
-|20|61.238.69.52|8080|Hong Kong|Tseung Kwan O|Hong Kong Broadband Network Ltd|
+|17|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|18|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|19|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|20|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
 
 
 
