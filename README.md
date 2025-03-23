@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.167.165.210|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|43.153.17.69|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 |5|43.153.17.69|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|6|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|10|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|11|189.240.60.162|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|12|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|13|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|14|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|15|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|16|86.111.247.57|9003|Poland|Gdansk|IQ PL Sp. z o.o.|
-|17|103.39.70.248|8181|Indonesia|Sambas|PT Gateway media Zafira|
-|18|45.252.183.240|5619|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|8|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|9|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|10|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|11|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|189.240.60.162|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|14|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|48.210.29.193|3128|Japan|Tokyo|Microsoft Corporation|
+|17|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
 |19|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|20|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|20|45.252.183.240|5619|The Netherlands|Amsterdam|Turunc Smart Bilgisayar Teknoloji Ve Dis Ticaret Limited Sirketi|
 
 
 
