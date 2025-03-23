@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|43.153.17.69|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|6|43.153.17.69|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|51.195.40.233|28003|Germany|Limburg an der Lahn|OVH SAS|
-|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|103.13.193.247|8080|Bangladesh|Savar Upazila|P.O-Jamirta|
-|14|34.58.105.225|3128|United States|Council Bluffs|Google LLC|
-|15|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|16|104.248.163.184|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|17|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|18|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|19|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
-|20|200.110.209.16|9080|Argentina|Quilmes|CSCOM|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|43.153.17.69|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|4|129.146.177.165|8080|United States|Phoenix|Oracle Corporation|
+|5|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|6|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|7|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|8|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|9|189.240.60.162|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|10|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|11|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|12|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|15|43.153.17.69|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|16|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|34.58.105.225|3128|United States|Council Bluffs|Google LLC|
+|18|116.109.213.252|80|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|19|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
