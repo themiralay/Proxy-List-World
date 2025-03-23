@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|129.146.177.165|8081|United States|Phoenix|Oracle Corporation|
-|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|12|201.186.41.103|999|Chile|Ancud|Telefonica del Sur S.A.|
-|13|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|15|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
-|16|45.225.120.36|40033|Brazil|Aracaju|Centrosulnet Informatica Eireli|
-|17|104.248.163.184|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|47.236.8.166|18080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|219.135.229.197|7890|China|Guangzhou|Chinanet|
-|20|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|8|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|9|201.186.41.103|999|Chile|Ancud|Telefonica del Sur S.A.|
+|10|89.36.65.133|3128|United Kingdom|Islington|Hyperoptic Ltd|
+|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|89.249.62.8|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|16|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|17|129.146.177.165|8081|United States|Phoenix|Oracle Corporation|
+|18|103.126.119.246|8080|Indonesia|Tangerang|PT. Media Tekno Nusantara|
+|19|104.248.163.184|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|20|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
 
 
 
