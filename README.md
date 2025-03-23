@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|43.167.165.210|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
 |2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|115.72.167.24|10006|Vietnam|Vũng Tàu|VIETELmetro|
-|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|34.58.105.225|3128|United States|Council Bluffs|Google LLC|
-|13|34.58.105.225|3128|United States|Council Bluffs|Google LLC|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|43.153.17.69|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|16|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|18|43.167.165.210|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|19|207.231.110.181|3128|United States|Jamestown|HostRush|
-|20|103.190.171.41|8081|Indonesia|Jakarta|WMS|
+|4|34.58.105.225|3128|United States|Council Bluffs|Google LLC|
+|5|129.146.177.165|8081|United States|Phoenix|Oracle Corporation|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|10|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|11|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|12|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|13|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|14|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|15|157.66.251.226|8080|Indonesia|Pasararba|PT Haykal Solutions Technology|
+|16|69.75.140.157|8080|United States|La Mirada|Spectrum|
+|17|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|18|198.23.189.151|8118|United States|Buffalo|Electro Nebula LLC|
+|19|38.86.249.14|999|Venezuela|Santa Teresa del Tuy|Gold Data USA Inc|
+|20|44.215.100.135|8118|United States|Ashburn|Amazon.com|
 
 
 
