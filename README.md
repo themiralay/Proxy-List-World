@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.167.165.210|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|4|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
 |6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|43.153.17.69|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|9|51.195.40.233|28003|Germany|Limburg an der Lahn|OVH SAS|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|13|34.58.105.225|3128|United States|Council Bluffs|Google LLC|
-|14|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|16|34.58.105.225|3128|United States|Council Bluffs|Google LLC|
-|17|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|18|103.171.255.60|8080|Indonesia|Sleman|ZKI|
-|19|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|20|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|7|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|34.58.105.225|3128|United States|Council Bluffs|Google LLC|
+|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|11|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|13|49.254.59.64|21414|South Korea|Anyang-si|HAIonNet|
+|14|34.58.105.225|3128|United States|Council Bluffs|Google LLC|
+|15|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|16|208.67.28.27|58090|United States|Eagle River|SonicNet Inc.|
+|17|43.153.17.69|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|18|190.60.48.102|999|Colombia|Bogotá|IFX NETWORKS COLOMBIA|
+|19|129.146.177.165|8081|United States|Phoenix|Oracle Corporation|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
