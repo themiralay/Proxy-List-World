@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|103.131.19.170|8083|Indonesia|Pasarkemis|PT Global Media Data Prima|
+|2|182.253.109.187|8080|Indonesia|Semarang|Biznet Metronet|
 |3|54.91.116.44|80|United States|Ashburn|Amazon.com, Inc.|
-|4|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|54.91.116.44|80|United States|Ashburn|Amazon.com, Inc.|
-|6|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
-|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|9|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|10|45.87.68.18|15321|Germany|Frankfurt am Main|Cogent Communications|
+|4|34.58.105.225|3128|United States|Council Bluffs|Google LLC|
+|5|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|54.91.116.44|80|United States|Ashburn|Amazon.com, Inc.|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|9|189.240.60.162|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|10|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
 |11|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|12|78.46.212.196|1364|Germany|Falkenstein|Hetzner Online GmbH|
-|13|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|14|27.189.129.71|8089|China|Langfang|Chinanet|
-|15|67.43.236.18|25927|Canada|Montreal|GloboTech Communications|
-|16|103.82.246.43|6080|Indonesia|Kedungrejo|PT Master Star Network|
-|17|72.10.160.172|18159|Canada|Montreal|GloboTech Communications|
-|18|67.43.227.226|19311|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|19537|Canada|Montreal|GloboTech Communications|
-|20|103.248.222.0|90|Pakistan|Rawalpindi|ALPINES INTERNET (PRIVATE) LIMITED|
+|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|13|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|14|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|15|103.131.19.170|8083|Indonesia|Pasarkemis|PT Global Media Data Prima|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|18|5.250.183.76|3128|France|Paris|IONOS SE|
+|19|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|20|201.186.41.103|999|Chile|Ancud|Telefonica del Sur S.A.|
 
 
 
