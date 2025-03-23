@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.17.69|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|129.146.177.165|8080|United States|Phoenix|Oracle Corporation|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|51.195.40.233|28003|Germany|Limburg an der Lahn|OVH SAS|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|10|52.13.248.29|3128|United States|Portland|Amazon.com, Inc.|
-|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|13|43.167.165.210|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|14|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|15|5.161.121.186|8118|United States|Ashburn|Hetzner Online GmbH|
-|16|34.126.183.70|8080|Singapore|Singapore|Google LLC|
-|17|34.58.105.225|3128|United States|Council Bluffs|Google LLC|
-|18|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|19|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|20|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|7|45.70.201.186|999|Ecuador|Yantzaza|Ufinet Panama S.A.|
+|8|212.33.205.55|3128|Iran|Tehran|Asiatech Data Transmission company|
+|9|51.195.40.233|28003|Germany|Limburg an der Lahn|OVH SAS|
+|10|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|13|91.227.239.2|8080|Austria|Lassnitzhöhe|XINON-STATIC|
+|14|103.184.56.122|8080|Indonesia|Sukapura|PT Gading Bhakti Utama|
+|15|219.135.229.197|7890|China|Guangzhou|Chinanet|
+|16|202.40.185.247|100|Bangladesh|Dhaka|Ranks ITT|
+|17|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|18|46.161.194.134|3128|Iraq|Baghdad|Valin Company for General Trading and Communication LTD|
+|19|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|20|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
 
 
 
