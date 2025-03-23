@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
-|4|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|5|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|6|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|7|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|4|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|5|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|6|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|7|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
 |8|189.240.60.162|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|9|171.238.70.43|1014|Vietnam|Ninh Bình|Viettel Corporation|
+|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |12|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|13|186.31.140.213|999|Colombia|Bogotá|ETB - Colombia|
-|14|186.31.140.217|999|Colombia|Bogotá|ETB - Colombia|
-|15|186.31.140.218|999|Colombia|Bogotá|ETB - Colombia|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|3.10.93.50|80|United Kingdom|London|Amazon Technologies Inc.|
-|18|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
+|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|14|186.31.140.218|999|Colombia|Bogotá|ETB - Colombia|
+|15|186.31.140.217|999|Colombia|Bogotá|ETB - Colombia|
+|16|186.31.140.213|999|Colombia|Bogotá|ETB - Colombia|
+|17|51.195.40.233|28003|Germany|Limburg an der Lahn|OVH SAS|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |19|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|20|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|20|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
 
 
 
