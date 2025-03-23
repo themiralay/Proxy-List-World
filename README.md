@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4063** proxies at the latest update. Usable proxies are below.
+> Scraper found **4135** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|586|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|561|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|255|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|352|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|43.167.165.210|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|34.58.105.225|3128|United States|Council Bluffs|Google LLC|
-|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|11|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|13|49.254.59.64|21414|South Korea|Anyang-si|HAIonNet|
-|14|34.58.105.225|3128|United States|Council Bluffs|Google LLC|
-|15|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|16|208.67.28.27|58090|United States|Eagle River|SonicNet Inc.|
-|17|43.153.17.69|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|18|190.60.48.102|999|Colombia|Bogotá|IFX NETWORKS COLOMBIA|
-|19|129.146.177.165|8081|United States|Phoenix|Oracle Corporation|
-|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|10|51.195.40.233|28003|Germany|Limburg an der Lahn|OVH SAS|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|13|34.58.105.225|3128|United States|Council Bluffs|Google LLC|
+|14|200.61.16.80|8080|Argentina|Bahía Blanca|Silica Networks Argentina S.A|
+|15|34.58.105.225|3128|United States|Council Bluffs|Google LLC|
+|16|103.171.255.60|8080|Indonesia|Sleman|ZKI|
+|17|212.33.205.55|3128|Iran|Tehran|Asiatech Data Transmission company|
+|18|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|19|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|20|189.240.60.162|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
 
 
 
