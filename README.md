@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.167.165.210|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|43.153.17.69|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|6|129.146.177.165|8081|United States|Phoenix|Oracle Corporation|
-|7|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|10|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|48.210.29.193|3128|Japan|Tokyo|Microsoft Corporation|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|34.58.105.225|3128|United States|Council Bluffs|Google LLC|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|34.58.105.225|3128|United States|Council Bluffs|Google LLC|
+|10|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
 |11|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|12|189.240.60.162|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|12|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
 |13|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|14|171.238.70.43|1014|Vietnam|Ninh Bình|Viettel Corporation|
-|15|129.146.177.165|8081|United States|Phoenix|Oracle Corporation|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|189.240.60.162|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|17|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
 |18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|48.210.29.193|3128|Japan|Tokyo|Microsoft Corporation|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|49.254.59.64|21414|South Korea|Anyang-si|HAIonNet|
+|20|44.215.100.135|8118|United States|Ashburn|Amazon.com|
 
 
 
