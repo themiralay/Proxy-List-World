@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.167.165.210|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |3|182.253.109.187|8080|Indonesia|Semarang|Biznet Metronet|
-|4|103.131.19.170|8083|Indonesia|Pasarkemis|PT Global Media Data Prima|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |5|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|9|173.212.193.214|3136|France|Lauterbourg|Contabo GmbH|
-|10|45.163.72.29|8080|Brazil|Jaraguá do Sul|GNET TELECOM SERVIÇOS COMUNICAÇÃO LTDA|
-|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|12|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|13|34.58.105.225|3128|United States|Council Bluffs|Google LLC|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|16|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|17|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|18|45.180.62.238|8080|Argentina|Moreno|Fe-net Redes Inhalambricas S.R.L|
-|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|20|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|9|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|10|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|11|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|12|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|13|189.240.60.162|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|14|45.22.209.157|8888|United States|Miami|AT&T Services, Inc.|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|5.250.183.76|3128|France|Paris|IONOS SE|
+|17|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|18|115.72.160.162|10001|Vietnam|Vũng Tàu|VIETELmetro|
+|19|188.117.108.66|80|Saudi Arabia|Jubail|Sahara Net IP Class|
+|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
