@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|186.31.140.216|999|Colombia|Bogotá|ETB - Colombia|
-|7|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|186.31.140.216|999|Colombia|Bogotá|ETB - Colombia|
+|6|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
+|7|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|9|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|129.146.177.165|8080|United States|Phoenix|Oracle Corporation|
-|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|13|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|14|219.135.229.197|7890|China|Guangzhou|Chinanet|
-|15|188.117.108.67|443|Saudi Arabia|Jubail|Sahara Net IP Class|
-|16|104.248.163.184|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|17|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|188.117.108.66|80|Saudi Arabia|Jubail|Sahara Net IP Class|
-|19|114.231.74.16|8089|China|Nanjing|Chinanet|
-|20|49.0.87.62|8080|Thailand|Bangkok|AIS-Fibre|
+|9|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|129.146.177.165|8080|United States|Phoenix|Oracle Corporation|
+|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|14|114.9.26.122|8080|Indonesia|Pagatan|PT. INDOSAT Tbk|
+|15|49.88.62.91|1080|China|Nanjing|Chinanet|
+|16|114.224.221.6|8089|China|Wuxi|Chinanet|
+|17|188.117.108.67|443|Saudi Arabia|Jubail|Sahara Net IP Class|
+|18|188.117.108.68|3128|Saudi Arabia|Jubail|Sahara Net IP Class|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|188.117.108.66|80|Saudi Arabia|Jubail|Sahara Net IP Class|
 
 
 
