@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.167.165.210|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|5|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|6|43.153.17.69|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|3|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|4|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|129.146.177.165|8080|United States|Phoenix|Oracle Corporation|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|9|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|10|189.240.60.162|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|11|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|12|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|13|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|18|34.58.105.225|3128|United States|Council Bluffs|Google LLC|
-|19|43.153.17.69|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|20|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|129.146.177.165|8080|United States|Phoenix|Oracle Corporation|
+|10|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|11|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|12|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|13|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|14|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|15|189.240.60.162|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|16|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|17|85.143.249.88|3128|Russia|St Petersburg|First Service Provider|
+|18|43.153.17.69|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
 
 
 
