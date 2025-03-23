@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4107** proxies at the latest update. Usable proxies are below.
+> Scraper found **4147** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|563|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|603|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|322|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
 |3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|4|171.238.70.43|1014|Vietnam|Ninh Bình|Viettel Corporation|
 |5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|38.250.127.81|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|9|201.186.41.103|999|Chile|Ancud|Telefonica del Sur S.A.|
-|10|89.36.65.133|3128|United Kingdom|Islington|Hyperoptic Ltd|
+|8|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|14|89.249.62.8|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|16|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|17|129.146.177.165|8081|United States|Phoenix|Oracle Corporation|
-|18|103.126.119.246|8080|Indonesia|Tangerang|PT. Media Tekno Nusantara|
-|19|104.248.163.184|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|20|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|16|118.113.244.155|2324|China|Shanghai|Chinanet|
+|17|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
 
 
 
