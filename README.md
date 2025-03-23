@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|3|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
 |4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|6|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
-|7|186.31.140.215|999|Colombia|Bogotá|ETB - Colombia|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
-|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|13|85.143.249.88|3128|Russia|St Petersburg|First Service Provider|
-|14|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|15|182.253.178.185|3128|Indonesia|Bogor|BIZNET|
-|16|223.206.62.218|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|17|49.254.59.64|21414|South Korea|Anyang-si|HAIonNet|
-|18|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
-|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|20|103.167.170.199|1111|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|186.31.140.215|999|Colombia|Bogotá|ETB - Colombia|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
+|10|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|11|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|12|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|13|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|14|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|15|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|16|129.146.177.165|8082|United States|Phoenix|Oracle Corporation|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|19|49.254.213.17|29377|South Korea|Anyang-si|HAIonNet|
+|20|44.215.100.135|8118|United States|Ashburn|Amazon.com|
 
 
 
