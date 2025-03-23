@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
 |2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
 |4|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|7|189.240.60.162|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|8|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|9|129.146.177.165|8081|United States|Phoenix|Oracle Corporation|
-|10|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|12|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|13|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|14|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|15|186.31.140.215|999|Colombia|Bogotá|ETB - Colombia|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|18.135.211.182|1080|United Kingdom|London|Amazon Technologies Inc.|
-|20|54.212.22.168|3128|United States|Portland|Amazon.com, Inc.|
+|5|189.240.60.162|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|6|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|7|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|129.146.177.165|8081|United States|Phoenix|Oracle Corporation|
+|11|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|13|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|16|129.146.177.165|8081|United States|Phoenix|Oracle Corporation|
+|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|182.253.178.185|3128|Indonesia|Bogor|BIZNET|
+|19|89.36.65.133|3128|United Kingdom|Islington|Hyperoptic Ltd|
+|20|217.15.166.95|80|Singapore|Singapore|Contabo Asia Private Limited|
 
 
 
