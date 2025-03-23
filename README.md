@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|43.153.17.69|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|9|34.58.105.225|3128|United States|Council Bluffs|Google LLC|
-|10|34.58.105.225|3128|United States|Council Bluffs|Google LLC|
-|11|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|12|44.215.100.135|8118|United States|Ashburn|Amazon.com|
-|13|49.254.59.64|21414|South Korea|Anyang-si|HAIonNet|
-|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|15|163.47.39.126|8080|Bangladesh|Paltan|Bangladesh Research and Education Network (BdREN)|
-|16|49.48.42.82|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|17|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|18|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|19|43.153.17.69|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|20|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|8|52.26.114.229|1080|United States|Portland|Amazon.com, Inc.|
+|9|27.79.203.133|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|11|44.215.100.135|8118|United States|Ashburn|Amazon.com|
+|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|13|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|14|189.240.60.162|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|15|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|16|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|17|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|18|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|19|18.141.48.117|443|Singapore|Singapore|Amazon.com, Inc.|
+|20|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
 
 
 
