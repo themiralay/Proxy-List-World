@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.167.168.76|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.167.168.122|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|1|43.167.168.182|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.167.166.79|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
 |3|43.167.171.33|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.167.166.79|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.167.169.38|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
 |5|43.167.166.215|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|6|43.167.165.5|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|7|43.167.169.38|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|8|43.167.165.229|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|9|43.167.171.151|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|10|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|11|43.167.172.63|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|12|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|13|43.153.20.75|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|14|43.153.22.64|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|15|43.153.17.202|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|16|43.153.19.228|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|17|43.153.23.197|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|18|34.58.105.225|3128|United States|Council Bluffs|Google LLC|
-|19|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|20|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|6|43.167.170.25|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|7|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|8|43.167.169.141|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|9|43.153.22.65|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|10|43.153.19.228|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|11|43.153.17.202|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|12|43.153.23.64|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|13|43.153.17.69|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|14|43.167.166.3|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|15|43.153.22.65|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|16|43.153.17.202|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|17|43.153.19.19|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|18|43.153.22.64|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|19|34.126.183.70|8080|Singapore|Singapore|Google LLC|
+|20|43.153.23.197|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
