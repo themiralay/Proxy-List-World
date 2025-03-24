@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.167.168.203|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.167.209.252|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.167.172.162|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.167.164.147|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|5|43.167.165.229|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|6|43.167.184.189|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|7|43.167.194.66|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|8|43.167.166.79|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|9|43.167.197.30|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.167.252.232|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.153.131.93|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.167.185.232|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.167.175.184|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|6|43.167.174.89|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|7|43.167.164.59|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|43.167.209.252|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
 |10|43.167.168.17|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|43.167.175.28|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|13|43.153.45.136|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|14|43.167.176.198|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|15|43.167.217.232|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|16|43.167.216.139|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|17|43.167.197.126|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|18|43.167.163.216|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|19|43.153.57.46|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|20|43.153.88.188|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|11|43.167.165.103|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|12|43.153.85.209|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|13|43.167.166.60|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|14|43.153.89.234|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|15|43.153.69.163|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|16|43.167.165.72|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|17|43.153.80.136|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|18|43.153.114.83|13001|United States|Santa Clara|Aceville Pte.ltd|
+|19|43.153.99.15|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|20|43.153.15.212|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
