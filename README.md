@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|468|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|468|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|468|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|375|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|375|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|375|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|164.70.69.21|3128|Japan|Chiyoda|InfoSphere|
 |2|164.70.69.116|3128|Japan|Chiyoda|InfoSphere|
-|3|140.227.118.121|3128|Japan|Tokyo|InfoSphere|
-|4|164.70.69.67|3128|Japan|Chiyoda|InfoSphere|
-|5|140.227.118.126|3128|Japan|Tokyo|InfoSphere|
-|6|203.138.197.75|3128|Japan|Tokyo|NTT PC Communications, Inc.|
-|7|43.135.134.152|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|8|47.238.225.138|9000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|43.153.112.28|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|10|170.106.74.95|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|3|77.83.241.93|55555|Singapore|Singapore|SpeedyPage Ltd|
+|4|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
+|5|140.227.118.121|3128|Japan|Tokyo|InfoSphere|
+|6|43.135.149.15|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|43.135.177.23|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|8|43.135.162.60|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|9|164.70.69.67|3128|Japan|Chiyoda|InfoSphere|
+|10|43.153.102.53|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 |11|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|12|43.153.112.164|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|13|43.153.26.163|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|14|43.135.130.124|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|15|13.228.125.72|8888|Singapore|Singapore|Amazon Technologies Inc.|
-|16|170.106.184.19|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|17|43.135.166.98|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|18|43.153.42.39|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|19|170.106.170.175|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|20|43.135.172.243|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|12|43.130.48.100|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|13|43.135.148.218|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|15|170.106.153.126|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|16|49.51.250.227|13001|United States|Santa Clara|OPHL|
+|17|43.153.112.28|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|18|43.153.105.141|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|19|43.130.40.28|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|20|43.153.7.172|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
