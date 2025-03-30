@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|705|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|705|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|705|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|522|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|522|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|522|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.118.144|3128|Japan|Tokyo|InfoSphere|
-|2|140.227.118.125|3128|Japan|Tokyo|InfoSphere|
-|3|164.70.119.48|3128|Japan|Chiyoda|InfoSphere|
-|4|203.138.190.216|3128|Japan|Tokyo|SIMPLEIA|
+|2|164.70.119.48|3128|Japan|Chiyoda|InfoSphere|
+|3|140.227.118.125|3128|Japan|Tokyo|InfoSphere|
+|4|18.163.90.139|8001|Hong Kong|Hong Kong|Amazon Technologies Inc.|
 |5|49.51.75.54|13001|United States|Santa Clara|OPHL|
-|6|43.153.43.169|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|7|49.51.193.30|13001|United States|Santa Clara|OPHL|
-|8|49.51.49.138|13001|United States|Los Angeles|OPHL|
-|9|43.130.37.196|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|10|43.135.129.111|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|11|170.106.184.19|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|12|170.106.106.138|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|13|43.153.78.185|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|14|170.106.64.187|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|15|43.153.4.199|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|16|43.130.16.131|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|17|49.51.201.67|13001|United States|Santa Clara|OPHL|
-|18|170.106.82.224|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|19|49.51.179.85|13001|United States|Los Angeles|OPHL|
-|20|170.106.100.130|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|6|43.153.78.185|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|77.83.241.93|55555|Singapore|Singapore|SpeedyPage Ltd|
+|8|43.130.16.92|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|9|203.138.190.216|3128|Japan|Tokyo|SIMPLEIA|
+|10|49.51.201.67|13001|United States|Santa Clara|OPHL|
+|11|49.51.184.182|13001|United States|Los Angeles|OPHL|
+|12|170.106.184.19|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|13|49.51.250.227|13001|United States|Santa Clara|OPHL|
+|14|43.159.132.190|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|15|49.51.245.200|13001|United States|Santa Clara|OPHL|
+|16|170.106.183.91|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|17|43.159.149.150|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|18|170.106.64.187|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|19|49.51.202.75|13001|United States|Santa Clara|OPHL|
+|20|43.135.160.237|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
