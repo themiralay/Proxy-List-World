@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4723** proxies at the latest update. Usable proxies are below.
+> Scraper found **4804** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|705|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|705|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|705|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|809|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|809|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|809|
 
 ## Sources
 
@@ -28,10 +28,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|298|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|872|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|299|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|947|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|631|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|636|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|18.163.90.139|8001|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|2|184.168.124.233|5402|Japan|Chiyoda|GoDaddy.com, LLC|
-|3|43.153.16.223|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.130.42.164|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|5|43.153.99.175|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|6|116.103.42.151|5103|Vietnam|Huế|Viettel Corporation|
-|7|49.51.179.85|13001|United States|Los Angeles|OPHL|
+|1|43.135.130.124|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|2|170.106.82.224|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|3|43.130.39.127|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|4|117.2.209.116|5103|Vietnam|Huế|Viettel Corporation|
+|5|116.103.42.151|5103|Vietnam|Huế|Viettel Corporation|
+|6|43.153.98.125|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|43.135.137.152|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 |8|116.105.23.20|10001|Vietnam|Da Nang|Viettel Corporation|
-|9|43.130.17.73|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|10|171.248.201.211|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|11|27.79.216.16|5101|Vietnam|Hanoi|Viettel Corporation|
-|12|115.74.107.20|1001|Vietnam|Ho Chi Minh City|VIETELxdsl|
-|13|115.77.143.19|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|14|27.79.214.65|5101|Vietnam|Hanoi|Viettel Corporation|
-|15|115.74.7.238|10001|Vietnam|Bà Rịa–Vũng Tàu Province|VIETELxdsl|
-|16|171.232.99.232|5110|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|17|117.5.16.39|5101|Vietnam|Vĩnh Phúc|VIETTEL|
-|18|117.2.209.116|5103|Vietnam|Huế|Viettel Corporation|
-|19|171.231.126.74|5101|Vietnam|An Nhơn|Viettel Corporation|
-|20|116.106.164.238|5101|Vietnam|Hanoi|Viettel Corporation|
+|9|171.237.71.168|5103|Vietnam|Bắc Giang|Viettel Corporation|
+|10|117.5.16.39|5101|Vietnam|Vĩnh Phúc|VIETTEL|
+|11|171.228.171.36|5101|Vietnam|Hanoi|Viettel Corporation|
+|12|43.130.17.73|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|13|27.79.216.16|5101|Vietnam|Hanoi|Viettel Corporation|
+|14|49.51.193.30|13001|United States|Santa Clara|OPHL|
+|15|171.231.129.98|5101|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|16|171.228.112.151|5101|Vietnam|Vĩnh Yên|Viettel Corporation|
+|17|43.135.136.84|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|18|115.77.143.19|10007|Vietnam|Ho Chi Minh City|Viettel Group|
+|19|170.106.137.158|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|20|43.153.27.33|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
