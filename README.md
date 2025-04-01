@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4391** proxies at the latest update. Usable proxies are below.
+> Scraper found **4430** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|658|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|697|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|511|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.88.171|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.153.99.175|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|3|170.106.74.95|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|4|170.106.184.19|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|5|170.106.194.126|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|6|49.51.202.75|13001|United States|Santa Clara|OPHL|
-|7|43.153.23.198|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|8|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|9|170.106.170.175|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|10|170.106.115.219|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|11|43.153.35.252|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|12|49.51.41.61|13001|United States|Los Angeles|OPHL|
-|13|43.135.129.111|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|14|43.153.28.45|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|15|43.135.179.180|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|16|43.130.17.84|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|17|49.51.73.74|13001|United States|Santa Clara|OPHL|
-|18|170.106.141.154|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|19|170.106.74.95|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|20|43.135.130.124|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|1|18.163.90.139|8001|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|2|43.153.79.9|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|3|170.106.106.9|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|4|43.153.91.13|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.135.178.216|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|6|170.106.193.214|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|7|43.153.99.175|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|8|13.228.125.72|8888|Singapore|Singapore|Amazon Technologies Inc.|
+|9|170.106.115.219|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|10|43.153.27.172|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|11|43.130.17.84|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|12|170.106.140.86|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|13|43.135.130.124|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|14|43.153.23.198|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|15|43.153.28.45|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|16|43.130.29.139|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|17|43.153.112.164|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|18|43.130.32.94|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|19|43.153.94.60|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|20|43.135.160.237|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
