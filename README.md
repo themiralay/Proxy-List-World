@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.98.125|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.153.85.114|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|3|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|4|18.163.90.139|8001|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|5|43.130.11.212|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|1|43.153.23.64|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.130.47.163|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|3|49.51.49.138|13001|United States|Los Angeles|OPHL|
+|4|49.51.250.227|13001|United States|Santa Clara|OPHL|
+|5|49.51.73.74|13001|United States|Santa Clara|OPHL|
 |6|43.153.28.45|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|7|43.130.32.94|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|8|43.159.149.62|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|9|170.106.140.86|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|10|170.106.100.130|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|11|49.51.228.176|13001|United States|Santa Clara|OPHL|
-|12|43.153.103.42|13001|United States|Santa Clara|Aceville Pte.ltd|
-|13|43.130.0.130|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|14|43.153.98.107|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|15|43.135.161.247|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|16|43.153.43.169|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|17|43.153.21.33|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|18|43.153.46.52|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|19|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|20|4.145.89.88|8080|Singapore|Singapore|Microsoft Corporation|
+|7|49.51.38.113|13001|United States|Los Angeles|OPHL|
+|8|43.152.72.7|13001|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|9|49.51.75.240|13001|United States|Santa Clara|OPHL|
+|10|43.130.48.100|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|11|170.106.198.54|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|12|43.153.78.185|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|13|170.106.181.190|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|14|43.130.11.212|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|15|49.51.203.51|13001|United States|Santa Clara|OPHL|
+|16|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|17|49.51.33.115|13001|United States|Los Angeles|OPHL|
+|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|43.135.164.4|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|20|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
 
 
 
