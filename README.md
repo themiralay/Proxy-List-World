@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|438|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|438|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|438|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|356|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|356|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|356|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|66.42.33.171|31280|Japan|Ebara|The Constant Company, LLC|
-|2|170.106.183.233|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|3|159.65.130.253|31280|Singapore|Singapore|DigitalOcean, LLC|
-|4|152.42.205.165|31280|Singapore|Singapore|DigitalOcean, LLC|
-|5|43.135.142.6|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|6|157.245.145.228|31280|Singapore|Singapore|DigitalOcean, LLC|
-|7|146.190.97.22|31280|Singapore|Singapore|DigitalOcean, LLC|
-|8|146.190.92.201|60000|Singapore|Singapore|DigitalOcean, LLC|
-|9|43.135.129.244|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|10|143.198.68.54|8090|United States|Santa Clara|DigitalOcean, LLC|
-|11|159.223.41.13|60000|Singapore|Singapore|DigitalOcean, LLC|
+|2|146.190.97.22|31280|Singapore|Singapore|DigitalOcean, LLC|
+|3|152.42.180.112|31280|Singapore|Singapore|DigitalOcean, LLC|
+|4|157.245.145.228|31280|Singapore|Singapore|DigitalOcean, LLC|
+|5|146.190.82.29|31280|Singapore|Singapore|DigitalOcean, LLC|
+|6|146.190.92.117|3129|Singapore|Singapore|DigitalOcean, LLC|
+|7|157.245.150.54|31280|Singapore|Singapore|DigitalOcean, LLC|
+|8|159.65.130.253|31280|Singapore|Singapore|DigitalOcean, LLC|
+|9|178.128.63.71|60000|Singapore|Singapore|DigitalOcean, LLC|
+|10|159.223.35.52|60000|Singapore|Singapore|DigitalOcean, LLC|
+|11|157.245.204.90|60000|Singapore|Singapore|DigitalOcean, LLC|
 |12|170.106.199.99|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|13|206.189.80.174|60000|Singapore|Singapore|DigitalOcean, LLC|
-|14|159.223.35.52|60000|Singapore|Singapore|DigitalOcean, LLC|
-|15|206.189.148.120|60000|Singapore|Singapore|DigitalOcean, LLC|
-|16|157.230.245.27|60000|Singapore|Singapore|DigitalOcean, LLC|
-|17|167.172.67.204|31280|Singapore|Singapore|DigitalOcean, LLC|
-|18|146.190.93.24|60000|Singapore|Singapore|DigitalOcean, LLC|
-|19|123.26.24.116|1111|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|20|167.172.94.244|31280|Singapore|Singapore|DigitalOcean, LLC|
+|13|123.26.24.116|1111|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|14|116.107.137.155|5102|Vietnam|Bắc Giang|Viettel Corporation|
+|15|157.230.44.154|60000|Singapore|Singapore|DigitalOcean, LLC|
+|16|157.230.41.145|60000|Singapore|Singapore|DigitalOcean, LLC|
+|17|167.172.94.244|31280|Singapore|Singapore|DigitalOcean, LLC|
+|18|27.65.57.13|8083|Vietnam|Ho Chi Minh City|Viettel Group|
+|19|146.190.92.201|60000|Singapore|Singapore|DigitalOcean, LLC|
+|20|43.153.4.199|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
