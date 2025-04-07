@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4259** proxies at the latest update. Usable proxies are below.
+> Scraper found **4268** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|43|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|772|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|781|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|522|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.227.81.191|3128|Japan|Tokyo|InfoSphere|
-|2|43.135.139.25|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|3|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|4|43.153.88.171|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|5|43.159.134.4|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|6|43.130.14.101|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|7|43.153.32.127|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|170.106.170.3|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|10|43.153.109.164|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|11|170.106.150.81|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|12|43.153.23.242|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|13|170.106.104.64|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|14|43.153.98.70|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|15|170.106.192.56|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|16|43.153.22.138|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|17|43.153.14.194|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|18|15.235.10.43|28003|Canada|Montreal|OVH SAS|
-|19|43.135.145.242|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|20|15.235.9.224|28003|Canada|Beauharnois|OVH SAS|
+|1|164.70.72.25|3128|Japan|Chiyoda|InfoSphere|
+|2|43.135.177.135|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|3|170.106.198.41|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|4|43.153.113.33|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.159.141.118|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|6|43.130.15.214|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|43.159.152.105|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|8|43.159.152.237|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|9|140.227.81.191|3128|Japan|Tokyo|InfoSphere|
+|10|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|11|43.135.132.101|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|12|43.159.133.199|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|13|43.153.62.242|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|14|43.130.33.54|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|15|43.153.101.244|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|16|43.130.9.63|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|17|43.153.109.164|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|18|43.159.134.4|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|19|43.153.32.127|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|20|43.159.139.163|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
