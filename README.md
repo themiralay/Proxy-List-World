@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.69.67|3128|Japan|Chiyoda|InfoSphere|
-|2|140.227.118.120|3128|Japan|Tokyo|InfoSphere|
-|3|164.70.69.116|3128|Japan|Chiyoda|InfoSphere|
-|4|164.70.117.190|3128|Japan|Chiyoda|InfoSphere|
-|5|164.70.117.198|3128|Japan|Chiyoda|InfoSphere|
-|6|164.70.117.235|3128|Japan|Chiyoda|InfoSphere|
-|7|164.70.117.194|3128|Japan|Chiyoda|InfoSphere|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|43.153.27.33|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|10|43.153.76.64|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|11|43.130.15.85|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|12|43.153.39.191|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|13|170.106.81.199|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|14|43.135.164.4|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|15|170.106.150.81|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|16|43.153.45.4|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|17|43.130.15.214|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|18|43.130.33.54|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|19|43.153.102.53|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|20|49.51.73.96|13001|United States|Santa Clara|OPHL|
+|1|140.227.118.120|3128|Japan|Tokyo|InfoSphere|
+|2|164.70.69.67|3128|Japan|Chiyoda|InfoSphere|
+|3|43.153.75.63|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.153.27.33|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.130.2.77|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|6|43.130.28.65|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|170.106.150.81|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|8|43.153.69.199|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|9|43.130.62.137|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|10|170.106.104.171|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|11|164.70.117.190|3128|Japan|Chiyoda|InfoSphere|
+|12|164.70.69.116|3128|Japan|Chiyoda|InfoSphere|
+|13|164.70.117.198|3128|Japan|Chiyoda|InfoSphere|
+|14|43.130.35.14|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|15|164.70.117.235|3128|Japan|Chiyoda|InfoSphere|
+|16|43.153.103.42|13001|United States|Santa Clara|Aceville Pte.ltd|
+|17|43.135.138.66|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|18|43.135.176.22|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|19|43.153.34.75|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|20|43.130.12.5|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
