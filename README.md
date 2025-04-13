@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.152.72.76|13001|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|2|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|3|43.135.174.65|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.153.113.33|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|5|43.153.14.194|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|6|43.153.107.10|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|7|43.135.144.61|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|8|43.153.44.254|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|9|170.106.150.81|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|10|43.159.142.191|13001|United States|Santa Clara|Aceville Pte.ltd|
-|11|170.106.135.2|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|12|43.153.121.25|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|13|43.135.145.242|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|14|170.106.81.199|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|15|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|16|43.159.139.120|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|17|43.153.78.139|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|18|49.51.197.183|13001|United States|Santa Clara|OPHL|
-|19|43.153.18.46|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|20|43.153.32.127|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|1|54.64.242.110|3128|Japan|Tokyo|Amazon.com, Inc.|
+|2|125.204.198.23|3128|Japan|Osaka|NTT Communications Corporation|
+|3|43.153.33.238|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|4|49.51.206.38|13001|United States|Santa Clara|OPHL|
+|5|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|6|20.78.236.220|3128|Japan|Tokyo|Microsoft Corporation|
+|7|20.89.180.232|3128|Japan|Tokyo|Microsoft Corporation|
+|8|43.153.91.13|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|9|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|10|47.236.190.227|3128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|43.153.113.33|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|12|52.74.227.50|3128|Singapore|Singapore|Amazon.com, Inc.|
+|13|43.135.129.244|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|14|47.130.10.91|3128|Singapore|Singapore|Amazon Technologies Inc|
+|15|43.135.166.98|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|16|47.88.58.34|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|17|38.49.38.177|3128|United States|Los Angeles|Cogent Communications|
+|18|103.127.133.109|3128|Indonesia|Bogor|PT Biznet Gio Nusantara|
+|19|49.51.195.196|13001|United States|Santa Clara|OPHL|
+|20|170.106.150.81|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
 
 
 
