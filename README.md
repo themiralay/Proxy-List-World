@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|49.51.242.247|13001|United States|Santa Clara|OPHL|
-|2|43.153.48.134|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|3|170.106.136.15|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|4|170.106.153.115|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|5|49.51.207.125|13001|United States|Santa Clara|OPHL|
-|6|43.153.78.139|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|7|43.153.100.212|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|8|43.153.98.125|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|9|43.153.36.97|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|10|43.153.113.33|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|11|43.159.142.191|13001|United States|Santa Clara|Aceville Pte.ltd|
-|12|43.153.98.107|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|1|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|2|43.130.15.85|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|3|49.51.232.22|13001|United States|Santa Clara|OPHL|
+|4|43.135.137.249|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.153.107.246|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|6|43.153.16.91|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|43.135.137.249|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|43.152.72.76|13001|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|11|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|12|43.135.139.98|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 |13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|14|170.106.196.226|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|15|43.153.39.191|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|16|43.135.162.60|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|17|43.153.7.172|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|18|170.106.151.90|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|19|43.130.59.122|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|20|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|14|171.245.15.83|10009|Vietnam|Haiphong|Viettel Corporation|
+|15|150.136.247.129|1080|United States|Ashburn|Oracle Corporation|
+|16|43.153.32.146|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|17|43.159.136.219|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|18|43.135.168.60|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|43.153.48.134|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
