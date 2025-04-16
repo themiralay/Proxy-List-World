@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.216.195.194|3128|Japan|Tokyo|Microsoft Corporation|
-|2|170.106.136.15|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|3|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|4|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|5|43.159.133.199|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|6|170.106.84.125|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|43.159.133.199|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|9|170.106.84.125|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|40.118.234.99|3128|United States|San Francisco|Microsoft Corporation|
-|12|43.152.72.76|13001|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|13|43.153.16.91|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|40.118.234.99|3128|United States|San Francisco|Microsoft Corporation|
-|17|185.233.117.193|3128|Ukraine|Kyiv|Hosting Ukraine LTD|
-|18|43.153.101.244|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|19|43.130.62.137|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|20|125.163.139.177|8080|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|4|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|5|43.153.21.33|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|6|43.135.165.192|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|43.135.158.192|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|8|43.153.98.70|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|9|172.167.161.8|8080|United Kingdom|City of London|Microsoft|
+|10|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
+|11|74.82.60.199|3128|United States|Fremont|Hurricane Electric LLC|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|14|65.49.2.99|3128|United States|Cheyenne|Hurricane Electric LLC|
+|15|65.49.68.99|3128|United States|Santaquin|Hurricane Electric LLC|
+|16|185.233.117.193|3128|Ukraine|Kyiv|Hosting Ukraine LTD|
+|17|65.49.2.99|3128|United States|Cheyenne|Hurricane Electric LLC|
+|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|65.49.14.6|3128|United States|Fremont|Hurricane Electric LLC|
+|20|49.51.49.70|13001|United States|Los Angeles|OPHL|
 
 
 
