@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.101.244|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|2|170.106.197.21|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|43.153.27.33|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|34.143.143.61|7777|Singapore|Singapore|Google LLC|
 |4|43.135.129.37|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 |5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|43.130.12.39|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|8|43.135.139.25|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|9|170.106.197.21|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|10|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|11|43.153.45.4|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|12|43.153.69.199|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|13|43.135.158.86|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|16|37.220.139.219|8080|Hungary|Budapest|ACE Telecom Kft|
-|17|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|18|43.135.153.235|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|19|170.106.104.171|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|20|51.195.118.225|28003|Germany|Limburg an der Lahn|OVH SAS|
+|6|43.130.12.65|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|43.130.58.145|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|9|43.135.186.62|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|37.220.139.219|8080|Hungary|Budapest|ACE Telecom Kft|
+|12|49.51.232.22|13001|United States|Santa Clara|OPHL|
+|13|43.135.166.82|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|14|43.130.28.65|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|15|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|16|172.167.161.8|8080|United Kingdom|City of London|Microsoft|
+|17|139.178.90.204|443|United States|San Jose|Packet Host, Inc.|
+|18|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|19|45.129.141.143|3128|Slovakia|Bratislava|eServer s.r.o.|
+|20|90.52.80.102|8888|France|Espeluche|Orange|
 
 
 
