@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.153.62.242|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|2|170.106.113.58|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|113.175.44.30|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|103.213.218.224|28503|Vietnam|Haiphong|V9ERP|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|43.153.107.10|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|9|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|10|43.135.153.235|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|11|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|12|43.130.56.110|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|13|113.172.154.115|10010|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|14|72.10.160.170|4979|Canada|Montreal|GloboTech Communications|
-|15|43.159.132.166|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|16|43.153.44.254|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|17|43.153.16.91|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|18|13.115.132.240|8888|Japan|Tokyo|Amazon Technologies Inc|
-|19|72.10.160.174|33007|Canada|Montreal|GloboTech Communications|
-|20|118.112.194.232|2324|China|Chengdu|Chinanet|
+|1|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|2|43.153.8.65|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|3|113.175.44.30|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|103.126.87.155|8080|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|170.106.168.100|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|7|43.130.62.137|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|8|51.195.117.127|28003|Germany|Limburg an der Lahn|OVH SAS|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|72.10.160.170|4979|Canada|Montreal|GloboTech Communications|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|170.106.114.25|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|15|43.153.44.254|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|16|43.135.153.235|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|17|43.153.99.175|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|18|64.23.204.154|8888|United States|Santa Clara|DigitalOcean, LLC|
+|19|43.153.16.91|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|20|72.10.160.90|14387|Canada|Montreal|GloboTech Communications|
 
 
 
