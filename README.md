@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|106.251.66.243|51562|South Korea|Gwanak-gu|LG DACOM Corporation|
-|2|18.167.229.38|8080|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|1|18.167.229.38|8080|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|2|106.251.66.243|51562|South Korea|Gwanak-gu|LG DACOM Corporation|
 |3|43.153.62.242|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.130.33.54|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|5|170.106.196.226|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|43.130.56.110|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|8|43.153.62.242|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|9|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|4|49.51.232.22|13001|United States|Santa Clara|OPHL|
+|5|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|6|203.154.91.225|4857|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|170.106.116.169|17981|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|9|170.106.197.21|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
 |10|49.51.188.4|13001|United States|Los Angeles|OPHL|
-|11|49.51.229.252|13001|United States|Santa Clara|OPHL|
-|12|170.106.116.169|17981|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|13|43.135.186.62|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|16|170.106.84.6|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|17|43.135.147.75|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|18|43.135.158.86|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|19|170.106.181.112|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|20|43.135.136.212|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|11|5.75.156.208|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|203.196.13.2|108|Hong Kong|Hong Kong|China Telecom Global|
+|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|15|170.106.181.112|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|16|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|17|43.153.69.25|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|19|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
+|20|43.130.28.33|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
