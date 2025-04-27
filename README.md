@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.249.147.68|5104|Vietnam|Haiphong|VNPT|
-|2|43.130.16.61|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|3|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|43.130.15.85|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|7|43.130.16.61|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|8|43.159.145.108|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|9|43.135.165.192|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|10|43.135.132.101|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|12|43.130.15.85|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|13|195.90.200.68|4857|Germany|Berlin|EVANZO e-commerce GmbH|
-|14|43.153.107.10|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|35.154.71.72|1080|India|Mumbai|Amazon Technologies Inc.|
-|17|123.20.18.41|1024|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|18|116.105.78.226|10054|Vietnam|Da Nang|Viettel Corporation|
-|19|43.130.56.110|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|1|116.105.78.226|10054|Vietnam|Da Nang|Viettel Corporation|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|43.153.105.141|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|4|170.106.83.149|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|5|43.135.165.192|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|6|178.57.75.54|8080|Russia|Moscow|Dataline Ltd|
+|7|170.106.84.125|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|8|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|9|195.90.200.68|4857|Germany|Berlin|EVANZO e-commerce GmbH|
+|10|5.75.156.208|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|11|43.153.91.13|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|12|89.163.210.170|4857|Germany|Düsseldorf|WIIT AG|
+|13|14.249.147.68|5104|Vietnam|Haiphong|VNPT|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|16|43.159.133.199|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|17|49.51.229.252|13001|United States|Santa Clara|OPHL|
+|18|43.153.92.210|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|19|35.154.71.72|1080|India|Mumbai|Amazon Technologies Inc.|
 |20|116.105.78.226|10054|Vietnam|Da Nang|Viettel Corporation|
 
 
