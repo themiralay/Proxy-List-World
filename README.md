@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.227.81.191|3128|Japan|Chiyoda|InfoSphere|
 |2|18.167.229.38|8080|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|3|43.130.28.33|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.130.56.110|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|5|43.153.98.125|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|6|170.106.104.64|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|7|43.135.147.75|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|8|170.106.116.169|17981|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|9|43.135.147.227|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|10|49.51.188.4|13001|United States|Los Angeles|OPHL|
-|11|123.18.235.42|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|12|49.51.232.92|13001|United States|Santa Clara|OPHL|
-|13|170.106.196.226|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|14|43.130.33.54|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|15|49.51.73.96|13001|United States|Santa Clara|OPHL|
-|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|43.130.28.33|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|19|43.153.69.25|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|20|49.51.206.38|13001|United States|Santa Clara|OPHL|
+|3|112.198.130.41|8082|Philippines|Nasugbu|Globe Telecom|
+|4|43.135.147.140|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.130.56.110|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|6|43.130.28.33|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|170.106.104.171|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|8|170.106.195.109|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|9|43.130.15.85|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|10|123.18.235.42|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|11|49.51.206.38|13001|United States|Santa Clara|OPHL|
+|12|103.151.227.218|8080|Indonesia|Bandung|URBANACCESS|
+|13|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|14|43.135.145.242|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|15|49.51.188.4|13001|United States|Los Angeles|OPHL|
+|16|43.153.98.125|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|17|170.106.116.169|17981|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|18|49.51.206.38|13001|United States|Santa Clara|OPHL|
+|19|43.153.107.10|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|20|43.130.28.33|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
