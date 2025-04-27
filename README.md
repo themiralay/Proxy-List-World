@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|49.51.191.97|13001|United States|Los Angeles|OPHL|
-|2|43.135.147.75|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.153.107.246|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.130.56.110|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|5|103.191.240.27|4857|Bangladesh|Gazipur|Wolast Technologies|
-|6|43.135.137.249|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|7|43.159.141.118|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|8|43.159.141.118|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|9|43.135.165.192|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|10|49.51.73.95|13001|United States|Santa Clara|OPHL|
-|11|43.130.44.212|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|12|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|14|49.51.49.70|13001|United States|Los Angeles|OPHL|
-|15|178.57.75.54|8080|Russia|Moscow|Dataline Ltd|
-|16|43.159.130.134|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|17|43.153.113.65|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|18|5.75.156.208|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|18.167.229.38|8080|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|2|43.153.76.64|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|3|49.51.73.95|13001|United States|Santa Clara|OPHL|
+|4|49.51.198.19|13001|United States|Santa Clara|OPHL|
+|5|43.130.28.33|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|6|43.153.4.125|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|43.135.147.75|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|8|36.93.73.154|8080|Indonesia|South Tangerang|Telekomunikasi Indonesia|
+|9|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|10|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|11|43.153.27.172|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|12|43.153.88.167|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|104.223.103.222|3428|United States|Los Angeles|QuadraNet Enterprises LLC|
+|15|43.130.28.33|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|16|89.163.210.170|4857|Germany|Düsseldorf|WIIT AG|
+|17|3.10.93.50|3128|United Kingdom|London|Amazon Technologies Inc.|
+|18|191.242.177.78|3128|Brazil|Taperoá|Conect Telecom|
+|19|43.159.141.118|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|20|18.167.229.38|8080|Hong Kong|Hong Kong|Amazon Technologies Inc.|
 
 
 
