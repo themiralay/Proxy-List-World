@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|2|43.130.62.137|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|1|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|2|34.102.48.89|8080|United States|Los Angeles|Google LLC|
 |3|14.229.229.218|8080|Vietnam|Hanoi|VNPT|
-|4|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|5|43.153.45.4|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|171.239.235.175|10001|Vietnam|Quận Một|Viettel Corporation|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|158.69.118.135|38080|Canada|Montreal|OVH SAS|
-|10|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|57.128.37.47|3128|France|Gravelines|OVH SAS|
-|14|13.61.103.109|3128|Sweden|Stockholm|Amazon.com, Inc.|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|140.227.81.191|3128|Japan|Chiyoda|InfoSphere|
-|17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|18|3.111.212.176|3128|India|Mumbai|Amazon Technologies Inc.|
-|19|43.135.186.62|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|20|43.153.21.13|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|182.253.109.132|8080|Indonesia|Semarang|Biznet Metronet|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|170.106.173.107|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|43.153.88.167|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|12|207.244.226.48|4857|United States|St Louis|Nubes, LLC|
+|13|154.201.72.251|3128|United States|Los Angeles|FD-298-8796|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|190.213.190.131|8080|Trinidad and Tobago|Chaguanas|Columbus Communications Trinidad Limited.|
+|17|43.159.141.118|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|18|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|19|140.227.81.191|3128|Japan|Chiyoda|InfoSphere|
+|20|13.61.103.109|3128|Sweden|Stockholm|Amazon.com, Inc.|
 
 
 
