@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|34.143.143.61|7777|Singapore|Singapore|Google LLC|
 |4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|185.233.118.31|8080|Ukraine|Kyiv|Hosting Ukraine LTD|
-|10|57.128.37.47|3128|France|Gravelines|OVH SAS|
-|11|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|12|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|13|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|14|111.202.19.28|8080|China|Beijing|China Unicom Beijing Province Network|
-|15|111.202.18.92|8080|China|Beijing|China Unicom Beijing Province Network|
-|16|54.67.53.239|3128|United States|San Jose|Amazon.com, Inc.|
-|17|111.202.18.47|8080|China|Beijing|China Unicom Beijing Province Network|
-|18|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|19|67.43.228.250|22569|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|22569|Canada|Montreal|GloboTech Communications|
+|6|185.135.216.85|3128|France|Paris|Promatec Sarl|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|185.233.118.31|8080|Ukraine|Kyiv|Hosting Ukraine LTD|
+|9|57.128.37.47|3128|France|Gravelines|OVH SAS|
+|10|14.163.134.238|5109|Vietnam|Hanoi|VNPT-VNNIC|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|17|110.43.221.121|7088|China|Haidian|Beijing Kingsoft Cloud Internet Technology Co|
+|18|201.77.97.46|999|Mexico|Huichapan|Hulux Telecomunicaciones|
+|19|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|20|111.202.19.28|8080|China|Beijing|China Unicom Beijing Province Network|
 
 
 
