@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|63|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|63|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|63|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|185.233.118.31|8080|Ukraine|Kyiv|Hosting Ukraine LTD|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
-|9|158.160.134.78|3128|Russia|Moscow|Yandex.Cloud LLC|
-|10|147.45.147.239|3128|Russia|Kargat|Adman LLC|
-|11|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|12|57.128.37.47|3128|France|Gravelines|OVH SAS|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|74.207.237.207|50513|United States|Atlanta|Akamai Technologies, Inc.|
+|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|185.233.118.31|8080|Ukraine|Kyiv|Hosting Ukraine LTD|
+|9|74.207.237.207|50513|United States|Atlanta|Akamai Technologies, Inc.|
+|10|171.228.87.110|10006|Vietnam|Hòa Bình|Viettel Corporation|
+|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|16|3.108.115.48|3128|India|Mumbai|Amazon Technologies Inc.|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|184.72.55.45|3128|United States|San Jose|Amazon.com, Inc.|
-|19|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|20|67.43.228.252|20643|Canada|Montreal|GloboTech Communications|
+|15|181.205.161.189|999|Colombia|Medellín|Colombia Móvil|
+|16|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|58.136.168.223|8080|Thailand|Bangkok|AIS-Fibre|
+|19|103.133.223.251|8080|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|20|111.202.19.206|8080|China|Beijing|China Unicom Beijing Province Network|
 
 
 
