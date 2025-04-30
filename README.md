@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|1|172.188.122.92|80|Singapore|Singapore|Microsoft|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|4|13.214.14.133|8080|Singapore|Singapore|Amazon Technologies Inc.|
+|3|14.229.229.218|8080|Vietnam|Hanoi|VNPT|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |5|185.233.118.31|8080|Ukraine|Kyiv|Hosting Ukraine LTD|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|14.229.229.218|8080|Vietnam|Hanoi|VNPT|
+|6|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |8|13.61.103.109|3128|Sweden|Stockholm|Amazon.com, Inc.|
 |9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|117.102.117.106|8080|Indonesia|Bintaro|Biznet Networks|
-|13|85.105.90.104|3310|Turkey|Adana|TurkTelecom|
-|14|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|213.230.125.2|8080|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|19|111.202.19.28|8080|China|Beijing|China Unicom Beijing Province Network|
-|20|111.202.18.121|8080|China|Beijing|China Unicom Beijing Province Network|
+|10|179.49.202.206|999|Dominican Republic|Santo Domingo Este|TELECABLE DOMINICANO, S.A.|
+|11|172.167.161.8|8080|United Kingdom|City of London|Microsoft|
+|12|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|13|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|14|117.102.117.106|8080|Indonesia|Bintaro|Biznet Networks|
+|15|3.0.17.193|8080|Singapore|Singapore|Amazon Technologies Inc.|
+|16|47.128.250.79|8080|Singapore|Singapore|Amazon Technologies Inc|
+|17|54.251.4.102|8080|Singapore|Singapore|Amazon.com, Inc.|
+|18|18.139.108.133|8080|Singapore|Singapore|Amazon Technologies Inc.|
+|19|16.78.21.47|8080|Indonesia|Jakarta|Amazon.com, Inc.|
+|20|85.105.90.104|3310|Turkey|Adana|TurkTelecom|
 
 
 
