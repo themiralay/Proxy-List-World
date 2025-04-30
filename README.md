@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|172.188.122.92|80|Singapore|Singapore|Microsoft|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|14.229.229.218|8080|Vietnam|Hanoi|VNPT|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|57.128.37.47|3128|France|Gravelines|OVH SAS|
-|9|213.230.125.2|8080|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|10|5.75.156.208|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|11|124.121.2.159|8080|Thailand|Nakhon Ratchasima|TRUEBB|
+|3|14.229.229.218|8080|Vietnam|Hanoi|VNPT|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|86.98.23.121|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|7|49.51.206.38|13001|United States|Santa Clara|OPHL|
+|8|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|5.75.156.208|3128|Germany|Nuremberg|Hetzner Online GmbH|
 |12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|84.54.13.56|4857|Turkey|Bursa|Mehmet Selim Sahin|
-|15|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|16|14.229.229.218|8080|Vietnam|Hanoi|VNPT|
-|17|111.202.18.121|8080|China|Beijing|China Unicom Beijing Province Network|
-|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|19|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|20|201.77.97.46|999|Mexico|Huichapan|Hulux Telecomunicaciones|
+|13|213.230.125.2|8080|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|43.159.137.110|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|15|190.213.190.131|8080|Trinidad and Tobago|Chaguanas|Columbus Communications Trinidad Limited.|
+|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|17|84.54.13.56|4857|Turkey|Bursa|Mehmet Selim Sahin|
+|18|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|19|103.121.165.229|1443|China|Beijing|China Unicom Beijing Province Network|
+|20|14.229.229.218|8080|Vietnam|Hanoi|VNPT|
 
 
 
