@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3718** proxies at the latest update. Usable proxies are below.
+> Scraper found **3756** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|59|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|59|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|59|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|88|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|472|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|510|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|236|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|2|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|57.128.37.47|3128|France|Gravelines|OVH SAS|
-|6|175.145.253.213|8081|Malaysia|George Town|TM TECHNOLOGY SERVICES SDN BHD|
-|7|185.233.118.31|8080|Ukraine|Kyiv|Hosting Ukraine LTD|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|64.62.219.199|3128|United States|Union|Hurricane Electric LLC|
-|10|38.58.174.99|999|Mexico|San Felipe del Progreso|Cogent Communications|
-|11|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
-|12|65.49.14.168|3128|United States|Fremont|Hurricane Electric LLC|
-|13|65.49.14.6|3128|United States|Fremont|Hurricane Electric LLC|
-|14|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
-|15|64.62.219.199|3128|United States|Union|Hurricane Electric LLC|
-|16|65.49.2.99|3128|United States|Cheyenne|Hurricane Electric LLC|
-|17|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
-|18|65.49.14.150|3128|United States|Fremont|Hurricane Electric LLC|
-|19|65.49.14.150|3128|United States|Fremont|Hurricane Electric LLC|
-|20|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
+|1|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|4|185.233.118.31|8080|Ukraine|Kyiv|Hosting Ukraine LTD|
+|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|194.233.66.158|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|7|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|8|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|93.185.166.170|8080|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|13|140.227.81.191|3128|Japan|Chiyoda|InfoSphere|
+|14|111.202.18.100|8080|China|Beijing|China Unicom Beijing Province Network|
+|15|194.233.66.158|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|16|111.202.19.28|8080|China|Beijing|China Unicom Beijing Province Network|
+|17|111.202.19.206|8080|China|Beijing|China Unicom Beijing Province Network|
+|18|200.98.200.89|25000|Brazil|São Paulo|Universo Online S.A.|
+|19|185.233.118.31|8080|Ukraine|Kyiv|Hosting Ukraine LTD|
+|20|45.167.126.37|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
 
 
 
