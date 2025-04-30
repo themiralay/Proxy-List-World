@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|114.35.177.252|8089|Taiwan|Jincheng|Chunghwa Telecom Co., Ltd.|
+|1|103.167.50.83|60080|Taiwan|Taipei|Zenlayer|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|74.207.237.207|50513|United States|Atlanta|Akamai Technologies, Inc.|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |7|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|8|93.185.166.170|8080|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|9|185.233.118.31|8080|Ukraine|Kyiv|Hosting Ukraine LTD|
+|8|185.233.118.31|8080|Ukraine|Kyiv|Hosting Ukraine LTD|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|74.207.237.207|50513|United States|Atlanta|Akamai Technologies, Inc.|
-|13|170.106.144.64|8090|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|14|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|15|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
-|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|17|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|18|170.106.144.64|8090|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|19|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
+|12|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|13|46.161.194.69|8085|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|14|31.58.158.175|8080|Singapore|Singapore|PT Perwira Media Solusi|
+|15|184.174.96.231|8080|United States|Wilmington|Internet Utilities NA LLC|
+|16|184.174.96.231|8080|United States|Wilmington|Internet Utilities NA LLC|
+|17|172.167.161.8|8080|United Kingdom|City of London|Microsoft|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|8.210.38.209|1081|Hong Kong|Hong Kong|Alibaba.com LLC|
+|20|51.81.46.174|3128|United States|Warrenton|OVH SAS|
 
 
 
