@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3941** proxies at the latest update. Usable proxies are below.
+> Scraper found **3966** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|91|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|523|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|548|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|405|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|13.114.41.225|8080|Japan|Tokyo|Amazon Technologies Inc|
-|2|43.153.2.82|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|3|52.221.187.226|8080|Singapore|Singapore|Amazon.com, Inc.|
-|4|47.129.250.176|8080|Singapore|Singapore|Amazon Technologies Inc|
-|5|43.153.112.28|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|6|54.151.223.88|8080|Singapore|Singapore|Amazon Technologies Inc.|
-|7|3.0.17.193|8080|Singapore|Singapore|Amazon Technologies Inc.|
-|8|13.214.14.133|8080|Singapore|Singapore|Amazon Technologies Inc.|
-|9|43.153.109.164|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|10|43.153.69.199|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|11|43.153.39.191|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|12|43.153.103.42|13001|United States|Santa Clara|Aceville Pte.ltd|
-|13|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|15|43.153.109.164|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|2|18.141.164.236|8080|Singapore|Singapore|Amazon.com, Inc.|
+|3|43.153.100.212|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.153.109.164|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.130.61.237|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|6|54.251.4.102|8080|Singapore|Singapore|Amazon.com, Inc.|
+|7|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|8|3.0.17.193|8080|Singapore|Singapore|Amazon Technologies Inc.|
+|9|54.151.223.88|8080|Singapore|Singapore|Amazon Technologies Inc.|
+|10|52.77.225.34|8080|Singapore|Singapore|Amazon.com, Inc.|
+|11|52.221.187.226|8080|Singapore|Singapore|Amazon.com, Inc.|
+|12|47.129.250.176|8080|Singapore|Singapore|Amazon Technologies Inc|
+|13|13.214.14.133|8080|Singapore|Singapore|Amazon Technologies Inc.|
+|14|54.179.65.67|8080|Singapore|Singapore|Amazon.com, Inc.|
+|15|16.78.151.171|8080|Indonesia|Jakarta|Amazon.com, Inc.|
 |16|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|17|43.159.139.120|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|19|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|20|43.153.69.199|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|17|43.153.103.42|13001|United States|Santa Clara|Aceville Pte.ltd|
+|18|14.229.229.218|8080|Vietnam|Hanoi|VNPT|
+|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|20|43.153.107.10|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
