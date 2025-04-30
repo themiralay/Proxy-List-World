@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|220.118.176.165|3128|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|2|174.138.27.118|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|159.89.206.138|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|178.128.90.19|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|178.128.82.15|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|14.229.229.218|8080|Vietnam|Hanoi|VNPT|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|71.190.152.7|3128|United States|Brooklyn|Verizon Communications|
+|6|185.233.118.31|8080|Ukraine|Kyiv|Hosting Ukraine LTD|
 |7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|14.229.229.218|8080|Vietnam|Hanoi|VNPT|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|71.190.152.7|3128|United States|Brooklyn|Verizon Communications|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|81.177.49.157|3128|Russia|Moscow|RTCOMM|
-|13|57.128.37.47|3128|France|Gravelines|OVH SAS|
-|14|71.190.152.7|3128|United States|Brooklyn|Verizon Communications|
-|15|103.231.73.84|3128|Türkiye|Izmir|Stark Industries Solutions LTD|
-|16|185.233.118.31|8080|Ukraine|Kyiv|Hosting Ukraine LTD|
-|17|178.128.218.200|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|20|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|71.190.152.7|3128|United States|Brooklyn|Verizon Communications|
+|10|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|11|193.225.140.88|3128|Hungary|Budapest|HBONE/HUNGARNET 02|
+|12|57.128.37.47|3128|France|Gravelines|OVH SAS|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|16|111.202.18.92|8080|China|Beijing|China Unicom Beijing Province Network|
+|17|111.202.18.100|8080|China|Beijing|China Unicom Beijing Province Network|
+|18|111.202.19.206|8080|China|Beijing|China Unicom Beijing Province Network|
+|19|111.202.18.47|8080|China|Beijing|China Unicom Beijing Province Network|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
