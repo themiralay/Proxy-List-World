@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|52|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|52|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|52|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|44|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|44|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|44|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|167.179.85.151|80|Japan|Sendai|The Constant Company, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|185.233.118.31|8080|Ukraine|Kyiv|Hosting Ukraine LTD|
-|6|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|7|192.241.152.37|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|14.245.66.207|8080|Vietnam|Da Nang|VNPT|
-|9|192.241.152.37|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|12|52.77.225.34|8080|Singapore|Singapore|Amazon.com, Inc.|
-|13|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|14|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|15|111.202.18.92|8080|China|Beijing|China Unicom Beijing Province Network|
-|16|124.105.85.159|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|17|111.202.18.47|8080|China|Beijing|China Unicom Beijing Province Network|
-|18|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|20|15.204.151.149|31158|United States|Reston|OVH SAS|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|185.233.118.31|8080|Ukraine|Kyiv|Hosting Ukraine LTD|
+|5|57.128.37.47|3128|France|Gravelines|OVH SAS|
+|6|14.189.27.85|5106|Vietnam|Vĩnh Yên|VNPT|
+|7|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|3.14.254.221|3128|United States|Dublin|Amazon.com, Inc.|
+|11|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|12|111.202.18.92|8080|China|Beijing|China Unicom Beijing Province Network|
+|13|111.202.18.100|8080|China|Beijing|China Unicom Beijing Province Network|
+|14|111.202.18.121|8080|China|Beijing|China Unicom Beijing Province Network|
+|15|111.202.18.47|8080|China|Beijing|China Unicom Beijing Province Network|
+|16|111.202.19.206|8080|China|Beijing|China Unicom Beijing Province Network|
+|17|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|18|202.38.78.123|4780|China|Hefei|USTC|
+|19|111.202.19.28|8080|China|Beijing|China Unicom Beijing Province Network|
+|20|72.10.160.170|7307|Canada|Montreal|GloboTech Communications|
 
 
 
