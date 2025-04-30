@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |2|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|3|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|4|185.233.118.31|8080|Ukraine|Kyiv|Hosting Ukraine LTD|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|111.202.19.28|8080|China|Beijing|China Unicom Beijing Province Network|
-|8|111.202.19.206|8080|China|Beijing|China Unicom Beijing Province Network|
-|9|111.202.18.92|8080|China|Beijing|China Unicom Beijing Province Network|
-|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|11|110.19.52.200|8010|China|Zhangzhou|China Unicom CHINA169 Neimeng Province Network|
-|12|110.16.77.99|8082|China|Zhangzhou|China Unicom CHINA169 Neimeng Province Network|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|132.226.213.145|3128|United Kingdom|London|Oracle Corporation|
-|15|185.233.118.31|8080|Ukraine|Kyiv|Hosting Ukraine LTD|
-|16|111.202.18.121|8080|China|Beijing|China Unicom Beijing Province Network|
-|17|83.212.82.4|3128|Greece|Athens|National Infrastructures for Research and Technology S.A.|
-|18|67.43.236.18|18821|Canada|Montreal|GloboTech Communications|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|103.138.26.37|8080|Bangladesh|Comilla|HelloTech Limited|
+|3|185.233.118.31|8080|Ukraine|Kyiv|Hosting Ukraine LTD|
+|4|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|5|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|103.141.180.254|3128|Indonesia|Pamulang|PT Indonesia Comnets Plus|
+|8|186.231.33.58|61804|Brazil|São Paulo|TIM S/A|
+|9|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|14|111.202.19.28|8080|China|Beijing|China Unicom Beijing Province Network|
+|15|111.202.19.206|8080|China|Beijing|China Unicom Beijing Province Network|
+|16|23.224.189.161|3128|United States|Los Angeles|Cnservers LLC|
+|17|111.202.18.92|8080|China|Beijing|China Unicom Beijing Province Network|
+|18|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|19|103.175.228.142|8080|Indonesia|Jakarta|MYREPUBLIC|
+|20|103.142.255.88|8080|Indonesia|Mojoagung|PT.CITRA BERDIKARI NUSANTARA|
 
 
 
