@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|85.131.243.125|3128|Japan|Chiyoda|Xserver Inc.|
-|2|114.190.208.146|3128|Japan|Iizuka|NTT Communications Corporation|
-|3|52.78.110.231|3128|South Korea|Seoul|Amazon Technologies Inc.|
-|4|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|5|128.199.67.209|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|14.229.229.218|8080|Vietnam|Hanoi|VNPT|
-|7|170.106.144.64|8090|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|8|61.228.192.52|8080|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|1|114.190.208.146|3128|Japan|Iizuka|NTT Communications Corporation|
+|2|52.78.110.231|3128|South Korea|Seoul|Amazon Technologies Inc.|
+|3|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|103.150.191.58|3128|Indonesia|Bogor|PT Biznet Gio Nusantara|
+|6|43.159.134.123|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|175.141.242.86|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|8|54.185.0.201|3128|United States|Portland|Amazon.com, Inc.|
 |9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|175.141.242.86|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|11|103.101.231.207|3128|Indonesia|Jakarta|Biznet Networks|
-|12|171.236.208.209|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|13|43.159.134.123|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|15|163.223.78.97|8080|Indonesia|Jombang|Indonesia Network Information Center|
-|16|3.26.21.39|3128|Australia|Sydney|Amazon Technologies Inc.|
-|17|189.232.76.153|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
-|18|36.75.200.193|3128|Indonesia|Kuningan Barat|PT. Telekomunikasi Indonesia|
-|19|143.110.246.12|3128|India|Bengaluru|DigitalOcean, LLC|
-|20|54.185.0.201|3128|United States|Portland|Amazon.com, Inc.|
+|10|43.252.9.54|8080|Indonesia|Jakarta|QUANTUMNET|
+|11|3.26.21.39|3128|Australia|Sydney|Amazon Technologies Inc.|
+|12|189.232.76.153|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
+|13|3.14.254.221|3128|United States|Dublin|Amazon.com, Inc.|
+|14|163.223.78.89|8080|Indonesia|Jombang|Indonesia Network Information Center|
+|15|5.161.247.170|3128|United States|Ashburn|Hetzner Online GmbH|
+|16|35.182.13.255|3128|Canada|Toronto|Amazon Technologies Inc.|
+|17|143.110.246.12|3128|India|Bengaluru|DigitalOcean, LLC|
+|18|99.79.10.224|3128|Canada|Toronto|Amazon.com, Inc.|
+|19|99.79.71.232|3128|Canada|Toronto|Amazon.com, Inc.|
+|20|3.96.218.18|3128|Canada|Toronto|Amazon Technologies Inc.|
 
 
 
