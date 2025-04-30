@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.130.29.151|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|2|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|3|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|6|14.229.229.218|8080|Vietnam|Hanoi|VNPT|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|2|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|3|14.229.229.218|8080|Vietnam|Hanoi|VNPT|
+|4|43.153.36.171|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|36.93.10.85|8080|Indonesia|Bogor|Telekomunikasi Indonesia|
+|7|203.154.91.225|4857|Thailand|Bangkok|Internet Thailand Company Ltd.|
 |8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|43.135.136.212|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|10|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|11|43.135.174.65|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|49.51.188.4|13001|United States|Los Angeles|OPHL|
-|14|5.75.156.208|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|15|203.154.91.225|4857|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|18|43.153.106.210|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|43.153.8.210|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|9|43.159.132.166|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|5.75.156.208|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|13|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|14|43.153.106.210|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|15|43.153.8.210|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|16|43.135.174.65|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|17|43.153.103.91|13001|United States|Santa Clara|Aceville Pte.ltd|
+|18|170.106.183.233|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|19|43.130.28.33|13001|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|20|213.230.125.2|8080|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
