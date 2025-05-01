@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|89.187.185.88|3128|United States|Los Angeles|Datacamp Limited|
-|2|43.156.38.109|988|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|24.144.87.235|8088|United States|Santa Clara|DigitalOcean, LLC|
-|5|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
-|6|147.75.92.248|80|Japan|Koto-ku|Packet Host, Inc.|
-|7|124.121.2.178|8080|Thailand|Nakhon Ratchasima|TRUEBB|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|51.222.244.155|4857|Canada|Beauharnois|OVH SAS|
-|12|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|13|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|15|35.183.10.87|3128|Canada|Toronto|Amazon Technologies Inc.|
-|16|24.144.87.235|8088|United States|Santa Clara|DigitalOcean, LLC|
-|17|3.96.126.40|3128|Canada|Toronto|Amazon Technologies Inc.|
-|18|35.183.204.57|3128|Canada|Toronto|Amazon Technologies Inc.|
-|19|89.187.185.88|3128|United States|Los Angeles|Datacamp Limited|
-|20|114.35.177.252|8089|Taiwan|Jincheng|Chunghwa Telecom Co., Ltd.|
+|1|147.75.92.248|80|Japan|Koto-ku|Packet Host, Inc.|
+|2|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|3|43.156.38.109|988|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|185.233.118.31|8084|Ukraine|Kyiv|Hosting Ukraine LTD|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|147.75.92.248|80|Japan|Koto-ku|Packet Host, Inc.|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|35.183.209.169|3128|Canada|Toronto|Amazon Technologies Inc.|
+|14|160.19.178.43|8080|Indonesia|Cirebon|PT Jaringan Cyber Evo|
+|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|17|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|20|57.128.37.47|3128|France|Gravelines|OVH SAS|
 
 
 
