@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|63|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|63|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|63|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|1|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|7|66.42.84.144|3128|United States|Atlanta|Choopa|
 |8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|88.218.78.207|31280|France|Strasbourg|velia.net Internetdienste GmbH|
-|11|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|12|213.226.119.120|4857|Turkey|Istanbul|Mehmet Selim Sahin|
-|13|96.30.193.151|3128|United States|Atlanta|Choopa|
-|14|96.30.193.151|3128|United States|Atlanta|Choopa|
-|15|144.202.21.188|3128|United States|Atlanta|The Constant Company|
-|16|155.138.230.244|3128|United States|Atlanta|The Constant Company|
-|17|144.202.21.188|3128|United States|Atlanta|The Constant Company|
-|18|45.76.250.208|3128|United States|Atlanta|The Constant Company|
-|19|45.32.214.128|3128|United States|Atlanta|The Constant Company|
-|20|155.138.230.69|3128|United States|Atlanta|The Constant Company|
+|9|57.128.37.47|3128|France|Gravelines|OVH SAS|
+|10|213.226.119.120|4857|Turkey|Istanbul|Mehmet Selim Sahin|
+|11|66.42.84.144|3128|United States|Atlanta|Choopa|
+|12|190.213.190.131|8080|Trinidad and Tobago|Chaguanas|Columbus Communications Trinidad Limited.|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|16|96.30.199.151|3128|United States|Atlanta|The Constant Company|
+|17|45.32.217.86|3128|United States|Atlanta|The Constant Company|
+|18|111.202.19.28|8080|China|Beijing|China Unicom Beijing Province Network|
+|19|67.43.236.18|13695|Canada|Montreal|GloboTech Communications|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
