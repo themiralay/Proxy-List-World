@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|89.187.185.88|3128|United States|Los Angeles|Datacamp Limited|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|155.138.222.47|3128|United States|Atlanta|The Constant Company|
 |7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|144.202.24.187|3128|United States|Atlanta|The Constant Company|
-|10|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|86.127.235.159|3128|Spain|Alcobendas|DIGI SPAIN TELECOM|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|57.128.37.47|3128|France|Gravelines|OVH SAS|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|96.30.199.151|3128|United States|Atlanta|The Constant Company|
+|12|86.127.235.159|3128|Spain|Alcobendas|DIGI SPAIN TELECOM|
+|13|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|14|57.128.37.47|3128|France|Gravelines|OVH SAS|
+|15|66.151.41.206|4857|Germany|Frankfurt am Main|Hostkey B.V.|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|155.138.222.47|3128|United States|Atlanta|The Constant Company|
 |19|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|20|144.202.24.187|3128|United States|Atlanta|The Constant Company|
+|20|96.30.199.151|3128|United States|Atlanta|The Constant Company|
 
 
 
