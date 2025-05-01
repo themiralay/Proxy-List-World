@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|9|80.78.21.93|8118|Sweden|Malmo|ab stract|
-|10|185.233.118.31|8080|Ukraine|Kyiv|Hosting Ukraine LTD|
-|11|57.128.37.47|3128|France|Gravelines|OVH SAS|
-|12|72.52.87.199|3128|United States|Fremont|Hurricane Electric LLC|
-|13|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|14|74.82.60.99|3128|United States|Fremont|Hurricane Electric LLC|
-|15|74.82.60.199|3128|United States|Fremont|Hurricane Electric LLC|
-|16|65.49.14.168|3128|United States|Fremont|Hurricane Electric LLC|
-|17|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
-|18|74.82.60.199|3128|United States|Fremont|Hurricane Electric LLC|
-|19|65.49.14.168|3128|United States|Fremont|Hurricane Electric LLC|
-|20|65.49.2.99|3128|United States|Cheyenne|Hurricane Electric LLC|
+|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|7|185.233.118.31|8080|Ukraine|Kyiv|Hosting Ukraine LTD|
+|8|91.108.130.18|3128|Iran|Tehran|Rayaneh Gostar Farzanegan Ahwaz Company LTD.|
+|9|111.202.18.92|8080|China|Beijing|China Unicom Beijing Province Network|
+|10|218.98.160.110|12798|China|Guoyuan Xincun|CHINA UNICOM China169 Backbone|
+|11|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|12|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|13|111.202.18.47|8080|China|Beijing|China Unicom Beijing Province Network|
+|14|111.202.19.28|8080|China|Beijing|China Unicom Beijing Province Network|
+|15|111.202.18.121|8080|China|Beijing|China Unicom Beijing Province Network|
+|16|111.202.18.100|8080|China|Beijing|China Unicom Beijing Province Network|
+|17|57.128.37.47|3128|France|Gravelines|OVH SAS|
+|18|201.77.97.46|999|Mexico|Huichapan|Hulux Telecomunicaciones|
+|19|89.213.106.70|999|Mexico|Doctor Mora|Wifimax Connection S.a.s De C.V|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
