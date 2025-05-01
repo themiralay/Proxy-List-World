@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3926** proxies at the latest update. Usable proxies are below.
+> Scraper found **3983** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|429|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|486|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|275|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|13.214.14.133|8080|Singapore|Singapore|Amazon Technologies Inc.|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|24.144.87.235|8088|United States|Santa Clara|DigitalOcean, LLC|
-|5|185.233.118.31|8088|Ukraine|Kyiv|Hosting Ukraine LTD|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|24.144.87.235|8088|United States|Santa Clara|DigitalOcean, LLC|
-|8|57.128.37.47|3128|France|Gravelines|OVH SAS|
+|1|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|2|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|3|24.144.87.235|8088|United States|Santa Clara|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|24.144.87.235|8088|United States|Santa Clara|DigitalOcean, LLC|
+|6|170.106.144.64|8090|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|7|185.233.118.31|8088|Ukraine|Kyiv|Hosting Ukraine LTD|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|34.143.143.61|7777|Singapore|Singapore|Google LLC|
 |11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|114.199.109.10|8080|Indonesia|Jakarta|PT. Solusi Aksesindo Pratama|
-|13|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|14|111.202.18.100|8080|China|Beijing|China Unicom Beijing Province Network|
-|15|111.202.18.47|8080|China|Beijing|China Unicom Beijing Province Network|
-|16|201.77.97.46|999|Mexico|Huichapan|Hulux Telecomunicaciones|
-|17|24.144.87.235|8088|United States|Santa Clara|DigitalOcean, LLC|
-|18|150.109.37.211|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|19|24.144.87.235|8088|United States|Santa Clara|DigitalOcean, LLC|
-|20|54.67.53.239|3128|United States|San Jose|Amazon.com, Inc.|
+|12|27.147.235.75|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|13|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|111.202.18.100|8080|China|Beijing|China Unicom Beijing Province Network|
+|16|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|17|38.183.146.173|8181|Indonesia|Bekasi|PT Ikhlas Cipta Teknologi|
+|18|45.123.143.4|8080|Indonesia|Kenali Asam|PT Gelam Net Solusi|
+|19|201.77.96.160|999|Mexico|Actopan|Hulux Telecomunicaciones|
+|20|111.202.18.47|8080|China|Beijing|China Unicom Beijing Province Network|
 
 
 
