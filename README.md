@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|5|170.106.144.64|8090|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|185.233.118.31|8080|Ukraine|Kyiv|Hosting Ukraine LTD|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|57.128.37.47|3128|France|Gravelines|OVH SAS|
-|10|24.144.87.235|8088|United States|Santa Clara|DigitalOcean, LLC|
-|11|24.144.87.235|8088|United States|Santa Clara|DigitalOcean, LLC|
-|12|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|13|111.202.18.47|8080|China|Beijing|China Unicom Beijing Province Network|
-|14|111.202.18.100|8080|China|Beijing|China Unicom Beijing Province Network|
-|15|123.186.146.68|8088|China|Benxi|CHINATELECOM Liaoning Benxi MAN|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|96.30.195.4|3128|United States|Atlanta|The Constant Company|
-|18|112.208.170.201|5050|Philippines|City of Muntinlupa|Philippine Long Distance Telephone Co.|
-|19|111.202.18.92|8080|China|Beijing|China Unicom Beijing Province Network|
-|20|103.97.140.195|8181|Indonesia|Jakarta|PT Jembatan Data Pangrango|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|185.233.118.31|8080|Ukraine|Kyiv|Hosting Ukraine LTD|
+|7|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|8|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|9|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|10|164.163.73.5|999|Honduras|Santa Rosa de Copán|Grupo Inma S.A|
+|11|212.126.96.190|8083|Iraq|Sulaymaniyah|AL-SARD FIBER Co. Internet Fiber and Optical Cable Services /Ltd|
+|12|111.202.18.47|8080|China|Beijing|China Unicom Beijing Province Network|
+|13|44.196.210.220|3128|United States|Ashburn|Amazon.com|
+|14|112.208.170.201|5050|Philippines|City of Muntinlupa|Philippine Long Distance Telephone Co.|
+|15|111.202.18.100|8080|China|Beijing|China Unicom Beijing Province Network|
+|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|17|45.167.126.37|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|18|111.202.18.92|8080|China|Beijing|China Unicom Beijing Province Network|
+|19|111.202.19.28|8080|China|Beijing|China Unicom Beijing Province Network|
+|20|185.233.118.31|8080|Ukraine|Kyiv|Hosting Ukraine LTD|
 
 
 
