@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|103.163.36.228|8081|Indonesia|Made|PT Data Buana Nusantara|
+|1|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |3|34.143.143.61|7777|Singapore|Singapore|Google LLC|
 |4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|185.233.118.31|8088|Ukraine|Kyiv|Hosting Ukraine LTD|
-|9|3.108.115.48|3128|India|Mumbai|Amazon Technologies Inc.|
-|10|89.187.185.88|3128|United States|Los Angeles|Datacamp Limited|
-|11|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|12|89.187.185.88|3128|United States|Los Angeles|Datacamp Limited|
-|13|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|103.247.22.175|8080|Indonesia|Bekasi|PT wifian Solution|
-|16|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|171.7.5.129|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|19|14.243.149.40|8080|Vietnam|Hanoi|VNPT|
-|20|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|7|185.233.118.31|8084|Ukraine|Kyiv|Hosting Ukraine LTD|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|223.25.110.120|1095|Indonesia|Mojokerto|SinergiNet|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|36.89.236.126|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|13|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|16|3.99.169.50|3128|Canada|Toronto|Amazon Technologies Inc.|
+|17|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|18|89.187.185.88|3128|United States|Los Angeles|Datacamp Limited|
+|19|160.250.35.14|8080|Indonesia|VILLA PERMATA HIJAU|PT Inovasi Data Xprime|
+|20|89.187.185.88|3128|United States|Los Angeles|Datacamp Limited|
 
 
 
