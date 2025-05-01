@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3705** proxies at the latest update. Usable proxies are below.
+> Scraper found **3733** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|88|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|482|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|510|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|213|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|18.142.49.36|8080|Singapore|Singapore|Amazon Technologies Inc.|
-|2|121.132.61.211|3128|South Korea|Paju-si|Korea Telecom|
-|3|108.137.8.179|8080|Indonesia|Jakarta|Amazon.com, Inc.|
-|4|13.229.127.120|8080|Singapore|Singapore|Amazon Technologies Inc.|
-|5|18.140.54.170|8080|Singapore|Singapore|Amazon.com, Inc.|
-|6|13.229.232.253|8080|Singapore|Singapore|Amazon Technologies Inc.|
-|7|54.179.241.17|8080|Singapore|Singapore|Amazon.com, Inc.|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|16.78.76.185|8080|Indonesia|Jakarta|Amazon.com, Inc.|
-|10|144.202.30.12|3128|United States|Atlanta|The Constant Company|
-|11|43.218.122.62|8080|Indonesia|Jakarta|Amazon.com, Inc.|
-|12|52.74.46.136|8080|Singapore|Singapore|Amazon.com, Inc.|
-|13|96.30.195.4|3128|United States|Atlanta|The Constant Company|
-|14|13.215.50.71|8080|Singapore|Singapore|Amazon Technologies Inc.|
-|15|49.156.44.115|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|13.215.161.40|8080|Singapore|Singapore|Amazon Technologies Inc.|
-|18|144.202.16.167|3128|United States|Atlanta|The Constant Company|
-|19|96.30.193.151|3128|United States|Atlanta|Choopa|
-|20|194.4.57.200|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|170.106.83.149|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|104.238.179.156|3128|United States|Atlanta|Choopa|
+|6|49.156.44.115|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|7|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|8|185.233.118.31|8080|Ukraine|Kyiv|Hosting Ukraine LTD|
+|9|96.30.199.151|3128|United States|Atlanta|The Constant Company|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|155.138.230.244|3128|United States|Atlanta|The Constant Company|
+|12|108.137.8.179|8080|Indonesia|Jakarta|Amazon.com, Inc.|
+|13|144.202.21.188|3128|United States|Atlanta|The Constant Company|
+|14|155.138.230.244|3128|United States|Atlanta|The Constant Company|
+|15|45.32.214.128|3128|United States|Atlanta|The Constant Company|
+|16|66.42.87.2|3128|United States|Atlanta|The Constant Company|
+|17|104.238.179.156|3128|United States|Atlanta|Choopa|
+|18|18.140.54.170|8080|Singapore|Singapore|Amazon.com, Inc.|
+|19|89.187.185.88|3128|United States|Los Angeles|Datacamp Limited|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
