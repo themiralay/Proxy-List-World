@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|114.35.177.252|8089|Taiwan|Jincheng|Chunghwa Telecom Co., Ltd.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|86.109.3.24|9400|United States|Chicago|Packet Host, Inc.|
-|7|38.156.95.73|8080|Indonesia|Boyolali|PT Nesta Indo Media|
-|8|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|185.233.118.31|8080|Ukraine|Kyiv|Hosting Ukraine LTD|
-|11|36.95.39.18|8080|Indonesia|Galur|PT. Telekomunikasi Indonesia|
-|12|57.128.37.47|3128|France|Gravelines|OVH SAS|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|103.213.218.17|31326|Vietnam|Haiphong|V9ERP|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|17|103.180.123.247|1452|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|19|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|20|103.234.255.210|57413|Indonesia|Jakarta|Maxindo|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
+|5|43.252.107.103|1111|Indonesia|Gamping Lor|PT Lintas Data Prima|
+|6|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|103.82.38.226|8888|Vietnam|Thanh Khê|CLOUDFLY|
+|10|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|11|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|12|190.213.190.131|8080|Trinidad and Tobago|Chaguanas|Columbus Communications Trinidad Limited.|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|15|65.49.68.199|3128|United States|Santaquin|Hurricane Electric LLC|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|64.62.219.99|3128|United States|Union|Hurricane Electric LLC|
+|18|65.49.2.199|3128|United States|Cheyenne|Hurricane Electric LLC|
+|19|64.62.219.199|3128|United States|Union|Hurricane Electric LLC|
+|20|74.82.60.199|3128|United States|Fremont|Hurricane Electric LLC|
 
 
 
