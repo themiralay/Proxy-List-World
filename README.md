@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.156.38.109|988|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|74.207.237.207|50513|United States|Atlanta|Akamai Technologies, Inc.|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
-|11|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|57.128.37.47|3128|France|Gravelines|OVH SAS|
-|14|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|15|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
-|16|74.207.237.207|50513|United States|Atlanta|Akamai Technologies, Inc.|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|103.82.135.21|8080|Vietnam|Thanh Khê|Cloudfly Corporation|
-|19|107.178.57.30|8080|United States|Miami|Ellada Projects B.V. trading as Netrouting|
-|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|1|15.152.37.24|3128|Japan|Osaka|Amazon Technologies Inc.|
+|2|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|3|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|4|43.156.38.109|988|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|7|139.59.71.95|3128|India|Bengaluru|DigitalOcean, LLC|
+|8|34.235.106.20|3128|United States|Ashburn|Amazon.com, Inc.|
+|9|54.144.217.218|3128|United States|Ashburn|Amazon Technologies Inc.|
+|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|11|3.96.62.171|3128|Canada|Toronto|Amazon Technologies Inc.|
+|12|15.222.63.144|3128|Canada|Toronto|Amazon Technologies Inc.|
+|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|14|3.99.160.69|3128|Canada|Toronto|Amazon Technologies Inc.|
+|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|16|104.236.93.248|8080|United States|Clifton|DigitalOcean, LLC|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|19|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
