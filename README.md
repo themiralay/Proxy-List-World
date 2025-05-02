@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.186.196.69|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|2|70.153.24.25|8080|Indonesia|Jakarta|Microsoft Corporation|
-|3|43.156.38.109|988|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|223.206.144.148|8080|Thailand|Ko Samui|Triple T Broadband Public Company Limited|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|9|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|12|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|13|171.239.235.147|10001|Vietnam|Quận Một|Viettel Corporation|
-|14|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|15|45.76.253.159|3128|United States|Atlanta|The Constant Company|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|45.76.253.159|3128|United States|Atlanta|The Constant Company|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|111.202.18.39|8080|China|Beijing|China Unicom Beijing Province Network|
-|20|103.121.165.229|1443|China|Beijing|China Unicom Beijing Province Network|
+|1|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|2|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
+|3|113.186.196.69|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|4|43.156.38.109|988|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|70.153.24.25|8080|Indonesia|Jakarta|Microsoft Corporation|
+|6|16.78.221.235|8080|Indonesia|Jakarta|Amazon.com, Inc.|
+|7|223.206.144.148|8080|Thailand|Ko Samui|Triple T Broadband Public Company Limited|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
+|10|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|12|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|13|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|116.108.209.75|10110|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|16|88.208.241.37|8118|United Kingdom|Gloucestershire|IONOS SE|
+|17|115.72.39.39|10002|Vietnam|Ho Chi Minh City|VIETELmetro|
+|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|20|188.65.95.154|8585|Spain|Béjar|Xtra Telecom S.A.|
 
 
 
