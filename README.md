@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|109.123.238.230|14602|Singapore|Singapore|Contabo Asia Private Limited|
-|4|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|185.233.118.31|8088|Ukraine|Kyiv|Hosting Ukraine LTD|
+|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|57.128.37.47|3128|France|Gravelines|OVH SAS|
-|9|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|172.86.67.59|3128|Germany|Frankfurt am Main|RouterHosting LLC|
-|13|111.202.18.47|8080|China|Beijing|China Unicom Beijing Province Network|
-|14|111.202.19.28|8080|China|Beijing|China Unicom Beijing Province Network|
-|15|192.81.129.252|3133|United States|Fremont|Akamai Technologies, Inc.|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|57.128.37.47|3128|France|Gravelines|OVH SAS|
-|18|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|20|13.236.4.254|3128|Australia|Sydney|Amazon Technologies Inc.|
+|6|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|198.7.116.47|3128|Germany|Karlsruhe|Contabo GmbH|
+|9|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
+|10|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|178.136.154.2|81|Ukraine|Dnipro|VEGA|
+|13|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|14|172.167.161.8|8080|United Kingdom|City of London|Microsoft|
+|15|43.156.38.109|988|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|17|45.76.253.153|3128|United States|Atlanta|The Constant Company|
+|18|155.138.160.187|3128|United States|Atlanta|Choopa|
+|19|155.138.160.187|3128|United States|Atlanta|Choopa|
+|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 
 
 
