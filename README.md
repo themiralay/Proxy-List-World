@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|43.156.38.109|988|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
 |5|34.143.143.61|7777|Singapore|Singapore|Google LLC|
 |6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|111.202.18.108|8080|China|Beijing|China Unicom Beijing Province Network|
-|11|111.202.18.47|8080|China|Beijing|China Unicom Beijing Province Network|
-|12|103.121.165.229|1443|China|Beijing|China Unicom Beijing Province Network|
-|13|111.202.18.92|8080|China|Beijing|China Unicom Beijing Province Network|
-|14|111.202.18.47|8080|China|Beijing|China Unicom Beijing Province Network|
-|15|103.121.165.229|1443|China|Beijing|China Unicom Beijing Province Network|
-|16|181.168.88.76|8080|Argentina|Mar del Plata|Telecom Argentina S.A|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|111.202.18.108|8080|China|Beijing|China Unicom Beijing Province Network|
-|19|54.252.32.122|80|Australia|Sydney|Amazon.com, Inc.|
-|20|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|15.207.35.241|80|India|Mumbai|Amazon Technologies Inc.|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|188.65.95.154|8585|Spain|Béjar|Xtra Telecom S.A.|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|177.104.209.248|8080|Brazil|Brasópolis|G6 Internet|
+|16|111.202.18.121|8080|China|Beijing|China Unicom Beijing Province Network|
+|17|96.30.199.151|3128|United States|Atlanta|The Constant Company|
+|18|13.217.237.57|80|United States|Ashburn|Amazon.com, Inc.|
+|19|111.202.18.47|8080|China|Beijing|China Unicom Beijing Province Network|
+|20|157.15.190.32|8080|Myanmar|Meiktila|T-Link Group Company Limited|
 
 
 
