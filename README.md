@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|57.128.37.47|3128|France|Gravelines|OVH SAS|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|12|89.187.185.88|3128|United States|Los Angeles|Datacamp Limited|
-|13|89.187.185.88|3128|United States|Los Angeles|Datacamp Limited|
-|14|45.76.250.208|3128|United States|Atlanta|The Constant Company|
-|15|99.20.24.9|8888|United States|Miami|AT&T Enterprises, LLC|
-|16|45.76.250.208|3128|United States|Atlanta|The Constant Company|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|103.121.165.229|1443|China|Beijing|China Unicom Beijing Province Network|
-|19|111.202.18.108|8080|China|Beijing|China Unicom Beijing Province Network|
-|20|111.202.18.100|8080|China|Beijing|China Unicom Beijing Province Network|
+|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|8|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|89.187.185.88|3128|United States|Los Angeles|Datacamp Limited|
+|16|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
+|17|89.187.185.88|3128|United States|Los Angeles|Datacamp Limited|
+|18|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|19|109.123.238.230|14602|Singapore|Singapore|Contabo Asia Private Limited|
+|20|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
