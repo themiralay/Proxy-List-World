@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|43.134.229.179|8888|Singapore|Singapore|Aceville Pte.ltd|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
+|1|109.123.238.230|14602|Singapore|Singapore|Contabo Asia Private Limited|
+|2|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
 |5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|7|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|34.143.143.61|7777|Singapore|Singapore|Google LLC|
 |8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|12|107.178.57.30|8080|United States|Miami|Ellada Projects B.V. trading as Netrouting|
-|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|14|83.49.104.47|3128|Spain|Benidorm|Telefonica de Espana SAU|
-|15|111.202.18.108|8080|China|Beijing|China Unicom Beijing Province Network|
-|16|111.202.18.47|8080|China|Beijing|China Unicom Beijing Province Network|
-|17|111.202.18.100|8080|China|Beijing|China Unicom Beijing Province Network|
+|9|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
+|13|185.247.18.94|3128|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|15|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|111.202.18.47|8080|China|Beijing|China Unicom Beijing Province Network|
 |18|103.121.165.229|1443|China|Beijing|China Unicom Beijing Province Network|
-|19|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|20|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
+|19|111.202.18.100|8080|China|Beijing|China Unicom Beijing Province Network|
+|20|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
 
 
 
