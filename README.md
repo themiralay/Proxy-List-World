@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3865** proxies at the latest update. Usable proxies are below.
+> Scraper found **3871** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|473|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|479|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|170|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|185.233.118.31|8088|Ukraine|Kyiv|Hosting Ukraine LTD|
-|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|198.7.116.47|3128|Germany|Karlsruhe|Contabo GmbH|
-|9|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
-|10|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|178.136.154.2|81|Ukraine|Dnipro|VEGA|
-|13|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|14|172.167.161.8|8080|United Kingdom|City of London|Microsoft|
-|15|43.156.38.109|988|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|107.172.208.184|1080|United States|Buffalo|HostPapa|
-|17|45.76.253.153|3128|United States|Atlanta|The Constant Company|
-|18|155.138.160.187|3128|United States|Atlanta|Choopa|
-|19|155.138.160.187|3128|United States|Atlanta|Choopa|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|3|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
+|6|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|57.128.37.47|3128|France|Gravelines|OVH SAS|
+|10|185.233.118.31|8083|Ukraine|Kyiv|Hosting Ukraine LTD|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|13|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|14|111.202.18.100|8080|China|Beijing|China Unicom Beijing Province Network|
+|15|111.202.18.47|8080|China|Beijing|China Unicom Beijing Province Network|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|111.202.18.92|8080|China|Beijing|China Unicom Beijing Province Network|
+|19|111.202.18.47|8080|China|Beijing|China Unicom Beijing Province Network|
+|20|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
 
 
 
