@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.200.70.116|3128|Japan|Tokyo|Google LLC|
-|2|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|43.156.38.109|988|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |5|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|6|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|6|43.156.38.109|988|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|114.35.177.252|8089|Taiwan|Jincheng|Chunghwa Telecom Co., Ltd.|
+|8|45.32.216.124|3128|United States|Atlanta|The Constant Company|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|57.128.37.47|3128|France|Gravelines|OVH SAS|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|45.32.216.124|3128|United States|Atlanta|The Constant Company|
-|16|110.235.136.71|8081|Philippines|Quezon City|RADIUS TELECOMS, INC.|
-|17|45.32.216.124|3128|United States|Atlanta|The Constant Company|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|192.3.36.170|5050|United States|Buffalo|HostPapa|
-|20|185.21.13.91|40969|The Netherlands|Amsterdam|Servers Tech Fzco|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
+|13|124.104.187.125|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|14|45.32.216.124|3128|United States|Atlanta|The Constant Company|
+|15|117.103.68.38|9941|Indonesia|Malang|NARATEL|
+|16|103.227.187.11|6080|Indonesia|Banyuwangi|PT Master Star Network|
+|17|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|18|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|19|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|20|44.196.210.220|3128|United States|Ashburn|Amazon.com|
 
 
 
