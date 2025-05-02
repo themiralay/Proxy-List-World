@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4203** proxies at the latest update. Usable proxies are below.
+> Scraper found **4126** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|637|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|613|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|344|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|291|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|2|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
-|3|70.153.24.25|8080|Indonesia|Jakarta|Microsoft Corporation|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|101.108.117.122|8080|Thailand|Bangkok|TOT Public Company Limited|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|113.186.196.69|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|10|194.195.210.88|3128|United States|Atlanta|Akamai Technologies, Inc.|
-|11|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
-|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|13|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|14|43.156.38.109|988|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
-|16|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|115.72.2.38|10001|Vietnam|Vũng Tàu|VIETELmetro|
-|19|57.128.37.47|3128|France|Gravelines|OVH SAS|
-|20|35.182.13.255|3128|Canada|Toronto|Amazon Technologies Inc.|
+|1|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|4|101.108.117.122|8080|Thailand|Bangkok|TOT Public Company Limited|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|113.186.196.69|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|104.236.93.248|8080|United States|Clifton|DigitalOcean, LLC|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|115.77.172.246|10001|Vietnam|Vũng Tàu|Viettel Group|
+|11|57.128.37.47|3128|France|Gravelines|OVH SAS|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|15|103.145.34.9|55443|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
+|16|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|17|104.236.93.248|8080|United States|Clifton|DigitalOcean, LLC|
+|18|34.48.171.130|33080|United States|Washington|Google LLC|
+|19|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|20|107.175.87.138|8080|United States|Elk Grove Village|HostPapa|
 
 
 
