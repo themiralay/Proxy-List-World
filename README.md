@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|3|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
+|2|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
-|8|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
-|9|35.183.110.1|3128|Canada|Toronto|Amazon Technologies Inc.|
-|10|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|13|213.226.119.120|4857|Turkey|Istanbul|Mehmet Selim Sahin|
-|14|35.182.249.25|3128|Canada|Toronto|Amazon Technologies Inc.|
-|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|16|104.223.103.221|3428|United States|Los Angeles|QuadraNet Enterprises LLC|
-|17|86.127.235.159|3128|Spain|Alcobendas|DIGI SPAIN TELECOM|
-|18|111.202.18.108|8080|China|Beijing|China Unicom Beijing Province Network|
-|19|111.202.19.98|8080|China|Beijing|China Unicom Beijing Province Network|
-|20|111.202.18.191|8080|China|Beijing|China Unicom Beijing Province Network|
+|5|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|8|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
+|9|86.127.235.159|3128|Spain|Alcobendas|DIGI SPAIN TELECOM|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
+|14|187.251.130.140|8080|Mexico|Colima|Total Play Telecomunicaciones SA De CV|
+|15|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|16|111.202.18.108|8080|China|Beijing|China Unicom Beijing Province Network|
+|17|111.202.19.98|8080|China|Beijing|China Unicom Beijing Province Network|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|111.202.18.191|8080|China|Beijing|China Unicom Beijing Province Network|
+|20|111.202.19.28|8080|China|Beijing|China Unicom Beijing Province Network|
 
 
 
