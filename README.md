@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|106.251.66.243|64611|South Korea|Gwanak-gu|LG DACOM Corporation|
-|2|113.186.196.69|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|3|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|182.253.109.218|8080|Indonesia|Semarang|Biznet Metronet|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|195.26.245.238|4857|United States|St Louis|Nubes, LLC|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|12|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|13|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|114.35.177.252|8089|Taiwan|Jincheng|Chunghwa Telecom Co., Ltd.|
-|18|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|19|54.93.43.77|80|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|20|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|1|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|2|106.251.66.243|64611|South Korea|Gwanak-gu|LG DACOM Corporation|
+|3|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|4|43.156.38.109|988|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|113.186.196.69|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|182.253.109.218|8080|Indonesia|Semarang|Biznet Metronet|
+|16|57.128.37.47|3128|France|Gravelines|OVH SAS|
+|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|111.202.18.167|8080|China|Beijing|China Unicom Beijing Province Network|
+|20|111.202.19.206|8080|China|Beijing|China Unicom Beijing Province Network|
 
 
 
