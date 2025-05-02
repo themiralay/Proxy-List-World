@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|3|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|4|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|5|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|6|89.187.185.88|3128|United States|Los Angeles|Datacamp Limited|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|10|96.30.195.4|3128|United States|Atlanta|The Constant Company|
-|11|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|12|89.187.185.88|3128|United States|Los Angeles|Datacamp Limited|
-|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|96.30.195.4|3128|United States|Atlanta|The Constant Company|
-|17|185.233.118.31|8080|Ukraine|Kyiv|Hosting Ukraine LTD|
-|18|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
-|19|57.128.37.47|3128|France|Gravelines|OVH SAS|
-|20|45.76.255.183|3128|United States|Atlanta|The Constant Company|
+|1|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
+|8|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|9|89.187.185.88|3128|United States|Los Angeles|Datacamp Limited|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|57.128.37.47|3128|France|Gravelines|OVH SAS|
+|15|107.172.208.184|1080|United States|Buffalo|HostPapa|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|89.187.185.88|3128|United States|Los Angeles|Datacamp Limited|
+|18|190.223.60.131|3128|Peru|Lima region|America Movil Peru S.A.C.|
+|19|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|20|99.20.24.9|8888|United States|Miami|AT&T Enterprises, LLC|
 
 
 
