@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|185.247.18.94|3128|The Netherlands|Amsterdam|TimeWeb Ltd.|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|111.202.19.28|8080|China|Beijing|China Unicom Beijing Province Network|
-|12|111.202.18.92|8080|China|Beijing|China Unicom Beijing Province Network|
-|13|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
-|14|103.121.165.229|1443|China|Beijing|China Unicom Beijing Province Network|
-|15|111.202.19.98|8080|China|Beijing|China Unicom Beijing Province Network|
-|16|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|17|111.202.18.167|8080|China|Beijing|China Unicom Beijing Province Network|
-|18|111.202.18.108|8080|China|Beijing|China Unicom Beijing Province Network|
-|19|111.202.19.206|8080|China|Beijing|China Unicom Beijing Province Network|
-|20|111.202.18.39|8080|China|Beijing|China Unicom Beijing Province Network|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
+|10|111.202.18.92|8080|China|Beijing|China Unicom Beijing Province Network|
+|11|103.121.165.229|1443|China|Beijing|China Unicom Beijing Province Network|
+|12|111.202.19.28|8080|China|Beijing|China Unicom Beijing Province Network|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
+|15|111.202.18.121|8080|China|Beijing|China Unicom Beijing Province Network|
+|16|111.202.18.47|8080|China|Beijing|China Unicom Beijing Province Network|
+|17|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
+|18|111.202.19.206|8080|China|Beijing|China Unicom Beijing Province Network|
+|19|111.202.18.92|8080|China|Beijing|China Unicom Beijing Province Network|
+|20|111.202.18.191|8080|China|Beijing|China Unicom Beijing Province Network|
 
 
 
