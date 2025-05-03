@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.199.156.238|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|43.156.38.109|988|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|2|89.187.185.88|3128|United States|Los Angeles|Datacamp Limited|
+|3|43.134.229.179|8888|Singapore|Singapore|Aceville Pte.ltd|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|89.187.185.88|3128|United States|Los Angeles|Datacamp Limited|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
 |9|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|172.188.122.92|80|Singapore|Singapore|Microsoft|
 |11|57.128.37.47|3128|France|Gravelines|OVH SAS|
-|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|13|122.144.7.22|8080|Indonesia|Jakarta|Maxindo|
-|14|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|15|38.129.94.222|8080|Venezuela|Caracas|Gold Data USA Inc|
-|16|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|17|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|18|103.76.106.17|8080|Indonesia|Patuk|PT Geka Solusi Utama|
-|19|177.234.217.85|999|Ecuador|Quito|Ufinet Panama S.A.|
+|12|122.144.7.22|8080|Indonesia|Jakarta|Maxindo|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|15|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|16|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|17|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|18|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
+|19|111.202.18.108|8080|China|Beijing|China Unicom Beijing Province Network|
 |20|111.202.18.47|8080|China|Beijing|China Unicom Beijing Province Network|
 
 
