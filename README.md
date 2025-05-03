@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|5|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|38.242.135.162|4857|Germany|Düsseldorf|Contabo GmbH|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|2|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|7|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|18.181.122.43|80|Japan|Tokyo|Amazon Technologies Inc.|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|44.196.210.220|3128|United States|Ashburn|Amazon.com|
 |12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|13|150.109.37.211|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|15|68.66.251.108|3128|The Netherlands|Amsterdam|A2 Hosting, Inc.|
-|16|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|17|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|18|65.109.193.198|8080|Finland|Helsinki|Hetzner Online GmbH|
-|19|57.128.37.47|3128|France|Gravelines|OVH SAS|
-|20|111.202.18.121|8080|China|Beijing|China Unicom Beijing Province Network|
+|13|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|107.152.39.17|8888|United States|Chicago|tzulo, inc.|
+|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|16|160.187.246.122|10000|Vietnam|Ho Chi Minh City|DVDVN|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|57.128.37.47|3128|France|Gravelines|OVH SAS|
+|19|44.196.210.220|3128|United States|Ashburn|Amazon.com|
+|20|34.143.143.61|7777|Singapore|Singapore|Google LLC|
 
 
 
