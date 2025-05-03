@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|3|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
-|4|14.229.107.161|8080|Vietnam|Thanh Hóa|VNPT|
-|5|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|6|203.150.113.174|8080|Thailand|Vadhana|Internet Thailand Company Ltd.|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|9|47.88.12.136|20222|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|10|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|13|88.99.209.189|1234|Germany|Falkenstein|Hetzner Online GmbH|
-|14|172.82.67.163|3128|United States|New York|MASSIVEGRID|
-|15|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|16|47.88.12.136|20222|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|1|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|2|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|14.229.107.161|8080|Vietnam|Thanh Hóa|VNPT|
+|6|74.207.237.207|50513|United States|Atlanta|Akamai Technologies, Inc.|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|171.237.81.192|1022|Vietnam|Hanoi|Viettel Corporation|
+|9|172.82.67.163|3128|United States|New York|MASSIVEGRID|
+|10|115.77.167.27|10001|Vietnam|Vũng Tàu|Viettel Group|
+|11|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|12|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|13|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|16.171.120.82|3128|Sweden|Stockholm|Amazon.com|
 |17|74.207.237.207|50513|United States|Atlanta|Akamai Technologies, Inc.|
-|18|89.187.185.88|3128|United States|Los Angeles|Datacamp Limited|
-|19|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|20|89.187.185.88|3128|United States|Los Angeles|Datacamp Limited|
+|18|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
+|19|89.187.185.88|3128|United States|Los Angeles|Datacamp Limited|
+|20|34.102.48.89|8080|United States|Los Angeles|Google LLC|
 
 
 
