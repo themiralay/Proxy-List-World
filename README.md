@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|2|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|1|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|4|115.76.202.206|11010|Vietnam|Ho Chi Minh City|VIETELGPRS|
 |5|74.207.237.207|50513|United States|Atlanta|Akamai Technologies, Inc.|
 |6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|43.206.234.136|3128|Japan|Tokyo|Amazon.com, Inc.|
-|8|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
-|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|12|86.98.222.224|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
-|13|89.187.185.88|3128|United States|Los Angeles|Datacamp Limited|
-|14|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
-|15|74.207.237.207|50513|United States|Atlanta|Akamai Technologies, Inc.|
-|16|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|17|57.128.37.47|3128|France|Gravelines|OVH SAS|
-|18|107.152.39.17|8888|United States|Chicago|tzulo, inc.|
+|7|74.207.237.207|50513|United States|Atlanta|Akamai Technologies, Inc.|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|116.107.172.180|10002|Vietnam|Hanoi|Viettel Corporation|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|147.75.33.108|10072|The Netherlands|Amsterdam|Packet Host, Inc.|
+|12|57.128.37.47|3128|France|Gravelines|OVH SAS|
+|13|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|14|51.222.96.27|9595|Canada|Beauharnois|OVH Hosting|
+|15|88.99.209.189|1234|Germany|Falkenstein|Hetzner Online GmbH|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|86.98.222.224|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
 |19|89.187.185.88|3128|United States|Los Angeles|Datacamp Limited|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|20|89.187.185.88|3128|United States|Los Angeles|Datacamp Limited|
 
 
 
