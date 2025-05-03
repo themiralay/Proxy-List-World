@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|42.118.154.126|1452|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|2|27.76.212.221|20088|Vietnam|Ha Long|Viettel Group|
-|3|115.77.169.185|10003|Vietnam|Vũng Tàu|Viettel Group|
-|4|171.239.139.126|1452|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|5|115.77.115.252|1452|Vietnam|Can Tho|Viettel Group|
-|6|47.88.12.136|20222|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|7|115.72.165.62|10015|Vietnam|Vũng Tàu|VIETELmetro|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|115.72.165.62|10015|Vietnam|Vũng Tàu|VIETELmetro|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
+|7|27.76.212.221|20088|Vietnam|Ha Long|Viettel Group|
+|8|115.77.169.185|10003|Vietnam|Vũng Tàu|Viettel Group|
 |9|47.88.12.136|20222|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|12|171.243.3.8|9035|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|13|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|14|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|15|88.99.209.189|1234|Germany|Falkenstein|Hetzner Online GmbH|
-|16|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|17|171.243.2.29|9035|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|20|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|107.152.39.17|8888|United States|Chicago|tzulo, inc.|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|12|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
+|13|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|14|47.88.12.136|20222|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|15|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|16|171.239.139.126|1452|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|19|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|20|107.152.39.17|8888|United States|Chicago|tzulo, inc.|
 
 
 
