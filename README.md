@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|4|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|9|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
-|14|57.128.37.47|3128|France|Gravelines|OVH SAS|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|194.238.27.111|3128|United States|St Louis|Nubes, LLC|
+|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|74.207.237.207|50513|United States|Atlanta|Akamai Technologies, Inc.|
+|5|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
+|6|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|74.207.237.207|50513|United States|Atlanta|Akamai Technologies, Inc.|
+|9|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|10|107.152.39.17|8888|United States|Chicago|tzulo, inc.|
+|11|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|13|91.230.65.202|8080|Russia|Moscow|Panin Kirill Evgenyevich|
+|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|15|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|16|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
 |17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|89.187.185.88|3128|United States|Los Angeles|Datacamp Limited|
-|19|43.156.38.109|988|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|20|89.187.185.88|3128|United States|Los Angeles|Datacamp Limited|
+|18|107.152.39.17|8888|United States|Chicago|tzulo, inc.|
+|19|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
