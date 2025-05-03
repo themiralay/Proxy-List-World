@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|2|89.187.185.88|3128|United States|Los Angeles|Datacamp Limited|
-|3|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|47.88.12.136|20222|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|8|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|9|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
-|12|86.98.222.224|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
-|13|47.88.12.136|20222|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|15|89.187.185.88|3128|United States|Los Angeles|Datacamp Limited|
-|16|103.154.53.70|1111|Indonesia|Gayamsari|WIFIKITA|
-|17|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|20|88.99.209.189|1234|Germany|Falkenstein|Hetzner Online GmbH|
+|1|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|2|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
+|3|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|115.74.8.122|10005|Vietnam|Vũng Tàu|VIETELxdsl|
+|6|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
+|7|89.187.185.88|3128|United States|Los Angeles|Datacamp Limited|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|27.76.212.221|20088|Vietnam|Ha Long|Viettel Group|
+|10|89.187.185.88|3128|United States|Los Angeles|Datacamp Limited|
+|11|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
+|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|15|16.171.120.82|3128|Sweden|Stockholm|Amazon.com|
+|16|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
+|17|107.152.39.17|8888|United States|Chicago|tzulo, inc.|
+|18|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|19|107.152.39.17|8888|United States|Chicago|tzulo, inc.|
+|20|102.130.118.94|8888|South Africa|Cape Town|Hostafrica|
 
 
 
