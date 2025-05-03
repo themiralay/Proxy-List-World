@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4110** proxies at the latest update. Usable proxies are below.
+> Scraper found **4082** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|609|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|581|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|279|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|74.207.237.207|50513|United States|Atlanta|Akamai Technologies, Inc.|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |2|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|3|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|4|203.150.113.174|8080|Thailand|Vadhana|Internet Thailand Company Ltd.|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|7|89.187.185.88|3128|United States|Los Angeles|Datacamp Limited|
-|8|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|9|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|10|57.128.37.47|3128|France|Gravelines|OVH SAS|
+|3|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
+|4|14.229.107.161|8080|Vietnam|Thanh Hóa|VNPT|
+|5|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|6|203.150.113.174|8080|Thailand|Vadhana|Internet Thailand Company Ltd.|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|9|47.88.12.136|20222|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|10|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
 |11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|74.207.237.207|50513|United States|Atlanta|Akamai Technologies, Inc.|
-|13|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
-|14|89.187.185.88|3128|United States|Los Angeles|Datacamp Limited|
-|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|88.99.209.189|1234|Germany|Falkenstein|Hetzner Online GmbH|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|102.130.118.94|8888|South Africa|Cape Town|Hostafrica|
+|12|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|13|88.99.209.189|1234|Germany|Falkenstein|Hetzner Online GmbH|
+|14|172.82.67.163|3128|United States|New York|MASSIVEGRID|
+|15|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|16|47.88.12.136|20222|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|17|74.207.237.207|50513|United States|Atlanta|Akamai Technologies, Inc.|
+|18|89.187.185.88|3128|United States|Los Angeles|Datacamp Limited|
+|19|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|20|89.187.185.88|3128|United States|Los Angeles|Datacamp Limited|
 
 
 
