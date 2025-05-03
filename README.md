@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
+|3|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
-|7|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|8|57.128.37.47|3128|France|Gravelines|OVH SAS|
-|9|103.121.165.229|1443|China|Beijing|China Unicom Beijing Province Network|
-|10|111.202.18.39|8080|China|Beijing|China Unicom Beijing Province Network|
-|11|111.202.18.167|8080|China|Beijing|China Unicom Beijing Province Network|
-|12|111.202.19.28|8080|China|Beijing|China Unicom Beijing Province Network|
-|13|111.202.19.28|8080|China|Beijing|China Unicom Beijing Province Network|
-|14|111.202.18.47|8080|China|Beijing|China Unicom Beijing Province Network|
-|15|111.202.18.108|8080|China|Beijing|China Unicom Beijing Province Network|
-|16|111.202.18.39|8080|China|Beijing|China Unicom Beijing Province Network|
-|17|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
+|6|103.121.165.229|1443|China|Beijing|China Unicom Beijing Province Network|
+|7|111.202.19.28|8080|China|Beijing|China Unicom Beijing Province Network|
+|8|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
+|9|111.202.18.39|8080|China|Beijing|China Unicom Beijing Province Network|
+|10|111.202.18.167|8080|China|Beijing|China Unicom Beijing Province Network|
+|11|111.202.19.28|8080|China|Beijing|China Unicom Beijing Province Network|
+|12|111.202.18.47|8080|China|Beijing|China Unicom Beijing Province Network|
+|13|111.202.18.108|8080|China|Beijing|China Unicom Beijing Province Network|
+|14|111.202.18.39|8080|China|Beijing|China Unicom Beijing Province Network|
+|15|111.202.18.100|8080|China|Beijing|China Unicom Beijing Province Network|
+|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |18|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|19|111.202.18.92|8080|China|Beijing|China Unicom Beijing Province Network|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
