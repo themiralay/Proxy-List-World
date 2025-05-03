@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|170.106.83.149|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|4|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|116.101.218.162|5107|Vietnam|Vĩnh Yên|Viettel Corporation|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
 |8|57.128.37.47|3128|France|Gravelines|OVH SAS|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|12|116.107.172.180|10001|Vietnam|Hanoi|Viettel Corporation|
-|13|107.152.39.17|8888|United States|Chicago|tzulo, inc.|
-|14|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
-|15|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|16|153.122.45.145|20001|Japan|Chiyoda|GMO GlobalSign Holdings K.K.|
-|17|111.202.19.199|8080|China|Beijing|China Unicom Beijing Province Network|
-|18|111.202.18.39|8080|China|Beijing|China Unicom Beijing Province Network|
+|9|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|10|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
+|11|111.202.18.92|8080|China|Beijing|China Unicom Beijing Province Network|
+|12|111.202.19.199|8080|China|Beijing|China Unicom Beijing Province Network|
+|13|117.5.20.200|5102|Vietnam|Vĩnh Phúc|VIETTEL|
+|14|111.202.18.100|8080|China|Beijing|China Unicom Beijing Province Network|
+|15|111.202.18.47|8080|China|Beijing|China Unicom Beijing Province Network|
+|16|140.227.61.201|3128|Japan|Tokyo|InfoSphere|
+|17|111.202.18.191|8080|China|Beijing|China Unicom Beijing Province Network|
+|18|111.202.19.28|8080|China|Beijing|China Unicom Beijing Province Network|
 |19|111.202.18.100|8080|China|Beijing|China Unicom Beijing Province Network|
-|20|111.202.18.47|8080|China|Beijing|China Unicom Beijing Province Network|
+|20|111.202.18.39|8080|China|Beijing|China Unicom Beijing Province Network|
 
 
 
