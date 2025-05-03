@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|3|113.186.196.69|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|101.109.0.139|8080|Thailand|Bangkok|TOT Public Company Limited|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|121.132.61.211|3128|South Korea|Paju-si|Korea Telecom|
+|7|113.186.196.69|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|10|58.136.240.255|8080|Thailand|Bangkok|AIS-Fibre|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|15|57.128.37.47|3128|France|Gravelines|OVH SAS|
-|16|118.173.88.24|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|17|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|18|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|19|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|20|89.213.106.70|999|Mexico|Doctor Mora|Wifimax Connection S.a.s De C.V|
+|10|18.170.188.217|3128|United Kingdom|London|Amazon Technologies Inc.|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|14|160.187.246.122|10000|Vietnam|Ho Chi Minh City|DVDVN|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|89.213.106.70|999|Mexico|Doctor Mora|Wifimax Connection S.a.s De C.V|
+|17|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|20|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
