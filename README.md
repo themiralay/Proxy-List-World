@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|18.181.122.43|80|Japan|Tokyo|Amazon Technologies Inc.|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|113.186.196.69|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|6|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|7|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|57.128.37.47|3128|France|Gravelines|OVH SAS|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|12|201.150.118.38|999|Mexico|Mineral de la Reforma|Hulux Telecomunicaciones|
-|13|41.89.22.100|3128|Kenya|Nairobi|KENET|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|142.93.51.31|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|38.65.172.81|999|Mexico|San José Iturbide|Guillermo Robles Ramirez|
-|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|18|16.78.221.235|8080|Indonesia|Jakarta|Amazon.com, Inc.|
-|19|181.188.238.148|999|Ecuador|Quito|Otecel S.A|
-|20|111.202.18.167|8080|China|Beijing|China Unicom Beijing Province Network|
+|1|113.186.196.69|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|2|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
+|6|116.118.48.147|3128|Vietnam|Hanoi|SPT|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|12|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|13|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
+|14|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|15|5.160.224.146|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|16|146.190.82.119|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|41.89.22.100|3128|Kenya|Nairobi|KENET|
+|18|18.181.122.43|80|Japan|Tokyo|Amazon Technologies Inc.|
+|19|201.150.118.26|999|Mexico|Mineral de la Reforma|Hulux Telecomunicaciones|
+|20|34.102.48.89|8080|United States|Los Angeles|Google LLC|
 
 
 
