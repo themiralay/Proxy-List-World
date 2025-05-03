@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|2|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|3|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|43.156.38.109|988|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|12|116.107.172.180|10001|Vietnam|Hanoi|Viettel Corporation|
-|13|43.156.38.109|988|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|54.93.43.77|80|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|15|116.108.209.75|10110|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|16|74.207.237.207|50513|United States|Atlanta|Akamai Technologies, Inc.|
-|17|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|213.226.119.120|4857|Turkey|Istanbul|Mehmet Selim Sahin|
-|20|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|8|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|11|103.131.19.173|3127|Indonesia|Pasarkemis|PT Global Media Data Prima|
+|12|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
+|13|86.98.222.224|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
+|14|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|198.23.236.47|1111|United States|Santa Clara|HostPapa|
+|17|57.128.37.47|3128|France|Gravelines|OVH SAS|
+|18|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|19|88.99.209.189|1234|Germany|Falkenstein|Hetzner Online GmbH|
+|20|89.187.185.88|3128|United States|Los Angeles|Datacamp Limited|
 
 
 
