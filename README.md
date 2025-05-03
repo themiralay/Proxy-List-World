@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|89.187.185.88|3128|United States|Los Angeles|Datacamp Limited|
-|4|43.156.38.109|988|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|89.187.185.88|3128|United States|Los Angeles|Datacamp Limited|
-|7|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|8|115.72.37.38|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|12|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
-|13|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|2|43.156.38.109|988|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|203.111.253.134|3125|Indonesia|Karawang|PT Wifian Global Nusantara|
+|5|89.187.185.88|3128|United States|Los Angeles|Datacamp Limited|
+|6|124.83.102.236|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|7|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|38.194.253.104|999|Mexico|Apaseo el Alto|Ientc S De RL De CV|
+|10|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
+|11|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|12|202.57.26.150|8888|Indonesia|Bandung|WANET|
+|13|89.187.185.88|3128|United States|Los Angeles|Datacamp Limited|
 |14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|88.99.209.189|1234|Germany|Falkenstein|Hetzner Online GmbH|
-|16|18.181.122.43|80|Japan|Tokyo|Amazon Technologies Inc.|
-|17|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
-|18|86.98.222.224|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
-|19|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|20|116.108.209.75|10110|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|16|186.96.160.204|999|Mexico|Culiacán|Total Play Telecomunicaciones SA De CV|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|172.167.161.8|8080|United Kingdom|City of London|Microsoft|
+|19|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|20|103.11.193.76|8080|Mongolia|Ulan Bator|MCS-Univision|
 
 
 
