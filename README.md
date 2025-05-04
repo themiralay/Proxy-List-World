@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|5|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
-|6|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|6|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|7|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|173.212.208.108|2082|France|Lauterbourg|Contabo GmbH|
-|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|12|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|13|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
-|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
-|19|171.228.172.60|5104|Vietnam|Hanoi|Viettel Corporation|
-|20|111.202.18.121|8080|China|Beijing|China Unicom Beijing Province Network|
+|10|88.99.209.189|1234|Germany|Falkenstein|Hetzner Online GmbH|
+|11|27.76.212.221|20088|Vietnam|Ha Long|Viettel Group|
+|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|2.186.116.14|8080|Iran|Tabriz|Information Technology Company|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|17|65.38.97.146|3128|United States|Washington|SunGard Availability Services LP|
+|18|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
+|19|14.163.118.217|5106|Vietnam|Hanoi|VNPT-VNNIC|
+|20|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
 
 
 
