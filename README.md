@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.227.124.33|3128|Japan|Chiyoda|InfoSphere|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|47.88.12.136|20222|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|198.46.235.60|3128|United States|Dallas|HostPapa|
 |7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
-|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|10|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
-|11|47.88.12.136|20222|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|12|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|86.98.222.224|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |13|78.37.69.252|3128|Russia|Moscow|PJSC Rostelecom|
-|14|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|88.99.209.189|1234|Germany|Falkenstein|Hetzner Online GmbH|
-|17|103.144.209.104|8715|Indonesia|Gandul|PT. Indonesia Comnets Plus|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|65.38.97.146|3128|United States|Washington|SunGard Availability Services LP|
+|16|198.46.235.60|3128|United States|Dallas|HostPapa|
+|17|34.102.48.89|8080|United States|Los Angeles|Google LLC|
 |18|65.38.97.146|3128|United States|Washington|SunGard Availability Services LP|
-|19|57.128.37.47|3128|France|Gravelines|OVH SAS|
-|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|185.25.118.24|8088|Ukraine|Kyiv|Hosting Ukraine LTD|
+|20|88.99.209.189|1234|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
