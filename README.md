@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.72.24|3128|Japan|Chiyoda|InfoSphere|
-|2|140.227.124.33|3128|Japan|Chiyoda|InfoSphere|
-|3|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|4|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|5|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|116.107.241.66|12002|Vietnam|Hanoi|Viettel Corporation|
-|9|47.88.12.136|20222|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|10|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|13|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
-|14|47.88.12.136|20222|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|103.82.133.57|8888|India|Faridabad|Cloudfly Corporation|
+|7|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
+|8|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|11|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|12|57.128.37.47|3128|France|Gravelines|OVH SAS|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
+|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|16|65.38.97.146|3128|United States|Washington|SunGard Availability Services LP|
+|17|65.38.97.146|3128|United States|Washington|SunGard Availability Services LP|
+|18|88.99.209.189|1234|Germany|Falkenstein|Hetzner Online GmbH|
+|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|20|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
 
 
 
