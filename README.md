@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
-|7|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|8|3.91.31.55|8888|United States|Ashburn|Amazon Technologies Inc.|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|74.207.237.207|50513|United States|Atlanta|Akamai Technologies, Inc.|
-|11|194.67.105.229|3128|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|12|88.99.209.189|1234|Germany|Falkenstein|Hetzner Online GmbH|
-|13|89.187.185.88|3128|United States|Los Angeles|Datacamp Limited|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|102.130.118.94|8888|South Africa|Cape Town|Hostafrica|
-|16|43.156.38.109|988|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|89.187.185.88|3128|United States|Los Angeles|Datacamp Limited|
-|18|103.242.105.61|3125|Indonesia|Kebumen|PT Lintas Jaringan Nusantara|
-|19|3.91.31.55|8888|United States|Ashburn|Amazon Technologies Inc.|
-|20|47.88.12.136|20222|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|1|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|3|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|4|47.88.12.136|20222|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|5|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
+|14|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
+|15|185.25.118.24|8089|Ukraine|Kyiv|Hosting Ukraine LTD|
+|16|47.88.12.136|20222|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|18|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|19|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|20|80.190.82.58|14602|United Kingdom|Portsmouth|Contabo GmbH|
 
 
 
