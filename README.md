@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |8|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|9|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|118.70.188.74|5102|Vietnam|Hanoi|FPT Telecom Company|
-|12|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|13|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|14|57.128.37.47|3128|France|Gravelines|OVH SAS|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|107.152.39.17|8888|United States|Chicago|tzulo, inc.|
-|18|103.238.232.90|8080|Indonesia|Bekasi|PT Digital Netcom Solution|
-|19|65.38.97.146|3128|United States|Washington|SunGard Availability Services LP|
-|20|118.70.188.74|5102|Vietnam|Hanoi|FPT Telecom Company|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|118.70.188.74|5102|Vietnam|Hanoi|FPT Telecom Company|
+|11|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|12|107.152.39.17|8888|United States|Chicago|tzulo, inc.|
+|13|88.99.209.189|1234|Germany|Falkenstein|Hetzner Online GmbH|
+|14|107.152.39.17|8888|United States|Chicago|tzulo, inc.|
+|15|103.238.232.90|8080|Indonesia|Bekasi|PT Digital Netcom Solution|
+|16|172.167.161.8|8080|United Kingdom|City of London|Microsoft|
+|17|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|19|103.237.134.117|8080|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
+|20|119.148.40.186|65530|Bangladesh|Dhaka|Agni Systems Limited|
 
 
 
