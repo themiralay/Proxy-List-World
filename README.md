@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|43.156.38.109|988|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|18.181.122.43|80|Japan|Tokyo|Amazon Technologies Inc.|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |5|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|6|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|6|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
 |11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|15|88.99.209.189|1234|Germany|Falkenstein|Hetzner Online GmbH|
-|16|111.202.19.206|8080|China|Beijing|China Unicom Beijing Province Network|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|19|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|111.202.18.167|8080|China|Beijing|China Unicom Beijing Province Network|
+|13|111.202.19.28|8080|China|Beijing|China Unicom Beijing Province Network|
+|14|86.98.222.224|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
