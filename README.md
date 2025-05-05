@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|20.204.55.21|8123|India|Pune|Microsoft Corporation|
-|4|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|5|51.91.41.223|3128|Russia|Moscow|OVH SAS|
-|6|181.205.161.189|999|Colombia|Medellín|Colombia Móvil|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|156.67.28.21|8080|Germany|Düsseldorf|Contabo GmbH|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|70.153.208.157|8080|Indonesia|Jakarta|Microsoft Corporation|
-|11|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
-|12|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|13|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
-|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|15|45.123.142.11|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
+|1|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
+|6|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
+|7|20.204.55.21|8123|India|Pune|Microsoft Corporation|
+|8|51.91.41.223|3128|Russia|Moscow|OVH SAS|
+|9|86.98.222.224|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|70.153.208.157|8080|Indonesia|Jakarta|Microsoft Corporation|
+|12|156.67.28.21|8080|Germany|Düsseldorf|Contabo GmbH|
+|13|88.99.209.189|1234|Germany|Falkenstein|Hetzner Online GmbH|
+|14|102.130.118.94|8888|South Africa|Cape Town|Hostafrica|
+|15|156.251.62.156|8118|Hong Kong|Hong Kong|Tcloudnet|
 |16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|173.212.208.108|2082|France|Lauterbourg|Contabo GmbH|
-|18|65.38.97.146|3128|United States|Washington|SunGard Availability Services LP|
-|19|111.202.18.167|8080|China|Beijing|China Unicom Beijing Province Network|
-|20|111.202.18.108|8080|China|Beijing|China Unicom Beijing Province Network|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|19|171.22.8.192|80|Spain|Carranque|Spotting Brands Technologies S.L|
+|20|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
 
 
 
