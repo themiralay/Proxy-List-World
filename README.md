@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|2|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|3|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|4|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
+|1|170.106.144.64|8090|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|2|43.156.38.109|988|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|65.38.97.146|3128|United States|Washington|SunGard Availability Services LP|
+|7|103.249.19.190|8080|Indonesia|Trenggalek|PT Rafa Teknologi Solusi|
 |8|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|158.69.118.135|38080|Canada|Montreal|OVH SAS|
-|11|140.245.235.20|3128|India|Hyderabad|Oracle Corporation|
-|12|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|116.108.209.75|10110|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|17|65.38.97.146|3128|United States|Washington|SunGard Availability Services LP|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|170.106.83.149|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|10|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|13|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
+|14|140.245.235.20|3128|India|Hyderabad|Oracle Corporation|
+|15|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
+|16|88.99.209.189|1234|Germany|Falkenstein|Hetzner Online GmbH|
+|17|109.123.238.230|14602|Singapore|Singapore|Contabo Asia Private Limited|
+|18|103.195.142.250|8180|Indonesia|Makassar|Universitas Hasanuddin|
+|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
 |20|34.102.48.89|8080|United States|Los Angeles|Google LLC|
 
 
