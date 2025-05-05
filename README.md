@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|34.143.143.61|7777|Singapore|Singapore|Google LLC|
 |6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|8|103.88.229.59|8080|Indonesia|Kedaton|Institut Agama Islam Negeri Raden Intan Lampung|
-|9|86.98.222.224|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
-|10|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|11|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|12|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|13|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
-|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|15|59.124.9.67|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|16|31.170.175.192|53281|Russia|Kstovo|JSC Svyazist|
-|17|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|18|118.70.188.114|5104|Vietnam|Hanoi|FPT Telecom Company|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|7|103.88.229.59|8080|Indonesia|Kedaton|Institut Agama Islam Negeri Raden Intan Lampung|
+|8|45.65.137.218|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|9|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|10|36.91.220.133|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
+|11|88.99.209.189|1234|Germany|Falkenstein|Hetzner Online GmbH|
+|12|124.83.121.23|8082|Philippines|Taguig|Philippine Long Distance Telephone Co.|
+|13|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|14|65.38.97.146|3128|United States|Washington|SunGard Availability Services LP|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|36.94.39.146|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|17|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|18|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|19|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
 |20|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 
 
