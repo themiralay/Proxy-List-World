@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|3|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|4|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|5|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|57.128.37.47|3128|France|Gravelines|OVH SAS|
-|11|74.207.237.207|50513|United States|Atlanta|Akamai Technologies, Inc.|
-|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|13|65.38.97.146|3128|United States|Washington|SunGard Availability Services LP|
-|14|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|15|109.123.238.230|14602|Singapore|Singapore|Contabo Asia Private Limited|
-|16|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
-|17|88.99.209.189|1234|Germany|Falkenstein|Hetzner Online GmbH|
-|18|103.158.252.67|8080|Indonesia|Brebes|Rapid Network|
-|19|74.207.237.207|50513|United States|Atlanta|Akamai Technologies, Inc.|
-|20|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|1|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|65.38.97.146|3128|United States|Washington|SunGard Availability Services LP|
+|12|88.99.209.189|1234|Germany|Falkenstein|Hetzner Online GmbH|
+|13|44.196.210.220|3128|United States|Ashburn|Amazon.com|
+|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|15|159.89.239.166|18099|United States|North Bergen|DigitalOcean, LLC|
+|16|223.206.56.104|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|17|201.20.67.70|8080|Brazil|Fortaleza|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|18|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|19|59.124.9.67|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|20|118.70.188.114|5104|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
