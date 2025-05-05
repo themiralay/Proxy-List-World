@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|68|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|68|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|68|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|1|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|88.99.209.189|1234|Germany|Falkenstein|Hetzner Online GmbH|
-|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|10|111.119.192.73|8888|Singapore|Singapore|Huawei International Pte. LTD|
-|11|47.236.224.32|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
-|14|111.202.18.92|8080|China|Beijing|China Unicom Beijing Province Network|
-|15|111.202.18.108|8080|China|Beijing|China Unicom Beijing Province Network|
-|16|3.21.182.243|3128|United States|Dublin|Amazon.com, Inc.|
-|17|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|18|3.21.182.243|3128|United States|Dublin|Amazon.com, Inc.|
-|19|111.202.18.47|8080|China|Beijing|China Unicom Beijing Province Network|
-|20|111.202.19.199|8080|China|Beijing|China Unicom Beijing Province Network|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
+|8|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|175.137.196.48|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|14|88.99.209.189|1234|Germany|Falkenstein|Hetzner Online GmbH|
+|15|47.236.224.32|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
+|18|111.202.18.92|8080|China|Beijing|China Unicom Beijing Province Network|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|111.202.18.121|8080|China|Beijing|China Unicom Beijing Province Network|
 
 
 
