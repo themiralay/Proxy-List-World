@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3845** proxies at the latest update. Usable proxies are below.
+> Scraper found **3841** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|162|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|518|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|163|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|513|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|243|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|57.128.37.47|3128|France|Gravelines|OVH SAS|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|10|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|13|44.196.210.220|3128|United States|Ashburn|Amazon.com|
-|14|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|16|191.101.78.207|3128|Brazil|São Paulo|Hostinger International Limited|
-|17|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
-|18|201.20.67.70|8080|Brazil|Fortaleza|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|19|36.90.26.250|8080|Indonesia|Jakarta Pusat|PT. Telekomunikasi Indonesia|
-|20|170.106.144.64|8090|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|1|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|5|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|6|171.228.119.227|5104|Vietnam|Hòa Bình|Viettel Corporation|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|44.196.210.220|3128|United States|Ashburn|Amazon.com|
+|10|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|44.196.210.220|3128|United States|Ashburn|Amazon.com|
+|13|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|162.55.237.41|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|16|194.226.121.50|2052|Russia|Moscow|Baykov Ilya Sergeevich|
+|17|65.38.97.146|3128|United States|Washington|SunGard Availability Services LP|
+|18|57.128.37.47|3128|France|Gravelines|OVH SAS|
+|19|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|20|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
