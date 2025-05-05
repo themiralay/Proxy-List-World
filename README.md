@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|3.21.182.243|3128|United States|Dublin|Amazon.com, Inc.|
-|5|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
+|5|86.98.222.224|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
+|6|3.21.182.243|3128|United States|Dublin|Amazon.com, Inc.|
+|7|34.102.48.89|8080|United States|Los Angeles|Google LLC|
 |8|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|9|162.55.237.41|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|162.55.237.41|3128|Germany|Falkenstein|Hetzner Online GmbH|
 |11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|34.143.143.61|7777|Singapore|Singapore|Google LLC|
 |13|3.21.182.243|3128|United States|Dublin|Amazon.com, Inc.|
-|14|171.234.112.7|5103|Vietnam|Hanoi|Viettel Corporation|
-|15|1.20.141.224|8080|Thailand|Bangkok|TOT Public Company Limited|
-|16|171.6.94.114|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|17|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|18|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|15|57.128.37.47|3128|France|Gravelines|OVH SAS|
+|16|65.38.97.146|3128|United States|Washington|SunGard Availability Services LP|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|19|111.202.19.98|8080|China|Beijing|China Unicom Beijing Province Network|
+|20|111.202.19.199|8080|China|Beijing|China Unicom Beijing Province Network|
 
 
 
