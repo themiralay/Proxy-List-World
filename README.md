@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|170.106.144.64|8090|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|6|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|86.98.222.224|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
-|9|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|12|13.231.197.112|8888|Japan|Tokyo|Amazon Technologies Inc.|
-|13|88.99.209.189|1234|Germany|Falkenstein|Hetzner Online GmbH|
-|14|201.150.119.170|999|Mexico|Mineral de la Reforma|Hulux Telecomunicaciones|
-|15|172.167.161.8|8080|United Kingdom|City of London|Microsoft|
-|16|8.222.235.39|3128|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|18|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
-|19|43.133.13.187|10809|Japan|Tokyo|Aceville Pte.ltd|
-|20|65.38.97.146|3128|United States|Washington|SunGard Availability Services LP|
+|4|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
+|5|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
+|6|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
+|7|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|8|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|11|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
+|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|15|13.231.197.112|8888|Japan|Tokyo|Amazon Technologies Inc.|
+|16|1.0.136.191|8080|Thailand|Sattahip|TOT Public Company Limited|
+|17|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|65.38.97.146|3128|United States|Washington|SunGard Availability Services LP|
+|20|147.75.33.108|10072|The Netherlands|Amsterdam|Packet Host, Inc.|
 
 
 
