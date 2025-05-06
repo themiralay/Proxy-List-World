@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3913** proxies at the latest update. Usable proxies are below.
+> Scraper found **3902** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|69|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|69|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|69|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|200|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|591|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|580|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|200|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|47.236.224.32|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|4|34.143.143.61|7777|Singapore|Singapore|Google LLC|
 |5|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
-|6|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|10|74.208.45.39|3128|United States|Chicago|IONOS SE|
-|11|65.38.97.146|3128|United States|Washington|SunGard Availability Services LP|
-|12|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|14|202.51.98.229|7000|Indonesia|Jakarta|PT iForte Global Internet|
-|15|104.223.103.220|3428|United States|Los Angeles|QuadraNet Enterprises LLC|
-|16|172.167.161.8|8080|United Kingdom|City of London|Microsoft|
-|17|65.38.97.146|3128|United States|Washington|SunGard Availability Services LP|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|20|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|185.250.180.238|8080|Germany|Frankfurt am Main|ZhouyiSat Communications|
+|10|114.35.177.252|8089|Taiwan|Jincheng|Chunghwa Telecom Co., Ltd.|
+|11|74.208.45.39|3128|United States|Chicago|IONOS SE|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|65.38.97.146|3128|United States|Washington|SunGard Availability Services LP|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|80.190.82.58|14602|United Kingdom|Portsmouth|Contabo GmbH|
+|16|213.230.121.73|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|17|185.250.180.238|8080|Germany|Frankfurt am Main|ZhouyiSat Communications|
+|18|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|19|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
