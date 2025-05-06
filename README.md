@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|146.190.41.197|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|47.88.58.34|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|3|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|8|146.190.41.197|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|47.88.58.34|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|10|86.98.222.224|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
-|11|103.213.218.79|12591|Vietnam|Haiphong|V9ERP|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|57.128.37.47|3128|France|Gravelines|OVH SAS|
-|14|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|15|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|16|88.99.209.189|1234|Germany|Falkenstein|Hetzner Online GmbH|
-|17|170.106.144.64|8090|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|18|111.202.18.191|8080|China|Beijing|China Unicom Beijing Province Network|
-|19|111.202.18.47|8080|China|Beijing|China Unicom Beijing Province Network|
-|20|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|1|43.156.38.109|988|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|146.190.41.197|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|118.70.188.9|5102|Vietnam|Hanoi|FPT Telecom Company|
+|9|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|10|151.80.199.88|3128|France|Roubaix|OVH SAS|
+|11|146.190.41.197|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|88.99.209.189|1234|Germany|Falkenstein|Hetzner Online GmbH|
+|13|113.160.166.228|8082|Vietnam|Vinh|VietNam Post and Telecom Corporation|
+|14|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|15|111.202.18.191|8080|China|Beijing|China Unicom Beijing Province Network|
+|16|111.202.18.47|8080|China|Beijing|China Unicom Beijing Province Network|
+|17|111.202.18.92|8080|China|Beijing|China Unicom Beijing Province Network|
+|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|19|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
+|20|111.202.18.108|8080|China|Beijing|China Unicom Beijing Province Network|
 
 
 
