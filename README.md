@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|6|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|88.99.209.189|1234|Germany|Falkenstein|Hetzner Online GmbH|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|14|194.226.121.73|2052|Russia|Moscow|Baykov Ilya Sergeevich|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|4|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|194.226.121.73|2052|Russia|Moscow|Baykov Ilya Sergeevich|
+|9|88.99.209.189|1234|Germany|Falkenstein|Hetzner Online GmbH|
+|10|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|11|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|14|57.128.37.47|3128|France|Gravelines|OVH SAS|
 |15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|16|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|17|94.136.143.92|8888|Slovakia|Michalovce|Minet-sk|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|195.19.217.200|3128|Russia|Irkutsk|MTS PJSC|
-|20|111.202.19.206|8080|China|Beijing|China Unicom Beijing Province Network|
+|16|111.202.19.206|8080|China|Beijing|China Unicom Beijing Province Network|
+|17|118.70.188.71|5121|Vietnam|Hanoi|FPT Telecom Company|
+|18|118.70.188.22|5104|Vietnam|Hanoi|FPT Telecom Company|
+|19|111.202.18.108|8080|China|Beijing|China Unicom Beijing Province Network|
+|20|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
 
 
 
