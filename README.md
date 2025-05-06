@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|52|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|52|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|52|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|46|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|46|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|46|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|165|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|445|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|163|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|447|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|143|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
+|2|171.228.168.120|1001|Vietnam|Hanoi|Viettel Corporation|
 |3|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|4|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|188.225.78.238|3128|Russia|St Petersburg|TimeWeb Ltd.|
-|8|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|13|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
-|14|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|15|51.112.90.124|8118|United Arab Emirates|Dubai|Amazon.com, Inc.|
-|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|18|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|12|103.121.165.229|1443|China|Beijing|China Unicom Beijing Province Network|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|188.225.78.238|3128|Russia|St Petersburg|TimeWeb Ltd.|
+|15|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
+|16|194.226.121.73|2052|Russia|Moscow|Baykov Ilya Sergeevich|
+|17|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|18|170.78.208.241|999|Mexico|San Juan del Río|Wantelco SAS de CV|
 |19|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|20|201.77.97.46|999|Mexico|Huichapan|Hulux Telecomunicaciones|
+|20|118.70.188.22|5104|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
