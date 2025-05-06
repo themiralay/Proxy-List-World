@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|49.48.91.1|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
-|12|111.202.18.108|8080|China|Beijing|China Unicom Beijing Province Network|
-|13|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|14|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|15|43.133.13.187|10809|Japan|Tokyo|Aceville Pte.ltd|
-|16|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|17|111.202.18.167|8080|China|Beijing|China Unicom Beijing Province Network|
-|18|111.202.18.100|8080|China|Beijing|China Unicom Beijing Province Network|
-|19|160.30.83.10|82|India|Chennai|Virtel Communications Private Limited|
-|20|111.202.18.47|8080|China|Beijing|China Unicom Beijing Province Network|
+|6|88.99.209.189|1234|Germany|Falkenstein|Hetzner Online GmbH|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|10|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|172.167.161.8|8080|United Kingdom|City of London|Microsoft|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|15|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
+|16|111.202.18.108|8080|China|Beijing|China Unicom Beijing Province Network|
+|17|111.202.18.108|8080|China|Beijing|China Unicom Beijing Province Network|
+|18|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|19|111.202.19.199|8080|China|Beijing|China Unicom Beijing Province Network|
+|20|118.70.188.62|5102|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
