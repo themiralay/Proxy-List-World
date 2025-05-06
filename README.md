@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|2|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|172.167.161.8|8080|United Kingdom|City of London|Microsoft|
-|9|57.128.37.47|3128|France|Gravelines|OVH SAS|
-|10|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
-|11|72.10.160.91|10673|Canada|Montreal|GloboTech Communications|
-|12|67.43.236.18|6707|Canada|Montreal|GloboTech Communications|
-|13|62.33.53.248|3128|Russia|Drezna|TRANS-TELECOM|
-|14|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|15|103.88.229.59|8080|Indonesia|Kedaton|Institut Agama Islam Negeri Raden Intan Lampung|
-|16|123.186.146.68|8088|China|Benxi|CHINATELECOM Liaoning Benxi MAN|
-|17|194.226.121.50|2052|Russia|Moscow|Baykov Ilya Sergeevich|
-|18|172.167.161.8|8080|United Kingdom|City of London|Microsoft|
-|19|72.10.160.174|9563|Canada|Montreal|GloboTech Communications|
-|20|160.191.237.200|1219|Vietnam|Cẩm Lệ|Viet Digital Technology Liability Company|
+|1|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|6|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|7|88.99.209.189|1234|Germany|Falkenstein|Hetzner Online GmbH|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|119.235.19.229|8080|Indonesia|Lembang|PT Inet Global Indo|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|57.128.37.47|3128|France|Gravelines|OVH SAS|
+|12|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|13|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|16|201.150.118.26|999|Mexico|Mineral de la Reforma|Hulux Telecomunicaciones|
+|17|65.38.97.146|3128|United States|Washington|SunGard Availability Services LP|
+|18|43.133.13.187|10809|Japan|Tokyo|Aceville Pte.ltd|
+|19|103.121.165.229|1443|China|Beijing|China Unicom Beijing Province Network|
+|20|103.154.118.154|57413|Indonesia|Jakarta|MORATELINDONAP|
 
 
 
