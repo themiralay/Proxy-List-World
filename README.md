@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|35|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|35|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|35|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|39|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|39|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|39|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|8|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|57.128.37.47|3128|France|Gravelines|OVH SAS|
+|9|101.108.99.241|8080|Thailand|Bangkok|TOT Public Company Limited|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|192.145.228.209|8082|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
 |12|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
-|13|67.43.228.253|21103|Canada|Montreal|GloboTech Communications|
-|14|157.90.212.84|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|15|72.10.160.170|28475|Canada|Montreal|GloboTech Communications|
-|16|67.43.228.250|24667|Canada|Montreal|GloboTech Communications|
-|17|72.10.164.178|17933|Canada|Montreal|GloboTech Communications|
-|18|72.10.160.90|23739|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.18|3497|Canada|Montreal|GloboTech Communications|
-|20|118.70.188.22|5104|Vietnam|Hanoi|FPT Telecom Company|
+|13|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
+|14|103.142.60.190|2023|Indonesia|Klaten|UTARAMEDIANET|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|88.99.209.189|1234|Germany|Falkenstein|Hetzner Online GmbH|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|67.43.236.18|3497|Canada|Montreal|GloboTech Communications|
+|19|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|20|65.38.97.146|3128|United States|Washington|SunGard Availability Services LP|
 
 
 
