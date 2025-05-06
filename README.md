@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|64|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|64|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|64|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|1|170.106.144.64|8090|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
 |2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
-|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|10|157.10.97.107|8383|Indonesia|Pulau Temiang|PT Lintas Jaringan Nusantara|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|65.38.97.146|3128|United States|Washington|SunGard Availability Services LP|
-|15|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
-|16|194.226.121.73|2052|Russia|Moscow|Baykov Ilya Sergeevich|
-|17|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|18|118.70.188.120|5104|Vietnam|Hanoi|FPT Telecom Company|
-|19|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|20|67.43.228.250|29499|Canada|Montreal|GloboTech Communications|
+|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|6|170.106.144.64|8090|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|9|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|10|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|11|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|57.128.37.47|3128|France|Gravelines|OVH SAS|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|16|65.38.97.146|3128|United States|Washington|SunGard Availability Services LP|
+|17|65.38.97.146|3128|United States|Washington|SunGard Availability Services LP|
+|18|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|19|43.156.38.109|988|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|20|103.234.254.18|57413|Indonesia|Jakarta|Maxindo|
 
 
 
