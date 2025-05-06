@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|69|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|69|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|69|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|47.236.224.32|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
 |7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|9|103.159.220.215|8080|Indonesia|Jakarta|Universitas Muhammadiyah Jakarta|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|34.143.143.61|7777|Singapore|Singapore|Google LLC|
 |10|74.208.45.39|3128|United States|Chicago|IONOS SE|
-|11|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|12|121.200.50.33|3128|India|Coimbatore|WLSNET|
-|13|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|14|65.38.97.146|3128|United States|Washington|SunGard Availability Services LP|
-|15|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|18|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
-|19|165.227.150.53|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|103.121.165.229|1443|China|Beijing|China Unicom Beijing Province Network|
+|11|65.38.97.146|3128|United States|Washington|SunGard Availability Services LP|
+|12|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|14|202.51.98.229|7000|Indonesia|Jakarta|PT iForte Global Internet|
+|15|104.223.103.220|3428|United States|Los Angeles|QuadraNet Enterprises LLC|
+|16|172.167.161.8|8080|United Kingdom|City of London|Microsoft|
+|17|65.38.97.146|3128|United States|Washington|SunGard Availability Services LP|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|20|34.102.48.89|8080|United States|Los Angeles|Google LLC|
 
 
 
