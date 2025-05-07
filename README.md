@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3790** proxies at the latest update. Usable proxies are below.
+> Scraper found **3778** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|212|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|487|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|475|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|169|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|2|113.184.230.134|8080|Vietnam|Biên Hòa|VNPT|
+|1|113.184.230.134|8080|Vietnam|Biên Hòa|VNPT|
+|2|27.79.138.37|16000|Vietnam|Hanoi|Viettel Corporation|
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|27.79.138.37|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|4|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |6|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|7|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|181.66.181.109|999|Peru|Lima|Telefonica del Peru S.A.A.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
-|13|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
-|14|115.77.115.252|1452|Vietnam|Can Tho|Viettel Group|
-|15|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|7|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|10|14.181.68.241|5104|Vietnam|Vĩnh Yên|VNPT|
+|11|181.66.181.109|999|Peru|Lima|Telefonica del Peru S.A.A.|
+|12|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|115.147.34.75|8082|Philippines|Taguig|Philippine Long Distance Telephone Co.|
+|17|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|18|14.181.68.241|5104|Vietnam|Vĩnh Yên|VNPT|
 |19|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|20|72.14.178.181|50513|United States|Richardson|Akamai Technologies, Inc.|
+|20|34.143.143.61|7777|Singapore|Singapore|Google LLC|
 
 
 
