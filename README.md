@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|2|116.110.21.229|10001|Vietnam|Da Nang|Viettel Corporation|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
-|11|79.116.15.191|3128|Spain|Madrid|Digi Spain Telecom S.L.U.|
-|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|13|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|185.207.107.155|8181|Germany|Nuremberg|netcup GmbH|
-|16|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|17|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|18|78.186.199.213|3310|Türkiye|Istanbul|TurkTelecom|
-|19|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
-|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|62.33.91.10|3128|Russia|Tynda|TRANS-TELECOM|
+|4|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|5|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|114.35.177.252|8089|Taiwan|Jincheng|Chunghwa Telecom Co., Ltd.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|12|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|13|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|14|147.45.255.108|3128|The Netherlands|Amsterdam|TimeWeb Ltd.|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|19|74.207.237.207|50513|United States|Atlanta|Akamai Technologies, Inc.|
+|20|157.15.172.30|8080|Indonesia|Kendari|MITRATELEKOMUNIKASINUSANTARA|
 
 
 
