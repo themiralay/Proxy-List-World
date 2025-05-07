@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
-|6|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|7|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
+|2|43.156.38.109|988|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|171.6.76.78|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|4|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|5|34.47.178.78|3128|India|Mumbai|Google LLC|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|12|34.47.178.78|3128|India|Mumbai|Google LLC|
-|13|172.167.161.8|8080|United Kingdom|City of London|Microsoft|
-|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|15|78.186.199.213|3310|Türkiye|Istanbul|TurkTelecom|
-|16|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|203.150.128.148|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|11|172.167.161.8|8080|United Kingdom|City of London|Microsoft|
+|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|13|82.197.64.28|3167|United States|Orangeburg|Nubes, LLC|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|82.197.64.28|3167|United States|Orangeburg|Nubes, LLC|
+|16|74.207.237.207|50513|United States|Atlanta|Akamai Technologies, Inc.|
 |17|74.207.237.207|50513|United States|Atlanta|Akamai Technologies, Inc.|
-|18|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|19|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|20|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|18|78.186.199.213|3310|Türkiye|Istanbul|TurkTelecom|
+|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|20|34.102.48.89|8080|United States|Los Angeles|Google LLC|
 
 
 
