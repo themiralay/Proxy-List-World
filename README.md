@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|3|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|4|43.156.38.109|988|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|222.253.138.28|1010|Vietnam|Quận Bốn|VietNam Post and Telecom Corporation|
-|6|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|74.207.237.207|50513|United States|Atlanta|Akamai Technologies, Inc.|
+|1|114.35.177.252|8089|Taiwan|Jincheng|Chunghwa Telecom Co., Ltd.|
+|2|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|43.156.38.109|988|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|47.236.224.32|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |9|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|171.228.131.63|5107|Vietnam|Hanoi|Viettel Corporation|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
+|10|74.207.237.207|50513|United States|Atlanta|Akamai Technologies, Inc.|
+|11|103.213.218.9|24926|Vietnam|Haiphong|V9ERP|
+|12|171.228.131.63|5107|Vietnam|Hanoi|Viettel Corporation|
+|13|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
 |14|34.47.178.78|3128|India|Mumbai|Google LLC|
-|15|14.163.133.56|5108|Vietnam|Hanoi|VNPT-VNNIC|
-|16|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|17|74.207.237.207|50513|United States|Atlanta|Akamai Technologies, Inc.|
-|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|16|14.163.133.56|5108|Vietnam|Hanoi|VNPT-VNNIC|
+|17|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|20|74.207.237.207|50513|United States|Atlanta|Akamai Technologies, Inc.|
 
 
 
