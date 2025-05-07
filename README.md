@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|63|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|63|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|63|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|147.75.92.251|9443|Japan|Koto-ku|Packet Host, Inc.|
 |2|113.184.230.134|8080|Vietnam|Biên Hòa|VNPT|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|57.128.37.47|3128|France|Gravelines|OVH SAS|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|114.35.177.252|8089|Taiwan|Jincheng|Chunghwa Telecom Co., Ltd.|
-|10|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|11|80.190.82.58|14602|United Kingdom|Portsmouth|Contabo GmbH|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|65.38.97.146|3128|United States|Washington|SunGard Availability Services LP|
-|14|181.198.1.82|999|Ecuador|Guayaquil|Telconet S.A|
-|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|16|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
-|17|113.184.230.134|8080|Vietnam|Biên Hòa|VNPT|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|147.75.92.251|9443|Japan|Koto-ku|Packet Host, Inc.|
+|5|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
+|6|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
+|10|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|14|8.222.235.39|3128|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|16|181.198.1.82|999|Ecuador|Guayaquil|Telconet S.A|
+|17|57.128.37.47|3128|France|Gravelines|OVH SAS|
 |18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|88.99.209.189|1234|Germany|Falkenstein|Hetzner Online GmbH|
-|20|185.26.201.73|8080|Germany|Frankfurt am Main|Interactive Network Communications|
+|19|208.67.28.27|58090|United States|Eagle River|SonicNet Inc.|
+|20|34.143.143.61|7777|Singapore|Singapore|Google LLC|
 
 
 
