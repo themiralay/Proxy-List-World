@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|63|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|63|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|63|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|72|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|72|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|72|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.184.230.134|8080|Vietnam|Biên Hòa|VNPT|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|5|79.116.15.191|3128|Spain|Madrid|Digi Spain Telecom S.L.U.|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|194.226.121.73|2052|Russia|Moscow|Baykov Ilya Sergeevich|
-|8|194.226.121.50|2052|Russia|Moscow|Baykov Ilya Sergeevich|
-|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|10|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|41.89.22.100|3128|Kenya|Nairobi|KENET|
-|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|14|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
-|15|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
-|16|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|178.124.211.92|8080|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
-|18|194.226.121.50|2052|Russia|Moscow|Baykov Ilya Sergeevich|
-|19|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|20|113.184.230.134|8080|Vietnam|Biên Hòa|VNPT|
+|4|182.253.42.148|8082|Indonesia|Ubud|BIZNET|
+|5|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
+|6|203.190.41.177|8085|Indonesia|Yogyakarta|PT Jaring Lintas Utara|
+|7|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|8|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|9|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
+|10|113.184.230.134|8080|Vietnam|Biên Hòa|VNPT|
+|11|43.156.38.109|988|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|13|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|79.116.15.191|3128|Spain|Madrid|Digi Spain Telecom S.L.U.|
+|17|104.223.103.220|3428|United States|Los Angeles|QuadraNet Enterprises LLC|
+|18|194.226.121.73|2052|Russia|Moscow|Baykov Ilya Sergeevich|
+|19|114.35.177.252|8089|Taiwan|Jincheng|Chunghwa Telecom Co., Ltd.|
+|20|116.108.209.75|10110|Vietnam|Ho Chi Minh City|Viettel Corporation|
 
 
 
