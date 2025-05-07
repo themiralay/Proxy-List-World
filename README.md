@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|47.236.224.32|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |6|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
 |7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|47.236.224.32|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|10|45.87.68.2|15321|Germany|Frankfurt am Main|Cogent Communications|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|172.167.161.8|8080|United Kingdom|City of London|Microsoft|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|47.245.30.253|8080|Japan|Tokyo|Alibaba Cloud LLC|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|149.113.84.36|8080|Indonesia|Sleman|Linknet-Fastnet ASN|
+|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
 |13|185.250.180.238|8080|Germany|Frankfurt am Main|ZhouyiSat Communications|
-|14|200.35.50.89|3028|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|15|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|16|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|17|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|18|79.116.15.191|3128|Spain|Madrid|Digi Spain Telecom S.L.U.|
-|19|194.238.27.111|3128|United States|St Louis|Nubes, LLC|
-|20|185.41.152.110|3128|France|Valenciennes|global|
+|14|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|15|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
+|16|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|17|79.116.15.191|3128|Spain|Madrid|Digi Spain Telecom S.L.U.|
+|18|115.147.34.75|8082|Philippines|Taguig|Philippine Long Distance Telephone Co.|
+|19|221.202.27.194|10810|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
