@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|2|113.183.72.12|8080|Vietnam|Bắc Giang|VNPT|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|9|47.236.224.32|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|170.106.144.64|8090|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|65.109.88.242|1080|Finland|Helsinki|Hetzner Online GmbH|
-|14|156.251.62.224|8118|Hong Kong|Hong Kong|Tcloudnet|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|1|113.183.72.12|8080|Vietnam|Bắc Giang|VNPT|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|4|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|5|103.238.232.198|8080|Indonesia|Bekasi|PT Digital Netcom Solution|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|47.236.224.32|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|170.106.144.64|8090|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|14|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
+|15|72.14.178.181|50513|United States|Richardson|Akamai Technologies, Inc.|
 |16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
-|18|68.183.179.119|8888|Singapore|Singapore|DigitalOcean, LLC|
-|19|206.238.76.90|28080|Singapore|Singapore|Tcloudnet|
-|20|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|38.7.16.83|999|Mexico|Lázaro Cárdenas|Internet Telefonia Y TV De Michoacan SA De CV|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|20|34.143.143.61|7777|Singapore|Singapore|Google LLC|
 
 
 
