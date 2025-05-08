@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|66|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|66|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|66|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|45|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|45|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|45|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|7|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|10|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|11|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|4|74.207.237.207|50513|United States|Atlanta|Akamai Technologies, Inc.|
+|5|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|6|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|7|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|8|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|172.188.122.92|80|Singapore|Singapore|Microsoft|
 |12|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|13|213.199.49.191|3128|Germany|Düsseldorf|Contabo GmbH|
-|14|74.207.237.207|50513|United States|Atlanta|Akamai Technologies, Inc.|
-|15|200.225.124.1|999|Chile|San Bernardo|Servicios De Telecomunicaciones Dropp Limitada|
-|16|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|181.230.151.52|8080|Argentina|Venado Tuerto|Telecom Argentina S.A.|
+|14|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|15|202.59.197.135|8080|Indonesia|Jakarta|EZY|
+|16|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|17|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
 |18|149.102.189.191|8888|United Kingdom|Oxford|Zzoomm plc|
-|19|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
-|20|223.205.16.66|8080|Thailand|Nakhon Pathom|Triple T Broadband Public Company Limited|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
