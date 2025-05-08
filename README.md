@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|69|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|69|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|69|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|43.156.38.109|988|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|1|43.156.38.109|988|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|103.191.171.138|8080|Indonesia|Cianjur|PT Sahabat Manjur Grup|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|103.68.214.123|8080|Indonesia|Tangerang|PT Media Grasi Internet|
-|14|36.93.73.154|8080|Indonesia|South Tangerang|Telekomunikasi Indonesia|
-|15|159.89.239.166|18099|United States|North Bergen|DigitalOcean, LLC|
-|16|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|18|104.247.51.75|8080|United States|Brooklyn|Lightower Fiber Networks I|
-|19|104.247.51.75|8080|United States|Brooklyn|Lightower Fiber Networks I|
-|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|7|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|10|104.247.51.75|8080|United States|Brooklyn|Lightower Fiber Networks I|
+|11|160.250.35.14|8080|Indonesia|VILLA PERMATA HIJAU|PT Inovasi Data Xprime|
+|12|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|104.247.51.75|8080|United States|Brooklyn|Lightower Fiber Networks I|
+|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|155.94.128.59|10809|United States|Los Angeles|QuadraNet Enterprises LLC|
+|18|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|19|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|20|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
 
 
 
