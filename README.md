@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|59|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|59|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|59|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|2|43.156.38.109|988|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
-|6|47.236.224.32|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|4|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|5|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |7|104.247.51.75|8080|United States|Brooklyn|Lightower Fiber Networks I|
-|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|9|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|104.247.51.75|8080|United States|Brooklyn|Lightower Fiber Networks I|
-|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|14|41.89.22.100|3128|Kenya|Nairobi|KENET|
-|15|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|16|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|17|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|18|47.236.224.32|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|20|159.89.239.166|18099|United States|North Bergen|DigitalOcean, LLC|
+|8|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|104.247.51.75|8080|United States|Brooklyn|Lightower Fiber Networks I|
+|11|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|12|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|13|123.186.146.68|8088|China|Benxi|CHINATELECOM Liaoning Benxi MAN|
+|14|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|15|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
+|16|36.95.27.225|8080|Indonesia|Cilegon|PT. Telekomunikasi Indonesia|
+|17|213.199.49.191|3128|Germany|Düsseldorf|Contabo GmbH|
+|18|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|72.10.160.171|5505|Canada|Montreal|GloboTech Communications|
 
 
 
