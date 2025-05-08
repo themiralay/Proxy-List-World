@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|4|65.2.44.94|80|India|Mumbai|Amazon.com|
-|5|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|6|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|130.185.104.62|4128|Germany|Nuremberg|Xirra GmbH|
-|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|10|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|11|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|12|213.199.49.191|3128|Germany|Düsseldorf|Contabo GmbH|
-|13|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|44.196.210.220|3128|United States|Ashburn|Amazon.com|
-|16|79.116.15.191|3128|Spain|Madrid|Digi Spain Telecom S.L.U.|
-|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|18|172.167.161.8|8080|United Kingdom|City of London|Microsoft|
-|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|20|115.147.25.16|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|1|43.156.38.109|988|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|114.35.177.252|8089|Taiwan|Jincheng|Chunghwa Telecom Co., Ltd.|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
+|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|10|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|11|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|130.185.104.62|4128|Germany|Nuremberg|Xirra GmbH|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|16|80.1.215.23|8888|United Kingdom|Manchester|Virgin Media Limited|
+|17|79.116.15.191|3128|Spain|Madrid|Digi Spain Telecom S.L.U.|
+|18|44.196.210.220|3128|United States|Ashburn|Amazon.com|
+|19|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|20|213.199.49.191|3128|Germany|Düsseldorf|Contabo GmbH|
 
 
 
