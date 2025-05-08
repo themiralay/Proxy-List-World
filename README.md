@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4248** proxies at the latest update. Usable proxies are below.
+> Scraper found **4264** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|570|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|586|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|456|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.163.121.21|5104|Vietnam|Hanoi|VNPT-VNNIC|
-|2|115.72.47.230|10006|Vietnam|Ho Chi Minh City|VIETELmetro|
-|3|146.190.169.81|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|74.82.50.155|3128|Japan|Shinagawa|Hurricane Electric|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|74.82.50.155|3128|Japan|Shinagawa|Hurricane Electric|
+|2|74.82.50.155|3128|Japan|Shinagawa|Hurricane Electric|
+|3|14.163.121.21|5104|Vietnam|Hanoi|VNPT-VNNIC|
+|4|146.190.169.81|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|34.143.143.61|7777|Singapore|Singapore|Google LLC|
 |6|27.79.185.78|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|8|146.190.169.81|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|3.14.143.130|3128|United States|Dublin|Amazon.com, Inc.|
-|11|210.87.90.213|8080|Indonesia|Dayanpeken|MYREPUBLIC|
+|7|210.87.90.213|8080|Indonesia|Dayanpeken|MYREPUBLIC|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
+|10|146.190.169.81|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|3.14.143.130|3128|United States|Dublin|Amazon.com, Inc.|
 |12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |13|3.14.143.130|3128|United States|Dublin|Amazon.com, Inc.|
 |14|45.129.141.49|3128|Slovakia|Bratislava|eServer s.r.o.|
 |15|213.199.49.191|3128|Germany|Düsseldorf|Contabo GmbH|
-|16|74.82.50.155|3128|Japan|Shinagawa|Hurricane Electric|
-|17|94.103.83.90|3128|Russia|Moscow|Hosting technology LTD|
-|18|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|19|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|20|109.123.238.230|14602|Singapore|Singapore|Contabo Asia Private Limited|
+|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|17|80.190.82.58|14602|United Kingdom|Portsmouth|Contabo GmbH|
+|18|46.101.104.251|39815|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|94.103.83.90|3128|Russia|Moscow|Hosting technology LTD|
+|20|34.143.143.61|7777|Singapore|Singapore|Google LLC|
 
 
 
