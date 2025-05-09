@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.167.180.72|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
+|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |5|44.196.210.220|3128|United States|Ashburn|Amazon.com|
-|6|47.236.224.32|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|44.196.210.220|3128|United States|Ashburn|Amazon.com|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|11|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|12|46.130.117.84|8080|Armenia|Yerevan|K-Telecom GPRS/3G|
-|13|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|14|103.110.10.166|8181|Indonesia|Babakangarut|PT Citra Jelajah Informatika|
-|15|45.32.28.107|1007|Japan|Ageo|Choopa|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|113.183.72.12|8080|Vietnam|Bắc Giang|VNPT|
+|6|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|9|44.196.210.220|3128|United States|Ashburn|Amazon.com|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|14|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|16|103.110.10.166|8181|Indonesia|Babakangarut|PT Citra Jelajah Informatika|
+|17|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
 |18|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|19|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|19|79.116.15.191|3128|Spain|Madrid|Digi Spain Telecom S.L.U.|
 |20|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
 
 
