@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|34.102.48.89|8080|United States|Los Angeles|Google LLC|
 |2|113.183.72.12|8080|Vietnam|Bắc Giang|VNPT|
-|3|43.156.38.109|988|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|6|172.232.114.117|3128|India|Chennai|Akamai Technologies, Inc.|
-|7|172.232.114.92|3128|India|Chennai|Akamai Technologies, Inc.|
-|8|3.110.127.154|3128|India|Mumbai|Amazon Technologies Inc.|
-|9|172.232.114.118|3128|India|Chennai|Akamai Technologies, Inc.|
-|10|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|14|222.127.76.123|8080|Philippines|Lahug|INNOVE|
-|15|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|16|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|18|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|19|1.10.213.233|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|20|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|172.232.114.118|3128|India|Chennai|Akamai Technologies, Inc.|
+|5|172.232.114.117|3128|India|Chennai|Akamai Technologies, Inc.|
+|6|172.232.114.230|3128|India|Chennai|Akamai Technologies, Inc.|
+|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|8|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|9|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|10|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
+|11|3.110.127.154|3128|India|Mumbai|Amazon Technologies Inc.|
+|12|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|13|172.232.114.92|3128|India|Chennai|Akamai Technologies, Inc.|
+|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|15|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|18|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
+|19|180.191.59.103|9995|Philippines|Tarlac City|Globe Telecom|
+|20|14.163.153.131|5104|Vietnam|Hanoi|VNPT-VNNIC|
 
 
 
