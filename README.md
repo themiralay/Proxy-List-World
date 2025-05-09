@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|64|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|64|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|64|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|113.183.72.12|8080|Vietnam|Bắc Giang|VNPT|
+|5|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
 |6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|8|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|9|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|7|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
 |10|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|11|103.167.31.154|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|13|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
-|14|43.133.13.187|10809|Japan|Tokyo|Aceville Pte.ltd|
-|15|186.159.23.234|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|16|177.253.227.22|999|Colombia|Medellín|Colombia Móvil|
-|17|182.253.39.242|8080|Indonesia|Jakarta|BIZNET|
-|18|49.148.158.173|8082|Philippines|Iligan|Philippine Long Distance Telephone Co.|
-|19|187.249.114.251|8080|Mexico|Teapa|Transtelco Inc|
-|20|36.64.10.162|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|11|185.250.180.238|8080|Germany|Frankfurt am Main|ZhouyiSat Communications|
+|12|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|13|103.179.218.15|1080|Indonesia|Pandeglang|PT Wistel Teknologi Solusi|
+|14|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|15|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|186.6.215.184|999|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A.|
+|17|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|18|79.116.15.191|3128|Spain|Madrid|Digi Spain Telecom S.L.U.|
+|19|36.37.86.26|9812|Indonesia|Tangerang|LINTASARTA|
+|20|14.229.244.167|8080|Vietnam|Hanoi|VNPT|
 
 
 
