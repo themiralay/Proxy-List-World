@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3855** proxies at the latest update. Usable proxies are below.
+> Scraper found **3897** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|53|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|53|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|53|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|60|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|60|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|60|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|459|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|501|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|174|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|43.167.180.72|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
 |2|113.183.72.12|8080|Vietnam|Bắc Giang|VNPT|
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|5|201.131.203.142|999|Mexico|Zaragoza|Computadoras y Servicios Especiales SA de CV|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|8|36.95.22.27|8080|Indonesia|Cilegon|PT. Telekomunikasi Indonesia|
-|9|190.61.116.244|999|Honduras|Tegucigalpa|Ufinet Honduras|
-|10|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|45.124.170.5|8080|Bangladesh|Dhaka|Nextonline Limited|
-|13|187.249.114.251|8080|Mexico|Teapa|Transtelco Inc|
-|14|201.77.96.160|999|Mexico|Actopan|Hulux Telecomunicaciones|
-|15|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|16|14.224.218.210|8080|Vietnam|Hanoi|VNPT|
-|17|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|18|89.213.106.253|999|Mexico|Doctor Mora|Wifimax Connection S.a.s De C.V|
-|19|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
-|20|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
+|4|49.48.50.19|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|9|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|10|213.199.49.191|3128|Germany|Düsseldorf|Contabo GmbH|
+|11|103.247.14.26|8080|Indonesia|Klaten|TERABIT|
+|12|79.116.15.191|3128|Spain|Madrid|Digi Spain Telecom S.L.U.|
+|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|14|47.236.224.32|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|16|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|17|187.249.114.251|8080|Mexico|Teapa|Transtelco Inc|
+|18|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
+|19|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|20|43.133.13.187|10809|Japan|Tokyo|Aceville Pte.ltd|
 
 
 
