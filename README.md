@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3727** proxies at the latest update. Usable proxies are below.
+> Scraper found **3795** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|378|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|446|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|127|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|43.167.180.72|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|5|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
 |6|113.183.72.12|8080|Vietnam|Bắc Giang|VNPT|
-|7|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|8|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|9|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|10|103.172.71.85|8080|Indonesia|Pelabuhanratu|AZNET|
-|11|147.75.92.248|80|Japan|Koto-ku|Packet Host, Inc.|
-|12|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|13|201.77.96.160|999|Mexico|Actopan|Hulux Telecomunicaciones|
-|14|43.133.13.187|10809|Japan|Tokyo|Aceville Pte.ltd|
-|15|187.249.114.251|8080|Mexico|Teapa|Transtelco Inc|
-|16|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|17|103.121.165.229|1443|China|Beijing|China Unicom Beijing Province Network|
-|18|168.121.242.2|999|Mexico|San Felipe|Wifimax Connection S.a.s De C.V|
-|19|180.191.23.221|8081|Philippines|Cabanatuan City|Globe Telecom|
-|20|114.9.27.142|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|7|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|8|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|160.20.129.1|1111|Indonesia|Cikarang|PT Media Solusi Sukses|
+|11|103.162.54.151|8080|Indonesia|Cikampek|PT Pratama Asia Globalindo|
+|12|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
+|13|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|14|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
+|15|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|79.116.15.191|3128|Spain|Madrid|Digi Spain Telecom S.L.U.|
+|17|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|18|43.133.13.187|10809|Japan|Tokyo|Aceville Pte.ltd|
+|19|103.126.87.203|8080|Indonesia|Klaten|PT. Rasi Bintang Perkasa|
+|20|79.116.15.191|3128|Spain|Madrid|Digi Spain Telecom S.L.U.|
 
 
 
