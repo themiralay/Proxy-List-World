@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.167.180.72|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|113.183.72.12|8080|Vietnam|Bắc Giang|VNPT|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|10|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|11|49.48.41.53|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|12|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|13|154.73.28.145|8080|Libya|Tripoli|Rawafed|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|7|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|8|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|13|34.143.143.61|7777|Singapore|Singapore|Google LLC|
 |14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |15|172.188.122.92|80|Singapore|Singapore|Microsoft|
 |16|44.196.210.220|3128|United States|Ashburn|Amazon.com|
 |17|44.196.210.220|3128|United States|Ashburn|Amazon.com|
-|18|213.199.49.191|3128|Germany|Düsseldorf|Contabo GmbH|
+|18|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
 |19|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|20|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
+|20|213.199.49.191|3128|Germany|Düsseldorf|Contabo GmbH|
 
 
 
