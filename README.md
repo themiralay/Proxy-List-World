@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.167.180.72|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|5|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
+|1|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|2|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |6|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
 |7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|9|124.158.163.218|1111|Indonesia|Kudus|ICON+|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|12|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|13|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|14|187.249.114.251|8080|Mexico|Teapa|Transtelco Inc|
-|15|3.129.171.226|80|United States|Dublin|Amazon.com, Inc.|
-|16|186.6.215.184|999|Dominican Republic|Santiago de los Caballeros|Compañía Dominicana de Teléfonos S. A.|
-|17|34.57.254.166|3128|United States|Council Bluffs|Google LLC|
-|18|213.199.49.191|3128|Germany|Düsseldorf|Contabo GmbH|
-|19|177.253.227.22|999|Colombia|Medellín|Colombia Móvil|
-|20|67.43.236.20|21275|Canada|Montreal|GloboTech Communications|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|38.242.135.162|4857|Germany|Düsseldorf|Contabo GmbH|
+|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|11|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|16|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
+|17|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|18|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|19|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|20|187.249.114.251|8080|Mexico|Teapa|Transtelco Inc|
 
 
 
