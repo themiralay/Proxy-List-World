@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.167.180.72|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.167.178.14|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.167.180.102|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.156.38.109|988|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|203.150.128.30|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|10|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|1|43.167.179.127|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.167.180.72|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.167.178.14|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|4|104.225.150.168|8081|United States|Los Angeles|IT7 Networks Inc|
+|5|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|6|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|104.225.150.168|8081|United States|Los Angeles|IT7 Networks Inc|
+|9|203.150.128.30|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|10|43.167.180.72|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
 |11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|13|47.236.224.32|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|15|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|17|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|13|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
+|14|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|15|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|16|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|17|213.199.49.191|3128|Germany|Düsseldorf|Contabo GmbH|
+|18|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|20|34.102.48.89|8080|United States|Los Angeles|Google LLC|
 
 
 
