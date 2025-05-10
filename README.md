@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.167.180.72|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|49.48.40.8|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|3|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
-|6|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|195.110.39.30|5050|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
-|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|14|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
-|15|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
-|16|103.81.65.199|8081|Indonesia|Bandar Lampung|QIUNET|
-|17|36.95.27.225|8080|Indonesia|Cilegon|PT. Telekomunikasi Indonesia|
-|18|46.161.194.86|8085|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|19|104.247.51.75|8080|United States|Brooklyn|Lightower Fiber Networks I|
-|20|140.227.81.191|3128|Japan|Chiyoda|InfoSphere|
+|1|43.156.38.109|988|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|49.48.40.8|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|6|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|13|190.61.45.71|999|Colombia|Tangua|Ufinet Panama S.A.|
+|14|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|15|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|16|201.77.97.46|999|Mexico|Huichapan|Hulux Telecomunicaciones|
+|17|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
+|18|37.210.150.0|8080|Qatar|Doha|Ooredoo-MBB|
+|19|213.199.49.191|3128|Germany|Düsseldorf|Contabo GmbH|
+|20|58.69.183.216|8080|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
 
 
 
