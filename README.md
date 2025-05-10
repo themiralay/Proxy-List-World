@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|44|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|44|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|44|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|57|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|57|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|57|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|4|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
-|5|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|8|79.116.15.191|3128|Spain|Madrid|Digi Spain Telecom S.L.U.|
-|9|179.56.198.22|999|Chile|Port Montt|Telefonica del Sur S.A.|
-|10|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|11|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|12|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|13|27.79.251.171|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|52.56.127.183|3128|United Kingdom|London|Amazon Technologies Inc.|
-|17|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|18|46.101.104.251|45981|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|20|156.251.62.226|8118|Hong Kong|Hong Kong|Tcloudnet|
+|1|43.167.180.72|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|7|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
+|8|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|103.8.59.12|8080|Indonesia|Jakarta|PT Prime Link Communication|
+|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|182.53.149.154|8080|Thailand|Phitsanulok|TOT Public Company Limited|
+|13|103.121.165.229|1443|China|Beijing|China Unicom Beijing Province Network|
+|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|177.253.227.22|999|Colombia|Medellín|Colombia Móvil|
+|16|72.10.160.90|20911|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.250|3321|Canada|Montreal|GloboTech Communications|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|201.77.96.160|999|Mexico|Actopan|Hulux Telecomunicaciones|
+|20|72.10.160.171|13671|Canada|Montreal|GloboTech Communications|
 
 
 
