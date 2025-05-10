@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|69|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|69|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|69|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|48|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|48|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|48|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.156.38.109|988|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|103.164.192.92|8080|Indonesia|Kebonsari|PT Chayo Anugrah Teknologi|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|12|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|8|43.156.38.109|988|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|11|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|12|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
 |13|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|18|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|20|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|14|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
+|15|79.116.15.191|3128|Spain|Madrid|Digi Spain Telecom S.L.U.|
+|16|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|17|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
+|18|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|19|181.119.94.16|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
