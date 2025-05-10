@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.167.180.72|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
-|4|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|5|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|6|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|89.117.75.145|3009|United States|Orangeburg|Nubes, LLC|
-|9|45.5.94.178|3128|Mexico|Saltillo|Señal Interactiva, S.A De C.V|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|104.247.51.75|8080|United States|Brooklyn|Lightower Fiber Networks I|
-|12|103.151.22.26|8082|Indonesia|Jakarta|TERABYTE|
-|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|14|154.27.196.213|999|Mexico|Guadalajara|Cogent Communications|
-|15|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|16|200.98.201.8|25000|Brazil|São Paulo|Universo Online S.A.|
-|17|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|18|44.196.210.220|3128|United States|Ashburn|Amazon.com|
-|19|45.70.236.194|999|Ecuador|Simón Bolívar|Ufinet Panama S.A.|
-|20|170.78.208.241|999|Mexico|San Juan del Río|Wantelco SAS de CV|
+|2|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|7|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|8|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|9|170.106.144.64|8090|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|13|104.247.51.75|8080|United States|Brooklyn|Lightower Fiber Networks I|
+|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|15|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|16|45.70.236.194|999|Ecuador|Simón Bolívar|Ufinet Panama S.A.|
+|17|181.129.1.229|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|18|213.199.49.191|3128|Germany|Düsseldorf|Contabo GmbH|
+|19|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|20|3.110.60.103|80|India|Mumbai|Amazon Technologies Inc.|
 
 
 
