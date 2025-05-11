@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.167.180.102|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|2|43.167.178.163|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|3|43.167.177.118|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.167.178.75|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|5|43.167.168.72|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|6|43.167.178.46|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|7|43.167.180.57|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|8|43.167.184.169|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|9|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|170.106.144.64|8090|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|43.167.254.25|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.167.180.72|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.167.180.91|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.167.198.201|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|5|43.167.178.163|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|6|43.167.177.118|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|7|43.167.178.46|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|8|43.167.179.127|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|9|43.167.178.75|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|10|43.167.180.57|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|11|43.167.184.169|13001|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|15|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
 |16|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|17|185.250.180.238|8080|Germany|Frankfurt am Main|ZhouyiSat Communications|
-|18|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 
 
 
