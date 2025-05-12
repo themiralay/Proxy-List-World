@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3803** proxies at the latest update. Usable proxies are below.
+> Scraper found **3895** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|59|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|59|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|59|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|68|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|68|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|68|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|444|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|536|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|137|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|2|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |5|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|6|119.156.195.169|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|104.247.51.75|3128|United States|Brooklyn|Lightower Fiber Networks I|
-|10|27.66.117.172|10007|Vietnam|Hanoi|Viettel Group|
-|11|185.250.180.238|8080|Germany|Frankfurt am Main|ZhouyiSat Communications|
-|12|123.186.146.68|8088|China|Benxi|CHINATELECOM Liaoning Benxi MAN|
-|13|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|14|50.235.247.114|8085|United States|Wallingford|Comcast Cable Communications, LLC|
-|15|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|27.98.187.152|8080|Japan|Shimada|TOKAI Communications Corporation|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|9|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|11|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|12|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|171.233.50.223|8080|Vietnam|Hanoi|Viettel Corporation|
+|14|119.39.5.93|3128|China|Changsha|CNC Group CHINA169 Hunan Province Network|
+|15|210.213.205.101|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|16|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|17|185.250.180.238|8080|Germany|Frankfurt am Main|ZhouyiSat Communications|
 |18|79.116.15.191|3128|Spain|Madrid|Digi Spain Telecom S.L.U.|
-|19|44.196.210.220|3128|United States|Ashburn|Amazon.com|
-|20|79.116.15.191|3128|Spain|Madrid|Digi Spain Telecom S.L.U.|
+|19|200.208.96.194|100|Brazil|Manaus|Claro S.A.|
+|20|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
 
 
 
