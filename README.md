@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|46|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|46|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|46|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|51|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|51|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|51|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|4|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|8|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|9|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|13|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
-|14|1.24.224.13|8010|China|Zhangzhou|China Unicom Neimeng Province Network|
-|15|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
-|16|191.242.177.42|3128|Brazil|Taperoá|Conect Telecom|
-|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|18|201.77.96.0|999|Mexico|Actopan|Hulux Telecomunicaciones|
-|19|149.86.140.131|8080|Turkey|Sille|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|20|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|79.116.15.191|3128|Spain|Madrid|Digi Spain Telecom S.L.U.|
+|13|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|16|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|17|9.223.187.19|3128|Sweden|Gävle|Microsoft Corporation|
+|18|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|19|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|20|103.125.174.83|7777|Indonesia|Lubuk Pakam|PT Trinity Teknologi Nusantara|
 
 
 
