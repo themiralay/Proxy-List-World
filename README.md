@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|61|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|61|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|61|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|57|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|57|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|57|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|1|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |4|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|223.206.35.243|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|7|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|8|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|43.229.127.26|8080|Bhutan|Thimphu|NANO|
-|12|38.65.172.4|999|Mexico|San José Iturbide|Guillermo Robles Ramirez|
-|13|79.116.15.191|3128|Spain|Madrid|Digi Spain Telecom S.L.U.|
-|14|8.222.235.39|3128|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|16|201.77.96.0|999|Mexico|Actopan|Hulux Telecomunicaciones|
-|17|191.81.205.13|8080|Argentina|Mendoza|Telefonica de Argentina|
-|18|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|19|112.208.170.201|5050|Philippines|City of Muntinlupa|Philippine Long Distance Telephone Co.|
-|20|103.112.52.156|8765|Bangladesh|Dhaka|Carnival Internet|
+|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|10|193.39.9.147|8181|Iran|Tehran|Mahdiar Rafiee|
+|11|115.72.34.57|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|103.156.16.234|8818|Indonesia|Jatibarang|RSTNET|
+|14|3.129.171.226|80|United States|Dublin|Amazon.com, Inc.|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|17|114.9.26.122|8080|Indonesia|Pagatan|PT. INDOSAT Tbk|
+|18|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|19|213.199.49.191|3128|Germany|Düsseldorf|Contabo GmbH|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
