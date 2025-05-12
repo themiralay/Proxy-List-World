@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|34.102.48.89|8080|United States|Los Angeles|Google LLC|
 |6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|47.236.224.32|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|9|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|7|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|8|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|9|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
 |10|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|11|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|12|202.57.25.133|8080|Indonesia|Semarang|announced of WINET|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|15|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|16|43.229.127.26|8080|Bhutan|Thimphu|NANO|
-|17|213.199.49.191|3128|Germany|Düsseldorf|Contabo GmbH|
-|18|79.116.15.191|3128|Spain|Madrid|Digi Spain Telecom S.L.U.|
-|19|95.213.217.168|52004|Russia|St Petersburg|JSC Selectel|
+|11|14.182.255.51|12001|Vietnam|Vinh|VNPT|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|14|213.199.49.191|3128|Germany|Düsseldorf|Contabo GmbH|
+|15|51.83.93.105|20479|France|Gravelines|OVH SAS|
+|16|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|17|79.116.15.191|3128|Spain|Madrid|Digi Spain Telecom S.L.U.|
+|18|8.222.235.39|3128|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |20|94.103.83.90|3128|Russia|Moscow|Hosting technology LTD|
 
 
