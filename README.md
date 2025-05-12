@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|50|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|50|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|50|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|49|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|49|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|49|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|4|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|7|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
-|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|11|79.116.15.191|3128|Spain|Madrid|Digi Spain Telecom S.L.U.|
-|12|103.216.48.124|8080|Cambodia|Phnom Penh|Today Communication Co|
-|13|200.225.124.1|999|Chile|San Bernardo|Servicios De Telecomunicaciones Dropp Limitada|
-|14|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|1|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|6|79.116.15.191|3128|Spain|Madrid|Digi Spain Telecom S.L.U.|
+|7|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|8|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|9|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|10|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|12|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|13|43.252.236.132|1111|Indonesia|Tangerang|NET|
+|14|79.116.15.191|3128|Spain|Madrid|Digi Spain Telecom S.L.U.|
 |15|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|16|27.66.117.172|10001|Vietnam|Hanoi|Viettel Group|
-|17|79.116.15.191|3128|Spain|Madrid|Digi Spain Telecom S.L.U.|
-|18|67.43.228.253|11457|Canada|Montreal|GloboTech Communications|
-|19|116.99.59.102|8080|Vietnam|Hanoi|Viettel Group|
+|16|27.79.154.44|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|18|201.77.96.0|999|Mexico|Actopan|Hulux Telecomunicaciones|
+|19|185.41.152.110|3128|France|Valenciennes|global|
 |20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
