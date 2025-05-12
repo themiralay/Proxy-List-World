@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|64|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|64|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|64|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|55|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|55|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|55|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|42.112.97.118|12001|Vietnam|Bắc Giang|Vietnam Internet Network Information Center|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|9|213.199.49.191|3128|Germany|Düsseldorf|Contabo GmbH|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|14.182.255.51|12001|Vietnam|Vinh|VNPT|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|8|42.112.97.118|12001|Vietnam|Bắc Giang|Vietnam Internet Network Information Center|
+|9|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
 |10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|79.116.15.191|3128|Spain|Madrid|Digi Spain Telecom S.L.U.|
-|12|116.99.59.102|8080|Vietnam|Hanoi|Viettel Group|
-|13|38.156.75.174|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|14|38.253.86.81|999|Dominican Republic|Maimón|WIMAS, S.R.L.|
-|15|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|16|154.27.196.197|999|Mexico|Guadalajara|Cogent Communications|
-|17|183.91.80.194|8089|Indonesia|Sukawarna|PT Aplikanusa Lintasarta|
-|18|139.162.163.203|8123|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
-|19|31.193.193.69|1488|Lithuania|Vilnius|Telia Lietuva|
-|20|79.116.15.191|3128|Spain|Madrid|Digi Spain Telecom S.L.U.|
+|11|14.182.255.51|12001|Vietnam|Vinh|VNPT|
+|12|79.116.15.191|3128|Spain|Madrid|Digi Spain Telecom S.L.U.|
+|13|8.222.235.39|3128|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|79.116.15.191|3128|Spain|Madrid|Digi Spain Telecom S.L.U.|
+|15|200.208.96.194|100|Brazil|Manaus|Claro S.A.|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|119.93.33.130|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|18|31.59.100.1|80|Switzerland|Geneva|Maceo Sahli|
+|19|140.227.81.191|3128|Japan|Chiyoda|InfoSphere|
+|20|27.79.154.44|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
