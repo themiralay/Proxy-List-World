@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3841** proxies at the latest update. Usable proxies are below.
+> Scraper found **3822** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|57|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|57|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|57|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|47|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|47|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|47|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|286|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|523|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|504|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|110|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.207.247|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|3|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |5|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|6|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
-|10|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|11|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|13|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|6|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|7|161.248.190.90|8080|Philippines|San Francisco|Gemstar Cable TV - Agusan Del SUR|
+|8|142.93.195.158|80|United States|North Bergen|DigitalOcean, LLC|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|27.79.207.247|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|79.116.15.191|3128|Spain|Madrid|Digi Spain Telecom S.L.U.|
+|13|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
 |14|79.116.15.191|3128|Spain|Madrid|Digi Spain Telecom S.L.U.|
-|15|213.199.49.191|3128|Germany|Düsseldorf|Contabo GmbH|
-|16|146.70.116.28|4857|Austria|Vienna|M247 Europe Infra|
-|17|213.199.49.191|3128|Germany|Düsseldorf|Contabo GmbH|
-|18|190.235.185.150|999|Peru|Lima|TDP-GRS|
-|19|202.62.75.17|83|India|Hyderabad|CityOnline Services|
-|20|212.175.61.9|350|Türkiye|Ankara|Turk Telekomunikasyon Anonim Sirketi|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|188.132.150.242|8080|Turkey|Ankara|Guneydogu Telekom Int. Bil. VE Ilt. Hiz. Tic. Ltd. STI|
+|17|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|18|46.101.104.251|40057|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|213.199.49.191|3128|Germany|Düsseldorf|Contabo GmbH|
+|20|46.161.194.83|8085|Iraq|Baghdad|Valin Company for General Trading and Communication LTD|
 
 
 
