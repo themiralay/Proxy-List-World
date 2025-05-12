@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|2|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|103.138.26.101|8080|Bangladesh|Rāipur|HelloTech Limited|
-|5|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|6|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|43.156.38.109|988|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|6|49.156.44.114|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|10|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|11|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|13|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|14|79.116.15.191|3128|Spain|Madrid|Digi Spain Telecom S.L.U.|
-|15|44.196.210.220|3128|United States|Ashburn|Amazon.com|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|18|115.72.9.145|10003|Vietnam|Vũng Tàu|VIETELmetro|
-|19|65.20.188.244|9090|Iraq|Baghdad|Hulum Almustakbal Company for Communication Engineering and Services Ltd|
-|20|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|9|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|192.53.114.26|80|Singapore|Singapore|Akamai Technologies, Inc.|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|14|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|15|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|46.252.35.91|8080|Albania|Tirana|Vodafone Albania Sh.A.|
+|18|79.116.15.191|3128|Spain|Madrid|Digi Spain Telecom S.L.U.|
+|19|44.196.210.220|3128|United States|Ashburn|Amazon.com|
+|20|203.177.237.138|8282|Philippines|Iloilo City|Globe Telecom|
 
 
 
