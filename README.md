@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|51|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|51|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|51|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|48|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|48|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|48|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|2|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|3|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
-|4|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|9|46.161.194.84|8085|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|10|203.172.227.33|8080|Thailand|Pom Prap Sattru Phai|Ministry of Education - EMISC|
-|11|207.230.8.1|999|Colombia|Bogotá|Cogent Communications|
-|12|212.252.73.29|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|13|103.216.48.124|8080|Cambodia|Phnom Penh|Today Communication Co|
-|14|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|15|79.116.15.191|3128|Spain|Madrid|Digi Spain Telecom S.L.U.|
-|16|67.206.213.202|3120|Puerto Rico|Bayamón|Liberty Mobile Puerto Rico Inc.|
-|17|123.186.146.68|8088|China|Benxi|CHINATELECOM Liaoning Benxi MAN|
-|18|38.44.242.1|999|Dominican Republic|Santo Domingo Este|Nexercom S.R.L|
-|19|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|20|140.227.61.201|3128|Japan|Tokyo|InfoSphere|
+|1|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|2|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|3|47.236.224.32|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|7|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|10|34.143.143.61|7777|Singapore|Singapore|Google LLC|
+|11|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|14|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|15|185.208.102.155|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|16|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|17|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|79.116.15.191|3128|Spain|Madrid|Digi Spain Telecom S.L.U.|
+|19|123.186.146.68|8088|China|Benxi|CHINATELECOM Liaoning Benxi MAN|
+|20|123.186.146.68|8088|China|Benxi|CHINATELECOM Liaoning Benxi MAN|
 
 
 
