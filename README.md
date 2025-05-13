@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|63|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|63|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|63|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|53|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|53|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|53|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|2|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|170.106.144.64|8090|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|11|191.242.177.42|3128|Brazil|Taperoá|Conect Telecom|
-|12|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
-|13|191.242.177.42|3128|Brazil|Taperoá|Conect Telecom|
-|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|15|34.143.143.61|7777|Singapore|Singapore|Google LLC|
-|16|72.10.160.90|12979|Canada|Montreal|GloboTech Communications|
-|17|177.53.214.172|999|Ecuador|Manta|Eliana Vanessa Morocho Oña|
-|18|72.10.160.92|9901|Canada|Montreal|GloboTech Communications|
-|19|27.79.247.175|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|67.43.228.250|4241|Canada|Montreal|GloboTech Communications|
+|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|3|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|4|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
+|8|27.79.246.15|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|119.156.195.170|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|103.247.23.28|9223|Indonesia|Wonosobo|PT wifian Solution|
+|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|14|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|171.226.36.27|1452|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|17|112.208.170.201|5050|Philippines|City of Muntinlupa|Philippine Long Distance Telephone Co.|
+|18|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
+|19|208.87.243.199|7878|United States|Walnut|Psychz Networks|
+|20|131.100.51.146|999|Colombia|Puerto Rico|Fibernet TV SAS|
 
 
 
