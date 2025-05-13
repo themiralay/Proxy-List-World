@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3743** proxies at the latest update. Usable proxies are below.
+> Scraper found **3710** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|46|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|46|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|46|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|35|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|35|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|35|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|427|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|394|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|94|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|1|123.18.118.89|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |3|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|103.88.229.59|8080|Indonesia|Kedaton|Institut Agama Islam Negeri Raden Intan Lampung|
-|6|140.227.61.201|3128|Japan|Tokyo|InfoSphere|
-|7|123.18.118.89|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|8|45.70.236.194|999|Ecuador|Simón Bolívar|Ufinet Panama S.A.|
-|9|103.126.87.160|8080|Indonesia|Trucuk|PT. Rasi Bintang Perkasa|
-|10|67.43.228.250|31681|Canada|Montreal|GloboTech Communications|
-|11|120.131.124.23|3128|China|Beijing|Beijing Yunlin Network Technology Co., Ltd.|
-|12|72.10.160.171|6633|Canada|Montreal|GloboTech Communications|
-|13|190.235.185.150|999|Peru|Lima|TDP-GRS|
-|14|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|15|191.242.177.42|3128|Brazil|Taperoá|Conect Telecom|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|114.7.162.94|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|18|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|19|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|20|124.122.180.68|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|4|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|7|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|8|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|159.89.239.166|18099|United States|North Bergen|DigitalOcean, LLC|
+|11|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|12|123.18.118.89|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|81.31.146.20|2082|Italy|Turin|HOST-VDC|
+|15|38.194.246.34|999|Mexico|Reynosa|Ientc S De RL De CV|
+|16|154.27.196.197|999|Mexico|Guadalajara|Cogent Communications|
+|17|177.53.214.172|999|Ecuador|Manta|Eliana Vanessa Morocho Oña|
+|18|103.67.84.146|8080|Indonesia|Kertosari|PT Tujuh Fondasi Teknologi|
+|19|72.10.160.171|6633|Canada|Montreal|GloboTech Communications|
+|20|23.237.210.82|80|United States|Houston|FDCservers.net|
 
 
 
