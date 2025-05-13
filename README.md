@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3765** proxies at the latest update. Usable proxies are below.
+> Scraper found **3758** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|38|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|38|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|38|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|41|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|41|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|41|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|375|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|368|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|168|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|170.106.144.64|8090|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|3|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|5|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|208.87.243.199|7878|United States|Walnut|Psychz Networks|
-|11|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|12|119.93.33.130|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|13|27.79.207.126|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|15|79.116.15.191|3128|Spain|Madrid|Digi Spain Telecom S.L.U.|
-|16|118.71.47.232|10001|Vietnam|Hanoi|FPT Telecom Company|
-|17|91.241.241.5|3128|Russia|Moscow|LLC IP SERVICE|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|89.213.106.253|999|Mexico|Doctor Mora|Wifimax Connection S.a.s De C.V|
-|20|103.165.155.45|8080|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
+|2|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|3|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
+|6|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|113.160.132.195|8080|Vietnam|Bẩn Yên Nhân|VietNam Post and Telecom Corporation|
+|10|183.247.152.98|53281|China|Hangzhou|China Mobile Communications Corporation|
+|11|113.160.214.209|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|79.116.15.191|3128|Spain|Madrid|Digi Spain Telecom S.L.U.|
+|13|124.121.94.199|8080|Thailand|Mueang Samut Prakan|TRUEBB|
+|14|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
+|15|66.211.155.34|8080|United States|Merrimack|FirstLight Fiber|
+|16|223.205.103.231|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|188.132.221.26|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|19|116.99.59.102|8080|Vietnam|Hanoi|Viettel Group|
+|20|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
 
 
 
