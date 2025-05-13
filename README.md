@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|58|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|58|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|58|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|49|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|49|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|49|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|123.18.118.89|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|5|3.121.70.150|5678|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|51.96.162.162|3128|Switzerland|Zurich|Amazon.com, Inc.|
-|10|3.121.70.150|5678|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|11|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|84.54.13.56|4857|Turkey|Istanbul|Mehmet Selim Sahin|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|18|114.7.162.94|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|19|185.21.13.91|40969|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|165.22.245.215|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|9|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|10|84.54.13.56|4857|Turkey|Istanbul|Mehmet Selim Sahin|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|123.18.118.89|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|13|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|14|125.161.30.13|3128|Indonesia|Sukabumi|PT. TELKOM INDONESIA|
+|15|116.99.59.102|8080|Vietnam|Hanoi|Viettel Group|
+|16|103.9.134.212|100|Bangladesh|Gazipur|Information Services Network Ltd|
+|17|223.205.120.34|8081|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|20|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
 
 
 
