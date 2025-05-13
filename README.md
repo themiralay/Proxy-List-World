@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|53|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|53|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|53|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|50|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|50|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|50|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|3|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|4|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|1|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|6|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
 |7|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|8|201.65.173.179|8080|Brazil|Brasília|Claro S.A.|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|11|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
-|12|125.161.30.13|3128|Indonesia|Sukabumi|PT. TELKOM INDONESIA|
-|13|79.116.15.191|3128|Spain|Madrid|Digi Spain Telecom S.L.U.|
-|14|190.0.244.159|8080|Colombia|Medellín|Media Commerce Partners S.A|
-|15|103.229.185.157|8080|Indonesia|Pamulang|PT INDONESIA COMNETS PLUS|
-|16|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|17|72.10.160.90|10017|Canada|Montreal|GloboTech Communications|
-|18|103.102.128.112|1186|Vietnam|Hanoi|VGP Joint Stock Company|
-|19|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|20|79.116.15.191|3128|Spain|Madrid|Digi Spain Telecom S.L.U.|
+|8|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|9|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|10|79.116.15.191|3128|Spain|Madrid|Digi Spain Telecom S.L.U.|
+|11|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|12|14.234.219.189|4002|Vietnam|Ho Chi Minh City|VNPT|
+|13|1.24.224.13|8010|China|Zhangzhou|China Unicom Neimeng Province Network|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|47.236.224.32|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|38.44.242.1|999|Dominican Republic|Santo Domingo Este|Nexercom S.R.L|
+|18|79.116.15.191|3128|Spain|Madrid|Digi Spain Telecom S.L.U.|
+|19|182.252.74.145|8080|Bangladesh|Dhaka|Agni Systems Limited|
+|20|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
 
 
 
