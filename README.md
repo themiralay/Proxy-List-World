@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|38|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|38|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|38|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|37|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|37|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|37|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|23.237.210.82|80|United States|Houston|FDCservers.net|
-|4|123.18.118.89|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|5|23.237.210.82|80|United States|Houston|FDCservers.net|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|23.237.210.82|80|United States|Houston|FDCservers.net|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|23.237.210.82|80|United States|Houston|FDCservers.net|
+|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |6|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|3.121.70.150|5678|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|13|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|14|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
-|15|191.97.96.86|8080|Argentina|General Roca|Vision NET|
-|16|114.9.26.122|8080|Indonesia|Pagatan|PT. INDOSAT Tbk|
-|17|67.43.228.250|12609|Canada|Montreal|GloboTech Communications|
-|18|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|19|123.18.118.89|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|20|72.10.164.178|19251|Canada|Montreal|GloboTech Communications|
+|7|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|45.202.35.253|5555|United States|Hagerstown|RCN|
+|10|185.21.13.91|40969|The Netherlands|Amsterdam|Servers Tech Fzco|
+|11|44.196.210.220|3128|United States|Ashburn|Amazon.com|
+|12|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|13|45.202.35.253|5555|United States|Hagerstown|RCN|
+|14|123.18.118.89|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|15|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|16|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|17|206.238.76.90|28080|Singapore|Singapore|Tcloudnet|
+|18|72.10.160.170|29517|Canada|Montreal|GloboTech Communications|
+|19|177.93.48.44|999|Colombia|Granada|TV AZTECA SUCURSAL COLOMBIA|
+|20|119.93.33.130|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
 
 
 
