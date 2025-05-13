@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|50|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|50|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|50|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|43|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|43|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|43|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|3.121.70.150|5678|Germany|Frankfurt am Main|Amazon Technologies Inc.|
 |6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|3.121.70.150|5678|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|8|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|9|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|11|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|119.156.195.171|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|14|119.156.195.170|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|15|119.156.195.169|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|8.222.235.39|3128|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|72.10.164.178|18205|Canada|Montreal|GloboTech Communications|
-|19|51.96.162.162|3128|Switzerland|Zurich|Amazon.com, Inc.|
-|20|67.43.228.252|27289|Canada|Montreal|GloboTech Communications|
+|7|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|8|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|9|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|103.88.229.59|8080|Indonesia|Kedaton|Institut Agama Islam Negeri Raden Intan Lampung|
+|15|58.136.171.203|8080|Thailand|Bangkok|AIS-Fibre|
+|16|201.77.97.96|999|Mexico|Huichapan|Hulux Telecomunicaciones|
+|17|190.97.227.198|999|Venezuela|Caracas|Viginet C.A|
+|18|51.96.162.162|3128|Switzerland|Zurich|Amazon.com, Inc.|
+|19|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|20|191.97.96.86|8080|Argentina|General Roca|Vision NET|
 
 
 
