@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|33|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|33|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|33|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|34|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|34|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|34|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|123.18.118.89|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|3|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|18.102.5.62|3128|Italy|Milan|Amazon Technologies Inc.|
-|5|168.196.161.80|8080|Brazil|Monte Azul|JJVA Provedor de Internet ME LTDA|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|18.102.5.62|3128|Italy|Milan|Amazon Technologies Inc.|
-|8|123.20.50.210|1009|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|9|67.43.236.21|6603|Canada|Montreal|GloboTech Communications|
-|10|38.194.246.34|999|Mexico|Reynosa|Ientc S De RL De CV|
-|11|72.10.160.171|24833|Canada|Montreal|GloboTech Communications|
-|12|103.20.88.6|8080|Indonesia|Trucuk|PT Indo Teknologi Konstruksi|
-|13|72.10.160.170|4189|Canada|Montreal|GloboTech Communications|
-|14|123.18.118.89|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|2|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|3|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|6|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
+|7|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
+|8|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|175.145.253.213|8081|Malaysia|Petaling Jaya|TM TECHNOLOGY SERVICES SDN BHD|
+|11|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|12|168.121.242.2|999|Mexico|San Felipe|Wifimax Connection S.a.s De C.V|
+|13|112.78.139.187|8080|Indonesia|Jakarta|Biznet Networks|
+|14|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
 |15|183.247.152.98|53281|China|Hangzhou|China Mobile Communications Corporation|
-|16|186.96.111.214|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|17|117.2.48.206|8080|Vietnam|Hanoi|Viettel Corporation|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|113.172.122.17|1003|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|20|103.102.128.112|1186|Vietnam|Hanoi|VGP Joint Stock Company|
+|16|190.8.34.211|999|Dominican Republic|Santo Domingo|Trilogy Dominicana, S.A.|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|19|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
+|20|13.216.242.79|3128|United States|Ashburn|Amazon.com, Inc.|
 
 
 
