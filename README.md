@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3741** proxies at the latest update. Usable proxies are below.
+> Scraper found **3757** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|45|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|45|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|45|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|32|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|32|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|32|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|408|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|424|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|111|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|3.121.70.150|5678|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|4|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|5|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|8|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|88.247.158.20|1453|Turkey|Kayseri|TurkTelecom|
-|11|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
-|12|170.106.144.64|8090|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|3.121.70.150|5678|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|15|38.158.83.161|999|Peru|Arequipa|Fiberred SAC|
-|16|5.102.109.41|999|Mexico|San José Iturbide|IPXO|
-|17|147.75.122.245|999|Colombia|Quibdó|TV AZTECA SUCURSAL COLOMBIA|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|67.43.236.19|12105|Canada|Montreal|GloboTech Communications|
-|20|103.134.242.121|8080|Bangladesh|Bera|Winer Communication|
+|2|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|3|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|5|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|6|99.20.24.9|8888|United States|Miami|AT&T Enterprises, LLC|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|88.247.158.20|1453|Turkey|Kayseri|TurkTelecom|
+|9|44.196.210.220|3128|United States|Ashburn|Amazon.com|
+|10|44.196.210.220|3128|United States|Ashburn|Amazon.com|
+|11|51.96.162.162|3128|Switzerland|Zurich|Amazon.com, Inc.|
+|12|203.114.66.85|11111|Philippines|Pasay|W Network Inc.|
+|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|27.66.117.172|10004|Vietnam|Hanoi|Viettel Group|
+|15|51.96.162.162|3128|Switzerland|Zurich|Amazon.com, Inc.|
+|16|44.196.210.220|3128|United States|Ashburn|Amazon.com|
+|17|201.77.97.96|999|Mexico|Huichapan|Hulux Telecomunicaciones|
+|18|119.156.195.171|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|19|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|20|84.70.153.63|8888|United Kingdom|Greenwich|Vodafone Limited|
 
 
 
