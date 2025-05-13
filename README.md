@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3768** proxies at the latest update. Usable proxies are below.
+> Scraper found **3782** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|31|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|31|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|31|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|33|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|33|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|33|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|378|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|392|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|168|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -45,20 +45,20 @@ Click the file format that you want and copy the URL.
 |4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |5|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
 |6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|201.77.97.96|999|Mexico|Huichapan|Hulux Telecomunicaciones|
-|8|201.150.118.38|999|Mexico|Mineral de la Reforma|Hulux Telecomunicaciones|
-|9|79.116.15.191|3128|Spain|Madrid|Digi Spain Telecom S.L.U.|
-|10|43.224.171.232|1080|Indonesia|Denpasar|Internet Madju Abad Millenindo, PT|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|103.242.104.208|7777|Indonesia|Kebomas|PT Lintas Jaringan Nusantara|
-|13|200.208.96.194|443|Brazil|Manaus|Claro S.A.|
-|14|49.146.174.24|8080|Philippines|Masbate|Philippine Long Distance Telephone Co.|
-|15|78.9.234.55|8080|Poland|Dzierzgoń|Netia SA|
-|16|124.122.180.68|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|17|103.42.118.29|8080|Indonesia|Batam|PT Kusuma Dinatha Jaya Abadi|
-|18|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|19|79.116.15.191|3128|Spain|Madrid|Digi Spain Telecom S.L.U.|
-|20|54.196.177.74|3128|United States|Ashburn|Amazon.com, Inc.|
+|7|18.216.172.138|8080|United States|Dublin|Amazon.com, Inc.|
+|8|18.102.5.62|3128|Italy|Milan|Amazon Technologies Inc.|
+|9|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
+|10|177.244.34.58|999|Mexico|San Juan Bautista Tuxtla|Mega Cable, S.A. de C.V.|
+|11|117.2.48.206|8080|Vietnam|Hanoi|Viettel Corporation|
+|12|79.116.15.191|3128|Spain|Madrid|Digi Spain Telecom S.L.U.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|15|103.242.104.208|7777|Indonesia|Kebomas|PT Lintas Jaringan Nusantara|
+|16|200.37.252.122|8080|Peru|Villa Rica|Telefonica del Peru S.A.A.|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|18.102.5.62|3128|Italy|Milan|Amazon Technologies Inc.|
+|19|1.10.213.233|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|20|45.167.126.37|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
 
 
 
