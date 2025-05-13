@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|53|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|53|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|53|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|54|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|54|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|54|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|2|172.188.122.92|80|Singapore|Singapore|Microsoft|
 |3|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|5|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|6|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|7|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|8|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|9|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|13|201.150.118.38|999|Mexico|Mineral de la Reforma|Hulux Telecomunicaciones|
-|14|110.76.145.22|92|Indonesia|Surabaya|PT Pika Media Komunika|
-|15|187.190.114.60|999|Mexico|Poza Rica|Total Play Telecomunicaciones SA De CV|
-|16|103.111.119.34|8080|Indonesia|Tulungagung|PT Dimensi Jaringan Bersinar|
-|17|103.9.134.212|100|Bangladesh|Gazipur|Information Services Network Ltd|
-|18|67.43.228.250|13029|Canada|Montreal|GloboTech Communications|
-|19|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|20|103.42.118.29|8080|Indonesia|Batam|PT Kusuma Dinatha Jaya Abadi|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|3.121.70.150|5678|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|6|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|7|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|8|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|10|38.44.243.32|999|Dominican Republic|Concepción de la Vega|Visnetwork SRL|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|23.122.184.9|8888|United States|Miami|AT&T Enterprises, LLC|
+|13|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|14|201.77.97.96|999|Mexico|Huichapan|Hulux Telecomunicaciones|
+|15|201.150.118.38|999|Mexico|Mineral de la Reforma|Hulux Telecomunicaciones|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|36.95.173.90|8899|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|38.65.172.81|999|Mexico|San José Iturbide|Guillermo Robles Ramirez|
+|20|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
 
 
 
