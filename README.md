@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|40|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|40|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|40|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|23.237.210.82|80|United States|Houston|FDCservers.net|
-|6|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|7|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|8|119.156.195.170|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|9|119.156.195.169|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|10|123.18.118.89|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|11|185.21.13.91|40969|The Netherlands|Amsterdam|Servers Tech Fzco|
-|12|45.202.35.253|5555|United States|Hagerstown|RCN|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|23.237.210.82|80|United States|Houston|FDCservers.net|
+|4|3.121.70.150|5678|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|5|123.18.118.89|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
+|6|23.237.210.82|80|United States|Houston|FDCservers.net|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|9|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|10|119.156.195.170|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|11|119.156.195.169|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|13|45.202.45.106|7474|United States|Hagerstown|RCN|
 |14|45.202.45.106|7474|United States|Hagerstown|RCN|
 |15|123.18.118.89|8080|Vietnam|Hải Dương|VietNam Post and Telecom Corporation|
-|16|38.7.3.8|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
-|17|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|18|103.88.229.59|8080|Indonesia|Kedaton|Institut Agama Islam Negeri Raden Intan Lampung|
-|19|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|20|72.10.160.92|28089|Canada|Montreal|GloboTech Communications|
+|16|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|17|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|18|23.237.210.82|80|United States|Houston|FDCservers.net|
+|19|190.235.185.150|999|Peru|Lima|TDP-GRS|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
