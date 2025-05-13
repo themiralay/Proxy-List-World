@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3825** proxies at the latest update. Usable proxies are below.
+> Scraper found **3823** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|47|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|47|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|47|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|38|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|38|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|38|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|442|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|440|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|161|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|185.21.13.91|40969|The Netherlands|Amsterdam|Servers Tech Fzco|
-|8|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|11|79.116.15.191|3128|Spain|Madrid|Digi Spain Telecom S.L.U.|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|200.225.124.1|999|Chile|San Bernardo|Servicios De Telecomunicaciones Dropp Limitada|
-|14|218.61.85.209|9090|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
-|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|16|67.43.228.250|21669|Canada|Montreal|GloboTech Communications|
-|17|89.213.106.253|999|Mexico|Doctor Mora|Wifimax Connection S.a.s De C.V|
-|18|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
-|19|124.107.15.43|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|20|79.116.15.191|3128|Spain|Madrid|Digi Spain Telecom S.L.U.|
+|3|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|117.102.117.106|8080|Indonesia|Bintaro|Biznet Networks|
+|5|167.235.200.145|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|8|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|9|79.116.15.191|3128|Spain|Madrid|Digi Spain Telecom S.L.U.|
+|10|1.24.224.13|8010|China|Zhangzhou|China Unicom Neimeng Province Network|
+|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|12|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|13|47.254.88.250|13001|United States|Minkler|Alibaba Cloud LLC|
+|14|89.213.106.253|999|Mexico|Doctor Mora|Wifimax Connection S.a.s De C.V|
+|15|210.213.205.101|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|16|143.44.191.233|6789|Philippines|Pasig|Converge ICT Network|
+|17|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
+|18|178.165.42.166|3128|Ukraine|Kharkiv|Maxnet Ltd|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|1.24.224.13|8010|China|Zhangzhou|China Unicom Neimeng Province Network|
 
 
 
