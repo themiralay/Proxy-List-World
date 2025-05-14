@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|51|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|51|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|51|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|3|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|4|14.229.156.255|8080|Vietnam|Hanoi|VNPT|
-|5|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|6|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|111.95.215.64|7788|Indonesia|Jakarta|Linknet-Fastnet ASN|
-|9|216.229.112.25|8080|United States|Muleshoe|Five Area Systems, LLC|
-|10|14.229.156.255|8080|Vietnam|Hanoi|VNPT|
-|11|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|12|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|13|67.43.236.21|21889|Canada|Montreal|GloboTech Communications|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|16|157.10.97.119|8181|Indonesia|Pulau Temiang|PT Lintas Jaringan Nusantara|
-|17|51.83.93.105|20668|France|Gravelines|OVH SAS|
-|18|67.43.228.253|13047|Canada|Montreal|GloboTech Communications|
-|19|139.162.163.203|8123|Germany|Frankfurt am Main|Akamai Technologies, Inc.|
-|20|103.88.229.59|8080|Indonesia|Kedaton|Institut Agama Islam Negeri Raden Intan Lampung|
+|2|14.229.156.255|8080|Vietnam|Hanoi|VNPT|
+|3|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|5|175.29.175.22|13482|Bangladesh|Tongi|Access Telecom (BD) Ltd|
+|6|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|7|3.121.70.150|5678|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|8|45.202.35.253|5555|United States|Hagerstown|RCN|
+|9|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|10|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|11|23.237.210.82|80|United States|Houston|FDCservers.net|
+|12|14.229.156.255|8080|Vietnam|Hanoi|VNPT|
+|13|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|14|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|27.54.119.54|4444|Indonesia|Legian|PT DEWATA TELEMATIKA|
+|17|27.79.214.209|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|190.120.252.174|999|Venezuela|Valencia|CORPORACION FIBEX TELECOM, C.A.|
+|19|45.191.7.249|8080|Argentina|Centenario|Estrella Jorge Alberto|
+|20|23.237.210.82|80|United States|Houston|FDCservers.net|
 
 
 
