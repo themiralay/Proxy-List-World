@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|55|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|55|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|55|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|58|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|58|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|58|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|2|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|3|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|4|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|5|3.121.70.150|5678|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|6|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|7|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|8|23.237.210.82|80|United States|Houston|FDCservers.net|
-|9|49.156.44.114|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|10|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|11|219.145.250.129|7890|China|Liuxiang|Chinanet|
-|12|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|13|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|1|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|3|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|4|103.173.140.151|1111|Indonesia|Cileungsir|WIFIAN ID|
+|5|49.156.44.114|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|6|23.237.210.82|80|United States|Houston|FDCservers.net|
+|7|201.150.118.26|999|Mexico|Mineral de la Reforma|Hulux Telecomunicaciones|
+|8|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|9|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|111.95.215.64|7788|Indonesia|Jakarta|Linknet-Fastnet ASN|
+|12|160.25.48.33|9090|Indonesia|Bangsal Aceh|PT Shs Solusindo Network|
+|13|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
 |14|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|15|120.28.216.23|8080|Philippines|Cagayan de Oro|Globe Telecom|
-|16|116.99.59.102|8080|Vietnam|Hanoi|Viettel Group|
-|17|124.107.15.43|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|18|36.229.136.160|8080|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
-|19|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|20|171.228.91.149|10007|Vietnam|Hòa Bình|Viettel Corporation|
+|15|181.225.96.137|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|16|190.60.48.171|999|Colombia|Bogotá|IFX NETWORKS COLOMBIA|
+|17|8.222.235.39|3128|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|172.188.122.92|80|Singapore|Singapore|Microsoft|
 
 
 
