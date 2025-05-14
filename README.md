@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|58|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|58|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|58|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|46|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|46|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|46|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|2|54.248.129.110|3128|Japan|Tokyo|Amazon.com, Inc.|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|5.161.255.113|1080|United States|Ashburn|Hetzner Online GmbH|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|5.161.255.113|1080|United States|Ashburn|Hetzner Online GmbH|
 |7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|5.161.255.113|1080|United States|Ashburn|Hetzner Online GmbH|
+|8|113.160.184.87|8080|Vietnam|Thanh Hóa|VietNam Post and Telecom Corporation|
 |9|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|10|5.161.255.113|1080|United States|Ashburn|Hetzner Online GmbH|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|54.248.129.110|3128|Japan|Tokyo|Amazon.com, Inc.|
-|13|14.234.219.189|4002|Vietnam|Ho Chi Minh City|VNPT|
+|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |14|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|15|44.196.210.220|3128|United States|Ashburn|Amazon.com|
-|16|38.156.73.36|8085|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|17|61.91.202.210|8080|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
-|18|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|23.237.210.82|80|United States|Houston|FDCservers.net|
-|20|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|15|187.251.134.165|8080|Mexico|Manzanillo|Total Play Telecomunicaciones SA De CV|
+|16|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
+|17|27.54.117.93|4444|Indonesia|Legian|Indonesia Network Information Center|
+|18|146.70.116.28|4857|Austria|Vienna|M247 Europe Infra|
+|19|134.90.243.218|8080|Italy|Ragusa|NOVAQUADRI|
+|20|23.237.210.82|80|United States|Houston|FDCservers.net|
 
 
 
