@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|57|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|57|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|57|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|34|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|34|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|34|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|1|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|5|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|6|23.237.210.82|80|United States|Houston|FDCservers.net|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|171.228.91.149|10001|Vietnam|Hòa Bình|Viettel Corporation|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|12|171.228.91.149|10001|Vietnam|Hòa Bình|Viettel Corporation|
-|13|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|14|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|15|125.164.214.87|8080|Indonesia|Malang|PT. TELKOM INDONESIA|
-|16|103.242.104.208|7777|Indonesia|Kebomas|PT Lintas Jaringan Nusantara|
-|17|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|18|101.255.148.113|8080|Indonesia|Bogor|PT Remala Abadi|
-|19|113.163.189.162|8080|Vietnam|Sóc Trăng|VietNam Post and Telecom Corporation|
-|20|23.237.210.82|80|United States|Houston|FDCservers.net|
+|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|3.121.70.150|5678|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|6|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|12|23.237.210.82|80|United States|Houston|FDCservers.net|
+|13|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|14|72.10.160.90|3225|Canada|Montreal|GloboTech Communications|
+|15|124.106.173.56|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|16|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|17|139.99.113.82|30117|Singapore|Singapore|OVH SAS|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|115.72.33.30|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|20|191.81.212.205|8080|Argentina|Mendoza|Telefonica de Argentina|
 
 
 
