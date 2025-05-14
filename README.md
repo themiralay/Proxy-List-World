@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3871** proxies at the latest update. Usable proxies are below.
+> Scraper found **3862** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|52|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|52|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|52|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|43|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|43|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|43|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|453|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|444|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|196|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|2|14.229.156.255|8080|Vietnam|Hanoi|VNPT|
 |3|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|5|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|6|177.93.48.44|999|Colombia|Granada|TV AZTECA SUCURSAL COLOMBIA|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|9|197.232.47.122|8080|Kenya|Nairobi|Jamii Telecommunications Limited|
-|10|38.65.172.81|999|Mexico|San José Iturbide|Guillermo Robles Ramirez|
-|11|5.102.109.41|999|Mexico|San José Iturbide|IPXO|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|14|200.208.96.194|443|Brazil|Manaus|Claro S.A.|
-|15|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|16|103.88.229.59|8080|Indonesia|Kedaton|Institut Agama Islam Negeri Raden Intan Lampung|
-|17|182.253.38.179|3128|Indonesia|Wonosobo|BIZNET|
-|18|51.96.162.162|3128|Switzerland|Zurich|Amazon.com, Inc.|
-|19|119.156.195.170|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|20|38.156.235.43|999|Dominican Republic|Santo Domingo Este|BITNET DOMINICANA, S.R.L.|
+|4|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|5|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|6|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|23.237.210.82|80|United States|Houston|FDCservers.net|
+|9|67.43.228.250|4763|Canada|Montreal|GloboTech Communications|
+|10|149.86.142.194|8080|Türkiye|Istanbul|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|11|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|12|194.164.35.45|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
+|13|182.252.74.145|8080|Bangladesh|Dhaka|Agni Systems Limited|
+|14|103.133.27.239|8080|Indonesia|Jakarta|PT PHATRIA INTI PERSADA|
+|15|109.86.225.242|8080|Ukraine|Kharkiv|Triolan|
+|16|51.96.162.162|3128|Switzerland|Zurich|Amazon.com, Inc.|
+|17|121.101.129.150|8080|Indonesia|Mertoyudan|PT SELARAS CITRA TERABIT|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|23.237.210.82|80|United States|Houston|FDCservers.net|
+|20|72.10.160.170|3729|Canada|Montreal|GloboTech Communications|
 
 
 
