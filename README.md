@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|3.121.70.150|5678|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|7|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|8|194.4.57.199|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|10|178.128.28.139|8888|Singapore|Singapore|DigitalOcean, LLC|
-|11|186.101.251.197|8080|Ecuador|Guayaquil|Telconet S.A|
-|12|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|13|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
-|14|115.74.3.201|10008|Vietnam|Vũng Tàu|VIETELxdsl|
-|15|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|16|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|17|27.79.217.124|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|19|171.228.91.149|10001|Vietnam|Hòa Bình|Viettel Corporation|
-|20|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|1|54.248.129.110|3128|Japan|Tokyo|Amazon.com, Inc.|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|8|202.138.241.102|9384|Indonesia|Bandung|Melsa-i-net|
+|9|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|5.202.174.38|8080|Iran|Tehran|PTS-Network|
+|12|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|13|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|14|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|15|202.62.75.17|83|India|Hyderabad|CityOnline Services|
+|16|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|17|106.117.208.101|7890|China|Shijiazhuang|Chinanet|
+|18|103.39.51.246|8081|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
+|19|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
