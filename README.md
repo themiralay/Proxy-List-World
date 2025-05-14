@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3742** proxies at the latest update. Usable proxies are below.
+> Scraper found **3830** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|48|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|48|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|48|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|58|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|58|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|58|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|391|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|479|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|129|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
+|1|54.248.129.110|3128|Japan|Tokyo|Amazon.com, Inc.|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|3.121.70.150|5678|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|10|171.228.91.149|10007|Vietnam|Hòa Bình|Viettel Corporation|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|46.172.36.213|8080|Russia|Belgorod|MTS PJSC|
-|13|187.190.114.60|999|Mexico|Poza Rica|Total Play Telecomunicaciones SA De CV|
-|14|188.69.231.89|8080|Lithuania|Vilnius|Telia Lietuva, AB|
-|15|111.95.215.64|7788|Indonesia|Jakarta|Linknet-Fastnet ASN|
-|16|189.195.139.178|999|Mexico|Zamora|Mega Cable, S.A. de C.V.|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|140.227.81.191|3128|Japan|Chiyoda|InfoSphere|
-|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|20|5.161.255.113|1080|United States|Ashburn|Hetzner Online GmbH|
+|3|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|3.121.70.150|5678|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|5|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|6|194.4.57.199|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|23.237.210.82|80|United States|Houston|FDCservers.net|
+|9|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|10|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|14|89.213.106.253|999|Mexico|Doctor Mora|Wifimax Connection S.a.s De C.V|
+|15|186.97.210.60|999|Colombia|Medellín|Colombia Móvil|
+|16|54.248.129.110|3128|Japan|Tokyo|Amazon.com, Inc.|
+|17|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|18|67.43.236.19|24387|Canada|Montreal|GloboTech Communications|
+|19|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|20|72.10.160.94|26043|Canada|Montreal|GloboTech Communications|
 
 
 
