@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|46|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|46|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|46|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|35|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|35|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|35|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|3.121.70.150|5678|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|5|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|6|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|168.121.242.2|999|Mexico|San Felipe|Wifimax Connection S.a.s De C.V|
-|11|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|12|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|13|222.127.103.129|8080|Philippines|San Juan|INNOVE|
-|14|203.177.237.138|8282|Philippines|Iloilo City|Globe Telecom|
-|15|51.96.162.162|3128|Switzerland|Zurich|Amazon.com, Inc.|
-|16|103.88.229.59|8080|Indonesia|Kedaton|Institut Agama Islam Negeri Raden Intan Lampung|
-|17|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|18|45.195.228.4|999|Venezuela|Valera|Colnetwork C.A.|
-|19|23.237.210.82|80|United States|Houston|FDCservers.net|
-|20|103.80.81.224|8080|Indonesia|Muara Enim|Jaringanku Sarana Nusantara|
+|10|8.222.235.39|3128|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|120.28.216.166|8081|Philippines|Cagayan de Oro|Globe Telecom|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|103.88.229.59|8080|Indonesia|Kedaton|Institut Agama Islam Negeri Raden Intan Lampung|
+|14|109.111.236.70|6666|Serbia|Belgrade|Orion Telekom ISP IP network|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|17|31.43.52.216|41890|Ukraine|Plesets'ke|Ukrainian Telecommunication Group LLC|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|20|112.19.241.37|19999|China|Jinrongjie|China Mobile Communications Corporation|
 
 
 
