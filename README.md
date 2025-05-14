@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|61|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|61|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|61|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|171.228.91.149|10001|Vietnam|Hòa Bình|Viettel Corporation|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|171.250.19.128|10008|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|6|3.121.70.150|5678|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|7|47.236.224.32|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|44.196.210.220|3128|United States|Ashburn|Amazon.com|
-|12|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|13|188.69.231.89|8080|Lithuania|Vilnius|Telia Lietuva, AB|
+|1|171.228.91.149|10007|Vietnam|Hòa Bình|Viettel Corporation|
+|2|123.17.159.156|10001|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|119.156.195.171|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|8|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|9|188.69.231.89|8080|Lithuania|Vilnius|Telia Lietuva, AB|
+|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|44.196.210.220|3128|United States|Ashburn|Amazon.com|
 |14|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|16|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|17|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|18|119.156.195.171|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|20|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|15|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|16|110.44.115.83|8080|Nepal|Kathmandu|VIA NET COMMUNICATION PUBLIC LIMITED|
+|17|171.228.91.149|10007|Vietnam|Hòa Bình|Viettel Corporation|
+|18|140.227.81.191|3128|Japan|Chiyoda|InfoSphere|
+|19|171.228.91.149|10007|Vietnam|Hòa Bình|Viettel Corporation|
+|20|171.250.19.128|10006|Vietnam|Ho Chi Minh City|Viettel Corporation|
 
 
 
