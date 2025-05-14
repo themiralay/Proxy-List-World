@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|170.106.83.149|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|5|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|6|202.58.77.170|8081|Indonesia|Mojokerto|PT Data Buana Nusantara|
-|7|45.167.126.37|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|8|119.156.195.173|3128|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|9|138.121.161.175|8390|Argentina|Rosario|WICORP SA|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|3|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|4|110.76.145.22|92|Indonesia|Surabaya|PT Pika Media Komunika|
+|5|103.133.61.197|8181|Indonesia|Surabaya|TLINK|
+|6|185.4.229.132|8080|Finland|Helsinki|Datalahti Oy|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|78.9.234.55|8080|Poland|Dzierzgoń|Netia SA|
+|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|103.242.104.208|7777|Indonesia|Kebomas|PT Lintas Jaringan Nusantara|
 |11|64.227.8.223|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|160.19.19.109|8080|Indonesia|Ploso|PT Indo Telemedia Solusi|
-|14|203.190.44.121|2202|Indonesia|Yogyakarta|PT Jaring Lintas Utara|
-|15|51.96.162.162|3128|Switzerland|Zurich|Amazon.com, Inc.|
-|16|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|18|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|19|103.244.4.34|8081|India|Kolkata|Indinet Service Private Limited|
-|20|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
+|12|51.96.162.162|3128|Switzerland|Zurich|Amazon.com, Inc.|
+|13|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|15|43.224.171.232|1080|Indonesia|Denpasar|Internet Madju Abad Millenindo, PT|
+|16|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|17|3.121.70.150|5678|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|18|77.221.141.44|1080|Sweden|Stockholm|Aeza International LTD|
+|19|190.97.227.198|999|Venezuela|Caracas|Viginet C.A|
+|20|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
