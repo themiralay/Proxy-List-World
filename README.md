@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|59|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|59|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|59|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|3|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|11|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|45.175.236.0|999|Mexico|Actopan|Hulux Telecomunicaciones|
-|15|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|16|190.52.101.148|999|Venezuela|Caracas|Gold Data USA Inc|
-|17|72.10.160.171|7163|Canada|Montreal|GloboTech Communications|
-|18|38.65.172.81|999|Mexico|San José Iturbide|Guillermo Robles Ramirez|
-|19|119.252.173.26|8080|Indonesia|Jakarta|PT Indonesia Comnets Plus|
-|20|223.69.148.39|8139|China|Jinrongjie|China Mobile communications corporation|
+|2|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|45.175.236.0|999|Mexico|Actopan|Hulux Telecomunicaciones|
+|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|17|103.88.229.59|8080|Indonesia|Kedaton|Institut Agama Islam Negeri Raden Intan Lampung|
+|18|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|116.96.107.173|5103|Vietnam|Hanoi|Viettel Corporation|
+|20|106.0.168.138|8080|Thailand|Pom Prap Sattru Phai|Ministry of Education - EMISC|
 
 
 
