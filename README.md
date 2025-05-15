@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|9|143.47.100.122|6360|United States|Ashburn|Oracle Corporation|
-|10|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
-|11|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|12|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|13|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|15|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|16|177.53.214.172|999|Ecuador|Manta|Eliana Vanessa Morocho Oña|
-|17|202.40.179.33|9090|Bangladesh|Dhaka|Ranks ITT|
-|18|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|19|103.125.174.48|7777|Indonesia|Parit Kali Patopah|PT Trinity Teknologi Nusantara|
-|20|179.49.237.102|999|Chile|Santiago|Sitelco SPA|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|27.79.255.140|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|7|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|8|23.237.210.82|80|United States|Houston|FDCservers.net|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|12|143.107.205.72|80|Brazil|Ribeirão Preto|Universidade De SAO Paulo|
+|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|14|143.47.100.122|6360|United States|Ashburn|Oracle Corporation|
+|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|18|44.196.210.220|3128|United States|Ashburn|Amazon.com|
+|19|160.248.5.201|3127|Japan|Ichikawa|NTT PC Communications, Inc.|
+|20|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
 
 
 
