@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|51|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|51|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|51|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|42|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|42|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|42|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|103.156.248.241|8080|Indonesia|Batam|Trans Media Telekomunikasi|
+|7|181.205.161.187|999|Colombia|Medellín|Colombia Móvil|
 |8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|10|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|11|201.77.97.96|999|Mexico|Huichapan|Hulux Telecomunicaciones|
-|12|103.88.229.59|8080|Indonesia|Kedaton|Institut Agama Islam Negeri Raden Intan Lampung|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
 |14|51.96.162.162|3128|Switzerland|Zurich|Amazon.com, Inc.|
-|15|154.27.196.197|999|Mexico|Guadalajara|Cogent Communications|
-|16|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|15|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|16|197.221.85.214|8080|Ghana|Accra|Dimension Data Ltd|
 |17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|18|203.190.44.121|2202|Indonesia|Yogyakarta|PT Jaring Lintas Utara|
-|19|72.10.160.171|25411|Canada|Montreal|GloboTech Communications|
-|20|200.121.48.195|999|Peru|Lima|Telefonica del Peru|
+|18|93.115.172.94|1080|The Netherlands|Amsterdam|SOLLUTIUM EU Sp z.o.o.|
+|19|201.77.96.0|999|Mexico|Actopan|Hulux Telecomunicaciones|
+|20|201.77.97.96|999|Mexico|Huichapan|Hulux Telecomunicaciones|
 
 
 
