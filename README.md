@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|62|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|62|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|62|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|8|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|188.69.231.89|8080|Lithuania|Vilnius|Telia Lietuva, AB|
-|12|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|14|113.11.183.111|8080|Indonesia|Purwokerto|BIZNET|
-|15|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|16|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
-|17|103.82.134.199|8888|Vietnam|Thanh Khê|Cloudfly Corporation|
-|18|201.150.118.38|999|Mexico|Mineral de la Reforma|Hulux Telecomunicaciones|
-|19|171.234.114.157|5110|Vietnam|Hanoi|Viettel Corporation|
-|20|171.234.114.157|5110|Vietnam|Hanoi|Viettel Corporation|
+|1|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|2|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|183.88.224.86|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|201.254.116.136|8080|Argentina|Berazategui|Telefonica de Argentina|
+|14|160.22.92.10|8080|Indonesia|Ketanggungan|PT Tiga Media Solusi|
+|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|16|41.173.7.82|8080|Uganda|Kampala|Liquid Telecommunications Ltd|
+|17|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
