@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.236.224.32|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|6|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|14|112.208.170.201|5050|Philippines|City of Muntinlupa|Philippine Long Distance Telephone Co.|
-|15|45.220.12.13|8081|South Africa|Pretoria|Level|
-|16|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|18|200.118.238.71|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|19|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|20|38.44.242.1|999|Dominican Republic|Santo Domingo Este|Nexercom S.R.L|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|3.121.70.150|5678|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|9|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|103.199.214.48|1009|India|Gurugram|RailTel Corporation|
+|12|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|13|103.118.175.202|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
+|14|103.172.71.85|8080|Indonesia|Sragen|AZNET|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|112.198.18.206|8080|Philippines|Baugo|Globe Telecom|
+|17|209.14.98.6|8080|Colombia|Sabanagrande|AGIS|
+|18|103.238.232.198|8080|Indonesia|Bekasi|PT Digital Netcom Solution|
+|19|47.88.18.204|8023|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|20|42.62.2.68|80|China|Haidian|IDC, China Telecommunications Corporation|
 
 
 
