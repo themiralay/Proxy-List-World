@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|42|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|42|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|42|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|39|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|39|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|39|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|6|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
-|7|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|12|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|13|181.78.82.210|999|Colombia|Salamina|IFX Networks Argentina S.R.L|
-|14|51.96.162.162|3128|Switzerland|Zurich|Amazon.com, Inc.|
-|15|122.3.87.41|8080|Philippines|Pasay|Philippine Long Distance Telephone Co.|
-|16|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|17|38.65.172.4|999|Mexico|San José Iturbide|Guillermo Robles Ramirez|
-|18|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|19|119.148.46.177|65530|Bangladesh|Dhaka|Agni Systems Limited|
-|20|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|6|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|7|202.154.19.63|8083|Indonesia|Jombang|DIGITNET|
+|8|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|9|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|10|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|13|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|14|200.6.178.21|9992|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|15|203.190.44.121|2202|Indonesia|Yogyakarta|PT Jaring Lintas Utara|
+|16|45.167.126.37|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|17|159.89.198.241|80|Singapore|Singapore|DigitalOcean, LLC|
+|18|67.43.228.250|18927|Canada|Montreal|GloboTech Communications|
+|19|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|20|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
 
 
 
