@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3919** proxies at the latest update. Usable proxies are below.
+> Scraper found **3912** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|477|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|470|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|220|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|3|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|4|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
 |5|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|8|154.27.196.213|999|Mexico|Guadalajara|Cogent Communications|
-|9|51.96.162.162|3128|Switzerland|Zurich|Amazon.com, Inc.|
-|10|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
-|13|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|14|218.61.85.209|9090|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
-|15|64.227.8.223|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|51.96.162.162|3128|Switzerland|Zurich|Amazon.com, Inc.|
-|17|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|18|180.97.220.151|11080|China|Nanjing|Chinanet|
-|19|110.44.115.83|8080|Nepal|Kathmandu|VIA NET COMMUNICATION PUBLIC LIMITED|
-|20|116.227.46.86|18080|China|Shanghai|China Telecom (Group)|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|5.161.106.49|1080|United States|Ashburn|Hetzner Online GmbH|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|116.110.95.147|9002|Vietnam|Hanoi|Viettel Corporation|
+|12|51.96.162.162|3128|Switzerland|Zurich|Amazon.com, Inc.|
+|13|44.196.210.220|3128|United States|Ashburn|Amazon.com|
+|14|154.27.196.213|999|Mexico|Guadalajara|Cogent Communications|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|17|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|18|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|19|13.59.159.61|3128|United States|Dublin|Amazon.com, Inc.|
+|20|44.196.210.220|3128|United States|Ashburn|Amazon.com|
 
 
 
