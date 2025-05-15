@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|53|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|53|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|53|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|140.238.242.189|8100|India|Mumbai|Oracle Corporation|
+|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |5|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|38.65.172.4|999|Mexico|San José Iturbide|Guillermo Robles Ramirez|
-|12|5.161.106.49|1080|United States|Ashburn|Hetzner Online GmbH|
-|13|181.48.37.206|3128|Colombia|Bogotá|Telmex Colombia S.A.|
-|14|206.189.80.172|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|27.66.117.172|10003|Vietnam|Hanoi|Viettel Group|
-|16|54.89.62.235|3128|United States|Ashburn|Amazon.com, Inc.|
-|17|171.237.96.115|1001|Vietnam|Ninh Bình|Viettel Corporation|
-|18|200.225.124.1|999|Chile|Lo Espejo|Servicios De Telecomunicaciones Dropp Limitada|
-|19|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|20|66.211.155.34|8080|United States|Merrimack|FirstLight Fiber|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|8|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|110.235.146.178|8080|Philippines|Pasig|RADIUS TELECOMS, INC.|
+|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|14|186.67.94.10|999|Chile|Santiago|Entel Chile S.A.|
+|15|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|17|201.77.96.0|999|Mexico|Actopan|Hulux Telecomunicaciones|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|23.237.210.82|80|United States|Houston|FDCservers.net|
+|20|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
 
 
 
