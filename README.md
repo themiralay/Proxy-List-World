@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|48|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|48|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|48|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|37|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|37|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|37|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|109.123.238.230|14603|Singapore|Singapore|Contabo Asia Private Limited|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|2|109.123.238.230|14603|Singapore|Singapore|Contabo Asia Private Limited|
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|4|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
 |5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|7|112.201.237.199|8082|Philippines|Potrero|Philippine Long Distance Telephone Co.|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|10|36.93.4.60|8080|Indonesia|Bogor|Telekomunikasi Indonesia|
-|11|181.115.152.254|8080|Bolivia|Santa Cruz|Entel S.A. - EntelNet|
-|12|72.10.160.174|21033|Canada|Montreal|GloboTech Communications|
-|13|132.255.23.183|999|Colombia|Yopal|Media Commerce Partners S.A|
-|14|124.107.15.43|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|15|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|16|5.102.109.41|999|Mexico|San José Iturbide|IPXO|
-|17|5.161.255.113|1080|United States|Ashburn|Hetzner Online GmbH|
-|18|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|10|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|11|27.79.253.11|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|13|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|14|190.225.182.14|999|Argentina|Paso de los Libres|Telecom Argentina S.A.|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|58.33.109.114|2021|China|Shanghai|China Telecom (Group)|
+|17|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|18|172.188.122.92|80|Singapore|Singapore|Microsoft|
 |19|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|20|51.96.162.162|3128|Switzerland|Zurich|Amazon.com, Inc.|
+|20|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
 
 
 
