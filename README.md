@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|103.131.19.27|8247|Indonesia|Lamongan|PT Global Media Data Prima|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|6|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |9|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |11|167.235.200.145|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|12|23.237.210.82|80|United States|Houston|FDCservers.net|
-|13|185.250.180.238|8080|Germany|Frankfurt am Main|ZhouyiSat Communications|
-|14|209.121.164.51|31147|United States|Seattle|TELUS Communications Inc.|
-|15|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|16|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|17|93.115.172.94|1080|The Netherlands|Amsterdam|SOLLUTIUM EU Sp z.o.o.|
-|18|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|19|181.78.200.77|999|Ecuador|Quito|Ufinet Panama S.A.|
-|20|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|12|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|13|93.115.172.94|1080|The Netherlands|Amsterdam|SOLLUTIUM EU Sp z.o.o.|
+|14|103.230.126.213|8080|Malaysia|Puchong Batu Dua Belas|BIGBANDNET|
+|15|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|17|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|18|186.180.20.34|8080|Colombia|Bogotá|Colombia Móvil|
+|19|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|20|143.44.191.233|6789|Philippines|Pasig|Converge ICT Network|
 
 
 
