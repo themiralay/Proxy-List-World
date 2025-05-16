@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|23.237.210.82|80|United States|Houston|FDCservers.net|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|5|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|1|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|4|31.56.78.170|8181|Indonesia|Jakarta|PT Perwira Media Solusi|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|5.161.255.113|1080|United States|Ashburn|Hetzner Online GmbH|
-|9|23.237.210.82|80|United States|Houston|FDCservers.net|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|51.96.162.162|3128|Switzerland|Zurich|Amazon.com, Inc.|
-|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|13|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|14|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|15|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|17|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|18|106.0.168.138|8080|Thailand|Pom Prap Sattru Phai|Ministry of Education - EMISC|
-|19|5.161.255.113|1080|United States|Ashburn|Hetzner Online GmbH|
-|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|10|27.79.163.2|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|23.237.210.82|80|United States|Houston|FDCservers.net|
+|12|23.237.210.82|80|United States|Houston|FDCservers.net|
+|13|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|15|51.96.162.162|3128|Switzerland|Zurich|Amazon.com, Inc.|
+|16|27.79.186.184|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|19|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
+|20|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
 
 
 
