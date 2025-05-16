@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|138.118.202.32|999|Venezuela|San Francisco|Iguana Network Services C.A.|
-|5|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|94.103.83.90|3128|Russia|Moscow|Hosting technology LTD|
-|8|201.150.119.170|999|Mexico|Mineral de la Reforma|Hulux Telecomunicaciones|
-|9|201.150.118.90|999|Mexico|Mineral de la Reforma|Hulux Telecomunicaciones|
-|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|38.7.2.93|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
-|13|38.156.75.144|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|15|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|16|117.102.117.106|8080|Indonesia|Bintaro|Biznet Networks|
-|17|94.103.83.90|3128|Russia|Moscow|Hosting technology LTD|
-|18|58.136.171.203|8080|Thailand|Bangkok|AIS-Fibre|
-|19|165.22.245.215|3128|Singapore|Singapore|DigitalOcean, LLC|
-|20|84.70.153.63|8888|United Kingdom|Greenwich|Vodafone Limited|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|93.115.172.94|1080|The Netherlands|Amsterdam|SOLLUTIUM EU Sp z.o.o.|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|201.150.118.90|999|Mexico|Mineral de la Reforma|Hulux Telecomunicaciones|
+|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|12|38.158.83.193|999|Peru|Arequipa|Fiberred SAC|
+|13|49.156.44.114|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|14|47.88.18.204|8023|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|15|23.237.210.82|80|United States|Houston|FDCservers.net|
+|16|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|17|68.225.17.237|4228|United States|Laguna Hills|Cox Communications Inc.|
+|18|200.7.197.100|999|Ecuador|Guayaquil|Otecel S.A.|
+|19|103.242.104.178|8080|Indonesia|Kebomas|PT Lintas Jaringan Nusantara|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
