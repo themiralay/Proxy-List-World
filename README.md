@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3887** proxies at the latest update. Usable proxies are below.
+> Scraper found **3873** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|536|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|522|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|129|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.121.164.50|31147|United States|Seattle|TELUS Communications Inc.|
-|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|27.79.160.101|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|8.213.34.65|3128|Saudi Arabia|Riyadh|Alibaba (US) Technology Co., Ltd.|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|3|103.85.53.62|8082|Indonesia|Krajan Grogolan|PT Binerkahan Digital Telco|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|51.96.162.162|3128|Switzerland|Zurich|Amazon.com, Inc.|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|82.65.27.56|80|France|Paris|Proxad / Free SAS|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |10|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|115.74.8.7|10001|Vietnam|Vũng Tàu|VIETELxdsl|
-|14|51.96.162.162|3128|Switzerland|Zurich|Amazon.com, Inc.|
-|15|171.38.248.200|8888|China|Liuzhou|China Unicom Guangxi Province Network|
-|16|78.47.126.220|8888|Germany|Nuremberg|Hetzner Online GmbH|
-|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|18|23.152.226.41|8888|United States|Roswell|Free Range Cloud Hosting Inc.|
-|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|20|170.78.208.241|999|Mexico|San Juan del Río|Wantelco SAS de CV|
+|11|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|12|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|14|27.79.152.219|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|27.79.160.101|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|1.10.228.165|8080|Thailand|Bangkok|TOT Public Company Limited|
+|17|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|18|51.96.162.162|3128|Switzerland|Zurich|Amazon.com, Inc.|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|121.101.129.150|8080|Indonesia|Mertoyudan|PT SELARAS CITRA TERABIT|
 
 
 
