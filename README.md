@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|2|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|4|5.161.106.49|1080|United States|Ashburn|Hetzner Online GmbH|
-|5|23.237.210.82|80|United States|Houston|FDCservers.net|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|1|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|2|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|3|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|4|23.237.210.82|80|United States|Houston|FDCservers.net|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|5.161.106.49|1080|United States|Ashburn|Hetzner Online GmbH|
 |8|44.196.210.220|3128|United States|Ashburn|Amazon.com|
 |9|23.237.210.82|80|United States|Houston|FDCservers.net|
 |10|5.161.106.49|1080|United States|Ashburn|Hetzner Online GmbH|
 |11|44.196.210.220|3128|United States|Ashburn|Amazon.com|
 |12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|16|38.51.235.216|999|Colombia|Pasto|SP SISTEMAS PALACIOS LTDA|
-|17|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|18|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|17|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|18|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
 |19|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|5.161.255.113|1080|United States|Ashburn|Hetzner Online GmbH|
 
 
 
