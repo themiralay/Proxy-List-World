@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.239.52.73|8080|Vietnam|Hòa Bình|VNPT|
-|2|54.177.66.227|8080|United States|San Jose|Amazon.com, Inc.|
-|3|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|54.177.66.227|8080|United States|San Jose|Amazon.com, Inc.|
+|1|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|2|14.239.52.73|8080|Vietnam|Hòa Bình|VNPT|
+|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|4|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |6|189.232.81.243|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
+|8|97.76.251.138|8080|United States|Pinellas Park|Spectrum|
+|9|144.24.192.102|8080|France|Marseille|Oracle Corporation|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|12|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|13|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|14|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|15|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|16|144.24.192.102|8080|France|Marseille|Oracle Corporation|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|190.145.194.210|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|19|27.79.230.185|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|190.145.194.210|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|15|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|16|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|17|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|18|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|19|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
 |20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
