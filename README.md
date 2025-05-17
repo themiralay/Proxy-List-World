@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|172.188.122.92|80|Singapore|Singapore|Microsoft|
 |2|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|3|14.239.52.73|8080|Vietnam|Hòa Bình|VNPT|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|5.161.255.113|1080|United States|Ashburn|Hetzner Online GmbH|
-|8|117.250.3.58|8080|India|Ludhiana|Bharat Sanchar Nigam Ltd|
-|9|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|5.161.255.113|1080|United States|Ashburn|Hetzner Online GmbH|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|54.177.66.227|8080|United States|San Jose|Amazon.com, Inc.|
+|5|14.239.52.73|8080|Vietnam|Hòa Bình|VNPT|
+|6|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|7|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|10|117.250.3.58|8080|India|Ludhiana|Bharat Sanchar Nigam Ltd|
+|11|54.177.66.227|8080|United States|San Jose|Amazon.com, Inc.|
 |12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|17|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|185.250.180.238|8080|Germany|Frankfurt am Main|ZhouyiSat Communications|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|16|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|17|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|18|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
 |19|23.237.210.82|80|United States|Houston|FDCservers.net|
-|20|54.91.175.248|3128|United States|Ashburn|Amazon.com, Inc.|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
