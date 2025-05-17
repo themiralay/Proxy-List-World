@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3795** proxies at the latest update. Usable proxies are below.
+> Scraper found **3790** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|414|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|409|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|159|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|2|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |8|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|9|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|10|23.237.210.82|80|United States|Houston|FDCservers.net|
-|11|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|13|38.65.175.68|3128|Mexico|Cadereyta|Wantelco SAS de CV|
-|14|59.124.9.67|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|15|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|16|67.43.228.250|28115|Canada|Montreal|GloboTech Communications|
-|17|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|18|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|19|72.10.160.170|18871|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.250|28115|Canada|Montreal|GloboTech Communications|
+|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|10|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|11|159.89.239.166|18099|United States|North Bergen|DigitalOcean, LLC|
+|12|23.237.210.82|80|United States|Houston|FDCservers.net|
+|13|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|223.151.55.58|8009|China|Qingyuan|Chinanet|
+|16|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|17|103.133.61.221|8181|Indonesia|Surabaya|TLINK|
+|18|121.101.129.150|8080|Indonesia|Mertoyudan|PT SELARAS CITRA TERABIT|
+|19|223.205.120.34|8081|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|20|103.48.68.67|84|India|Hyderabad|Country Online Services PVT LTD|
 
 
 
