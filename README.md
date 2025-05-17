@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|161.34.67.48|4649|Japan|Minato-ku|NTT PC Communications, Inc.|
 |2|43.198.66.3|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|3|14.239.52.73|8080|Vietnam|Hòa Bình|VNPT|
-|4|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|5|54.91.175.248|3128|United States|Ashburn|Amazon.com, Inc.|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|3|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|4|14.239.52.73|8080|Vietnam|Hòa Bình|VNPT|
+|5|119.93.82.171|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|6|52.71.134.73|3128|United States|Ashburn|Amazon.com, Inc.|
 |7|3.83.16.216|3128|United States|Ashburn|Amazon Technologies Inc.|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|117.250.3.58|8080|India|Ludhiana|Bharat Sanchar Nigam Ltd|
-|10|52.71.134.73|3128|United States|Ashburn|Amazon.com, Inc.|
-|11|54.91.175.248|3128|United States|Ashburn|Amazon.com, Inc.|
+|8|54.91.175.248|3128|United States|Ashburn|Amazon.com, Inc.|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|117.250.3.58|8080|India|Ludhiana|Bharat Sanchar Nigam Ltd|
+|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |12|144.24.192.102|8080|France|Marseille|Oracle Corporation|
-|13|27.50.29.166|8085|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
-|14|16.24.67.250|3128|Bahrain|Manama|Amazon.com, Inc.|
-|15|3.83.16.216|3128|United States|Ashburn|Amazon Technologies Inc.|
-|16|52.71.134.73|3128|United States|Ashburn|Amazon.com, Inc.|
-|17|74.163.96.203|3128|Brazil|São Paulo|BellSouth.net Inc.|
-|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|20|105.102.151.192|3128|Algeria|Algiers|Algerie Telecom|
+|13|54.91.175.248|3128|United States|Ashburn|Amazon.com, Inc.|
+|14|3.83.16.216|3128|United States|Ashburn|Amazon Technologies Inc.|
+|15|52.71.134.73|3128|United States|Ashburn|Amazon.com, Inc.|
+|16|16.24.67.250|3128|Bahrain|Manama|Amazon.com, Inc.|
+|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|19|105.102.151.192|3128|Algeria|Algiers|Algerie Telecom|
+|20|74.163.96.203|3128|Brazil|São Paulo|BellSouth.net Inc.|
 
 
 
