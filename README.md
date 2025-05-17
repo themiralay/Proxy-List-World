@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|2|23.237.210.82|80|United States|Houston|FDCservers.net|
-|3|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|93.115.172.94|1080|The Netherlands|Amsterdam|SOLLUTIUM EU Sp z.o.o.|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|23.237.210.82|80|United States|Houston|FDCservers.net|
+|2|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|23.237.210.82|80|United States|Houston|FDCservers.net|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|172.188.122.92|80|Singapore|Singapore|Microsoft|
 |10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|11|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|11|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
 |12|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|14|5.161.255.113|1080|United States|Ashburn|Hetzner Online GmbH|
-|15|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|16|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|5.161.255.113|1080|United States|Ashburn|Hetzner Online GmbH|
-|19|38.194.253.104|999|Mexico|Apaseo el Alto|Ientc S De RL De CV|
-|20|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|13|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|14|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|15|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|18|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|19|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|20|61.91.202.210|8080|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
 
 
 
