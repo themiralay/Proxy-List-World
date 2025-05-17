@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|2|14.239.52.73|8080|Vietnam|Hòa Bình|VNPT|
+|1|14.239.52.73|8080|Vietnam|Hòa Bình|VNPT|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |3|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|117.250.3.58|8080|India|Ludhiana|Bharat Sanchar Nigam Ltd|
-|9|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
-|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|12|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|15|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|17|198.59.68.130|3128|United States|New York|CenturyLink Communications, LLC|
-|18|41.203.76.166|8080|Nigeria|Kosofe|GLO|
-|19|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|20|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|5.161.106.49|1080|United States|Ashburn|Hetzner Online GmbH|
+|6|54.177.66.227|8080|United States|San Jose|Amazon.com, Inc.|
+|7|117.250.3.58|8080|India|Ludhiana|Bharat Sanchar Nigam Ltd|
+|8|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
+|9|144.24.192.102|8080|France|Marseille|Oracle Corporation|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|5.161.106.49|1080|United States|Ashburn|Hetzner Online GmbH|
+|12|23.237.210.82|80|United States|Houston|FDCservers.net|
+|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|16|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|17|54.177.66.227|8080|United States|San Jose|Amazon.com, Inc.|
+|18|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|193.95.53.131|8077|Tunisia|Tunis|3S INF|
 
 
 
