@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|43.198.66.3|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|4|161.34.67.48|4649|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|14.239.52.73|8080|Vietnam|Hòa Bình|VNPT|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|8|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|3.83.16.216|3128|United States|Ashburn|Amazon Technologies Inc.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|117.250.3.58|8080|India|Ludhiana|Bharat Sanchar Nigam Ltd|
-|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|14|3.83.16.216|3128|United States|Ashburn|Amazon Technologies Inc.|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|18|74.163.96.203|3128|Brazil|São Paulo|BellSouth.net Inc.|
-|19|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|20|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|1|161.34.67.48|4649|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|14.239.52.73|8080|Vietnam|Hòa Bình|VNPT|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|117.250.3.58|8080|India|Ludhiana|Bharat Sanchar Nigam Ltd|
+|8|3.83.16.216|3128|United States|Ashburn|Amazon Technologies Inc.|
+|9|3.83.16.216|3128|United States|Ashburn|Amazon Technologies Inc.|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|13|74.163.96.203|3128|Brazil|São Paulo|BellSouth.net Inc.|
+|14|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|15|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|16|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|17|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|18|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|144.24.192.102|8080|France|Marseille|Oracle Corporation|
 
 
 
