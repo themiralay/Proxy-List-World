@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|103.165.155.254|2016|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
-|6|5.161.106.49|1080|United States|Ashburn|Hetzner Online GmbH|
-|7|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|8|23.237.210.82|80|United States|Houston|FDCservers.net|
-|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|10|167.235.200.145|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|11|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|12|5.161.106.49|1080|United States|Ashburn|Hetzner Online GmbH|
-|13|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|14|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|15|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|16|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|17|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|18|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|3|45.83.140.96|3128|United States|Secaucus|Stark Industries Solutions LTD|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|23.237.210.82|80|United States|Houston|FDCservers.net|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|10|204.199.202.133|999|Mexico|Teotihuacán|Cirion Technologies Solutions|
+|11|167.235.200.145|1080|Germany|Falkenstein|Hetzner Online GmbH|
+|12|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|13|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|14|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|15|190.108.95.104|999|Peru|Tingo María|Internexa Peru S.A|
+|16|171.4.16.130|8080|Thailand|Pak Chong|Triple T Broadband Public Company Limited|
+|17|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|18|117.2.48.206|8080|Vietnam|Hanoi|Viettel Corporation|
+|19|146.70.116.28|4857|Austria|Vienna|M247 Europe Infra|
+|20|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
 
 
 
