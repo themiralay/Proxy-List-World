@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.239.52.73|8080|Vietnam|Hòa Bình|VNPT|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|4|117.250.3.58|8080|India|Ludhiana|Bharat Sanchar Nigam Ltd|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|94.131.109.15|1194|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
-|10|14.239.52.73|8080|Vietnam|Hòa Bình|VNPT|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|5.161.80.212|3128|United States|Ashburn|Hetzner Online GmbH|
-|13|45.136.198.40|3128|Bulgaria|Sofia|Managed by IROKO Networks|
-|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|15|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|16|167.235.200.145|1080|Germany|Falkenstein|Hetzner Online GmbH|
-|17|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|18|176.223.95.213|8080|Italy|Giussano|Professional Link S.r.l.|
-|19|23.237.210.82|80|United States|Houston|FDCservers.net|
+|1|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|2|14.239.52.73|8080|Vietnam|Hòa Bình|VNPT|
+|3|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|4|5.161.106.49|1080|United States|Ashburn|Hetzner Online GmbH|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|117.250.3.58|8080|India|Ludhiana|Bharat Sanchar Nigam Ltd|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|5.161.106.49|1080|United States|Ashburn|Hetzner Online GmbH|
+|9|144.24.192.102|8080|France|Marseille|Oracle Corporation|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|94.131.109.15|1194|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|14|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
 |20|14.239.52.73|8080|Vietnam|Hòa Bình|VNPT|
 
 
