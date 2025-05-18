@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3594** proxies at the latest update. Usable proxies are below.
+> Scraper found **3586** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|14|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|468|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|15|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|459|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|190|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|3|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|4|117.250.3.58|8080|India|Ludhiana|Bharat Sanchar Nigam Ltd|
-|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|7|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|8|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|9|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|10|14.239.52.73|8080|Vietnam|Hòa Bình|VNPT|
-|11|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|12|61.198.80.236|8080|Japan|Kanazawa|NSK Co., Ltd.|
-|13|103.105.76.100|8080|Indonesia|Bojonegoro|GARUDA|
-|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|16|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
+|2|117.250.3.58|8080|India|Ludhiana|Bharat Sanchar Nigam Ltd|
+|3|5.161.255.113|1080|United States|Ashburn|Hetzner Online GmbH|
+|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|6|5.161.255.113|1080|United States|Ashburn|Hetzner Online GmbH|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|9|117.250.3.58|8080|India|Ludhiana|Bharat Sanchar Nigam Ltd|
+|10|117.131.97.154|7897|China|Shanghai|China Mobile communications corporation|
+|11|68.183.211.118|2245|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|13|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|14|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|15|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|16|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
 |17|14.239.52.73|8080|Vietnam|Hòa Bình|VNPT|
 |18|14.239.52.73|8080|Vietnam|Hòa Bình|VNPT|
-|19|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
-|20|102.67.101.242|8080|Burkina Faso|Ouagadougou|Virtual Technologies and Solutions|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
 
 
 
