@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.239.52.73|8080|Vietnam|Hòa Bình|VNPT|
-|2|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|116.111.16.108|5101|Vietnam|Hanoi|Viettel Corporation|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|117.250.3.58|8080|India|Ludhiana|Bharat Sanchar Nigam Ltd|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|11|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|12|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|157.10.182.165|8080|Indonesia|South Tangerang|PT Linea Global Teknologi|
-|16|91.220.109.197|31546|Russia|St Petersburg|TimeWeb Ltd.|
-|17|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|41.89.22.100|3128|Kenya|Nairobi|KENET|
-|20|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|1|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|2|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|3|14.239.52.73|8080|Vietnam|Hòa Bình|VNPT|
+|4|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|5.161.106.49|1080|United States|Ashburn|Hetzner Online GmbH|
+|8|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
+|9|117.250.3.58|8080|India|Ludhiana|Bharat Sanchar Nigam Ltd|
+|10|158.69.118.135|38080|Canada|Montreal|OVH SAS|
+|11|170.106.83.149|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|5.161.106.49|1080|United States|Ashburn|Hetzner Online GmbH|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|94.131.109.15|1194|Germany|Frankfurt am Main|Stark Industries Solutions LTD|
+|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|19|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|20|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
 
 
 
