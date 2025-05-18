@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.239.52.73|8080|Vietnam|Hòa Bình|VNPT|
-|2|117.250.3.58|8080|India|Ludhiana|Bharat Sanchar Nigam Ltd|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|5|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|6|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|7|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|8|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|9|23.237.210.82|80|United States|Houston|FDCservers.net|
-|10|5.161.106.49|1080|United States|Ashburn|Hetzner Online GmbH|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|13|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|14.239.52.73|8080|Vietnam|Hòa Bình|VNPT|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|117.250.3.58|8080|India|Ludhiana|Bharat Sanchar Nigam Ltd|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|9|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|10|54.177.66.227|8080|United States|San Jose|Amazon.com, Inc.|
+|11|23.237.210.82|80|United States|Houston|FDCservers.net|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|117.131.97.154|7897|China|Shanghai|China Mobile communications corporation|
 |14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|16|14.239.52.73|8080|Vietnam|Hòa Bình|VNPT|
-|17|117.131.97.154|7897|China|Shanghai|China Mobile communications corporation|
-|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|19|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
-|20|103.171.83.63|1111|Indonesia|Utan|PT Multi Network Indonesia|
+|15|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|17|14.239.52.73|8080|Vietnam|Hòa Bình|VNPT|
+|18|202.162.174.164|8080|Philippines|Quezon City|Sagility Philippines B.V. Branch Office|
+|19|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|20|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
 
 
 
