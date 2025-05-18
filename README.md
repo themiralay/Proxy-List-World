@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|2|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|3|14.239.52.73|8080|Vietnam|Hòa Bình|VNPT|
-|4|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|14.239.52.73|8080|Vietnam|Hòa Bình|VNPT|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|117.250.3.58|8080|India|Ludhiana|Bharat Sanchar Nigam Ltd|
 |5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|117.250.3.58|8080|India|Ludhiana|Bharat Sanchar Nigam Ltd|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|12|14.239.52.73|8080|Vietnam|Hòa Bình|VNPT|
-|13|138.121.226.209|3128|Brazil|Unaí|POINT TELECOMUNICAÇÕES LTDA ME|
-|14|119.28.102.168|7654|Singapore|Singapore|ComsenzNet|
-|15|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|16|5.161.255.113|1080|United States|Ashburn|Hetzner Online GmbH|
-|17|185.250.180.238|8080|Germany|Frankfurt am Main|ZhouyiSat Communications|
+|6|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|11|23.237.210.82|80|United States|Houston|FDCservers.net|
+|12|44.196.210.220|3128|United States|Ashburn|Amazon.com|
+|13|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|14|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|15|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|16|185.250.180.238|8080|Germany|Frankfurt am Main|ZhouyiSat Communications|
+|17|103.35.108.250|2024|Bangladesh|Sirajganj|Ranks ITT|
 |18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|20|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|19|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|20|117.131.97.154|7897|China|Shanghai|China Mobile communications corporation|
 
 
 
