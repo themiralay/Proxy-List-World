@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|34.102.48.89|8080|United States|Los Angeles|Google LLC|
 |2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|5.161.106.49|1080|United States|Ashburn|Hetzner Online GmbH|
+|3|5.161.106.49|1080|United States|Ashburn|Hetzner Online GmbH|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|34.102.48.89|8080|United States|Los Angeles|Google LLC|
 |6|117.250.3.58|8080|India|Ludhiana|Bharat Sanchar Nigam Ltd|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |8|5.161.106.49|1080|United States|Ashburn|Hetzner Online GmbH|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|11|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|13|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|14|194.4.57.199|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|15|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|16|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|17|117.250.3.58|8080|India|Ludhiana|Bharat Sanchar Nigam Ltd|
-|18|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|19|27.79.213.68|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|141.95.1.186|3128|Germany|Limburg an der Lahn|OVH SAS|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|15|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|16|141.95.1.186|3128|Germany|Limburg an der Lahn|OVH SAS|
+|17|27.79.167.29|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|154.27.196.213|999|Mexico|Guadalajara|Cogent Communications|
+|19|103.230.126.213|3128|Malaysia|Puchong Batu Dua Belas|BIGBANDNET|
+|20|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
