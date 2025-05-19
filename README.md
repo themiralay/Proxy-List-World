@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|2|23.237.210.82|80|United States|Houston|FDCservers.net|
+|1|23.237.210.82|80|United States|Houston|FDCservers.net|
+|2|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
-|5|117.250.3.58|8080|India|Ludhiana|Bharat Sanchar Nigam Ltd|
-|6|170.106.107.29|18088|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|7|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|11|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|12|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|13|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|4|47.236.224.32|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|23.237.210.82|80|United States|Houston|FDCservers.net|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|117.250.3.58|8080|India|Ludhiana|Bharat Sanchar Nigam Ltd|
+|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|9|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|13|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
 |14|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|15|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|16|43.163.90.178|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|124.156.200.80|7654|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|18|8.218.251.251|10081|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|20|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
+|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|16|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|17|129.226.91.32|7654|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|18|43.134.176.17|7654|Singapore|Singapore|Aceville Pte.ltd|
+|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|20|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
 
 
 
