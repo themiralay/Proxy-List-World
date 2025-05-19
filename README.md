@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|182.253.109.83|8080|Indonesia|Semarang|Biznet Metronet|
-|2|23.237.210.82|80|United States|Houston|FDCservers.net|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|117.250.3.58|8080|India|Ludhiana|Bharat Sanchar Nigam Ltd|
-|5|43.156.46.62|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
-|7|23.237.210.82|80|United States|Houston|FDCservers.net|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|10|27.79.142.183|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|13|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|14|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|15|47.236.224.32|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|17|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|18|8.218.251.251|10081|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|93.119.21.81|8080|Italy|Como|Professional Link S.r.l.|
-|20|43.156.131.108|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|117.250.3.58|8080|India|Ludhiana|Bharat Sanchar Nigam Ltd|
+|4|23.237.210.82|80|United States|Houston|FDCservers.net|
+|5|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
+|6|43.134.169.87|7654|Singapore|Singapore|Aceville Pte.ltd|
+|7|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|8|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|45.136.198.40|3128|Bulgaria|Sofia|Managed by IROKO Networks|
+|11|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|12|43.134.100.10|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|43.156.131.108|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|124.156.200.80|7654|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|15|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|16|8.218.251.251|10081|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|18|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
 
 
 
