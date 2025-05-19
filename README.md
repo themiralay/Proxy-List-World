@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|170.106.107.29|18088|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|2|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|117.250.3.58|8080|India|Ludhiana|Bharat Sanchar Nigam Ltd|
-|5|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|8|23.237.210.82|80|United States|Houston|FDCservers.net|
-|9|103.130.83.49|8080|Indonesia|Bengkalis|PT Central Digital Network|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|117.250.3.58|8080|India|Ludhiana|Bharat Sanchar Nigam Ltd|
+|3|170.106.107.29|18088|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|6|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|7|43.163.90.178|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|43.134.239.142|7654|Singapore|Singapore|Aceville Pte.ltd|
+|9|23.237.210.82|80|United States|Houston|FDCservers.net|
 |10|117.250.3.58|8080|India|Ludhiana|Bharat Sanchar Nigam Ltd|
-|11|43.159.58.139|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|8.218.251.251|10081|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|13|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
 |14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|15|23.237.210.82|80|United States|Houston|FDCservers.net|
-|16|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|17|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
-|18|43.134.239.142|7654|Singapore|Singapore|Aceville Pte.ltd|
-|19|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|17|43.134.176.17|7654|Singapore|Singapore|Aceville Pte.ltd|
+|18|176.9.238.155|16379|Germany|Falkenstein|Hetzner|
+|19|23.237.210.82|80|United States|Houston|FDCservers.net|
+|20|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 
 
 
