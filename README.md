@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.107.165.30|10005|Vietnam|Hanoi|Viettel Corporation|
+|1|43.159.36.91|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |2|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
-|3|116.110.94.151|9014|Vietnam|Liên Chiểu|Viettel Corporation|
+|3|172.188.122.92|80|Singapore|Singapore|Microsoft|
 |4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|23.237.210.82|80|United States|Houston|FDCservers.net|
-|6|43.163.90.178|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|27.79.219.225|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|43.156.65.154|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|11|43.156.131.108|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|13|23.237.210.82|80|United States|Houston|FDCservers.net|
-|14|117.250.3.58|8080|India|Ludhiana|Bharat Sanchar Nigam Ltd|
+|5|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|6|118.70.170.125|31300|Vietnam|Hanoi|FPT Telecom Company|
+|7|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|8|23.237.210.82|80|United States|Houston|FDCservers.net|
+|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|117.250.3.58|8080|India|Ludhiana|Bharat Sanchar Nigam Ltd|
+|12|27.79.219.225|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|14|34.80.152.137|8866|Taiwan|Taipei|Google LLC|
 |15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|171.226.157.107|9014|Vietnam|Quận Bình Thạnh|Viettel Corporation|
-|20|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|18|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|19|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|20|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
 
 
 
