@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|129.226.52.60|5555|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|2|124.198.14.249|15648|South Korea|Seocho-gu|HAIonNet|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|43.163.112.8|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|117.250.3.58|8080|India|Ludhiana|Bharat Sanchar Nigam Ltd|
-|9|8.218.251.251|10081|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|43.163.125.69|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|12|84.201.138.232|3128|Russia|Moscow|Yandex enterprise network|
-|13|134.209.180.218|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|18.197.188.65|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|18|67.43.236.20|22931|Canada|Montreal|GloboTech Communications|
-|19|43.163.123.211|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|20|43.163.93.163|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|3|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|134.209.180.218|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|18.197.188.65|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|9|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|10|45.236.129.64|3128|Chile|Curicó|ZAM LTDA.|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|13|84.201.138.232|3128|Russia|Moscow|Yandex enterprise network|
+|14|117.250.3.58|8080|India|Ludhiana|Bharat Sanchar Nigam Ltd|
+|15|43.163.125.69|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|167.99.114.17|3128|United States|Clifton|DigitalOcean, LLC|
+|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|18|43.159.129.55|7654|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|185.250.180.238|8080|Germany|Frankfurt am Main|ZhouyiSat Communications|
 
 
 
