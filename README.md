@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|43.159.36.91|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|1|4.216.195.194|3128|Japan|Tokyo|Microsoft Corporation|
+|2|172.188.122.92|80|Singapore|Singapore|Microsoft|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |7|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|43.198.66.3|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|10|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|11|194.4.57.199|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
-|15|4.216.195.194|3128|Japan|Tokyo|Microsoft Corporation|
-|16|43.163.91.120|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|18|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|19|43.134.5.146|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|20|43.198.66.3|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|8|43.134.5.146|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
+|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|12|43.159.36.91|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|15|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|16|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|17|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|18|43.156.46.62|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|20|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
 
 
 
