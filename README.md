@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3861** proxies at the latest update. Usable proxies are below.
+> Scraper found **3807** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|105|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|593|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|106|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|538|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|241|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.67.48|4649|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|8.218.251.251|10081|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|4|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
-|5|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|117.250.3.58|8080|India|Ludhiana|Bharat Sanchar Nigam Ltd|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
-|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|2|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
+|3|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|117.250.3.58|8080|India|Ludhiana|Bharat Sanchar Nigam Ltd|
+|7|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|43.156.50.213|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|13|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
 |14|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|15|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|16|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|17|43.134.108.111|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|43.159.35.84|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|19|94.141.122.116|8080|Finland|Helsinki|Partner Hosting LTD|
-|20|43.134.111.198|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|43.156.124.70|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|94.141.122.116|8080|Finland|Helsinki|Partner Hosting LTD|
+|17|37.78.38.35|3128|Russia|Krasnodar|PAO Rostelecom|
+|18|43.134.160.231|7654|Singapore|Singapore|Aceville Pte.ltd|
+|19|43.156.82.16|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|20|43.163.123.211|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
