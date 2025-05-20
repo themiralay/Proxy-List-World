@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|1|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |4|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|117.250.3.58|8080|India|Ludhiana|Bharat Sanchar Nigam Ltd|
 |6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|9|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|10|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|11|129.226.148.206|7654|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|12|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|13|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|14|43.128.85.184|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|43.134.5.146|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|19|43.156.65.154|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|20|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|10|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|11|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|12|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|13|43.159.58.139|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|176.31.69.137|56789|France|Paris|OVH ISP|
+|15|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|16|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|17|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|18|185.63.90.94|8080|Italy|Gavardo|Professional Link S.r.l.|
+|19|43.156.78.105|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|20|209.121.164.50|31147|United States|Seattle|TELUS Communications Inc.|
 
 
 
