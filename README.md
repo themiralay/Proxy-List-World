@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4039** proxies at the latest update. Usable proxies are below.
+> Scraper found **4020** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|101|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|642|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|623|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|374|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.66.94|4649|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|43.134.134.126|7654|Singapore|Singapore|Aceville Pte.ltd|
-|3|43.134.91.123|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|43.156.106.5|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|43.163.127.110|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|7|43.156.62.111|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|43.156.101.50|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
+|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|4|8.218.251.251|10081|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|161.34.66.94|4649|Japan|Minato-ku|NTT PC Communications, Inc.|
+|6|43.163.101.77|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|43.134.134.126|7654|Singapore|Singapore|Aceville Pte.ltd|
+|8|43.159.35.84|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |11|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|12|43.159.57.205|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|43.156.39.242|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|43.134.57.33|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|43.128.109.248|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|43.163.100.178|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|43.163.118.162|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|43.156.125.98|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|19|43.163.123.211|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|20|43.156.124.70|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|43.163.90.248|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|43.163.120.211|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|43.163.108.27|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|43.163.97.247|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|43.134.93.220|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|43.163.127.110|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|117.250.3.58|8080|India|Ludhiana|Bharat Sanchar Nigam Ltd|
+|20|43.156.55.127|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
