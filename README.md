@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.67.48|4649|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|43.156.106.83|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
-|4|172.236.252.4|3128|United States|Los Angeles|Akamai Technologies, Inc.|
-|5|172.236.252.4|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|2|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|5|43.163.120.119|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|43.156.246.75|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|43.163.122.148|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|43.134.104.248|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|117.250.3.58|8080|India|Ludhiana|Bharat Sanchar Nigam Ltd|
-|14|124.156.200.80|7654|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|15|47.236.224.32|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|43.134.18.80|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|43.134.134.126|7654|Singapore|Singapore|Aceville Pte.ltd|
-|18|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|19|43.163.112.100|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|20|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|7|43.156.46.62|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|11|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|12|43.163.127.110|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|14|43.163.97.177|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|43.134.123.39|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|43.163.97.247|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|43.134.87.69|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|43.134.181.65|7654|Singapore|Singapore|Aceville Pte.ltd|
+|20|117.250.3.58|8080|India|Ludhiana|Bharat Sanchar Nigam Ltd|
 
 
 
