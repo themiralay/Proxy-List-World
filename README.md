@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3682** proxies at the latest update. Usable proxies are below.
+> Scraper found **3657** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|69|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|69|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|69|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|72|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|72|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|72|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|113|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|490|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|465|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|157|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|2|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|3|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|4|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|117.250.3.58|8080|India|Ludhiana|Bharat Sanchar Nigam Ltd|
+|7|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
 |8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|10|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
-|11|185.224.129.162|8080|The Netherlands|Amsterdam|SpectraIP B.V.|
-|12|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|13|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|14|23.237.210.82|80|United States|Houston|FDCservers.net|
-|15|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
-|16|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
-|17|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|20|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|122.160.148.199|8080|India|Delhi|BHARTI|
+|12|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|13|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|14|43.134.39.250|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|201.174.239.25|8080|Mexico|Reynosa|Transtelco Inc|
+|16|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|17|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|18|8.213.34.65|3128|Saudi Arabia|Riyadh|Alibaba (US) Technology Co., Ltd.|
+|19|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|20|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
 
 
 
