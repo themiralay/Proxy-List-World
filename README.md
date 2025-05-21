@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
-|2|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|3|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|4|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|8|43.134.44.194|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|117.250.3.58|8080|India|Ludhiana|Bharat Sanchar Nigam Ltd|
-|10|34.80.152.137|8866|Taiwan|Taipei|Google LLC|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|171.238.69.214|1005|Vietnam|Ninh Bình|Viettel Corporation|
-|17|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|18|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|19|194.4.57.199|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|20|172.232.173.157|3128|United States|Tukwila|Akamai Technologies, Inc.|
+|1|124.198.14.249|15648|South Korea|Seocho-gu|HAIonNet|
+|2|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|7|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|8|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|9|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|117.250.3.58|8080|India|Ludhiana|Bharat Sanchar Nigam Ltd|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|14|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|15|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|16|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|17|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|18|43.156.107.101|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|43.156.100.107|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
