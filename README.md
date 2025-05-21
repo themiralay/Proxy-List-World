@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3800** proxies at the latest update. Usable proxies are below.
+> Scraper found **3792** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|121|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|506|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|498|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|251|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|124.198.14.249|15648|South Korea|Seocho-gu|HAIonNet|
 |2|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
 |3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|5|117.250.3.58|8080|India|Ludhiana|Bharat Sanchar Nigam Ltd|
-|6|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|23.237.210.82|80|United States|Houston|FDCservers.net|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|13|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|14|43.134.93.220|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|23.237.210.82|80|United States|Houston|FDCservers.net|
+|5|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|8|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
+|9|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|23.237.210.82|80|United States|Houston|FDCservers.net|
+|14|122.160.148.199|8080|India|Delhi|BHARTI|
+|15|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
 |16|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|17|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|18|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|19|185.224.129.162|8080|The Netherlands|Amsterdam|SpectraIP B.V.|
-|20|190.242.119.222|8080|Colombia|Bogotá|Liberty Networks De Colombia|
+|17|27.79.137.107|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|185.224.129.162|8080|The Netherlands|Amsterdam|SpectraIP B.V.|
+|19|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|20|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
 
 
 
