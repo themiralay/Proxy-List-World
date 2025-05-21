@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.218.251.251|10081|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|139.59.254.133|8082|Singapore|Singapore|DigitalOcean, LLC|
-|3|157.66.16.69|5568|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|1|139.59.254.133|8082|Singapore|Singapore|DigitalOcean, LLC|
+|2|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|3|116.108.130.169|4002|Vietnam|Ho Chi Minh City|Viettel Corporation|
 |4|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
 |5|157.66.16.36|5568|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|6|116.108.130.169|4002|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|7|103.183.8.134|8090|Indonesia|Jakarta|PT Cepat Multi Data|
-|8|103.191.196.207|1111|Indonesia|Indramayu|PT Pangkalan Lintas Data|
-|9|171.228.102.79|10009|Vietnam|Hòa Bình|Viettel Corporation|
-|10|103.55.224.175|7777|Indonesia|Olejet|PT Gapura Era Digital|
-|11|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|12|180.191.23.22|8089|Philippines|Cabanatuan City|Globe Telecom|
-|13|43.159.142.34|31280|United States|Santa Clara|Aceville Pte.ltd|
-|14|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|15|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
-|16|103.157.24.28|8085|Indonesia|Randudongkal|PT Dapur Remaja Multi Sarana|
-|17|103.231.236.13|8182|Indonesia|Pemalang|PT Level Indodata Teknologi|
-|18|103.142.255.12|8181|Indonesia|Kertosono|PT.CITRA BERDIKARI NUSANTARA|
-|19|103.40.122.91|8181|Indonesia|Temanggung|PT DINAMIKA MEDIAKOM|
-|20|103.159.96.151|8181|Indonesia|Bakalan|PT Jinde Grup Indonesia|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|8|103.190.170.164|8586|Indonesia|Klaten|PT Ring Media Nusantara|
+|9|103.191.196.207|1111|Indonesia|Indramayu|PT Pangkalan Lintas Data|
+|10|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
+|11|103.133.25.153|8090|Indonesia|Jakarta|PT PHATRIA INTI PERSADA|
+|12|103.160.202.138|6666|Indonesia|Sedatiagung|PT Sembilan Mediadata Nusaraya|
+|13|103.157.24.28|8085|Indonesia|Randudongkal|PT Dapur Remaja Multi Sarana|
+|14|115.72.60.157|1002|Vietnam|Hanoi|Viettel Group|
+|15|103.156.75.215|8090|Indonesia|Gianyar|PT Trika Global Media|
+|16|64.227.166.24|20142|India|Bengaluru|DigitalOcean, LLC|
+|17|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|20|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
 
 
 
