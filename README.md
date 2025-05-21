@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3851** proxies at the latest update. Usable proxies are below.
+> Scraper found **3787** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|110|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|606|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|542|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|213|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.32.128.174|7654|Singapore|Singapore|Aceville Pte.ltd|
-|2|172.188.122.92|80|Singapore|Singapore|Microsoft|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|171.228.102.79|10001|Vietnam|Hòa Bình|Viettel Corporation|
-|5|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
-|6|43.134.180.194|7654|Singapore|Singapore|Aceville Pte.ltd|
-|7|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|8|43.134.232.19|7654|Singapore|Singapore|Aceville Pte.ltd|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|43.159.36.91|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|12|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|13|43.134.226.118|7654|Singapore|Singapore|Aceville Pte.ltd|
-|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|15|43.134.160.231|7654|Singapore|Singapore|Aceville Pte.ltd|
-|16|43.156.100.107|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|20|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|1|8.218.251.251|10081|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|43.156.105.34|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|180.191.23.22|8089|Philippines|Cabanatuan City|Globe Telecom|
+|4|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
+|5|157.66.16.69|5568|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|6|157.66.16.36|5568|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|7|101.128.92.228|8181|Indonesia|Jakarta|CBN|
+|8|116.108.130.169|4002|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|9|43.159.142.34|31280|United States|Santa Clara|Aceville Pte.ltd|
+|10|103.78.36.254|3125|Indonesia|Gunung Sahari Utara|MORATELINDO|
+|11|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|12|103.190.170.164|8586|Indonesia|Klaten|PT Ring Media Nusantara|
+|13|103.56.206.77|8099|Indonesia|Jakarta|Argon Data Communication|
+|14|103.231.236.13|8182|Indonesia|Pemalang|PT Level Indodata Teknologi|
+|15|103.157.24.28|8085|Indonesia|Randudongkal|PT Dapur Remaja Multi Sarana|
+|16|103.183.8.134|8090|Indonesia|Jakarta|PT Cepat Multi Data|
+|17|103.40.122.91|8181|Indonesia|Temanggung|PT DINAMIKA MEDIAKOM|
+|18|103.159.96.151|8181|Indonesia|Bakalan|PT Jinde Grup Indonesia|
+|19|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
+|20|103.142.255.12|8181|Indonesia|Kertosono|PT.CITRA BERDIKARI NUSANTARA|
 
 
 
