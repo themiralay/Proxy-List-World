@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|5|43.156.233.160|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|43.134.226.118|7654|Singapore|Singapore|Aceville Pte.ltd|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|11|115.72.15.122|10001|Vietnam|Vũng Tàu|VIETELmetro|
+|12|129.226.88.23|7654|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
 |13|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|14|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|16|129.226.211.37|7654|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|17|122.160.148.199|8080|India|Delhi|BHARTI|
-|18|185.224.129.162|8080|The Netherlands|Amsterdam|SpectraIP B.V.|
-|19|43.163.118.162|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|20|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|14|43.156.105.77|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|185.224.129.162|8080|The Netherlands|Amsterdam|SpectraIP B.V.|
+|16|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|17|45.79.137.210|3128|United States|Cedar Knolls|Akamai Technologies, Inc.|
+|18|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|20|83.217.23.34|8090|Russia|Moscow|PJSC Rostelecom|
 
 
 
