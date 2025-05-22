@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
-|3|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|4|171.228.102.79|10001|Vietnam|Hòa Bình|Viettel Corporation|
-|5|124.198.14.249|15648|South Korea|Seocho-gu|HAIonNet|
-|6|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|9|45.33.83.121|3128|United States|Cedar Knolls|Akamai Technologies, Inc.|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|172.236.228.252|3128|United States|Los Angeles|Akamai Technologies, Inc.|
-|12|45.79.71.148|3128|United States|Fremont|Akamai Technologies, Inc.|
-|13|34.80.152.137|8866|Taiwan|Taipei|Google LLC|
-|14|43.134.93.220|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|129.226.88.23|7654|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|16|172.234.237.74|3128|United States|Tukwila|Akamai Technologies, Inc.|
-|17|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|18|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
-|19|45.33.83.121|3128|United States|Cedar Knolls|Akamai Technologies, Inc.|
-|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|3|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|4|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
+|5|172.236.228.252|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|6|45.79.71.148|3128|United States|Fremont|Akamai Technologies, Inc.|
+|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|171.228.102.79|10001|Vietnam|Hòa Bình|Viettel Corporation|
+|9|103.106.219.201|8585|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
+|10|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|11|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|12|172.232.121.75|3128|India|Chennai|Akamai Technologies, Inc.|
+|13|172.232.102.17|3128|India|Chennai|Akamai Technologies, Inc.|
+|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|15|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|16|172.236.179.92|3128|India|Mumbai|Akamai Technologies, Inc.|
+|17|172.236.179.95|3128|India|Mumbai|Akamai Technologies, Inc.|
+|18|172.236.228.10|3128|United States|Los Angeles|Akamai Technologies, Inc.|
+|19|172.234.237.74|3128|United States|Tukwila|Akamai Technologies, Inc.|
+|20|47.88.58.34|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
 
 
 
