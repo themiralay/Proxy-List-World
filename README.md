@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
 |2|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|10|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|11|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|12|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|13|172.105.17.32|3128|Canada|Toronto|Akamai Technologies|
-|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|15|43.163.91.120|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|129.226.211.37|7654|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|17|172.105.51.47|3128|India|Mumbai|Akamai Technologies|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|185.224.129.162|8080|The Netherlands|Amsterdam|SpectraIP B.V.|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|6|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|7|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|11|27.79.129.62|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|8.218.251.251|10081|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|185.224.129.162|8080|The Netherlands|Amsterdam|SpectraIP B.V.|
+|16|172.105.4.32|3128|Canada|Toronto|Akamai Technologies|
+|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|18|23.237.210.82|80|United States|Houston|FDCservers.net|
+|19|129.226.88.23|7654|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|20|115.72.12.150|10002|Vietnam|Vũng Tàu|VIETELmetro|
 
 
 
