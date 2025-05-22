@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
-|2|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|43.153.207.84|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|23.237.210.82|80|United States|Houston|FDCservers.net|
-|8|129.226.89.234|7654|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|1|74.176.171.154|3128|Japan|Tokyo|Microsoft Corporation|
+|2|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
+|3|43.134.11.181|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|43.159.52.35|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|129.226.211.37|7654|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|9|23.237.210.82|80|United States|Houston|FDCservers.net|
 |10|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
-|11|43.159.36.91|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|23.237.210.82|80|United States|Houston|FDCservers.net|
-|13|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|14|43.134.123.164|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|23.237.210.82|80|United States|Houston|FDCservers.net|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|16|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|17|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
 |18|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|19|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|20|43.134.163.245|7654|Singapore|Singapore|Aceville Pte.ltd|
+|19|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|20|43.156.63.215|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
