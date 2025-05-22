@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
+|1|118.70.170.125|31300|Vietnam|Hanoi|FPT Telecom Company|
 |2|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|3|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|23.237.210.82|80|United States|Houston|FDCservers.net|
-|8|172.233.222.247|3128|United States|Chicago|Akamai Technologies, Inc.|
-|9|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|13|43.134.44.194|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
-|15|172.233.222.247|3128|United States|Chicago|Akamai Technologies, Inc.|
-|16|23.237.210.82|80|United States|Houston|FDCservers.net|
-|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|18|43.134.108.111|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|3|222.127.76.123|8080|Philippines|Lahug|INNOVE|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|172.232.174.13|3128|United States|Tukwila|Akamai Technologies, Inc.|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|172.237.71.109|3128|Singapore|Singapore|Akamai Technologies, Inc.|
+|8|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|9|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
+|10|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|12|45.56.113.27|17981|United States|Atlanta|Akamai Technologies, Inc.|
+|13|172.232.174.13|3128|United States|Tukwila|Akamai Technologies, Inc.|
+|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|15|23.237.210.82|80|United States|Houston|FDCservers.net|
+|16|43.163.101.77|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|18|45.56.113.27|17981|United States|Atlanta|Akamai Technologies, Inc.|
+|19|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|20|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
 
 
 
