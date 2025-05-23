@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
-|2|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|43.134.18.80|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |8|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|9|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|43.153.194.36|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|43.156.105.77|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|17|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|20|101.32.115.2|7654|Singapore|Singapore|Aceville Pte.ltd|
+|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|13|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|43.156.107.101|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|43.156.42.238|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|20|43.156.14.130|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
