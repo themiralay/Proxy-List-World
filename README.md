@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|172.232.7.115|3128|United States|Chicago|Akamai Technologies, Inc.|
-|7|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|8|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|15|47.236.224.32|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|18|172.233.142.174|3128|United States|Los Angeles|Akamai Technologies, Inc.|
-|19|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|20|43.163.99.123|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|7|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|13|194.4.57.199|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|14|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|15|43.163.108.43|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|23.237.210.82|80|United States|Houston|FDCservers.net|
+|17|172.233.162.66|3128|United States|Miami|Akamai Technologies, Inc.|
+|18|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|19|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|20|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
 
 
 
