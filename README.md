@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|3|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
-|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
-|7|23.237.210.82|80|United States|Houston|FDCservers.net|
-|8|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|1|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|23.237.210.82|80|United States|Houston|FDCservers.net|
+|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|7|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|8|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|9|27.112.66.122|8181|Indonesia|Jakarta|GRAHANET|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|121.126.209.211|15648|South Korea|Mapo-gu|Korea Telecom|
 |12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|13|23.237.210.82|80|United States|Houston|FDCservers.net|
-|14|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
-|15|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|20|68.183.63.141|8080|United States|Clifton|DigitalOcean, LLC|
+|13|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|14|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|16|43.160.196.87|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|18|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|23.237.210.82|80|United States|Houston|FDCservers.net|
+|20|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
 
 
 
