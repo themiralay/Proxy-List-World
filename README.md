@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|1|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|2|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
 |3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
-|5|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|27.79.168.24|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|172.105.51.47|3128|India|Mumbai|Akamai Technologies|
 |9|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|12|163.61.76.35|8082|Indonesia|Situbondo|PT Sinwan Ankar Jaya|
-|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|27.79.159.0|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|58.136.168.230|8080|Thailand|Bangkok|AIS-Fibre|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|80.190.82.58|14602|United Kingdom|Portsmouth|Contabo GmbH|
-|17|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|19|103.126.86.29|9090|Indonesia|Ungaran|PT. Rasi Bintang Perkasa|
-|20|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|15|80.190.82.58|14602|United Kingdom|Portsmouth|Contabo GmbH|
+|16|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|18|27.79.135.185|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|47.236.224.32|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|27.79.203.63|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
