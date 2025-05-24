@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|63|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|63|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|63|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|4|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
-|10|148.135.23.158|8888|United States|Los Angeles|Multacom Corporation|
-|11|36.67.114.94|8187|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|49.254.24.114|15648|South Korea|Seoul|HAIonNet|
-|14|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|15|43.134.1.77|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|121.126.150.212|15648|South Korea|Mapo-gu|Korea Telecom|
-|17|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|18|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|19|186.231.33.58|61804|Brazil|São Paulo|TIM S/A|
-|20|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
+|8|148.135.23.158|8888|United States|Los Angeles|Multacom Corporation|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|11|49.254.24.114|15648|South Korea|Seoul|HAIonNet|
+|12|121.126.150.212|15648|South Korea|Mapo-gu|Korea Telecom|
+|13|124.108.19.6|9292|India|Navi Mumbai|Advantus Corporate Infoserv Private Ltd|
+|14|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|15|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|16|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|20|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
 
 
 
