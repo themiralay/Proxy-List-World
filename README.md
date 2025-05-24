@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|67|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|67|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|67|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|58|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|58|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|58|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|2|180.180.18.98|8080|Thailand|Lat Bua Luang|TOT Public Company Limited|
+|1|34.101.43.230|3128|Indonesia|Jakarta|Google LLC|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |3|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|10|182.253.109.214|8080|Indonesia|Semarang|Biznet Metronet|
-|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|14|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|15|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
-|16|149.86.140.131|8080|Turkey|Sille|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|17|103.88.245.234|8080|Indonesia|Jakarta|PT.Indonesia Comnet Plus|
-|18|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|19|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|20|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|4|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|7|182.253.109.214|8080|Indonesia|Semarang|Biznet Metronet|
+|8|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|9|8.219.92.16|5656|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|148.135.23.158|8888|United States|Los Angeles|Multacom Corporation|
+|12|90.156.197.189|8080|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
+|14|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|15|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|16|94.141.122.116|8080|Finland|Helsinki|Partner Hosting LTD|
+|17|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|18|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|20|123.58.255.116|19999|China|Beijing|China Unicom IP network|
 
 
 
