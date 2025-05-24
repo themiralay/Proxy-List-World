@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|1|47.245.55.6|3128|Japan|Tokyo|Alibaba Cloud LLC|
+|2|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|3|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
+|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |7|23.237.210.82|80|United States|Houston|FDCservers.net|
-|8|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
-|11|27.79.168.24|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|182.253.109.214|8080|Indonesia|Semarang|Biznet Metronet|
-|15|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|16|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|17|45.143.222.38|8081|The Netherlands|Amsterdam|BestDC Limited|
-|18|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|19|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|20|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|43.160.196.87|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|12|43.156.245.241|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|14|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
+|15|27.79.155.150|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|182.253.109.214|8080|Indonesia|Semarang|Biznet Metronet|
+|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
 
 
 
