@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|11|194.4.57.199|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|12|103.3.58.162|3128|Indonesia|Krajan Satu Plalangan|PT. Java Digital Nusantara|
-|13|185.250.180.238|8080|Germany|Frankfurt am Main|ZhouyiSat Communications|
-|14|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|15|43.163.122.133|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|17|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
-|18|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|19|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
-|20|185.172.129.65|40003|United States|New York|First Server Limited|
+|2|27.79.141.66|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|4|27.79.185.183|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|9|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|14|27.79.140.53|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|170.106.144.64|8090|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|16|103.3.58.162|3128|Indonesia|Krajan Satu Plalangan|PT. Java Digital Nusantara|
+|17|43.163.99.123|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|185.250.180.238|8080|Germany|Frankfurt am Main|ZhouyiSat Communications|
 
 
 
