@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.66.94|4649|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|115.144.110.162|15648|South Korea|Seongnam-si|HAIonNet|
-|3|49.254.113.100|15648|South Korea|Seoul|HAIonNet|
+|2|103.47.225.9|8888|Singapore|Singapore|Atlantic.net, Inc.|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |4|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
 |6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|115.144.110.166|15648|South Korea|Seongnam-si|HAIonNet|
-|8|49.254.174.205|15648|South Korea|Seoul|Korea Telecom|
-|9|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
-|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|13|103.47.225.9|8888|Singapore|Singapore|Atlantic.net, Inc.|
-|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|188.245.96.116|40211|Germany|Nuremberg|Hetzner Online GmbH|
-|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|43.134.1.77|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|27.79.153.105|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|15|188.245.96.116|40211|Germany|Nuremberg|Hetzner Online GmbH|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|20|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
