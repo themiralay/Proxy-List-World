@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
-|4|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|5|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|6|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|9|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|12|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|13|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|14|115.127.139.106|48134|Bangladesh|Gazipur|BRACNet Limited|
-|15|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|18|99.20.24.9|8888|United States|Miami|AT&T Enterprises, LLC|
-|19|113.160.37.152|53281|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
+|6|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|7|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|11|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|12|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|15|200.37.252.122|8080|Peru|Ayacucho|Telefonica del Peru S.A.A.|
+|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|17|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|18|113.160.37.152|53281|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
+|20|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 
 
 
