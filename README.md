@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.47.225.9|8888|Singapore|Singapore|Atlantic.net, Inc.|
-|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|3|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|6|148.135.23.158|8888|United States|Los Angeles|Multacom Corporation|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|103.47.225.9|8888|Singapore|Singapore|Atlantic.net, Inc.|
+|3|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|4|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|49.254.245.70|15648|South Korea|Seoul|Korea Telecom|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|188.245.96.116|40211|Germany|Nuremberg|Hetzner Online GmbH|
-|12|49.254.145.166|15648|South Korea|Seoul|Korea Telecom|
+|8|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|15|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|19|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|20|115.144.6.108|15648|South Korea|Seongnam-si|Korea Telecom|
+|14|188.245.96.116|40211|Germany|Nuremberg|Hetzner Online GmbH|
+|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|16|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|17|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|18|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|19|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
+|20|34.102.48.89|8080|United States|Los Angeles|Google LLC|
 
 
 
