@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.162.251|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|23.237.210.82|80|United States|Houston|FDCservers.net|
-|5|23.237.210.82|80|United States|Houston|FDCservers.net|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
-|8|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|9|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|10|43.163.89.128|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|12|68.183.179.119|8888|Singapore|Singapore|DigitalOcean, LLC|
-|13|218.61.85.209|9090|China|Shenyang|CNC Group CHINA169 Liaoning Province Network|
-|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|68.183.211.118|2074|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|68.183.211.118|2074|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|68.183.211.118|2074|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|68.183.211.118|2074|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|68.183.211.118|2074|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|3|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|6|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|7|23.237.210.82|80|United States|Houston|FDCservers.net|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
+|10|27.79.162.251|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
+|13|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|14|68.183.211.118|2074|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|18|27.79.159.123|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|20|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
 
 
 
