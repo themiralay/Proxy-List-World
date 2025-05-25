@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.61.201|3128|Japan|Tokyo|InfoSphere|
-|2|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
-|3|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|4|49.145.243.91|8082|Philippines|Iligan|Philippine Long Distance Telephone Co.|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|14|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|15|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|16|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|18|45.143.222.38|8081|The Netherlands|Amsterdam|BestDC Limited|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|41.254.48.188|1970|Libya|Tripoli|LTT Network Backbone and POPs|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|6|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|12|45.143.222.38|8081|The Netherlands|Amsterdam|BestDC Limited|
+|13|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|14|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
+|15|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|16|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|17|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|18|185.250.180.238|8080|Germany|Frankfurt am Main|ZhouyiSat Communications|
+|19|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
+|20|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
 
 
 
