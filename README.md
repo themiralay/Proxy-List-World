@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|64|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|64|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|64|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|1|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
+|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|3|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|7|43.134.1.77|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|10|37.235.53.208|9686|Spain|Seville|Comvive Servidores S.L.|
-|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|170.106.144.64|8090|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|13|115.144.67.106|15648|South Korea|Seongnam-si|Korea Telecom|
+|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|12|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|13|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
 |14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|15|121.126.35.30|15648|South Korea|Anyang-si|Korea Telecom|
-|16|49.254.137.140|15648|South Korea|Seoul|HAIonNet|
-|17|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|18|121.126.39.100|15648|South Korea|Anyang-si|Korea Telecom|
-|19|43.163.99.123|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|20|115.144.37.70|15648|South Korea|Seongnam-si|Korea Telecom|
+|15|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|16|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|17|185.250.180.238|8080|Germany|Frankfurt am Main|ZhouyiSat Communications|
+|18|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
+|20|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
 
 
 
