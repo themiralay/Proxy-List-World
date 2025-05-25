@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|61|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|61|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|61|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |4|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|5|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
 |8|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|13|23.237.210.82|80|United States|Houston|FDCservers.net|
-|14|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|10|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|23.237.210.82|80|United States|Houston|FDCservers.net|
+|13|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|14|23.237.210.82|80|United States|Houston|FDCservers.net|
 |15|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
-|16|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |17|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|18|157.66.50.125|1111|Indonesia|Karawang|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|19|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|20|194.58.119.173|8888|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
+|18|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
+|19|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|20|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
 
 
 
