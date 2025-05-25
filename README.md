@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|68|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|68|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|68|
 
 ## Sources
 
@@ -39,24 +39,24 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|1|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
 |2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
 |4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
+|7|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
 |8|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
 |9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|12|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|14|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|103.3.58.162|3128|Indonesia|Krajan Satu Plalangan|PT. Java Digital Nusantara|
-|18|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|11|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|12|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
+|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|14|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |19|23.237.210.82|80|United States|Houston|FDCservers.net|
 |20|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 
