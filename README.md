@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|68|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|68|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|68|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|171.228.158.161|1001|Vietnam|Hanoi|Viettel Corporation|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|13|5.182.38.216|1080|Hungary|Budapest|Stark Industries Solutions LTD|
-|14|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|15|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|17|103.193.144.207|8080|Indonesia|Meureubo|PT Lintas Jaringan Nusantara|
-|18|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|19|41.65.160.172|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
-|20|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|6|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|10|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|11|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|194.4.57.199|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|15|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|16|171.7.68.150|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|18|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|19|23.237.210.82|80|United States|Houston|FDCservers.net|
+|20|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
 
 
 
