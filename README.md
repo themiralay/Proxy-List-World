@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|6|14.58.90.192|3128|South Korea|Namyangju|Korea Telecom|
-|7|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|23.237.210.82|80|United States|Houston|FDCservers.net|
-|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|11|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|12|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|13|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|14|27.79.220.245|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|121.132.61.211|3128|South Korea|Paju-si|Korea Telecom|
-|16|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|18|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|19|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|20|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
+|5|27.79.220.245|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|23.237.210.82|80|United States|Houston|FDCservers.net|
+|9|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|10|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
+|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|23.237.210.82|80|United States|Houston|FDCservers.net|
+|14|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|15|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|16|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|17|175.106.15.126|8989|Indonesia|Jakarta|Quantum Dist Cyber|
+|18|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|19|94.141.122.116|8080|Finland|Helsinki|Partner Hosting LTD|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
