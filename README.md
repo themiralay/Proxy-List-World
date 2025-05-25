@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -41,22 +41,22 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|34.102.48.89|8080|United States|Los Angeles|Google LLC|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|6|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|5|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|6|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
 |7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|8|34.102.48.89|8080|United States|Los Angeles|Google LLC|
 |9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|11|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|14|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|16|217.144.185.242|22578|The Netherlands|Amsterdam|Aeza International LTD|
-|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|18|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|10|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|12|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
+|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|14|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|16|14.58.90.192|3128|South Korea|Namyangju|Korea Telecom|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|217.144.185.242|22578|The Netherlands|Amsterdam|Aeza International LTD|
 |19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
