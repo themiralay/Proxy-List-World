@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |2|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
-|3|148.135.23.158|8888|United States|Los Angeles|Multacom Corporation|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|3|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|4|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|5|148.135.23.158|8888|United States|Los Angeles|Multacom Corporation|
 |6|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
 |7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|8|23.237.210.82|80|United States|Houston|FDCservers.net|
 |9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |10|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|12|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
-|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|14|23.237.210.82|80|United States|Houston|FDCservers.net|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|11|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|13|47.236.224.32|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
+|15|23.237.210.82|80|United States|Houston|FDCservers.net|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |17|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|18|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|19|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|20|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|18|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|19|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
