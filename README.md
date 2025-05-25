@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|68|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|68|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|68|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|2|116.102.37.181|10003|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|3|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|148.135.23.158|8888|United States|Los Angeles|Multacom Corporation|
-|9|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|14|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|15|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|16|43.163.122.133|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|41.65.160.172|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
-|18|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|19|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|20|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|1|148.135.23.158|8888|United States|Los Angeles|Multacom Corporation|
+|2|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
+|5|51.81.244.204|17981|United States|Hillsboro|OVH SAS|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
+|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|15|41.65.160.172|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|18|14.229.120.170|8080|Vietnam|Hanoi|VNPT|
+|19|23.237.210.82|80|United States|Houston|FDCservers.net|
+|20|23.237.210.82|80|United States|Houston|FDCservers.net|
 
 
 
