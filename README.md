@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|56|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|56|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|56|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|3|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |7|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|8|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|9|47.236.224.32|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
-|12|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|13|45.136.198.40|3128|Bulgaria|Sofia|Managed by IROKO Networks|
-|14|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|15|23.237.210.82|80|United States|Houston|FDCservers.net|
-|16|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|17|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|18|45.143.222.38|8081|The Netherlands|Amsterdam|BestDC Limited|
-|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|20|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|10|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
+|11|45.136.198.40|3128|Bulgaria|Sofia|Managed by IROKO Networks|
+|12|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|13|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|140.227.81.191|3128|Japan|Chiyoda|InfoSphere|
+|18|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|19|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|20|27.79.131.23|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
