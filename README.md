@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|104.198.91.219|8080|Japan|Tokyo|Google LLC|
-|2|14.176.31.117|8080|Vietnam|Hòa Bình|VNPT|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|6|115.72.15.168|10010|Vietnam|Vũng Tàu|VIETELmetro|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
-|9|23.237.210.82|80|United States|Houston|FDCservers.net|
-|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|13|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|14|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|18|194.4.57.199|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|19|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|20|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|1|14.176.31.117|8080|Vietnam|Hòa Bình|VNPT|
+|2|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|3|23.237.210.82|80|United States|Houston|FDCservers.net|
+|4|23.237.210.82|80|United States|Houston|FDCservers.net|
+|5|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|103.141.9.105|3128|Bangladesh|Dhaka|Bangladesh Water Development Board|
+|14|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
+|15|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|185.41.152.110|3128|France|Valenciennes|global|
+|18|23.237.210.82|80|United States|Houston|FDCservers.net|
+|19|14.176.31.117|8080|Vietnam|Hòa Bình|VNPT|
+|20|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
 
 
 
