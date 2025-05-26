@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|66|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|66|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|66|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.80.152.137|8866|Taiwan|Taipei|Google LLC|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|43.165.70.69|8080|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
-|4|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|1|23.237.210.82|80|United States|Houston|FDCservers.net|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|4|23.237.210.82|80|United States|Houston|FDCservers.net|
 |5|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
-|6|3.64.135.122|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|34.80.152.137|8866|Taiwan|Taipei|Google LLC|
+|7|3.64.135.122|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|12|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|13|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|14|172.233.222.247|3128|United States|Chicago|Akamai Technologies, Inc.|
-|15|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|16|23.237.210.82|80|United States|Houston|FDCservers.net|
-|17|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|18|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
-|19|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|20|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|10|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|11|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|12|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|72.10.160.174|9223|Canada|Montreal|GloboTech Communications|
+|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|17|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|185.250.180.238|8080|Germany|Frankfurt am Main|ZhouyiSat Communications|
+|20|3.35.174.230|3128|South Korea|Seoul|Amazon.com, Inc.|
 
 
 
