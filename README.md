@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|115.72.44.41|10007|Vietnam|Ho Chi Minh City|VIETELmetro|
-|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|103.14.33.82|3128|Hong Kong|Hong Kong|UCloud-HK|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|43.165.70.69|8080|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|1|103.162.141.138|8080|Indonesia|Batam|PT Filltech Antar Nusa|
+|2|14.176.31.117|8080|Vietnam|Hòa Bình|VNPT|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|5|103.14.33.82|3128|Hong Kong|Hong Kong|UCloud-HK|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |9|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
 |10|23.237.210.82|80|United States|Houston|FDCservers.net|
 |11|3.35.174.230|3128|South Korea|Seoul|Amazon.com, Inc.|
-|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|14|23.237.210.82|80|United States|Houston|FDCservers.net|
-|15|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|16|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|23.237.210.82|80|United States|Houston|FDCservers.net|
-|19|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|20|203.111.253.106|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
+|12|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
+|13|23.237.210.82|80|United States|Houston|FDCservers.net|
+|14|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|15|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|16|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|17|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|19|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|20|138.118.202.32|999|Venezuela|San Francisco|Iguana Network Services C.A.|
 
 
 
