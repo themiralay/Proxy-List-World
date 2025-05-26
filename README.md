@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|14.176.31.117|8080|Vietnam|Hòa Bình|VNPT|
-|3|43.165.70.69|8080|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
-|4|14.168.95.38|4002|Vietnam|Bình Phước|VNPT-VNNIC|
-|5|27.76.1.185|10001|Vietnam|Thái Nguyên|Newass2011xDSLHCMC|
-|6|43.165.70.69|8080|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|10|23.237.210.82|80|United States|Houston|FDCservers.net|
+|1|34.146.2.130|8080|Japan|Tokyo|Google LLC|
+|2|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|14.176.31.117|8080|Vietnam|Hòa Bình|VNPT|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|12|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|13|103.61.17.19|8080|Indonesia|Sukabumi|TWINSDATAPRATAMA|
-|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|15|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
-|16|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|17|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|18|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|19|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|20|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|12|23.237.210.82|80|United States|Houston|FDCservers.net|
+|13|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|15|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|16|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|17|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|18|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|185.41.152.110|3128|France|Valenciennes|global|
+|20|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 
 
 
