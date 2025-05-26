@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|14.176.31.117|8080|Vietnam|Hòa Bình|VNPT|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|5|14.176.31.117|8080|Vietnam|Hòa Bình|VNPT|
 |6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|11|83.217.209.198|8080|The Netherlands|Amsterdam|Partner Hosting LTD|
-|12|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|94.141.122.116|8080|Finland|Helsinki|Partner Hosting LTD|
-|15|23.237.210.82|80|United States|Houston|FDCservers.net|
-|16|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|18|185.250.180.238|8080|Germany|Frankfurt am Main|ZhouyiSat Communications|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|113.22.142.223|10001|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|13|23.237.210.82|80|United States|Houston|FDCservers.net|
+|14|154.26.134.167|8080|Singapore|Singapore|Cogent Communications|
+|15|185.250.180.238|8080|Germany|Frankfurt am Main|ZhouyiSat Communications|
+|16|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|17|3.35.174.230|3128|South Korea|Seoul|Amazon.com, Inc.|
+|18|23.237.210.82|80|United States|Houston|FDCservers.net|
 |19|23.237.210.82|80|United States|Houston|FDCservers.net|
-|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|14.176.31.117|8080|Vietnam|Hòa Bình|VNPT|
 
 
 
