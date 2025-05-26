@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.233.222.247|3128|United States|Chicago|Akamai Technologies, Inc.|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|172.233.222.247|3128|United States|Chicago|Akamai Technologies, Inc.|
-|5|170.187.237.9|3128|India|Mumbai|Akamai Technologies, Inc.|
-|6|103.141.9.105|3128|Bangladesh|Dhaka|Bangladesh Water Development Board|
-|7|18.158.14.115|3128|Germany|Frankfurt am Main|Amazon.com, Inc.|
-|8|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|1|3.35.174.230|3128|South Korea|Seoul|Amazon.com, Inc.|
+|2|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
+|3|172.233.222.247|3128|United States|Chicago|Akamai Technologies, Inc.|
+|4|171.237.114.200|1001|Vietnam|Hanoi|Viettel Corporation|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|172.233.222.247|3128|United States|Chicago|Akamai Technologies, Inc.|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|11|47.236.224.32|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|16|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|18|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|19|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|13|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|14|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|15|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|16|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|17|23.237.210.82|80|United States|Houston|FDCservers.net|
+|18|23.237.210.82|80|United States|Houston|FDCservers.net|
+|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
