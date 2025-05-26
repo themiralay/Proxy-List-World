@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|47.236.224.32|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|1|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|2|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|3|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|11|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|12|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|16|185.250.180.238|8080|Germany|Frankfurt am Main|ZhouyiSat Communications|
-|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|190.145.227.114|999|Colombia|Santiago de Cali|Telmex Colombia S.A.|
-|20|185.250.180.238|8080|Germany|Frankfurt am Main|ZhouyiSat Communications|
+|8|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|13|43.163.89.128|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|16|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
+|17|23.237.210.82|80|United States|Houston|FDCservers.net|
+|18|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|19|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|20|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
 
 
 
