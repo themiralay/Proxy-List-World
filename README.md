@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|64|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|64|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|64|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.237.210.82|80|United States|Houston|FDCservers.net|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
 |3|23.237.210.82|80|United States|Houston|FDCservers.net|
-|4|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|5|3.64.135.122|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|6|23.157.216.157|39001|United States|Harrisonville|Davykett LLC|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |8|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|9|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|10|94.141.122.116|8080|Finland|Helsinki|Partner Hosting LTD|
-|11|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|14|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|11|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|12|23.157.216.157|39001|United States|Harrisonville|Davykett LLC|
+|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|14|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |15|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|213.199.49.191|3128|Germany|Düsseldorf|Contabo GmbH|
-|18|43.163.99.123|7654|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|17|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |19|23.237.210.82|80|United States|Houston|FDCservers.net|
-|20|172.237.71.109|3128|Singapore|Singapore|Akamai Technologies, Inc.|
+|20|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
 
 
 
