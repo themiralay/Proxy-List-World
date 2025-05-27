@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.176.31.117|8080|Vietnam|Hòa Bình|VNPT|
-|2|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|1|16.162.90.94|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|2|14.176.31.117|8080|Vietnam|Hòa Bình|VNPT|
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|9|198.59.68.130|3128|United States|New York|CenturyLink Communications, LLC|
-|10|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|11|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|12|23.237.210.82|80|United States|Houston|FDCservers.net|
-|13|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
-|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|15|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
-|16|54.180.6.131|3128|South Korea|Seoul|Amazon Technologies Inc.|
-|17|16.162.90.94|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|18|14.176.31.117|8080|Vietnam|Hòa Bình|VNPT|
-|19|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|20|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|192.186.134.4|8080|United States|Buffalo|B2 Net Solutions Inc.|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|192.186.134.4|8080|United States|Buffalo|B2 Net Solutions Inc.|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|14|95.111.229.159|8080|France|Lauterbourg|Contabo GmbH|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|16.162.90.94|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|19|54.180.6.131|3128|South Korea|Seoul|Amazon Technologies Inc.|
+|20|23.237.210.82|80|United States|Houston|FDCservers.net|
 
 
 
