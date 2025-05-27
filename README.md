@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|49.254.183.172|15648|South Korea|Seoul|Korea Telecom|
-|2|14.176.31.117|8080|Vietnam|Hòa Bình|VNPT|
-|3|47.236.224.32|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|172.233.222.247|3128|United States|Chicago|Akamai Technologies, Inc.|
-|5|182.253.109.145|8080|Indonesia|Semarang|Biznet Metronet|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
-|8|172.233.222.247|3128|United States|Chicago|Akamai Technologies, Inc.|
-|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|52.57.197.63|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|1|13.124.201.241|3128|South Korea|Seoul|Amazon Technologies Inc.|
+|2|49.254.183.172|15648|South Korea|Seoul|Korea Telecom|
+|3|14.176.31.117|8080|Vietnam|Hòa Bình|VNPT|
+|4|54.180.6.131|3128|South Korea|Seoul|Amazon Technologies Inc.|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|182.253.109.145|8080|Indonesia|Semarang|Biznet Metronet|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|10|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
 |11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|14|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|15|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|16|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|19|49.254.183.172|15648|South Korea|Seoul|Korea Telecom|
-|20|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|12|52.57.197.63|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|45.143.222.38|8081|The Netherlands|Amsterdam|BestDC Limited|
+|15|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|17|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|18|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|19|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
