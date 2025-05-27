@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|2|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|14.176.31.117|8080|Vietnam|Hòa Bình|VNPT|
-|4|103.202.226.69|8080|Indonesia|Surabaya|PT Ring Media Nusantara|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|9|43.165.70.69|8080|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
-|10|34.131.219.48|3128|India|New Delhi|Google LLC|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|83.217.209.198|8080|The Netherlands|Amsterdam|Partner Hosting LTD|
-|13|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
-|14|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
-|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|95.111.229.159|8080|France|Lauterbourg|Contabo GmbH|
-|18|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|19|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
-|20|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|2|14.176.31.117|8080|Vietnam|Hòa Bình|VNPT|
+|3|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|158.69.118.135|38080|Canada|Montreal|OVH SAS|
+|6|43.165.70.69|8080|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|9|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|12|213.199.49.191|3128|Germany|Düsseldorf|Contabo GmbH|
+|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|15|23.237.210.82|80|United States|Houston|FDCservers.net|
+|16|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|17|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
+|18|14.176.31.117|8080|Vietnam|Hòa Bình|VNPT|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
 
 
 
