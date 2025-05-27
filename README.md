@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|49.254.183.172|15648|South Korea|Seoul|Korea Telecom|
-|2|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|182.253.109.145|8080|Indonesia|Semarang|Biznet Metronet|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|43.165.70.69|8080|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
-|11|14.176.31.117|8080|Vietnam|Hòa Bình|VNPT|
-|12|52.57.197.63|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|13|192.53.173.39|3128|Singapore|Singapore|Akamai Technologies, Inc.|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|3|182.253.109.145|8080|Indonesia|Semarang|Biznet Metronet|
+|4|43.165.70.69|8080|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|14.176.31.117|8080|Vietnam|Hòa Bình|VNPT|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|52.57.197.63|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|11|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|12|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
 |15|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|16|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|17|34.163.143.0|3128|France|Paris|Google LLC|
-|18|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|19|49.254.183.172|15648|South Korea|Seoul|Korea Telecom|
-|20|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|16|49.254.183.172|15648|South Korea|Seoul|Korea Telecom|
+|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|18|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|19|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
+|20|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
 
 
 
