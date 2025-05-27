@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|182.253.109.145|8080|Indonesia|Semarang|Biznet Metronet|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|23.237.210.82|80|United States|Houston|FDCservers.net|
-|4|13.124.201.241|3128|South Korea|Seoul|Amazon Technologies Inc.|
-|5|43.165.70.69|8080|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
-|6|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|52.57.197.63|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|9|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|12|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|13|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|14|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|15|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|16|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|19|54.180.6.131|3128|South Korea|Seoul|Amazon Technologies Inc.|
-|20|172.233.222.247|3128|United States|Chicago|Akamai Technologies, Inc.|
+|1|14.176.31.117|8080|Vietnam|Hòa Bình|VNPT|
+|2|182.253.109.145|8080|Indonesia|Semarang|Biznet Metronet|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
+|5|47.236.224.32|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|52.57.197.63|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|23.237.210.82|80|United States|Houston|FDCservers.net|
+|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|12|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|13|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|14|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|15|172.233.222.247|3128|United States|Chicago|Akamai Technologies, Inc.|
+|16|83.217.209.198|8080|The Netherlands|Amsterdam|Partner Hosting LTD|
+|17|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
 
 
 
