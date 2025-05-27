@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.81.191|3128|Japan|Chiyoda|InfoSphere|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|4|14.176.31.117|8080|Vietnam|Hòa Bình|VNPT|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|7|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|2|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|3|14.176.31.117|8080|Vietnam|Hòa Bình|VNPT|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|160.22.118.203|39083|Vietnam|An Hải|Sandclock Service Trading Company Limited|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|16|99.20.24.9|8888|United States|Miami|AT&T Enterprises, LLC|
-|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|18|113.22.142.223|10001|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|19|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|20|118.34.4.196|80|South Korea|Nonsan|Korea Telecom|
+|11|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|19|99.20.24.9|8888|United States|Miami|AT&T Enterprises, LLC|
+|20|94.141.122.116|8080|Finland|Helsinki|Partner Hosting LTD|
 
 
 
