@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|63|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|63|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|63|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|161.34.67.48|4649|Japan|Minato-ku|NTT PC Communications, Inc.|
 |2|16.162.90.94|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|14.176.31.117|8080|Vietnam|Hòa Bình|VNPT|
-|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|3.92.53.114|3128|United States|Ashburn|Amazon Technologies Inc.|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|3.92.53.114|3128|United States|Ashburn|Amazon Technologies Inc.|
-|10|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|11|16.162.90.94|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|13|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|14|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|15|23.224.193.45|3128|United States|Los Angeles|Cnservers LLC|
+|3|14.176.31.117|8080|Vietnam|Hòa Bình|VNPT|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|3.92.53.114|3128|United States|Ashburn|Amazon Technologies Inc.|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|3.92.53.114|3128|United States|Ashburn|Amazon Technologies Inc.|
+|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|12|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|13|14.176.31.117|8080|Vietnam|Hòa Bình|VNPT|
+|14|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
+|15|23.237.210.82|80|United States|Houston|FDCservers.net|
 |16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|17|23.224.193.45|3128|United States|Los Angeles|Cnservers LLC|
+|17|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
 |18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
+|19|187.249.114.252|8080|Mexico|Teapa|Transtelco Inc|
+|20|14.176.31.117|8080|Vietnam|Hòa Bình|VNPT|
 
 
 
