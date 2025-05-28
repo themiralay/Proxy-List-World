@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|67|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|67|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|67|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.85.121.188|8080|Japan|Tokyo|Google LLC|
-|2|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|3|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|14.176.31.117|8080|Vietnam|Hòa Bình|VNPT|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|9|83.217.209.198|8080|The Netherlands|Amsterdam|Partner Hosting LTD|
-|10|103.10.228.247|8080|Thailand|Bangkok|CATBB|
-|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|54.180.6.131|3128|South Korea|Seoul|Amazon Technologies Inc.|
-|14|13.124.201.241|3128|South Korea|Seoul|Amazon Technologies Inc.|
-|15|139.193.174.137|8080|Indonesia|Dukuh Atas|PT. First Media, Tbk|
-|16|187.172.86.240|999|Mexico|Mazatlán|Uninet S.A. de C.V.|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|93.113.63.73|33100|Turkey|Denizli|Netinternet Datacenter|
-|19|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|20|91.92.46.234|8080|United States|Chevy Chase|Vladylsav Naumets|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|43.165.70.69|8080|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
+|4|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|5|43.165.70.69|8080|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|8|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|9|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|10|47.236.224.32|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|13|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|14|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|15|93.113.63.73|33100|Turkey|Denizli|Netinternet Datacenter|
+|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|17|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|20|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
 
 
 
