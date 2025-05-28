@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|55|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|55|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|55|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|58|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|58|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|58|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|43.165.70.69|8080|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|34.85.121.188|8080|Japan|Tokyo|Google LLC|
+|2|14.176.31.117|8080|Vietnam|Hòa Bình|VNPT|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|43.165.70.69|8080|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|8|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
 |9|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|10|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|13|182.253.109.145|8080|Indonesia|Semarang|Biznet Metronet|
-|14|189.232.78.4|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
-|15|23.237.210.82|80|United States|Houston|FDCservers.net|
-|16|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|17|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|18|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|20|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|10|94.141.122.116|8080|Finland|Helsinki|Partner Hosting LTD|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|13|189.232.78.4|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
+|14|182.253.109.145|8080|Indonesia|Semarang|Biznet Metronet|
+|15|194.4.57.199|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|16|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|17|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|20|94.141.122.116|8080|Finland|Helsinki|Partner Hosting LTD|
 
 
 
