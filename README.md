@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|3|43.165.70.69|8080|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
-|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|5|91.92.46.50|8080|United States|Chevy Chase|Vladylsav Naumets|
+|1|34.85.121.188|8080|Japan|Tokyo|Google LLC|
+|2|43.165.126.91|8080|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|43.165.126.91|8080|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |6|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|91.92.46.50|8080|United States|Chevy Chase|Vladylsav Naumets|
-|10|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|11|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|14|95.111.229.159|8080|France|Lauterbourg|Contabo GmbH|
+|7|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
+|8|91.92.46.50|8080|United States|Chevy Chase|Vladylsav Naumets|
+|9|23.237.210.82|80|United States|Houston|FDCservers.net|
+|10|35.243.110.67|8080|Japan|Tokyo|Google LLC|
+|11|91.92.46.50|8080|United States|Chevy Chase|Vladylsav Naumets|
+|12|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|13|23.237.210.82|80|United States|Houston|FDCservers.net|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |15|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
 |16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|20|183.88.48.52|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|18|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|19|34.48.171.130|33080|United States|Washington|Google LLC|
+|20|116.108.27.252|10038|Vietnam|Ho Chi Minh City|Viettel Corporation|
 
 
 
