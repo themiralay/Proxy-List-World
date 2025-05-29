@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3734** proxies at the latest update. Usable proxies are below.
+> Scraper found **3804** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|212|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|498|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|568|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|102|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|35.243.110.67|8080|Japan|Tokyo|Google LLC|
-|3|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|9|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|10|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|11|43.165.126.91|8080|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
-|12|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|13|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|14|23.237.210.82|80|United States|Houston|FDCservers.net|
-|15|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|18|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|20|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
+|6|185.250.180.238|8080|Germany|Frankfurt am Main|ZhouyiSat Communications|
+|7|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|8|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|9|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
+|13|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|14|95.111.229.159|8080|France|Lauterbourg|Contabo GmbH|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|35.221.85.166|8080|Japan|Tokyo|Google LLC|
+|17|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|18|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|19|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|20|103.82.36.237|39715|Vietnam|Thanh Khê|Cloudfly Corporation|
 
 
 
