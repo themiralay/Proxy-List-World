@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3734** proxies at the latest update. Usable proxies are below.
+> Scraper found **3788** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|213|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|529|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|215|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|581|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|70|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.85.121.188|8080|Japan|Tokyo|Google LLC|
-|2|35.243.110.67|8080|Japan|Tokyo|Google LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|43.204.190.167|3128|India|Mumbai|Amazon.com, Inc.|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|9|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|12|45.136.198.40|3128|Bulgaria|Sofia|Managed by IROKO Networks|
-|13|101.108.248.210|8080|Thailand|Bangkok|TOT Public Company Limited|
-|14|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|15|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|16|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|17|23.237.210.82|80|United States|Houston|FDCservers.net|
-|18|161.34.67.48|4649|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|20|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|1|34.146.230.85|8080|Japan|Tokyo|Google LLC|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|34.85.121.188|8080|Japan|Tokyo|Google LLC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|10|103.54.80.151|8080|Indonesia|Purbalingga|MEDIACOMPUTINDO|
+|11|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|12|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|13|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|14|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
+|15|27.79.222.120|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|27.79.129.170|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|185.250.180.238|8080|Germany|Frankfurt am Main|ZhouyiSat Communications|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|43.133.13.187|10809|Japan|Tokyo|Aceville Pte.ltd|
+|20|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
 
 
 
