@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|62|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|62|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|62|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|217.15.164.63|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|5|2.50.48.110|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|3|217.15.164.63|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|4|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|5|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
-|9|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
-|10|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|11|185.234.65.66|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|12|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|13|23.237.210.82|80|United States|Houston|FDCservers.net|
-|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|15|23.122.184.9|8888|United States|Miami|AT&T Enterprises, LLC|
-|16|103.176.190.98|8080|India|Mormugao|Merv Enterprises PVT LTD|
-|17|182.253.109.135|8080|Indonesia|Semarang|Biznet Metronet|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|20|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|11|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
+|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|13|185.234.65.66|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|14|5.9.11.198|3130|Germany|Falkenstein|Hetzner Online GmbH|
+|15|160.25.37.248|1111|Indonesia|Pemalang|PT MAXLINK DATA PRIMA INDONESIA|
+|16|182.253.109.135|8080|Indonesia|Semarang|Biznet Metronet|
+|17|181.78.19.142|999|Colombia|Bosconia|IFX Networks Argentina S.R.L|
+|18|183.80.159.62|10001|Vietnam|Nha Trang|FPT Telecom Company|
+|19|95.111.229.159|8080|France|Lauterbourg|Contabo GmbH|
+|20|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
 
 
 
