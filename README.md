@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.175.45.187|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|13.124.201.241|3128|South Korea|Seoul|Amazon Technologies Inc.|
-|5|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|54.180.6.131|3128|South Korea|Seoul|Amazon Technologies Inc.|
+|1|13.124.201.241|3128|South Korea|Seoul|Amazon Technologies Inc.|
+|2|54.180.6.131|3128|South Korea|Seoul|Amazon Technologies Inc.|
+|3|113.175.45.187|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|43.156.217.209|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|12|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|14|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|11|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|13|90.152.50.154|3128|United Kingdom|Carterton|Regus Management Limited|
+|14|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
 |15|113.175.45.187|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|152.53.66.81|3128|Austria|Vienna|netcup GmbH|
-|18|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|19|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|20|185.250.180.238|8080|Germany|Frankfurt am Main|ZhouyiSat Communications|
+|16|23.237.210.82|80|United States|Houston|FDCservers.net|
+|17|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|103.117.194.250|8080|Bangladesh|Dhaka|DigiCon Telecommunication Ltd|
+|20|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
 
 
 
