@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|63|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|63|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|63|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |2|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|23.237.210.82|80|United States|Houston|FDCservers.net|
-|6|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|4|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|5|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|11|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|12|185.234.65.66|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|13|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|14|91.92.46.50|8080|United States|Chevy Chase|Vladylsav Naumets|
-|15|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|18|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|19|129.151.241.80|8080|France|Marseille|Oracle Corporation|
-|20|103.188.169.160|7777|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|8|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|11|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|12|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|13|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|14|185.234.65.66|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|15|5.9.11.198|3130|Germany|Falkenstein|Hetzner Online GmbH|
+|16|129.151.241.80|8080|France|Marseille|Oracle Corporation|
+|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|18|103.109.204.108|8080|Indonesia|Kraksaan|PT Hard Work Media Data Trans|
+|19|181.78.19.142|999|Colombia|Bosconia|IFX Networks Argentina S.R.L|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
