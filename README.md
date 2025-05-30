@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|72|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|72|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|72|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|217.15.164.63|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|1|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
 |2|113.175.45.187|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|12|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
-|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|14|185.234.65.66|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
-|20|5.9.11.198|3130|Germany|Falkenstein|Hetzner Online GmbH|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|2.50.48.110|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
+|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|12|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
+|15|185.234.65.66|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|16|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|20|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 
 
 
