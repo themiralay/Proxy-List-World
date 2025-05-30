@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|13.124.201.241|3128|South Korea|Seoul|Amazon Technologies Inc.|
 |4|18.141.140.10|443|Singapore|Singapore|Amazon.com, Inc.|
 |5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|113.175.45.187|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|8|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
+|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|10|34.102.48.89|8080|United States|Los Angeles|Google LLC|
 |11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|12|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
-|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|14|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|15|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|20|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|16|113.175.45.187|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|46.39.105.251|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|18|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|19|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|20|91.92.46.50|8080|United States|Chevy Chase|Vladylsav Naumets|
 
 
 
