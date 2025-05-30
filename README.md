@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|4|123.17.230.210|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|5|23.237.210.82|80|United States|Houston|FDCservers.net|
-|6|189.232.72.14|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
-|7|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|54.236.189.216|8080|United States|Ashburn|Amazon.com, Inc.|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|119.245.50.82|8080|Japan|Chiyoda|NTT PC Communications, Inc.|
-|12|23.237.210.82|80|United States|Houston|FDCservers.net|
-|13|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
-|14|181.78.19.142|999|Colombia|Bosconia|IFX Networks Argentina S.R.L|
-|15|181.78.19.138|999|Colombia|Bosconia|IFX Networks Argentina S.R.L|
-|16|217.15.164.63|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|17|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
-|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|54.236.189.216|8080|United States|Ashburn|Amazon.com, Inc.|
+|1|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|7|123.17.230.210|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|8|189.232.72.14|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
+|9|23.237.210.82|80|United States|Houston|FDCservers.net|
+|10|217.15.164.63|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|11|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
+|12|34.80.152.137|8866|Taiwan|Taipei|Google LLC|
+|13|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
+|14|23.237.210.82|80|United States|Houston|FDCservers.net|
+|15|181.78.19.142|999|Colombia|Bosconia|IFX Networks Argentina S.R.L|
+|16|181.78.19.138|999|Colombia|Bosconia|IFX Networks Argentina S.R.L|
+|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|19|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
+|20|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
 
 
 
