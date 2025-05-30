@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|113.175.45.187|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |2|217.15.164.63|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
-|7|2.50.48.110|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
 |8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|11|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|12|129.151.241.80|8080|France|Marseille|Oracle Corporation|
-|13|185.234.65.66|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|14|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|15|5.9.11.198|3130|Germany|Falkenstein|Hetzner Online GmbH|
-|16|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|17|181.204.183.75|3737|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|18|90.152.50.154|3128|United Kingdom|Carterton|Regus Management Limited|
-|19|23.237.210.82|80|United States|Houston|FDCservers.net|
-|20|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|10|129.151.241.80|8080|France|Marseille|Oracle Corporation|
+|11|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|12|185.234.65.66|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|90.152.50.154|3128|United Kingdom|Carterton|Regus Management Limited|
+|16|23.237.210.82|80|United States|Houston|FDCservers.net|
+|17|23.237.210.82|80|United States|Houston|FDCservers.net|
+|18|185.250.180.238|8080|Germany|Frankfurt am Main|ZhouyiSat Communications|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
 
 
 
