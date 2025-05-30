@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|217.15.164.63|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|2|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|3|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|4|182.253.109.135|8080|Indonesia|Semarang|Biznet Metronet|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|1|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
+|4|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|5|23.237.210.82|80|United States|Houston|FDCservers.net|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |7|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|18.208.131.14|8888|United States|Ashburn|Amazon.com, Inc.|
-|10|23.237.210.82|80|United States|Houston|FDCservers.net|
-|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
-|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|14|185.234.65.66|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|15|18.208.131.14|8888|United States|Ashburn|Amazon.com, Inc.|
+|8|185.234.65.66|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|11|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|14|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|15|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|17|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|18|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|19|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|20|45.170.226.250|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|17|5.9.11.198|3130|Germany|Falkenstein|Hetzner Online GmbH|
+|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|23.122.184.9|8888|United States|Miami|AT&T Enterprises, LLC|
+|20|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 
 
 
