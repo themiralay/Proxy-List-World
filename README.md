@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.81.191|3128|Japan|Chiyoda|InfoSphere|
-|2|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|123.17.230.210|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|6|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|2|123.17.230.210|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
 |7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|62.60.236.237|8080|Finland|Helsinki|Aeza International LTD|
-|10|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|185.234.65.66|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|13|27.79.177.36|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|34.80.152.137|8866|Taiwan|Taipei|Google LLC|
-|15|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|17|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|18|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|47.236.224.32|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|12|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|13|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|14|185.234.65.66|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|15|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|62.60.236.237|8080|Finland|Helsinki|Aeza International LTD|
+|17|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
+|18|5.9.11.198|3130|Germany|Falkenstein|Hetzner Online GmbH|
+|19|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|20|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
 
 
 
