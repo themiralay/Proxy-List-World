@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|23.237.210.82|80|United States|Houston|FDCservers.net|
-|3|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|47.236.224.32|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|47.88.105.97|1080|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|1|54.180.121.115|3128|South Korea|Seoul|Amazon Technologies Inc.|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|4|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|5|52.39.141.66|8080|United States|Portland|Amazon.com, Inc.|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|23.237.210.82|80|United States|Houston|FDCservers.net|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|201.150.119.170|999|Mexico|Mineral de la Reforma|Hulux Telecomunicaciones|
 |10|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|23.237.210.82|80|United States|Houston|FDCservers.net|
-|13|181.78.19.142|9992|Colombia|Bosconia|IFX Networks Argentina S.R.L|
-|14|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|62.60.236.237|8080|Finland|Helsinki|Aeza International LTD|
-|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|19|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|20|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
+|11|222.228.171.92|8080|Japan|Araichō|ARTERIA Networks Corporation|
+|12|52.39.141.66|8080|United States|Portland|Amazon.com, Inc.|
+|13|23.237.210.82|80|United States|Houston|FDCservers.net|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|185.234.65.66|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|19|181.78.19.142|9992|Colombia|Bosconia|IFX Networks Argentina S.R.L|
+|20|181.78.19.138|999|Colombia|Bosconia|IFX Networks Argentina S.R.L|
 
 
 
