@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|217.15.164.63|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|3|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|6|123.17.230.210|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|7|182.253.109.138|8080|Indonesia|Semarang|Biznet Metronet|
-|8|23.237.210.82|80|United States|Houston|FDCservers.net|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
-|11|189.232.72.14|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
-|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|13|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
-|14|23.237.210.82|80|United States|Houston|FDCservers.net|
-|15|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
-|16|181.78.19.138|999|Colombia|Bosconia|IFX Networks Argentina S.R.L|
-|17|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|3|182.253.109.138|8080|Indonesia|Semarang|Biznet Metronet|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|23.237.210.82|80|United States|Houston|FDCservers.net|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|189.232.72.14|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
+|9|123.17.230.210|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|10|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
+|11|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
+|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|13|23.237.210.82|80|United States|Houston|FDCservers.net|
+|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
+|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|139.59.34.209|8080|India|Bengaluru|DigitalOcean, LLC|
+|20|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
 
 
 
