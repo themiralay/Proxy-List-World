@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|3|123.17.230.210|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|23.237.210.82|80|United States|Houston|FDCservers.net|
-|7|182.253.109.138|8080|Indonesia|Semarang|Biznet Metronet|
-|8|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
-|9|189.232.72.14|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
-|10|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
-|11|23.237.210.82|80|United States|Houston|FDCservers.net|
-|12|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
-|13|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
-|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|217.15.164.63|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|4|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|5|47.236.224.32|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|123.17.230.210|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|11|182.253.109.138|8080|Indonesia|Semarang|Biznet Metronet|
+|12|23.237.210.82|80|United States|Houston|FDCservers.net|
+|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|14|189.232.72.14|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
+|15|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
+|16|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|62.60.236.237|8080|Finland|Helsinki|Aeza International LTD|
-|19|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|20|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|18|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|19|23.237.210.82|80|United States|Houston|FDCservers.net|
+|20|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
 
 
 
