@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|47.236.224.32|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|182.253.109.138|8080|Indonesia|Semarang|Biznet Metronet|
-|10|23.237.210.82|80|United States|Houston|FDCservers.net|
+|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|182.253.109.138|8080|Indonesia|Semarang|Biznet Metronet|
+|8|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
+|9|23.237.210.82|80|United States|Houston|FDCservers.net|
+|10|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 |11|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
-|12|123.17.230.210|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|13|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|14|189.232.72.14|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
-|15|2.50.48.110|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
-|16|23.237.210.82|80|United States|Houston|FDCservers.net|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
-|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|189.232.72.14|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
+|13|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
+|14|23.237.210.82|80|United States|Houston|FDCservers.net|
+|15|123.17.230.210|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|16|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|17|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
+|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
