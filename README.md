@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|52.231.207.0|3128|South Korea|Yeonje-gu|Microsoft Corporation|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
-|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|34.232.72.193|8888|United States|Ashburn|Amazon.com, Inc.|
-|8|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
-|9|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|10|23.237.210.82|80|United States|Houston|FDCservers.net|
-|11|15.228.161.173|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|12|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
-|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|14|113.160.184.87|8080|Vietnam|Thanh Hóa|VietNam Post and Telecom Corporation|
-|15|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|16|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|18|91.92.46.50|8080|United States|Chevy Chase|Vladylsav Naumets|
-|19|27.72.100.236|4995|Vietnam|Hanoi|Newass2011xDSLHN|
-|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|3|52.39.141.66|8080|United States|Portland|Amazon.com, Inc.|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|52.39.141.66|8080|United States|Portland|Amazon.com, Inc.|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|11|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|185.234.65.66|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|15|23.237.210.82|80|United States|Houston|FDCservers.net|
+|16|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|17|159.69.80.125|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|18|34.232.72.193|8888|United States|Ashburn|Amazon.com, Inc.|
+|19|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|20|185.250.180.238|8080|Germany|Frankfurt am Main|ZhouyiSat Communications|
 
 
 
