@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|66|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|66|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|66|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|63|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|63|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|63|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|123.17.230.210|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
+|4|123.17.230.210|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|5|181.78.19.138|9992|Colombia|Bosconia|IFX Networks Argentina S.R.L|
+|6|181.78.19.142|9992|Colombia|Bosconia|IFX Networks Argentina S.R.L|
 |7|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
-|8|181.78.19.138|9992|Colombia|Bosconia|IFX Networks Argentina S.R.L|
-|9|181.78.19.142|9992|Colombia|Bosconia|IFX Networks Argentina S.R.L|
-|10|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|13|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
-|14|62.60.236.237|8080|Finland|Helsinki|Aeza International LTD|
-|15|185.234.65.66|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|16|103.88.229.59|8080|Indonesia|Kedaton|Institut Agama Islam Negeri Raden Intan Lampung|
-|17|125.25.205.174|8080|Thailand|Bangkok|TOT Public Company Limited|
+|8|185.234.65.66|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|45.12.150.82|8080|Spain|Madrid|Stark Industries Solutions LTD|
+|11|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|12|62.60.236.237|8080|Finland|Helsinki|Aeza International LTD|
+|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|51.75.86.68|3128|Belgium|Zaventem|OVH SAS|
+|16|54.37.207.54|3128|Germany|Limburg an der Lahn|OVH SAS|
+|17|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
 |18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|20|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
 
 
 
