@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|123.17.230.210|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|23.237.210.82|80|United States|Houston|FDCservers.net|
-|6|182.253.109.138|8080|Indonesia|Semarang|Biznet Metronet|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|189.232.72.14|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
-|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|10|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|114.198.244.57|3128|Indonesia|Kediri|PT Sumber Data Indonesia|
-|13|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|3|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|4|217.15.164.63|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
+|7|182.253.109.138|8080|Indonesia|Semarang|Biznet Metronet|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|189.232.72.14|8080|Mexico|Tula de Allende|Uninet S.A. de C.V.|
+|11|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|12|34.80.152.137|8866|Taiwan|Taipei|Google LLC|
+|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |14|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
 |15|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
-|16|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|17|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
-|18|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
-|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|17|185.234.65.66|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|18|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
+|19|42.115.37.155|12003|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
