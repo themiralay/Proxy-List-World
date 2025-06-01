@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|1|52.231.207.0|3128|South Korea|Yeonje-gu|Microsoft Corporation|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|185.234.65.66|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
 |9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|185.234.65.66|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|11|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|14|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|15|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|16|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|17|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|18|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|19|91.107.137.203|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|20|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|10|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|91.107.137.203|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|13|13.49.209.228|3128|Sweden|Stockholm|Amazon Technologies Inc.|
+|14|13.53.92.147|3128|Sweden|Stockholm|Amazon Technologies Inc.|
+|15|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|17|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|18|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|19|23.237.210.82|80|United States|Houston|FDCservers.net|
+|20|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 
 
 
