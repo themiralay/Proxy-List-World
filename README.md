@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|52.231.143.39|3128|South Korea|Yeonje-gu|Microsoft Corporation|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
 |3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|65.109.210.247|1080|Finland|Helsinki|Hetzner Online GmbH|
-|9|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
-|10|185.234.65.66|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
+|5|185.234.65.66|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|10|65.109.210.247|1080|Finland|Helsinki|Hetzner Online GmbH|
+|11|89.116.171.146|1080|United States|Los Angeles|Limestone Networks, Inc.|
 |12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |13|89.116.171.146|1080|United States|Los Angeles|Limestone Networks, Inc.|
-|14|52.231.207.0|3128|South Korea|Yeonje-gu|Microsoft Corporation|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|23.237.210.82|80|United States|Houston|FDCservers.net|
-|17|54.198.58.139|3128|United States|Ashburn|Amazon.com, Inc.|
-|18|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|19|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|20|89.116.171.146|1080|United States|Los Angeles|Limestone Networks, Inc.|
+|14|23.237.210.82|80|United States|Houston|FDCservers.net|
+|15|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|16|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|17|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|18|189.240.60.162|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|19|54.198.58.139|3128|United States|Ashburn|Amazon.com, Inc.|
+|20|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
 
 
 
