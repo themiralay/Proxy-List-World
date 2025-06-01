@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
-|2|52.231.143.39|3128|South Korea|Yeonje-gu|Microsoft Corporation|
+|1|52.231.136.128|3128|South Korea|Yeonje-gu|Microsoft Corporation|
+|2|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
 |3|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|89.116.171.146|1080|United States|Los Angeles|Limestone Networks, Inc.|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|23.237.210.82|80|United States|Houston|FDCservers.net|
-|9|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
-|10|89.116.171.146|1080|United States|Los Angeles|Limestone Networks, Inc.|
-|11|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|52.231.191.193|3128|South Korea|Yeonje-gu|Microsoft Corporation|
+|6|23.237.210.82|80|United States|Houston|FDCservers.net|
+|7|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|52.231.143.39|3128|South Korea|Yeonje-gu|Microsoft Corporation|
+|10|185.234.65.66|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|13|185.234.65.66|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|135.181.217.185|3128|Finland|Helsinki|Hetzner Online GmbH|
-|16|52.231.191.193|3128|South Korea|Yeonje-gu|Microsoft Corporation|
-|17|91.107.137.203|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|18|23.237.210.82|80|United States|Houston|FDCservers.net|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|68.183.63.141|8080|United States|Clifton|DigitalOcean, LLC|
+|15|4.201.174.44|3128|Brazil|São Paulo|Microsoft Corporation|
+|16|68.183.63.141|8080|United States|Clifton|DigitalOcean, LLC|
+|17|135.181.217.185|3128|Finland|Helsinki|Hetzner Online GmbH|
+|18|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|19|91.107.137.203|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|20|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
 
 
 
