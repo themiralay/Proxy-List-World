@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|63|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|63|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|63|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.227.61.201|3128|Japan|Tokyo|InfoSphere|
-|2|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
+|1|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
+|2|140.227.61.201|3128|Japan|Tokyo|InfoSphere|
 |3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|23.237.210.82|80|United States|Houston|FDCservers.net|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|54.46.16.215|3128|Hong Kong|Hong Kong|Amazon.com|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |6|54.198.58.139|3128|United States|Ashburn|Amazon.com, Inc.|
-|7|23.237.210.82|80|United States|Houston|FDCservers.net|
-|8|139.59.34.209|8080|India|Bengaluru|DigitalOcean, LLC|
-|9|54.198.58.139|3128|United States|Ashburn|Amazon.com, Inc.|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|23.237.210.82|80|United States|Houston|FDCservers.net|
+|10|54.198.58.139|3128|United States|Ashburn|Amazon.com, Inc.|
 |11|185.234.65.66|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|12|135.181.217.185|3128|Finland|Helsinki|Hetzner Online GmbH|
-|13|103.178.194.133|2016|Indonesia|Tangerang|PT Jaringan Keluarga Bersama|
-|14|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|15|47.236.224.32|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|19|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|135.181.217.185|3128|Finland|Helsinki|Hetzner Online GmbH|
+|14|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|15|189.240.60.162|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|16|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|17|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|18|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|19|4.201.174.44|3128|Brazil|São Paulo|Microsoft Corporation|
+|20|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
 
 
 
