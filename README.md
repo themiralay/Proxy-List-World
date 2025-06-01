@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|140.227.61.201|3128|Japan|Tokyo|InfoSphere|
 |2|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
 |3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|6|23.237.210.82|80|United States|Houston|FDCservers.net|
-|7|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|23.237.210.82|80|United States|Houston|FDCservers.net|
-|10|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
-|11|185.234.65.66|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|13.49.209.228|3128|Sweden|Stockholm|Amazon Technologies Inc.|
-|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|16|135.181.217.185|3128|Finland|Helsinki|Hetzner Online GmbH|
-|17|13.53.92.147|3128|Sweden|Stockholm|Amazon Technologies Inc.|
-|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|19|54.198.58.139|3128|United States|Ashburn|Amazon.com, Inc.|
-|20|54.198.58.139|3128|United States|Ashburn|Amazon.com, Inc.|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|7|34.80.152.137|8866|Taiwan|Taipei|Google LLC|
+|8|185.234.65.66|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|52.231.207.113|3128|South Korea|Yeonje-gu|Microsoft Corporation|
+|11|54.198.58.139|3128|United States|Ashburn|Amazon.com, Inc.|
+|12|4.201.174.44|3128|Brazil|São Paulo|Microsoft Corporation|
+|13|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|15|54.198.58.139|3128|United States|Ashburn|Amazon.com, Inc.|
+|16|52.231.201.45|3128|South Korea|Yeonje-gu|Microsoft Corporation|
+|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|18|112.203.208.214|8080|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|19|185.250.180.238|8080|Germany|Frankfurt am Main|ZhouyiSat Communications|
+|20|52.231.136.128|3128|South Korea|Yeonje-gu|Microsoft Corporation|
 
 
 
