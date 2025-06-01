@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
 |3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|23.237.210.82|80|United States|Houston|FDCservers.net|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|185.234.65.66|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|11|65.109.210.247|1080|Finland|Helsinki|Hetzner Online GmbH|
-|12|135.181.217.185|3128|Finland|Helsinki|Hetzner Online GmbH|
-|13|68.183.63.141|8080|United States|Clifton|DigitalOcean, LLC|
-|14|68.183.63.141|8080|United States|Clifton|DigitalOcean, LLC|
-|15|52.231.207.113|3128|South Korea|Yeonje-gu|Microsoft Corporation|
-|16|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|17|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|18|13.52.248.109|3128|United States|San Jose|Amazon.com, Inc.|
-|19|54.46.6.234|3128|Hong Kong|Hong Kong|Amazon.com|
-|20|54.215.41.167|3128|United States|San Jose|Amazon.com, Inc.|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|89.116.171.146|1080|United States|Los Angeles|Limestone Networks, Inc.|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|23.237.210.82|80|United States|Houston|FDCservers.net|
+|11|89.116.171.146|1080|United States|Los Angeles|Limestone Networks, Inc.|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|91.107.137.203|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|65.109.210.247|1080|Finland|Helsinki|Hetzner Online GmbH|
+|15|4.201.174.44|3128|Brazil|São Paulo|Microsoft Corporation|
+|16|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
+|17|135.181.217.185|3128|Finland|Helsinki|Hetzner Online GmbH|
+|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|19|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|20|202.93.244.242|8080|Indonesia|Ngoro|PT. Dutakom Wibawa Putra|
 
 
 
