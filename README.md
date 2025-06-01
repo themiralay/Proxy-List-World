@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
 |3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |4|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|52.231.201.45|3128|South Korea|Yeonje-gu|Microsoft Corporation|
-|7|139.59.34.209|8080|India|Bengaluru|DigitalOcean, LLC|
-|8|115.77.129.47|10003|Vietnam|Ho Chi Minh City|Viettel Group|
-|9|54.198.58.139|3128|United States|Ashburn|Amazon.com, Inc.|
-|10|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|13|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|54.198.58.139|3128|United States|Ashburn|Amazon.com, Inc.|
-|16|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|17|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|23.237.210.82|80|United States|Houston|FDCservers.net|
-|20|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
+|8|54.198.58.139|3128|United States|Ashburn|Amazon.com, Inc.|
+|9|27.71.130.49|16000|Vietnam|Đưc Trọng|Viettel Group|
+|10|185.234.65.66|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|11|4.201.174.44|3128|Brazil|São Paulo|Microsoft Corporation|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|135.181.217.185|3128|Finland|Helsinki|Hetzner Online GmbH|
+|15|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|16|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|17|52.231.207.0|3128|South Korea|Yeonje-gu|Microsoft Corporation|
+|18|54.198.58.139|3128|United States|Ashburn|Amazon.com, Inc.|
+|19|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
