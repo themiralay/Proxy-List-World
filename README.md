@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |5|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
-|6|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
-|10|185.234.65.66|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|12|5.75.200.137|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|14|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|15|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|16|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|17|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|18|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|19|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|20|189.240.60.162|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|6|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
+|7|185.234.65.66|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|8|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|9|5.75.200.137|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|15|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|16|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|17|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|18|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|19|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|20|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
 
 
 
