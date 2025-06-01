@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
-|2|52.231.207.113|3128|South Korea|Yeonje-gu|Microsoft Corporation|
-|3|52.231.201.45|3128|South Korea|Yeonje-gu|Microsoft Corporation|
-|4|52.231.136.128|3128|South Korea|Yeonje-gu|Microsoft Corporation|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|116.103.28.52|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|116.103.25.94|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|10|115.74.0.13|10003|Vietnam|Vũng Tàu|VIETELxdsl|
-|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|13|23.237.210.82|80|United States|Houston|FDCservers.net|
-|14|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
-|15|23.237.210.82|80|United States|Houston|FDCservers.net|
-|16|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
-|17|185.234.65.66|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|13.53.92.147|3128|Sweden|Stockholm|Amazon Technologies Inc.|
+|2|15.168.12.20|3128|Japan|Osaka|Amazon Technologies Inc.|
+|3|52.231.207.113|3128|South Korea|Yeonje-gu|Microsoft Corporation|
+|4|52.231.201.45|3128|South Korea|Yeonje-gu|Microsoft Corporation|
+|5|52.231.136.128|3128|South Korea|Yeonje-gu|Microsoft Corporation|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|116.103.28.52|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|116.103.25.94|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|115.74.0.13|10003|Vietnam|Vũng Tàu|VIETELxdsl|
+|10|23.237.210.82|80|United States|Houston|FDCservers.net|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|12|47.88.105.97|1080|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|13|13.218.99.159|80|United States|Ashburn|Amazon.com, Inc.|
+|14|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|15|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
+|16|23.237.210.82|80|United States|Houston|FDCservers.net|
+|17|13.218.99.159|80|United States|Ashburn|Amazon.com, Inc.|
+|18|47.88.105.97|1080|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|20|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
 
 
 
