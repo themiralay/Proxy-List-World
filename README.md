@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|13.231.217.135|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|5|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
-|6|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|4|189.240.60.162|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|5|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|6|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
+|7|185.234.65.66|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
 |8|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
-|9|185.234.65.66|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|12|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
-|13|13.215.228.160|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|14|13.231.181.166|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|15|13.52.239.100|3128|United States|San Jose|Amazon.com, Inc.|
-|16|13.52.239.100|3128|United States|San Jose|Amazon.com, Inc.|
-|17|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|18|209.121.164.51|31147|United States|Seattle|TELUS Communications Inc.|
-|19|209.121.164.50|31147|United States|Seattle|TELUS Communications Inc.|
-|20|27.79.241.87|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|13.52.178.252|3128|United States|San Jose|Amazon.com, Inc.|
+|14|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|15|13.52.178.252|3128|United States|San Jose|Amazon.com, Inc.|
+|16|148.224.59.25|999|Mexico|San Luis Potosí City|Universidad Autonoma De SAN Luis Potosi|
+|17|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|18|27.79.241.87|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|23.237.210.82|80|United States|Houston|FDCservers.net|
+|20|181.78.19.138|9992|Colombia|Bosconia|IFX Networks Argentina S.R.L|
 
 
 
