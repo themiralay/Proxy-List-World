@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3519** proxies at the latest update. Usable proxies are below.
+> Scraper found **3459** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|9|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|514|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|454|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|74|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|161.34.67.48|4649|Japan|Minato-ku|NTT PC Communications, Inc.|
 |2|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
-|3|13.231.176.72|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|4|15.168.12.20|3128|Japan|Osaka|Amazon Technologies Inc.|
-|5|13.231.181.166|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|6|43.216.255.101|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|13.52.99.167|3128|United States|San Jose|Amazon.com, Inc.|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|13.57.253.229|3128|United States|San Jose|Amazon.com, Inc.|
-|11|13.229.250.226|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|12|13.215.228.160|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|13|3.25.116.201|3128|Australia|Sydney|Amazon Technologies Inc.|
-|14|13.52.99.167|3128|United States|San Jose|Amazon.com, Inc.|
-|15|23.237.210.82|80|United States|Houston|FDCservers.net|
-|16|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
+|3|52.231.191.193|3128|South Korea|Yeonje-gu|Microsoft Corporation|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|52.42.76.223|3128|United States|Portland|Amazon.com, Inc.|
+|6|47.236.224.32|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|52.231.136.128|3128|South Korea|Yeonje-gu|Microsoft Corporation|
+|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|10|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|11|52.231.201.45|3128|South Korea|Yeonje-gu|Microsoft Corporation|
+|12|54.198.58.139|3128|United States|Ashburn|Amazon.com, Inc.|
+|13|23.237.210.82|80|United States|Houston|FDCservers.net|
+|14|52.42.76.223|3128|United States|Portland|Amazon.com, Inc.|
+|15|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
+|16|185.234.65.66|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
 |17|54.198.58.139|3128|United States|Ashburn|Amazon.com, Inc.|
-|18|13.57.253.229|3128|United States|San Jose|Amazon.com, Inc.|
-|19|52.231.207.0|3128|South Korea|Yeonje-gu|Microsoft Corporation|
-|20|54.198.58.139|3128|United States|Ashburn|Amazon.com, Inc.|
+|18|23.237.210.82|80|United States|Houston|FDCservers.net|
+|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
