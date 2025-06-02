@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.216.251.65|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|16.79.11.229|80|Indonesia|Jakarta|Amazon.com, Inc.|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |5|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |7|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
 |8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|185.234.65.66|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|13.49.209.228|3128|Sweden|Stockholm|Amazon Technologies Inc.|
-|14|91.107.137.203|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|23.237.210.82|80|United States|Houston|FDCservers.net|
-|16|194.4.57.199|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|17|34.232.72.193|8888|United States|Ashburn|Amazon.com, Inc.|
-|18|185.250.180.238|8080|Germany|Frankfurt am Main|ZhouyiSat Communications|
-|19|186.96.111.214|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|20|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|9|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|185.234.65.66|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|13|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|14|52.231.207.113|3128|South Korea|Yeonje-gu|Microsoft Corporation|
+|15|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|91.107.137.203|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|19|185.250.180.238|8080|Germany|Frankfurt am Main|ZhouyiSat Communications|
+|20|103.215.60.14|8080|Indonesia|Pontianak Barat|PT Uwais Borneo Group|
 
 
 
