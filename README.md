@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|52.231.191.193|3128|South Korea|Yeonje-gu|Microsoft Corporation|
+|3|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|23.237.210.82|80|United States|Houston|FDCservers.net|
+|7|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
 |10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|12|52.231.136.128|3128|South Korea|Yeonje-gu|Microsoft Corporation|
-|13|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|14|52.231.207.0|3128|South Korea|Yeonje-gu|Microsoft Corporation|
-|15|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
-|16|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|52.231.207.113|3128|South Korea|Yeonje-gu|Microsoft Corporation|
-|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|20|185.234.65.66|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|13|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|185.234.65.66|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|181.78.19.142|9992|Colombia|Bosconia|IFX Networks Argentina S.R.L|
+|19|91.107.137.203|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|20|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
 
 
 
