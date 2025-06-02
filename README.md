@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
 |2|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|3|52.231.191.193|3128|South Korea|Yeonje-gu|Microsoft Corporation|
-|4|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|23.237.210.82|80|United States|Houston|FDCservers.net|
 |5|182.253.109.138|8080|Indonesia|Semarang|Biznet Metronet|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|23.237.210.82|80|United States|Houston|FDCservers.net|
-|11|23.237.210.82|80|United States|Houston|FDCservers.net|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
-|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|15|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|16|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
+|6|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|7|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|8|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|9|189.240.60.162|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|10|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|11|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|12|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|13|23.237.210.82|80|United States|Houston|FDCservers.net|
+|14|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|15|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
+|16|89.116.171.146|1080|United States|Los Angeles|Limestone Networks, Inc.|
 |17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|18|13.49.209.228|3128|Sweden|Stockholm|Amazon Technologies Inc.|
-|19|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|20|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|19|185.234.65.66|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|20|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
 
 
 
