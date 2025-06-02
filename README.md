@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|72|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|72|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|72|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|2|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|5|103.3.58.162|3128|Indonesia|Krajan Satu Plalangan|PT. Java Digital Nusantara|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|3|103.3.58.162|3128|Indonesia|Krajan Satu Plalangan|PT. Java Digital Nusantara|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 |8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|11|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|12|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|185.234.65.66|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|15|91.107.159.236|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|18|65.109.210.247|1080|Finland|Helsinki|Hetzner Online GmbH|
-|19|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|20|185.250.180.238|8080|Germany|Frankfurt am Main|ZhouyiSat Communications|
+|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|185.234.65.66|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|13|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|14|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|15|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|16|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|17|189.240.60.162|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|18|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
 
 
 
