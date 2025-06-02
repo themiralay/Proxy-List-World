@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|89.116.171.146|1080|United States|Los Angeles|Limestone Networks, Inc.|
-|8|182.253.109.138|8080|Indonesia|Semarang|Biznet Metronet|
-|9|23.237.210.82|80|United States|Houston|FDCservers.net|
-|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|12|34.232.72.193|8888|United States|Ashburn|Amazon.com, Inc.|
-|13|185.234.65.66|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|14|23.237.210.82|80|United States|Houston|FDCservers.net|
-|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|16|89.116.171.146|1080|United States|Los Angeles|Limestone Networks, Inc.|
-|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|159.69.80.125|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|19|65.109.210.247|1080|Finland|Helsinki|Hetzner Online GmbH|
-|20|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
+|1|52.231.207.0|3128|South Korea|Yeonje-gu|Microsoft Corporation|
+|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
+|10|185.234.65.66|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|11|23.237.210.82|80|United States|Houston|FDCservers.net|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|13.49.209.228|3128|Sweden|Stockholm|Amazon Technologies Inc.|
+|14|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|16|45.191.7.249|8080|Argentina|Centenario|Estrella Jorge Alberto|
+|17|185.250.180.238|8080|Germany|Frankfurt am Main|ZhouyiSat Communications|
+|18|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|19|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|20|181.78.19.138|9992|Colombia|Bosconia|IFX Networks Argentina S.R.L|
 
 
 
