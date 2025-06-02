@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
-|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|185.234.65.66|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|9|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|91.107.137.203|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|52.231.143.39|3128|South Korea|Yeonje-gu|Microsoft Corporation|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|139.59.34.209|8080|India|Bengaluru|DigitalOcean, LLC|
+|10|8.222.235.39|3128|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
+|12|185.234.65.66|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|13|91.107.137.203|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
 |14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|15|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|15|34.102.48.89|8080|United States|Los Angeles|Google LLC|
 |16|68.183.63.141|8080|United States|Clifton|DigitalOcean, LLC|
-|17|65.109.210.247|1080|Finland|Helsinki|Hetzner Online GmbH|
-|18|68.183.63.141|8080|United States|Clifton|DigitalOcean, LLC|
-|19|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|20|52.231.143.39|3128|South Korea|Yeonje-gu|Microsoft Corporation|
+|17|103.67.84.66|7717|Indonesia|Kertosari|PT Tujuh Fondasi Teknologi|
+|18|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|19|45.236.171.76|999|Ecuador|Guayaquil|Codgrec S.A.|
+|20|103.215.60.14|8080|Indonesia|Pontianak Barat|PT Uwais Borneo Group|
 
 
 
