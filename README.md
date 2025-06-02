@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
+|1|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|2|52.231.207.113|3128|South Korea|Yeonje-gu|Microsoft Corporation|
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
-|5|185.234.65.66|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|68.183.63.141|8080|United States|Clifton|DigitalOcean, LLC|
-|10|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|13|68.183.63.141|8080|United States|Clifton|DigitalOcean, LLC|
-|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|15|91.107.137.203|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
+|7|3.225.41.109|80|United States|Ashburn|Amazon Technologies Inc.|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|11|185.234.65.66|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|91.107.137.203|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|14|65.109.210.247|1080|Finland|Helsinki|Hetzner Online GmbH|
+|15|34.102.48.89|8080|United States|Los Angeles|Google LLC|
 |16|23.237.210.82|80|United States|Houston|FDCservers.net|
-|17|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|18|34.232.72.193|8888|United States|Ashburn|Amazon.com, Inc.|
-|19|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|20|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|19|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|20|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
 
 
 
