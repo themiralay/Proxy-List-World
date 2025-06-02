@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|67|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|67|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|67|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|6|103.158.121.248|8080|Indonesia|Jatibarang|CDN|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |7|185.234.65.66|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|147.135.222.208|3128|France|Saint-Mandé|OVH SAS|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|27.79.206.251|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|91.107.159.236|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|14|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|15|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|16|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|17|27.79.226.211|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|19|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|20|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|8|147.135.222.208|3128|France|Saint-Mandé|OVH SAS|
+|9|47.88.105.97|1080|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|10|47.88.105.97|1080|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|11|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|12|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|13|139.59.34.209|8080|India|Bengaluru|DigitalOcean, LLC|
+|14|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|15|27.79.227.254|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|116.103.30.89|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|27.79.254.151|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|19|188.121.109.223|3128|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|20|185.250.180.238|8080|Germany|Frankfurt am Main|ZhouyiSat Communications|
 
 
 
