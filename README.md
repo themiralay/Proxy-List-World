@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|103.3.58.162|3128|Indonesia|Krajan Satu Plalangan|PT. Java Digital Nusantara|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|152.70.154.69|8080|United States|Phoenix|Oracle Corporation|
+|2|152.70.154.69|8080|United States|Phoenix|Oracle Corporation|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|43.208.225.231|3128|Thailand|Bangkok|Amazon.com, Inc.|
 |7|152.70.154.69|8080|United States|Phoenix|Oracle Corporation|
-|8|181.78.19.142|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|8|103.3.58.162|3128|Indonesia|Krajan Satu Plalangan|PT. Java Digital Nusantara|
 |9|181.78.19.138|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|10|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|11|13.53.92.147|3128|Sweden|Stockholm|Amazon Technologies Inc.|
-|12|134.209.180.218|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|45.170.226.254|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|14|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|181.78.19.138|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|18|5.190.36.2|3128|Iran|Bavānāt|Iran Telecommunication Company PJS|
-|19|13.53.92.147|3128|Sweden|Stockholm|Amazon Technologies Inc.|
-|20|147.135.222.208|3128|France|Saint-Mandé|OVH SAS|
+|10|181.78.19.142|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|3.75.195.206|8888|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|13|139.59.34.209|8080|India|Bengaluru|DigitalOcean, LLC|
+|14|93.115.172.94|1080|The Netherlands|Amsterdam|SOLLUTIUM EU Sp z.o.o.|
+|15|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|16|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|17|45.170.226.254|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|18|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|19|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|20|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
 
 
 
