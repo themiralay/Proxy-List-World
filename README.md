@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|67|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|67|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|67|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
 |2|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|181.78.19.138|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|5|181.78.19.142|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|10|45.170.226.254|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|11|139.59.34.209|8080|India|Bengaluru|DigitalOcean, LLC|
-|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|14|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
-|15|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|16|47.254.30.40|3128|United States|Minkler|Alibaba Cloud LLC|
-|17|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|18|49.147.69.140|8082|Philippines|Los Baños|Philippine Long Distance Telephone Co.|
-|19|181.78.19.138|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|20|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|3|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|11|181.78.19.142|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|12|181.78.19.138|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|15|45.170.226.254|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|16|65.109.210.247|1080|Finland|Helsinki|Hetzner Online GmbH|
+|17|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|18|139.59.34.209|8080|India|Bengaluru|DigitalOcean, LLC|
+|19|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
