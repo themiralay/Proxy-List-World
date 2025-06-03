@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|66|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|66|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|66|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
-|2|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|3|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
 |4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|11|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|14|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|16|91.107.159.236|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|17|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
-|18|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|19|201.77.96.0|999|Mexico|Huichapan|Hulux Telecomunicaciones|
-|20|185.250.180.238|8080|Germany|Frankfurt am Main|ZhouyiSat Communications|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|9|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|10|181.78.19.142|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|15|45.170.226.254|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|17|190.94.198.68|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|18|145.40.97.148|10004|The Netherlands|Amsterdam|Packet Host, Inc.|
+|19|93.115.172.94|1080|The Netherlands|Amsterdam|SOLLUTIUM EU Sp z.o.o.|
+|20|92.58.181.171|1194|Spain|Madrid|UNI2|
 
 
 
