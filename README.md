@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.66.94|4649|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|23.237.210.82|80|United States|Houston|FDCservers.net|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|181.78.19.142|9992|Colombia|Bosconia|IFX Networks Argentina S.R.L|
-|7|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|8|23.237.210.82|80|United States|Houston|FDCservers.net|
-|9|181.78.19.138|9992|Colombia|Bosconia|IFX Networks Argentina S.R.L|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|185.234.65.66|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
-|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|13|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|14|45.170.226.254|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
-|15|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|17|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|18|8.210.88.48|13128|Hong Kong|Hong Kong|Alibaba.com LLC|
-|19|103.156.57.118|8080|Indonesia|Teluk Pinang|PT Filltech Antar Nusa|
-|20|47.236.224.32|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|103.156.57.118|8080|Indonesia|Teluk Pinang|PT Filltech Antar Nusa|
+|3|107.174.170.168|8080|United States|Los Angeles|HostPapa|
+|4|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|23.237.210.82|80|United States|Houston|FDCservers.net|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|107.174.170.168|8080|United States|Los Angeles|HostPapa|
+|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|10|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|185.234.65.66|1080|The Netherlands|Meppel|Stark Industries Solutions LTD|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|16|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|17|68.183.63.141|8080|United States|Clifton|DigitalOcean, LLC|
+|18|45.170.226.254|999|Nicaragua|Managua|EMPRESA NACIONAL DE TRANSMISIÓN ELÉCTRICA|
+|19|91.107.159.236|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
