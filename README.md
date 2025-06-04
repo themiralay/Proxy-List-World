@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |3|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|5|45.170.245.146|8080|Mexico|Xico|Truxgo S. de R.L de C.V|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|34.102.48.89|8080|United States|Los Angeles|Google LLC|
 |8|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|12|152.70.154.69|8080|United States|Phoenix|Oracle Corporation|
-|13|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
-|14|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|15|35.180.124.30|8888|France|Paris|Amazon Technologies Inc.|
-|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|18|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|19|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|20|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|9|152.70.154.69|8080|United States|Phoenix|Oracle Corporation|
+|10|3.94.211.169|8888|United States|Ashburn|Amazon Technologies Inc.|
+|11|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
+|12|35.180.124.30|8888|France|Paris|Amazon Technologies Inc.|
+|13|93.115.172.94|1080|The Netherlands|Amsterdam|SOLLUTIUM EU Sp z.o.o.|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|16|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|17|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|18|104.41.49.44|3128|Brazil|São Paulo|Microsoft Corporation|
+|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|20|201.150.116.32|999|Mexico|Mineral de la Reforma|Yesenia Ramirez Garcia|
 
 
 
