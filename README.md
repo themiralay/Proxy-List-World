@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |4|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
-|5|152.70.154.69|8080|United States|Phoenix|Oracle Corporation|
-|6|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|7|23.237.210.82|80|United States|Houston|FDCservers.net|
-|8|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
-|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|103.169.255.203|6080|Indonesia|Kedungsumur|PT Master Star Network|
-|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|13|49.156.44.116|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
-|16|170.81.171.189|8282|Brazil|Francisco Morato|Wireless Comm Services LTDA|
-|17|152.70.154.69|8080|United States|Phoenix|Oracle Corporation|
-|18|201.150.119.170|999|Mexico|Mineral de la Reforma|Hulux Telecomunicaciones|
-|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|152.70.154.69|8080|United States|Phoenix|Oracle Corporation|
+|7|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
+|8|23.237.210.82|80|United States|Houston|FDCservers.net|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|147.135.222.208|3128|France|Saint-Mandé|OVH SAS|
+|11|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|13|139.59.34.209|8080|India|Bengaluru|DigitalOcean, LLC|
+|14|191.97.14.189|999|Colombia|Tame|TV AZTECA SUCURSAL COLOMBIA|
+|15|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|190.145.194.210|8080|Colombia|Santiago de Cali|Telmex Colombia S.A.|
+|19|13.53.92.147|3128|Sweden|Stockholm|Amazon Technologies Inc.|
+|20|8.222.235.39|3128|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
