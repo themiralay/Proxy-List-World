@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|66|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|66|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|66|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
-|2|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
+|2|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
 |3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|9|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
-|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|11|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
-|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|15|27.79.210.149|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
-|19|194.181.46.86|80|Poland|Warsaw|Naukowa I Akademicka Siec Komputerowa Instytut Badawczy|
-|20|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|4|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
+|12|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
+|13|49.48.101.147|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|15|194.181.46.86|80|Poland|Warsaw|Naukowa I Akademicka Siec Komputerowa Instytut Badawczy|
+|16|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|17|103.222.255.161|8055|Indonesia|Jakarta|PT Iktiar Doa Tawakal|
+|18|201.150.116.3|999|Mexico|Mineral de la Reforma|Yesenia Ramirez Garcia|
+|19|101.255.148.114|8080|Indonesia|Bogor|PT Remala Abadi|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
