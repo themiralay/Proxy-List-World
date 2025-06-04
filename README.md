@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|161.34.67.48|4649|Japan|Minamishinagawa|NTT PC Communications, Inc.|
 |2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|6|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|152.70.154.69|8080|United States|Phoenix|Oracle Corporation|
-|12|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|14|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|16|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|17|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
-|18|103.153.39.37|8083|Pakistan|Burewala|Getlinks (SMC-Private) Limited|
-|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|20|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
+|8|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
+|9|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
+|13|86.98.20.177|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|17|103.174.236.127|8080|Indonesia|Karangampel|PT Global Erasiber Teknologi|
+|18|160.22.206.65|8080|Indonesia|Pagar Alam|PT Teradata Bintang Selaras|
+|19|186.159.23.234|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|20|34.102.48.89|8080|United States|Los Angeles|Google LLC|
 
 
 
