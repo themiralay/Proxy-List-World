@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|69|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|69|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|69|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|60|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|60|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|60|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|6|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|7|164.163.42.2|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|152.53.66.81|3128|Austria|Vienna|netcup GmbH|
-|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|45.177.176.129|999|Mexico|Vista Hermosa de Negrete|Jorge Luis Torres Fernandez|
-|16|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|17|45.136.198.40|3128|Bulgaria|Sofia|Managed by IROKO Networks|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|9|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|10|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|11|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|12|139.59.34.209|8080|India|Bengaluru|DigitalOcean, LLC|
+|13|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
+|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|16|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|17|35.180.124.30|8888|France|Paris|Amazon Technologies Inc.|
+|18|34.102.48.89|8080|United States|Los Angeles|Google LLC|
 |19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|20|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 
 
 
