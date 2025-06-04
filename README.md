@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|86.98.20.177|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|7|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|2|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|86.98.20.177|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |8|35.180.124.30|8888|France|Paris|Amazon Technologies Inc.|
-|9|13.53.92.147|3128|Sweden|Stockholm|Amazon Technologies Inc.|
-|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|11|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|14|139.59.34.209|8080|India|Bengaluru|DigitalOcean, LLC|
-|15|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
-|16|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|18|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|19|196.216.132.43|8080|South Africa|Stellenbosch|HERO TELECOMS (PTY) LTD|
-|20|152.70.154.69|8080|United States|Phoenix|Oracle Corporation|
+|9|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|11|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|12|13.53.92.147|3128|Sweden|Stockholm|Amazon Technologies Inc.|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
+|15|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|16|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|17|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|18|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|19|181.78.19.138|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|20|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 
 
 
