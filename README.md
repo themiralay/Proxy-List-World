@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
+|2|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 |4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|5|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
 |6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
-|8|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
+|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|12|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|13|35.180.124.30|8888|France|Paris|Amazon Technologies Inc.|
-|14|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|16|86.98.20.177|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|13.53.92.147|3128|Sweden|Stockholm|Amazon Technologies Inc.|
-|20|164.163.42.25|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|12|13.53.92.147|3128|Sweden|Stockholm|Amazon Technologies Inc.|
+|13|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|16|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|17|35.180.124.30|8888|France|Paris|Amazon Technologies Inc.|
+|18|93.115.172.94|1080|The Netherlands|Amsterdam|SOLLUTIUM EU Sp z.o.o.|
+|19|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|20|34.102.48.89|8080|United States|Los Angeles|Google LLC|
 
 
 
