@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|68|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|68|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|68|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|34.102.48.89|8080|United States|Los Angeles|Google LLC|
 |3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
-|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|8|93.115.172.94|1080|The Netherlands|Amsterdam|SOLLUTIUM EU Sp z.o.o.|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|11|13.53.92.147|3128|Sweden|Stockholm|Amazon Technologies Inc.|
-|12|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
-|13|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|14|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
-|15|124.217.107.9|8082|Philippines|Isulan|Philippine Long Distance Telephone Co.|
-|16|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|17|91.225.201.57|9901|Ukraine|Lviv|PC "Astra-net"|
-|18|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|19|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
+|10|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|12|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
+|13|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|14|35.180.124.30|8888|France|Paris|Amazon Technologies Inc.|
+|15|139.59.34.209|8080|India|Bengaluru|DigitalOcean, LLC|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|18|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|19|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
 |20|164.163.42.25|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
