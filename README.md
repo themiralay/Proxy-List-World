@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
+|2|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|3|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|7|152.70.154.69|8080|United States|Phoenix|Oracle Corporation|
 |8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|86.98.20.177|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|10|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
-|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|12|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|14|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|15|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|16|49.49.194.179|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
-|17|104.41.49.44|3128|Brazil|São Paulo|Microsoft Corporation|
-|18|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|19|27.79.183.240|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
+|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|13|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|14|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|15|86.98.20.177|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|16|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|3.94.211.169|8888|United States|Ashburn|Amazon Technologies Inc.|
+|18|152.70.154.69|8080|United States|Phoenix|Oracle Corporation|
+|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|20|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
 
 
 
