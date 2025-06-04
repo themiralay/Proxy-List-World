@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|69|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|69|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|69|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|66|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|66|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|66|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
-|2|119.245.50.82|8080|Japan|Chiyoda|NTT PC Communications, Inc.|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|10|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|11|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
-|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|13|139.59.34.209|8080|India|Bengaluru|DigitalOcean, LLC|
-|14|45.66.157.22|8080|United States|Los Angeles|Enzu Inc|
-|15|201.150.116.32|999|Mexico|Mineral de la Reforma|Yesenia Ramirez Garcia|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|18|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|19|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
+|1|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|7|139.59.34.209|8080|India|Bengaluru|DigitalOcean, LLC|
+|8|164.163.42.19|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|164.163.42.36|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|11|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|12|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|13|201.150.116.3|999|Mexico|Mineral de la Reforma|Yesenia Ramirez Garcia|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|15|164.163.42.17|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|17|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
+|18|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|19|190.15.211.43|8080|Argentina|Mendoza|Informática y Telecomunicaciones S.A.|
 |20|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
 
 
