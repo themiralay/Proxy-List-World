@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
-|2|103.133.61.191|8080|Indonesia|Surabaya|TLINK|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|5|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|13|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
-|14|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|15|35.180.124.30|8888|France|Paris|Amazon Technologies Inc.|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|5|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|6|152.70.154.69|8080|United States|Phoenix|Oracle Corporation|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|152.70.154.69|8080|United States|Phoenix|Oracle Corporation|
+|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|12|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
+|13|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|14|93.115.172.94|1080|The Netherlands|Amsterdam|SOLLUTIUM EU Sp z.o.o.|
+|15|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|62.33.53.248|3128|Russia|Yakutsk|TRANS-TELECOM|
-|18|104.41.49.44|3128|Brazil|São Paulo|Microsoft Corporation|
-|19|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|20|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|17|104.41.49.44|3128|Brazil|São Paulo|Microsoft Corporation|
+|18|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|19|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|20|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
