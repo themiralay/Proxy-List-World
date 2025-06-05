@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|60|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|60|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|60|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|140.227.81.191|3128|Japan|Chiyoda|InfoSphere|
+|2|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
 |3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|181.78.19.138|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|8|181.78.19.142|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|209.38.177.186|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|13|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
-|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|15|139.59.34.209|8080|India|Bengaluru|DigitalOcean, LLC|
-|16|81.218.86.226|8080|Israel|Yehud|Bezeq International Ltd.|
-|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|18|116.108.35.226|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|19|203.96.229.229|8080|Indonesia|Bengkalis|DUMAIMANDIRINET|
-|20|119.94.152.123|8081|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|27.71.133.48|16000|Vietnam|Hanoi|Viettel Group|
+|8|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|10|81.218.86.226|8080|Israel|Yehud|Bezeq International Ltd.|
+|11|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|12|139.59.34.209|8080|India|Bengaluru|DigitalOcean, LLC|
+|13|181.78.19.138|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|14|181.78.19.142|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|15|177.87.15.141|8081|Brazil|Martins|L GONZAGA JUNIOR SERVICOS DE INTERNET - ME|
+|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|17|68.183.63.141|8080|United States|Clifton|DigitalOcean, LLC|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|68.183.179.119|8888|Singapore|Singapore|DigitalOcean, LLC|
+|20|181.78.19.142|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
 
 
 
