@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -42,22 +42,22 @@ Click the file format that you want and copy the URL.
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|81.218.86.226|8080|Israel|Yehud|Bezeq International Ltd.|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
-|12|95.111.229.159|8080|France|Lauterbourg|Contabo GmbH|
-|13|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|14|103.81.194.161|8080|Indonesia|Bogor|PT Rtiga Global Media|
-|15|68.183.211.118|2055|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|68.183.211.118|2055|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|221.219.102.24|9000|China|Beijing|China Unicom Beijing Province Network|
-|18|68.183.211.118|2055|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|103.25.195.127|8181|Indonesia|Karawang|UNINA|
+|4|43.200.168.24|3128|South Korea|Seoul|Amazon.com, Inc.|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|8|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|9|139.59.34.209|8080|India|Bengaluru|DigitalOcean, LLC|
+|10|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|11|81.218.86.226|8080|Israel|Yehud|Bezeq International Ltd.|
+|12|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|14|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|15|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|16|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|17|68.183.63.141|8080|United States|Clifton|DigitalOcean, LLC|
+|18|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |20|23.237.210.82|80|United States|Houston|FDCservers.net|
 
 
