@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|69|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|69|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|69|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|68|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|68|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|68|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|138.199.210.45|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|8|95.111.229.159|8080|France|Lauterbourg|Contabo GmbH|
-|9|81.218.86.226|8080|Israel|Yehud|Bezeq International Ltd.|
-|10|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|11|139.59.34.209|8080|India|Bengaluru|DigitalOcean, LLC|
-|12|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|14|27.71.129.117|16000|Vietnam|Hanoi|Viettel Group|
-|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|16|23.237.210.82|80|United States|Houston|FDCservers.net|
-|17|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|18|52.42.76.223|3128|United States|Portland|Amazon.com, Inc.|
-|19|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|20|68.183.63.141|8080|United States|Clifton|DigitalOcean, LLC|
+|6|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|7|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|8|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|138.199.210.45|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|13|139.59.34.209|8080|India|Bengaluru|DigitalOcean, LLC|
+|14|23.237.210.82|80|United States|Houston|FDCservers.net|
+|15|95.111.229.159|8080|France|Lauterbourg|Contabo GmbH|
+|16|81.218.86.226|8080|Israel|Yehud|Bezeq International Ltd.|
+|17|3.101.12.188|3128|United States|San Jose|Amazon.com, Inc.|
+|18|27.71.129.117|16000|Vietnam|Hanoi|Viettel Group|
+|19|98.85.84.39|8888|United States|Ashburn|BellSouth.net Inc.|
+|20|148.224.59.25|999|Mexico|San Luis Potosí City|Guillermo Robles Ramirez|
 
 
 
