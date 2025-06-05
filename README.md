@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.181.140.80|8080|Vietnam|Hanoi|VNPT|
+|1|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
 |2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|3.110.225.197|80|India|Mumbai|Amazon Technologies Inc.|
+|4|113.181.140.80|8080|Vietnam|Hanoi|VNPT|
 |5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|45.43.79.121|20116|Latvia|Riga|SIA VEESP|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|13|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|14|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|15|103.73.75.126|8085|Indonesia|Karawang|PT. Wahana Internet Nusantara|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|18|220.118.198.242|3128|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|19|36.88.189.66|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|20|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|139.59.34.209|8080|India|Bengaluru|DigitalOcean, LLC|
+|12|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|13|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|14|23.237.210.82|80|United States|Houston|FDCservers.net|
+|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|16|103.172.71.25|9090|Indonesia|Karangampel|AZNET|
+|17|45.43.79.121|20116|Latvia|Riga|SIA VEESP|
+|18|115.72.0.187|10008|Vietnam|Vũng Tàu|VIETELmetro|
+|19|190.153.237.6|37453|Chile|Santiago|Gtd Internet S.A.|
+|20|23.237.210.82|80|United States|Houston|FDCservers.net|
 
 
 
