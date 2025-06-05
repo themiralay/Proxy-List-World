@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|113.181.140.80|8080|Vietnam|Hanoi|VNPT|
 |2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|27.71.129.117|16000|Vietnam|Hanoi|Viettel Group|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|23.237.210.82|80|United States|Houston|FDCservers.net|
-|6|27.79.195.208|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|170.106.83.149|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|23.237.210.82|80|United States|Houston|FDCservers.net|
-|10|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|11|115.72.47.243|10006|Vietnam|Ho Chi Minh City|VIETELmetro|
-|12|181.78.19.142|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|45.136.198.40|3128|Bulgaria|Sofia|Managed by IROKO Networks|
-|17|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|18|27.79.225.185|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|139.59.34.209|8080|India|Bengaluru|DigitalOcean, LLC|
-|20|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|23.237.210.82|80|United States|Houston|FDCservers.net|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|7|181.78.19.142|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|45.136.198.40|3128|Bulgaria|Sofia|Managed by IROKO Networks|
+|12|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|152.70.154.69|8080|United States|Phoenix|Oracle Corporation|
+|15|181.78.19.142|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|17|14.172.146.102|20399|Vietnam|Ho Chi Minh City|VNPT-VNNIC|
+|18|103.82.134.82|8888|Vietnam|Thanh Khê|Cloudfly Corporation|
+|19|115.74.2.184|10009|Vietnam|Vũng Tàu|VIETELxdsl|
+|20|23.237.210.82|80|United States|Houston|FDCservers.net|
 
 
 
