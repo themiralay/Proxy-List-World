@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|67|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|67|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|67|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|38|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|38|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|38|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|3|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|113.192.30.243|1111|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|7|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|68.183.63.141|8080|United States|Clifton|DigitalOcean, LLC|
-|10|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|11|181.78.19.142|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|52.42.76.223|3128|United States|Portland|Amazon.com, Inc.|
-|14|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|181.78.19.138|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|9|181.78.19.142|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|11|23.237.210.82|80|United States|Houston|FDCservers.net|
+|12|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|16|152.70.154.69|8080|United States|Phoenix|Oracle Corporation|
-|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|18|95.111.229.159|8080|France|Lauterbourg|Contabo GmbH|
-|19|91.241.241.5|3128|Russia|Moscow|LLC IP SERVICE|
-|20|52.42.76.223|3128|United States|Portland|Amazon.com, Inc.|
+|16|45.136.198.40|3128|Bulgaria|Sofia|Managed by IROKO Networks|
+|17|148.224.59.25|999|Mexico|San Luis Potosí City|Guillermo Robles Ramirez|
+|18|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|19|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|20|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
 
 
 
