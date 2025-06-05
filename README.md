@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|69|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|69|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|69|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|68|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|68|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|68|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|4|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|5|23.237.210.82|80|United States|Houston|FDCservers.net|
-|6|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|7|59.47.238.4|8088|China|Benxi|CHINATELECOM Liaoning Benxi MAN|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|45.136.198.40|3128|Bulgaria|Sofia|Managed by IROKO Networks|
-|10|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|12|5.231.211.181|3128|Germany|Bad Soden am Taunus|GHOSTnet GmbH|
-|13|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|14|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|15|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|68.183.179.119|8888|Singapore|Singapore|DigitalOcean, LLC|
-|17|181.78.19.142|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|18|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|19|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|20|181.78.2.109|999|Colombia|Valdivia|IFX Networks Argentina S.R.L|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|152.70.154.69|8080|United States|Phoenix|Oracle Corporation|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|8|23.237.210.82|80|United States|Houston|FDCservers.net|
+|9|5.231.211.181|3128|Germany|Bad Soden am Taunus|GHOSTnet GmbH|
+|10|139.59.34.209|8080|India|Bengaluru|DigitalOcean, LLC|
+|11|45.136.198.40|3128|Bulgaria|Sofia|Managed by IROKO Networks|
+|12|221.219.102.24|9000|China|Beijing|China Unicom Beijing Province Network|
+|13|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|14|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|16|154.73.28.79|8080|Libya|Tripoli|Rawafed|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|59.47.238.4|8088|China|Benxi|CHINATELECOM Liaoning Benxi MAN|
+|19|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|20|181.78.19.142|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
 
 
 
