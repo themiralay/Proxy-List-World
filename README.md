@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|139.59.34.209|8080|India|Bengaluru|DigitalOcean, LLC|
-|6|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|6|23.237.210.82|80|United States|Houston|FDCservers.net|
+|7|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|8|194.181.46.86|80|Poland|Warsaw|Naukowa I Akademicka Siec Komputerowa Instytut Badawczy|
 |9|23.237.210.82|80|United States|Houston|FDCservers.net|
-|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|13|23.237.210.82|80|United States|Houston|FDCservers.net|
-|14|115.72.173.71|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|15|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|16|45.136.198.40|3128|Bulgaria|Sofia|Managed by IROKO Networks|
+|10|180.191.20.5|8081|Philippines|Cabanatuan City|Globe Telecom|
+|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|12|45.136.198.40|3128|Bulgaria|Sofia|Managed by IROKO Networks|
+|13|190.15.211.43|8080|Argentina|Mendoza|Informática y Telecomunicaciones S.A.|
+|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|15|185.250.180.238|8080|Germany|Frankfurt am Main|ZhouyiSat Communications|
+|16|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |17|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|18|103.209.248.41|8080|Indonesia|Cirebon|Indonesia Network Information Center|
-|19|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
-|20|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|20|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
 
 
 
