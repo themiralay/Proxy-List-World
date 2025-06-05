@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|62|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|62|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|62|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|6|181.78.19.142|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|86.98.20.177|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|10|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
-|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|12|152.70.154.69|8080|United States|Phoenix|Oracle Corporation|
-|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|14|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
-|15|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|16|202.138.236.133|8080|Indonesia|Jakarta|PT Melvar Lintasnusa|
-|17|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|18|181.78.19.142|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|19|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|20|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|86.98.20.177|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|9|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|10|181.78.19.142|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|154.208.48.166|8080|Pakistan|Lahore|IN CABLE INTERNET PRIVATE LIMITED|
+|13|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|14|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|15|152.70.154.69|8080|United States|Phoenix|Oracle Corporation|
+|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|19|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|20|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 
 
 
