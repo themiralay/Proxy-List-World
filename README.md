@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
-|2|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |4|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
 |5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |6|23.237.210.82|80|United States|Houston|FDCservers.net|
-|7|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|10|139.59.34.209|8080|India|Bengaluru|DigitalOcean, LLC|
-|11|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|12|185.250.180.238|8080|Germany|Frankfurt am Main|ZhouyiSat Communications|
-|13|91.165.81.120|3128|France|Angoulême|Free|
-|14|5.231.211.181|3128|Germany|Bad Soden am Taunus|GHOSTnet GmbH|
-|15|86.98.20.177|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|17|59.47.238.4|8088|China|Benxi|CHINATELECOM Liaoning Benxi MAN|
-|18|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|68.183.179.119|8888|Singapore|Singapore|DigitalOcean, LLC|
-|20|23.237.210.82|80|United States|Houston|FDCservers.net|
+|7|27.71.129.117|16000|Vietnam|Hanoi|Viettel Group|
+|8|23.237.210.82|80|United States|Houston|FDCservers.net|
+|9|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|12|86.98.20.177|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|13|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|16|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|18|185.250.180.238|8080|Germany|Frankfurt am Main|ZhouyiSat Communications|
+|19|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
+|20|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
 
 
 
