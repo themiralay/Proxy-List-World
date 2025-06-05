@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |4|23.237.210.82|80|United States|Houston|FDCservers.net|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|181.78.19.142|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|8|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|12|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|13|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|14|113.181.140.80|8080|Vietnam|Hanoi|VNPT|
-|15|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|16|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|17|27.79.225.185|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|19|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|20|14.172.146.102|20399|Vietnam|Ho Chi Minh City|VNPT-VNNIC|
+|5|113.181.140.80|8080|Vietnam|Hanoi|VNPT|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
+|10|181.78.19.142|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|11|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|13|18.214.102.15|8080|United States|Ashburn|Amazon.com, Inc.|
+|14|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|186.31.197.103|8080|Colombia|Bogotá|ETB - Colombia|
+|17|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|18|190.104.199.141|999|Argentina|Buenos Aires|CPS|
+|19|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|20|27.79.225.185|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
