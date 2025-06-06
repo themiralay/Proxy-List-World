@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|222.254.92.89|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|68.183.179.119|8888|Singapore|Singapore|DigitalOcean, LLC|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|23.237.210.82|80|United States|Houston|FDCservers.net|
-|12|152.70.154.69|8080|United States|Phoenix|Oracle Corporation|
-|13|54.180.133.172|3128|South Korea|Seoul|Amazon Technologies Inc.|
-|14|103.250.130.106|1111|Indonesia|Probolinggo|PT Jawara Lintas Data Nusantara|
-|15|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|16|34.210.73.255|3128|United States|Portland|Amazon.com, Inc.|
-|17|23.237.210.82|80|United States|Houston|FDCservers.net|
-|18|3.23.12.147|3128|United States|Dublin|Amazon.com, Inc.|
-|19|104.129.194.45|10092|United States|Reston|ZSCALER, INC.|
-|20|104.129.194.45|10092|United States|Reston|ZSCALER, INC.|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|3.7.106.237|3128|India|Mumbai|Amazon Technologies Inc|
+|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|185.250.180.238|8080|Germany|Frankfurt am Main|ZhouyiSat Communications|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|59.47.238.4|8088|China|Benxi|CHINATELECOM Liaoning Benxi MAN|
+|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|18|68.183.179.119|8888|Singapore|Singapore|DigitalOcean, LLC|
+|19|54.180.133.172|3128|South Korea|Seoul|Amazon Technologies Inc.|
+|20|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
 
 
 
