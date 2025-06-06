@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.2.117.25|1080|South Korea|Chuncheon|Oracle Corporation|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|122.52.32.162|8082|Philippines|Bacoor|Philippine Long Distance Telephone Co.|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|103.151.227.59|8080|Indonesia|Bandung|URBANACCESS|
-|7|103.131.19.27|8548|Indonesia|Lamongan|PT Global Media Data Prima|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|103.191.165.83|8085|Indonesia|Subang|PT Sakti Wijaya Network|
 |8|182.253.109.31|8080|Indonesia|Semarang|Biznet Metronet|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|3.23.12.147|3128|United States|Dublin|Amazon.com, Inc.|
-|11|49.49.60.48|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
-|12|3.23.12.147|3128|United States|Dublin|Amazon.com, Inc.|
-|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
-|16|45.92.111.8|3128|France|Marseille|Hosteur SAS|
-|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|19|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|20|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|101.109.88.142|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|45.92.111.8|3128|France|Marseille|Hosteur SAS|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|16|23.237.210.82|80|United States|Houston|FDCservers.net|
+|17|191.195.109.39|8080|Brazil|Salvador|Vivo|
+|18|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|19|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|20|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
 
 
 
