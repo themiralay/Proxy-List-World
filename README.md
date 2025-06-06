@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.16.204.90|3128|Japan|Tokyo|SAKURA Internet Inc.|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|54.255.152.165|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|5|116.96.86.69|16000|Vietnam|Hai BàTrưng|Viettel Corporation|
-|6|58.187.71.56|16000|Vietnam|Hanoi|FPT Telecom Company|
-|7|119.28.57.148|3128|Hong Kong|Hong Kong|ComsenzNet|
-|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|1|152.32.145.221|1080|Japan|Tokyo|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|2|152.32.226.213|1080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
+|7|54.255.152.165|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|27.79.215.253|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|103.3.58.162|3128|Indonesia|Krajan Satu Plalangan|PT. Java Digital Nusantara|
-|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|14|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
-|15|86.98.20.177|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|27.79.164.100|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
-|20|37.60.230.40|8888|Germany|Düsseldorf|Contabo GmbH|
+|11|27.79.217.175|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|27.79.141.115|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|13.58.225.2|3128|United States|Dublin|Amazon.com, Inc.|
+|17|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|18|37.60.230.40|8888|Germany|Düsseldorf|Contabo GmbH|
+|19|13.58.225.2|3128|United States|Dublin|Amazon.com, Inc.|
+|20|115.74.9.28|10025|Vietnam|Vũng Tàu|VIETELxdsl|
 
 
 
