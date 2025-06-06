@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|2|163.223.182.210|1080|Hong Kong|Kowloon City|Aiyun (HK) Network|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|43.128.106.179|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|116.106.4.160|3008|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |7|77.90.28.184|1080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
-|8|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
 |9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
 |10|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|11|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|171.228.162.153|10089|Vietnam|Hanoi|Viettel Corporation|
 |12|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
-|13|27.71.129.117|16000|Vietnam|Hanoi|Viettel Group|
-|14|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|15|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|16|185.250.180.238|8080|Germany|Frankfurt am Main|ZhouyiSat Communications|
-|17|181.78.19.142|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|18|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|19|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|20|181.174.231.26|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
+|13|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|14|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|15|23.237.210.82|80|United States|Houston|FDCservers.net|
+|16|37.27.63.151|57574|Finland|Helsinki|Hetzner Online GmbH|
+|17|103.121.22.246|1080|Indonesia|Depok|PT. Eka Mas Republik|
+|18|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|20|181.78.19.142|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
 
 
 
