@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|4|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|7|23.237.210.82|80|United States|Houston|FDCservers.net|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|86.98.20.177|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|138.2.117.25|1080|South Korea|Chuncheon|Oracle Corporation|
-|12|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|181.78.19.142|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|103.3.58.162|3128|Indonesia|Krajan Satu Plalangan|PT. Java Digital Nusantara|
-|17|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|18|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|19|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|20|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|138.2.117.25|1080|South Korea|Chuncheon|Oracle Corporation|
+|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|11|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|181.78.19.142|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
+|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|17|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|18|68.183.63.141|8080|United States|Clifton|DigitalOcean, LLC|
+|19|86.98.20.177|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|20|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
