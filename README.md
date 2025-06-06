@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
 |2|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|182.253.109.31|8080|Indonesia|Semarang|Biznet Metronet|
-|9|27.71.140.97|16000|Vietnam|Hanoi|Viettel Group|
-|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|171.224.119.243|10002|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|15|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|16|23.237.210.82|80|United States|Houston|FDCservers.net|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|116.108.35.226|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|19|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
-|20|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|15.204.101.82|3128|United States|Hillsboro|OVH SAS|
+|8|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|9|182.253.109.31|8080|Indonesia|Semarang|Biznet Metronet|
+|10|3.23.12.147|3128|United States|Dublin|Amazon.com, Inc.|
+|11|15.204.101.82|3128|United States|Hillsboro|OVH SAS|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|3.23.12.147|3128|United States|Dublin|Amazon.com, Inc.|
+|14|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
+|18|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|19|5.32.175.211|8081|Moldova|Chisinau|Arax-Impex s.r.l.|
+|20|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 
 
 
