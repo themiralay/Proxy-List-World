@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|69|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|69|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|69|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |2|58.187.70.254|16000|Vietnam|Hanoi|FPT Telecom Company|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|182.253.109.31|8080|Indonesia|Semarang|Biznet Metronet|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|3.23.12.147|3128|United States|Dublin|Amazon.com, Inc.|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|3.23.12.147|3128|United States|Dublin|Amazon.com, Inc.|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|45.92.111.8|3128|France|Marseille|Hosteur SAS|
-|14|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|16|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
-|17|139.59.34.209|8080|India|Bengaluru|DigitalOcean, LLC|
-|18|23.237.210.82|80|United States|Houston|FDCservers.net|
-|19|122.52.32.162|8082|Philippines|Bacoor|Philippine Long Distance Telephone Co.|
-|20|45.136.198.40|3128|Bulgaria|Sofia|Managed by IROKO Networks|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|182.253.109.31|8080|Indonesia|Semarang|Biznet Metronet|
+|10|23.237.210.82|80|United States|Houston|FDCservers.net|
+|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|13|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|14|194.4.57.199|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|15|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
+|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|17|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|18|68.183.63.141|8080|United States|Clifton|DigitalOcean, LLC|
+|19|23.237.210.82|80|United States|Houston|FDCservers.net|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
