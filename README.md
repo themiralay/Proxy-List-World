@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|69|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|69|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|69|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|54|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|54|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|54|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.227.61.201|3128|Japan|Chiyoda|InfoSphere|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
 |4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|7|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|9|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|11|139.59.34.209|8080|India|Bengaluru|DigitalOcean, LLC|
+|5|3.7.106.237|3128|India|Mumbai|Amazon Technologies Inc|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|8|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
 |12|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|13|103.189.116.134|8080|Indonesia|Bandung|PT Callysta Total Solusindo|
-|14|161.34.66.94|4649|Japan|Minamishinagawa|NTT PC Communications, Inc.|
-|15|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
-|16|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|17|54.151.41.254|3128|United States|San Jose|Amazon.com, Inc.|
+|13|161.34.66.94|4649|Japan|Minamishinagawa|NTT PC Communications, Inc.|
+|14|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
+|15|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|16|23.237.210.82|80|United States|Houston|FDCservers.net|
+|17|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
 |18|95.111.229.159|8080|France|Lauterbourg|Contabo GmbH|
-|19|60.174.167.40|4999|China|Hefei|Chinanet|
-|20|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|19|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|20|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
 
 
 
