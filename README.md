@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|69|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|69|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|69|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|62|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|62|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|62|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.248.189.96|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|222.254.92.89|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|12|222.254.92.89|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|14|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|17|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|18|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
-|19|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|20|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|2|43.128.106.179|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|222.254.92.89|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|23.237.210.82|80|United States|Houston|FDCservers.net|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|23.237.210.82|80|United States|Houston|FDCservers.net|
+|11|86.98.20.177|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|12|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|15|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|16|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|17|222.254.92.89|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|19|177.200.239.141|999|Dominican Republic|Cotuí|ESQUIRE CORPORATE SERVICES, S.R.L.|
+|20|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
 
 
 
