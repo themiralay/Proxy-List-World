@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.145.221|1080|Japan|Tokyo|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|138.2.117.25|1080|South Korea|Chuncheon|Oracle Corporation|
-|3|27.79.194.117|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|138.2.117.25|1080|South Korea|Chuncheon|Oracle Corporation|
+|2|27.79.194.117|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|116.103.29.114|16000|Vietnam|Đạ Tẻh|Viettel Corporation|
 |4|27.71.140.97|16000|Vietnam|Hanoi|Viettel Group|
-|5|116.103.29.114|16000|Vietnam|Đạ Tẻh|Viettel Corporation|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|8|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|125.163.138.105|3128|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|3.23.12.147|3128|United States|Dublin|Amazon.com, Inc.|
-|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|14|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
-|15|15.156.158.93|3128|Canada|Toronto|Amazon.com, Inc.|
-|16|3.23.12.147|3128|United States|Dublin|Amazon.com, Inc.|
-|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|23.237.210.82|80|United States|Houston|FDCservers.net|
-|19|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|160.25.48.33|9090|Indonesia|Bangsal Aceh|PT Shs Solusindo Network|
+|10|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
+|11|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|46.101.104.251|38245|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|15|38.180.236.49|8118|Bulgaria|Sofia|M247 Europe SRL|
+|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|17|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|20|181.78.19.142|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
 
 
 
