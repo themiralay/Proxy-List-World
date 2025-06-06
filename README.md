@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|57|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|57|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|57|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|1|15.156.158.93|3128|Canada|Toronto|Amazon.com, Inc.|
+|2|86.98.20.177|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|3|47.236.224.32|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|8|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|9|23.237.210.82|80|United States|Houston|FDCservers.net|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|181.78.19.142|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|14|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
-|15|194.181.46.86|80|Poland|Warsaw|Naukowa I Akademicka Siec Komputerowa Instytut Badawczy|
-|16|68.183.179.119|8888|Singapore|Singapore|DigitalOcean, LLC|
-|17|68.183.63.141|8080|United States|Clifton|DigitalOcean, LLC|
-|18|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|19|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
-|20|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|6|181.78.19.142|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|7|103.114.96.246|8080|Bangladesh|Hājīganj|HelloTech Limited|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|139.59.34.209|8080|India|Bengaluru|DigitalOcean, LLC|
+|10|139.59.34.209|8080|India|Bengaluru|DigitalOcean, LLC|
+|11|95.111.229.159|8080|France|Lauterbourg|Contabo GmbH|
+|12|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
+|13|222.228.171.92|8080|Japan|Kamiochiai|ARTERIA Networks Corporation|
+|14|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|16|103.133.222.147|80|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|17|181.78.19.142|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|18|15.156.158.93|3128|Canada|Toronto|Amazon.com, Inc.|
+|19|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|20|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
 
 
 
