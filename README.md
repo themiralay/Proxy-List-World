@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|72|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|72|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|72|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|44|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|44|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|44|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.227.61.201|3128|Japan|Chiyoda|InfoSphere|
 |2|222.254.92.89|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|54.180.133.172|3128|South Korea|Seoul|Amazon Technologies Inc.|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|152.70.154.69|8080|United States|Phoenix|Oracle Corporation|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|12|52.77.118.162|3128|Singapore|Singapore|Amazon.com, Inc.|
-|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|14|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|15|103.180.123.247|1452|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|194.181.46.86|80|Poland|Warsaw|Naukowa I Akademicka Siec Komputerowa Instytut Badawczy|
-|18|34.210.73.255|3128|United States|Portland|Amazon.com, Inc.|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|185.250.180.238|8080|Germany|Frankfurt am Main|ZhouyiSat Communications|
+|6|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|23.237.210.82|80|United States|Houston|FDCservers.net|
+|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|10|95.111.229.159|8080|France|Lauterbourg|Contabo GmbH|
+|11|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|164.163.42.4|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|23.237.210.82|80|United States|Houston|FDCservers.net|
+|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|16|222.254.92.89|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|209.14.117.220|999|Colombia|Bogotá|AGIS|
+|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|19|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|20|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
 
 
 
