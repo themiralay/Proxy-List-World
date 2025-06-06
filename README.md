@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|52.77.118.162|3128|Singapore|Singapore|Amazon.com, Inc.|
-|2|222.254.92.89|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|34.210.73.255|3128|United States|Portland|Amazon.com, Inc.|
-|4|54.212.236.46|3128|United States|Portland|Amazon.com, Inc.|
+|1|54.180.133.172|3128|South Korea|Seoul|Amazon Technologies Inc.|
+|2|52.77.118.162|3128|Singapore|Singapore|Amazon.com, Inc.|
+|3|222.254.92.89|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |6|35.95.35.230|3128|United States|Portland|Amazon.com, Inc.|
-|7|54.236.239.217|3128|United States|Ashburn|Amazon.com, Inc.|
-|8|3.7.106.237|3128|India|Mumbai|Amazon Technologies Inc|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|54.212.236.46|3128|United States|Portland|Amazon.com, Inc.|
+|8|54.236.239.217|3128|United States|Ashburn|Amazon.com, Inc.|
+|9|35.95.35.230|3128|United States|Portland|Amazon.com, Inc.|
 |10|54.212.236.46|3128|United States|Portland|Amazon.com, Inc.|
-|11|34.210.73.255|3128|United States|Portland|Amazon.com, Inc.|
-|12|35.95.35.230|3128|United States|Portland|Amazon.com, Inc.|
-|13|54.236.239.217|3128|United States|Ashburn|Amazon.com, Inc.|
+|11|54.236.239.217|3128|United States|Ashburn|Amazon.com, Inc.|
+|12|34.84.153.102|3128|Japan|Tokyo|Google LLC|
+|13|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |14|54.212.236.46|3128|United States|Portland|Amazon.com, Inc.|
-|15|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|16|181.78.19.142|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|18|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|19|186.96.31.46|7070|Mexico|Acapulco de Juárez|Total Play Telecomunicaciones SA De CV|
-|20|125.167.191.61|8080|Indonesia|Ubud|PT. TELKOM INDONESIA|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|17|181.78.19.142|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|18|95.111.229.159|8080|France|Lauterbourg|Contabo GmbH|
+|19|94.131.105.69|5211|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|20|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
 
 
 
