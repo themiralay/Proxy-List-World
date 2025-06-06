@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|163.223.182.210|1080|Hong Kong|Kowloon City|Aiyun (HK) Network|
-|2|43.128.106.179|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|171.237.97.251|1005|Vietnam|Ninh Bình|Viettel Corporation|
-|4|68.183.179.119|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
+|2|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |7|86.98.20.177|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
-|10|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|12|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|13|68.183.63.141|8080|United States|Clifton|DigitalOcean, LLC|
-|14|23.237.210.82|80|United States|Houston|FDCservers.net|
-|15|103.81.194.120|8080|Indonesia|Bogor|PT Rtiga Global Media|
-|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|18|186.96.111.214|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|19|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|20|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|8|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|9|62.133.60.126|24558|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|10|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|11|103.148.45.60|8833|Indonesia|Muara Bungo|PT BUANA VISUALNET SENTRA|
+|12|171.6.77.109|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|14|47.88.18.204|8023|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|202.182.59.52|10001|Indonesia|Duren Tiga|Arsen Kusuma Indonesia|
+|17|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|18|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|19|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|20|181.78.19.142|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
 
 
 
