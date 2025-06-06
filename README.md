@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.32.145.221|1080|Japan|Tokyo|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|152.32.145.221|1080|Japan|Tokyo|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|5|182.253.109.234|8080|Indonesia|Semarang|Biznet Metronet|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|23.237.210.82|80|United States|Houston|FDCservers.net|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|68.183.63.141|8080|United States|Clifton|DigitalOcean, LLC|
-|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|13|103.3.58.162|3128|Indonesia|Krajan Satu Plalangan|PT. Java Digital Nusantara|
-|14|210.79.142.73|8080|Indonesia|Tamanan|PT Gayatri Lintas Nusantara|
-|15|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|16|27.71.140.97|16000|Vietnam|Hanoi|Viettel Group|
-|17|95.111.229.159|8080|France|Lauterbourg|Contabo GmbH|
-|18|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|19|138.2.117.25|1080|South Korea|Chuncheon|Oracle Corporation|
-|20|103.81.223.166|8080|Indonesia|Bandung|STARNET|
+|4|182.253.109.234|8080|Indonesia|Semarang|Biznet Metronet|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|139.59.34.209|8080|India|Bengaluru|DigitalOcean, LLC|
+|10|138.2.117.25|1080|South Korea|Chuncheon|Oracle Corporation|
+|11|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|12|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|14|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
+|15|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|16|194.181.46.86|80|Poland|Warsaw|Naukowa I Akademicka Siec Komputerowa Instytut Badawczy|
+|17|27.79.215.253|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|185.250.180.238|8080|Germany|Frankfurt am Main|ZhouyiSat Communications|
+|19|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|20|8.210.88.48|13128|Hong Kong|Hong Kong|Alibaba.com LLC|
 
 
 
