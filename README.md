@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|3|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|152.70.154.69|8080|United States|Phoenix|Oracle Corporation|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|11|194.181.46.86|80|Poland|Warsaw|Naukowa I Akademicka Siec Komputerowa Instytut Badawczy|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
-|14|77.90.28.184|1080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
-|15|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|16|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|17|85.119.120.55|8080|Malta|Birkirkara|Melita Ltd|
-|18|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
-|19|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|20|149.86.142.62|8080|Türkiye|Istanbul|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|27.79.206.242|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|163.223.182.210|1080|Hong Kong|Kowloon City|Aiyun (HK) Network|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|9|77.90.28.184|1080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
+|10|139.59.34.209|8080|India|Bengaluru|DigitalOcean, LLC|
+|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|12|152.70.154.69|8080|United States|Phoenix|Oracle Corporation|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|15|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
+|16|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|17|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|18|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|19|116.96.85.124|16000|Vietnam|Kỳ Sơn|Viettel Corporation|
+|20|202.154.19.165|8080|Indonesia|Jombang|DIGITNET|
 
 
 
