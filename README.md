@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|163.223.182.210|1080|Hong Kong|Kowloon City|Aiyun (HK) Network|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|43.128.106.179|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|77.90.28.184|1080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
-|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|68.183.63.141|8080|United States|Clifton|DigitalOcean, LLC|
-|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|17|37.27.63.151|10750|Finland|Helsinki|Hetzner Online GmbH|
-|18|206.81.31.215|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|152.70.154.69|8080|United States|Phoenix|Oracle Corporation|
-|20|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
+|6|86.98.20.177|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|7|3.110.225.197|80|India|Mumbai|Amazon Technologies Inc.|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|68.183.63.141|8080|United States|Clifton|DigitalOcean, LLC|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|13|77.90.28.184|1080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
+|14|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
+|15|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|16|103.178.3.153|8090|Indonesia|Karanganyar|RSTNET|
+|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|18|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|19|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|20|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
 
 
 
