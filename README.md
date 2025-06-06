@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
-|2|122.52.32.162|8082|Philippines|Bacoor|Philippine Long Distance Telephone Co.|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|103.151.227.59|8080|Indonesia|Bandung|URBANACCESS|
-|5|103.191.165.83|8085|Indonesia|Subang|PT Sakti Wijaya Network|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|103.131.19.27|8548|Indonesia|Lamongan|PT Global Media Data Prima|
-|8|101.109.88.142|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|9|103.191.218.69|8080|Indonesia|Sumber|PT Replay Inti Media|
-|10|103.155.246.155|8080|Indonesia|Sukoharjo|AMANNA|
-|11|49.49.60.48|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
-|12|182.253.109.31|8080|Indonesia|Semarang|Biznet Metronet|
-|13|101.51.52.250|8080|Thailand|Khlong Toei|TOT Public Company Limited|
+|1|138.2.117.25|1080|South Korea|Chuncheon|Oracle Corporation|
+|2|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
+|3|122.52.32.162|8082|Philippines|Bacoor|Philippine Long Distance Telephone Co.|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|103.151.227.59|8080|Indonesia|Bandung|URBANACCESS|
+|6|103.131.19.27|8548|Indonesia|Lamongan|PT Global Media Data Prima|
+|7|103.191.165.83|8085|Indonesia|Subang|PT Sakti Wijaya Network|
+|8|103.155.246.155|8080|Indonesia|Sukoharjo|AMANNA|
+|9|101.109.88.142|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|10|103.191.218.69|8080|Indonesia|Sumber|PT Replay Inti Media|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|13|182.253.109.31|8080|Indonesia|Semarang|Biznet Metronet|
 |14|118.173.91.34|8080|Thailand|Bangkok|TOT Public Company Limited|
-|15|138.2.117.25|1080|South Korea|Chuncheon|Oracle Corporation|
-|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|16|163.227.135.53|8080|Indonesia|Utan|PT EMLIMA KONEKSI NUSANTARA|
 |17|13.218.213.101|3128|United States|Ashburn|Amazon.com, Inc.|
-|18|139.59.34.209|8080|India|Bengaluru|DigitalOcean, LLC|
+|18|101.51.52.250|8080|Thailand|Khlong Toei|TOT Public Company Limited|
 |19|27.71.140.97|16000|Vietnam|Hanoi|Viettel Group|
-|20|3.23.12.147|3128|United States|Dublin|Amazon.com, Inc.|
+|20|49.49.60.48|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
 
 
 
