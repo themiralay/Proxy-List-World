@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|171.237.97.251|1005|Vietnam|Ninh Bình|Viettel Corporation|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|171.224.189.191|10002|Vietnam|Hanoi|Viettel Corporation|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
 |7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|9|5.78.124.240|40000|United States|Hillsboro|Hetzner Online GmbH|
-|10|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|194.4.57.199|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|13|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|14|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|15|201.77.96.0|999|Mexico|Huichapan|Hulux Telecomunicaciones|
-|16|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
-|17|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|18|52.42.76.223|3128|United States|Portland|Amazon.com, Inc.|
-|19|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|20|117.5.212.60|7001|Vietnam|Hanoi|VIETTEL|
+|8|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|9|210.79.142.73|8080|Indonesia|Tamanan|PT Gayatri Lintas Nusantara|
+|10|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|11|183.88.214.84|8080|Thailand|Chok Chai|Triple T Broadband Public Company Limited|
+|12|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|13|201.150.116.3|999|Mexico|Mineral de la Reforma|Yesenia Ramirez Garcia|
+|14|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|15|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|16|23.237.210.82|80|United States|Houston|FDCservers.net|
+|17|68.183.63.141|8080|United States|Clifton|DigitalOcean, LLC|
+|18|185.250.180.238|8080|Germany|Frankfurt am Main|ZhouyiSat Communications|
+|19|103.155.169.70|8299|Indonesia|Cikampek|PT Arozak Bima Yudho Sangkara|
+|20|101.255.164.213|8090|Indonesia|Tangerang|PT Remala Abadi|
 
 
 
