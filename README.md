@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|163.223.182.210|1080|Hong Kong|Kowloon City|Aiyun (HK) Network|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
-|9|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|10|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|13|77.90.28.184|1080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
-|14|86.98.20.177|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|15|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|16|194.181.46.86|80|Poland|Warsaw|Naukowa I Akademicka Siec Komputerowa Instytut Badawczy|
-|17|185.250.180.238|8080|Germany|Frankfurt am Main|ZhouyiSat Communications|
-|18|68.183.63.141|8080|United States|Clifton|DigitalOcean, LLC|
-|19|112.78.139.187|8080|Indonesia|Jakarta|Biznet Networks|
-|20|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|1|163.223.182.210|1080|Hong Kong|Kowloon City|Aiyun (HK) Network|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|77.90.28.184|1080|Germany|Frankfurt am Main|Oliver Horscht is trading as "SYNLINQ"|
+|8|103.133.222.147|80|Indonesia|Jakarta|PT Cloud Teknologi Nusantara|
+|9|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|10|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|12|54.64.42.145|8080|Japan|Tokyo|Amazon.com, Inc.|
+|13|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|14|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|37.27.63.151|10750|Finland|Helsinki|Hetzner Online GmbH|
+|17|45.140.143.77|18080|The Netherlands|Amsterdam|RoyaleHosting BV|
+|18|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|19|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|20|203.190.41.177|8085|Indonesia|Pekalongan|PT Jaring Lintas Utara|
 
 
 
