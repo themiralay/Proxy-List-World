@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|62|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|62|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|62|
 
 ## Sources
 
@@ -46,19 +46,19 @@ Click the file format that you want and copy the URL.
 |5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |6|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
 |7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|15.156.158.93|3128|Canada|Toronto|Amazon.com, Inc.|
+|8|23.237.210.82|80|United States|Houston|FDCservers.net|
 |9|23.237.210.82|80|United States|Houston|FDCservers.net|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |12|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|13|139.59.34.209|8080|India|Bengaluru|DigitalOcean, LLC|
-|14|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|16|68.183.63.141|8080|United States|Clifton|DigitalOcean, LLC|
-|17|148.224.59.25|999|Mexico|San Luis Potosí City|Guillermo Robles Ramirez|
-|18|23.237.210.82|80|United States|Houston|FDCservers.net|
-|19|201.150.116.3|999|Mexico|Mineral de la Reforma|Yesenia Ramirez Garcia|
-|20|103.247.13.238|8080|Indonesia|Klaten|RadjaNet|
+|13|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|14|103.24.213.141|8090|Indonesia|Semarang|PT. ADAU PUTRA NETWORK|
+|15|23.237.210.82|80|United States|Houston|FDCservers.net|
+|16|181.78.19.142|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|17|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|18|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|19|45.136.198.40|3128|Bulgaria|Sofia|Managed by IROKO Networks|
+|20|47.79.16.186|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
