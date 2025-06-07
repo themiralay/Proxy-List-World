@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.251.173.184|3128|United States|Minkler|Alibaba Cloud LLC|
-|2|47.251.125.126|3128|United States|Minkler|Alibaba Cloud LLC|
-|3|47.251.126.31|3128|United States|Minkler|Alibaba Cloud LLC|
-|4|47.251.66.9|3128|United States|Minkler|Alibaba Cloud LLC|
-|5|47.254.71.138|3128|United States|Santa Clara|Alibaba Cloud LLC|
-|6|47.251.170.238|3128|United States|Minkler|Alibaba Cloud LLC|
-|7|47.254.33.33|3128|United States|Minkler|Alibaba Cloud LLC|
-|8|47.251.81.109|3128|United States|Minkler|Alibaba Cloud LLC|
-|9|47.251.163.169|3128|United States|Minkler|Alibaba Cloud LLC|
-|10|47.251.125.36|3128|United States|Minkler|Alibaba Cloud LLC|
-|11|47.251.34.228|3128|United States|Santa Clara|Alibaba Cloud LLC|
-|12|47.251.121.130|3128|United States|Minkler|Alibaba Cloud LLC|
-|13|47.251.29.87|3128|United States|Santa Clara|Alibaba Cloud LLC|
-|14|47.251.1.20|3128|United States|Santa Clara|Alibaba Cloud LLC|
-|15|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|16|47.251.169.252|3128|United States|Minkler|Alibaba Cloud LLC|
-|17|47.251.125.77|3128|United States|Minkler|Alibaba Cloud LLC|
-|18|47.251.169.73|3128|United States|Minkler|Alibaba Cloud LLC|
-|19|47.251.70.45|3128|United States|Minkler|Alibaba Cloud LLC|
-|20|47.251.125.169|3128|United States|Minkler|Alibaba Cloud LLC|
+|1|47.251.166.26|3128|United States|Minkler|Alibaba Cloud LLC|
+|2|47.251.169.73|3128|United States|Minkler|Alibaba Cloud LLC|
+|3|47.251.171.97|3128|United States|Minkler|Alibaba Cloud LLC|
+|4|47.251.164.103|3128|United States|Minkler|Alibaba Cloud LLC|
+|5|47.251.173.104|3128|United States|Minkler|Alibaba Cloud LLC|
+|6|47.251.174.156|3128|United States|Minkler|Alibaba Cloud LLC|
+|7|47.251.28.205|3128|United States|Santa Clara|Alibaba Cloud LLC|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|47.251.83.230|3128|United States|Minkler|Alibaba Cloud LLC|
+|10|47.254.33.33|3128|United States|Minkler|Alibaba Cloud LLC|
+|11|47.251.126.31|3128|United States|Minkler|Alibaba Cloud LLC|
+|12|47.251.172.199|3128|United States|Minkler|Alibaba Cloud LLC|
+|13|47.251.126.102|3128|United States|Minkler|Alibaba Cloud LLC|
+|14|47.251.81.109|3128|United States|Minkler|Alibaba Cloud LLC|
+|15|47.251.87.98|3128|United States|Minkler|Alibaba Cloud LLC|
+|16|47.251.167.1|3128|United States|Minkler|Alibaba Cloud LLC|
+|17|47.251.124.174|3128|United States|Minkler|Alibaba Cloud LLC|
+|18|47.251.173.4|3128|United States|Minkler|Alibaba Cloud LLC|
+|19|47.89.248.141|3128|United States|Minkler|Alibaba Cloud LLC|
+|20|47.251.170.180|3128|United States|Minkler|Alibaba Cloud LLC|
 
 
 
