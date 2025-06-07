@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|43.128.106.179|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|152.32.145.221|1080|Japan|Tokyo|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|5|152.32.226.213|1080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|14|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|16|37.60.230.40|8888|Germany|Düsseldorf|Contabo GmbH|
-|17|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|152.32.145.221|1080|Japan|Tokyo|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|27.79.164.100|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|14|116.111.122.134|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
+|16|68.183.63.141|8080|United States|Clifton|DigitalOcean, LLC|
+|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
 |18|27.79.153.194|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|27.79.215.253|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|27.79.172.107|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|68.183.63.141|8080|United States|Clifton|DigitalOcean, LLC|
+|20|138.2.117.25|1080|South Korea|Chuncheon|Oracle Corporation|
 
 
 
