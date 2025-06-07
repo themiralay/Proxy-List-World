@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1239|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|7|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|8|23.237.210.82|80|United States|Houston|FDCservers.net|
-|9|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
-|10|13.58.225.2|3128|United States|Dublin|Amazon.com, Inc.|
-|11|23.237.210.82|80|United States|Houston|FDCservers.net|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|181.78.19.142|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|5|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
+|6|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|7|13.58.225.2|3128|United States|Dublin|Amazon.com, Inc.|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|10|23.237.210.82|80|United States|Houston|FDCservers.net|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|23.237.210.82|80|United States|Houston|FDCservers.net|
+|13|13.58.225.2|3128|United States|Dublin|Amazon.com, Inc.|
 |14|181.78.19.138|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
 |15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|18|13.58.225.2|3128|United States|Dublin|Amazon.com, Inc.|
-|19|135.181.30.127|3128|Finland|Helsinki|Hetzner Online GmbH|
-|20|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|16|181.78.19.142|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
