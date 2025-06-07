@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|420|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|420|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|420|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|23.237.210.82|80|United States|Houston|FDCservers.net|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|181.78.19.142|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|7|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|8|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|9|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|13|47.251.172.27|3128|United States|Minkler|Alibaba Cloud LLC|
-|14|47.251.55.50|3128|United States|Santa Clara|Alibaba Cloud LLC|
-|15|47.251.24.139|3128|United States|Santa Clara|Alibaba Cloud LLC|
-|16|47.251.170.172|3128|United States|Minkler|Alibaba Cloud LLC|
-|17|47.251.127.114|3128|United States|Minkler|Alibaba Cloud LLC|
-|18|47.251.169.18|3128|United States|Minkler|Alibaba Cloud LLC|
-|19|47.251.173.3|3128|United States|Minkler|Alibaba Cloud LLC|
-|20|47.251.108.247|3128|United States|Minkler|Alibaba Cloud LLC|
+|1|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|6|23.237.210.82|80|United States|Houston|FDCservers.net|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|13.58.225.2|3128|United States|Dublin|Amazon.com, Inc.|
+|9|13.58.225.2|3128|United States|Dublin|Amazon.com, Inc.|
+|10|23.237.210.82|80|United States|Houston|FDCservers.net|
+|11|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|12|181.78.19.142|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|13|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|16|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
+|17|171.239.237.135|10001|Vietnam|Quận Một|Viettel Corporation|
+|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|19|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
