@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
 |2|54.180.133.172|3128|South Korea|Seoul|Amazon Technologies Inc.|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|6|47.251.27.180|3128|United States|Santa Clara|Alibaba Cloud LLC|
-|7|47.251.107.118|3128|United States|Minkler|Alibaba Cloud LLC|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|47.251.97.162|3128|United States|Minkler|Alibaba Cloud LLC|
-|10|47.251.96.46|3128|United States|Minkler|Alibaba Cloud LLC|
-|11|47.251.164.138|3128|United States|Minkler|Alibaba Cloud LLC|
-|12|47.251.166.66|3128|United States|Minkler|Alibaba Cloud LLC|
-|13|47.251.104.104|3128|United States|Minkler|Alibaba Cloud LLC|
-|14|47.254.18.58|3128|United States|Minkler|Alibaba Cloud LLC|
-|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|17|182.253.109.234|8080|Indonesia|Semarang|Biznet Metronet|
-|18|47.251.62.29|3128|United States|Santa Clara|Alibaba Cloud LLC|
-|19|47.251.98.46|3128|United States|Minkler|Alibaba Cloud LLC|
-|20|47.251.103.4|3128|United States|Minkler|Alibaba Cloud LLC|
+|3|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|9|171.237.126.19|1003|Vietnam|Ninh Bình|Viettel Corporation|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|182.253.109.234|8080|Indonesia|Semarang|Biznet Metronet|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|13|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|14|27.79.169.135|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|16|23.237.210.82|80|United States|Houston|FDCservers.net|
+|17|13.58.225.2|3128|United States|Dublin|Amazon.com, Inc.|
+|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|181.78.19.142|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|20|86.98.20.177|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
 
 
 
