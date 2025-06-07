@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5209** proxies at the latest update. Usable proxies are below.
+> Scraper found **5033** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1323|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1323|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1323|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1610|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|1434|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|377|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.22.48.81|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|3|198.11.181.25|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|4|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|5|47.251.84.55|3128|United States|Minkler|Alibaba Cloud LLC|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|47.251.16.246|3128|United States|Santa Clara|Alibaba Cloud LLC|
-|8|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|9|103.146.184.101|8090|Indonesia|Tipar|YAMNET|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|198.11.181.25|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|13|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|14|47.251.84.55|3128|United States|Minkler|Alibaba Cloud LLC|
-|15|47.251.16.246|3128|United States|Santa Clara|Alibaba Cloud LLC|
-|16|198.11.180.228|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|17|47.251.17.152|3128|United States|Santa Clara|Alibaba Cloud LLC|
-|18|47.251.22.0|3128|United States|Santa Clara|Alibaba Cloud LLC|
-|19|27.79.192.22|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|198.11.182.9|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|165.22.48.81|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|4|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|5|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|6|202.58.77.131|8081|Indonesia|Mojokerto|PT Data Buana Nusantara|
+|7|47.251.84.55|3128|United States|Minkler|Alibaba Cloud LLC|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|10|47.251.16.246|3128|United States|Santa Clara|Alibaba Cloud LLC|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|12|47.251.84.55|3128|United States|Minkler|Alibaba Cloud LLC|
+|13|13.58.225.2|3128|United States|Dublin|Amazon.com, Inc.|
+|14|47.251.16.246|3128|United States|Santa Clara|Alibaba Cloud LLC|
+|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|16|47.251.22.0|3128|United States|Santa Clara|Alibaba Cloud LLC|
+|17|198.11.173.247|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|18|198.11.182.9|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|19|47.251.17.152|3128|United States|Santa Clara|Alibaba Cloud LLC|
+|20|13.58.225.2|3128|United States|Dublin|Amazon.com, Inc.|
 
 
 
