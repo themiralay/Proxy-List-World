@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|4|152.32.145.221|1080|Japan|Tokyo|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|27.79.215.253|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|27.79.153.194|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
+|1|13.209.143.47|3128|South Korea|Seoul|Amazon Technologies Inc.|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|103.178.194.133|2016|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
+|7|13.58.225.2|3128|United States|Dublin|Amazon.com, Inc.|
+|8|27.79.169.135|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|13.58.225.2|3128|United States|Dublin|Amazon.com, Inc.|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |13|160.248.189.96|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
-|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|15|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|16|95.111.229.159|8080|France|Lauterbourg|Contabo GmbH|
-|17|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
-|18|182.253.109.234|8080|Indonesia|Semarang|Biznet Metronet|
-|19|37.60.230.40|8888|Germany|Düsseldorf|Contabo GmbH|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|135.181.30.127|3128|Finland|Helsinki|Hetzner Online GmbH|
+|15|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
+|16|185.250.180.238|8080|Germany|Frankfurt am Main|ZhouyiSat Communications|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|19|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
+|20|182.253.109.234|8080|Indonesia|Semarang|Biznet Metronet|
 
 
 
