@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|2|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|3|95.111.229.159|8080|France|Lauterbourg|Contabo GmbH|
-|4|23.237.210.82|80|United States|Houston|FDCservers.net|
-|5|181.204.113.252|11211|Colombia|Barranquilla|EPM Telecomunicaciones S.A. E.S.P.|
-|6|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|7|5.190.36.2|3128|Iran|Bavānāt|Iran Telecommunication Company PJS|
-|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
-|10|72.10.160.171|27831|Canada|Montreal|GloboTech Communications|
-|11|189.89.186.178|44443|Brazil|Salvador|ITS TELECOMUNICACOES LTDA|
-|12|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|13|201.150.116.32|999|Mexico|Mineral de la Reforma|Yesenia Ramirez Garcia|
-|14|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|15|47.251.122.86|3128|United States|Minkler|Alibaba Cloud LLC|
-|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|17|27.79.164.100|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|19|54.255.152.165|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|20|58.187.71.56|16000|Vietnam|Hanoi|FPT Telecom Company|
+|1|58.187.70.254|16000|Vietnam|Hanoi|FPT Telecom Company|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|116.111.122.134|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|103.174.237.66|3127|Indonesia|Wates|PT Global Erasiber Teknologi|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|13|14.230.73.51|20399|Vietnam|Biên Hòa|VNPT|
+|14|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
+|15|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|16|37.60.230.40|8888|Germany|Düsseldorf|Contabo GmbH|
+|17|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|18|16.79.11.229|80|Indonesia|Jakarta|Amazon.com, Inc.|
+|19|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|20|160.19.19.99|8989|Indonesia|Ploso|PT Indo Telemedia Solusi|
 
 
 
