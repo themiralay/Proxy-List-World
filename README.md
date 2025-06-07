@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1072|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1072|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1072|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1084|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1084|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1084|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.67.48|4649|Japan|Minamishinagawa|NTT PC Communications, Inc.|
-|2|165.22.48.81|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|47.251.16.246|3128|United States|Santa Clara|Alibaba Cloud LLC|
-|4|47.251.84.55|3128|United States|Minkler|Alibaba Cloud LLC|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|8|47.251.22.0|3128|United States|Santa Clara|Alibaba Cloud LLC|
-|9|198.11.182.9|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|10|47.251.17.152|3128|United States|Santa Clara|Alibaba Cloud LLC|
-|11|198.11.173.247|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|12|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|14|198.11.181.25|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|15|47.251.84.55|3128|United States|Minkler|Alibaba Cloud LLC|
-|16|27.71.139.209|16000|Vietnam|Hanoi|Viettel Group|
-|17|47.251.16.246|3128|United States|Santa Clara|Alibaba Cloud LLC|
-|18|27.79.160.227|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|20|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|3|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|4|198.11.181.25|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|5|47.251.84.55|3128|United States|Minkler|Alibaba Cloud LLC|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|47.251.16.246|3128|United States|Santa Clara|Alibaba Cloud LLC|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|198.11.173.247|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|10|86.98.20.177|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|11|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|12|198.11.181.25|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|14|47.251.84.55|3128|United States|Minkler|Alibaba Cloud LLC|
+|15|47.251.16.246|3128|United States|Santa Clara|Alibaba Cloud LLC|
+|16|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|18|198.11.180.228|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|19|27.79.187.147|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|198.11.173.247|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
 
 
 
