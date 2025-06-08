@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|582|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|582|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|582|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|653|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|653|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|653|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|2|43.128.106.179|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|27.79.144.113|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|27.79.187.147|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|6|27.79.160.227|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|14|27.79.254.127|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|47.88.88.69|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|17|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|18|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|19|47.254.33.20|3128|United States|Minkler|Alibaba Cloud LLC|
-|20|47.88.88.197|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|165.22.48.81|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|8|47.254.33.20|3128|United States|Minkler|Alibaba Cloud LLC|
+|9|47.88.88.197|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|10|27.79.195.199|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|12|47.254.122.195|3128|United States|Minkler|Alibaba Cloud LLC|
+|13|47.89.229.232|3128|United States|Minkler|Alibaba Cloud LLC|
+|14|47.88.56.117|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|47.88.21.222|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|17|47.254.87.49|3128|United States|Minkler|Alibaba Cloud LLC|
+|18|47.254.87.21|3128|United States|Minkler|Alibaba Cloud LLC|
+|19|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
+|20|47.251.173.81|3128|United States|Minkler|Alibaba Cloud LLC|
 
 
 
