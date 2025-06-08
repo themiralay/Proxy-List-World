@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1698|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1698|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1698|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1745|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1745|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1745|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|165.22.48.81|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|3|13.209.143.47|3128|South Korea|Seoul|Amazon Technologies Inc.|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|6|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
 |7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|14|27.79.144.113|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
-|19|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
-|20|164.163.42.17|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|115.72.12.34|10006|Vietnam|Vũng Tàu|VIETELmetro|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|171.237.122.216|1008|Vietnam|Ninh Bình|Viettel Corporation|
+|12|116.107.163.218|10005|Vietnam|Hanoi|Viettel Corporation|
+|13|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|16|27.79.160.227|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|18|47.88.27.23|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|19|47.251.164.7|3128|United States|Minkler|Alibaba Cloud LLC|
+|20|47.254.127.236|3128|United States|Minkler|Alibaba Cloud LLC|
 
 
 
