@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|439|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|439|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|439|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|445|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|445|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|445|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.66.94|4649|Japan|Minamishinagawa|NTT PC Communications, Inc.|
-|2|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|3|47.254.44.72|3128|United States|Minkler|Alibaba Cloud LLC|
-|4|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|7|47.89.229.232|3128|United States|Minkler|Alibaba Cloud LLC|
-|8|47.254.123.121|3128|United States|Minkler|Alibaba Cloud LLC|
-|9|165.22.48.81|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|47.88.56.117|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|14|47.88.56.117|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|15|47.254.44.72|3128|United States|Minkler|Alibaba Cloud LLC|
-|16|47.89.229.232|3128|United States|Minkler|Alibaba Cloud LLC|
-|17|47.254.123.121|3128|United States|Minkler|Alibaba Cloud LLC|
-|18|47.254.87.21|3128|United States|Minkler|Alibaba Cloud LLC|
-|19|47.88.21.222|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|20|47.254.87.49|3128|United States|Minkler|Alibaba Cloud LLC|
+|1|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|3|161.34.66.94|4649|Japan|Minamishinagawa|NTT PC Communications, Inc.|
+|4|165.22.48.81|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|9|27.79.187.147|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|47.254.33.20|3128|United States|Minkler|Alibaba Cloud LLC|
+|11|118.70.170.125|31300|Vietnam|Hanoi|FPT Telecom Company|
+|12|50.116.1.34|3128|United States|Fremont|Akamai Technologies, Inc.|
+|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|16|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|19|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|20|47.254.33.20|3128|United States|Minkler|Alibaba Cloud LLC|
 
 
 
