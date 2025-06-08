@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|539|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|539|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|539|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|472|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|472|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|472|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|3|118.70.170.125|31300|Vietnam|Hanoi|FPT Telecom Company|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|27.79.187.147|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|47.254.33.20|3128|United States|Minkler|Alibaba Cloud LLC|
-|7|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|8|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|2.58.170.45|3128|Singapore|Singapore|Host Universal Pty Ltd|
-|13|47.254.33.20|3128|United States|Minkler|Alibaba Cloud LLC|
-|14|45.189.151.17|999|Mexico|Jalpa de Méndez|Javier Tamayo Garcia|
-|15|34.46.107.215|3128|United States|Council Bluffs|Google LLC|
-|16|27.71.129.117|16000|Vietnam|Hanoi|Viettel Group|
-|17|27.71.139.209|16000|Vietnam|Hanoi|Viettel Group|
-|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|19|47.88.88.197|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|20|47.254.123.121|3128|United States|Minkler|Alibaba Cloud LLC|
+|1|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|2|165.22.48.81|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|47.254.33.20|3128|United States|Minkler|Alibaba Cloud LLC|
+|8|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|12|47.254.33.20|3128|United States|Minkler|Alibaba Cloud LLC|
+|13|178.156.191.112|3128|United States|Ashburn|Hetzner Online GmbH|
+|14|47.88.88.197|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|15|27.79.205.14|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|47.89.229.232|3128|United States|Minkler|Alibaba Cloud LLC|
+|17|47.88.56.117|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|47.254.123.121|3128|United States|Minkler|Alibaba Cloud LLC|
+|20|27.79.187.147|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
