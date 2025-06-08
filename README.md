@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|499|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|499|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|499|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|364|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|364|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|364|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|8|161.34.66.94|4649|Japan|Minamishinagawa|NTT PC Communications, Inc.|
+|1|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|4|161.34.66.94|4649|Japan|Minamishinagawa|NTT PC Communications, Inc.|
+|5|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|6|27.71.139.209|16000|Vietnam|Hanoi|Viettel Group|
+|7|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |9|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|10|47.88.88.197|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|12|47.88.56.117|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|13|47.254.123.121|3128|United States|Minkler|Alibaba Cloud LLC|
-|14|47.254.122.195|3128|United States|Minkler|Alibaba Cloud LLC|
-|15|47.89.229.232|3128|United States|Minkler|Alibaba Cloud LLC|
-|16|47.254.87.21|3128|United States|Minkler|Alibaba Cloud LLC|
-|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|47.251.173.81|3128|United States|Minkler|Alibaba Cloud LLC|
-|19|47.88.10.245|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|20|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|47.254.123.121|3128|United States|Minkler|Alibaba Cloud LLC|
+|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|47.88.88.197|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|13|47.88.56.117|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|47.254.122.195|3128|United States|Minkler|Alibaba Cloud LLC|
+|16|47.89.229.232|3128|United States|Minkler|Alibaba Cloud LLC|
+|17|47.88.21.222|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|18|47.254.87.21|3128|United States|Minkler|Alibaba Cloud LLC|
+|19|47.254.87.49|3128|United States|Minkler|Alibaba Cloud LLC|
+|20|43.128.106.179|3128|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
