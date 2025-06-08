@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1881|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1881|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1881|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|1854|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|1854|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|1854|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|165.22.48.81|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|1|165.22.48.81|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|5|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
 |6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
-|11|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
-|12|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
-|13|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
-|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|18|47.254.127.236|3128|United States|Minkler|Alibaba Cloud LLC|
-|19|47.251.96.19|3128|United States|Minkler|Alibaba Cloud LLC|
-|20|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
+|10|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|37.60.230.27|8888|Germany|Düsseldorf|Contabo GmbH|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|15|47.251.96.19|3128|United States|Minkler|Alibaba Cloud LLC|
+|16|47.251.115.153|3128|United States|Minkler|Alibaba Cloud LLC|
+|17|47.89.244.44|3128|United States|Minkler|Alibaba Cloud LLC|
+|18|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|19|47.254.127.236|3128|United States|Minkler|Alibaba Cloud LLC|
+|20|47.251.173.163|3128|United States|Minkler|Alibaba Cloud LLC|
 
 
 
