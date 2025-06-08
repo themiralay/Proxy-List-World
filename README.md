@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|498|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|498|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|498|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|447|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|447|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|447|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
-|9|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|10|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|11|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|2|165.22.48.81|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
+|4|27.71.139.209|16000|Vietnam|Hanoi|Viettel Group|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|10|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|11|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
 |12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|13|37.60.230.40|8888|Germany|Düsseldorf|Contabo GmbH|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |14|192.121.102.13|8118|The Netherlands|Amsterdam|Arelion Sweden AB|
-|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|15|47.88.88.69|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
 |16|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
-|17|68.183.63.141|8080|United States|Clifton|DigitalOcean, LLC|
-|18|185.250.180.238|8080|Germany|Frankfurt am Main|ZhouyiSat Communications|
-|19|27.79.187.43|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|68.183.63.141|8080|United States|Clifton|DigitalOcean, LLC|
+|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|18|47.254.33.20|3128|United States|Minkler|Alibaba Cloud LLC|
+|19|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|20|47.88.88.197|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
 
 
 
