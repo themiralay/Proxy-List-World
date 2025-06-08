@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|640|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|640|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|640|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|651|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|651|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|651|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.251.173.185|3128|United States|Minkler|Alibaba Cloud LLC|
-|2|47.251.173.178|3128|United States|Minkler|Alibaba Cloud LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|1|165.22.48.81|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|47.251.173.3|3128|United States|Minkler|Alibaba Cloud LLC|
+|4|47.251.173.185|3128|United States|Minkler|Alibaba Cloud LLC|
 |5|47.251.173.178|3128|United States|Minkler|Alibaba Cloud LLC|
-|6|47.251.173.185|3128|United States|Minkler|Alibaba Cloud LLC|
-|7|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|8|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|11|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|13|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
-|14|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|17|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|18|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|19|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|20|47.251.172.66|3128|United States|Minkler|Alibaba Cloud LLC|
+|6|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|9|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|10|47.251.173.185|3128|United States|Minkler|Alibaba Cloud LLC|
+|11|47.251.173.3|3128|United States|Minkler|Alibaba Cloud LLC|
+|12|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|13|27.71.140.97|16000|Vietnam|Hanoi|Viettel Group|
+|14|27.71.129.117|16000|Vietnam|Hanoi|Viettel Group|
+|15|47.251.173.178|3128|United States|Minkler|Alibaba Cloud LLC|
+|16|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|17|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|18|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|19|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|20|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 
 
 
