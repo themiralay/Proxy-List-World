@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|54.83.142.133|3128|United States|Ashburn|Amazon.com, Inc.|
-|6|171.252.130.148|4003|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|4|54.83.142.133|3128|United States|Ashburn|Amazon.com, Inc.|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |7|54.83.142.133|3128|United States|Ashburn|Amazon.com, Inc.|
-|8|171.248.45.98|9015|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|11|37.60.230.40|8888|Germany|Düsseldorf|Contabo GmbH|
-|12|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
-|13|23.237.210.82|80|United States|Houston|FDCservers.net|
-|14|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|15|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|17|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|18|115.72.173.220|10006|Vietnam|Ho Chi Minh City|VIETELmetro|
-|19|37.60.230.27|8888|Germany|Düsseldorf|Contabo GmbH|
-|20|116.108.29.73|4002|Vietnam|Quận Năm|Viettel Corporation|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|23.237.210.82|80|United States|Houston|FDCservers.net|
+|10|27.71.139.209|16000|Vietnam|Hanoi|Viettel Group|
+|11|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|14|27.79.151.233|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|23.237.210.82|80|United States|Houston|FDCservers.net|
+|18|115.72.171.114|10010|Vietnam|Ho Chi Minh City|VIETELmetro|
+|19|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
+|20|152.166.69.34|8080|Dominican Republic|La Romana|Altice Dominicana S.A.|
 
 
 
