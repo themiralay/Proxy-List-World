@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|54.83.142.133|3128|United States|Ashburn|Amazon.com, Inc.|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|23.237.210.82|80|United States|Houston|FDCservers.net|
-|9|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|10|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
-|14|54.83.142.133|3128|United States|Ashburn|Amazon.com, Inc.|
-|15|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|16|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
+|2|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|3.98.252.139|3128|Canada|Toronto|Amazon Technologies Inc.|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
+|9|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|10|35.183.168.92|3128|Canada|Toronto|Amazon Technologies Inc.|
+|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|13|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
+|14|23.237.210.82|80|United States|Houston|FDCservers.net|
+|15|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|27.69.187.241|5109|Vietnam|Diên Khánh|Viettel Group|
-|19|181.78.19.138|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|20|181.78.19.138|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|18|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|19|54.83.142.133|3128|United States|Ashburn|Amazon.com, Inc.|
+|20|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
 
 
 
