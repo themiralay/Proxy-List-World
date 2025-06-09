@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|3.98.252.139|3128|Canada|Toronto|Amazon Technologies Inc.|
-|7|35.183.168.92|3128|Canada|Toronto|Amazon Technologies Inc.|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
-|10|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|23.237.210.82|80|United States|Houston|FDCservers.net|
-|13|91.92.136.132|8889|Bulgaria|Sofia|Belcloud LTD|
-|14|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|15|54.83.142.133|3128|United States|Ashburn|Amazon.com, Inc.|
-|16|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
-|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|18|54.83.142.133|3128|United States|Ashburn|Amazon.com, Inc.|
-|19|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
-|20|181.78.19.138|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|4|123.20.63.163|1005|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|7|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|8|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
+|9|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|10|27.0.183.82|3128|India|Lucknow|Sikka IPL|
+|11|68.183.179.119|8888|Singapore|Singapore|DigitalOcean, LLC|
+|12|54.83.142.133|3128|United States|Ashburn|Amazon.com, Inc.|
+|13|23.237.210.82|80|United States|Houston|FDCservers.net|
+|14|37.60.230.40|8888|Germany|Düsseldorf|Contabo GmbH|
+|15|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|16|91.92.136.132|8889|Bulgaria|Sofia|Belcloud LTD|
+|17|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|18|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|19|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|20|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
 
 
 
