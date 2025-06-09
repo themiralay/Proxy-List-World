@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|54.83.142.133|3128|United States|Ashburn|Amazon.com, Inc.|
-|6|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|7|54.83.142.133|3128|United States|Ashburn|Amazon.com, Inc.|
-|8|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
-|9|23.237.210.82|80|United States|Houston|FDCservers.net|
-|10|140.227.81.191|3128|Japan|Chiyoda|InfoSphere|
-|11|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
-|12|160.248.189.96|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
-|13|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|14|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|15|68.183.63.141|8080|United States|Clifton|DigitalOcean, LLC|
-|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|17|116.108.35.226|10010|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|18|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|19|23.237.210.82|80|United States|Houston|FDCservers.net|
-|20|37.60.230.56|8888|Germany|Düsseldorf|Contabo GmbH|
+|3|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
+|7|35.183.168.92|3128|Canada|Toronto|Amazon Technologies Inc.|
+|8|3.98.252.139|3128|Canada|Toronto|Amazon Technologies Inc.|
+|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|13|140.227.81.191|3128|Japan|Chiyoda|InfoSphere|
+|14|23.237.210.82|80|United States|Houston|FDCservers.net|
+|15|160.248.189.96|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
+|16|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|17|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|18|103.154.77.35|7070|Indonesia|Sleman|T2NET|
+|19|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
+|20|107.150.50.210|3128|United States|Kansas City|Nocix, LLC|
 
 
 
