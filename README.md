@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.67.48|4649|Japan|Minamishinagawa|NTT PC Communications, Inc.|
-|2|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
-|3|160.248.189.97|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
-|8|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|1|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
+|2|160.248.189.97|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|161.34.67.48|4649|Japan|Minamishinagawa|NTT PC Communications, Inc.|
+|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|5|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|23.237.210.82|80|United States|Houston|FDCservers.net|
 |9|23.237.210.82|80|United States|Houston|FDCservers.net|
-|10|27.79.128.79|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|15|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|17|164.163.42.18|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|164.163.42.20|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|20|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|13|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|86.104.74.59|3128|France|Paris|PQ HOSTING PLUS S.R.L.|
+|17|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|18|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|19|68.183.179.119|8888|Singapore|Singapore|DigitalOcean, LLC|
+|20|23.237.210.82|80|United States|Houston|FDCservers.net|
 
 
 
