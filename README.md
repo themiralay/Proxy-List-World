@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|510|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|510|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|510|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|500|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|500|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|500|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|3|43.201.13.98|3128|South Korea|Seoul|Amazon.com, Inc.|
-|4|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|6|43.133.233.143|8445|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|9|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|4|43.133.233.143|8445|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
+|5|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 |10|47.251.83.230|3128|United States|Minkler|Alibaba Cloud LLC|
-|11|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|12|47.88.55.124|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|13|47.88.8.41|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|14|47.251.31.252|3128|United States|Santa Clara|Alibaba Cloud LLC|
-|15|47.251.78.212|3128|United States|Minkler|Alibaba Cloud LLC|
-|16|47.251.127.150|3128|United States|Minkler|Alibaba Cloud LLC|
-|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|18|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|20|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|11|47.251.78.212|3128|United States|Minkler|Alibaba Cloud LLC|
+|12|47.251.31.252|3128|United States|Santa Clara|Alibaba Cloud LLC|
+|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|14|47.88.8.41|3128|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|15|47.251.127.150|3128|United States|Minkler|Alibaba Cloud LLC|
+|16|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|18|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|19|171.237.236.104|1004|Vietnam|Hanoi|Viettel Corporation|
+|20|54.83.142.133|3128|United States|Ashburn|Amazon.com, Inc.|
 
 
 
