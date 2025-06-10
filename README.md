@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|3|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
-|4|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
+|1|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|115.77.165.78|10010|Vietnam|Vũng Tàu|Viettel Group|
+|4|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
 |5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|9|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|10|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|11|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|12|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|13|189.240.60.162|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|14|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|15|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|16|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|17|3.98.252.139|3128|Canada|Toronto|Amazon Technologies Inc.|
-|18|13.58.225.2|3128|United States|Dublin|Amazon.com, Inc.|
-|19|13.126.128.118|3128|India|Mumbai|Amazon Technologies Inc|
-|20|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|23.237.210.82|80|United States|Houston|FDCservers.net|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|10|23.237.210.82|80|United States|Houston|FDCservers.net|
+|11|115.72.168.233|10006|Vietnam|Ho Chi Minh City|VIETELmetro|
+|12|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|13|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|14|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|15|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|16|189.240.60.162|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|19|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|20|171.250.81.45|4006|Vietnam|Ho Chi Minh City|Viettel Corporation|
 
 
 
