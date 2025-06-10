@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|59|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|59|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|59|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|165.22.250.214|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|23.237.210.82|80|United States|Houston|FDCservers.net|
-|7|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
-|10|31.58.51.90|3128|Poland|Chojnice|Wojciech Czapkowicz|
-|11|31.59.129.205|3128|The Netherlands|Amsterdam|Wojciech Czapkowicz|
-|12|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|13|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|16|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|18|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|19|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|20|103.247.242.22|8080|Indonesia|Teluknaga|PT Salim Solusi Sejahtera|
+|2|27.79.236.100|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
+|9|23.237.210.82|80|United States|Houston|FDCservers.net|
+|10|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
+|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|13|37.60.230.27|8888|Germany|Düsseldorf|Contabo GmbH|
+|14|31.59.129.205|3128|The Netherlands|Amsterdam|Wojciech Czapkowicz|
+|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|31.58.51.90|3128|Poland|Chojnice|Wojciech Czapkowicz|
+|17|182.160.114.213|8080|Bangladesh|Dhaka|Aamra Networks Limited|
+|18|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|19|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|20|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
 
 
 
