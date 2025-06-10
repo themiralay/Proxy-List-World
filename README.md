@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|47|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|47|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|47|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|57|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|57|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|57|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.22.250.214|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|27.79.236.100|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|5|165.22.250.214|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|27.79.236.100|16000|Vietnam|Hanoi|Viettel Corporation|
 |7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |10|31.58.51.90|3128|Poland|Chojnice|Wojciech Czapkowicz|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|13|27.79.151.84|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|16|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|17|31.59.129.205|3128|The Netherlands|Amsterdam|Wojciech Czapkowicz|
-|18|182.160.114.213|8080|Bangladesh|Dhaka|Aamra Networks Limited|
-|19|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|20|38.51.235.216|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
+|11|139.59.34.209|8080|India|Bengaluru|DigitalOcean, LLC|
+|12|31.59.129.205|3128|The Netherlands|Amsterdam|Wojciech Czapkowicz|
+|13|68.183.63.141|8080|United States|Clifton|DigitalOcean, LLC|
+|14|68.183.63.141|8080|United States|Clifton|DigitalOcean, LLC|
+|15|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|16|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|17|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|18|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|19|189.240.60.162|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|20|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
