@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
 |2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|7|13.58.225.2|3128|United States|Dublin|Amazon.com, Inc.|
-|8|13.58.225.2|3128|United States|Dublin|Amazon.com, Inc.|
-|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|3|27.79.179.104|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|10|68.183.63.141|8080|United States|Clifton|DigitalOcean, LLC|
+|11|68.183.63.141|8080|United States|Clifton|DigitalOcean, LLC|
+|12|171.7.114.177|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
 |13|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|37.60.230.27|8888|Germany|Düsseldorf|Contabo GmbH|
-|16|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
-|17|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|18|68.183.63.141|8080|United States|Clifton|DigitalOcean, LLC|
-|19|37.60.230.56|8888|Germany|Düsseldorf|Contabo GmbH|
-|20|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|14|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|15|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|16|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|17|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|18|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|19|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
