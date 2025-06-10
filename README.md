@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|13.124.110.76|3128|South Korea|Seoul|Amazon Technologies Inc.|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|23.237.210.82|80|United States|Houston|FDCservers.net|
-|6|171.237.97.43|1008|Vietnam|Ninh Bình|Viettel Corporation|
-|7|103.234.124.133|8181|Indonesia|Pelabuhanratu|PT. LINTAS DATA TRANS|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|13.58.225.2|3128|United States|Dublin|Amazon.com, Inc.|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|86.98.20.177|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|12|13.126.128.118|3128|India|Mumbai|Amazon Technologies Inc|
-|13|115.72.166.155|10009|Vietnam|Ho Chi Minh City|VIETELmetro|
-|14|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|1|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|2|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
+|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|9|115.72.166.155|10009|Vietnam|Ho Chi Minh City|VIETELmetro|
+|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|12|23.237.210.82|80|United States|Houston|FDCservers.net|
+|13|103.153.149.242|8060|Indonesia|Semarang|JARINGANKU|
+|14|3.98.252.139|3128|Canada|Toronto|Amazon Technologies Inc.|
 |15|23.237.210.82|80|United States|Houston|FDCservers.net|
-|16|3.98.252.139|3128|Canada|Toronto|Amazon Technologies Inc.|
-|17|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|18|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|19|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|20|139.59.34.209|8080|India|Bengaluru|DigitalOcean, LLC|
+|16|86.98.20.177|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|17|13.126.128.118|3128|India|Mumbai|Amazon Technologies Inc|
+|18|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|19|68.183.63.141|8080|United States|Clifton|DigitalOcean, LLC|
+|20|160.30.137.91|10002|Vietnam|Trôi|DATAZ|
 
 
 
