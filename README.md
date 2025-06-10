@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.151.84|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|47.236.224.32|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|2|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
 |3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|13.58.225.2|3128|United States|Dublin|Amazon.com, Inc.|
+|4|27.79.151.84|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|86.98.20.177|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
 |10|43.205.23.100|8888|India|Mumbai|Amazon.com, Inc.|
-|11|103.144.102.154|1111|Indonesia|Cirebon|PANDAWANET|
-|12|13.58.225.2|3128|United States|Dublin|Amazon.com, Inc.|
-|13|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|86.98.20.177|8080|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|16|142.93.40.194|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|18|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|11|142.93.40.194|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
+|18|27.79.184.106|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|13.58.225.2|3128|United States|Dublin|Amazon.com, Inc.|
+|20|13.58.225.2|3128|United States|Dublin|Amazon.com, Inc.|
 
 
 
