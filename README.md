@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|52|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|52|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|52|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|56|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|56|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|56|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.236.224.32|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|7|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|8|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|10|49.150.57.23|8082|Philippines|Tarlac City|Philippine Long Distance Telephone Co.|
-|11|181.78.19.138|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|12|113.162.167.68|10004|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|13|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
-|14|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|15|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|16|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|17|160.248.189.97|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
-|18|59.47.238.4|8088|China|Benxi|CHINATELECOM Liaoning Benxi MAN|
-|19|148.224.59.25|999|Mexico|San Luis Potosí City|Guillermo Robles Ramirez|
-|20|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|139.59.34.209|8080|India|Bengaluru|DigitalOcean, LLC|
+|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|7|187.188.172.17|8080|Mexico|Huatusco|Total Play Telecomunicaciones SA De CV|
+|8|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|9|181.78.19.138|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|10|103.247.23.28|9223|Indonesia|Wonosobo|PT wifian Solution|
+|11|23.237.210.82|80|United States|Houston|FDCservers.net|
+|12|47.236.224.32|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|14|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|15|59.47.238.4|8088|China|Benxi|CHINATELECOM Liaoning Benxi MAN|
+|16|59.47.238.4|8088|China|Benxi|CHINATELECOM Liaoning Benxi MAN|
+|17|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|18|160.248.189.97|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|20|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
 
 
 
