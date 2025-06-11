@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|189.240.60.162|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|4|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|5|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|6|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|7|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|8|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|10|23.237.210.82|80|United States|Houston|FDCservers.net|
-|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|12|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|13|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|181.78.19.142|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|16|181.78.19.138|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|17|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|18|23.237.210.82|80|United States|Houston|FDCservers.net|
-|19|181.129.183.19|53281|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
-|20|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|3|23.237.210.82|80|United States|Houston|FDCservers.net|
+|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|12|95.47.239.65|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
+|13|23.237.210.82|80|United States|Houston|FDCservers.net|
+|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|15|93.119.21.85|8080|Italy|Como|Professional Link S.r.l.|
+|16|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|17|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|18|115.72.12.47|10009|Vietnam|Vũng Tàu|VIETELmetro|
+|19|27.71.129.117|16000|Vietnam|Hanoi|Viettel Group|
+|20|103.80.214.3|8080|Indonesia|Sidoarjo|PT Redi Revolusi Digital Solusi|
 
 
 
