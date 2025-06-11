@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|115.72.175.3|10002|Vietnam|Ho Chi Minh City|VIETELmetro|
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|181.78.19.142|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|6|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
-|11|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|12|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
+|4|23.237.210.82|80|United States|Houston|FDCservers.net|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|181.78.19.142|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|7|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|8|115.77.175.37|10010|Vietnam|Vũng Tàu|Viettel Group|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|12|23.237.210.82|80|United States|Houston|FDCservers.net|
 |13|62.217.187.248|10808|Russia|Moscow|Lovitel LLC|
-|14|139.59.34.209|8080|India|Bengaluru|DigitalOcean, LLC|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
-|17|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|14|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|15|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
 |18|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|125.212.146.123|1002|Vietnam|Tiền Hải|Viettel Corporation|
+|19|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|20|115.72.4.124|10008|Vietnam|Vũng Tàu|VIETELmetro|
 
 
 
