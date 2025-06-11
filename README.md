@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|3|171.226.35.220|9056|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|4|107.150.50.210|3128|United States|Kansas City|Nocix, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|13.58.225.2|3128|United States|Dublin|Amazon.com, Inc.|
-|8|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
-|9|137.184.174.32|4857|Canada|Toronto|DigitalOcean, LLC|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|12|107.150.50.210|3128|United States|Kansas City|Nocix, LLC|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|15|202.162.195.54|8080|Indonesia|Medan|PT. Media Antar Nusa|
-|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|17|68.183.63.141|8080|United States|Clifton|DigitalOcean, LLC|
-|18|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|19|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|2|143.198.42.182|31280|Canada|Toronto|DigitalOcean, LLC|
+|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|68.183.63.141|8080|United States|Clifton|DigitalOcean, LLC|
+|6|58.187.70.247|16000|Vietnam|Hanoi|FPT Telecom Company|
+|7|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|13.58.225.2|3128|United States|Dublin|Amazon.com, Inc.|
+|10|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|68.183.63.141|8080|United States|Clifton|DigitalOcean, LLC|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|15|103.81.194.123|8080|Indonesia|Bogor|PT Rtiga Global Media|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|18|68.183.179.119|8888|Singapore|Singapore|DigitalOcean, LLC|
+|19|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|20|68.183.63.141|8080|United States|Clifton|DigitalOcean, LLC|
 
 
 
