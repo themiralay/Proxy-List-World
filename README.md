@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|109.224.228.91|8118|Slovenia|Ljubljana|BUNNYWAY, informacijske storitve d.o.o.|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|66.94.123.220|3128|United States|Seattle|Nubes, LLC|
-|7|58.187.162.1|16000|Vietnam|Hanoi|FPT Telecom Company|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|171.232.178.100|10001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |10|66.94.123.220|3128|United States|Seattle|Nubes, LLC|
-|11|115.72.44.199|10012|Vietnam|Ho Chi Minh City|VIETELmetro|
-|12|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|14|95.111.229.159|8080|France|Lauterbourg|Contabo GmbH|
-|15|27.71.130.51|16000|Vietnam|Đưc Trọng|Viettel Group|
-|16|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|17|171.226.159.227|9021|Vietnam|Quận Bình Thạnh|Viettel Corporation|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|11|58.187.162.1|16000|Vietnam|Hanoi|FPT Telecom Company|
+|12|171.224.191.250|10003|Vietnam|Hanoi|Viettel Corporation|
+|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|14|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|15|66.94.123.220|3128|United States|Seattle|Nubes, LLC|
+|16|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|19|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
