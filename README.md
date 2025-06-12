@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|60|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|60|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|60|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|47|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|47|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|47|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
-|5|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
-|6|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|9|137.175.59.117|3128|China|Haidian|PEG TECH INC|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|137.175.59.117|3128|China|Haidian|PEG TECH INC|
-|12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|13|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|14|119.93.33.130|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|17|181.78.19.138|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|18|181.78.19.142|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|19|139.59.34.209|8080|India|Bengaluru|DigitalOcean, LLC|
-|20|102.218.67.252|8080|South Africa|Cape Town|Netdirect Wireless Technology (Pty) Ltd|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|5|181.78.19.142|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|6|181.78.19.138|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|7|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|10|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|13|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|14|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|15|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
+|16|23.237.210.82|80|United States|Houston|FDCservers.net|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|206.201.3.83|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|19|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|20|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
 
 
 
