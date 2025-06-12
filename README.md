@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|63|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|63|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|63|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 |4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |5|45.189.151.17|999|Mexico|Jalpa de Méndez|Javier Tamayo Garcia|
-|6|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|27.79.234.7|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
-|10|62.217.187.248|10808|Russia|Moscow|Lovitel LLC|
-|11|139.59.34.209|8080|India|Bengaluru|DigitalOcean, LLC|
-|12|66.94.123.220|3128|United States|Seattle|Nubes, LLC|
-|13|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|14|181.78.19.142|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|15|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|16|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|17|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|116.108.35.226|10039|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|20|78.46.126.141|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|8|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|9|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|10|94.103.83.90|3128|Russia|Moscow|Hosting technology LTD|
+|11|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|12|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
+|13|209.121.164.51|31147|Canada|Burnaby|TELUS Communications Inc.|
+|14|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|15|137.175.59.116|3128|China|Haidian|PEG TECH INC|
+|16|78.46.126.141|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|17|119.93.87.65|8080|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|18|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
+|19|103.153.247.118|8387|Indonesia|Jakarta|PRIMAHOME|
+|20|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
