@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|3|27.79.234.7|16000|Vietnam|Hanoi|Viettel Corporation|
 |4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |5|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
 |6|195.231.68.213|3128|Italy|Ponte San Pietro|Aruba S.p.A.|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|68.183.63.141|8080|United States|Clifton|DigitalOcean, LLC|
 |8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|11|66.94.123.220|3128|United States|Seattle|Nubes, LLC|
+|9|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
 |12|68.183.63.141|8080|United States|Clifton|DigitalOcean, LLC|
-|13|68.183.63.141|8080|United States|Clifton|DigitalOcean, LLC|
-|14|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|15|23.237.210.82|80|United States|Houston|FDCservers.net|
-|16|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
-|17|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|18|189.240.60.162|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|19|66.94.123.220|3128|United States|Seattle|Nubes, LLC|
-|20|59.47.238.4|8088|China|Benxi|CHINATELECOM Liaoning Benxi MAN|
+|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|14|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|15|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|16|139.59.34.209|8080|India|Bengaluru|DigitalOcean, LLC|
+|17|27.79.230.118|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|19|103.95.150.13|8080|Philippines|Taytay|Telmarc Corporation|
+|20|68.183.179.119|8888|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
