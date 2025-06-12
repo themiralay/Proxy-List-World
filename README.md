@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|109.224.228.91|8118|Slovenia|Ljubljana|BUNNYWAY, informacijske storitve d.o.o.|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|3|34.102.48.89|8080|United States|Los Angeles|Google LLC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|139.59.34.209|8080|India|Bengaluru|DigitalOcean, LLC|
 |9|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|10|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|139.59.34.209|8080|India|Bengaluru|DigitalOcean, LLC|
-|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|15|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|16|34.102.48.89|8080|United States|Los Angeles|Google LLC|
-|17|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|18|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|19|59.47.238.4|8088|China|Benxi|CHINATELECOM Liaoning Benxi MAN|
-|20|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|12|103.83.179.22|2021|Indonesia|Kresek|PT SOLUSI TRIMEGAH PERSADA|
+|13|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|14|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|15|5.8.34.16|8080|The Netherlands|Haarlem|G-Core Labs S.A.|
+|16|54.37.207.54|3128|Germany|Limburg an der Lahn|OVH SAS|
+|17|66.94.123.220|3128|United States|Seattle|Nubes, LLC|
+|18|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|19|66.94.123.220|3128|United States|Seattle|Nubes, LLC|
+|20|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
