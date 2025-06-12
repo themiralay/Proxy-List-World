@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|109.224.228.91|8118|Slovenia|Ljubljana|BUNNYWAY, informacijske storitve d.o.o.|
-|2|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
-|3|220.76.248.218|3128|South Korea|Gangseo-gu|Korea Telecom|
-|4|14.39.239.79|64637|South Korea|Eunpyeong-gu|Korea Telecom|
-|5|139.59.233.255|3128|Singapore|Singapore|DIGITALOCEAN|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|13|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|14|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
-|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|16|181.78.19.142|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|2|220.76.248.218|3128|South Korea|Gangseo-gu|Korea Telecom|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|6|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|9|189.240.60.162|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|10|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|11|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|12|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|13|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
+|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|16|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |17|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
-|18|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|19|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|20|62.217.187.248|10808|Russia|Moscow|Lovitel LLC|
+|18|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
+|19|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|20|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
 
 
 
