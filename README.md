@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|62|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|62|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|62|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|202|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|526|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|201|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|527|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|44|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|58.187.70.202|16000|Vietnam|Hanoi|FPT Telecom Company|
-|2|27.79.230.118|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|27.79.153.29|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|27.79.234.7|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|27.79.213.220|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|116.96.84.20|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|27.79.169.93|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|27.79.213.220|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|5|27.79.230.118|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|27.79.234.7|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|10|181.78.19.142|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
 |11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|12|181.78.19.142|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |13|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|17|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|18|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|19|62.217.187.248|10808|Russia|Moscow|Lovitel LLC|
-|20|137.175.59.117|3128|China|Haidian|PEG TECH INC|
+|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|17|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
+|18|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|19|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|20|27.79.236.100|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
