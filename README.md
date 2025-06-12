@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3692** proxies at the latest update. Usable proxies are below.
+> Scraper found **3758** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|67|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|67|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|67|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|208|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|489|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|555|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|73|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|109.224.228.91|8118|Slovenia|Ljubljana|BUNNYWAY, informacijske storitve d.o.o.|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|2|109.224.228.91|8118|Slovenia|Ljubljana|BUNNYWAY, informacijske storitve d.o.o.|
 |3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|7|23.237.210.82|80|United States|Houston|FDCservers.net|
-|8|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
-|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|7|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|23.237.210.82|80|United States|Houston|FDCservers.net|
 |11|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|181.78.19.142|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|14|221.162.75.209|3128|South Korea|Goyang-si|Korea Telecom|
-|15|181.78.19.142|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|16|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|17|78.46.126.141|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|18|139.59.34.209|8080|India|Bengaluru|DigitalOcean, LLC|
-|19|189.240.60.162|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|20|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|12|66.94.123.220|3128|United States|Seattle|Nubes, LLC|
+|13|195.231.68.213|3128|Italy|Ponte San Pietro|Aruba S.p.A.|
+|14|66.94.123.220|3128|United States|Seattle|Nubes, LLC|
+|15|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|16|5.8.34.16|8080|The Netherlands|Haarlem|G-Core Labs S.A.|
+|17|181.78.19.142|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|18|181.78.19.142|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|19|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|20|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
 
 
 
