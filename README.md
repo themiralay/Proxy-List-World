@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|109.224.228.91|8118|Slovenia|Ljubljana|BUNNYWAY, informacijske storitve d.o.o.|
-|2|148.135.76.251|3128|United States|Los Angeles|Multacom Corporation|
-|3|129.153.120.205|3128|United States|Phoenix|Oracle Corporation|
-|4|23.95.242.22|3128|United States|Dallas|HostPapa|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|103.169.128.133|8080|Indonesia|Cirebon|PT Media Akses Data|
+|3|148.135.76.251|3128|United States|Los Angeles|Multacom Corporation|
+|4|129.153.120.205|3128|United States|Phoenix|Oracle Corporation|
+|5|34.72.21.57|3128|United States|Council Bluffs|Google LLC|
 |6|129.153.120.205|3128|United States|Phoenix|Oracle Corporation|
 |7|23.95.242.22|3128|United States|Dallas|HostPapa|
-|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|54.189.28.96|3128|United States|Portland|Amazon.com, Inc.|
+|9|3.84.101.202|3128|United States|Ashburn|Amazon Technologies Inc.|
 |10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|14|68.183.63.141|8080|United States|Clifton|DigitalOcean, LLC|
-|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|16|94.131.12.165|10808|Switzerland|Bern|PQ HOSTING PLUS S.R.L.|
-|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|18|164.90.229.29|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|20|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|11|3.83.12.141|3128|United States|Ashburn|Amazon Technologies Inc.|
+|12|13.220.103.68|3128|United States|Ashburn|Amazon.com, Inc.|
+|13|54.189.28.96|3128|United States|Portland|Amazon.com, Inc.|
+|14|23.95.242.22|3128|United States|Dallas|HostPapa|
+|15|34.72.21.57|3128|United States|Council Bluffs|Google LLC|
+|16|3.84.101.202|3128|United States|Ashburn|Amazon Technologies Inc.|
+|17|54.146.206.13|3128|United States|Ashburn|Amazon Technologies Inc.|
+|18|54.146.206.13|3128|United States|Ashburn|Amazon Technologies Inc.|
+|19|3.255.151.22|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|20|3.83.12.141|3128|United States|Ashburn|Amazon Technologies Inc.|
 
 
 
