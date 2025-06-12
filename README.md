@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|109.224.228.91|8118|Slovenia|Ljubljana|BUNNYWAY, informacijske storitve d.o.o.|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|221.162.75.209|3128|South Korea|Goyang-si|Korea Telecom|
 |3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|5|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|6|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|7|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|8|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|9|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|10|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|13|189.240.60.162|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|14|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|15|3.84.101.202|3128|United States|Ashburn|Amazon Technologies Inc.|
-|16|68.183.63.141|8080|United States|Clifton|DigitalOcean, LLC|
-|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|8|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|9|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|10|195.231.68.213|3128|Italy|Ponte San Pietro|Aruba S.p.A.|
+|11|54.170.62.125|3128|Ireland|Dublin|Amazon.com, Inc.|
+|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|13|34.253.122.49|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|54.170.46.164|3128|Ireland|Dublin|Amazon.com, Inc.|
+|16|18.200.246.89|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|17|3.255.242.211|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|18|54.194.81.84|3128|Ireland|Dublin|Amazon.com, Inc.|
+|19|34.244.206.63|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|20|34.247.48.23|3128|Ireland|Dublin|Amazon Technologies Inc.|
 
 
 
