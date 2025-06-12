@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
-|2|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|3|160.16.204.90|3128|Japan|Tokyo|SAKURA Internet Inc.|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|23.237.210.82|80|United States|Houston|FDCservers.net|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
-|10|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|2|220.76.248.218|3128|South Korea|Gangseo-gu|Korea Telecom|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|221.162.75.209|3128|South Korea|Goyang-si|Korea Telecom|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|23.237.210.82|80|United States|Houston|FDCservers.net|
+|7|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|8|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |11|181.78.19.142|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
 |12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
-|14|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|15|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|16|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|17|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|18|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
-|19|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|20|95.111.229.159|8080|France|Lauterbourg|Contabo GmbH|
+|13|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|14|23.237.210.82|80|United States|Houston|FDCservers.net|
+|15|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
+|16|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|17|45.189.151.17|999|Mexico|Jalpa de Méndez|Javier Tamayo Garcia|
+|18|94.103.83.90|3128|Russia|Moscow|Hosting technology LTD|
+|19|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|20|89.249.62.8|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
