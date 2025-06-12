@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|221.162.75.209|3128|South Korea|Goyang-si|Korea Telecom|
-|2|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|1|109.224.228.91|8118|Slovenia|Ljubljana|BUNNYWAY, informacijske storitve d.o.o.|
+|2|221.162.75.209|3128|South Korea|Goyang-si|Korea Telecom|
 |3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|8|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|10|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|12|189.240.60.162|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|13|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|14|68.183.63.141|8080|United States|Clifton|DigitalOcean, LLC|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|4|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|5|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|6|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|7|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|8|189.240.60.162|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|9|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|12|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|13|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|14|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|15|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|16|68.183.63.141|8080|United States|Clifton|DigitalOcean, LLC|
 |17|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|18|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|19|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|20|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|68.183.63.141|8080|United States|Clifton|DigitalOcean, LLC|
 
 
 
