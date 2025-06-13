@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|52.194.87.84|8080|Japan|Tokyo|Amazon Technologies Inc.|
 |2|122.223.116.175|8080|Japan|Tokyo|ARTERIA Networks Corporation|
 |3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|14.247.254.20|8080|Vietnam|Hanoi|VNPT|
-|5|34.55.224.190|8080|United States|Council Bluffs|Google LLC|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|14.247.254.20|8080|Vietnam|Hanoi|VNPT|
+|6|34.55.224.190|8080|United States|Council Bluffs|Google LLC|
 |7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|182.253.109.235|8080|Indonesia|Semarang|Biznet Metronet|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|34.55.224.190|8080|United States|Council Bluffs|Google LLC|
+|10|182.253.109.235|8080|Indonesia|Semarang|Biznet Metronet|
 |11|189.232.72.95|8080|Mexico|Atotonilco de Tula|Uninet S.A. de C.V.|
-|12|3.14.244.221|8080|United States|Dublin|Amazon.com, Inc.|
-|13|103.82.32.37|8080|Vietnam|Ho Chi Minh City|SUPERHOST|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|150.40.177.13|8080|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
-|16|159.69.147.14|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|17|178.162.138.114|8080|The Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
-|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|12|34.55.224.190|8080|United States|Council Bluffs|Google LLC|
+|13|103.177.103.43|8080|Indonesia|Mangkutana|PT Hasya Mitra Komunika|
+|14|139.135.145.198|8080|Philippines|Pasig|ComClark Network & Technology Corp|
+|15|3.14.244.221|8080|United States|Dublin|Amazon.com, Inc.|
+|16|103.82.32.37|8080|Vietnam|Ho Chi Minh City|SUPERHOST|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|3.14.244.221|8080|United States|Dublin|Amazon.com, Inc.|
+|20|195.231.68.213|3128|Italy|Ponte San Pietro|Aruba S.p.A.|
 
 
 
