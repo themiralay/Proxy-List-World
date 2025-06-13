@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|124.156.197.57|80|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
 |2|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|3.110.176.45|80|India|Mumbai|Amazon Technologies Inc.|
-|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|13|171.228.66.219|10003|Vietnam|Hanoi|Viettel Corporation|
-|14|43.163.126.253|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|74.113.255.29|80|United States|Miami|Mtnsat Holdings LLC|
-|16|74.113.255.29|80|United States|Miami|Mtnsat Holdings LLC|
-|17|139.59.34.209|8080|India|Bengaluru|DigitalOcean, LLC|
-|18|38.54.27.211|80|Bulgaria|Sofia|Kaopu Cloud HK Limited|
-|19|171.249.163.170|1452|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|3|43.163.126.253|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|5|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|52.73.147.181|80|United States|Ashburn|Amazon.com, Inc.|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|171.228.66.219|10003|Vietnam|Hanoi|Viettel Corporation|
+|11|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|12|52.73.147.181|80|United States|Ashburn|Amazon.com, Inc.|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|38.54.27.211|80|Bulgaria|Sofia|Kaopu Cloud HK Limited|
+|17|74.113.255.29|80|United States|Miami|Mtnsat Holdings LLC|
+|18|74.113.255.29|80|United States|Miami|Mtnsat Holdings LLC|
+|19|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|20|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
 
 
 
