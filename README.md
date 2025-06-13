@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|14.247.254.20|8080|Vietnam|Hanoi|VNPT|
-|2|199.250.208.159|3128|United States|Los Angeles|InMotion Hosting, Inc.|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|5|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|6|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|7|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|8|189.240.60.162|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|11|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|12|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|13|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|14|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|15|34.55.224.190|8080|United States|Council Bluffs|Google LLC|
-|16|199.250.208.159|3128|United States|Los Angeles|InMotion Hosting, Inc.|
-|17|27.79.197.73|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|139.59.34.209|8080|India|Bengaluru|DigitalOcean, LLC|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|6|34.55.224.190|8080|United States|Council Bluffs|Google LLC|
+|7|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|199.250.208.159|3128|United States|Los Angeles|InMotion Hosting, Inc.|
+|10|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|11|178.162.138.114|8080|The Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
+|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|13|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|14|195.231.68.213|3128|Italy|Ponte San Pietro|Aruba S.p.A.|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|34.55.224.190|8080|United States|Council Bluffs|Google LLC|
+|17|159.69.147.14|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|18|42.200.253.4|8080|Hong Kong|Central|PCCW IMSBiz|
+|19|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|20|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 
 
 
