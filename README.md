@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|124.156.197.57|80|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|5|124.156.197.57|80|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
 |6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|7|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|8|171.228.66.219|10010|Vietnam|Hanoi|Viettel Corporation|
 |9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|11|43.163.126.253|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|195.231.68.213|3128|Italy|Ponte San Pietro|Aruba S.p.A.|
-|15|38.54.27.211|80|Bulgaria|Sofia|Kaopu Cloud HK Limited|
-|16|182.191.94.188|80|Pakistan|Rawalpindi|Pakistan Telecommuication company limited|
-|17|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
-|18|95.111.229.159|8080|France|Lauterbourg|Contabo GmbH|
-|19|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|20|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|10|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|11|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|12|195.231.68.213|3128|Italy|Ponte San Pietro|Aruba S.p.A.|
+|13|43.163.126.253|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|18|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
+|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|20|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
 
 
 
