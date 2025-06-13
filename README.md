@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|42.200.253.4|8080|Hong Kong|Central|PCCW IMSBiz|
-|2|58.95.77.205|3128|Japan|Tenjin|NTT Communications Corporation|
+|1|58.95.77.205|3128|Japan|Tenjin|NTT Communications Corporation|
+|2|42.200.253.4|8080|Hong Kong|Central|PCCW IMSBiz|
 |3|14.247.254.20|8080|Vietnam|Hanoi|VNPT|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|199.250.208.159|3128|United States|Los Angeles|InMotion Hosting, Inc.|
-|6|54.167.155.67|3128|United States|Ashburn|Amazon.com, Inc.|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|9|199.250.208.159|3128|United States|Los Angeles|InMotion Hosting, Inc.|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|12|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|13|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|14|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|15|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|16|124.121.177.204|8080|Thailand|Bangkok|TRUE|
-|17|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|18|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|19|54.167.155.67|3128|United States|Ashburn|Amazon.com, Inc.|
-|20|189.240.60.162|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|4|103.24.105.238|8080|Indonesia|Jakarta|Quantum Dist POP KBJ CORP|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|7|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|12|54.167.155.67|3128|United States|Ashburn|Amazon.com, Inc.|
+|13|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|14|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|15|34.55.224.190|8080|United States|Council Bluffs|Google LLC|
+|16|189.240.60.162|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|17|199.250.208.159|3128|United States|Los Angeles|InMotion Hosting, Inc.|
+|18|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|19|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|20|54.167.155.67|3128|United States|Ashburn|Amazon.com, Inc.|
 
 
 
