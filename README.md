@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3863** proxies at the latest update. Usable proxies are below.
+> Scraper found **3864** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|527|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|528|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|114|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |3|171.228.66.219|10001|Vietnam|Hanoi|Viettel Corporation|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|43.163.126.253|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|27.79.170.144|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|11|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|6|124.156.197.57|80|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|7|27.79.213.94|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|14|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|15|124.156.197.57|80|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|16|195.231.68.213|3128|Italy|Ponte San Pietro|Aruba S.p.A.|
-|17|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
-|18|91.92.136.132|8889|Bulgaria|Sofia|Belcloud LTD|
-|19|37.27.63.151|27424|Finland|Helsinki|Hetzner Online GmbH|
-|20|45.136.198.40|3128|Bulgaria|Sofia|Managed by IROKO Networks|
+|13|43.163.126.253|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|38.54.27.211|80|Bulgaria|Sofia|Kaopu Cloud HK Limited|
+|16|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|18|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|19|103.105.57.66|2022|Indonesia|Cileungsir|PT Lambda Sinergi Telekomunikasi|
+|20|139.59.34.209|8080|India|Bengaluru|DigitalOcean, LLC|
 
 
 
