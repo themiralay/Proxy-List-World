@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|72|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|72|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|72|
 
 ## Sources
 
@@ -45,20 +45,20 @@ Click the file format that you want and copy the URL.
 |4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
 |9|181.78.19.138|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|10|181.78.19.142|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|11|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
-|12|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|159.69.147.14|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|78.46.126.141|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|18|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|19|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
+|11|181.78.19.142|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|15|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|18|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|159.69.147.14|1080|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
