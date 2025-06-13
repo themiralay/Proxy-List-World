@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|55|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|55|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|55|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|51|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|51|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|51|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|14.247.254.20|8080|Vietnam|Hanoi|VNPT|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|4|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|8|195.231.68.213|3128|Italy|Ponte San Pietro|Aruba S.p.A.|
-|9|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
-|10|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|11|195.231.68.213|3128|Italy|Ponte San Pietro|Aruba S.p.A.|
-|12|171.228.66.219|10010|Vietnam|Hanoi|Viettel Corporation|
-|13|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|14|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|15|160.248.189.97|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|17|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|18|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|19|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|20|62.171.181.2|8085|France|Lauterbourg|Contabo GmbH|
+|7|195.231.68.213|3128|Italy|Ponte San Pietro|Aruba S.p.A.|
+|8|199.250.208.159|3128|United States|Los Angeles|InMotion Hosting, Inc.|
+|9|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|10|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
+|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|195.231.68.213|3128|Italy|Ponte San Pietro|Aruba S.p.A.|
+|16|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|17|54.37.207.54|3128|Germany|Limburg an der Lahn|OVH SAS|
+|18|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|19|164.163.40.16|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
 
 
 
