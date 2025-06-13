@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.199.247.60|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|2|14.247.254.20|8080|Vietnam|Hanoi|VNPT|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|182.253.109.235|8080|Indonesia|Semarang|Biznet Metronet|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|171.7.88.63|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|10|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
-|11|23.237.210.82|80|United States|Houston|FDCservers.net|
-|12|181.78.19.138|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|14|181.78.19.142|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|15|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
-|16|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|17|195.231.68.213|3128|Italy|Ponte San Pietro|Aruba S.p.A.|
-|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|20|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|1|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|3|43.199.247.60|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|4|14.247.254.20|8080|Vietnam|Hanoi|VNPT|
+|5|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|6|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|199.250.208.159|3128|United States|Los Angeles|InMotion Hosting, Inc.|
+|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|182.253.109.235|8080|Indonesia|Semarang|Biznet Metronet|
+|13|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|14|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|15|199.250.208.159|3128|United States|Los Angeles|InMotion Hosting, Inc.|
+|16|23.237.210.82|80|United States|Houston|FDCservers.net|
+|17|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|18|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
+|19|181.78.19.138|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|20|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
 
 
 
