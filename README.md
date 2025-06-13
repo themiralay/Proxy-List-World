@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.247.254.20|8080|Vietnam|Hanoi|VNPT|
-|2|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|3|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|4|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|5|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|6|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|7|189.240.60.162|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|8|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|9|202.47.185.94|8080|Indonesia|Selong|PT Putra Garsel Interkoneksi|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|150.40.177.13|8080|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|14.247.254.20|8080|Vietnam|Hanoi|VNPT|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|202.47.185.94|8080|Indonesia|Selong|PT Putra Garsel Interkoneksi|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|54.167.155.67|3128|United States|Ashburn|Amazon.com, Inc.|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|12|54.167.155.67|3128|United States|Ashburn|Amazon.com, Inc.|
 |13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|54.167.155.67|3128|United States|Ashburn|Amazon.com, Inc.|
-|16|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|18|159.69.147.14|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|19|139.59.34.209|8080|India|Bengaluru|DigitalOcean, LLC|
-|20|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|14|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|15|199.250.208.159|3128|United States|Los Angeles|InMotion Hosting, Inc.|
+|16|178.162.138.114|8080|The Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
+|17|195.231.68.213|3128|Italy|Ponte San Pietro|Aruba S.p.A.|
+|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|19|34.55.224.190|8080|United States|Council Bluffs|Google LLC|
+|20|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
 
 
 
