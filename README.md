@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|124.156.197.57|80|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|2|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|1|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
+|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|3|171.228.66.219|10010|Vietnam|Hanoi|Viettel Corporation|
 |4|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|5.78.124.240|40001|United States|Hillsboro|Hetzner Online GmbH|
 |8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|10|43.163.126.253|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|38.54.27.211|80|Bulgaria|Sofia|Kaopu Cloud HK Limited|
-|15|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
-|16|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|17|94.131.12.165|10808|Switzerland|Bern|PQ HOSTING PLUS S.R.L.|
-|18|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|19|23.237.210.82|80|United States|Houston|FDCservers.net|
-|20|74.113.255.29|80|United States|Miami|Mtnsat Holdings LLC|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|13|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|14|47.252.81.108|8118|United States|Richmond|Alibaba Cloud LLC|
+|15|43.163.126.253|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|124.156.197.57|80|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|18|54.167.155.67|3128|United States|Ashburn|Amazon.com, Inc.|
+|19|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
+|20|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
 
 
 
