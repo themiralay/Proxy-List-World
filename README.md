@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
 |3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|9|27.79.130.142|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|11|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|195.231.68.213|3128|Italy|Ponte San Pietro|Aruba S.p.A.|
-|15|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|16|23.237.210.82|80|United States|Houston|FDCservers.net|
-|17|159.69.147.14|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|18|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
-|19|51.158.105.94|31826|France|Paris|SCALEWAY|
-|20|95.111.229.159|8080|France|Lauterbourg|Contabo GmbH|
+|4|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|10|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|11|189.240.60.162|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|12|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|13|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|14|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|15|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|16|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|19|171.234.115.107|5104|Vietnam|Hanoi|Viettel Corporation|
+|20|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
