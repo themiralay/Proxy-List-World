@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|43.199.247.60|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
 |2|14.247.254.20|8080|Vietnam|Hanoi|VNPT|
 |3|171.228.66.219|10010|Vietnam|Hanoi|Viettel Corporation|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|182.253.109.235|8080|Indonesia|Semarang|Biznet Metronet|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|181.78.19.142|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|10|181.78.19.138|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|4|199.250.208.159|3128|United States|Los Angeles|InMotion Hosting, Inc.|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|182.253.109.235|8080|Indonesia|Semarang|Biznet Metronet|
+|8|23.237.210.82|80|United States|Houston|FDCservers.net|
+|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|10|199.250.208.159|3128|United States|Los Angeles|InMotion Hosting, Inc.|
 |11|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|15|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|16|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|17|139.59.34.209|8080|India|Bengaluru|DigitalOcean, LLC|
-|18|85.206.93.105|8080|Lithuania|Vilnius|Telia Lietuva|
-|19|181.78.19.142|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|20|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
+|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|13|23.237.210.82|80|United States|Houston|FDCservers.net|
+|14|181.78.19.138|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|15|181.78.19.142|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|17|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
+|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 
 
 
