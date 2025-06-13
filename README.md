@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|7|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|8|5.8.34.16|8080|The Netherlands|Haarlem|G-Core Labs S.A.|
-|9|66.94.123.220|3128|United States|Seattle|Nubes, LLC|
+|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|7|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
 |10|23.237.210.82|80|United States|Houston|FDCservers.net|
 |11|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
-|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|13|181.45.78.136|8080|Argentina|Buenos Aires|Telecentro S.A.|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|177.234.213.250|8080|Ecuador|Quito|Nedetel S.A.|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|19|59.47.238.4|8088|China|Benxi|CHINATELECOM Liaoning Benxi MAN|
-|20|27.71.141.244|16000|Vietnam|Đưc Trọng|Viettel Group|
+|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|13|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|14|101.33.79.228|3128|South Korea|Seoul|Aceville Pte.ltd|
+|15|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|16|59.47.238.4|8088|China|Benxi|CHINATELECOM Liaoning Benxi MAN|
+|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|18|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|19|66.94.123.220|3128|United States|Seattle|Nubes, LLC|
+|20|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
 
 
 
