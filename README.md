@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.163.126.253|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|124.156.197.57|80|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|1|124.156.197.57|80|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|2|43.163.126.253|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |3|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
-|4|43.199.247.60|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|5|18.166.250.186|3128|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|6|189.222.42.102|80|Mexico|Tijuana|Uninet S.A. de C.V.|
-|7|202.162.195.146|80|Indonesia|Medan|PT. Media Antar Nusa|
-|8|14.247.254.20|8080|Vietnam|Hanoi|VNPT|
-|9|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|10|35.161.144.174|80|United States|Portland|Amazon.com, Inc.|
-|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|13|171.228.66.219|10010|Vietnam|Hanoi|Viettel Corporation|
-|14|182.253.109.235|8080|Indonesia|Semarang|Biznet Metronet|
-|15|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|16|103.109.96.117|3310|Bangladesh|Dhaka|Digi Jadoo Broadband Ltd|
-|17|54.209.173.163|80|United States|Ashburn|Amazon.com, Inc.|
+|4|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|5|202.162.195.146|80|Indonesia|Medan|PT. Media Antar Nusa|
+|6|14.247.254.20|8080|Vietnam|Hanoi|VNPT|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|11|182.253.109.235|8080|Indonesia|Semarang|Biznet Metronet|
+|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|13|103.109.96.117|3310|Bangladesh|Dhaka|Digi Jadoo Broadband Ltd|
+|14|52.73.147.181|80|United States|Ashburn|Amazon.com, Inc.|
+|15|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|16|3.110.176.45|80|India|Mumbai|Amazon Technologies Inc.|
+|17|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |18|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
-|19|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|20|35.161.144.174|80|United States|Portland|Amazon.com, Inc.|
+|19|78.157.215.114|80|United Kingdom|London|UK Dedicated Servers Limited|
+|20|52.73.147.181|80|United States|Ashburn|Amazon.com, Inc.|
 
 
 
