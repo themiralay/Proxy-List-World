@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.247.254.20|8080|Vietnam|Hanoi|VNPT|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|43.199.247.60|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|2|14.247.254.20|8080|Vietnam|Hanoi|VNPT|
 |3|182.253.109.235|8080|Indonesia|Semarang|Biznet Metronet|
-|4|199.250.208.159|3128|United States|Los Angeles|InMotion Hosting, Inc.|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|43.199.247.60|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|7|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
-|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|13|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|14|78.157.215.114|80|United Kingdom|London|UK Dedicated Servers Limited|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|17|164.163.42.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|19|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|20|181.78.19.142|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|181.78.19.142|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|8|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|9|195.231.68.213|3128|Italy|Ponte San Pietro|Aruba S.p.A.|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|12|37.27.203.159|8080|Finland|Helsinki|Hetzner Online GmbH|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|45.77.249.199|1236|Singapore|Singapore|The Constant Company|
+|15|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
+|16|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|17|23.237.210.82|80|United States|Houston|FDCservers.net|
+|18|181.78.19.142|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|19|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
+|20|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 
 
 
