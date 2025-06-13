@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|23.237.210.82|80|United States|Houston|FDCservers.net|
-|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|23.237.210.82|80|United States|Houston|FDCservers.net|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |7|23.237.210.82|80|United States|Houston|FDCservers.net|
 |8|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
 |9|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|181.78.19.142|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|12|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|13|159.69.147.14|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|14|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|193.30.13.186|8080|Ecuador|Guayaquil|GEDATECU SA|
-|18|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|19|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|20|27.79.130.142|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|181.78.19.142|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|11|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|12|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|15|5.8.34.16|8080|The Netherlands|Haarlem|G-Core Labs S.A.|
+|16|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|17|95.111.229.159|8080|France|Lauterbourg|Contabo GmbH|
+|18|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
+|19|201.150.116.3|999|Mexico|Mineral de la Reforma|Yesenia Ramirez Garcia|
+|20|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
 
 
 
