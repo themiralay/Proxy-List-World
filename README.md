@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|52.194.87.84|8080|Japan|Tokyo|Amazon Technologies Inc.|
-|2|14.247.254.20|8080|Vietnam|Hanoi|VNPT|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|103.162.62.127|8080|Indonesia|Srandakan|PT Ring Media Nusantara|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|103.132.53.23|8080|Indonesia|Sambelia|PT Adeaksa Indo Jayatama|
-|10|113.192.12.102|8080|Indonesia|Jakarta|PT Parsaoran Global Datatrans|
-|11|23.237.210.82|80|United States|Houston|FDCservers.net|
-|12|189.232.72.95|8080|Mexico|Atotonilco de Tula|Uninet S.A. de C.V.|
-|13|223.205.27.209|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|15|34.55.224.190|8080|United States|Council Bluffs|Google LLC|
-|16|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|17|23.237.210.82|80|United States|Houston|FDCservers.net|
-|18|201.152.176.187|8080|Mexico|San Luis Potosí City|UNINET|
-|19|3.14.244.221|8080|United States|Dublin|Amazon.com, Inc.|
-|20|38.211.24.98|8080|Indonesia|Bandung|PT Putra Garsel Interkoneksi|
+|2|150.40.177.13|8080|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
+|3|14.247.254.20|8080|Vietnam|Hanoi|VNPT|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|103.162.62.127|8080|Indonesia|Srandakan|PT Ring Media Nusantara|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|113.192.12.102|8080|Indonesia|Jakarta|PT Parsaoran Global Datatrans|
+|8|124.121.122.85|8080|Thailand|Bangkok|TRUEBB|
+|9|189.232.72.95|8080|Mexico|Atotonilco de Tula|Uninet S.A. de C.V.|
+|10|3.14.244.221|8080|United States|Dublin|Amazon.com, Inc.|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
+|13|34.55.224.190|8080|United States|Council Bluffs|Google LLC|
+|14|175.140.5.31|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|15|123.25.146.98|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|16|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
+|17|103.177.103.43|8080|Indonesia|Mangkutana|PT Hasya Mitra Komunika|
+|18|3.14.244.221|8080|United States|Dublin|Amazon.com, Inc.|
+|19|181.78.19.142|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|20|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
 
 
 
