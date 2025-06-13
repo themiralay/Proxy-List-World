@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|43.163.126.253|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |2|124.156.197.57|80|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|3|43.199.247.60|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|18.166.250.186|3128|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|9|189.222.42.102|80|Mexico|Tijuana|Uninet S.A. de C.V.|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|52.73.147.181|80|United States|Ashburn|Amazon.com, Inc.|
-|12|182.253.109.235|8080|Indonesia|Semarang|Biznet Metronet|
-|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|14|54.164.8.117|80|United States|Ashburn|Amazon.com, Inc.|
+|5|18.166.250.186|3128|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|6|14.247.254.20|8080|Vietnam|Hanoi|VNPT|
+|7|43.199.247.60|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|10|202.162.195.146|80|Indonesia|Medan|PT. Media Antar Nusa|
+|11|54.209.173.163|80|United States|Ashburn|Amazon.com, Inc.|
+|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|13|189.222.42.102|80|Mexico|Tijuana|Uninet S.A. de C.V.|
+|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |15|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
 |16|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|17|3.110.176.45|80|India|Mumbai|Amazon Technologies Inc.|
-|18|54.164.8.117|80|United States|Ashburn|Amazon.com, Inc.|
-|19|52.73.147.181|80|United States|Ashburn|Amazon.com, Inc.|
-|20|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
+|17|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
+|18|54.209.173.163|80|United States|Ashburn|Amazon.com, Inc.|
+|19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
