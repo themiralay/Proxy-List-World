@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|67|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|67|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|67|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|6|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|23.237.210.82|80|United States|Houston|FDCservers.net|
-|9|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|66.94.123.220|3128|United States|Seattle|Nubes, LLC|
-|12|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
-|13|66.94.123.220|3128|United States|Seattle|Nubes, LLC|
-|14|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|15|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|16|23.237.210.82|80|United States|Houston|FDCservers.net|
-|17|114.236.137.41|22000|China|Nanjing|Chinanet|
-|18|27.79.129.43|1001|Vietnam|Hanoi|Viettel Corporation|
-|19|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|20|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|2|27.79.134.226|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|7|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|27.79.210.214|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|23.237.210.82|80|United States|Houston|FDCservers.net|
+|12|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
+|13|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|14|41.216.190.237|8080|Indonesia|Kecamatan Kalimanah|Perwira|
+|15|5.8.34.16|8080|The Netherlands|Haarlem|G-Core Labs S.A.|
+|16|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|17|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|18|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|19|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|20|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
 
 
 
