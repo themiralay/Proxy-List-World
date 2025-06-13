@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|54.250.76.76|3128|Japan|Tokyo|Amazon.com, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
-|8|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|9|181.78.19.142|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|2|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|5|189.240.60.162|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|6|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|7|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|8|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|9|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
 |10|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
-|11|78.46.126.141|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|14|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|15|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|16|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|17|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
+|11|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|14|181.78.19.142|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|15|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|16|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
+|17|78.46.126.141|3128|Germany|Nuremberg|Hetzner Online GmbH|
 |18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|19|68.183.179.119|8888|Singapore|Singapore|DigitalOcean, LLC|
-|20|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|193.95.53.131|8077|Tunisia|Tunis|3S INF|
 
 
 
