@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|8|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|103.215.218.56|8080|Türkiye|Istanbul|G-Core Labs S.A.|
-|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|12|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|13|23.237.210.82|80|United States|Houston|FDCservers.net|
-|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|15|45.224.149.99|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|16|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
-|17|161.34.66.94|4649|Japan|Minamishinagawa|NTT PC Communications, Inc.|
-|18|5.8.34.16|8080|The Netherlands|Haarlem|G-Core Labs S.A.|
-|19|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
-|20|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|27.79.165.213|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|23.237.210.82|80|United States|Houston|FDCservers.net|
+|11|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|12|195.231.68.213|3128|Italy|Ponte San Pietro|Aruba S.p.A.|
+|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|14|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|16|161.34.66.94|4649|Japan|Minamishinagawa|NTT PC Communications, Inc.|
+|17|5.8.34.16|8080|The Netherlands|Haarlem|G-Core Labs S.A.|
+|18|189.240.60.162|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|19|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|20|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
 
 
 
