@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3855** proxies at the latest update. Usable proxies are below.
+> Scraper found **3817** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|566|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|528|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|67|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|171.228.91.113|10010|Vietnam|Hanoi|Viettel Corporation|
-|8|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|9|115.77.136.221|10005|Vietnam|Ho Chi Minh City|Viettel Group|
+|1|115.77.136.221|10005|Vietnam|Ho Chi Minh City|Viettel Group|
+|2|171.228.91.113|10009|Vietnam|Hanoi|Viettel Corporation|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
 |10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|11|23.237.210.82|80|United States|Houston|FDCservers.net|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|113.192.31.199|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|14|187.84.176.20|8080|Brazil|Brasília|Allrede Telecom Ltda|
-|15|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
-|16|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|17|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|18|189.240.60.162|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|19|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|20|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|11|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|12|23.237.210.82|80|United States|Houston|FDCservers.net|
+|13|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|14|195.231.68.213|3128|Italy|Ponte San Pietro|Aruba S.p.A.|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|195.133.59.214|8888|The Netherlands|Amsterdam|Iron Hosting Centre LTD|
+|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|18|27.79.144.241|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|20|103.81.194.162|8080|Indonesia|Bogor|PT Rtiga Global Media|
 
 
 
