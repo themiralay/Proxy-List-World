@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3827** proxies at the latest update. Usable proxies are below.
+> Scraper found **3855** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|538|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|566|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|67|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.227.61.201|3128|Japan|Chiyoda|InfoSphere|
 |2|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|23.237.210.82|80|United States|Houston|FDCservers.net|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|23.237.210.82|80|United States|Houston|FDCservers.net|
-|8|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|3|23.237.210.82|80|United States|Houston|FDCservers.net|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|23.237.210.82|80|United States|Houston|FDCservers.net|
+|7|171.228.91.113|10003|Vietnam|Hanoi|Viettel Corporation|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|12|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|13|38.54.27.211|80|Bulgaria|Sofia|Kaopu Cloud HK Limited|
-|14|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|16|192.140.93.6|3128|Ecuador|Esmeraldas|Kolvech S.A.|
-|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|20|171.228.91.113|10010|Vietnam|Hanoi|Viettel Corporation|
+|10|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|11|195.231.68.213|3128|Italy|Ponte San Pietro|Aruba S.p.A.|
+|12|115.77.132.22|10007|Vietnam|Ho Chi Minh City|Viettel Group|
+|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|14|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|15|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|5.8.34.16|8080|The Netherlands|Haarlem|G-Core Labs S.A.|
+|18|37.27.63.151|52614|Finland|Helsinki|Hetzner Online GmbH|
+|19|38.54.27.211|80|Bulgaria|Sofia|Kaopu Cloud HK Limited|
+|20|115.72.15.211|10007|Vietnam|Vũng Tàu|VIETELmetro|
 
 
 
