@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|69|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|69|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|69|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|1|171.228.66.219|10001|Vietnam|Hanoi|Viettel Corporation|
 |2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |4|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|7|27.79.208.89|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|195.231.68.213|3128|Italy|Ponte San Pietro|Aruba S.p.A.|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|152.53.66.81|3128|Austria|Vienna|netcup GmbH|
 |9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|10|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|11|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|18.162.179.102|3128|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|14|18.166.250.186|3128|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|15|85.206.93.105|8080|Lithuania|Vilnius|Telia Lietuva|
+|10|38.54.27.211|80|Bulgaria|Sofia|Kaopu Cloud HK Limited|
+|11|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|13|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|15|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
 |16|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|17|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|19|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|20|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
+|17|171.228.66.219|10001|Vietnam|Hanoi|Viettel Corporation|
+|18|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|19|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
+|20|103.141.150.147|8080|Indonesia|Ciputat|PRIMACOM|
 
 
 
