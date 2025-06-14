@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|61|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|61|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|61|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|4|122.3.41.154|8090|Philippines|Taguig|Philippine Long Distance Telephone Co.|
 |5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|38.54.27.211|80|Bulgaria|Sofia|Kaopu Cloud HK Limited|
-|8|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|9|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|10|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|11|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|12|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|13|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|14|189.240.60.162|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|15|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|16|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|17|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
-|18|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|20|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|8|115.72.40.185|10004|Vietnam|Ho Chi Minh City|VIETELmetro|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|171.233.225.20|4129|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|11|38.54.27.211|80|Bulgaria|Sofia|Kaopu Cloud HK Limited|
+|12|202.162.195.146|80|Indonesia|Medan|PT. Media Antar Nusa|
+|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|14|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|15|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|16|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|18|27.71.135.248|16000|Vietnam|Hanoi|Viettel Group|
+|19|59.47.238.4|8088|China|Benxi|CHINATELECOM Liaoning Benxi MAN|
+|20|23.237.210.82|80|United States|Houston|FDCservers.net|
 
 
 
