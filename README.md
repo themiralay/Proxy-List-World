@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|171.232.177.135|10009|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|171.228.91.113|10003|Vietnam|Hanoi|Viettel Corporation|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|115.72.166.194|10004|Vietnam|Ho Chi Minh City|VIETELmetro|
-|8|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|7|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|8|171.232.177.135|10009|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |11|86.104.74.59|3128|France|Paris|PQ HOSTING PLUS S.R.L.|
-|12|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|195.231.68.213|3128|Italy|Ponte San Pietro|Aruba S.p.A.|
 |13|192.140.93.6|3128|Ecuador|Esmeraldas|Kolvech S.A.|
-|14|38.54.27.211|80|Bulgaria|Sofia|Kaopu Cloud HK Limited|
-|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|171.228.91.113|10001|Vietnam|Hanoi|Viettel Corporation|
-|18|171.228.91.113|10001|Vietnam|Hanoi|Viettel Corporation|
-|19|107.150.37.85|1723|United States|Kansas City|Nocix, LLC|
-|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|15|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|16|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|17|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|18|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|19|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|20|189.240.60.162|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
 
 
 
