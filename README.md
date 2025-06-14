@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3784** proxies at the latest update. Usable proxies are below.
+> Scraper found **3820** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|520|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|556|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|42|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
-|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|23.237.210.82|80|United States|Houston|FDCservers.net|
 |4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|23.237.210.82|80|United States|Houston|FDCservers.net|
-|6|27.79.172.59|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
-|9|23.237.210.82|80|United States|Houston|FDCservers.net|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|12|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
-|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|14|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|15|27.79.131.48|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|5.8.34.16|8080|The Netherlands|Haarlem|G-Core Labs S.A.|
-|17|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
-|18|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
-|19|23.237.210.82|80|United States|Houston|FDCservers.net|
-|20|27.71.129.109|16000|Vietnam|Hanoi|Viettel Group|
+|5|171.228.66.219|10001|Vietnam|Hanoi|Viettel Corporation|
+|6|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
+|7|27.71.129.109|16000|Vietnam|Hanoi|Viettel Group|
+|8|23.237.210.82|80|United States|Houston|FDCservers.net|
+|9|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|10|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
+|11|38.54.27.211|80|Bulgaria|Sofia|Kaopu Cloud HK Limited|
+|12|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|13|95.0.100.44|8085|Türkiye|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|14|171.250.22.77|10004|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|15|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|17|85.206.93.105|8080|Lithuania|Vilnius|Telia Lietuva|
+|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|23.237.210.82|80|United States|Houston|FDCservers.net|
 
 
 
