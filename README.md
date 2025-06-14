@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|67|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|67|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|67|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|62|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|62|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|62|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.107.167.88|10002|Vietnam|Hanoi|Viettel Corporation|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|2|115.77.249.206|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|7|171.228.91.113|10009|Vietnam|Hanoi|Viettel Corporation|
-|8|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|10|195.133.59.214|8888|The Netherlands|Amsterdam|Iron Hosting Centre LTD|
-|11|170.106.83.149|13001|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
-|12|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|13|38.54.27.211|80|Bulgaria|Sofia|Kaopu Cloud HK Limited|
-|14|23.237.210.82|80|United States|Houston|FDCservers.net|
+|6|115.72.5.147|10005|Vietnam|Vũng Tàu|VIETELmetro|
+|7|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|8|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|9|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|11|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|12|171.228.91.113|10009|Vietnam|Hanoi|Viettel Corporation|
+|13|38.51.235.216|999|Colombia|Buesaco|SP SISTEMAS PALACIOS LTDA|
+|14|38.54.27.211|80|Bulgaria|Sofia|Kaopu Cloud HK Limited|
 |15|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|18|129.151.130.247|1111|United Arab Emirates|Masdar City|Oracle Corporation|
-|19|115.72.5.147|10005|Vietnam|Vũng Tàu|VIETELmetro|
-|20|171.228.91.113|10009|Vietnam|Hanoi|Viettel Corporation|
+|16|171.228.91.113|10009|Vietnam|Hanoi|Viettel Corporation|
+|17|115.72.5.147|10005|Vietnam|Vũng Tàu|VIETELmetro|
+|18|103.81.175.218|28022|Bangladesh|Chittagong|ADN Telecom Ltd.|
+|19|171.228.91.113|10009|Vietnam|Hanoi|Viettel Corporation|
+|20|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 
 
 
