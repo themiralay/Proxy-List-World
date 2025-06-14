@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|171.228.91.113|10010|Vietnam|Hanoi|Viettel Corporation|
-|6|27.79.196.179|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|27.79.165.213|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|10|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|11|5.8.34.16|8080|The Netherlands|Haarlem|G-Core Labs S.A.|
-|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|13|195.133.59.214|8888|The Netherlands|Amsterdam|Iron Hosting Centre LTD|
-|14|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
-|15|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|16|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|17|27.79.219.6|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|27.79.226.17|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|27.79.196.179|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|13|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|14|195.133.59.214|8888|The Netherlands|Amsterdam|Iron Hosting Centre LTD|
+|15|115.72.166.194|10004|Vietnam|Ho Chi Minh City|VIETELmetro|
+|16|93.190.138.107|46182|The Netherlands|Naaldwijk|WorldStream B.V.|
+|17|38.54.27.211|80|Bulgaria|Sofia|Kaopu Cloud HK Limited|
 |18|23.237.210.82|80|United States|Houston|FDCservers.net|
-|19|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|20|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|19|171.228.91.113|10003|Vietnam|Hanoi|Viettel Corporation|
+|20|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 
 
 
