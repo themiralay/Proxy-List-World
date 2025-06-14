@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|63|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|63|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|63|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|195.231.68.213|3128|Italy|Ponte San Pietro|Aruba S.p.A.|
-|10|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|11|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|12|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|13|194.4.57.199|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
-|14|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|15|189.240.60.162|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|16|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|17|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|18|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|19|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|20|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|125.26.4.219|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|8|177.234.217.42|999|Ecuador|Quito|Ufinet Panama S.A.|
+|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|10|38.54.27.211|80|Bulgaria|Sofia|Kaopu Cloud HK Limited|
+|11|23.237.210.82|80|United States|Houston|FDCservers.net|
+|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|13|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|14|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|15|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|16|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|17|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|18|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|19|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|20|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
 
 
 
