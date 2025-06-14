@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|56|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|56|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|56|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|59|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|59|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|59|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|1|171.228.66.219|10009|Vietnam|Hanoi|Viettel Corporation|
 |2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|3|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|5|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|6|23.237.210.82|80|United States|Houston|FDCservers.net|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
-|10|38.54.27.211|80|Bulgaria|Sofia|Kaopu Cloud HK Limited|
-|11|160.248.189.96|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
-|12|27.71.129.109|16000|Vietnam|Hanoi|Viettel Group|
-|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|14|186.151.95.58|999|Guatemala|Guatemala City|TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
-|15|171.228.66.219|10009|Vietnam|Hanoi|Viettel Corporation|
-|16|23.237.210.82|80|United States|Houston|FDCservers.net|
-|17|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
-|18|118.68.118.11|20134|Vietnam|Hanoi|FPT Telecom Company|
-|19|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|20|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|8|23.237.210.82|80|United States|Houston|FDCservers.net|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
+|11|38.54.27.211|80|Bulgaria|Sofia|Kaopu Cloud HK Limited|
+|12|164.163.40.16|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|164.163.40.90|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|181.205.161.187|999|Colombia|Medellín|Colombia Móvil|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|18|160.248.189.96|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|171.228.66.219|10009|Vietnam|Hanoi|Viettel Corporation|
+|20|23.237.210.82|80|United States|Houston|FDCservers.net|
 
 
 
