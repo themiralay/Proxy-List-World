@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|171.228.66.219|10001|Vietnam|Hanoi|Viettel Corporation|
-|7|124.156.197.57|80|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|13|43.163.126.253|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|5.8.34.16|8080|The Netherlands|Haarlem|G-Core Labs S.A.|
-|15|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|16|38.54.27.211|80|Bulgaria|Sofia|Kaopu Cloud HK Limited|
-|17|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
-|18|139.59.34.209|8080|India|Bengaluru|DigitalOcean, LLC|
-|19|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|20|195.231.68.213|3128|Italy|Ponte San Pietro|Aruba S.p.A.|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|27.79.213.94|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|43.163.126.253|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|13|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|14|139.59.34.209|8080|India|Bengaluru|DigitalOcean, LLC|
+|15|38.54.27.211|80|Bulgaria|Sofia|Kaopu Cloud HK Limited|
+|16|103.126.86.122|8080|Indonesia|Ungaran|PT. Rasi Bintang Perkasa|
+|17|37.27.63.151|39669|Finland|Helsinki|Hetzner Online GmbH|
+|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|124.156.197.57|80|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|20|23.237.210.82|80|United States|Houston|FDCservers.net|
 
 
 
