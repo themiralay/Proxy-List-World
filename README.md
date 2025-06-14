@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|58|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|58|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|58|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|56|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|56|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|56|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
+|1|171.233.225.20|4129|Vietnam|Ho Chi Minh City|Viettel Corporation|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|3|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|5|122.3.41.154|8090|Philippines|Taguig|Philippine Long Distance Telephone Co.|
 |6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|171.233.225.20|4129|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|8|203.177.215.34|8080|Philippines|Antipolo City|EDS|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|27.71.134.174|16000|Vietnam|Hanoi|Viettel Group|
-|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|15|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|38.54.27.211|80|Bulgaria|Sofia|Kaopu Cloud HK Limited|
+|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|10|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|11|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|14|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
+|15|101.33.79.228|3128|South Korea|Seoul|Aceville Pte.ltd|
 |16|201.150.116.32|999|Mexico|Mineral de la Reforma|Yesenia Ramirez Garcia|
-|17|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
-|18|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|19|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|20|197.248.98.55|8080|Kenya|Nairobi|Safaricom Limited|
+|17|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|18|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|19|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|20|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
 
 
 
