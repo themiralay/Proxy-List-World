@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
 |2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|8|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|9|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|10|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|11|5.8.34.16|8080|The Netherlands|Haarlem|G-Core Labs S.A.|
-|12|38.54.27.211|80|Bulgaria|Sofia|Kaopu Cloud HK Limited|
-|13|188.132.249.40|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|14|23.237.210.82|80|United States|Houston|FDCservers.net|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|154.208.48.166|8080|Pakistan|Lahore|IN CABLE INTERNET PRIVATE LIMITED|
-|17|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|18|23.237.210.82|80|United States|Houston|FDCservers.net|
-|19|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|20|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|6|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|9|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
+|10|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|12|23.237.210.82|80|United States|Houston|FDCservers.net|
+|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|14|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|16|23.237.210.82|80|United States|Houston|FDCservers.net|
+|17|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|18|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|19|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|20|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
 
 
 
