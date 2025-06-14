@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|58|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|58|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|58|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|62|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|62|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|62|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|43.163.126.253|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|171.228.66.219|10003|Vietnam|Hanoi|Viettel Corporation|
-|8|124.156.197.57|80|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|9|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|13|5.8.34.16|8080|The Netherlands|Haarlem|G-Core Labs S.A.|
-|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|15|54.179.159.94|3128|Singapore|Singapore|Amazon.com, Inc.|
-|16|160.248.189.97|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
-|17|181.49.177.198|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|18|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|19|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
-|20|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|1|124.156.197.57|80|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|6|171.228.66.219|10009|Vietnam|Hanoi|Viettel Corporation|
+|7|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|8|43.163.126.253|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|11|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|15|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|16|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|17|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|18|85.206.93.105|8080|Lithuania|Vilnius|Telia Lietuva|
+|19|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|20|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
 
 
 
