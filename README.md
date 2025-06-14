@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|150.40.177.13|8080|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
-|2|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
-|3|18.166.250.186|3128|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|43.163.126.253|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|124.156.197.57|80|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
-|10|171.228.66.219|10001|Vietnam|Hanoi|Viettel Corporation|
-|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|12|20.127.145.35|3128|United States|Boydton|Microsoft Corporation|
-|13|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|14|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|17|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
-|20|103.106.34.49|4995|Bangladesh|Nārāyanganj|ProgotiIT|
+|1|18.166.250.186|3128|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|2|43.163.126.253|80|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|171.228.66.219|10001|Vietnam|Hanoi|Viettel Corporation|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|27.71.128.40|16000|Vietnam|Hanoi|Viettel Group|
+|6|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|7|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|8|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|9|189.240.60.162|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|35.161.144.174|80|United States|Portland|Amazon.com, Inc.|
+|12|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|13|27.79.170.144|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|27.71.130.51|16000|Vietnam|Đưc Trọng|Viettel Group|
+|15|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|16|124.156.197.57|80|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
+|17|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|18|27.71.135.248|16000|Vietnam|Hanoi|Viettel Group|
+|19|35.161.144.174|80|United States|Portland|Amazon.com, Inc.|
+|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
