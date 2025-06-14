@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3880** proxies at the latest update. Usable proxies are below.
+> Scraper found **3843** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|591|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|556|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|67|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|65|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|5|27.79.140.205|16000|Vietnam|Hanoi|Viettel Corporation|
 |6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|8|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|9|195.231.68.213|3128|Italy|Ponte San Pietro|Aruba S.p.A.|
-|10|195.133.59.214|8888|The Netherlands|Amsterdam|Iron Hosting Centre LTD|
-|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|12|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|195.231.68.213|3128|Italy|Ponte San Pietro|Aruba S.p.A.|
+|8|103.215.218.122|8080|Türkiye|Istanbul|G-Core Labs S.A.|
+|9|103.215.218.56|8080|Türkiye|Istanbul|G-Core Labs S.A.|
+|10|27.79.144.241|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|195.133.59.214|8888|The Netherlands|Amsterdam|Iron Hosting Centre LTD|
+|12|5.8.34.16|8080|The Netherlands|Haarlem|G-Core Labs S.A.|
+|13|209.121.164.51|31147|Canada|Burnaby|TELUS Communications Inc.|
 |14|38.54.27.211|80|Bulgaria|Sofia|Kaopu Cloud HK Limited|
-|15|37.27.63.151|52614|Finland|Helsinki|Hetzner Online GmbH|
-|16|95.164.0.177|36352|Poland|Warsaw|PQ HOSTING PLUS S.R.L.|
-|17|103.210.22.17|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|18|23.237.210.82|80|United States|Houston|FDCservers.net|
-|19|85.206.93.105|8080|Lithuania|Vilnius|Telia Lietuva|
-|20|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|15|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|16|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|17|171.228.91.113|10009|Vietnam|Hanoi|Viettel Corporation|
+|18|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|19|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|20|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
 
 
 
