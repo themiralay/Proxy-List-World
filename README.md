@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.67.48|4649|Japan|Minamishinagawa|NTT PC Communications, Inc.|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|123.26.132.171|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
-|12|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|13|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
-|15|27.79.226.17|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|124.105.24.80|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|23.237.210.82|80|United States|Houston|FDCservers.net|
-|19|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|20|181.78.19.138|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|43.199.241.78|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|9|123.26.132.171|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|10|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|13|38.54.27.211|80|Bulgaria|Sofia|Kaopu Cloud HK Limited|
+|14|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|15|195.231.68.213|3128|Italy|Ponte San Pietro|Aruba S.p.A.|
+|16|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|17|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|18|173.212.237.47|3128|France|Lauterbourg|Contabo GmbH|
+|19|213.226.119.120|4857|Turkey|Istanbul|Mehmet Selim Sahin|
+|20|103.141.109.204|2023|Indonesia|Blitar|Data Buana Nusantara|
 
 
 
