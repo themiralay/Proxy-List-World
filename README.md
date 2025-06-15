@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|123.26.132.171|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|103.172.23.34|1080|Indonesia|Batang|PT Tujuhlangit Lintas Nusantara|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|195.231.68.213|3128|Italy|Ponte San Pietro|Aruba S.p.A.|
-|16|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|17|38.54.27.211|80|Bulgaria|Sofia|Kaopu Cloud HK Limited|
-|18|43.165.67.241|8080|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
+|3|123.26.132.171|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|195.231.68.213|3128|Italy|Ponte San Pietro|Aruba S.p.A.|
+|12|27.79.169.195|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|15|194.4.57.199|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|16|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|17|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|18|27.79.172.225|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|23.237.210.82|80|United States|Houston|FDCservers.net|
+|20|82.103.94.190|8080|Bulgaria|Varna|Spectrum NET|
 
 
 
