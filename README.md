@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|2|161.34.67.48|4649|Japan|Minamishinagawa|NTT PC Communications, Inc.|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|27.79.129.43|1001|Vietnam|Hanoi|Viettel Corporation|
-|5|103.57.38.30|8080|Indonesia|Bandung|PT. Cemerlang Multimedia|
+|1|161.34.67.48|4649|Japan|Minamishinagawa|NTT PC Communications, Inc.|
+|2|50.116.1.34|3128|United States|Fremont|Akamai Technologies, Inc.|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|5|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |6|123.26.132.171|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|9|23.237.210.82|80|United States|Houston|FDCservers.net|
-|10|23.237.210.82|80|United States|Houston|FDCservers.net|
-|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|12|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|14|195.231.68.213|3128|Italy|Ponte San Pietro|Aruba S.p.A.|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|50.116.1.34|3128|United States|Fremont|Akamai Technologies, Inc.|
+|9|195.231.68.213|3128|Italy|Ponte San Pietro|Aruba S.p.A.|
+|10|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|11|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|12|38.54.27.211|80|Bulgaria|Sofia|Kaopu Cloud HK Limited|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|51.158.105.94|31826|France|Paris|SCALEWAY|
 |15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|17|171.237.236.104|1004|Vietnam|Hanoi|Viettel Corporation|
+|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|19|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|20|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
 
 
 
