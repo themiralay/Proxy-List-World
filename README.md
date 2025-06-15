@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.248.189.95|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
-|3|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
-|4|123.26.132.171|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|23.237.210.82|80|United States|Houston|FDCservers.net|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|12|23.237.210.82|80|United States|Houston|FDCservers.net|
-|13|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|15|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|80.79.6.124|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
-|19|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
-|20|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|2|123.26.132.171|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|3|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|23.237.210.82|80|United States|Houston|FDCservers.net|
+|7|52.187.118.181|3128|Singapore|Singapore|Microsoft Corporation|
+|8|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|10|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|13|77.110.124.226|8090|United States|Charlotte|Aeza International LTD|
+|14|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|15|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|16|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|17|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|18|23.237.210.82|80|United States|Houston|FDCservers.net|
+|19|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
