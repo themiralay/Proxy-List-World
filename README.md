@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|2|123.26.132.171|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|27.79.169.195|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|27.79.184.54|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|1|123.26.132.171|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|3|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|110.139.21.148|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|27.79.184.54|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
 |10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|11|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|12|179.49.237.102|999|Chile|Santiago|Sitelco SPA|
-|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|27.79.221.160|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|65.20.250.23|8080|Iraq|Karbala|Hulum|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
-|20|38.54.27.211|80|Bulgaria|Sofia|Kaopu Cloud HK Limited|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|43.165.67.241|8080|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
+|13|195.231.68.213|3128|Italy|Ponte San Pietro|Aruba S.p.A.|
+|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|16|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|17|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|18|187.245.214.11|999|Mexico|Comitán|Mega Cable, S.A. de C.V.|
+|19|38.54.27.211|80|Bulgaria|Sofia|Kaopu Cloud HK Limited|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
