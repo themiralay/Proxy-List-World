@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|123.26.132.171|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|6|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|2|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|3|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|4|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|5|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |7|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|8|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|9|43.165.67.241|8080|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
 |10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|189.240.60.162|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|38.54.27.211|80|Bulgaria|Sofia|Kaopu Cloud HK Limited|
-|15|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|16|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|17|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|18|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
-|19|181.78.19.142|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|20|181.78.19.142|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|12|189.240.60.162|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|13|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|15|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|16|27.79.194.219|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|181.78.19.142|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|18|181.78.19.142|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|19|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|20|103.169.128.133|8080|Indonesia|Cirebon|PT Media Akses Data|
 
 
 
