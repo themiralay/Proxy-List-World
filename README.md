@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|119|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|633|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|120|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|632|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|114|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|3|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|123.26.132.171|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|12|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|14|23.237.210.82|80|United States|Houston|FDCservers.net|
-|15|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|17|23.237.210.82|80|United States|Houston|FDCservers.net|
-|18|195.231.68.213|3128|Italy|Ponte San Pietro|Aruba S.p.A.|
-|19|103.158.62.186|8088|Bangladesh|Sylhet|SEARCH IT|
-|20|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|1|123.26.132.171|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|2|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|3|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|4|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|5|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|6|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|7|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|189.240.60.162|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|13|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|18|18.101.48.176|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|19|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|20|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
 
 
 
