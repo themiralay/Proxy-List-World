@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.67.48|4649|Japan|Minamishinagawa|NTT PC Communications, Inc.|
-|2|123.26.132.171|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |4|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
-|5|160.19.19.35|8080|Indonesia|Ploso|PT Indo Telemedia Solusi|
-|6|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|5|27.79.129.43|1001|Vietnam|Hanoi|Viettel Corporation|
+|6|123.26.132.171|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|7|124.121.122.85|8080|Thailand|Bangkok|TRUEBB|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|11|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|12|189.240.60.162|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|13|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|14|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|16|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|18|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|19|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|12|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|13|23.237.210.82|80|United States|Houston|FDCservers.net|
+|14|23.237.210.82|80|United States|Houston|FDCservers.net|
+|15|43.165.67.241|8080|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
+|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|17|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|18|3.84.101.202|3128|United States|Ashburn|Amazon Technologies Inc.|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|3.84.101.202|3128|United States|Ashburn|Amazon Technologies Inc.|
 
 
 
