@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|123.26.132.171|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|1|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|123.26.132.171|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |5|43.165.67.241|8080|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
 |6|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|7|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|10|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|11|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|12|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|13|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|14|189.240.60.162|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|15|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|16|38.54.27.211|80|Bulgaria|Sofia|Kaopu Cloud HK Limited|
-|17|23.237.210.82|80|United States|Houston|FDCservers.net|
-|18|170.78.210.123|999|Mexico|Polotitlán de la Ilustración|Wantelco SAS de CV|
-|19|182.253.109.188|8080|Indonesia|Semarang|Biznet Metronet|
+|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|10|38.54.27.211|80|Bulgaria|Sofia|Kaopu Cloud HK Limited|
+|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|12|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|13|23.237.210.82|80|United States|Houston|FDCservers.net|
+|14|182.253.109.188|8080|Indonesia|Semarang|Biznet Metronet|
+|15|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|16|45.136.198.40|3128|Bulgaria|Sofia|Managed by IROKO Networks|
+|17|179.61.154.26|8050|Brazil|São Paulo|Hostzone Tecnologia LTDA|
+|18|59.47.238.4|8088|China|Benxi|CHINATELECOM Liaoning Benxi MAN|
+|19|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
 |20|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 
 
