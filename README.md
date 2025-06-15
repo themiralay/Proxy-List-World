@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|123.26.132.171|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|6|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|7|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|8|213.136.72.147|3128|France|Lauterbourg|Contabo GmbH|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|11|27.79.165.213|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|13|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|14|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|15|164.163.40.16|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|38.54.27.211|80|Bulgaria|Sofia|Kaopu Cloud HK Limited|
-|17|27.79.194.219|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|2|123.26.132.171|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|3|171.237.85.218|1009|Vietnam|Hanoi|Viettel Corporation|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|7|27.79.194.219|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|12|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|14|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|15|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|16|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|17|213.136.72.147|3128|France|Lauterbourg|Contabo GmbH|
+|18|41.203.76.166|8080|Nigeria|Kosofe|GLO|
 |19|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|20|195.231.68.213|3128|Italy|Ponte San Pietro|Aruba S.p.A.|
+|20|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
 
 
 
