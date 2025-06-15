@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|123.26.132.171|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
 |2|182.253.109.188|8080|Indonesia|Semarang|Biznet Metronet|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|23.237.210.82|80|United States|Houston|FDCservers.net|
-|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|8|181.78.19.142|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|9|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|10|181.78.19.138|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|13|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|14|38.54.27.211|80|Bulgaria|Sofia|Kaopu Cloud HK Limited|
-|15|182.191.94.188|80|Pakistan|Rawalpindi|Pakistan Telecommuication company limited|
-|16|103.81.194.126|8080|Indonesia|Bogor|PT Rtiga Global Media|
-|17|23.237.210.82|80|United States|Houston|FDCservers.net|
-|18|91.92.136.132|8889|Bulgaria|Sofia|Belcloud LTD|
-|19|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|20|23.237.210.82|80|United States|Houston|FDCservers.net|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|181.78.19.138|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|5|181.78.19.142|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|6|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|164.163.42.36|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|10|164.163.42.17|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|164.163.40.16|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|23.237.210.82|80|United States|Houston|FDCservers.net|
+|13|38.54.27.211|80|Bulgaria|Sofia|Kaopu Cloud HK Limited|
+|14|136.52.10.221|8888|United States|Irvine|Google Fiber Inc.|
+|15|23.237.210.82|80|United States|Houston|FDCservers.net|
+|16|27.79.169.195|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|181.78.19.138|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|18|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|19|181.78.19.138|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|20|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
 
 
 
