@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
 |2|161.34.67.48|4649|Japan|Minamishinagawa|NTT PC Communications, Inc.|
 |3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|123.26.132.171|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|4|123.26.132.171|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|43.165.67.241|8080|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|11|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|12|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|13|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|14|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|15|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|16|189.240.60.162|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|103.42.118.29|8080|Indonesia|Batam|PT Kusuma Dinatha Jaya Abadi|
+|12|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|13|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|14|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|15|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |17|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|18|43.165.67.241|8080|United States|Ashburn|Shenzhen Tencent Computer Systems Company Limited|
-|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|20|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|18|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|19|189.240.60.162|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|20|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
 
 
 
