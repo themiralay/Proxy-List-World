@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|5.161.143.206|1080|United States|Ashburn|Hetzner Online GmbH|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|5.161.143.206|1080|United States|Ashburn|Hetzner Online GmbH|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|195.231.68.213|3128|Italy|Ponte San Pietro|Aruba S.p.A.|
-|12|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
-|13|23.237.210.82|80|United States|Houston|FDCservers.net|
-|14|23.237.210.82|80|United States|Houston|FDCservers.net|
-|15|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|16|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|17|181.78.19.142|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|18|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|19|52.194.87.84|8080|Japan|Tokyo|Amazon Technologies Inc.|
-|20|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|1|123.26.132.171|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|3|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|4|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|5|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|6|189.240.60.162|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|12|195.231.68.213|3128|Italy|Ponte San Pietro|Aruba S.p.A.|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|5.161.143.206|1080|United States|Ashburn|Hetzner Online GmbH|
+|15|194.181.46.87|80|Poland|Warsaw|Naukowa I Akademicka Siec Komputerowa Instytut Badawczy|
+|16|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|17|93.190.138.107|46182|The Netherlands|Naaldwijk|WorldStream B.V.|
+|18|194.181.46.84|80|Poland|Warsaw|Naukowa I Akademicka Siec Komputerowa Instytut Badawczy|
+|19|31.59.100.1|80|Switzerland|Geneva|Maceo Sahli|
+|20|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 
 
 
