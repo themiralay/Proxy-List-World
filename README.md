@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|3|171.237.96.170|1003|Vietnam|Ninh Bình|Viettel Corporation|
-|4|5.161.143.206|1080|United States|Ashburn|Hetzner Online GmbH|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|123.26.132.171|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|11|5.161.143.206|1080|United States|Ashburn|Hetzner Online GmbH|
-|12|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|18.101.68.107|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|118.70.170.125|31300|Vietnam|Hanoi|FPT Telecom Company|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|123.26.132.171|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|6|5.161.143.206|1080|United States|Ashburn|Hetzner Online GmbH|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|13|5.161.143.206|1080|United States|Ashburn|Hetzner Online GmbH|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |15|18.101.48.176|3128|Spain|Zaragoza|Amazon Technologies Inc.|
-|16|136.52.10.221|8888|United States|Irvine|Google Fiber Inc.|
-|17|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|18|193.29.224.33|3128|Finland|Helsinki|Aeza International LTD|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|18.101.60.67|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|16|18.101.68.107|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|19|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|20|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
 
 
 
