@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3647** proxies at the latest update. Usable proxies are below.
+> Scraper found **3525** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|72|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|72|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|72|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
 
 ## Sources
 
@@ -28,10 +28,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|125|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|542|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|539|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|58|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|64|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|123.26.132.171|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|43.134.66.41|8081|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|193.29.224.33|3128|Finland|Helsinki|Aeza International LTD|
-|15|164.163.42.46|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|164.163.42.4|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|164.163.42.19|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|164.163.40.90|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|20|200.71.111.26|999|Mexico|San Felipe Orizatlán|Digy Networks S.A De C.V.|
+|1|123.26.132.171|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|4|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|193.29.224.33|3128|Finland|Helsinki|Aeza International LTD|
+|7|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|8.215.31.146|1347|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|12|164.163.40.90|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|23.237.210.82|80|United States|Houston|FDCservers.net|
+|14|123.26.132.171|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|15|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
+|16|85.206.93.105|8080|Lithuania|Vilnius|Telia Lietuva|
+|17|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|18|181.78.19.138|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|19|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|20|181.78.19.142|9992|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
 
 
 
