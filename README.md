@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|2|52.194.87.84|8080|Japan|Tokyo|Amazon Technologies Inc.|
-|3|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|8|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
-|9|47.83.156.51|8118|Hong Kong|Hong Kong|Alibaba.com LLC|
-|10|123.26.132.171|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|15|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|16|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|17|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|18|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
+|3|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|123.26.132.171|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|8|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|11|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|12|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|13|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|14|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|16|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|17|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|18|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|18.101.68.107|3128|Spain|Zaragoza|Amazon Technologies Inc.|
 
 
 
