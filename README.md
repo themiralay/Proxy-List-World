@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|2|123.26.132.171|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|23.237.210.82|80|United States|Houston|FDCservers.net|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|10|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|23.237.210.82|80|United States|Houston|FDCservers.net|
-|14|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|15|189.240.60.164|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|16|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|17|43.134.66.41|8081|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|189.240.60.169|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|19|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|20|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
+|1|27.69.250.187|4003|Vietnam|Da Nang|Viettel Group|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|123.26.132.171|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|23.237.210.82|80|United States|Houston|FDCservers.net|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|12|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|13|136.52.10.221|8888|United States|Irvine|Google Fiber Inc.|
+|14|18.101.48.176|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|15|23.237.210.82|80|United States|Houston|FDCservers.net|
+|16|18.101.60.67|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|17|18.101.68.107|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|18|136.52.10.221|8888|United States|Irvine|Google Fiber Inc.|
+|19|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|20|27.66.116.39|10001|Vietnam|Hanoi|Viettel Group|
 
 
 
