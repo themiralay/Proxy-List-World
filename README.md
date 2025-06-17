@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|2|23.224.189.161|3128|United States|Los Angeles|Cnservers LLC|
 |3|123.26.132.171|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|4|4.194.169.210|3128|Singapore|Singapore|Microsoft Corporation|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |11|5.161.143.206|1080|United States|Ashburn|Hetzner Online GmbH|
-|12|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|13|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|16|23.237.210.82|80|United States|Houston|FDCservers.net|
-|17|5.161.143.206|1080|United States|Ashburn|Hetzner Online GmbH|
-|18|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|19|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|20|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|12|23.224.189.161|3128|United States|Los Angeles|Cnservers LLC|
+|13|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|14|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|15|5.161.143.206|1080|United States|Ashburn|Hetzner Online GmbH|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|18|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|19|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
