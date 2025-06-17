@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|58|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|58|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|58|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|53|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|53|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|53|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|103.254.164.6|3128|Indonesia|Soreang|Dinas Komunikasi, Informatika dan Statistik Kabupaten Bandung|
 |2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |3|23.237.210.82|80|United States|Houston|FDCservers.net|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|23.237.210.82|80|United States|Houston|FDCservers.net|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
 |8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|10|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|11|164.163.42.36|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|164.163.42.17|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
-|15|181.78.19.138|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|16|181.78.19.138|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|17|164.90.229.29|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|164.163.42.19|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|164.163.42.46|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|9|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|10|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
+|11|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|12|181.78.19.138|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|13|136.52.10.221|8888|United States|Irvine|Google Fiber Inc.|
+|14|181.78.19.138|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|15|164.90.229.29|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|164.163.42.36|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|18|23.237.210.82|80|United States|Houston|FDCservers.net|
+|19|181.78.19.138|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|20|59.47.238.4|8088|China|Benxi|CHINATELECOM Liaoning Benxi MAN|
 
 
 
