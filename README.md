@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.254.164.6|3128|Indonesia|Soreang|Dinas Komunikasi, Informatika dan Statistik Kabupaten Bandung|
-|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|23.237.210.82|80|United States|Houston|FDCservers.net|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|23.237.210.82|80|United States|Houston|FDCservers.net|
-|10|51.195.29.186|3128|Germany|Limburg an der Lahn|OVH SAS|
-|11|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|3|27.79.151.112|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|23.237.210.82|80|United States|Houston|FDCservers.net|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|10|23.237.210.82|80|United States|Houston|FDCservers.net|
+|11|128.140.14.93|3128|Germany|Nuremberg|Hetzner Online GmbH|
 |12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|14|45.136.198.40|3128|Bulgaria|Sofia|Managed by IROKO Networks|
-|15|188.125.167.247|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|16|167.86.127.219|8888|France|Lauterbourg|Contabo GmbH|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|19|27.79.151.112|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|115.74.8.104|10005|Vietnam|Vũng Tàu|VIETELxdsl|
+|13|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|14|167.86.127.219|8888|France|Lauterbourg|Contabo GmbH|
+|15|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|45.136.198.40|3128|Bulgaria|Sofia|Managed by IROKO Networks|
+|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|19|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|20|103.152.238.85|1080|Indonesia|Cikarang|APRIN|
 
 
 
