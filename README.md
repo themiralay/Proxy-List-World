@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|2|47.236.224.32|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|5.161.143.206|1080|United States|Ashburn|Hetzner Online GmbH|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|123.26.132.171|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|5.161.143.206|1080|United States|Ashburn|Hetzner Online GmbH|
-|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|123.26.132.171|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|5.161.143.206|1080|United States|Ashburn|Hetzner Online GmbH|
 |10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |11|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|13|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|15|8.217.124.178|49440|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|13|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
+|14|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
+|15|93.190.138.107|46182|The Netherlands|Naaldwijk|WorldStream B.V.|
 |16|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
-|17|18.167.98.50|3128|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
-|20|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
+|17|52.194.87.84|8080|Japan|Tokyo|Amazon Technologies Inc.|
+|18|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|19|23.237.210.82|80|United States|Houston|FDCservers.net|
+|20|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 
 
 
