@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|103.254.164.6|3128|Indonesia|Soreang|Dinas Komunikasi, Informatika dan Statistik Kabupaten Bandung|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|34.48.67.126|9090|United States|Washington|Google LLC|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|34.48.67.126|9090|United States|Washington|Google LLC|
-|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|11|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|12|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|13|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|2|103.254.164.6|3128|Indonesia|Soreang|Dinas Komunikasi, Informatika dan Statistik Kabupaten Bandung|
+|3|34.48.67.126|9090|United States|Washington|Google LLC|
+|4|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|8|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|34.48.67.126|9090|United States|Washington|Google LLC|
+|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|12|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|13|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
 |14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|16|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|17|27.79.223.241|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|23.237.210.82|80|United States|Houston|FDCservers.net|
-|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|20|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|15|23.237.210.82|80|United States|Houston|FDCservers.net|
+|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|17|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|18|59.47.238.4|8088|China|Benxi|CHINATELECOM Liaoning Benxi MAN|
+|19|23.237.210.82|80|United States|Houston|FDCservers.net|
+|20|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
