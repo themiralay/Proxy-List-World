@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|2|103.254.164.6|3128|Indonesia|Soreang|Dinas Komunikasi, Informatika dan Statistik Kabupaten Bandung|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|23.237.210.82|80|United States|Houston|FDCservers.net|
-|6|34.48.67.126|9090|United States|Washington|Google LLC|
-|7|34.48.67.126|9090|United States|Washington|Google LLC|
-|8|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|12|23.237.210.82|80|United States|Houston|FDCservers.net|
-|13|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|15|160.248.189.95|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
+|1|103.254.164.6|3128|Indonesia|Soreang|Dinas Komunikasi, Informatika dan Statistik Kabupaten Bandung|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|4|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|34.48.67.126|9090|United States|Washington|Google LLC|
+|11|135.125.97.184|27087|France|Wattrelos|OVH SAS|
+|12|34.48.67.126|9090|United States|Washington|Google LLC|
+|13|51.158.105.94|31826|France|Paris|SCALEWAY|
+|14|115.72.161.250|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|15|135.234.106.253|80|United States|Phoenix|MICROSOFT|
 |16|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
-|17|59.47.238.4|8088|China|Benxi|CHINATELECOM Liaoning Benxi MAN|
-|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|19|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|20|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|18|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|19|160.248.189.95|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
+|20|93.190.138.107|46182|The Netherlands|Naaldwijk|WorldStream B.V.|
 
 
 
