@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|52.194.87.84|8080|Japan|Tokyo|Amazon Technologies Inc.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|123.26.132.171|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|4|23.237.210.82|80|United States|Houston|FDCservers.net|
-|5|5.161.143.206|1080|United States|Ashburn|Hetzner Online GmbH|
-|6|23.237.210.82|80|United States|Houston|FDCservers.net|
-|7|136.52.10.221|8888|United States|Irvine|Google Fiber Inc.|
-|8|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|10|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
-|13|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
-|14|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|15|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|16|173.212.222.79|3120|France|Lauterbourg|Contabo GmbH|
-|17|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|18|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
-|19|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|20|23.237.210.82|80|United States|Houston|FDCservers.net|
+|2|123.26.132.171|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|5.161.143.206|1080|United States|Ashburn|Hetzner Online GmbH|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|5.161.143.206|1080|United States|Ashburn|Hetzner Online GmbH|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|12|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|13|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|14|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
+|15|173.212.222.79|3120|France|Lauterbourg|Contabo GmbH|
+|16|123.26.132.171|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|17|103.247.13.203|8090|Indonesia|Klaten|TERABIT|
+|18|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|19|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
+|20|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
 
 
 
