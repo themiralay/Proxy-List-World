@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|123.26.132.171|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|5.161.143.206|1080|United States|Ashburn|Hetzner Online GmbH|
-|6|136.52.10.221|8888|United States|Irvine|Google Fiber Inc.|
-|7|23.237.210.82|80|United States|Houston|FDCservers.net|
-|8|5.161.143.206|1080|United States|Ashburn|Hetzner Online GmbH|
+|1|52.194.87.84|8080|Japan|Tokyo|Amazon Technologies Inc.|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|5.161.143.206|1080|United States|Ashburn|Hetzner Online GmbH|
+|7|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|8|123.26.132.171|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
 |9|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|15|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
-|16|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
-|17|188.163.170.130|41209|Ukraine|Lviv|Kyivstar UA|
+|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|13|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|14|136.52.10.221|8888|United States|Irvine|Google Fiber Inc.|
+|15|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|16|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|17|5.161.143.206|1080|United States|Ashburn|Hetzner Online GmbH|
 |18|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
-|19|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|20|103.154.118.245|8080|Indonesia|Jakarta|MORATELINDONAP|
+|19|51.222.244.155|4857|Canada|Montreal|OVH SAS|
+|20|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 
 
 
