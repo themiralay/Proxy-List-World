@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3616** proxies at the latest update. Usable proxies are below.
+> Scraper found **3649** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|143|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|486|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|519|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|65|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|52.194.87.84|8080|Japan|Tokyo|Amazon Technologies Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|123.26.132.171|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|23.237.210.82|80|United States|Houston|FDCservers.net|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|5.161.143.206|1080|United States|Ashburn|Hetzner Online GmbH|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|123.26.132.171|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|23.237.210.82|80|United States|Houston|FDCservers.net|
 |10|5.161.143.206|1080|United States|Ashburn|Hetzner Online GmbH|
-|11|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|12|45.77.249.199|1236|Singapore|Singapore|The Constant Company|
-|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|20|182.253.109.188|8080|Indonesia|Semarang|Biznet Metronet|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|15|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|16|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|18|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|19|173.212.222.79|3120|France|Lauterbourg|Contabo GmbH|
+|20|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
 
 
 
