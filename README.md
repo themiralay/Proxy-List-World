@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
-|2|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|3|103.254.164.6|3128|Indonesia|Soreang|Dinas Komunikasi, Informatika dan Statistik Kabupaten Bandung|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|23.237.210.82|80|United States|Houston|FDCservers.net|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|23.237.210.82|80|United States|Houston|FDCservers.net|
-|12|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|113.172.84.195|1080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|17|200.106.124.211|999|Peru|Tacna|Telefonica del Peru|
-|18|116.203.139.209|8081|Germany|Nuremberg|Hetzner Online GmbH|
-|19|90.156.170.162|1080|Russia|St Petersburg|Beget LLC|
-|20|194.4.57.199|3128|Kazakhstan|Almaty|LLP "Kompaniya Hoster.KZ"|
+|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|2|103.254.164.6|3128|Indonesia|Soreang|Dinas Komunikasi, Informatika dan Statistik Kabupaten Bandung|
+|3|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|10|31.58.51.90|3128|Poland|Chojnice|Wojciech Czapkowicz|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|171.228.133.238|5206|Vietnam|Hanoi|Viettel Corporation|
+|13|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
+|14|200.106.124.211|999|Peru|Tacna|Telefonica del Peru|
+|15|90.156.170.162|1080|Russia|St Petersburg|Beget LLC|
+|16|167.86.127.219|8888|France|Lauterbourg|Contabo GmbH|
+|17|113.172.84.195|1080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|18|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|19|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|20|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
 
 
 
