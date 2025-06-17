@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|52.194.87.84|8080|Japan|Tokyo|Amazon Technologies Inc.|
+|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |3|123.26.132.171|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|23.237.210.82|80|United States|Houston|FDCservers.net|
-|8|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|5.161.143.206|1080|United States|Ashburn|Hetzner Online GmbH|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|23.237.210.82|80|United States|Houston|FDCservers.net|
-|14|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|16|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|182.253.109.188|8080|Indonesia|Semarang|Biznet Metronet|
-|19|164.163.40.90|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|164.90.229.29|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|5.161.143.206|1080|United States|Ashburn|Hetzner Online GmbH|
+|5|23.237.210.82|80|United States|Houston|FDCservers.net|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|101.108.200.205|8080|Thailand|Bangkok|TOT Public Company Limited|
+|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|12|23.237.210.82|80|United States|Houston|FDCservers.net|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|173.212.222.79|3120|France|Lauterbourg|Contabo GmbH|
+|17|103.166.159.163|8080|Indonesia|Kresek|PT Timor Lintas Nusantara|
+|18|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|19|5.161.143.206|1080|United States|Ashburn|Hetzner Online GmbH|
+|20|23.237.210.82|80|United States|Houston|FDCservers.net|
 
 
 
