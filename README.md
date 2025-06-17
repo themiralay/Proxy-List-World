@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|3|5.161.143.206|1080|United States|Ashburn|Hetzner Online GmbH|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|123.26.132.171|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
-|7|189.240.60.172|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|8|189.240.60.168|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|9|189.240.60.171|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|10|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|12|5.161.143.206|1080|United States|Ashburn|Hetzner Online GmbH|
-|13|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|14|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|15|189.240.60.162|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|16|189.240.60.166|9090|Mexico|Mexico City|Uninet S.A. de C.V.|
-|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|20|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|2|123.26.132.171|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|5.161.143.206|1080|United States|Ashburn|Hetzner Online GmbH|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|5.161.143.206|1080|United States|Ashburn|Hetzner Online GmbH|
+|8|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|13|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
+|14|123.26.132.171|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|15|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|18|45.136.198.40|3128|Bulgaria|Sofia|Managed by IROKO Networks|
+|19|59.47.238.4|8088|China|Benxi|CHINATELECOM Liaoning Benxi MAN|
+|20|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
 
 
 
