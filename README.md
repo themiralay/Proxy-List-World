@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.81.191|3128|Japan|Chiyoda|InfoSphere|
-|2|180.191.20.208|8082|Philippines|Cabanatuan City|Globe Telecom|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|10|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|14|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
-|15|23.237.210.82|80|United States|Houston|FDCservers.net|
-|16|116.254.99.183|8080|Indonesia|Jakarta|SpaceX Starlink|
-|17|89.249.62.8|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|19|149.86.144.51|8080|Turkey|Sille|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|20|93.190.138.107|46182|The Netherlands|Naaldwijk|WorldStream B.V.|
+|7|23.237.210.82|80|United States|Houston|FDCservers.net|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|23.237.210.82|80|United States|Houston|FDCservers.net|
+|11|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|12|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
+|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|14|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|15|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|16|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|17|182.253.109.188|8080|Indonesia|Semarang|Biznet Metronet|
+|18|103.191.58.198|8080|Indonesia|Ngasem|Panjalu Sarana Data Indonesia|
+|19|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
