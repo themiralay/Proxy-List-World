@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|107.152.35.241|8080|United States|Chicago|tzulo, inc.|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|4|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|5|107.152.35.241|8080|United States|Chicago|tzulo, inc.|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|1|103.254.164.6|3128|Indonesia|Soreang|Dinas Komunikasi, Informatika dan Statistik Kabupaten Bandung|
+|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|6|107.152.35.241|8080|United States|Chicago|tzulo, inc.|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |8|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|103.254.164.6|3128|Indonesia|Soreang|Dinas Komunikasi, Informatika dan Statistik Kabupaten Bandung|
-|13|103.76.86.23|8080|Germany|Frankfurt am Main|MIRhosting B.V.|
-|14|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|107.152.35.241|8080|United States|Chicago|tzulo, inc.|
+|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|11|103.76.86.23|8080|Germany|Frankfurt am Main|MIRhosting B.V.|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|81.22.132.94|15182|The Netherlands|Meppel|Serva ONE LTD|
+|14|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
 |15|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
-|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|18|85.206.93.105|8080|Lithuania|Vilnius|Telia Lietuva|
-|19|183.89.208.90|8080|Thailand|Chaiyaphum|Triple T Broadband Public Company Limited|
-|20|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|16|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
+|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|18|185.208.102.158|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|19|45.157.148.202|8080|Iraq|Baghdad|Cloud Company for General Services Ltd|
+|20|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 
 
 
