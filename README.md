@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.254.164.6|3128|Indonesia|Soreang|Dinas Komunikasi, Informatika dan Statistik Kabupaten Bandung|
-|2|107.152.35.241|8080|United States|Chicago|tzulo, inc.|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
+|1|107.152.35.241|8080|United States|Chicago|tzulo, inc.|
+|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|62.33.91.10|3128|Russia|Tynda|TRANS-TELECOM|
 |5|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|107.152.35.241|8080|United States|Chicago|tzulo, inc.|
-|9|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|107.152.35.241|8080|United States|Chicago|tzulo, inc.|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
 |11|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|13|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|16|37.27.253.44|8080|Finland|Helsinki|Hetzner Online GmbH|
-|17|124.121.93.68|8080|Thailand|Mueang Samut Prakan|TRUEBB|
-|18|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|103.154.230.109|8080|Indonesia|Parengan|DIGITNET|
+|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|15|103.26.177.42|1080|Indonesia|Temenggungan|PT Lintas Jaringan Nusantara|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|167.86.127.219|8888|France|Lauterbourg|Contabo GmbH|
+|18|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
 |19|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|20|103.158.121.177|8080|Indonesia|Jatibarang|CDN|
+|20|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
