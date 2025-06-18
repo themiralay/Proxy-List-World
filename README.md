@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|9|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|10|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|11|81.22.132.94|15182|The Netherlands|Meppel|Serva ONE LTD|
-|12|103.76.86.23|8080|Germany|Frankfurt am Main|MIRhosting B.V.|
-|13|45.136.198.40|3128|Bulgaria|Sofia|Managed by IROKO Networks|
-|14|51.158.105.94|31826|France|Paris|SCALEWAY|
-|15|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|16|101.255.32.42|8080|Indonesia|Jakarta|PT Remala Abadi|
-|17|102.0.5.152|8080|Kenya|Nairobi|Airtel KE Mobile & Fixed Internet|
-|18|103.88.245.234|8080|Indonesia|Jakarta|PT.Indonesia Comnet Plus|
-|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|1|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|23.237.210.82|80|United States|Houston|FDCservers.net|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|23.237.210.82|80|United States|Houston|FDCservers.net|
+|6|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|12|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|13|51.158.105.94|31826|France|Paris|SCALEWAY|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|103.76.86.23|8080|Germany|Frankfurt am Main|MIRhosting B.V.|
+|16|45.136.198.40|3128|Bulgaria|Sofia|Managed by IROKO Networks|
+|17|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|18|5.189.130.42|23055|France|Lauterbourg|Contabo GmbH|
+|19|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|20|116.103.26.68|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
