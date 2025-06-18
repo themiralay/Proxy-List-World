@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|61|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|61|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|61|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|60|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|60|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|60|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|51.158.105.94|31826|France|Paris|SCALEWAY|
-|8|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|9|103.76.86.23|8080|Germany|Frankfurt am Main|MIRhosting B.V.|
-|10|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|13|45.224.149.99|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|15|5.189.130.42|23055|France|Lauterbourg|Contabo GmbH|
-|16|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|18|62.171.183.48|3128|France|Lauterbourg|Contabo GmbH|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|3|23.237.210.82|80|United States|Houston|FDCservers.net|
+|4|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
+|10|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|12|27.66.119.235|10006|Vietnam|Hanoi|Viettel Group|
+|13|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|14|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|15|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|16|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|17|23.237.210.82|80|United States|Houston|FDCservers.net|
+|18|194.4.49.128|10808|France|Paris|PQ HOSTING PLUS S.R.L.|
+|19|117.161.170.163|9090|China|Guangzhou|China Mobile communications corporation|
+|20|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
 
 
 
