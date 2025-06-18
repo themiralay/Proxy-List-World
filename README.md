@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3715** proxies at the latest update. Usable proxies are below.
+> Scraper found **3711** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|206|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|531|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|538|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|56|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|45|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|103.254.164.6|3128|Indonesia|Soreang|Dinas Komunikasi, Informatika dan Statistik Kabupaten Bandung|
-|2|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|107.152.35.241|8080|United States|Chicago|tzulo, inc.|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|2|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|107.152.35.241|8080|United States|Chicago|tzulo, inc.|
 |5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|107.152.35.241|8080|United States|Chicago|tzulo, inc.|
+|6|107.152.35.241|8080|United States|Chicago|tzulo, inc.|
+|7|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |9|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |11|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|158.255.249.68|3128|Slovakia|Moldava nad Bodvou|PRESNET s.r.o|
-|14|152.53.115.181|8080|Germany|Nuremberg|Location: AT|
-|15|52.194.87.84|8080|Japan|Tokyo|Amazon Technologies Inc.|
-|16|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|17|62.33.53.248|3128|Russia|Yakutsk|TRANS-TELECOM|
-|18|164.90.229.29|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|167.86.127.219|8888|France|Lauterbourg|Contabo GmbH|
-|20|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|37.27.253.44|8080|Finland|Helsinki|Hetzner Online GmbH|
+|15|51.158.105.94|31826|France|Paris|SCALEWAY|
+|16|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|17|104.248.132.62|1080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|182.18.208.59|3128|Philippines|San Juan|SKYBROADBAND|
+|20|152.53.115.181|8080|Germany|Nuremberg|Location: AT|
 
 
 
