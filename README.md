@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |2|107.152.35.241|8080|United States|Chicago|tzulo, inc.|
-|3|116.103.26.68|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|107.152.35.241|8080|United States|Chicago|tzulo, inc.|
-|8|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|9|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|8|107.152.35.241|8080|United States|Chicago|tzulo, inc.|
+|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|10|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
 |11|86.104.74.59|3128|France|Paris|PQ HOSTING PLUS S.R.L.|
-|12|103.76.86.23|8080|Germany|Frankfurt am Main|MIRhosting B.V.|
-|13|164.163.42.46|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|23.237.210.82|80|United States|Houston|FDCservers.net|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
+|14|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
+|15|103.13.204.52|8080|Indonesia|Karangsekar|PT JARINGANKU SARANA NUSANTARA|
+|16|116.103.26.68|16000|Vietnam|Hanoi|Viettel Corporation|
 |17|23.237.210.82|80|United States|Houston|FDCservers.net|
-|18|164.163.42.4|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|20|114.236.137.41|22000|China|Nanjing|Chinanet|
+|18|193.111.124.12|8080|Indonesia|Garut|CV Atha Media Prima|
+|19|61.118.38.234|60808|Japan|Fukagawa|Open Computer Network|
+|20|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
 
 
 
