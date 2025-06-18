@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|57|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|57|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|57|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|5|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
 |6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|7|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
 |8|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |11|81.22.132.94|15182|The Netherlands|Meppel|Serva ONE LTD|
-|12|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|164.163.40.16|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
 |14|23.237.210.82|80|United States|Houston|FDCservers.net|
-|15|164.163.42.19|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|17|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|18|46.226.164.123|3128|Sweden|Stockholm|Aeza International LTD|
+|15|103.166.9.42|8080|Indonesia|Bekasi|PT Akses Bersama Sedaya|
+|16|59.47.238.4|8088|China|Benxi|CHINATELECOM Liaoning Benxi MAN|
+|17|45.136.198.40|3128|Bulgaria|Sofia|Managed by IROKO Networks|
+|18|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
 |19|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|20|154.66.159.34|800|South Africa|Johannesburg|Wirulink Pty Ltd|
+|20|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
 
 
 
