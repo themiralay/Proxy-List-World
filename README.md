@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|72|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|72|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|72|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|103.254.164.6|3128|Indonesia|Soreang|Dinas Komunikasi, Informatika dan Statistik Kabupaten Bandung|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|4|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
 |6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |8|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|81.22.132.94|15182|The Netherlands|Meppel|Serva ONE LTD|
-|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|104.248.132.62|1080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|16|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|17|106.51.185.233|8080|India|Bengaluru|ACT Fibernet|
-|18|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|20|167.86.127.219|8888|France|Lauterbourg|Contabo GmbH|
+|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|51.158.105.94|31826|France|Paris|SCALEWAY|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|104.248.132.62|1080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|16|167.86.127.219|8888|France|Lauterbourg|Contabo GmbH|
+|17|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|18|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|19|147.93.27.135|3128|India|Mumbai|HOSTINGER IN|
+|20|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 
 
 
