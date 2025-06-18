@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.16.188|38080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|14.229.121.70|8080|Vietnam|Hanoi|VNPT|
-|4|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
+|1|14.229.121.70|8080|Vietnam|Hanoi|VNPT|
+|2|157.20.144.195|8089|Indonesia|Tangerang|PT Lintas Network Solusi|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |5|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|27.79.251.215|16000|Vietnam|Hanoi|Viettel Corporation|
 |7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|27.79.254.67|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|27.79.251.215|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|13.208.146.185|3128|Japan|Osaka|Amazon Technologies Inc.|
-|12|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|81.22.132.94|15182|The Netherlands|Meppel|Serva ONE LTD|
-|15|27.79.239.197|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|54.210.19.156|3128|United States|Ashburn|Amazon.com, Inc.|
-|17|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|18.203.249.67|10010|Ireland|Dublin|Amazon Technologies Inc.|
-|20|13.212.216.15|26994|Singapore|Singapore|Amazon Technologies Inc.|
+|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|117.103.168.66|9091|Indonesia|Jakarta|PT Pika Media Komunika|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|27.79.239.50|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|14|43.134.16.188|38080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|16|81.22.132.94|15182|The Netherlands|Meppel|Serva ONE LTD|
+|17|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|20|213.226.119.120|4857|Turkey|Istanbul|Mehmet Selim Sahin|
 
 
 
