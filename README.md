@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |5|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|103.254.164.6|3128|Indonesia|Soreang|Dinas Komunikasi, Informatika dan Statistik Kabupaten Bandung|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|104.248.132.62|1080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
 |9|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|10|104.248.132.62|1080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|12|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|13|51.158.105.94|31826|France|Paris|SCALEWAY|
-|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|15|59.47.238.4|8088|China|Benxi|CHINATELECOM Liaoning Benxi MAN|
-|16|23.237.210.82|80|United States|Houston|FDCservers.net|
-|17|52.194.87.84|8080|Japan|Tokyo|Amazon Technologies Inc.|
-|18|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|19|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|20|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|11|51.158.105.94|31826|France|Paris|SCALEWAY|
+|12|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|13|23.237.210.82|80|United States|Houston|FDCservers.net|
+|14|103.254.164.6|3128|Indonesia|Soreang|Dinas Komunikasi, Informatika dan Statistik Kabupaten Bandung|
+|15|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|16|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|17|85.206.93.105|8080|Lithuania|Vilnius|Telia Lietuva|
+|18|59.47.238.4|8088|China|Benxi|CHINATELECOM Liaoning Benxi MAN|
+|19|141.147.150.58|3128|Japan|Osaka|Oracle Corporation|
+|20|5.202.174.38|8080|Iran|Tehran|PTS-Network|
 
 
 
