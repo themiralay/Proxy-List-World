@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.134.16.188|38080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|2|27.79.230.96|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|27.79.240.201|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|116.103.25.236|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|116.103.31.214|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|27.79.246.180|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|27.79.174.62|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|12|27.79.254.67|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|14|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|15|23.237.210.82|80|United States|Houston|FDCservers.net|
-|16|116.254.99.183|8080|Indonesia|Jakarta|SpaceX Starlink|
-|17|159.89.245.69|53971|United States|Clifton|DigitalOcean, LLC|
-|18|167.86.127.219|8888|France|Lauterbourg|Contabo GmbH|
-|19|51.158.105.94|31826|France|Paris|SCALEWAY|
-|20|103.76.86.23|8080|Germany|Frankfurt am Main|MIRhosting B.V.|
+|2|14.229.121.70|8080|Vietnam|Hanoi|VNPT|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|116.103.25.236|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|27.76.176.170|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|8|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
+|9|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|11|23.237.210.82|80|United States|Houston|FDCservers.net|
+|12|159.89.245.69|53971|United States|Clifton|DigitalOcean, LLC|
+|13|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|14|51.158.105.94|31826|France|Paris|SCALEWAY|
+|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|16|81.22.132.94|15182|The Netherlands|Meppel|Serva ONE LTD|
+|17|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|170.78.210.123|999|Mexico|Polotitlán de la Ilustración|Wantelco SAS de CV|
+|20|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
 
 
 
