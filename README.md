@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|160.248.189.97|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|43.134.16.188|38080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |7|23.237.210.82|80|United States|Houston|FDCservers.net|
-|8|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|23.237.210.82|80|United States|Houston|FDCservers.net|
-|11|103.181.255.101|1080|Indonesia|Demak|PT Giga Digital Nusantara|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|100.21.211.143|3128|United States|Portland|Amazon.com, Inc.|
-|14|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|18.203.249.67|10010|Ireland|Dublin|Amazon Technologies Inc.|
-|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|43.216.214.221|4289|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|20|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|187.251.134.165|3128|Mexico|Manzanillo|Total Play Telecomunicaciones SA De CV|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|12|43.134.16.188|38080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|23.237.210.82|80|United States|Houston|FDCservers.net|
+|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|17|103.76.86.23|8080|Germany|Frankfurt am Main|MIRhosting B.V.|
+|18|27.76.176.170|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|19|54.242.208.61|3128|United States|Ashburn|Amazon.com, Inc.|
+|20|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
 
 
 
