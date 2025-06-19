@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|14.229.121.70|8080|Vietnam|Hanoi|VNPT|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|14.229.121.70|8080|Vietnam|Hanoi|VNPT|
 |5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|103.140.105.133|3128|Indonesia|Pontianak|PT Inetindo Terestrial Solusi|
 |7|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
 |8|159.89.245.69|53971|United States|Clifton|DigitalOcean, LLC|
-|9|159.89.245.69|53971|United States|Clifton|DigitalOcean, LLC|
-|10|23.237.210.82|80|United States|Houston|FDCservers.net|
-|11|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|11|159.89.245.69|53971|United States|Clifton|DigitalOcean, LLC|
+|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |13|65.109.193.150|3128|Finland|Helsinki|Hetzner Online GmbH|
-|14|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|15|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|16|54.242.208.61|3128|United States|Ashburn|Amazon.com, Inc.|
-|17|80.79.6.124|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
-|18|35.183.6.7|17210|Canada|Toronto|Amazon Technologies Inc.|
-|19|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
-|20|54.242.208.61|3128|United States|Ashburn|Amazon.com, Inc.|
+|14|51.158.105.94|31826|France|Paris|SCALEWAY|
+|15|103.76.86.23|8080|Germany|Frankfurt am Main|MIRhosting B.V.|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|40.192.100.37|3128|India|Hyderabad|Amazon.com, Inc.|
+|18|80.79.6.124|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
+|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
 
 
 
