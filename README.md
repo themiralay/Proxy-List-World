@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|4|43.134.16.188|38080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|3|43.134.16.188|38080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|116.103.25.236|16000|Vietnam|Hanoi|Viettel Corporation|
 |5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|116.103.25.152|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|43.199.163.10|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|12|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|3.35.134.107|3128|South Korea|Seoul|Amazon.com, Inc.|
-|16|35.183.6.7|17210|Canada|Toronto|Amazon Technologies Inc.|
-|17|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|18|43.134.16.188|38080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|19|16.171.242.247|57|Sweden|Stockholm|Amazon.com|
-|20|100.21.211.143|3128|United States|Portland|Amazon.com, Inc.|
+|6|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|27.76.176.170|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|81.22.132.94|15182|The Netherlands|Meppel|Serva ONE LTD|
+|13|51.158.105.94|31826|France|Paris|SCALEWAY|
+|14|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
+|15|43.134.16.188|38080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|16|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|18|51.158.105.94|31826|France|Paris|SCALEWAY|
+|19|36.66.242.118|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|20|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
 
 
 
