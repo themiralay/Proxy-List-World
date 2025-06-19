@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.248.189.96|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
 |2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|3|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|3|23.237.210.82|80|United States|Houston|FDCservers.net|
 |4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|23.237.210.82|80|United States|Houston|FDCservers.net|
-|7|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
+|6|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|7|23.237.210.82|80|United States|Houston|FDCservers.net|
 |8|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
 |10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|11|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
-|12|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
-|13|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
-|14|81.22.132.94|15182|The Netherlands|Meppel|Serva ONE LTD|
-|15|3.11.14.39|3128|United Kingdom|London|Amazon Technologies Inc.|
-|16|80.79.6.124|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
-|17|54.210.19.156|3128|United States|Ashburn|Amazon.com, Inc.|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
+|14|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|15|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|16|116.103.25.152|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|116.103.31.214|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|80.79.6.124|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|24.172.82.94|53281|United States|Charlotte|Spectrum|
 
 
 
