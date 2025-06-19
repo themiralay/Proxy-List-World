@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|5|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|10|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
-|11|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
-|12|13.208.146.185|3128|Japan|Osaka|Amazon Technologies Inc.|
-|13|100.21.211.143|3128|United States|Portland|Amazon.com, Inc.|
-|14|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
-|15|54.242.208.61|3128|United States|Ashburn|Amazon.com, Inc.|
-|16|3.11.14.39|3128|United Kingdom|London|Amazon Technologies Inc.|
-|17|100.21.211.143|3128|United States|Portland|Amazon.com, Inc.|
-|18|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|19|54.210.19.156|3128|United States|Ashburn|Amazon.com, Inc.|
-|20|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|2|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|7|13.208.146.185|3128|Japan|Osaka|Amazon Technologies Inc.|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|3.141.38.145|3128|United States|Dublin|Amazon.com, Inc.|
+|10|3.11.14.39|3128|United Kingdom|London|Amazon Technologies Inc.|
+|11|54.210.19.156|3128|United States|Ashburn|Amazon.com, Inc.|
+|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|13|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
+|14|100.21.211.143|3128|United States|Portland|Amazon.com, Inc.|
+|15|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
+|16|100.21.211.143|3128|United States|Portland|Amazon.com, Inc.|
+|17|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|23.237.210.82|80|United States|Houston|FDCservers.net|
+|20|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
