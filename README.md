@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.67.48|4649|Japan|Minamishinagawa|NTT PC Communications, Inc.|
-|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|2|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
 |3|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|67.223.225.161|43080|United States|Jacksonville|Newfold Digital, Inc.|
-|9|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
-|10|27.79.129.137|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|4|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|8|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
+|9|185.234.65.66|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|10|100.21.211.143|3128|United States|Portland|Amazon.com, Inc.|
+|11|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|12|103.76.86.23|8080|Germany|Frankfurt am Main|MIRhosting B.V.|
 |13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
-|15|100.21.211.143|3128|United States|Portland|Amazon.com, Inc.|
-|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|13.232.213.216|3128|India|Mumbai|Amazon Technologies Inc.|
-|19|54.242.208.61|3128|United States|Ashburn|Amazon.com, Inc.|
-|20|100.21.211.143|3128|United States|Portland|Amazon.com, Inc.|
+|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|16|51.158.105.94|31826|France|Paris|SCALEWAY|
+|17|54.242.208.61|3128|United States|Ashburn|Amazon.com, Inc.|
+|18|3.141.38.145|3128|United States|Dublin|Amazon.com, Inc.|
+|19|18.101.7.10|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|20|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 
 
 
