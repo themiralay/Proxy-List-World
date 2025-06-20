@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5207** proxies at the latest update. Usable proxies are below.
+> Scraper found **5186** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|293|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|704|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|683|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|70|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3214|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|8|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|9|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
-|10|54.210.19.156|3128|United States|Ashburn|Amazon.com, Inc.|
-|11|13.232.213.216|3128|India|Mumbai|Amazon Technologies Inc.|
-|12|103.76.86.23|8080|Germany|Frankfurt am Main|MIRhosting B.V.|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|18.100.217.180|3128|Spain|Zaragoza|Amazon Technologies Inc.|
-|15|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|16|3.35.134.107|3128|South Korea|Seoul|Amazon.com, Inc.|
-|17|51.158.105.94|31826|France|Paris|SCALEWAY|
-|18|93.190.138.107|46182|The Netherlands|Naaldwijk|WorldStream B.V.|
-|19|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|20|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|4|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
+|5|116.103.25.236|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|8|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
+|9|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|12|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
+|13|81.22.132.94|15182|The Netherlands|Meppel|Serva ONE LTD|
+|14|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
+|15|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|16|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|17|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
+|18|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|19|27.74.144.8|10007|Vietnam|Ho Chi Minh City|Viettel Group|
+|20|15.168.175.83|3128|Japan|Osaka|Amazon Technologies Inc.|
 
 
 
