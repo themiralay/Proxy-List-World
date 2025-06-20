@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **5140** proxies at the latest update. Usable proxies are below.
+> Scraper found **5167** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|297|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|586|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|613|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|62|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|3269|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.66.94|4649|Japan|Minamishinagawa|NTT PC Communications, Inc.|
-|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |4|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|5|1.10.229.217|8080|Thailand|Bangkok|TOT Public Company Limited|
-|6|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|8|23.237.210.82|80|United States|Houston|FDCservers.net|
 |9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
-|11|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
-|12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|13|103.76.86.23|8080|Germany|Frankfurt am Main|MIRhosting B.V.|
-|14|43.199.163.10|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|81.22.132.94|15182|The Netherlands|Meppel|Serva ONE LTD|
-|17|80.79.6.124|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
-|18|136.52.10.221|8888|United States|Irvine|Google Fiber Inc.|
-|19|54.242.208.61|3128|United States|Ashburn|Amazon.com, Inc.|
-|20|13.235.246.116|25396|India|Mumbai|Amazon Technologies Inc.|
+|10|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|11|23.237.210.82|80|United States|Houston|FDCservers.net|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|81.22.132.94|15182|The Netherlands|Meppel|Serva ONE LTD|
+|14|54.242.208.61|3128|United States|Ashburn|Amazon.com, Inc.|
+|15|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|16|54.242.208.61|3128|United States|Ashburn|Amazon.com, Inc.|
+|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|18|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|19|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
+|20|103.80.214.3|8080|Indonesia|Sidoarjo|PT Redi Revolusi Digital Solusi|
 
 
 
