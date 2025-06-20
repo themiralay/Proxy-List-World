@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -45,20 +45,20 @@ Click the file format that you want and copy the URL.
 |4|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
 |5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|8|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
-|9|54.242.208.61|3128|United States|Ashburn|Amazon.com, Inc.|
-|10|103.76.86.23|8080|Germany|Frankfurt am Main|MIRhosting B.V.|
-|11|13.208.146.185|3128|Japan|Osaka|Amazon Technologies Inc.|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|18.100.217.180|3128|Spain|Zaragoza|Amazon Technologies Inc.|
-|14|23.94.214.45|221|United States|Santa Clara|HostPapa|
-|15|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|16|3.11.14.39|3128|United Kingdom|London|Amazon Technologies Inc.|
-|17|13.221.134.55|3128|United States|Ashburn|Amazon.com, Inc.|
-|18|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
-|19|81.22.132.94|15182|The Netherlands|Meppel|Serva ONE LTD|
-|20|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|7|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|103.146.197.78|8080|Indonesia|Banyuwangi|RIYADNETWORK|
+|10|54.242.208.61|3128|United States|Ashburn|Amazon.com, Inc.|
+|11|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
+|12|3.11.14.39|3128|United Kingdom|London|Amazon Technologies Inc.|
+|13|54.242.208.61|3128|United States|Ashburn|Amazon.com, Inc.|
+|14|108.136.220.77|4005|Indonesia|Jakarta|Amazon.com, Inc.|
+|15|103.76.86.23|8080|Germany|Frankfurt am Main|MIRhosting B.V.|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|3.10.207.94|8000|United Kingdom|London|Amazon Technologies Inc.|
+|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|19|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|20|23.237.210.82|80|United States|Houston|FDCservers.net|
 
 
 
