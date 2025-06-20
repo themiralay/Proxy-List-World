@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|1|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|2|135.234.106.253|80|United States|Phoenix|MICROSOFT|
 |3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|5|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|6|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|5|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|6|13.208.146.185|3128|Japan|Osaka|Amazon Technologies Inc.|
 |7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|116.98.48.81|4003|Vietnam|Da Nang|Viettel Corporation|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|11|171.249.175.169|10005|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|12|116.103.25.152|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|115.77.140.28|10005|Vietnam|Ho Chi Minh City|Viettel Group|
-|14|13.208.146.185|3128|Japan|Osaka|Amazon Technologies Inc.|
-|15|116.103.26.68|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|13.221.134.55|3128|United States|Ashburn|Amazon.com, Inc.|
-|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|19|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
-|20|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|8|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|81.22.132.94|15182|The Netherlands|Meppel|Serva ONE LTD|
+|11|103.76.86.23|8080|Germany|Frankfurt am Main|MIRhosting B.V.|
+|12|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|15|16.171.242.247|57|Sweden|Stockholm|Amazon.com|
+|16|13.221.134.55|3128|United States|Ashburn|Amazon.com, Inc.|
+|17|23.237.210.82|80|United States|Houston|FDCservers.net|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|37.27.253.44|8074|Finland|Helsinki|Hetzner Online GmbH|
+|20|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
 
 
 
