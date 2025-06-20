@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.66.94|4649|Japan|Minamishinagawa|NTT PC Communications, Inc.|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|5|123.20.48.139|1002|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |7|43.204.177.183|8080|India|Mumbai|Amazon.com, Inc.|
-|8|23.237.210.82|80|United States|Houston|FDCservers.net|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|3.72.40.248|50202|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|14|80.79.6.124|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
-|15|52.78.241.34|3128|South Korea|Seoul|Amazon Technologies Inc.|
-|16|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
-|17|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|18|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|19|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
-|20|54.242.208.61|3128|United States|Ashburn|Amazon.com, Inc.|
+|8|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|10|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|13|43.199.163.10|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|14|49.146.52.43|8082|Philippines|Koronadal|Philippine Long Distance Telephone Co.|
+|15|54.242.208.61|3128|United States|Ashburn|Amazon.com, Inc.|
+|16|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|17|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
+|18|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
+|19|13.235.246.116|25396|India|Mumbai|Amazon Technologies Inc.|
+|20|80.79.6.124|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
 
 
 
