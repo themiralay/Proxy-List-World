@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|180.191.23.22|8089|Philippines|Cabanatuan City|Globe Telecom|
-|2|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|3|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|4|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
-|5|116.101.148.87|4003|Vietnam|Hanoi|Viettel Corporation|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|66.19.21.242|7878|United States|Wellington|Windstream Communications LLC|
-|10|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
-|11|23.237.210.82|80|United States|Houston|FDCservers.net|
-|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|13|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|14|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|15|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|16|23.237.210.82|80|United States|Houston|FDCservers.net|
-|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|18|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|19|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
-|20|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|1|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|2|116.101.148.87|4003|Vietnam|Hanoi|Viettel Corporation|
+|3|116.108.19.172|4002|Vietnam|Quận Năm|Viettel Corporation|
+|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|5|171.237.102.210|1004|Vietnam|Ninh Bình|Viettel Corporation|
+|6|171.237.111.143|1010|Vietnam|Ninh Bình|Viettel Corporation|
+|7|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|23.237.210.82|80|United States|Houston|FDCservers.net|
+|13|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|14|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|15|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|51.158.105.94|31826|France|Paris|SCALEWAY|
+|18|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|19|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|20|103.76.86.23|8080|Germany|Frankfurt am Main|MIRhosting B.V.|
 
 
 
