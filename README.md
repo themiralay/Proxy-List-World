@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|103.220.23.113|8282|Indonesia|Surabaya|CV. LINTAS MEDIA|
-|6|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|154.6.160.179|37198|United States|New York|LogicWeb Inc.|
-|9|23.237.210.82|80|United States|Houston|FDCservers.net|
-|10|136.52.10.221|8888|United States|Irvine|Google Fiber Inc.|
+|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|2|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|103.76.86.23|8080|Germany|Frankfurt am Main|MIRhosting B.V.|
+|10|23.237.210.82|80|United States|Houston|FDCservers.net|
 |11|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
-|12|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
+|13|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
 |14|81.22.132.94|15182|The Netherlands|Meppel|Serva ONE LTD|
-|15|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
-|16|136.52.10.221|8888|United States|Irvine|Google Fiber Inc.|
-|17|54.242.208.61|3128|United States|Ashburn|Amazon.com, Inc.|
-|18|3.70.161.228|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|19|88.1.159.1|3128|Spain|Tarancón|Telefonica de Espana SAU|
-|20|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|15|13.221.134.55|3128|United States|Ashburn|Amazon.com, Inc.|
+|16|43.199.163.10|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|17|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
+|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|16.171.242.247|57|Sweden|Stockholm|Amazon.com|
+|20|59.47.238.4|8088|China|Benxi|CHINATELECOM Liaoning Benxi MAN|
 
 
 
