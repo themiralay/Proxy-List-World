@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
 |2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|7|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|8|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|9|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|13|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|14|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|23.237.210.82|80|United States|Houston|FDCservers.net|
-|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|20|23.237.210.82|80|United States|Houston|FDCservers.net|
+|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|8|171.232.56.124|4002|Vietnam|Quận Mười|Viettel Corporation|
+|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|10|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|11|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|13|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|15|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
+|16|116.105.161.27|4002|Vietnam|Da Nang|Viettel Corporation|
+|17|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
