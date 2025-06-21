@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|51.158.105.94|31826|France|Paris|SCALEWAY|
-|7|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|103.87.148.98|8090|Indonesia|Demak|Lintas Data Prima, PT|
-|11|15.161.42.78|3128|Italy|Milan|Amazon.com, Inc.|
-|12|52.194.87.84|8080|Japan|Tokyo|Amazon Technologies Inc.|
-|13|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
-|14|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
-|15|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
-|16|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
-|17|95.47.239.65|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
+|5|89.213.106.253|999|Mexico|Doctor Mora|Wifimax Connection S.a.s De C.V|
+|6|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|7|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
+|8|81.22.132.94|15182|The Netherlands|Meppel|Serva ONE LTD|
+|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|10|51.158.105.94|31826|France|Paris|SCALEWAY|
+|11|23.237.210.82|80|United States|Houston|FDCservers.net|
+|12|103.76.86.23|8080|Germany|Frankfurt am Main|MIRhosting B.V.|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
+|15|52.194.87.84|8080|Japan|Tokyo|Amazon Technologies Inc.|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|41.65.160.173|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
 |18|170.78.210.123|999|Mexico|Polotitlán de la Ilustración|Wantelco SAS de CV|
-|19|89.213.106.253|999|Mexico|Doctor Mora|Wifimax Connection S.a.s De C.V|
-|20|13.208.241.126|53233|Japan|Osaka|Amazon Technologies Inc.|
+|19|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|20|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
 
 
 
