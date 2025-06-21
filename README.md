@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **16810** proxies at the latest update. Usable proxies are below.
+> Scraper found **16835** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|6769|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|6794|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|20|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|8795|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|6|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|9|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|13|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
-|14|103.76.86.23|8080|Germany|Frankfurt am Main|MIRhosting B.V.|
-|15|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|51.158.105.94|31826|France|Paris|SCALEWAY|
-|17|103.155.199.68|1111|Indonesia|Bandung|PT Lintas Jaringan Nusantara|
-|18|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
-|19|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|20|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
+|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|12|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
+|13|23.94.214.45|221|United States|Santa Clara|HostPapa|
+|14|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
+|15|157.66.16.52|8080|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|16|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|18|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|19|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
+|20|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
 
 
 
