@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|3.35.134.107|3128|South Korea|Seoul|Amazon.com, Inc.|
-|10|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|11|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|12|35.183.6.7|17210|Canada|Toronto|Amazon Technologies Inc.|
-|13|23.237.210.82|80|United States|Houston|FDCservers.net|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|132.145.19.122|1080|United Kingdom|London|Oracle Corporation|
-|16|45.186.6.104|3128|Ecuador|Quito|Perez Tito Julio Cesar|
-|17|5.231.211.181|3128|Germany|Bad Soden am Taunus|GHOSTnet GmbH|
-|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|19|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|20|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
+|2|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|3|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
+|4|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|116.103.24.36|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|23.237.210.82|80|United States|Houston|FDCservers.net|
+|17|209.126.82.130|3128|United States|St Louis|Nubes, LLC|
+|18|35.177.23.165|10535|United Kingdom|London|Amazon Technologies Inc.|
+|19|129.150.39.242|8118|Singapore|Singapore|Oracle Corporation|
+|20|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 
 
 
