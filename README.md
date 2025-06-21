@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|13.221.134.55|3128|United States|Ashburn|Amazon.com, Inc.|
-|13|23.237.210.82|80|United States|Houston|FDCservers.net|
-|14|81.22.132.94|15182|The Netherlands|Meppel|Serva ONE LTD|
-|15|103.81.175.218|28022|Bangladesh|Chittagong|ADN Telecom Ltd.|
-|16|54.242.208.61|3128|United States|Ashburn|Amazon.com, Inc.|
-|17|3.35.134.107|3128|South Korea|Seoul|Amazon.com, Inc.|
-|18|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|2|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|3|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|164.163.40.14|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|27.76.186.41|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|13|171.239.232.232|10010|Vietnam|Quận Một|Viettel Corporation|
+|14|54.242.208.61|3128|United States|Ashburn|Amazon.com, Inc.|
+|15|103.76.86.23|8080|Germany|Frankfurt am Main|MIRhosting B.V.|
+|16|89.249.62.8|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|13.221.134.55|3128|United States|Ashburn|Amazon.com, Inc.|
+|18|13.221.134.55|3128|United States|Ashburn|Amazon.com, Inc.|
 |19|23.237.210.82|80|United States|Houston|FDCservers.net|
-|20|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|20|18.230.17.0|3128|Brazil|São Paulo|Amazon Technologies Inc.|
 
 
 
