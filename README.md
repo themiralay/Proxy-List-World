@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|5|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|6|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|7|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|5|171.237.91.201|1005|Vietnam|Hanoi|Viettel Corporation|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|9|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
+|10|103.155.199.68|1111|Indonesia|Bandung|PT Lintas Jaringan Nusantara|
+|11|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|12|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
 |13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|15|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|16|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
-|17|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|18|185.195.71.218|37769|Switzerland|Hünenberg|Datasource AG|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
+|18|51.158.105.94|31826|France|Paris|SCALEWAY|
+|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|20|3.97.12.52|3128|Canada|Toronto|Amazon Technologies Inc.|
 
 
 
