@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|3|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|6|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|81.22.132.94|15182|The Netherlands|Meppel|Serva ONE LTD|
-|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|11|81.22.132.94|15182|The Netherlands|Meppel|Serva ONE LTD|
-|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|13|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|15|3.35.134.107|3128|South Korea|Seoul|Amazon.com, Inc.|
-|16|103.76.86.23|8080|Germany|Frankfurt am Main|MIRhosting B.V.|
-|17|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|18|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|20|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|2|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|8|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|9|81.22.132.94|15182|The Netherlands|Meppel|Serva ONE LTD|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|12|23.237.210.82|80|United States|Houston|FDCservers.net|
+|13|23.237.210.82|80|United States|Houston|FDCservers.net|
+|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|15|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|16|59.47.238.4|8088|China|Benxi|CHINATELECOM Liaoning Benxi MAN|
+|17|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|18|81.22.132.94|15182|The Netherlands|Meppel|Serva ONE LTD|
+|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|20|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
 
 
 
