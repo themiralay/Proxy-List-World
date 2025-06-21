@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|185.195.71.218|37769|Switzerland|Hünenberg|Datasource AG|
-|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
-|9|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|10|18.60.105.194|17552|India|Hyderabad|Amazon.com, Inc.|
-|11|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
-|12|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|13|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
-|14|207.180.192.43|8118|France|Lauterbourg|Contabo GmbH|
-|15|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|16|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|17|59.47.238.4|8088|China|Benxi|CHINATELECOM Liaoning Benxi MAN|
-|18|23.237.210.82|80|United States|Houston|FDCservers.net|
-|19|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|20|3.96.211.99|8082|Canada|Toronto|Amazon Technologies Inc.|
+|1|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
+|2|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|3|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|4|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|185.195.71.218|37769|Switzerland|Hünenberg|Datasource AG|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|12|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
+|15|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
+|16|23.94.214.45|221|United States|Santa Clara|HostPapa|
+|17|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
+|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|19|59.47.238.4|8088|China|Benxi|CHINATELECOM Liaoning Benxi MAN|
+|20|23.237.210.82|80|United States|Houston|FDCservers.net|
 
 
 
