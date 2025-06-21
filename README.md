@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |2|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |6|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|23.237.210.82|80|United States|Houston|FDCservers.net|
-|10|81.22.132.94|15182|The Netherlands|Meppel|Serva ONE LTD|
-|11|116.103.25.152|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|14|15.168.175.83|3128|Japan|Osaka|Amazon Technologies Inc.|
-|15|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|16|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|17|164.163.40.16|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|51.158.105.94|31826|France|Paris|SCALEWAY|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|23.237.210.82|80|United States|Houston|FDCservers.net|
+|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|10|103.76.86.23|8080|Germany|Frankfurt am Main|MIRhosting B.V.|
+|11|81.22.132.94|15182|The Netherlands|Meppel|Serva ONE LTD|
+|12|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|15|164.163.40.16|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|17|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|18|185.200.191.143|8118|United States|New York|First Server Limited|
+|19|51.158.105.94|31826|France|Paris|SCALEWAY|
+|20|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
 
 
 
