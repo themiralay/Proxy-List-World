@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|23.237.210.82|80|United States|Houston|FDCservers.net|
-|4|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
-|7|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|104.237.195.171|9764|United States|Chicago|Nexeon Technologies, Inc.|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|13.221.134.55|3128|United States|Ashburn|Amazon.com, Inc.|
+|1|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|2|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|3|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|11|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
 |12|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|13|54.242.208.61|3128|United States|Ashburn|Amazon.com, Inc.|
-|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|15|3.35.134.107|3128|South Korea|Seoul|Amazon.com, Inc.|
-|16|103.76.86.23|8080|Germany|Frankfurt am Main|MIRhosting B.V.|
-|17|104.237.195.171|9764|United States|Chicago|Nexeon Technologies, Inc.|
-|18|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
-|19|27.79.172.46|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|18.60.111.249|6698|India|Hyderabad|Amazon.com, Inc.|
+|13|103.160.41.54|1080|Indonesia|Kadugadung|WISTEL|
+|14|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|15|54.242.208.61|3128|United States|Ashburn|Amazon.com, Inc.|
+|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|17|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
+|18|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|19|54.242.208.61|3128|United States|Ashburn|Amazon.com, Inc.|
+|20|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
 
 
 
