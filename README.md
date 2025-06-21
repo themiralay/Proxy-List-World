@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|6|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|23.237.210.82|80|United States|Houston|FDCservers.net|
-|11|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|12|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|13|66.228.47.125|110|United States|Cedar Knolls|Akamai Technologies, Inc.|
-|14|23.237.210.82|80|United States|Houston|FDCservers.net|
-|15|66.228.47.125|110|United States|Cedar Knolls|Akamai Technologies, Inc.|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|18|43.199.163.10|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|5|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|23.237.210.82|80|United States|Houston|FDCservers.net|
+|9|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|10|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|12|23.237.210.82|80|United States|Houston|FDCservers.net|
+|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|14|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|15|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
+|16|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|19|81.22.132.94|15182|The Netherlands|Meppel|Serva ONE LTD|
+|20|51.158.105.94|31826|France|Paris|SCALEWAY|
 
 
 
