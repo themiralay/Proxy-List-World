@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|1|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
 |8|135.234.106.253|80|United States|Phoenix|MICROSOFT|
 |9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|103.76.86.23|8080|Germany|Frankfurt am Main|MIRhosting B.V.|
-|13|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|14|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|16|13.232.213.216|3128|India|Mumbai|Amazon Technologies Inc.|
-|17|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
-|18|103.155.199.68|1111|Indonesia|Bandung|PT Lintas Jaringan Nusantara|
-|19|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
-|20|3.97.12.52|3128|Canada|Toronto|Amazon Technologies Inc.|
+|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|15|15.168.175.83|3128|Japan|Osaka|Amazon Technologies Inc.|
+|16|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
+|17|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
+|18|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
+|19|103.76.86.23|8080|Germany|Frankfurt am Main|MIRhosting B.V.|
+|20|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
 
 
 
