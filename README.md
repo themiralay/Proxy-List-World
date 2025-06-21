@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|2|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
 |3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|7|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|8|160.248.189.98|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
-|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|12|23.237.210.82|80|United States|Houston|FDCservers.net|
-|13|171.4.83.232|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|5.231.211.181|3128|Germany|Bad Soden am Taunus|GHOSTnet GmbH|
-|16|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|17|59.47.238.4|8088|China|Benxi|CHINATELECOM Liaoning Benxi MAN|
-|18|41.65.160.173|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
-|19|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|20|201.88.213.118|8080|Brazil|Brasília|V tal|
+|4|160.248.189.98|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|8|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|11|5.231.211.181|3128|Germany|Bad Soden am Taunus|GHOSTnet GmbH|
+|12|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|59.47.238.4|8088|China|Benxi|CHINATELECOM Liaoning Benxi MAN|
+|15|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|17|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|18|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|19|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|20|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
 
 
 
