@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |4|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
 |5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|81.22.132.94|15182|The Netherlands|Meppel|Serva ONE LTD|
-|9|23.237.210.82|80|United States|Houston|FDCservers.net|
-|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|12|98.130.47.34|3128|India|Hyderabad|Amazon.com|
-|13|18.60.105.194|17552|India|Hyderabad|Amazon.com, Inc.|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|23.237.210.82|80|United States|Houston|FDCservers.net|
+|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|12|81.22.132.94|15182|The Netherlands|Meppel|Serva ONE LTD|
+|13|103.81.194.123|8080|Indonesia|Bogor|PT Rtiga Global Media|
 |14|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|15|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
-|16|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
-|17|13.208.241.126|53233|Japan|Osaka|Amazon Technologies Inc.|
-|18|54.242.208.61|3128|United States|Ashburn|Amazon.com, Inc.|
-|19|160.187.246.77|10005|Vietnam|Ho Chi Minh City|DVDVN|
-|20|103.76.86.23|8080|Germany|Frankfurt am Main|MIRhosting B.V.|
+|15|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
+|16|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
+|17|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
+|18|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|19|27.69.253.255|4002|Vietnam|Da Nang|Viettel Group|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
