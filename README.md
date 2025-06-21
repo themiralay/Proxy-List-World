@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **16219** proxies at the latest update. Usable proxies are below.
+> Scraper found **16448** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|6550|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|80|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|8363|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|8592|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|2|36.93.105.114|8085|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|2|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|10|23.237.210.82|80|United States|Houston|FDCservers.net|
-|11|23.237.210.82|80|United States|Houston|FDCservers.net|
-|12|58.187.70.114|16000|Vietnam|Hanoi|FPT Telecom Company|
-|13|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
-|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|15|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
-|16|80.79.6.124|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
-|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|18|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|23.237.210.82|80|United States|Houston|FDCservers.net|
+|10|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
+|13|54.242.208.61|3128|United States|Ashburn|Amazon.com, Inc.|
+|14|13.232.213.216|3128|India|Mumbai|Amazon Technologies Inc.|
+|15|54.193.61.239|3129|United States|San Jose|Amazon.com, Inc.|
+|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|17|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|18|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
+|19|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|20|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
 
 
 
