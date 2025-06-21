@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|160.248.189.95|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
 |2|160.248.189.98|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
 |3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|4|116.104.93.220|7001|Vietnam|Hanoi|Viettel Corporation|
-|5|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|135.234.106.253|80|United States|Phoenix|MICROSOFT|
 |7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|8|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
 |9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |10|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
 |11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |12|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
 |13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
-|17|81.22.132.94|15182|The Netherlands|Meppel|Serva ONE LTD|
-|18|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|19|23.237.210.82|80|United States|Houston|FDCservers.net|
-|20|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|15|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|16|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|17|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|18|81.22.132.94|15182|The Netherlands|Meppel|Serva ONE LTD|
+|19|54.242.208.61|3128|United States|Ashburn|Amazon.com, Inc.|
+|20|3.97.12.52|3128|Canada|Toronto|Amazon Technologies Inc.|
 
 
 
