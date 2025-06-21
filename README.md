@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|135.234.106.253|80|United States|Phoenix|MICROSOFT|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |3|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|4|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|9|23.237.210.82|80|United States|Houston|FDCservers.net|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|54.242.208.61|3128|United States|Ashburn|Amazon.com, Inc.|
-|12|164.163.40.14|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|164.163.42.18|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|15|54.210.19.156|3128|United States|Ashburn|Amazon.com, Inc.|
-|16|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
-|17|177.234.226.83|1994|Ecuador|Manta|Ufinet Panama S.A.|
-|18|27.76.186.41|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|5|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|10|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|11|23.237.210.82|80|United States|Houston|FDCservers.net|
+|12|54.242.208.61|3128|United States|Ashburn|Amazon.com, Inc.|
+|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|14|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|15|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|16|164.163.42.18|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
+|18|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
 |19|23.237.210.82|80|United States|Houston|FDCservers.net|
-|20|164.163.42.46|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|35.183.6.7|17210|Canada|Toronto|Amazon Technologies Inc.|
 
 
 
