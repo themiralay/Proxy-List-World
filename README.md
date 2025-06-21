@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|122.3.50.128|8082|Philippines|Pasay|Philippine Long Distance Telephone Co.|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|7|23.237.210.82|80|United States|Houston|FDCservers.net|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
-|13|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|14|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|16|54.242.208.61|3128|United States|Ashburn|Amazon.com, Inc.|
-|17|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
-|18|3.35.134.107|3128|South Korea|Seoul|Amazon.com, Inc.|
-|19|3.26.174.5|18609|Australia|Sydney|Amazon Technologies Inc.|
-|20|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
+|3|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|4|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
+|5|202.61.120.182|8080|India|Chennai|Arjun Telecom Pvt. Ltd.|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|8|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
+|12|23.237.210.82|80|United States|Houston|FDCservers.net|
+|13|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|16|81.22.132.94|15182|The Netherlands|Meppel|Serva ONE LTD|
+|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
+|20|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
 
 
 
