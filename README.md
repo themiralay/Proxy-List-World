@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|5|171.237.91.201|1005|Vietnam|Hanoi|Viettel Corporation|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|9|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
-|10|103.155.199.68|1111|Indonesia|Bandung|PT Lintas Jaringan Nusantara|
-|11|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|12|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
-|18|51.158.105.94|31826|France|Paris|SCALEWAY|
-|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|20|3.97.12.52|3128|Canada|Toronto|Amazon Technologies Inc.|
+|1|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|2|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|10|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|15|103.76.86.23|8080|Germany|Frankfurt am Main|MIRhosting B.V.|
+|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|17|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|18|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
+|19|43.216.75.140|42761|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|20|13.208.241.126|53233|Japan|Osaka|Amazon Technologies Inc.|
 
 
 
