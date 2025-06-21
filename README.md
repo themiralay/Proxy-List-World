@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|4|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|23.237.210.82|80|United States|Houston|FDCservers.net|
-|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|103.76.86.23|8080|Germany|Frankfurt am Main|MIRhosting B.V.|
-|14|103.172.35.64|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|15|23.237.210.82|80|United States|Houston|FDCservers.net|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|7|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|8|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|13|95.47.239.65|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
+|14|51.158.105.94|31826|France|Paris|SCALEWAY|
+|15|23.94.214.45|221|United States|Santa Clara|HostPapa|
 |16|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|17|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|18|103.36.8.55|8282|Indonesia|Pandeglang|PT Awinet Global Mandiri|
-|19|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
-|20|162.213.185.12|3389|United States|Scobey|Nemont|
+|17|3.35.134.107|3128|South Korea|Seoul|Amazon.com, Inc.|
+|18|58.187.70.114|16000|Vietnam|Hanoi|FPT Telecom Company|
+|19|18.60.111.249|6698|India|Hyderabad|Amazon.com, Inc.|
+|20|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 
 
 
