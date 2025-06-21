@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **16625** proxies at the latest update. Usable proxies are below.
+> Scraper found **16828** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|6750|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|57|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|8592|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|8795|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|3|23.237.210.82|80|United States|Houston|FDCservers.net|
-|4|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|5|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|8|23.237.210.82|80|United States|Houston|FDCservers.net|
-|9|185.195.71.218|37769|Switzerland|Hünenberg|Datasource AG|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|14|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
-|15|51.158.105.94|31826|France|Paris|SCALEWAY|
-|16|54.193.61.239|3129|United States|San Jose|Amazon.com, Inc.|
-|17|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
-|20|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|6|23.237.210.82|80|United States|Houston|FDCservers.net|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|12|23.237.210.82|80|United States|Houston|FDCservers.net|
+|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|14|185.195.71.218|37769|Switzerland|Hünenberg|Datasource AG|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
+|19|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|20|3.72.40.248|50202|Germany|Frankfurt am Main|Amazon Technologies Inc.|
 
 
 
