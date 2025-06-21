@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |3|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|4|116.103.25.152|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|7|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|23.237.210.82|80|United States|Houston|FDCservers.net|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|12|190.53.46.11|38525|Nicaragua|Managua|Amnet Telecomunicaciones S.A.|
-|13|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|14|167.86.93.118|8011|Germany|Nuremberg|Contabo GmbH|
-|15|59.47.238.4|8088|China|Benxi|CHINATELECOM Liaoning Benxi MAN|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|167.86.93.118|8011|Germany|Nuremberg|Contabo GmbH|
-|18|171.105.22.54|9909|China|Liuzhou|China Telecom|
+|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|7|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|11|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|13|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|14|49.49.62.124|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|15|177.184.195.168|8080|Brazil|Brasília|Wireless Comm Services LTDA|
+|16|60.174.167.40|4999|China|Hefei|Chinanet|
+|17|82.209.251.53|45678|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
+|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |19|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|20|180.191.14.156|8088|Philippines|Cabanatuan City|Globe Telecom|
+|20|45.77.99.40|8990|United States|Piscataway|The Constant Company|
 
 
 
