@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.248.5.201|3127|Japan|Chitose|NTT PC Communications, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
 |4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|6|171.237.96.170|1002|Vietnam|Ninh Bình|Viettel Corporation|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
 |7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|27.76.13.34|10006|Vietnam|Thái Nguyên|Newass2011xDSLHCMC|
-|12|37.187.109.70|10111|France|Roubaix|OVH SAS|
-|13|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
-|14|167.86.93.118|8007|Germany|Nuremberg|Contabo GmbH|
-|15|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
-|16|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|17|209.38.150.154|3128|United States|Santa Clara|DigitalOcean, LLC|
-|18|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
-|19|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
-|20|209.38.150.154|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|103.153.39.35|8083|Pakistan|Burewala|Getlinks (SMC-Private) Limited|
+|12|116.103.25.152|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|15|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
+|16|51.94.6.53|3128|Spain|Zaragoza|Amazon.com, Inc.|
+|17|209.126.82.130|3128|United States|St Louis|Nubes, LLC|
+|18|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|19|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|20|62.33.53.248|3128|Russia|Yakutsk|TRANS-TELECOM|
 
 
 
