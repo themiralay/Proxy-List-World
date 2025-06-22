@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.5.27.147|1001|Vietnam|Ho Chi Minh City|VIETTEL|
+|1|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
 |2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|6|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|209.126.82.130|3128|United States|St Louis|Nubes, LLC|
-|11|203.188.251.50|8080|Bangladesh|Dhaka|Information Services Network Ltd|
-|12|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
+|3|107.152.35.241|8080|United States|Chicago|tzulo, inc.|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|107.152.35.241|8080|United States|Chicago|tzulo, inc.|
+|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|7|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
+|12|36.73.221.166|8080|Indonesia|Jember|PT. TELKOM INDONESIA|
 |13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|103.175.237.232|8080|Indonesia|Ngajum|PT Marva Global Telekomunikasi|
-|15|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|16|203.188.251.50|8080|Bangladesh|Dhaka|Information Services Network Ltd|
-|17|5.102.109.41|999|Mexico|San José Iturbide|IPXO|
-|18|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|19|180.149.234.74|6214|Bangladesh|Gazipur|Digi Jadoo Broadband Ltd|
-|20|103.76.86.23|8080|Germany|Frankfurt am Main|MIRhosting B.V.|
+|14|103.76.86.23|8080|Germany|Frankfurt am Main|MIRhosting B.V.|
+|15|45.136.198.40|3128|Bulgaria|Sofia|Managed by IROKO Networks|
+|16|27.79.213.220|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|18|103.81.194.120|8080|Indonesia|Bogor|PT Rtiga Global Media|
+|19|54.193.61.239|3129|United States|San Jose|Amazon.com, Inc.|
+|20|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 
 
 
