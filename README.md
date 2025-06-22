@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.5.201|3127|Japan|Chitose|NTT PC Communications, Inc.|
-|2|140.227.81.191|3128|Japan|Chiyoda|InfoSphere|
+|1|140.227.81.191|3128|Japan|Chiyoda|InfoSphere|
+|2|160.248.5.201|3127|Japan|Chitose|NTT PC Communications, Inc.|
 |3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|13|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|14|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
-|15|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|187.188.172.17|8080|Mexico|Huatusco|Total Play Telecomunicaciones SA De CV|
-|17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|18|132.145.19.122|1080|United Kingdom|London|Oracle Corporation|
-|19|62.33.53.248|3128|Russia|Yakutsk|TRANS-TELECOM|
-|20|35.154.216.140|8402|India|Mumbai|Amazon Technologies Inc.|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|171.237.96.170|1002|Vietnam|Ninh Bình|Viettel Corporation|
+|10|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|27.74.126.134|4129|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|17|103.76.86.23|8080|Germany|Frankfurt am Main|MIRhosting B.V.|
+|18|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
+|19|51.158.105.94|31826|France|Paris|SCALEWAY|
+|20|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 
 
 
