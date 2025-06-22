@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.5.201|3127|Japan|Chitose|NTT PC Communications, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |6|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
 |7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|103.153.39.35|8083|Pakistan|Burewala|Getlinks (SMC-Private) Limited|
-|12|116.103.25.152|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|15|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
-|16|51.94.6.53|3128|Spain|Zaragoza|Amazon.com, Inc.|
-|17|209.126.82.130|3128|United States|St Louis|Nubes, LLC|
-|18|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|19|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|20|62.33.53.248|3128|Russia|Yakutsk|TRANS-TELECOM|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|18.179.196.43|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
+|14|103.153.39.35|8083|Pakistan|Burewala|Getlinks (SMC-Private) Limited|
+|15|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
+|16|208.102.24.225|8888|United States|Harrison|Fuse Internet Access|
+|17|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
+|18|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|19|13.233.114.15|29489|India|Mumbai|Amazon Technologies Inc.|
+|20|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
 
 
 
