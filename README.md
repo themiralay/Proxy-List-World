@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -42,22 +42,22 @@ Click the file format that you want and copy the URL.
 |1|161.34.67.48|4649|Japan|Minamishinagawa|NTT PC Communications, Inc.|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|103.148.113.170|8080|Indonesia|Cimahi|PT. FORIT ASTA SOLUSINDO|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
-|14|18.203.249.67|10010|Ireland|Dublin|Amazon Technologies Inc.|
-|15|116.103.24.36|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|208.102.24.225|8888|United States|Harrison|Fuse Internet Access|
-|17|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|18|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|19|180.180.109.3|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|11|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|12|15.168.175.83|3128|Japan|Osaka|Amazon Technologies Inc.|
+|13|3.70.161.228|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|14|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
+|15|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|16|15.161.42.78|3128|Italy|Milan|Amazon.com, Inc.|
+|17|43.216.214.221|4289|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|18|210.16.85.42|8080|India|Kanchipuram|Sri Vari Network Private Limited|
+|19|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
 |20|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
 
 
