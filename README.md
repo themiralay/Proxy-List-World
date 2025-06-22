@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|3|144.217.131.61|3148|Canada|Beauharnois|OVH Hosting|
-|4|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|3|43.252.107.102|7777|Indonesia|Gamping Lor|PT Lintas Data Prima|
+|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|5|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
 |6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|7|51.158.105.94|31826|France|Paris|SCALEWAY|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|10|27.71.142.187|16000|Vietnam|Hanoi|Viettel Group|
-|11|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
-|12|43.252.107.102|7777|Indonesia|Gamping Lor|PT Lintas Data Prima|
-|13|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|14|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|15|3.83.220.106|3128|United States|Ashburn|Amazon Technologies Inc.|
-|16|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
-|17|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|20|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
+|7|38.7.16.85|999|Mexico|Zacapú|Internet Telefonia Y TV De Michoacan SA De CV|
+|8|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
+|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|51.158.105.94|31826|France|Paris|SCALEWAY|
+|14|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
+|15|103.28.112.134|8080|Indonesia|Gamping Lor|PT Lintas Data Prima|
+|16|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|17|3.83.220.106|3128|United States|Ashburn|Amazon Technologies Inc.|
+|18|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|19|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|20|159.89.245.69|53971|United States|Clifton|DigitalOcean, LLC|
 
 
 
