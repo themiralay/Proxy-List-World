@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|116.103.27.123|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|9|27.79.229.136|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|138.201.35.98|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|11|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
-|12|27.71.142.187|16000|Vietnam|Hanoi|Viettel Group|
-|13|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|14|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
-|15|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|16|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|17|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
-|18|103.247.23.242|1111|Indonesia|Banyumas|PT wifian Solution|
-|19|27.79.197.184|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|1|27.79.200.215|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|7|27.79.128.23|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|116.103.24.36|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|116.103.25.149|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
+|13|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|14|54.210.19.156|3128|United States|Ashburn|Amazon.com, Inc.|
+|15|27.79.135.188|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|103.124.198.98|1080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
+|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|18|208.102.24.225|8888|United States|Harrison|Fuse Internet Access|
+|19|27.79.250.9|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
 
 
 
