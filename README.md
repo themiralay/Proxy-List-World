@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
 |3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|8|27.79.213.220|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|11|3.11.14.39|3128|United Kingdom|London|Amazon Technologies Inc.|
-|12|18.100.217.180|3128|Spain|Zaragoza|Amazon Technologies Inc.|
-|13|27.79.186.36|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|27.79.220.233|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|16|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|17|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|18|190.85.43.6|8080|Colombia|Medellín|Telmex Colombia S.A.|
-|19|204.157.185.2|999|Peru|Nazca|Signal Peru S.A.C|
-|20|171.234.54.74|5555|Vietnam|Buon Ma Thuot|Viettel Corporation|
+|5|157.245.124.217|53971|United States|Clifton|DigitalOcean, LLC|
+|6|159.89.245.69|53971|United States|Clifton|DigitalOcean, LLC|
+|7|23.237.210.82|80|United States|Houston|FDCservers.net|
+|8|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|51.158.105.94|31826|France|Paris|SCALEWAY|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|15|157.245.124.217|53971|United States|Clifton|DigitalOcean, LLC|
+|16|159.89.245.69|53971|United States|Clifton|DigitalOcean, LLC|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|27.79.193.193|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
+|20|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
 
 
 
