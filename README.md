@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.67.48|4649|Japan|Minamishinagawa|NTT PC Communications, Inc.|
-|2|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|157.245.124.217|53971|United States|Clifton|DigitalOcean, LLC|
-|6|159.89.245.69|53971|United States|Clifton|DigitalOcean, LLC|
-|7|23.237.210.82|80|United States|Houston|FDCservers.net|
-|8|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|12|51.158.105.94|31826|France|Paris|SCALEWAY|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|15|157.245.124.217|53971|United States|Clifton|DigitalOcean, LLC|
-|16|159.89.245.69|53971|United States|Clifton|DigitalOcean, LLC|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|27.79.193.193|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
-|20|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|5|157.66.16.54|8989|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|6|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|157.245.124.217|53971|United States|Clifton|DigitalOcean, LLC|
+|10|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|11|159.89.245.69|53971|United States|Clifton|DigitalOcean, LLC|
+|12|3.97.12.52|3128|Canada|Toronto|Amazon Technologies Inc.|
+|13|103.191.196.98|8881|Indonesia|Pamanukan|PT Pangkalan Lintas Data|
+|14|181.129.158.134|999|Colombia|Barranquilla|EPM Telecomunicaciones S.A. E.S.P.|
+|15|27.79.135.188|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
+|17|13.245.30.86|3128|South Africa|Johannesburg|Amazon.com, Inc.|
+|18|52.194.87.84|8080|Japan|Tokyo|Amazon Technologies Inc.|
+|19|183.89.208.90|8080|Thailand|Chaiyaphum|Triple T Broadband Public Company Limited|
+|20|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
