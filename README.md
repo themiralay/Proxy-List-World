@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|161.34.67.48|4649|Japan|Minamishinagawa|NTT PC Communications, Inc.|
 |2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|10|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
-|11|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|12|3.70.161.228|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|98.130.47.34|3128|India|Hyderabad|Amazon.com|
-|15|23.94.214.45|221|United States|Santa Clara|HostPapa|
-|16|89.249.62.8|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|116.103.25.152|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|23.94.214.45|221|United States|Santa Clara|HostPapa|
+|3|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|4|27.79.213.220|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|13|35.152.137.65|26038|Italy|Milan|Amazon.com, Inc.|
+|14|213.226.119.120|4857|Turkey|Istanbul|Mehmet Selim Sahin|
+|15|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
+|16|208.102.24.225|8888|United States|Harrison|Fuse Internet Access|
+|17|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|18|3.35.134.107|3128|South Korea|Seoul|Amazon.com, Inc.|
+|19|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|20|35.154.216.140|8402|India|Mumbai|Amazon Technologies Inc.|
 
 
 
