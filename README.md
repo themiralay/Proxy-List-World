@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|5|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|116.103.27.123|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
+|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|12|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|13|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|27.79.135.188|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|112.199.40.53|8080|Philippines|Taguig|Eastern Telecommunications Philippines|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
+|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|19|27.79.193.193|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|3.26.174.5|18609|Australia|Sydney|Amazon Technologies Inc.|
 
 
 
