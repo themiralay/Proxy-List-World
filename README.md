@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|27.79.229.136|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|116.103.25.149|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|27.79.200.215|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|3.83.220.106|3128|United States|Ashburn|Amazon Technologies Inc.|
+|1|27.79.229.136|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|103.82.36.237|39715|Vietnam|Thanh Khê|Cloudfly Corporation|
+|4|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|5|116.103.25.149|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|103.160.68.19|8080|Indonesia|Surabaya|PT Gayatri Lintas Nusantara|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|11|27.79.200.215|16000|Vietnam|Hanoi|Viettel Corporation|
 |12|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
 |13|3.83.220.106|3128|United States|Ashburn|Amazon Technologies Inc.|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|107.152.35.241|8080|United States|Chicago|tzulo, inc.|
-|16|116.96.82.145|16000|Vietnam|Hai BàTrưng|Viettel Corporation|
-|17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|18|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|14|3.83.220.106|3128|United States|Ashburn|Amazon Technologies Inc.|
+|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|27.79.213.220|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|92.246.87.155|3128|The Netherlands|Amsterdam|PIO-Hosting GmbH|
 |19|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
-|20|18.229.123.78|8080|Brazil|São Paulo|Amazon Technologies Inc.|
+|20|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
