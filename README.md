@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **29869** proxies at the latest update. Usable proxies are below.
+> Scraper found **65257** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|17|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35388|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|80|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|28846|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|2|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|1|47.76.189.189|8899|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|2|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|5|3.83.220.106|3128|United States|Ashburn|Amazon Technologies Inc.|
-|6|3.83.220.106|3128|United States|Ashburn|Amazon Technologies Inc.|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|4|144.217.119.85|3207|Canada|Beauharnois|OVH Hosting|
+|5|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|6|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|7|3.83.220.106|3128|United States|Ashburn|Amazon Technologies Inc.|
+|8|3.83.220.106|3128|United States|Ashburn|Amazon Technologies Inc.|
 |9|86.104.74.59|3128|France|Paris|PQ HOSTING PLUS S.R.L.|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
 |11|51.158.105.94|31826|France|Paris|SCALEWAY|
-|12|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|13|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
-|14|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|15|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|16|45.171.111.255|999|Ecuador|Nueva Loja|Lagonet-tv Cia. Ltda.|
-|17|35.177.23.165|10535|United Kingdom|London|Amazon Technologies Inc.|
-|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|19|103.180.123.39|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|20|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|12|103.190.62.225|1080|Indonesia|Utan|PT Retbizz Exabit Indonesia|
+|13|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|103.132.52.42|8080|Indonesia|Banjarnegara|PT Adeaksa Indo Jayatama|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|17|95.164.0.177|36352|Poland|Warsaw|PQ HOSTING PLUS S.R.L.|
+|18|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
+|19|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|20|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
 
 
 
