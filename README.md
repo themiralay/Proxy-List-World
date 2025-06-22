@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.67.48|4649|Japan|Minamishinagawa|NTT PC Communications, Inc.|
-|2|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|3|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 |5|23.237.210.82|80|United States|Houston|FDCservers.net|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|23.237.210.82|80|United States|Houston|FDCservers.net|
-|8|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|9|157.245.124.217|53971|United States|Clifton|DigitalOcean, LLC|
-|10|157.245.124.217|53971|United States|Clifton|DigitalOcean, LLC|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|157.245.124.217|53971|United States|Clifton|DigitalOcean, LLC|
+|8|159.89.245.69|53971|United States|Clifton|DigitalOcean, LLC|
+|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|10|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
 |11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |12|159.89.245.69|53971|United States|Clifton|DigitalOcean, LLC|
-|13|159.89.245.69|53971|United States|Clifton|DigitalOcean, LLC|
-|14|116.103.25.149|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|157.245.124.217|53971|United States|Clifton|DigitalOcean, LLC|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
 |16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |17|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
-|18|116.103.24.36|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
 |19|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|20|3.11.14.39|3128|United Kingdom|London|Amazon Technologies Inc.|
+|20|51.158.105.94|31826|France|Paris|SCALEWAY|
 
 
 
