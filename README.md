@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|2|163.61.47.10|1111|Indonesia|Purwakarta|PT BAYU MULTIMEDIA TELEKOMUNIKASI|
-|3|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|1|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|2|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 |4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|7|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|51.158.105.94|31826|France|Paris|SCALEWAY|
-|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|12|3.11.14.39|3128|United Kingdom|London|Amazon Technologies Inc.|
-|13|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|14|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|15|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
-|16|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
-|17|18.101.7.10|3128|Spain|Zaragoza|Amazon Technologies Inc.|
-|18|103.28.112.134|8080|Indonesia|Gamping Lor|PT Lintas Data Prima|
-|19|35.177.23.165|10535|United Kingdom|London|Amazon Technologies Inc.|
-|20|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|5|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|6|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
+|11|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|12|192.99.182.243|3128|United States|Newark|OVH Hosting|
+|13|51.158.105.94|31826|France|Paris|SCALEWAY|
+|14|176.88.175.196|8080|Türkiye|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|16|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|17|3.83.220.106|3128|United States|Ashburn|Amazon Technologies Inc.|
+|18|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
 
 
 
