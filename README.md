@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|4|23.237.210.82|80|United States|Houston|FDCservers.net|
-|5|3.83.220.106|3128|United States|Ashburn|Amazon Technologies Inc.|
+|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|5|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
 |6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|157.245.124.217|53971|United States|Clifton|DigitalOcean, LLC|
-|8|159.89.245.69|53971|United States|Clifton|DigitalOcean, LLC|
+|7|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |9|23.237.210.82|80|United States|Houston|FDCservers.net|
-|10|3.83.220.106|3128|United States|Ashburn|Amazon Technologies Inc.|
-|11|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
-|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|13|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|14|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|15|3.11.14.39|3128|United Kingdom|London|Amazon Technologies Inc.|
-|16|73.31.173.80|8888|United States|Orange|Comcast Cable Communications|
-|17|3.26.174.5|18609|Australia|Sydney|Amazon Technologies Inc.|
-|18|103.190.113.120|8085|Indonesia|Grobogan|PT Linkbit Inovasi Teknologi|
-|19|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|20|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
+|10|157.245.124.217|53971|United States|Clifton|DigitalOcean, LLC|
+|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|12|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|13|3.83.220.106|3128|United States|Ashburn|Amazon Technologies Inc.|
+|14|159.89.245.69|53971|United States|Clifton|DigitalOcean, LLC|
+|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|16|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|17|23.237.210.82|80|United States|Houston|FDCservers.net|
+|18|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
+|19|27.79.193.193|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
 
 
 
