@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|157.66.16.52|8080|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|3.83.220.106|3128|United States|Ashburn|Amazon Technologies Inc.|
+|1|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|2|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|3.83.220.106|3128|United States|Ashburn|Amazon Technologies Inc.|
+|5|135.234.106.253|80|United States|Phoenix|MICROSOFT|
 |6|3.83.220.106|3128|United States|Ashburn|Amazon Technologies Inc.|
-|7|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|86.104.74.59|3128|France|Paris|PQ HOSTING PLUS S.R.L.|
-|9|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
-|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|14|159.89.245.69|53971|United States|Clifton|DigitalOcean, LLC|
-|15|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|16|51.158.105.94|31826|France|Paris|SCALEWAY|
-|17|159.89.245.69|53971|United States|Clifton|DigitalOcean, LLC|
-|18|18.101.7.10|3128|Spain|Zaragoza|Amazon Technologies Inc.|
-|19|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|20|31.57.178.153|8090|Indonesia|Jakarta|PT Perwira Media Solusi|
+|7|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|8|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|86.104.74.59|3128|France|Paris|PQ HOSTING PLUS S.R.L.|
+|10|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|11|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|12|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
+|13|157.245.124.217|53971|United States|Clifton|DigitalOcean, LLC|
+|14|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|15|164.163.42.21|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
+|17|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
+|18|73.31.173.80|8888|United States|Orange|Comcast Cable Communications|
+|19|73.31.173.80|8888|United States|Orange|Comcast Cable Communications|
+|20|5.102.109.41|999|Mexico|San José Iturbide|IPXO|
 
 
 
