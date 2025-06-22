@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|27.79.165.172|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|3|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|2|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|116.96.82.145|16000|Vietnam|Hai BàTrưng|Viettel Corporation|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |9|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|10|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |13|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
-|17|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
-|18|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
-|19|67.223.225.161|43080|United States|Jacksonville|Newfold Digital, Inc.|
-|20|67.223.241.33|43080|United States|Jacksonville|Newfold Digital, Inc.|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|16|51.158.105.94|31826|France|Paris|SCALEWAY|
+|17|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
+|18|213.226.119.120|4857|Turkey|Istanbul|Mehmet Selim Sahin|
+|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
 
 
 
