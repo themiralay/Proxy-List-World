@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|52.194.87.84|8080|Japan|Tokyo|Amazon Technologies Inc.|
 |2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
-|5|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|4|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|5|3.83.220.106|3128|United States|Ashburn|Amazon Technologies Inc.|
 |6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|3.83.220.106|3128|United States|Ashburn|Amazon Technologies Inc.|
-|8|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
-|9|23.237.210.82|80|United States|Houston|FDCservers.net|
-|10|3.83.220.106|3128|United States|Ashburn|Amazon Technologies Inc.|
-|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
-|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|15|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|16|18.101.7.10|3128|Spain|Zaragoza|Amazon Technologies Inc.|
-|17|179.1.95.213|999|Colombia|Floridablanca|Internexa S.a. E.S.P|
-|18|103.202.226.75|8080|Indonesia|Surabaya|PT Ring Media Nusantara|
-|19|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|20|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|3.83.220.106|3128|United States|Ashburn|Amazon Technologies Inc.|
+|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|51.158.105.94|31826|France|Paris|SCALEWAY|
+|12|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|13|67.223.241.33|43080|United States|Jacksonville|Newfold Digital, Inc.|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
+|16|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
+|17|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|18|144.217.131.61|3148|Canada|Beauharnois|OVH Hosting|
+|19|3.11.14.39|3128|United Kingdom|London|Amazon Technologies Inc.|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
