@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|1|117.5.27.147|1001|Vietnam|Ho Chi Minh City|VIETTEL|
 |2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|18.60.105.194|17552|India|Hyderabad|Amazon.com, Inc.|
-|10|103.76.86.23|8080|Germany|Frankfurt am Main|MIRhosting B.V.|
-|11|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
-|12|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
-|13|116.103.25.152|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|89.249.62.8|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|16|209.126.82.130|3128|United States|St Louis|Nubes, LLC|
-|17|18.179.196.43|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|18|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|19|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|20|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|4|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|6|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|209.126.82.130|3128|United States|St Louis|Nubes, LLC|
+|11|203.188.251.50|8080|Bangladesh|Dhaka|Information Services Network Ltd|
+|12|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|103.175.237.232|8080|Indonesia|Ngajum|PT Marva Global Telekomunikasi|
+|15|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|16|203.188.251.50|8080|Bangladesh|Dhaka|Information Services Network Ltd|
+|17|5.102.109.41|999|Mexico|San José Iturbide|IPXO|
+|18|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|19|180.149.234.74|6214|Bangladesh|Gazipur|Digi Jadoo Broadband Ltd|
+|20|103.76.86.23|8080|Germany|Frankfurt am Main|MIRhosting B.V.|
 
 
 
