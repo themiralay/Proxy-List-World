@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|2|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|1|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|4|135.234.106.253|80|United States|Phoenix|MICROSOFT|
 |5|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 |6|189.240.60.172|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|7|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|8|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|7|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|8|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 |9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |10|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|11|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|12|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
+|11|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|12|67.223.225.161|43080|United States|Jacksonville|Newfold Digital, Inc.|
 |13|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|14|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|18|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
-|19|3.83.220.106|3128|United States|Ashburn|Amazon Technologies Inc.|
+|14|64.227.133.102|3128|India|Bengaluru|DigitalOcean, LLC|
+|15|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|16|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
 |20|3.11.14.39|3128|United Kingdom|London|Amazon Technologies Inc.|
 
 
