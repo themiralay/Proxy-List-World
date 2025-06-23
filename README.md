@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|171.249.238.151|4006|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|116.206.242.110|3888|Indonesia|Jakarta|CBN|
-|7|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|8|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|11|103.215.187.66|3127|Indonesia|Duren Tiga|PT Jaringan Inti Exadata|
-|12|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|13|112.198.132.199|8082|Philippines|Nasugbu|Globe Telecom|
-|14|36.64.214.203|6969|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|15|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
-|18|51.158.105.94|31826|France|Paris|SCALEWAY|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|38.183.146.143|8090|Indonesia|Weleri|PT Ikhlas Cipta Teknologi|
+|5|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
+|9|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|11|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
+|12|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
+|13|77.91.77.217|31563|Germany|Frankfurt am Main|Aeza International LTD|
+|14|172.93.134.10|9764|United States|Chicago|Nexeon Technologies, Inc.|
+|15|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|17|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
+|19|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
+|20|102.209.148.11|8080|Ghana|Sunyani|Sunyani Technical University|
 
 
 
