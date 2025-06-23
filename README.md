@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|3|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|4|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|3|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|6|45.77.249.199|1236|Singapore|Singapore|The Constant Company|
 |7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|3.11.14.39|3128|United Kingdom|London|Amazon Technologies Inc.|
-|12|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|14|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|15|77.91.77.217|31563|Germany|Frankfurt am Main|Aeza International LTD|
-|16|41.59.200.27|3030|Tanzania|Dar es Salaam|Tanzania Telecommunications CO. LTD|
-|17|85.190.241.20|8888|Germany|Karlsruhe|Contabo GmbH|
-|18|102.223.154.177|8080|Sierra Leone|Freetown|MOIAC|
-|19|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|20|67.43.236.20|26439|Canada|Montreal|GloboTech Communications|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
+|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|14|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|15|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|16|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|18|3.11.14.39|3128|United Kingdom|London|Amazon Technologies Inc.|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
 
 
 
