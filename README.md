@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|2|103.54.80.181|8080|Indonesia|Purbalingga|MEDIACOMPUTINDO|
-|3|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|1|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|2|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|3|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
 |4|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|7|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|9|58.186.174.213|16000|Vietnam|Hanoi|FPT Telecom Company|
-|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|77.91.77.217|31563|Germany|Frankfurt am Main|Aeza International LTD|
-|13|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|14|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
-|15|47.236.255.30|9876|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|17|23.237.210.82|80|United States|Houston|FDCservers.net|
-|18|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
-|20|67.43.236.19|10905|Canada|Montreal|GloboTech Communications|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|58.186.174.213|16000|Vietnam|Hanoi|FPT Telecom Company|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|51.158.105.94|31826|France|Paris|SCALEWAY|
+|12|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|13|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|14|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|15|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|16|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|17|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|18|189.240.60.172|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|19|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
+|20|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
 
 
 
