@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
 |2|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|101.109.186.121|8080|Thailand|Bangkok|TOT Public Company Limited|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
-|10|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
-|11|103.154.230.92|8080|Indonesia|Parengan|DIGITNET|
-|12|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
-|13|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|16|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|5|189.240.60.172|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|6|189.240.60.162|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|7|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|8|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|9|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|10|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|11|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|13|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|14|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|15|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|16|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|17|135.234.106.253|80|United States|Phoenix|MICROSOFT|
 |18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|20|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|19|51.158.105.94|31826|France|Paris|SCALEWAY|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
