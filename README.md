@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **76420** proxies at the latest update. Usable proxies are below.
+> Scraper found **76526** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|22|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36481|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36587|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|98|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38893|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
 |2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|8|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|9|160.248.5.201|3127|Japan|Ichikawa|NTT PC Communications, Inc.|
-|10|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|10|160.248.5.201|3127|Japan|Ichikawa|NTT PC Communications, Inc.|
+|11|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 |12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|13|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|14|27.50.29.180|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
-|15|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|16|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|17|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|18|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|13|13.208.146.185|3128|Japan|Osaka|Amazon Technologies Inc.|
+|14|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|15|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|16|172.93.213.182|3128|United States|Jacksonville|StylenTech LLC|
+|17|51.158.105.94|31826|France|Paris|SCALEWAY|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|117.5.24.204|5104|Vietnam|Hanoi|VIETTEL|
+|20|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
