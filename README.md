@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|8|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|160.248.5.201|3127|Japan|Ichikawa|NTT PC Communications, Inc.|
-|11|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|13|13.208.146.185|3128|Japan|Osaka|Amazon Technologies Inc.|
-|14|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|15|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|16|172.93.213.182|3128|United States|Jacksonville|StylenTech LLC|
-|17|51.158.105.94|31826|France|Paris|SCALEWAY|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|117.5.24.204|5104|Vietnam|Hanoi|VIETTEL|
-|20|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
+|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|2|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|5|103.191.254.1|8001|Indonesia|Jadi|PT Ayodya Data Internusa|
+|6|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|103.160.182.125|8080|Indonesia|Tlogosari|PT Internusa Duta Makmur|
+|10|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|12|77.91.77.217|31563|Germany|Frankfurt am Main|Aeza International LTD|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|99.112.0.213|8080|United States|Kennesaw|AT&T Enterprises, LLC|
 
 
 
