@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|8|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|9|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|11|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|13|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|14|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
-|15|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|16|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|17|77.91.77.217|31563|Germany|Frankfurt am Main|Aeza International LTD|
-|18|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|19|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|1|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|9|122.52.109.3|8081|Philippines|Pasay|Philippine Long Distance Telephone Co.|
+|10|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|11|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|152.67.199.163|3128|South Korea|Chuncheon|Oracle Corporation|
+|13|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|14|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
+|15|51.158.105.94|31826|France|Paris|SCALEWAY|
+|16|27.79.214.241|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|179.61.154.8|8050|Brazil|São Paulo|Hostzone Tecnologia LTDA|
+|18|182.93.75.77|8080|Nepal|Butwāl|Subisu Cablenet|
+|19|41.248.203.32|39811|Morocco|Salé|ADSL Maroc telecom|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
