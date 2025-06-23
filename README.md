@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|2|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
-|3|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|4|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|7|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|12|27.79.144.61|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|14|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|15|27.79.157.125|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|17|116.103.25.149|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|27.79.205.3|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|27.79.151.127|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|103.157.62.231|8080|Indonesia|Pangandaran|ADSNETWORK|
+|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|10|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|11|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|12|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|13|116.103.25.149|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|27.79.214.241|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|114.7.162.94|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|18|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
 
 
 
