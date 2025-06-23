@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|135.234.106.253|80|United States|Phoenix|MICROSOFT|
 |2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|8|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|6|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|13|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|27.79.205.3|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|167.86.93.118|8058|Germany|Nuremberg|Contabo GmbH|
-|19|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|20|67.43.228.253|2867|Canada|Montreal|GloboTech Communications|
+|12|3.11.14.39|3128|United Kingdom|London|Amazon Technologies Inc.|
+|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|14|27.79.166.110|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|16|67.43.228.253|2867|Canada|Montreal|GloboTech Communications|
+|17|37.27.203.159|8091|Finland|Helsinki|Hetzner Online GmbH|
+|18|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
+|19|185.200.38.53|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|188.132.249.231|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
 
 
 
