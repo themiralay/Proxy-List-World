@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|2|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|1|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|3|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
 |4|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|5|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|6|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|7|103.191.196.206|8080|Indonesia|Pamanukan|PT Pangkalan Lintas Data|
-|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|9|103.217.224.36|3127|Indonesia|Ungaran|PT Nesta Indo Media|
-|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|12|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
-|13|116.103.25.152|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|187.251.134.165|3128|Mexico|Manzanillo|Total Play Telecomunicaciones SA De CV|
-|16|103.166.106.49|8080|Indonesia|Loa Janan|PT Berlian Media Teknologi|
-|17|103.145.68.201|8181|Indonesia|Mrongi Daja|ALFANET|
-|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|19|93.190.138.107|46182|The Netherlands|Naaldwijk|WorldStream B.V.|
-|20|27.79.167.180|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|9|27.79.166.110|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|27.79.218.80|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
+|14|103.169.255.201|6080|Indonesia|Kedungsumur|PT Master Star Network|
+|15|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|149.86.140.241|8080|Turkey|Sille|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|17|93.190.138.107|46182|The Netherlands|Naaldwijk|WorldStream B.V.|
+|18|80.79.6.124|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
+|19|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
+|20|192.203.0.70|999|Puerto Rico|Fajardo|Boom NET|
 
 
 
