@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.76.162.56|10007|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|2|115.77.170.63|10004|Vietnam|Vũng Tàu|Viettel Group|
-|3|115.74.8.143|10005|Vietnam|Vũng Tàu|VIETELxdsl|
-|4|14.226.61.31|10004|Vietnam|Hanoi|VNPT|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|7|14.224.27.65|4002|Vietnam|Vĩnh Yên|VNPT|
-|8|117.5.226.159|5102|Vietnam|Hanoi|VIETTEL|
-|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|11|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|12|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|13|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|115.72.11.177|10006|Vietnam|Vũng Tàu|VIETELmetro|
-|16|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
-|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|19|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|20|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|1|115.72.165.91|10008|Vietnam|Ho Chi Minh City|VIETELmetro|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|5|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|77.91.77.217|31563|Germany|Frankfurt am Main|Aeza International LTD|
+|9|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|13|14.224.27.65|4002|Vietnam|Vĩnh Yên|VNPT|
+|14|115.74.8.143|10005|Vietnam|Vũng Tàu|VIETELxdsl|
+|15|51.158.105.94|31826|France|Paris|SCALEWAY|
+|16|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|17|213.226.119.120|4857|Turkey|Istanbul|Mehmet Selim Sahin|
+|18|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|19|3.11.14.39|3128|United Kingdom|London|Amazon Technologies Inc.|
+|20|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
 
 
 
