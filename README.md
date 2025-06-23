@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|2|103.217.224.36|3127|Indonesia|Ungaran|PT Nesta Indo Media|
-|3|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|4|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|6|157.245.124.217|53971|United States|Clifton|DigitalOcean, LLC|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|159.89.245.69|53971|United States|Clifton|DigitalOcean, LLC|
-|9|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|10|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|12|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|31.56.78.170|8181|Indonesia|Jakarta|PT Perwira Media Solusi|
-|14|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|15|119.252.173.26|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
-|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|18.100.217.180|3128|Spain|Zaragoza|Amazon Technologies Inc.|
-|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|19|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|1|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|2|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|3|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|4|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|7|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|8|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
+|9|95.164.0.177|36352|Poland|Warsaw|PQ HOSTING PLUS S.R.L.|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|116.103.27.123|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|13|119.252.173.26|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
+|14|37.27.253.44|8003|Finland|Helsinki|Hetzner Online GmbH|
+|15|67.43.228.254|25987|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.252|12009|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.170|8607|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|11323|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.20|15183|Canada|Montreal|GloboTech Communications|
+|20|45.235.255.170|3129|Mexico|Othón P. Blanco|Buenas Noticias SA De CV|
 
 
 
