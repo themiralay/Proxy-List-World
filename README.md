@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|116.108.36.102|4002|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |3|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
-|4|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|116.108.36.102|4002|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|5|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
 |6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |7|23.237.210.82|80|United States|Houston|FDCservers.net|
-|8|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|9|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|10|23.237.210.82|80|United States|Houston|FDCservers.net|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
-|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|18|41.65.160.171|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
-|19|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|20|27.76.162.56|10003|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|23.237.210.82|80|United States|Houston|FDCservers.net|
+|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|11|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|13|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|3.11.14.39|3128|United Kingdom|London|Amazon Technologies Inc.|
+|15|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|181.174.228.96|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
+|18|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|19|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
+|20|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
