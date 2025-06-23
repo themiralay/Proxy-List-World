@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|6|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|77.91.77.217|31563|Germany|Frankfurt am Main|Aeza International LTD|
-|9|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|12|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
-|13|171.228.173.74|10089|Vietnam|Hanoi|Viettel Corporation|
-|14|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|15|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|16|3.11.14.39|3128|United Kingdom|London|Amazon Technologies Inc.|
-|17|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
-|18|93.190.138.107|46182|The Netherlands|Naaldwijk|WorldStream B.V.|
-|19|23.237.210.82|80|United States|Houston|FDCservers.net|
-|20|58.69.137.62|8081|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|1|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|5|67.223.225.161|43080|United States|Jacksonville|Newfold Digital, Inc.|
+|6|51.158.105.94|31826|France|Paris|SCALEWAY|
+|7|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|12|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|13|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|14|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|16|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|17|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
+|18|3.11.14.39|3128|United Kingdom|London|Amazon Technologies Inc.|
+|19|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|20|171.228.173.172|5109|Vietnam|Hanoi|Viettel Corporation|
 
 
 
