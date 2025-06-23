@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.66.94|4649|Japan|Minamishinagawa|NTT PC Communications, Inc.|
-|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|171.251.99.140|1001|Vietnam|Da Nang|Viettel Corporation|
+|5|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
 |6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|13|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|14|171.237.90.149|1002|Vietnam|Hanoi|Viettel Corporation|
+|7|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|8|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|9|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|36.95.78.156|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|12|103.82.37.232|8888|Vietnam|Thanh Khê|Cloudfly Corporation|
+|13|105.158.146.52|39811|Morocco|Rabat|ADSL Maroc telecom|
+|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |15|27.79.218.80|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|105.158.146.52|39811|Morocco|Rabat|ADSL Maroc telecom|
-|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|19|171.227.28.7|4002|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|20|171.249.232.167|4007|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|17|103.56.206.67|4000|Indonesia|Cirebon|Argon Data Communication|
+|18|103.81.194.124|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|19|103.148.131.108|8080|Indonesia|Jatibarang|PT Anugerah Cimanuk Raya|
+|20|5.1.8.201|8282|Ukraine|Rivne|PRIVATE JOINT STOCK COMPANY "DATAGROUP"|
 
 
 
