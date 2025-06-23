@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|5|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|6|67.223.225.161|43080|United States|Jacksonville|Newfold Digital, Inc.|
-|7|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|5|156.240.204.251|8118|Hong Kong|Hong Kong|Tcloudnet|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|8|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|11|27.79.167.180|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
 |13|77.91.77.217|31563|Germany|Frankfurt am Main|Aeza International LTD|
-|14|51.158.105.94|31826|France|Paris|SCALEWAY|
-|15|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|16|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|17|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
-|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|19|3.11.14.39|3128|United Kingdom|London|Amazon Technologies Inc.|
-|20|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|58.186.162.162|16000|Vietnam|Hanoi|FPT Telecom Company|
+|16|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
+|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|18|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|20|103.39.51.194|8080|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
 
 
 
