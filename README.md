@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|4|160.248.189.95|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|8|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|10|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|11|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|13|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|14|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
-|15|67.223.225.161|43080|United States|Jacksonville|Newfold Digital, Inc.|
-|16|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|77.91.77.217|31563|Germany|Frankfurt am Main|Aeza International LTD|
-|18|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|19|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
-|20|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|1|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|3|160.248.189.95|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|6|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|11|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|12|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|51.158.105.94|31826|France|Paris|SCALEWAY|
+|15|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|58.186.162.162|16000|Vietnam|Hanoi|FPT Telecom Company|
+|18|27.79.218.80|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|20|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 
 
 
