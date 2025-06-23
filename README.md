@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.189.95|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|2|160.248.189.95|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
 |3|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|4|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|5|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|11|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|14|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|6|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|12|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |15|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|16|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|36.88.150.67|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|19|51.158.105.94|31826|France|Paris|SCALEWAY|
-|20|102.223.154.177|8080|Sierra Leone|Freetown|MOIAC|
+|16|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|18|77.91.77.217|31563|Germany|Frankfurt am Main|Aeza International LTD|
+|19|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
+|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
