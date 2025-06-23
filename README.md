@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|4|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|8|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|9|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|12|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|13|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|14|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|15|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|16|202.47.185.2|8080|Indonesia|Selong|PT Putra Garsel Interkoneksi|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
-|19|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|20|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
+|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|11|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|12|45.12.150.82|8080|Spain|Madrid|PQ HOSTING PLUS S.R.L.|
+|13|103.75.96.142|1111|Indonesia|Utan|MORATELINDO|
+|14|95.217.28.16|1234|Finland|Helsinki|Hetzner Online GmbH|
+|15|77.91.77.217|31563|Germany|Frankfurt am Main|Aeza International LTD|
+|16|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|17|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|18|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|19|3.141.38.145|3128|United States|Dublin|Amazon.com, Inc.|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
