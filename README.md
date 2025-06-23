@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|2|160.248.189.95|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|6|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|4|160.248.189.95|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|8|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|9|67.223.225.161|43080|United States|Jacksonville|Newfold Digital, Inc.|
 |10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|13|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|14|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|51.158.105.94|31826|France|Paris|SCALEWAY|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|36.93.163.219|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|14|3.11.14.39|3128|United Kingdom|London|Amazon Technologies Inc.|
+|15|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
 |16|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 |17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
-|19|77.91.77.217|31563|Germany|Frankfurt am Main|Aeza International LTD|
-|20|103.156.16.243|8080|Indonesia|Jatibarang|RSTNET|
+|18|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|19|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|20|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
 
 
 
