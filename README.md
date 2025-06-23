@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|70|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|70|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|70|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|1|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|3|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|185.200.38.53|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|10|37.27.253.44|8031|Finland|Helsinki|Hetzner Online GmbH|
+|7|37.27.253.44|8037|Finland|Helsinki|Hetzner Online GmbH|
+|8|185.200.38.53|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|9|146.190.80.158|9090|Singapore|Singapore|DigitalOcean, LLC|
+|10|13.212.95.135|8000|Singapore|Singapore|Amazon Technologies Inc.|
 |11|3.95.251.172|3128|United States|Ashburn|Amazon Technologies Inc.|
-|12|146.190.80.158|9090|Singapore|Singapore|DigitalOcean, LLC|
-|13|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|14|167.86.93.118|8049|Germany|Nuremberg|Contabo GmbH|
-|15|52.10.155.147|3128|United States|Portland|Amazon.com, Inc.|
-|16|40.172.192.186|3128|United Arab Emirates|Dubai|Amazon.com|
-|17|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|157.245.124.217|53971|United States|Clifton|DigitalOcean, LLC|
-|19|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|5.231.211.181|3128|Germany|Bad Soden am Taunus|GHOSTnet GmbH|
+|12|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|13|52.10.155.147|3128|United States|Portland|Amazon.com, Inc.|
+|14|157.245.124.217|53971|United States|Clifton|DigitalOcean, LLC|
+|15|40.172.192.186|3128|United Arab Emirates|Dubai|Amazon.com|
+|16|13.251.239.15|80|Singapore|Singapore|Amazon.com, Inc.|
+|17|5.231.211.181|3128|Germany|Bad Soden am Taunus|GHOSTnet GmbH|
+|18|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|3.37.149.32|1080|South Korea|Seoul|Amazon.com, Inc.|
+|20|35.181.15.28|3128|France|Paris|Amazon.com, Inc.|
 
 
 
