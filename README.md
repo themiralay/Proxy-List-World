@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|58.186.175.228|16000|Vietnam|Hanoi|FPT Telecom Company|
-|3|116.103.24.36|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|103.14.231.218|3168|Indonesia|Menggala|PT Internet Corp Ltd|
-|5|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
-|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|10|77.91.77.217|31563|Germany|Frankfurt am Main|Aeza International LTD|
-|11|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|108.136.220.77|4005|Indonesia|Jakarta|Amazon.com, Inc.|
-|14|51.158.105.94|31826|France|Paris|SCALEWAY|
-|15|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|16|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|18.60.111.249|6698|India|Hyderabad|Amazon.com, Inc.|
-|19|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|20|3.27.237.252|3128|Australia|Sydney|Amazon Technologies Inc.|
+|2|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|3|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|8|116.103.25.149|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|10|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|12|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|13|18.101.7.10|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|14|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|15|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|16|108.136.220.77|4005|Indonesia|Jakarta|Amazon.com, Inc.|
+|17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|18|51.84.110.224|3128|Israel|Tel Aviv|Amazon.com, Inc.|
+|19|47.51.51.190|8080|United States|San Gabriel|Charter Communications LLC|
+|20|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
 
 
 
