@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|120|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|39083|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|2|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|3|23.237.210.82|80|United States|Houston|FDCservers.net|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|23.237.210.82|80|United States|Houston|FDCservers.net|
+|1|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|2|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|18.116.141.120|3128|United States|Dublin|Amazon.com, Inc.|
+|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
 |6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|8|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|9|116.103.27.123|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
-|11|98.130.47.34|3128|India|Hyderabad|Amazon.com|
-|12|31.207.47.254|3128|The Netherlands|Amsterdam|Hostkey B.V.|
-|13|77.91.77.217|31563|Germany|Frankfurt am Main|Aeza International LTD|
-|14|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
-|15|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|3.141.38.145|3128|United States|Dublin|Amazon.com, Inc.|
-|18|108.136.220.77|4005|Indonesia|Jakarta|Amazon.com, Inc.|
-|19|103.180.123.107|8085|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|20|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|8|23.237.210.82|80|United States|Houston|FDCservers.net|
+|9|116.103.25.149|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|11|18.116.141.120|3128|United States|Dublin|Amazon.com, Inc.|
+|12|116.103.24.36|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|14|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
+|15|23.237.210.82|80|United States|Houston|FDCservers.net|
+|16|147.79.78.153|3128|United States|Boston|Hostinger International Limited|
+|17|56.124.106.188|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|18|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
+|19|147.79.78.153|3128|United States|Boston|Hostinger International Limited|
+|20|116.103.27.123|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
