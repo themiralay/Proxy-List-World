@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **76607** proxies at the latest update. Usable proxies are below.
+> Scraper found **76561** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|29|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36493|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36447|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|164|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38995|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|23.237.210.82|80|United States|Houston|FDCservers.net|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|7|23.237.210.82|80|United States|Houston|FDCservers.net|
-|8|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|9|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|12|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|13|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
-|14|54.193.61.239|3129|United States|San Jose|Amazon.com, Inc.|
-|15|58.147.190.147|8181|Indonesia|Jakarta|PT. Transhybrid Communication|
-|16|3.27.237.252|3128|Australia|Sydney|Amazon Technologies Inc.|
-|17|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|18|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
-|20|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|2|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|4|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|7|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|8|13.208.241.126|53233|Japan|Osaka|Amazon Technologies Inc.|
+|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
+|11|103.247.23.141|8080|Indonesia|Wonosobo|PT wifian Solution|
+|12|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|13|18.60.111.249|6698|India|Hyderabad|Amazon.com, Inc.|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|16|18.203.249.67|10010|Ireland|Dublin|Amazon Technologies Inc.|
+|17|18.100.217.180|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|18|3.26.174.5|18609|Australia|Sydney|Amazon Technologies Inc.|
+|19|54.193.61.239|3129|United States|San Jose|Amazon.com, Inc.|
+|20|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
