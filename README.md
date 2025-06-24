@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|2|58.186.175.79|16000|Vietnam|Hanoi|FPT Telecom Company|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
-|6|27.79.195.120|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|4|27.79.195.120|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
 |10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|13.233.114.15|29489|India|Mumbai|Amazon Technologies Inc.|
-|12|18.170.63.85|999|United Kingdom|London|Amazon Technologies Inc.|
-|13|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|14|27.79.143.169|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
-|16|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
-|17|85.190.241.20|8888|Germany|Karlsruhe|Contabo GmbH|
-|18|35.177.23.165|10535|United Kingdom|London|Amazon Technologies Inc.|
-|19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|20|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|51.158.105.94|31826|France|Paris|SCALEWAY|
+|13|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
+|14|54.193.61.239|3129|United States|San Jose|Amazon.com, Inc.|
+|15|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|16|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|138.117.13.97|999|Argentina|28 de Noviembre|Tamayo Magda Judith|
+|19|187.19.198.130|8080|Brazil|Pentecoste|Brisanet Servicos De Telecomunicacoes Ltda|
+|20|43.198.151.41|31005|Hong Kong|Hong Kong|Amazon.com, Inc.|
 
 
 
