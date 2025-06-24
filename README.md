@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|3|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|4|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|58.186.175.228|16000|Vietnam|Hanoi|FPT Telecom Company|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
-|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|103.133.25.55|8080|Indonesia|Purwakarta|PT PHATRIA INTI PERSADA|
-|12|213.226.119.120|4857|Turkey|Istanbul|Mehmet Selim Sahin|
-|13|23.237.210.82|80|United States|Houston|FDCservers.net|
-|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|15|3.141.38.145|3128|United States|Dublin|Amazon.com, Inc.|
-|16|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|17|18.100.217.180|3128|Spain|Zaragoza|Amazon Technologies Inc.|
-|18|116.103.25.149|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
-|20|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|3|58.186.175.228|16000|Vietnam|Hanoi|FPT Telecom Company|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|116.103.24.36|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|8|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|9|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|23.237.210.82|80|United States|Houston|FDCservers.net|
+|16|18.101.7.10|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|17|107.152.35.241|8080|United States|Chicago|tzulo, inc.|
+|18|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|19|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|20|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
