@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |2|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|116.103.25.149|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |5|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|6|103.168.254.81|1111|Indonesia|Jekulo|PT Fahasa Tri Data|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |7|23.237.210.82|80|United States|Houston|FDCservers.net|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|23.237.210.82|80|United States|Houston|FDCservers.net|
-|10|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|11|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|103.237.144.232|1311|Vietnam|Quận Chín|LVSOFT|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
-|18|77.91.77.217|31563|Germany|Frankfurt am Main|Aeza International LTD|
-|19|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
-|20|18.101.7.10|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|8|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|23.237.210.82|80|United States|Houston|FDCservers.net|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|13|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|14|103.193.144.234|8080|Indonesia|Meureubo|PT Lintas Jaringan Nusantara|
+|15|49.145.114.103|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|16|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|17|77.91.77.217|31563|Germany|Frankfurt am Main|Aeza International LTD|
+|18|51.158.105.94|31826|France|Paris|SCALEWAY|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|14.226.71.176|10004|Vietnam|Thái Nguyên|VNPT|
 
 
 
