@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|47.236.37.129|18081|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|8|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|206.189.150.202|8888|Singapore|Singapore|DigitalOcean, LLC|
-|11|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|13|116.103.25.149|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|3.141.38.145|3128|United States|Dublin|Amazon.com, Inc.|
-|15|23.237.210.82|80|United States|Houston|FDCservers.net|
-|16|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|17|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|18|43.216.214.221|4289|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|19|18.100.217.180|3128|Spain|Zaragoza|Amazon Technologies Inc.|
-|20|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|1|171.237.99.162|1002|Vietnam|Ninh Bình|Viettel Corporation|
+|2|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|3|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|8|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|11|13.208.241.126|53233|Japan|Osaka|Amazon Technologies Inc.|
+|12|23.237.210.82|80|United States|Houston|FDCservers.net|
+|13|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|15|3.141.38.145|3128|United States|Dublin|Amazon.com, Inc.|
+|16|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|17|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|19|43.216.214.221|4289|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|20|103.191.155.70|8080|Indonesia|Cikampek|PT Ilham Wifi Solution|
 
 
 
