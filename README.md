@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
-|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|4|27.79.195.120|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|67.223.225.161|43080|United States|Jacksonville|Newfold Digital, Inc.|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|8|115.79.236.97|4007|Vietnam|Ho Chi Minh City|VIETELftth|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|107.152.35.241|8080|United States|Chicago|tzulo, inc.|
-|11|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|12|149.86.159.4|8080|Turkey|Sille|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|14|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
-|15|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
-|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|77.91.77.217|31563|Germany|Frankfurt am Main|Aeza International LTD|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|20|72.10.160.91|22191|Canada|Montreal|GloboTech Communications|
+|4|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|5|27.79.195.120|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|115.79.236.97|4007|Vietnam|Ho Chi Minh City|VIETELftth|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|10|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|14|77.91.77.217|31563|Germany|Frankfurt am Main|Aeza International LTD|
+|15|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|16|72.10.160.91|22191|Canada|Montreal|GloboTech Communications|
+|17|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
+|18|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
+|19|67.223.225.161|43080|United States|Jacksonville|Newfold Digital, Inc.|
+|20|51.158.105.94|31826|France|Paris|SCALEWAY|
 
 
 
