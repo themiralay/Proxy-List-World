@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |4|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|5|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|200.25.254.193|54240|Colombia|Puerto Nariño|Anditel S.A.S.|
-|12|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|13|34.124.190.108|8090|Singapore|Singapore|Google LLC|
-|14|103.105.55.51|9090|Indonesia|Yogyakarta|PT. Mega Artha Lintas Data|
-|15|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|16|3.141.38.145|3128|United States|Dublin|Amazon.com, Inc.|
-|17|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|37.27.253.44|8015|Finland|Helsinki|Hetzner Online GmbH|
-|19|27.79.143.169|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|93.190.138.107|46182|The Netherlands|Naaldwijk|WorldStream B.V.|
+|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
+|10|77.91.77.217|31563|Germany|Frankfurt am Main|Aeza International LTD|
+|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|12|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|13|67.43.236.20|6231|Canada|Montreal|GloboTech Communications|
+|14|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
+|17|95.179.221.141|443|France|Aubervilliers|The Constant Company, LLC|
+|18|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|19|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
