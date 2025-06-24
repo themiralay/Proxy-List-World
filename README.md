@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|8|54.210.19.156|3128|United States|Ashburn|Amazon.com, Inc.|
-|9|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|10|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|11|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
-|12|54.210.19.156|3128|United States|Ashburn|Amazon.com, Inc.|
-|13|116.103.24.36|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
-|16|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
-|17|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|18|77.91.77.217|31563|Germany|Frankfurt am Main|Aeza International LTD|
-|19|52.78.241.34|3128|South Korea|Seoul|Amazon Technologies Inc.|
-|20|116.103.27.123|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|2|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|23.237.210.82|80|United States|Houston|FDCservers.net|
+|5|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
+|6|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|34.124.190.108|8090|Singapore|Singapore|Google LLC|
+|8|43.216.75.140|42761|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|9|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|10|77.91.77.217|31563|Germany|Frankfurt am Main|Aeza International LTD|
+|11|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|12|116.103.25.149|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
+|15|213.226.119.120|4857|Turkey|Istanbul|Mehmet Selim Sahin|
+|16|116.103.24.36|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|98.130.47.34|3128|India|Hyderabad|Amazon.com|
+|18|43.216.214.221|4289|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|19|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|20|18.100.217.180|3128|Spain|Zaragoza|Amazon Technologies Inc.|
 
 
 
