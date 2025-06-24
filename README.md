@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **39989** proxies at the latest update. Usable proxies are below.
+> Scraper found **76484** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|29|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36495|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|214|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38820|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |4|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
-|7|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|183.89.208.90|8080|Thailand|Chaiyaphum|Triple T Broadband Public Company Limited|
-|10|116.103.24.36|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|51.158.105.94|31826|France|Paris|SCALEWAY|
-|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|16|67.43.236.20|6231|Canada|Montreal|GloboTech Communications|
-|17|13.208.241.126|53233|Japan|Osaka|Amazon Technologies Inc.|
-|18|27.79.195.120|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|20|18.170.63.85|999|United Kingdom|London|Amazon Technologies Inc.|
+|5|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|200.25.254.193|54240|Colombia|Puerto Nariño|Anditel S.A.S.|
+|12|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|13|34.124.190.108|8090|Singapore|Singapore|Google LLC|
+|14|103.105.55.51|9090|Indonesia|Yogyakarta|PT. Mega Artha Lintas Data|
+|15|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|16|3.141.38.145|3128|United States|Dublin|Amazon.com, Inc.|
+|17|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|37.27.253.44|8015|Finland|Helsinki|Hetzner Online GmbH|
+|19|27.79.143.169|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|93.190.138.107|46182|The Netherlands|Naaldwijk|WorldStream B.V.|
 
 
 
