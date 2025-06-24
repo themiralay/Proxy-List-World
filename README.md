@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|29|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|90|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38995|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|116.103.25.149|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|6|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|3|23.237.210.82|80|United States|Houston|FDCservers.net|
+|4|23.237.210.82|80|United States|Houston|FDCservers.net|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|116.103.25.149|16000|Vietnam|Hanoi|Viettel Corporation|
 |7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|86.104.74.59|3128|France|Paris|PQ HOSTING PLUS S.R.L.|
-|10|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
-|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|12|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
-|13|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|16|51.84.110.224|3128|Israel|Tel Aviv|Amazon.com, Inc.|
-|17|16.171.242.247|57|Sweden|Stockholm|Amazon.com|
-|18|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|19|43.198.151.41|31005|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|20|3.141.38.145|3128|United States|Dublin|Amazon.com, Inc.|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|9|103.173.138.177|8080|Indonesia|Pulaupanggung|PT Serayu Multi Connection|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|86.104.74.59|3128|France|Paris|PQ HOSTING PLUS S.R.L.|
+|12|27.79.183.15|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|14|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
+|15|16.171.242.247|57|Sweden|Stockholm|Amazon.com|
+|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|17|18.101.7.10|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|18|80.79.6.124|3128|The Netherlands|Naaldwijk|WorldStream B.V.|
+|19|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|20|18.100.217.180|3128|Spain|Zaragoza|Amazon Technologies Inc.|
 
 
 
