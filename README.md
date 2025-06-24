@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|3|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|4|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|12|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|13|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|14|51.158.105.94|31826|France|Paris|SCALEWAY|
-|15|37.27.203.159|8093|Finland|Helsinki|Hetzner Online GmbH|
-|16|103.156.248.97|8585|Indonesia|Batam|Trans Media Telekomunikasi|
-|17|37.27.253.44|8003|Finland|Helsinki|Hetzner Online GmbH|
-|18|93.190.138.107|46182|The Netherlands|Naaldwijk|WorldStream B.V.|
-|19|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
+|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|4|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|27.79.236.97|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|13|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
+|16|35.177.23.165|10535|United Kingdom|London|Amazon Technologies Inc.|
+|17|51.158.105.94|31826|France|Paris|SCALEWAY|
+|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|19|37.27.203.159|8093|Finland|Helsinki|Hetzner Online GmbH|
+|20|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
 
 
 
