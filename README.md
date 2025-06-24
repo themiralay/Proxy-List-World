@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|4|209.121.164.51|31147|Canada|Burnaby|TELUS Communications Inc.|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|11|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|10|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|13|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|14|51.158.105.94|31826|France|Paris|SCALEWAY|
-|15|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|18.60.111.249|6698|India|Hyderabad|Amazon.com, Inc.|
-|19|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|20|27.79.212.216|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|14|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|15|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|16|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|17|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|18|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|51.158.105.94|31826|France|Paris|SCALEWAY|
+|20|27.79.167.119|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
