@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|107.152.35.241|8080|United States|Chicago|tzulo, inc.|
-|4|107.152.35.241|8080|United States|Chicago|tzulo, inc.|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|5|184.82.59.97|8080|Thailand|Nong Bua Lamphu|AIS-Fibre|
 |6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|7|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
-|8|77.91.77.217|31563|Germany|Frankfurt am Main|Aeza International LTD|
-|9|103.36.11.119|8181|Indonesia|Cilegon|PT Awinet Global Mandiri|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|3.141.38.145|3128|United States|Dublin|Amazon.com, Inc.|
-|12|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|13|23.237.210.82|80|United States|Houston|FDCservers.net|
-|14|18.101.7.10|3128|Spain|Zaragoza|Amazon Technologies Inc.|
-|15|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|16|3.141.38.145|3128|United States|Dublin|Amazon.com, Inc.|
-|17|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
+|7|77.91.77.217|31563|Germany|Frankfurt am Main|Aeza International LTD|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|10|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|12|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|18.203.249.67|10010|Ireland|Dublin|Amazon Technologies Inc.|
+|14|23.237.210.82|80|United States|Houston|FDCservers.net|
+|15|103.154.230.114|8080|Indonesia|Parengan|DIGITNET|
+|16|138.118.200.229|999|Venezuela|San Francisco|Iguana Network Services C.A.|
+|17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |18|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|19|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|20|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|19|121.101.129.51|9285|Indonesia|Rawaheng|PT SELARAS CITRA TERABIT|
+|20|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
 
 
 
