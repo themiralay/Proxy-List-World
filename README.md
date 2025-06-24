@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|4|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|5|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
 |6|34.46.107.215|3128|United States|Council Bluffs|Google LLC|
-|7|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|103.81.64.89|8080|Indonesia|Bandar Lampung|QIUNET|
+|7|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|27.79.211.117|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
 |10|34.46.107.215|3128|United States|Council Bluffs|Google LLC|
-|11|103.19.58.151|8080|Indonesia|Cirebon|BITSNET|
-|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|105.157.109.147|39811|Morocco|Rabat|ADSL Maroc telecom|
-|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|15|18.101.7.10|3128|Spain|Zaragoza|Amazon Technologies Inc.|
-|16|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|19|18.170.63.85|999|United Kingdom|London|Amazon Technologies Inc.|
-|20|103.87.171.140|32650|India|Jaipur|Tejays|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
+|13|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
+|14|105.157.109.147|39811|Morocco|Rabat|ADSL Maroc telecom|
+|15|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
+|16|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|17|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|18|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
+|19|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
+|20|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
