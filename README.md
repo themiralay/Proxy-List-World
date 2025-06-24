@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|58.69.248.180|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|5|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|6|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|103.187.164.98|8080|Indonesia|Jakarta|PT Amanusa Telemedia Mahardika|
+|4|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|5|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|6|103.155.196.40|8080|Indonesia|Sukabumi|JEMBATANDATA|
 |7|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|8|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|9|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|12|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
-|13|184.82.59.97|8080|Thailand|Nong Bua Lamphu|AIS-Fibre|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|16|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|17|77.91.77.217|31563|Germany|Frankfurt am Main|Aeza International LTD|
-|18|23.237.210.82|80|United States|Houston|FDCservers.net|
-|19|181.94.246.214|3131|Paraguay|Asunción|Núcleo S.A.|
-|20|103.171.255.189|8080|Indonesia|Sleman|ZKI|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
+|10|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|11|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|77.91.77.217|31563|Germany|Frankfurt am Main|Aeza International LTD|
+|15|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|16|23.237.210.82|80|United States|Houston|FDCservers.net|
+|17|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|18|52.78.241.34|3128|South Korea|Seoul|Amazon Technologies Inc.|
+|19|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
+|20|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
 
 
 
