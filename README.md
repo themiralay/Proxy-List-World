@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|9|62.217.187.248|10808|Russia|Moscow|Lovitel LLC|
-|10|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|11|27.79.195.120|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|18.60.111.249|6698|India|Hyderabad|Amazon.com, Inc.|
-|14|103.126.119.128|8080|Indonesia|Tangerang|PT. Media Tekno Nusantara|
-|15|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
-|18|43.216.214.221|4289|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|19|13.208.241.126|53233|Japan|Osaka|Amazon Technologies Inc.|
+|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|4|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|5|103.126.119.128|8080|Indonesia|Tangerang|PT. Media Tekno Nusantara|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|9|163.61.47.10|1111|Indonesia|Purwakarta|PT BAYU MULTIMEDIA TELEKOMUNIKASI|
+|10|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|11|62.217.187.248|10808|Russia|Moscow|Lovitel LLC|
+|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|14|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|77.91.77.217|31563|Germany|Frankfurt am Main|Aeza International LTD|
+|17|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
+|18|213.226.119.120|4857|Turkey|Istanbul|Mehmet Selim Sahin|
+|19|51.158.105.94|31826|France|Paris|SCALEWAY|
 |20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
