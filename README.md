@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|2|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|18.116.141.120|3128|United States|Dublin|Amazon.com, Inc.|
-|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|8|23.237.210.82|80|United States|Houston|FDCservers.net|
-|9|116.103.25.149|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|11|18.116.141.120|3128|United States|Dublin|Amazon.com, Inc.|
-|12|116.103.24.36|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|14|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
+|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|5|58.186.175.228|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|7|47.88.17.136|18080|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|8|18.116.141.120|3128|United States|Dublin|Amazon.com, Inc.|
+|9|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|10|18.116.141.120|3128|United States|Dublin|Amazon.com, Inc.|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|54.210.19.156|3128|United States|Ashburn|Amazon.com, Inc.|
+|13|116.103.25.149|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
 |15|23.237.210.82|80|United States|Houston|FDCservers.net|
-|16|147.79.78.153|3128|United States|Boston|Hostinger International Limited|
-|17|56.124.106.188|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|18|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
-|19|147.79.78.153|3128|United States|Boston|Hostinger International Limited|
-|20|116.103.27.123|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|17|213.226.119.120|4857|Turkey|Istanbul|Mehmet Selim Sahin|
+|18|43.216.214.221|4289|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|19|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|20|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
 
 
 
