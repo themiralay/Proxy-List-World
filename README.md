@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|2|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
 |3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|27.79.212.216|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|8|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|93.190.138.107|46182|The Netherlands|Naaldwijk|WorldStream B.V.|
-|13|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
-|14|72.10.160.174|16781|Canada|Montreal|GloboTech Communications|
-|15|72.10.160.90|25651|Canada|Montreal|GloboTech Communications|
-|16|117.161.170.163|9006|China|Guangzhou|China Mobile communications corporation|
-|17|37.27.253.44|8003|Finland|Helsinki|Hetzner Online GmbH|
-|18|160.248.189.96|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|4|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|5|51.158.105.94|31826|France|Paris|SCALEWAY|
+|6|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|14|164.90.229.29|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|93.190.138.107|46182|The Netherlands|Naaldwijk|WorldStream B.V.|
+|16|37.27.203.159|8093|Finland|Helsinki|Hetzner Online GmbH|
+|17|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
+|20|73.31.173.80|8888|United States|Orange|Comcast Cable Communications|
 
 
 
