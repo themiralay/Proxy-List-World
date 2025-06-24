@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|160.191.180.107|8085|Indonesia|Grogol|PT.Global Media Data Prima|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|7|156.240.223.247|8118|Hong Kong|Hong Kong|Tcloudnet|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|103.178.125.59|8080|Indonesia|Batang|IKI-INDONESIA|
-|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|13|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|14|77.91.77.217|31563|Germany|Frankfurt am Main|Aeza International LTD|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
-|18|23.237.210.82|80|United States|Houston|FDCservers.net|
-|19|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|4|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|9|164.163.42.12|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|93.190.138.107|46182|The Netherlands|Naaldwijk|WorldStream B.V.|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|37.27.203.159|8093|Finland|Helsinki|Hetzner Online GmbH|
+|14|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|15|72.10.160.174|22413|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.91|14179|Canada|Montreal|GloboTech Communications|
+|17|37.27.253.44|8067|Finland|Helsinki|Hetzner Online GmbH|
+|18|37.27.253.44|8067|Finland|Helsinki|Hetzner Online GmbH|
+|19|67.43.228.253|21659|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.19|10769|Canada|Montreal|GloboTech Communications|
 
 
 
