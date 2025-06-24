@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|11|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|51.158.105.94|31826|France|Paris|SCALEWAY|
-|14|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
-|15|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|16|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
-|17|43.216.214.221|4289|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|18|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|19|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
-|20|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|1|206.189.150.202|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|6|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|103.165.156.171|8090|Indonesia|Jember|MEGADATA-ISP|
+|9|77.91.77.217|31563|Germany|Frankfurt am Main|Aeza International LTD|
+|10|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|11|45.123.143.18|8080|Indonesia|Kenali Asam|PT Gelam Net Solusi|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|157.66.251.227|8080|Indonesia|Pasararba|PT Haykal Solutions Technology|
+|14|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|27.76.4.33|10003|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|17|51.158.105.94|31826|France|Paris|SCALEWAY|
+|18|62.217.187.248|10808|Russia|Moscow|Lovitel LLC|
+|19|38.156.72.6|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|51.84.110.224|3128|Israel|Tel Aviv|Amazon.com, Inc.|
 
 
 
