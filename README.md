@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|427|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|427|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|427|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
 |6|140.227.81.191|3128|Japan|Chiyoda|InfoSphere|
-|7|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|8|27.79.143.169|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|10|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|11|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|13|27.79.236.97|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|27.79.226.131|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|27.79.167.119|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|7|27.79.155.72|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|27.79.250.84|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|12|27.79.212.136|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|27.79.236.144|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|27.79.195.120|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|113.192.3.230|1452|Indonesia|Candi Prambanan|PT Boombas Carlo Medianet|
 |18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|19|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|20|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|19|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 
 
 
