@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|2|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|8|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|11|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
-|12|116.103.27.123|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|51.158.105.94|31826|France|Paris|SCALEWAY|
-|14|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|15|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
-|16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|17|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
-|18|16.171.242.247|57|Sweden|Stockholm|Amazon.com|
-|19|108.136.220.77|4005|Indonesia|Jakarta|Amazon.com, Inc.|
-|20|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|103.14.231.218|3168|Indonesia|Menggala|PT Internet Corp Ltd|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|10|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|77.91.77.217|31563|Germany|Frankfurt am Main|Aeza International LTD|
+|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
+|14|43.251.84.243|8080|Bangladesh|Dhaka|Md. Abdul Kayum Rashed|
+|15|116.103.24.36|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|43.216.75.140|42761|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|17|37.27.203.159|8023|Finland|Helsinki|Hetzner Online GmbH|
+|18|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|19|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
+|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
