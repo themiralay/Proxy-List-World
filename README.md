@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|3|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|4|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|43.216.214.221|4289|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|10|3.141.38.145|3128|United States|Dublin|Amazon.com, Inc.|
-|11|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|12|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
-|13|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|14|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|15|18.101.7.10|3128|Spain|Zaragoza|Amazon Technologies Inc.|
-|16|108.136.220.77|4005|Indonesia|Jakarta|Amazon.com, Inc.|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|52.210.15.148|3128|Ireland|Dublin|Amazon.com, Inc.|
-|19|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
-|20|3.27.237.252|3128|Australia|Sydney|Amazon Technologies Inc.|
+|2|27.79.183.15|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|27.79.160.182|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|27.79.248.149|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.244.245|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|27.79.216.42|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|171.237.81.72|1008|Vietnam|Hanoi|Viettel Corporation|
+|8|27.79.193.138|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|27.79.141.0|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|103.169.132.94|8080|Indonesia|Cianjur|PT Alfa Omega Interkoneksi|
+|11|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|13|27.79.175.95|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|27.79.211.117|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|16|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|17|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|18|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|19|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|20|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
 
 
 
