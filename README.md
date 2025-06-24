@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
 |2|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|23.237.210.82|80|United States|Houston|FDCservers.net|
-|8|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|23.237.210.82|80|United States|Houston|FDCservers.net|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|13|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|14|103.193.144.234|8080|Indonesia|Meureubo|PT Lintas Jaringan Nusantara|
-|15|49.145.114.103|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|16|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|17|77.91.77.217|31563|Germany|Frankfurt am Main|Aeza International LTD|
-|18|51.158.105.94|31826|France|Paris|SCALEWAY|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|14.226.71.176|10004|Vietnam|Thái Nguyên|VNPT|
+|3|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|113.192.3.230|1452|Indonesia|Candi Prambanan|PT Boombas Carlo Medianet|
+|7|103.174.236.83|8080|Indonesia|Karangampel|PT Global Erasiber Teknologi|
+|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|10|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|12|23.237.210.82|80|United States|Houston|FDCservers.net|
+|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|103.168.254.81|1111|Indonesia|Jekulo|PT Fahasa Tri Data|
+|17|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|18|12.131.14.114|3128|United States|Von Ormy|AT&T Enterprises, LLC|
+|19|18.60.111.249|6698|India|Hyderabad|Amazon.com, Inc.|
+|20|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
 
 
 
