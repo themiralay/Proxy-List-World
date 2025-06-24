@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|27.79.211.117|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|51.158.105.94|31826|France|Paris|SCALEWAY|
-|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|27.79.193.138|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|11|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|12|116.103.24.36|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|27.79.216.42|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|105.157.109.147|39811|Morocco|Rabat|ADSL Maroc telecom|
-|15|27.79.160.182|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|17|27.79.195.120|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|18.170.63.85|999|United Kingdom|London|Amazon Technologies Inc.|
-|19|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|20|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
+|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|6|116.101.176.74|4010|Vietnam|Hanoi|Viettel Corporation|
+|7|103.141.152.107|8989|Indonesia|Ciputat|PRIMACOM|
+|8|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|27.79.193.138|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|14|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
+|15|116.103.24.36|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|18.170.63.85|999|United Kingdom|London|Amazon Technologies Inc.|
+|17|27.79.175.95|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|27.79.216.42|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|27.79.183.15|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|105.157.109.147|39811|Morocco|Rabat|ADSL Maroc telecom|
 
 
 
