@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.171.239|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|27.79.167.119|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|27.79.155.72|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|27.79.195.120|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|27.79.250.84|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|27.79.236.144|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|27.79.212.136|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|27.79.236.97|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|27.79.143.169|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|17|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|18|27.79.226.131|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|116.103.27.123|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|27.79.212.136|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|27.79.143.169|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|27.79.195.120|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|10|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|12|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|67.223.225.161|43080|United States|Jacksonville|Newfold Digital, Inc.|
+|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
+|18|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|19|86.100.108.89|8091|Lithuania|Klaipėda|Balticum TV network|
+|20|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
 
 
 
