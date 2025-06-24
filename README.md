@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|369|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|369|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|369|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|5|58.186.175.228|16000|Vietnam|Hanoi|FPT Telecom Company|
-|6|42.156.32.16|3128|Myanmar|Yangon|Marga Global Telecom Limited|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|10|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|11|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|58.186.175.228|16000|Vietnam|Hanoi|FPT Telecom Company|
+|2|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|3|115.79.229.166|4007|Vietnam|Ho Chi Minh City|VIETELftth|
+|4|42.156.32.16|3128|Myanmar|Yangon|Marga Global Telecom Limited|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|12|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
 |13|213.226.119.120|4857|Turkey|Istanbul|Mehmet Selim Sahin|
-|14|181.23.231.195|3128|Argentina|Buenos Aires|Telefonica de Argentina|
-|15|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|16|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|17|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|18|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|19|13.235.246.116|25396|India|Mumbai|Amazon Technologies Inc.|
-|20|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|14|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
+|15|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|16|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
+|17|51.84.110.224|3128|Israel|Tel Aviv|Amazon.com, Inc.|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
 
 
 
