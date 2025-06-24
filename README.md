@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|385|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|385|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|385|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|3|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|6|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|3.141.38.145|3128|United States|Dublin|Amazon.com, Inc.|
-|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|12|43.199.163.10|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|74.207.235.213|1221|United States|Atlanta|Akamai Technologies, Inc.|
-|15|58.186.175.228|16000|Vietnam|Hanoi|FPT Telecom Company|
-|16|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|17|13.235.246.116|25396|India|Mumbai|Amazon Technologies Inc.|
-|18|23.237.210.82|80|United States|Houston|FDCservers.net|
-|19|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|20|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|10|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|11|149.28.83.131|8118|United States|Los Angeles|The Constant Company|
+|12|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
+|13|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|14|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|15|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
+|16|62.171.171.85|3128|France|Lauterbourg|Contabo GmbH|
+|17|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|18|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|38.180.159.105|3128|The Netherlands|Amsterdam|Scalaxy B.V.|
+|20|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
 
 
 
