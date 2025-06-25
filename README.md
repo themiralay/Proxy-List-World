@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|2|47.239.8.6|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|47.239.8.6|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|4|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|94.136.186.241|3128|India|Mumbai|Contabo Asia Private Limited|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|11|103.186.12.14|8080|Indonesia|Surabaya|Universitas Wijaya Kusuma Surabaya|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|14|185.211.57.166|3128|Iran|Tehran|Mahdiar Rafiee|
-|15|56.155.38.121|12736|Japan|Osaka|Amazon.com, Inc.|
-|16|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
-|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|18|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
-|19|35.179.146.181|3128|United Kingdom|London|Amazon Technologies Inc.|
-|20|13.208.241.126|53233|Japan|Osaka|Amazon Technologies Inc.|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|94.136.186.241|3128|India|Mumbai|Contabo Asia Private Limited|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|13|185.211.57.166|3128|Iran|Tehran|Mahdiar Rafiee|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|17|13.235.246.116|25396|India|Mumbai|Amazon Technologies Inc.|
+|18|13.245.30.86|3128|South Africa|Johannesburg|Amazon.com, Inc.|
+|19|3.141.38.145|3128|United States|Dublin|Amazon.com, Inc.|
+|20|103.180.196.141|8080|Indonesia|Yogyakarta|PT Dekadata Lingkar Nusantara|
 
 
 
