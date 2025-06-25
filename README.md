@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|47.239.8.6|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|7|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|10|13.235.246.116|25396|India|Mumbai|Amazon Technologies Inc.|
-|11|103.237.144.232|1311|Vietnam|Quận Chín|LVSOFT|
-|12|85.206.93.105|8080|Lithuania|Kaunas|Telia Lietuva|
+|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|10|164.163.42.9|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
 |13|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|14|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|15|37.27.253.44|8069|Finland|Helsinki|Hetzner Online GmbH|
-|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|43.198.151.41|31005|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|18|157.100.63.48|999|Ecuador|Quito|Ufinet Panama S.A.|
-|19|67.43.236.18|22511|Canada|Montreal|GloboTech Communications|
-|20|67.43.228.253|9839|Canada|Montreal|GloboTech Communications|
+|14|37.27.253.44|8003|Finland|Helsinki|Hetzner Online GmbH|
+|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|3.141.38.145|3128|United States|Dublin|Amazon.com, Inc.|
+|17|67.43.236.18|22511|Canada|Montreal|GloboTech Communications|
+|18|37.27.253.44|8003|Finland|Helsinki|Hetzner Online GmbH|
+|19|67.43.228.253|9839|Canada|Montreal|GloboTech Communications|
+|20|67.43.236.20|6929|Canada|Montreal|GloboTech Communications|
 
 
 
