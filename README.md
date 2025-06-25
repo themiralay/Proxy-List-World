@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|2|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|9|103.81.194.120|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|116.103.27.123|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|16.171.242.247|57|Sweden|Stockholm|Amazon.com|
-|15|35.177.23.165|10535|United Kingdom|London|Amazon Technologies Inc.|
-|16|94.141.123.62|1080|Germany|Frankfurt am Main|Waicore LTD|
-|17|54.210.19.156|3128|United States|Ashburn|Amazon.com, Inc.|
-|18|3.126.92.60|29|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|19|52.78.241.34|3128|South Korea|Seoul|Amazon Technologies Inc.|
-|20|13.235.246.116|25396|India|Mumbai|Amazon Technologies Inc.|
+|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|2|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|10|3.141.38.145|3128|United States|Dublin|Amazon.com, Inc.|
+|11|52.210.15.148|3128|Ireland|Dublin|Amazon.com, Inc.|
+|12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
+|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|16|23.237.210.82|80|United States|Houston|FDCservers.net|
+|17|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
+|18|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|19|159.89.245.69|53971|United States|Clifton|DigitalOcean, LLC|
+|20|51.44.85.200|3128|France|Paris|Amazon.com, Inc.|
 
 
 
