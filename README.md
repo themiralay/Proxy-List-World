@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|5|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|6|172.93.134.10|9764|United States|Chicago|Nexeon Technologies, Inc.|
-|7|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|8|172.93.134.10|9764|United States|Chicago|Nexeon Technologies, Inc.|
-|9|182.160.105.46|14157|Bangladesh|Dhaka|Aamra Networks Limited|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|12|94.43.164.242|8080|Georgia|Batumi|JSC "Silknet"|
-|13|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|14|51.84.110.224|3128|Israel|Tel Aviv|Amazon.com, Inc.|
-|15|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|16|35.177.23.165|10535|United Kingdom|London|Amazon Technologies Inc.|
-|17|103.154.178.106|8080|Indonesia|Pelabuhan Dagang|PT Aneka Teguh Jaya|
-|18|165.225.72.38|10811|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|19|37.27.253.44|8077|Finland|Helsinki|Hetzner Online GmbH|
-|20|167.86.93.118|8052|Germany|Nuremberg|Contabo GmbH|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|8|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|12|13.235.246.116|25396|India|Mumbai|Amazon Technologies Inc.|
+|13|3.141.38.145|3128|United States|Dublin|Amazon.com, Inc.|
+|14|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
+|15|190.121.154.147|999|Colombia|Pereira|Media Commerce Partners S.A|
+|16|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
+|17|72.10.160.174|5501|Canada|Montreal|GloboTech Communications|
+|18|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|19|165.225.72.38|10811|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|20|23.237.210.82|80|United States|Houston|FDCservers.net|
 
 
 
