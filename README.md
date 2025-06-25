@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|3|3.141.38.145|3128|United States|Dublin|Amazon.com, Inc.|
-|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|6|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
+|2|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|5|3.141.38.145|3128|United States|Dublin|Amazon.com, Inc.|
+|6|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|93.190.138.107|46182|The Netherlands|Naaldwijk|WorldStream B.V.|
-|12|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
-|13|16.26.88.4|28095|Australia|Melbourne|Amazon.com, Inc.|
-|14|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|15|159.89.245.69|53971|United States|Clifton|DigitalOcean, LLC|
-|16|157.245.124.217|53971|United States|Clifton|DigitalOcean, LLC|
-|17|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|18|34.219.126.154|50362|United States|Portland|Amazon.com, Inc.|
-|19|16.62.48.122|3128|Switzerland|Zurich|Amazon.com, Inc.|
-|20|190.52.100.98|999|Venezuela|Caracas|Gold Data USA Inc|
+|9|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|10|16.26.88.4|28095|Australia|Melbourne|Amazon.com, Inc.|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|162.254.131.254|8087|United States|Wellsville|Air Link Rural Broadband, LLC|
+|13|93.190.138.107|46182|The Netherlands|Naaldwijk|WorldStream B.V.|
+|14|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
+|15|37.27.253.44|8099|Finland|Helsinki|Hetzner Online GmbH|
+|16|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
+|17|185.200.38.53|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
+|19|157.245.124.217|53971|United States|Clifton|DigitalOcean, LLC|
+|20|159.89.245.69|53971|United States|Clifton|DigitalOcean, LLC|
 
 
 
