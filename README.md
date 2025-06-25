@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.248.5.201|3127|Japan|Ichikawa|NTT PC Communications, Inc.|
-|2|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|3|47.239.8.6|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|7|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|8|189.240.60.172|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|9|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|10|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|11|189.240.60.162|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|13|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|14|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|47.239.8.6|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
+|4|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|6|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|7|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|8|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|9|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|10|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|11|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|14|189.240.60.162|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|15|189.240.60.172|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 |16|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|18|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|19|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|20|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|17|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
 
 
 
