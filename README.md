@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|171.228.142.220|5176|Vietnam|Hanoi|Viettel Corporation|
-|7|103.172.42.237|8080|Indonesia|Kemantren Satu|PT Media Solusi Sukses|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|10|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|116.103.24.36|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|15|103.82.246.249|6080|Indonesia|Kedungrejo|PT Master Star Network|
-|16|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
+|1|103.83.178.46|8181|Indonesia|Cikupa|PT SOLUSI TRIMEGAH PERSADA|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|67.223.225.161|43080|United States|Jacksonville|Newfold Digital, Inc.|
+|5|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|103.181.255.219|7777|Indonesia|Demak|PT Giga Digital Nusantara|
+|8|116.103.25.149|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|10|103.161.130.208|8181|Indonesia|Kresek|PT Jaringan Internet Nusantara|
+|11|103.142.254.101|1111|Indonesia|Madiun|PT.CITRA BERDIKARI NUSANTARA|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|206.189.150.202|8888|Singapore|Singapore|DigitalOcean, LLC|
+|14|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
 |17|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|18|103.181.255.219|7777|Indonesia|Demak|PT Giga Digital Nusantara|
-|19|43.198.151.41|31005|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|20|51.44.85.200|3128|France|Paris|Amazon.com, Inc.|
+|18|13.38.66.165|3128|France|Paris|Amazon Technologies Inc.|
+|19|115.77.135.193|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|20|3.141.38.145|3128|United States|Dublin|Amazon.com, Inc.|
 
 
 
