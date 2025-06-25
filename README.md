@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.239.8.6|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
 |5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|12|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|13|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|14|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|15|56.155.38.121|12736|Japan|Osaka|Amazon.com, Inc.|
-|16|189.240.60.172|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|17|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|18|189.240.60.162|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|19|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|9|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|10|47.239.8.6|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|12|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|13|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|14|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|17|3.27.237.252|3128|Australia|Sydney|Amazon Technologies Inc.|
+|18|108.136.220.77|4005|Indonesia|Jakarta|Amazon.com, Inc.|
+|19|16.171.242.247|57|Sweden|Stockholm|Amazon.com|
+|20|3.109.62.30|717|India|Mumbai|Amazon Technologies Inc.|
 
 
 
