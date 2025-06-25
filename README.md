@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|47.239.8.6|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|135.234.106.253|80|United States|Phoenix|MICROSOFT|
 |3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|135.234.106.253|80|United States|Phoenix|MICROSOFT|
 |6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|3.141.38.145|3128|United States|Dublin|Amazon.com, Inc.|
-|9|18.170.63.85|999|United Kingdom|London|Amazon Technologies Inc.|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|13.221.134.55|3128|United States|Ashburn|Amazon.com, Inc.|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|9|13.38.66.165|3128|France|Paris|Amazon Technologies Inc.|
+|10|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|13|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
-|14|51.158.105.94|31826|France|Paris|SCALEWAY|
+|13|93.190.138.107|46182|The Netherlands|Naaldwijk|WorldStream B.V.|
+|14|36.91.115.133|80|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
 |15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|93.190.138.107|46182|The Netherlands|Naaldwijk|WorldStream B.V.|
-|17|13.38.66.165|3128|France|Paris|Amazon Technologies Inc.|
-|18|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|19|37.27.253.44|8019|Finland|Helsinki|Hetzner Online GmbH|
-|20|157.245.124.217|53971|United States|Clifton|DigitalOcean, LLC|
+|16|138.117.85.113|8080|Colombia|Pitalito|Sinergy Soluciones Integrales|
+|17|157.245.124.217|53971|United States|Clifton|DigitalOcean, LLC|
+|18|160.248.5.201|3127|Japan|Ichikawa|NTT PC Communications, Inc.|
+|19|37.27.253.44|8003|Finland|Helsinki|Hetzner Online GmbH|
+|20|112.201.187.177|8083|Philippines|Taguig|Philippine Long Distance Telephone Co.|
 
 
 
