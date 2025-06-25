@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|58.186.175.228|16000|Vietnam|Hanoi|FPT Telecom Company|
-|2|171.228.161.49|5103|Vietnam|Hanoi|Viettel Corporation|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|79.72.67.236|3128|United Kingdom|London|Oracle Corporation|
-|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|115.79.229.166|4007|Vietnam|Ho Chi Minh City|VIETELftth|
-|13|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|14|42.156.32.16|3128|Myanmar|Yangon|Marga Global Telecom Limited|
-|15|103.179.218.14|1080|Indonesia|Pandeglang|PT Wistel Teknologi Solusi|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
-|18|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
-|19|213.226.119.120|4857|Turkey|Istanbul|Mehmet Selim Sahin|
-|20|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|1|116.103.25.149|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|42.156.32.16|3128|Myanmar|Yangon|Marga Global Telecom Limited|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|103.147.84.133|8080|Indonesia|Jakarta|PT DATA PRIMA SOLUSINDO|
+|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|12|116.103.27.123|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|16.171.242.247|57|Sweden|Stockholm|Amazon.com|
+|14|58.186.175.228|16000|Vietnam|Hanoi|FPT Telecom Company|
+|15|115.79.229.166|4007|Vietnam|Ho Chi Minh City|VIETELftth|
+|16|18.101.7.10|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|19|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
+|20|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
 
 
 
