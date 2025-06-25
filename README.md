@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|3|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|182.253.40.149|8080|Indonesia|Jakarta|BIZNET|
+|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|4|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|9|51.44.85.200|3128|France|Paris|Amazon.com, Inc.|
-|10|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|11|23.237.210.82|80|United States|Houston|FDCservers.net|
-|12|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|13|103.189.116.138|1220|Indonesia|Wonosobo|PT Callysta Total Solusindo|
-|14|18.170.63.85|999|United Kingdom|London|Amazon Technologies Inc.|
-|15|3.126.92.60|29|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|16|18.132.14.119|3128|United Kingdom|London|Amazon Technologies Inc.|
-|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|18|76.169.128.104|8080|United States|Santa Ana|Charter Communications|
-|19|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|20|47.239.8.6|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
+|9|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
+|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|103.81.194.120|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|12|18.170.63.85|999|United Kingdom|London|Amazon Technologies Inc.|
+|13|108.136.220.77|4005|Indonesia|Jakarta|Amazon.com, Inc.|
+|14|51.44.85.200|3128|France|Paris|Amazon.com, Inc.|
+|15|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|16|47.239.8.6|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|23.237.210.82|80|United States|Houston|FDCservers.net|
+|18|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|19|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
+|20|103.245.16.134|8080|Indonesia|Jakarta|PT Quantum Tera Network|
 
 
 
