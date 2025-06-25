@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|52.194.87.84|8080|Japan|Tokyo|Amazon Technologies Inc.|
 |2|47.239.8.6|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|8|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|9|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|10|49.145.112.84|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|11|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|12|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|13|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|14|189.240.60.162|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|15|157.245.124.217|53971|United States|Clifton|DigitalOcean, LLC|
-|16|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|18|189.240.60.172|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|3|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|157.245.124.217|53971|United States|Clifton|DigitalOcean, LLC|
+|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|11|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|12|49.145.112.84|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|157.245.124.217|53971|United States|Clifton|DigitalOcean, LLC|
+|15|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|16|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
+|17|103.130.130.72|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
+|18|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
 |19|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|20|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
 
 
 
