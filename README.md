@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|1|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|2|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|23.237.210.82|80|United States|Houston|FDCservers.net|
-|10|107.152.35.241|8080|United States|Chicago|tzulo, inc.|
-|11|13.235.246.116|25396|India|Mumbai|Amazon Technologies Inc.|
-|12|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|51.44.85.200|3128|France|Paris|Amazon.com, Inc.|
-|14|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
-|15|13.38.66.165|3128|France|Paris|Amazon Technologies Inc.|
-|16|143.0.243.70|8080|Brazil|São João do Pacuí|Nova Info Internet e Telecomunicações LTDA|
-|17|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
-|18|103.82.246.249|6080|Indonesia|Kedungrejo|PT Master Star Network|
-|19|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
-|20|116.103.25.149|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|10|67.223.225.161|43080|United States|Jacksonville|Newfold Digital, Inc.|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|116.103.27.123|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|23.237.210.82|80|United States|Houston|FDCservers.net|
+|14|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|15|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|51.44.85.200|3128|France|Paris|Amazon.com, Inc.|
+|18|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
+|19|113.192.30.183|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|20|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
