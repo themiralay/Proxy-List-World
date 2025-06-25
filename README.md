@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
+|1|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |3|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 |4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|94.136.186.241|3128|India|Mumbai|Contabo Asia Private Limited|
-|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|14|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|15|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
-|16|13.235.246.116|25396|India|Mumbai|Amazon Technologies Inc.|
-|17|35.179.146.181|3128|United Kingdom|London|Amazon Technologies Inc.|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|3.126.92.60|29|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|20|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|9|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|10|94.136.186.241|3128|India|Mumbai|Contabo Asia Private Limited|
+|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|12|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|13|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|52.210.15.148|3128|Ireland|Dublin|Amazon.com, Inc.|
+|16|35.179.146.181|3128|United Kingdom|London|Amazon Technologies Inc.|
+|17|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|18|3.141.38.145|3128|United States|Dublin|Amazon.com, Inc.|
+|19|56.155.38.121|12736|Japan|Osaka|Amazon.com, Inc.|
+|20|13.221.134.55|3128|United States|Ashburn|Amazon.com, Inc.|
 
 
 
