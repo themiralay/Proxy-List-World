@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|27.79.234.88|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|116.111.116.246|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|116.111.116.246|16000|Vietnam|Hanoi|Viettel Corporation|
 |6|43.129.66.216|59394|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|7|93.190.138.107|46182|The Netherlands|Naaldwijk|WorldStream B.V.|
-|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|9|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|27.76.4.33|10007|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|12|72.10.160.90|21377|Canada|Montreal|GloboTech Communications|
-|13|35.234.154.79|10005|United Kingdom|London|Google LLC|
-|14|67.43.228.253|16493|Canada|Montreal|GloboTech Communications|
+|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|8|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|93.190.138.107|46182|The Netherlands|Naaldwijk|WorldStream B.V.|
+|11|59.47.238.4|8088|China|Benxi|CHINATELECOM Liaoning Benxi MAN|
+|12|37.27.253.44|8031|Finland|Helsinki|Hetzner Online GmbH|
+|13|72.10.160.90|21377|Canada|Montreal|GloboTech Communications|
+|14|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
 |15|110.137.24.126|8080|Indonesia|Bandar Lampung|PT. TELKOM INDONESIA|
-|16|222.59.173.105|45177|China|Qinnan|China Mobile Communications Corporation|
-|17|72.10.160.174|23771|Canada|Montreal|GloboTech Communications|
+|16|72.10.160.174|23771|Canada|Montreal|GloboTech Communications|
+|17|116.103.27.123|16000|Vietnam|Hanoi|Viettel Corporation|
 |18|222.59.173.105|45177|China|Qinnan|China Mobile Communications Corporation|
-|19|72.10.164.178|8503|Canada|Montreal|GloboTech Communications|
+|19|222.59.173.105|45177|China|Qinnan|China Mobile Communications Corporation|
 |20|67.43.228.250|33171|Canada|Montreal|GloboTech Communications|
 
 
