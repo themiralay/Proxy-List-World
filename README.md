@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|14.235.60.122|8080|Vietnam|Bắc Giang|VNPT|
+|1|14.235.60.122|8080|Vietnam|Bắc Giang|VNPT|
+|2|27.79.233.185|16000|Vietnam|Hanoi|Viettel Corporation|
 |3|135.234.106.253|80|United States|Phoenix|MICROSOFT|
 |4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|5|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|6|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
 |7|116.103.25.149|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|11|116.111.116.246|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|180.180.91.254|8080|Thailand|Chachoengsao|TOT Public Company Limited|
-|14|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
-|15|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
-|16|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
-|17|27.79.255.186|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|58.186.163.133|16000|Vietnam|Hanoi|FPT Telecom Company|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|116.103.24.182|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|116.111.116.246|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|3.141.38.145|3128|United States|Dublin|Amazon.com, Inc.|
 |18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|121.101.129.61|8080|Indonesia|Rawaheng|PT SELARAS CITRA TERABIT|
-|20|182.253.145.178|3128|Indonesia|Semarang|Biznet Networks|
+|19|27.79.223.115|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
 
 
 
