@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|2|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|2|47.239.8.6|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
 |5|3.141.38.145|3128|United States|Dublin|Amazon.com, Inc.|
 |6|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|10|16.26.88.4|28095|Australia|Melbourne|Amazon.com, Inc.|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|162.254.131.254|8087|United States|Wellsville|Air Link Rural Broadband, LLC|
-|13|93.190.138.107|46182|The Netherlands|Naaldwijk|WorldStream B.V.|
-|14|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
-|15|37.27.253.44|8099|Finland|Helsinki|Hetzner Online GmbH|
-|16|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
-|17|185.200.38.53|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|18|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
-|19|157.245.124.217|53971|United States|Clifton|DigitalOcean, LLC|
-|20|159.89.245.69|53971|United States|Clifton|DigitalOcean, LLC|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|9|13.38.66.165|3128|France|Paris|Amazon Technologies Inc.|
+|10|3.141.38.145|3128|United States|Dublin|Amazon.com, Inc.|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|93.190.138.107|46182|The Netherlands|Naaldwijk|WorldStream B.V.|
+|13|37.27.253.44|8077|Finland|Helsinki|Hetzner Online GmbH|
+|14|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|15|159.89.245.69|53971|United States|Clifton|DigitalOcean, LLC|
+|16|157.245.124.217|53971|United States|Clifton|DigitalOcean, LLC|
+|17|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|18|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|19|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
+|20|18.61.163.249|54562|India|Hyderabad|Amazon.com, Inc.|
 
 
 
