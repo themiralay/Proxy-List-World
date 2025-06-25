@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|4|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|4|14.181.51.25|1001|Vietnam|Nam Định|VNPT|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |6|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|116.103.25.149|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|9|113.192.3.230|1452|Indonesia|Candi Prambanan|PT Boombas Carlo Medianet|
+|10|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|11|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|12|135.234.106.253|80|United States|Phoenix|MICROSOFT|
 |13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |14|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|15|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|18|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|19|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|20|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|16|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|116.103.27.123|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|19|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
