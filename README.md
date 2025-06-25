@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|47.239.8.6|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|52.210.15.148|3128|Ireland|Dublin|Amazon.com, Inc.|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
-|12|43.199.163.10|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|13|51.44.85.200|3128|France|Paris|Amazon.com, Inc.|
-|14|35.177.23.165|10535|United Kingdom|London|Amazon Technologies Inc.|
-|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|16|52.78.241.34|3128|South Korea|Seoul|Amazon Technologies Inc.|
-|17|16.171.242.247|57|Sweden|Stockholm|Amazon.com|
-|18|95.164.0.177|36352|Poland|Warsaw|PQ HOSTING PLUS S.R.L.|
-|19|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
-|20|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|47.239.8.6|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|160.19.18.209|8080|Indonesia|Mranggen|PT Indo Telemedia Solusi|
+|10|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|11|43.199.163.10|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|12|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|13|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|14|54.210.19.156|3128|United States|Ashburn|Amazon.com, Inc.|
+|15|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|213.226.119.120|4857|Turkey|Istanbul|Mehmet Selim Sahin|
+|17|94.141.123.62|1080|Germany|Frankfurt am Main|Waicore LTD|
+|18|103.81.194.120|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|19|3.26.174.5|18609|Australia|Sydney|Amazon Technologies Inc.|
+|20|23.237.210.82|80|United States|Houston|FDCservers.net|
 
 
 
