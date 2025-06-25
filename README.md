@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|47.239.8.6|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
 |4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|6|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|6|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|10|94.141.123.62|1080|Germany|Frankfurt am Main|Waicore LTD|
-|11|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|12|108.136.220.77|4005|Indonesia|Jakarta|Amazon.com, Inc.|
-|13|47.239.8.6|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|185.172.3.70|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|15|13.208.241.126|53233|Japan|Osaka|Amazon Technologies Inc.|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|23.237.210.82|80|United States|Houston|FDCservers.net|
-|18|159.89.245.69|53971|United States|Clifton|DigitalOcean, LLC|
-|19|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|20|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|9|13.221.134.55|3128|United States|Ashburn|Amazon.com, Inc.|
+|10|37.152.176.240|8118|Iran|Nā’īn|AbrArvan|
+|11|185.172.3.70|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|14|18.101.7.10|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|15|51.84.110.224|3128|Israel|Tel Aviv|Amazon.com, Inc.|
+|16|23.237.210.82|80|United States|Houston|FDCservers.net|
+|17|3.26.174.5|18609|Australia|Sydney|Amazon Technologies Inc.|
+|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|19|159.89.245.69|53971|United States|Clifton|DigitalOcean, LLC|
+|20|157.245.124.217|53971|United States|Clifton|DigitalOcean, LLC|
 
 
 
