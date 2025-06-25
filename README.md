@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|2|103.245.16.134|8080|Indonesia|Jakarta|PT Quantum Tera Network|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|3|135.234.106.253|80|United States|Phoenix|MICROSOFT|
 |4|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|47.239.8.6|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|12|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|13|43.199.163.10|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|14|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
-|15|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|16|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|51.44.85.200|3128|France|Paris|Amazon.com, Inc.|
-|18|18.60.111.249|6698|India|Hyderabad|Amazon.com, Inc.|
-|19|35.177.23.165|10535|United Kingdom|London|Amazon Technologies Inc.|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|47.239.8.6|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|15|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|16|103.151.74.37|8080|Bangladesh|Chittagong|Md Kamrul Islam|
+|17|52.78.241.34|3128|South Korea|Seoul|Amazon Technologies Inc.|
+|18|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|19|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
 |20|23.237.210.82|80|United States|Houston|FDCservers.net|
 
 
