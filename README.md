@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.184.113|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|54.254.169.251|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|3|27.79.235.153|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |4|116.103.24.182|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|116.103.30.84|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|9|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|11|116.111.116.246|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|107.150.50.210|8118|United States|Kansas City|Nocix, LLC|
-|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|15|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|16|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|18|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|19|105.157.109.147|39811|Morocco|Rabat|ADSL Maroc telecom|
-|20|64.83.246.100|5999|United States|Carbondale|Clearwave Communications|
+|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|6|27.79.235.153|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|8|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|9|116.111.116.246|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|27.79.184.113|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|54.254.169.251|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|12|103.105.57.102|1111|Indonesia|Cileungsir|PT Lambda Sinergi Telekomunikasi|
+|13|23.237.210.82|80|United States|Houston|FDCservers.net|
+|14|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|15|135.234.106.253|80|United States|Phoenix|MICROSOFT|
+|16|116.103.30.84|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|18|116.103.27.123|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|115.76.127.193|8080|Vietnam|Quận Bốn|VIETELGPRS|
+|20|195.201.91.95|8080|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
