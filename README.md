@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|5|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|6|47.239.8.6|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|8|189.240.60.172|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|11|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|12|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|13|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|14|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|15|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|16|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|17|189.240.60.162|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|18|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|19|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|20|103.156.15.91|1111|Indonesia|Jakarta|PT Lintas Jaringan Nusantara|
+|1|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|164.163.42.27|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|3|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|4|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|8|103.173.230.217|8090|Indonesia|Serang|PT Jaringan Internet Banten|
+|9|192.81.129.252|3135|United States|Fremont|Akamai Technologies, Inc.|
+|10|167.86.93.118|8002|Germany|Nuremberg|Contabo GmbH|
+|11|37.27.253.44|8099|Finland|Helsinki|Hetzner Online GmbH|
+|12|37.27.253.44|8099|Finland|Helsinki|Hetzner Online GmbH|
+|13|103.19.59.1|3127|Indonesia|Madiun|BITSNET|
+|14|160.248.5.201|3127|Japan|Ichikawa|NTT PC Communications, Inc.|
+|15|37.27.253.44|8099|Finland|Helsinki|Hetzner Online GmbH|
+|16|185.32.6.131|8070|Poland|Szczecin|AS Consulting Sp. z o. o.|
+|17|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|202.154.19.165|8080|Indonesia|Ngoro|DIGITNET|
+|19|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|20|37.27.253.44|8099|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
