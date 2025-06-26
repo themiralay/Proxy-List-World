@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|18.140.203.182|3128|Singapore|Singapore|Amazon.com, Inc.|
 |2|171.228.71.65|10007|Vietnam|Hòa Bình|Viettel Corporation|
-|3|117.1.95.210|5103|Vietnam|Hanoi|Viettel Corporation|
-|4|182.253.109.41|8080|Indonesia|Semarang|Biznet Metronet|
-|5|161.35.116.6|3128|United States|North Bergen|DigitalOcean, LLC|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|5|171.234.112.101|5110|Vietnam|Vĩnh Tường|Viettel Corporation|
 |6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|157.245.109.53|3128|India|Bengaluru|DigitalOcean, LLC|
-|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|10|161.35.116.6|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|182.253.109.41|8080|Indonesia|Semarang|Biznet Metronet|
+|10|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|11|52.78.241.34|3128|South Korea|Seoul|Amazon Technologies Inc.|
 |12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|94.141.123.62|1080|Germany|Frankfurt am Main|Waicore LTD|
-|14|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|15|171.234.54.74|5555|Vietnam|Hanoi|Viettel Corporation|
-|16|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|17|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|18|92.58.181.171|1194|Spain|Madrid|UNI2|
-|19|52.210.15.148|3128|Ireland|Dublin|Amazon.com, Inc.|
-|20|115.72.9.202|10006|Vietnam|Vũng Tàu|VIETELmetro|
+|13|27.70.239.118|10002|Vietnam|Ho Chi Minh City|Viettel Group|
+|14|108.136.220.77|4005|Indonesia|Jakarta|Amazon.com, Inc.|
+|15|18.132.14.119|3128|United Kingdom|London|Amazon Technologies Inc.|
+|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|17|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|35.152.137.65|26038|Italy|Milan|Amazon.com, Inc.|
+|20|18.60.111.249|6698|India|Hyderabad|Amazon.com, Inc.|
 
 
 
