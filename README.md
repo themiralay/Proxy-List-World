@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|220.118.176.236|3128|South Korea|Yeongdeungpo-gu|Korea Telecom|
-|2|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|3|27.79.143.124|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |5|14.229.249.154|8080|Vietnam|Quảng Ninh|VNPT|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|27.79.230.20|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|27.79.169.79|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|116.96.89.86|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|14|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|15|85.215.139.68|1080|Germany|Berlin|IONOS SE|
-|16|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|17|27.71.134.94|16000|Vietnam|Hanoi|Viettel Group|
-|18|62.217.187.248|10808|Russia|Moscow|Lovitel LLC|
-|19|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
-|20|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|7|27.79.173.210|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|9|62.217.187.248|10808|Russia|Moscow|Lovitel LLC|
+|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|11|27.71.132.25|16000|Vietnam|Hanoi|Viettel Group|
+|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|14|47.254.67.27|8080|United States|Santa Clara|Alibaba Cloud LLC|
+|15|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|16|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|17|27.79.230.20|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|27.79.169.79|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|27.79.236.43|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
