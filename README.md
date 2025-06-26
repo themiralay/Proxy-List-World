@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.67.48|4649|Japan|Minamishinagawa|NTT PC Communications, Inc.|
-|2|171.228.71.65|10007|Vietnam|Hòa Bình|Viettel Corporation|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
 |5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|11|206.189.150.202|8888|Singapore|Singapore|DigitalOcean, LLC|
-|12|185.172.3.70|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|13|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|15|35.152.137.65|26038|Italy|Milan|Amazon.com, Inc.|
-|16|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|17|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|18|115.75.191.21|3128|Vietnam|Quận Một|VIETELxdsl|
-|19|171.228.140.179|5107|Vietnam|Hanoi|Viettel Corporation|
-|20|98.130.47.34|3128|India|Hyderabad|Amazon.com|
+|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|9|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|10|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|11|185.172.3.70|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|12|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
+|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|14|98.130.47.34|3128|India|Hyderabad|Amazon.com|
+|15|115.75.191.21|3128|Vietnam|Quận Một|VIETELxdsl|
+|16|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
+|17|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
+|18|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|19|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|20|3.141.38.145|3128|United States|Dublin|Amazon.com, Inc.|
 
 
 
