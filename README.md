@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|164.163.42.27|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|3|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|4|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|8|103.173.230.217|8090|Indonesia|Serang|PT Jaringan Internet Banten|
-|9|192.81.129.252|3135|United States|Fremont|Akamai Technologies, Inc.|
-|10|167.86.93.118|8002|Germany|Nuremberg|Contabo GmbH|
-|11|37.27.253.44|8099|Finland|Helsinki|Hetzner Online GmbH|
-|12|37.27.253.44|8099|Finland|Helsinki|Hetzner Online GmbH|
-|13|103.19.59.1|3127|Indonesia|Madiun|BITSNET|
-|14|160.248.5.201|3127|Japan|Ichikawa|NTT PC Communications, Inc.|
-|15|37.27.253.44|8099|Finland|Helsinki|Hetzner Online GmbH|
-|16|185.32.6.131|8070|Poland|Szczecin|AS Consulting Sp. z o. o.|
-|17|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|202.154.19.165|8080|Indonesia|Ngoro|DIGITNET|
-|19|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|20|37.27.253.44|8099|Finland|Helsinki|Hetzner Online GmbH|
+|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|6|157.245.124.217|53971|United States|Clifton|DigitalOcean, LLC|
+|7|192.81.129.252|3135|United States|Fremont|Akamai Technologies, Inc.|
+|8|160.248.5.201|3127|Japan|Ichikawa|NTT PC Communications, Inc.|
+|9|37.27.253.44|8089|Finland|Helsinki|Hetzner Online GmbH|
+|10|167.86.93.118|8063|Germany|Nuremberg|Contabo GmbH|
+|11|37.27.253.44|8089|Finland|Helsinki|Hetzner Online GmbH|
+|12|37.27.253.44|8089|Finland|Helsinki|Hetzner Online GmbH|
+|13|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|14|117.103.168.66|9091|Indonesia|Jakarta|PT Pika Media Komunika|
+|15|37.27.253.44|8089|Finland|Helsinki|Hetzner Online GmbH|
+|16|37.27.253.44|8089|Finland|Helsinki|Hetzner Online GmbH|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|131.108.139.217|8080|Brazil|Manaus|Speed Wireless Servicos De Comunicacao Multimidia|
+|19|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|20|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
 
 
 
