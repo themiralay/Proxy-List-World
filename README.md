@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
 |4|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|8|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|9|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|15|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|16|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
-|17|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|18|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|19|103.122.1.26|8080|Indonesia|Kabupaten Ogan Komering Ilir|PT. Java Digital Nusantara|
-|20|51.158.105.94|31826|France|Paris|SCALEWAY|
+|5|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|12|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|14|189.240.60.162|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|15|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|17|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|18|189.240.60.172|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|19|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|20|64.83.246.99|5999|United States|Carbondale|Clearwave Communications|
 
 
 
