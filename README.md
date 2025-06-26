@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.239.8.6|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|6|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|5|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|6|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 |7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|135.234.106.253|80|United States|Phoenix|MICROSOFT|
-|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|12|43.199.163.10|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|13|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|108.136.220.77|4005|Indonesia|Jakarta|Amazon.com, Inc.|
+|8|189.240.60.172|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|9|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|10|189.240.60.162|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|11|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|13|51.158.105.94|31826|France|Paris|SCALEWAY|
+|14|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|185.172.3.70|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|19|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
-|20|3.109.62.30|717|India|Mumbai|Amazon Technologies Inc.|
+|16|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|17|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
+|18|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|19|52.210.15.148|3128|Ireland|Dublin|Amazon.com, Inc.|
+|20|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
 
 
 
