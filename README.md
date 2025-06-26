@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
 |2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
 |4|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
 |6|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
 |8|47.239.8.6|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|13|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|14|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|16|189.240.60.172|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|13|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|15|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|16|52.78.241.34|3128|South Korea|Seoul|Amazon Technologies Inc.|
 |17|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|18|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|189.240.60.162|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|19|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|20|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
 
 
 
