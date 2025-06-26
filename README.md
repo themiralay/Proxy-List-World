@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|171.228.71.65|10006|Vietnam|Hòa Bình|Viettel Corporation|
-|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|1|18.140.203.182|3128|Singapore|Singapore|Amazon.com, Inc.|
+|2|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
 |3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|4|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|185.172.3.70|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|52.78.241.34|3128|South Korea|Seoul|Amazon Technologies Inc.|
-|11|23.237.210.82|80|United States|Houston|FDCservers.net|
-|12|13.235.246.116|25396|India|Mumbai|Amazon Technologies Inc.|
-|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|14|27.79.162.155|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
-|16|16.26.88.4|28095|Australia|Melbourne|Amazon.com, Inc.|
-|17|13.208.241.126|53233|Japan|Osaka|Amazon Technologies Inc.|
+|4|171.228.71.65|10006|Vietnam|Hòa Bình|Viettel Corporation|
+|5|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|11|176.65.149.147|8081|Germany|Hauzenberg|Pfcloud UG|
+|12|52.78.241.34|3128|South Korea|Seoul|Amazon Technologies Inc.|
+|13|27.79.162.155|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|15|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|16|103.171.255.244|8080|Indonesia|Sleman|ZKI|
+|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |18|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|19|134.249.185.223|41890|Ukraine|Kyiv|Kyivstar UA|
-|20|115.127.139.106|48134|Bangladesh|Gazipur|BRACNet Limited|
+|19|16.26.88.4|28095|Australia|Melbourne|Amazon.com, Inc.|
+|20|35.177.23.165|14601|United Kingdom|London|Amazon Technologies Inc.|
 
 
 
