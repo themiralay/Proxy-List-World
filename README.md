@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|206.189.150.202|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|18.140.203.182|3128|Singapore|Singapore|Amazon.com, Inc.|
-|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|4|171.228.71.65|10006|Vietnam|Hòa Bình|Viettel Corporation|
-|5|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|176.65.149.147|8081|Germany|Hauzenberg|Pfcloud UG|
+|1|18.140.203.182|3128|Singapore|Singapore|Amazon.com, Inc.|
+|2|27.79.162.155|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|171.228.71.65|10006|Vietnam|Hòa Bình|Viettel Corporation|
+|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|176.65.149.147|8081|Germany|Hauzenberg|Pfcloud UG|
+|10|116.98.55.203|4005|Vietnam|Da Nang|Viettel Corporation|
+|11|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
 |12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|13|18.100.217.180|3128|Spain|Zaragoza|Amazon Technologies Inc.|
-|14|52.210.15.148|3128|Ireland|Dublin|Amazon.com, Inc.|
-|15|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|16|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|17|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|18|185.172.3.70|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|19|3.10.207.94|8000|United Kingdom|London|Amazon Technologies Inc.|
-|20|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|14|54.210.19.156|3128|United States|Ashburn|Amazon.com, Inc.|
+|15|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|16|115.75.191.21|3128|Vietnam|Quận Một|VIETELxdsl|
+|17|3.27.237.252|3128|Australia|Sydney|Amazon Technologies Inc.|
+|18|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|19|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|20|108.136.220.77|4005|Indonesia|Jakarta|Amazon.com, Inc.|
 
 
 
