@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|171.228.71.65|10007|Vietnam|Hòa Bình|Viettel Corporation|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|2|18.140.203.182|3128|Singapore|Singapore|Amazon.com, Inc.|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |5|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|7|18.140.203.182|3128|Singapore|Singapore|Amazon.com, Inc.|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|13|176.65.149.147|8081|Germany|Hauzenberg|Pfcloud UG|
-|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|15|65.2.11.52|34967|India|Mumbai|Amazon.com|
-|16|185.172.3.70|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|17|16.171.242.247|57|Sweden|Stockholm|Amazon.com|
-|18|52.78.241.34|3128|South Korea|Seoul|Amazon Technologies Inc.|
-|19|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
-|20|51.158.105.94|31826|France|Paris|SCALEWAY|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|10|176.65.149.147|8081|Germany|Hauzenberg|Pfcloud UG|
+|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|12|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
+|13|3.10.207.94|8000|United Kingdom|London|Amazon Technologies Inc.|
+|14|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|15|18.170.63.85|999|United Kingdom|London|Amazon Technologies Inc.|
+|16|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|17|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
+|18|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|19|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|20|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
 
 
 
