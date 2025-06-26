@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|8|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
 |9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|12|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|15|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|200.25.254.193|54240|Colombia|Puerto Nariño|Anditel S.A.S.|
-|19|47.239.8.6|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|11|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|14|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|17|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|18|47.239.8.6|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|20|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
 
 
 
