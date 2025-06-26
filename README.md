@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **76685** proxies at the latest update. Usable proxies are below.
+> Scraper found **40242** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36443|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|90|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38926|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|4|116.103.24.36|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|18.140.203.182|3128|Singapore|Singapore|Amazon.com, Inc.|
-|7|168.138.174.78|3128|Singapore|Singapore|Oracle Corporation|
-|8|171.228.71.65|10007|Vietnam|Hòa Bình|Viettel Corporation|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|14|51.158.105.94|31826|France|Paris|SCALEWAY|
-|15|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|16|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|17|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|18|13.208.241.126|53233|Japan|Osaka|Amazon Technologies Inc.|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|4|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|5|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|8|156.67.214.169|9999|Singapore|Singapore|HOSTINGER SG|
+|9|182.253.109.41|8080|Indonesia|Semarang|Biznet Metronet|
+|10|201.174.239.25|8080|Mexico|General Escobedo|Transtelco Inc|
+|11|147.75.49.154|9401|United States|San Jose|Packet Host, Inc.|
+|12|147.75.49.154|9401|United States|San Jose|Packet Host, Inc.|
+|13|159.89.239.166|18093|United States|North Bergen|DigitalOcean, LLC|
+|14|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|15|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|15.161.42.78|36175|Italy|Milan|Amazon.com, Inc.|
+|17|51.44.21.233|3128|France|Paris|Amazon.com, Inc.|
+|18|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|19|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|20|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
 
 
 
