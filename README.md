@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|18.140.203.182|3128|Singapore|Singapore|Amazon.com, Inc.|
-|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|161.35.116.6|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|182.253.109.41|8080|Indonesia|Semarang|Biznet Metronet|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|8|157.245.109.53|3128|India|Bengaluru|DigitalOcean, LLC|
-|9|161.35.116.6|3128|United States|North Bergen|DigitalOcean, LLC|
+|2|171.237.93.115|1007|Vietnam|Hanoi|Viettel Corporation|
+|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|182.253.109.41|8080|Indonesia|Semarang|Biznet Metronet|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|9|157.245.109.53|3128|India|Bengaluru|DigitalOcean, LLC|
 |10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|16.26.88.4|28095|Australia|Melbourne|Amazon.com, Inc.|
-|13|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|14|3.27.237.252|3128|Australia|Sydney|Amazon Technologies Inc.|
-|15|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|16|108.136.220.77|4005|Indonesia|Jakarta|Amazon.com, Inc.|
-|17|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|18|92.58.181.171|1194|Spain|Madrid|UNI2|
-|19|161.35.102.89|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|103.139.98.159|8080|Indonesia|Bandaragung|Digital Network Setiawan|
+|11|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|12|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|92.58.181.171|1194|Spain|Madrid|UNI2|
+|15|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|16|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|17|18.60.111.249|6698|India|Hyderabad|Amazon.com, Inc.|
+|18|3.141.38.145|3128|United States|Dublin|Amazon.com, Inc.|
+|19|18.101.7.10|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|20|108.136.220.77|4005|Indonesia|Jakarta|Amazon.com, Inc.|
 
 
 
