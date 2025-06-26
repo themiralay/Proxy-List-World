@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|116.103.24.36|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|51.44.85.200|3128|France|Paris|Amazon.com, Inc.|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|12|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
-|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|3|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|7|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
+|8|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|11|13.113.174.156|3128|Japan|Tokyo|Amazon Technologies Inc|
+|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|13|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |14|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
-|15|116.103.25.149|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|17|52.210.15.148|3128|Ireland|Dublin|Amazon.com, Inc.|
-|18|18.100.217.180|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|15|103.149.238.108|1111|Indonesia|Pasuruan|PT BITNIAGA CIPTA GEMILANG|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|18.132.14.119|3128|United Kingdom|London|Amazon Technologies Inc.|
+|18|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
 |19|43.198.151.41|31005|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|20|65.2.11.52|34967|India|Mumbai|Amazon.com|
+|20|94.141.123.62|1080|Germany|Frankfurt am Main|Waicore LTD|
 
 
 
