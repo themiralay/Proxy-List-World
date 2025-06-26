@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|9|103.166.213.122|8082|Indonesia|Loakulu|PT Lancar Jaya Network|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|13|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|14|51.158.105.94|31826|France|Paris|SCALEWAY|
-|15|176.65.149.147|8081|Germany|Hauzenberg|Pfcloud UG|
-|16|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|17|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|18|98.130.47.34|3128|India|Hyderabad|Amazon.com|
-|19|108.136.220.77|4005|Indonesia|Jakarta|Amazon.com, Inc.|
-|20|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|11|116.103.25.149|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|14|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|15|18.132.14.119|3128|United Kingdom|London|Amazon Technologies Inc.|
+|16|103.68.233.142|8080|Indonesia|Serpong|PT OREN ABADI SAKTI|
+|17|176.65.149.147|8081|Germany|Hauzenberg|Pfcloud UG|
+|18|18.100.217.180|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|19|103.167.156.16|8084|Indonesia|Pemalang|PT Jaringan Tiang Indonesia Group|
+|20|16.171.242.247|57|Sweden|Stockholm|Amazon.com|
 
 
 
