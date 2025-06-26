@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|548|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|548|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|548|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|506|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|506|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|506|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|220.118.176.236|3128|South Korea|Yeongdeungpo-gu|Korea Telecom|
 |2|58.186.176.60|16000|Vietnam|Hanoi|FPT Telecom Company|
-|3|27.79.136.91|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|27.79.134.8|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|27.71.140.183|16000|Vietnam|Hanoi|Viettel Group|
-|6|27.71.132.25|16000|Vietnam|Hanoi|Viettel Group|
-|7|27.79.146.72|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|116.96.83.173|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|27.79.230.20|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|223.206.57.241|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|11|14.229.249.154|8080|Vietnam|Quảng Ninh|VNPT|
-|12|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|3|27.71.132.25|16000|Vietnam|Hanoi|Viettel Group|
+|4|27.79.236.43|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.230.20|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|27.79.169.79|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|27.79.232.200|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|27.79.143.124|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|27.79.136.91|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|27.79.134.8|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|27.79.146.72|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|27.79.225.109|16000|Vietnam|Hanoi|Viettel Corporation|
 |13|27.79.199.251|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|116.105.160.247|8080|Vietnam|Da Nang|Viettel Corporation|
-|15|27.79.225.109|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|27.71.140.246|16000|Vietnam|Hanoi|Viettel Group|
-|18|124.217.72.134|8081|Philippines|Tarlac City|Philippine Long Distance Telephone Co.|
-|19|27.79.173.210|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|27.79.169.79|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|27.71.134.94|16000|Vietnam|Hanoi|Viettel Group|
+|15|27.71.140.246|16000|Vietnam|Hanoi|Viettel Group|
+|16|124.217.72.134|8081|Philippines|Tarlac City|Philippine Long Distance Telephone Co.|
+|17|116.105.160.247|8080|Vietnam|Da Nang|Viettel Corporation|
+|18|27.71.140.183|16000|Vietnam|Hanoi|Viettel Group|
+|19|116.96.83.173|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|27.79.162.158|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
