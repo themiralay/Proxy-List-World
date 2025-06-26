@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|6|157.245.124.217|53971|United States|Clifton|DigitalOcean, LLC|
-|7|192.81.129.252|3135|United States|Fremont|Akamai Technologies, Inc.|
-|8|160.248.5.201|3127|Japan|Ichikawa|NTT PC Communications, Inc.|
-|9|37.27.253.44|8089|Finland|Helsinki|Hetzner Online GmbH|
-|10|167.86.93.118|8063|Germany|Nuremberg|Contabo GmbH|
-|11|37.27.253.44|8089|Finland|Helsinki|Hetzner Online GmbH|
-|12|37.27.253.44|8089|Finland|Helsinki|Hetzner Online GmbH|
-|13|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|14|117.103.168.66|9091|Indonesia|Jakarta|PT Pika Media Komunika|
-|15|37.27.253.44|8089|Finland|Helsinki|Hetzner Online GmbH|
-|16|37.27.253.44|8089|Finland|Helsinki|Hetzner Online GmbH|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|131.108.139.217|8080|Brazil|Manaus|Speed Wireless Servicos De Comunicacao Multimidia|
-|19|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|20|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|15|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|189.240.60.164|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|18|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|19|189.240.60.162|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|20|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
