@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|3|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|6|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|7|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|8|94.131.12.165|10808|Switzerland|Bern|PQ HOSTING PLUS S.R.L.|
-|9|103.169.128.133|8080|Indonesia|Cirebon|PT Media Akses Data|
-|10|196.217.111.33|39811|Morocco|Salé|IP ADSL MarocTelecom|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|196.217.111.33|39811|Morocco|Salé|IP ADSL MarocTelecom|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|10|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
 |11|27.79.147.63|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|94.141.123.62|1080|Germany|Frankfurt am Main|Waicore LTD|
 |13|43.216.75.140|42761|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|14|3.141.38.145|3128|United States|Dublin|Amazon.com, Inc.|
-|15|185.172.3.70|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|16|176.65.149.147|8081|Germany|Hauzenberg|Pfcloud UG|
-|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|18|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|20|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|14|18.60.111.249|6698|India|Hyderabad|Amazon.com, Inc.|
+|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|17|13.245.30.86|3128|South Africa|Johannesburg|Amazon.com, Inc.|
+|18|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|19|3.141.38.145|3128|United States|Dublin|Amazon.com, Inc.|
+|20|13.245.196.193|3128|South Africa|Johannesburg|Amazon.com, Inc.|
 
 
 
