@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.123.142.82|1111|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
-|2|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|189.240.60.172|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|47.239.8.6|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
 |8|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|9|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|10|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|11|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|12|189.240.60.162|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|10|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|11|189.240.60.172|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |13|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|14|189.240.60.166|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|17|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|18|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
-|19|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|14|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|15|94.141.123.62|1080|Germany|Frankfurt am Main|Waicore LTD|
+|16|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|189.240.60.162|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
