@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.248.189.95|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|209.121.164.51|31147|Canada|Burnaby|TELUS Communications Inc.|
-|3|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
+|2|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|3|77.110.123.32|3128|United States|Charlotte|Aeza International LTD|
 |4|77.110.123.32|3128|United States|Charlotte|Aeza International LTD|
-|5|77.110.123.32|3128|United States|Charlotte|Aeza International LTD|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|10|13.125.239.254|3128|South Korea|Seoul|Amazon Technologies Inc.|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|13|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|14|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
-|15|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|16|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|18|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|19|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|20|204.199.81.90|999|Colombia|Santiago de Cali|CTL Colombia|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|47.254.67.27|8080|United States|Santa Clara|Alibaba Cloud LLC|
+|11|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|12|27.71.140.246|16000|Vietnam|Hanoi|Viettel Group|
+|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|15|18.170.63.85|999|United Kingdom|London|Amazon Technologies Inc.|
+|16|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
+|17|27.79.147.101|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|19|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|20|43.198.151.41|31005|Hong Kong|Hong Kong|Amazon.com, Inc.|
 
 
 
