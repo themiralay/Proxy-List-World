@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|27.79.147.101|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|27.79.225.109|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|159.89.245.69|53971|United States|Clifton|DigitalOcean, LLC|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|27.79.199.251|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|11|27.79.232.200|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|27.71.140.246|16000|Vietnam|Hanoi|Viettel Group|
-|14|27.0.183.82|3128|India|Lucknow|Sikka IPL|
-|15|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|17|159.89.245.69|53971|United States|Clifton|DigitalOcean, LLC|
-|18|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|19|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|20|27.79.230.20|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|157.245.124.217|53971|United States|Clifton|DigitalOcean, LLC|
+|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|3|159.89.245.69|53971|United States|Clifton|DigitalOcean, LLC|
+|4|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|5|27.79.232.200|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|157.245.124.217|53971|United States|Clifton|DigitalOcean, LLC|
+|7|27.71.134.94|16000|Vietnam|Hanoi|Viettel Group|
+|8|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|9|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
+|10|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|12|27.71.140.246|16000|Vietnam|Hanoi|Viettel Group|
+|13|159.89.245.69|53971|United States|Clifton|DigitalOcean, LLC|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|17|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|18|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|19|27.79.147.101|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|85.215.139.68|1080|Germany|Berlin|IONOS SE|
 
 
 
