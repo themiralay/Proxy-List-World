@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|62.33.91.10|3128|Russia|Tynda|TRANS-TELECOM|
-|3|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|4|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|5|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|6|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|27.79.134.8|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|47.254.67.27|8080|United States|Santa Clara|Alibaba Cloud LLC|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|27.79.214.230|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|27.79.230.20|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|8|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|180.149.232.253|6147|Bangladesh|Gazipur|Digi Jadoo Broadband Ltd|
 |10|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|13|85.215.139.68|1080|Germany|Berlin|IONOS SE|
-|14|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|15|185.172.3.70|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|16|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|17|27.79.236.43|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
-|19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|20|27.79.245.89|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|18.101.7.10|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|12|185.172.3.70|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|13|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
+|14|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|15|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|16|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|17|206.189.150.202|8888|Singapore|Singapore|DigitalOcean, LLC|
+|18|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|202.162.195.54|8080|Indonesia|Medan|PT. Media Antar Nusa|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
