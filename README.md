@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|1|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|38.242.245.172|3128|Germany|Düsseldorf|Contabo GmbH|
-|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|14|176.65.149.147|8081|Germany|Hauzenberg|Pfcloud UG|
-|15|47.254.67.27|8080|United States|Santa Clara|Alibaba Cloud LLC|
-|16|27.79.214.230|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|77.110.123.32|3128|United States|Charlotte|Aeza International LTD|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
-|20|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|5|27.79.169.79|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|13|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|14|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|27.79.143.124|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|185.172.3.70|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|18|202.154.18.180|8084|Indonesia|Babat|DIGITNET|
+|19|203.175.126.229|8080|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
