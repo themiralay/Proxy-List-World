@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
 |4|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|7|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|11|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|12|47.254.67.27|8080|United States|Santa Clara|Alibaba Cloud LLC|
-|13|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|14|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|15|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|16|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|176.65.149.147|8081|Germany|Hauzenberg|Pfcloud UG|
-|19|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|20|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
+|12|185.172.3.70|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|13|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|27.79.143.124|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|17|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|18|47.254.67.27|8080|United States|Santa Clara|Alibaba Cloud LLC|
+|19|3.27.237.252|3128|Australia|Sydney|Amazon Technologies Inc.|
+|20|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
