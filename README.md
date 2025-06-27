@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.248.189.95|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |3|77.110.123.32|3128|United States|Charlotte|Aeza International LTD|
 |4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|77.110.123.32|3128|United States|Charlotte|Aeza International LTD|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|12|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|13|185.172.3.70|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|14|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|13.221.134.55|3128|United States|Ashburn|Amazon.com, Inc.|
-|17|18.60.111.249|6698|India|Hyderabad|Amazon.com, Inc.|
-|18|3.72.40.248|50202|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|19|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|77.110.123.32|3128|United States|Charlotte|Aeza International LTD|
+|7|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|8|103.251.8.255|8282|Indonesia|Gianyar|PT Trika Global Media|
+|9|103.151.246.18|7777|Indonesia|Mamuju|MANAKARRANET|
+|10|3.72.40.248|50202|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|13|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|14|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|15|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|16|185.172.3.70|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|13.221.134.55|3128|United States|Ashburn|Amazon.com, Inc.|
+|19|152.32.67.107|65535|Philippines|Quezon City|Converge ICT Solution Inc|
+|20|108.136.220.77|4005|Indonesia|Jakarta|Amazon.com, Inc.|
 
 
 
