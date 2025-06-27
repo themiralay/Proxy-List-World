@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|2|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|7|77.110.123.32|3128|United States|Charlotte|Aeza International LTD|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|77.110.123.32|3128|United States|Charlotte|Aeza International LTD|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|5|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
 |9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 |10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|12|56.155.38.121|12736|Japan|Osaka|Amazon.com, Inc.|
-|13|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|14|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|15|27.79.230.20|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|27.79.143.124|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|27.79.245.89|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|19|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|20|3.72.40.248|50202|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|11|13.235.246.116|25396|India|Mumbai|Amazon Technologies Inc.|
+|12|43.199.163.10|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|13|176.65.149.147|8081|Germany|Hauzenberg|Pfcloud UG|
+|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|15|103.133.27.179|8080|Indonesia|Purwakarta|PT PHATRIA INTI PERSADA|
+|16|27.79.162.158|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|103.156.86.129|8080|Indonesia|Palopo|PT Chacha Networking System|
+|18|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|19|13.208.241.126|53233|Japan|Osaka|Amazon Technologies Inc.|
+|20|206.189.134.250|3128|India|Bengaluru|DigitalOcean, LLC|
 
 
 
