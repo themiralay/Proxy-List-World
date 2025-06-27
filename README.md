@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|3|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|4|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|5|47.254.67.27|8080|United States|Santa Clara|Alibaba Cloud LLC|
-|6|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|27.79.214.230|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|27.79.208.39|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|130.185.104.62|4128|Germany|Donzdorf|Xirra GmbH|
-|13|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|14|54.233.35.125|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|15|85.215.139.68|1080|Germany|Berlin|IONOS SE|
-|16|27.79.245.89|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|18.231.33.162|8080|Brazil|São Paulo|Amazon Technologies Inc.|
-|18|49.146.232.20|8080|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|19|223.204.162.120|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|20|115.72.33.70|10017|Vietnam|Hanoi|VIETELmetro|
+|2|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|1.4.250.112|8080|Thailand|Mueang Samut Prakan|TOT Public Company Limited|
+|5|223.206.50.174|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|6|49.146.232.20|8080|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|7|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|8|110.77.244.244|8080|Thailand|Phuket|CAT Telecom Public Company Limited|
+|9|86.98.212.37|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
+|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|11|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|27.79.208.39|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|16|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
+|17|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|18|85.215.139.68|1080|Germany|Berlin|IONOS SE|
+|19|54.233.35.125|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|20|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
 
 
 
