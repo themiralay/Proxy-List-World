@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **39866** proxies at the latest update. Usable proxies are below.
+> Scraper found **76416** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36550|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|84|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38556|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|3|140.227.61.201|3128|Japan|Chiyoda|InfoSphere|
-|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|43.216.214.221|4289|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|11|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|115.75.191.21|3128|Vietnam|Quận Một|VIETELxdsl|
-|13|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|14|3.72.40.248|50202|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|15|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|16|18.170.63.85|999|United Kingdom|London|Amazon Technologies Inc.|
-|17|176.65.149.147|8081|Germany|Hauzenberg|Pfcloud UG|
-|18|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|19|16.26.88.4|28095|Australia|Melbourne|Amazon.com, Inc.|
-|20|202.154.18.148|8080|Indonesia|Babat|DIGITNET|
+|1|140.227.61.201|3128|Japan|Chiyoda|InfoSphere|
+|2|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|5|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
+|6|47.254.67.27|8080|United States|Santa Clara|Alibaba Cloud LLC|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|51.158.105.94|31826|France|Paris|SCALEWAY|
+|10|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|11|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|12|176.65.149.147|8081|Germany|Hauzenberg|Pfcloud UG|
+|13|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
+|14|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|43.216.214.221|4289|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|18|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|19|103.145.34.133|1111|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
+|20|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
 
 
 
