@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|3|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|4|176.65.149.147|8081|Germany|Hauzenberg|Pfcloud UG|
-|5|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|6|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|3.72.40.248|50202|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|11|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|12|18.60.111.249|6698|India|Hyderabad|Amazon.com, Inc.|
-|13|13.235.246.116|25396|India|Mumbai|Amazon Technologies Inc.|
-|14|3.27.237.252|3128|Australia|Sydney|Amazon Technologies Inc.|
-|15|18.101.7.10|3128|Spain|Zaragoza|Amazon Technologies Inc.|
-|16|51.44.85.200|3128|France|Paris|Amazon.com, Inc.|
-|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|18|43.216.75.140|42761|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|19|43.216.214.221|4289|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|2|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|3|27.79.250.98|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
+|7|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|12|176.65.149.147|8081|Germany|Hauzenberg|Pfcloud UG|
+|13|115.77.135.193|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|14|43.216.75.140|42761|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|15|13.235.246.116|25396|India|Mumbai|Amazon Technologies Inc.|
+|16|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|17|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|18|27.71.134.94|16000|Vietnam|Hanoi|Viettel Group|
+|19|16.26.88.4|28095|Australia|Melbourne|Amazon.com, Inc.|
+|20|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
 
 
 
