@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|3|140.227.61.201|3128|Japan|Chiyoda|InfoSphere|
-|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|1|140.227.61.201|3128|Japan|Chiyoda|InfoSphere|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|27.71.140.246|16000|Vietnam|Hanoi|Viettel Group|
+|4|27.79.199.251|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|27.71.140.246|16000|Vietnam|Hanoi|Viettel Group|
-|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|14|27.79.199.251|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|213.226.119.120|4857|Turkey|Istanbul|Mehmet Selim Sahin|
-|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|18|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|27.79.232.200|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|27.79.208.39|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|78.26.146.59|443|Ukraine|Odesa|Renome-Service: Joint Multimedia Cable Network|
+|18|18.170.63.85|999|United Kingdom|London|Amazon Technologies Inc.|
+|19|43.216.75.140|42761|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|20|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
 
 
 
