@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|27.79.167.103|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|10|176.65.149.147|8081|Germany|Hauzenberg|Pfcloud UG|
-|11|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|12|3.72.40.248|50202|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|13|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|14|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|15|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|16|35.177.23.165|10535|United Kingdom|London|Amazon Technologies Inc.|
-|17|16.26.88.4|28095|Australia|Melbourne|Amazon.com, Inc.|
-|18|13.221.134.55|3128|United States|Ashburn|Amazon.com, Inc.|
-|19|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|20|18.101.7.10|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|3|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|4|27.79.167.103|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|3.72.40.248|50202|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|9|52.78.241.34|3128|South Korea|Seoul|Amazon Technologies Inc.|
+|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|12|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|13|51.158.105.94|31826|France|Paris|SCALEWAY|
+|14|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
+|15|144.76.42.215|8118|Germany|Falkenstein|Hetzner Online GmbH|
+|16|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|17|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
+|18|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|19|185.172.3.70|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|20|51.79.99.237|4502|Canada|Montreal|OVH SAS|
 
 
 
