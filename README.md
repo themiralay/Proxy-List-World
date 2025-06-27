@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|1|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|2|47.254.67.27|8080|United States|Santa Clara|Alibaba Cloud LLC|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|27.79.214.230|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|18.116.141.120|3128|United States|Dublin|Amazon.com, Inc.|
 |9|18.116.141.120|3128|United States|Dublin|Amazon.com, Inc.|
-|10|18.116.141.120|3128|United States|Dublin|Amazon.com, Inc.|
-|11|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|12|27.76.4.33|10003|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|10|27.71.140.183|16000|Vietnam|Hanoi|Viettel Group|
+|11|27.71.134.94|16000|Vietnam|Hanoi|Viettel Group|
+|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|15|51.84.110.224|3128|Israel|Tel Aviv|Amazon.com, Inc.|
-|16|16.171.242.247|57|Sweden|Stockholm|Amazon.com|
-|17|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
-|18|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|19|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
+|14|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
+|15|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|16|185.172.3.70|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|17|176.65.149.147|8081|Germany|Hauzenberg|Pfcloud UG|
+|18|13.221.134.55|3128|United States|Ashburn|Amazon.com, Inc.|
+|19|18.100.217.180|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
