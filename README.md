@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|3|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|27.79.230.20|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|9|51.158.105.94|31826|France|Paris|SCALEWAY|
-|10|13.221.134.55|3128|United States|Ashburn|Amazon.com, Inc.|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|94.141.123.62|1080|Germany|Frankfurt am Main|Waicore LTD|
-|13|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
-|14|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|15|27.79.214.230|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|27.79.236.43|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
-|18|27.79.147.101|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|13.208.241.126|53233|Japan|Osaka|Amazon Technologies Inc.|
-|20|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|2|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|27.79.214.230|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|206.189.150.202|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|27.71.140.246|16000|Vietnam|Hanoi|Viettel Group|
+|10|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|11|27.79.232.200|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|13.221.134.55|3128|United States|Ashburn|Amazon.com, Inc.|
+|14|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|15|51.158.105.94|31826|France|Paris|SCALEWAY|
+|16|16.171.242.247|57|Sweden|Stockholm|Amazon.com|
+|17|47.254.67.27|8080|United States|Santa Clara|Alibaba Cloud LLC|
+|18|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
+|19|51.44.85.200|3128|France|Paris|Amazon.com, Inc.|
+|20|27.79.173.210|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
