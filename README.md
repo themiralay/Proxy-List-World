@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|3|160.19.18.209|8080|Indonesia|Mranggen|PT Indo Telemedia Solusi|
 |4|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|6|47.254.67.27|8080|United States|Santa Clara|Alibaba Cloud LLC|
-|7|85.215.139.68|1080|Germany|Berlin|IONOS SE|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|11|175.158.44.70|7777|Indonesia|Jakarta|CBNNAP|
-|12|52.78.241.34|3128|South Korea|Seoul|Amazon Technologies Inc.|
-|13|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|14|185.172.3.70|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|15|51.44.85.200|3128|France|Paris|Amazon.com, Inc.|
-|16|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|17|115.75.191.21|3128|Vietnam|Quận Một|VIETELxdsl|
-|18|18.60.111.249|6698|India|Hyderabad|Amazon.com, Inc.|
-|19|47.254.67.27|8080|United States|Santa Clara|Alibaba Cloud LLC|
-|20|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|27.79.236.43|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|8|85.215.139.68|1080|Germany|Berlin|IONOS SE|
+|9|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|10|115.79.70.69|8470|Vietnam|Ho Chi Minh City|VIETELftth|
+|11|223.205.98.174|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|12|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|14|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|15|45.71.114.150|999|Ecuador|Loja|Ufinet Panama S.A.|
+|16|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
+|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|27.79.147.63|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|20|16.171.242.247|57|Sweden|Stockholm|Amazon.com|
 
 
 
