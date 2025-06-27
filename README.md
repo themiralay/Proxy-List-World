@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|2|183.99.118.9|3128|South Korea|Seongnam-si|Korea Telecom|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|8|86.98.212.37|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
+|1|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
+|2|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|60.249.94.59|3128|Taiwan|Chang-hua|Chunghwa Telecom Co., Ltd.|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
 |9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|43.216.75.140|42761|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|11|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|12|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|13|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|15|171.6.22.202|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|16|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
-|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|94.131.12.165|10808|Switzerland|Bern|PQ HOSTING PLUS S.R.L.|
-|19|54.233.35.125|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|20|18.231.33.162|8080|Brazil|São Paulo|Amazon Technologies Inc.|
+|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|11|183.99.118.9|3128|South Korea|Seongnam-si|Korea Telecom|
+|12|101.108.85.0|8080|Thailand|Bangkok|TOT Public Company Limited|
+|13|130.185.104.62|4128|Germany|Donzdorf|Xirra GmbH|
+|14|171.6.22.202|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|15|86.98.212.37|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
+|16|223.205.32.196|8080|Thailand|Salaya|Triple T Broadband Public Company Limited|
+|17|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|18|43.153.81.124|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|19|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|20|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 
 
 
