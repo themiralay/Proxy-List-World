@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
-|3|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|183.99.118.9|3128|South Korea|Seongnam-si|Korea Telecom|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
-|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|6|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|8|86.98.212.37|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
 |9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|11|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|54.233.35.125|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|18|47.254.67.27|8080|United States|Santa Clara|Alibaba Cloud LLC|
-|19|27.79.214.230|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|47.254.67.27|8080|United States|Santa Clara|Alibaba Cloud LLC|
+|10|43.216.75.140|42761|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|11|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|12|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|13|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|15|171.6.22.202|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|16|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
+|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|94.131.12.165|10808|Switzerland|Bern|PQ HOSTING PLUS S.R.L.|
+|19|54.233.35.125|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|20|18.231.33.162|8080|Brazil|São Paulo|Amazon Technologies Inc.|
 
 
 
