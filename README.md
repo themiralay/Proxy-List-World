@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|3|27.79.167.103|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|27.79.167.103|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|192.145.228.209|8082|Indonesia|Bandar Lampung|PT Mandala Lintas Nusa|
-|9|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|10|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
-|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|12|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|13|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
-|14|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|16|113.23.155.110|1231|Malaysia|Hulu Langat|Extreme Broadband|
-|17|51.44.85.200|3128|France|Paris|Amazon.com, Inc.|
-|18|93.190.138.107|46182|The Netherlands|Naaldwijk|WorldStream B.V.|
-|19|185.200.38.53|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|20|18.60.111.249|6698|India|Hyderabad|Amazon.com, Inc.|
+|8|176.65.149.147|8081|Germany|Hauzenberg|Pfcloud UG|
+|9|5.75.142.180|11111|Germany|Nuremberg|Hetzner Online GmbH|
+|10|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|11|3.126.92.60|29|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|12|1.20.169.60|8180|Thailand|Pattaya|TOT Public Company Limited|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|14|18.60.111.249|6698|India|Hyderabad|Amazon.com, Inc.|
+|15|13.235.246.116|25396|India|Mumbai|Amazon Technologies Inc.|
+|16|56.155.38.121|12736|Japan|Osaka|Amazon.com, Inc.|
+|17|3.27.237.252|3128|Australia|Sydney|Amazon Technologies Inc.|
+|18|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
+|19|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|20|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
