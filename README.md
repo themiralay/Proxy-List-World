@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **40138** proxies at the latest update. Usable proxies are below.
+> Scraper found **40174** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -32,7 +32,7 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|82|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38830|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38866|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |2|27.79.167.103|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|27.71.140.183|16000|Vietnam|Hanoi|Viettel Group|
+|6|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
 |7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|13.208.241.126|53233|Japan|Osaka|Amazon Technologies Inc.|
-|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|13|185.172.3.70|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|14|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|15|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|16|27.71.134.94|16000|Vietnam|Hanoi|Viettel Group|
-|17|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|18|47.236.37.129|18081|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|3.126.92.60|29|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|20|103.174.238.105|3127|Indonesia|Indramayu|PT Anugerah Cimanuk Raya|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|13|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|16|47.254.67.27|8080|United States|Santa Clara|Alibaba Cloud LLC|
+|17|160.19.146.210|8080|Indonesia|Tasikmalaya|PT Taska Sarana Nusantara|
+|18|157.20.252.181|8090|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
+|19|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|20|51.158.105.94|31826|France|Paris|SCALEWAY|
 
 
 
