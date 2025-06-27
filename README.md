@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|352|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|352|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|352|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|14.229.249.154|8080|Vietnam|Quảng Ninh|VNPT|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|27.79.225.109|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|47.83.156.51|8118|Hong Kong|Hong Kong|Alibaba.com LLC|
-|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|11|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|12|27.79.173.210|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|14|27.79.245.89|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|220.118.176.236|3128|South Korea|Yeongdeungpo-gu|Korea Telecom|
+|2|27.71.140.183|16000|Vietnam|Hanoi|Viettel Group|
+|3|27.71.140.246|16000|Vietnam|Hanoi|Viettel Group|
+|4|116.96.83.173|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.71.132.25|16000|Vietnam|Hanoi|Viettel Group|
+|6|14.229.249.154|8080|Vietnam|Quảng Ninh|VNPT|
+|7|27.79.169.79|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|27.79.230.20|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|27.79.225.109|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|11|116.96.89.86|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|27.71.135.109|16000|Vietnam|Hanoi|Viettel Group|
+|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|14|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|15|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
 |16|27.79.232.200|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|116.96.89.86|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|19|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|20|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|17|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|18|27.79.199.251|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|20|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
