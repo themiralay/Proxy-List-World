@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|2|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|27.79.167.103|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|47.254.67.27|8080|United States|Santa Clara|Alibaba Cloud LLC|
-|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|27.79.214.230|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|15|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|16|5.75.142.180|11111|Germany|Nuremberg|Hetzner Online GmbH|
-|17|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
-|18|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|19|16.26.88.4|28095|Australia|Melbourne|Amazon.com, Inc.|
-|20|51.44.85.200|3128|France|Paris|Amazon.com, Inc.|
+|1|27.79.167.103|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|27.71.140.246|16000|Vietnam|Hanoi|Viettel Group|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|27.71.134.94|16000|Vietnam|Hanoi|Viettel Group|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|27.79.208.39|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|12|51.44.85.200|3128|France|Paris|Amazon.com, Inc.|
+|13|94.141.123.62|1080|Germany|Frankfurt am Main|Waicore LTD|
+|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|15|27.71.135.109|16000|Vietnam|Hanoi|Viettel Group|
+|16|18.101.7.10|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|17|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
+|18|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
+|19|43.198.151.41|31005|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|20|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
