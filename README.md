@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|8.222.128.50|9119|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |5|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|27.0.183.82|3128|India|Lucknow|Sikka IPL|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
-|14|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|15|3.27.237.252|3128|Australia|Sydney|Amazon Technologies Inc.|
-|16|13.235.246.116|25396|India|Mumbai|Amazon Technologies Inc.|
+|6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|43.216.75.140|42761|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|12|51.158.105.94|31826|France|Paris|SCALEWAY|
+|13|185.172.3.70|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|14|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
+|15|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|16|103.237.144.232|1311|Vietnam|Quận Chín|LVSOFT|
 |17|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
-|18|43.216.214.221|4289|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|19|43.216.75.140|42761|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|20|3.72.40.248|50202|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|18|18.101.7.10|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|19|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|20|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
 
 
 
