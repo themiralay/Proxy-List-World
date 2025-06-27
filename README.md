@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|27.79.167.103|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|1|206.189.150.202|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|27.79.167.103|16000|Vietnam|Hanoi|Viettel Corporation|
 |5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|10|103.245.16.134|8080|Indonesia|Jakarta|PT Quantum Tera Network|
+|11|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
 |12|27.71.140.246|16000|Vietnam|Hanoi|Viettel Group|
-|13|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|14|14.224.183.185|8080|Vietnam|Hanoi|VNPT|
-|15|27.71.140.183|16000|Vietnam|Hanoi|Viettel Group|
-|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|157.66.16.52|8080|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|43.199.163.10|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|20|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|13|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|103.147.118.240|8080|Indonesia|Samarinda|PT.Bestcamp Prima Data|
+|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|17|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
+|18|51.44.85.200|3128|France|Paris|Amazon.com, Inc.|
+|19|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|20|27.71.140.183|16000|Vietnam|Hanoi|Viettel Group|
 
 
 
