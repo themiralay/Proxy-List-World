@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|3|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|5|27.79.143.124|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|10|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|11|27.79.208.39|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|27.79.169.79|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|15|85.215.139.68|1080|Germany|Berlin|IONOS SE|
-|16|51.158.105.94|31826|France|Paris|SCALEWAY|
-|17|27.79.143.124|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|19|27.71.134.94|16000|Vietnam|Hanoi|Viettel Group|
-|20|27.79.173.210|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|130.185.104.62|4128|Germany|Donzdorf|Xirra GmbH|
+|11|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|12|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|13|85.215.139.68|1080|Germany|Berlin|IONOS SE|
+|14|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|15|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
+|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
+|18|115.75.191.21|3128|Vietnam|Quận Một|VIETELxdsl|
+|19|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|20|27.79.236.43|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
