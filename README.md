@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|2|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
 |4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|130.185.104.62|4128|Germany|Donzdorf|Xirra GmbH|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|185.172.3.70|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|8|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|9|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|10|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
-|11|223.204.124.179|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|12|115.75.191.21|3128|Vietnam|Quận Một|VIETELxdsl|
-|13|47.254.67.27|8080|United States|Santa Clara|Alibaba Cloud LLC|
-|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|3.126.92.60|29|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|19|27.79.146.72|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|171.7.34.88|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|7|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|8|47.254.67.27|8080|United States|Santa Clara|Alibaba Cloud LLC|
+|9|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|12|85.215.139.68|1080|Germany|Berlin|IONOS SE|
+|13|27.79.208.39|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|27.71.134.94|16000|Vietnam|Hanoi|Viettel Group|
+|15|18.101.7.10|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|16|185.172.3.70|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|17|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|18|3.72.40.248|50202|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|19|130.185.104.62|4128|Germany|Donzdorf|Xirra GmbH|
+|20|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
 
 
 
