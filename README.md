@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|47.254.67.27|8080|United States|Santa Clara|Alibaba Cloud LLC|
-|5|27.79.199.251|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|27.71.132.25|16000|Vietnam|Hanoi|Viettel Group|
-|7|85.215.139.68|1080|Germany|Berlin|IONOS SE|
-|8|176.65.149.147|8081|Germany|Hauzenberg|Pfcloud UG|
-|9|188.17.73.170|1080|Russia|Krasnokamsk|OJSC uralsvyazinform|
-|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|13|79.175.167.208|3128|Iran|Tehran|Afranet co|
-|14|37.27.253.44|8091|Finland|Helsinki|Hetzner Online GmbH|
-|15|27.79.245.89|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|72.10.160.91|17737|Canada|Montreal|GloboTech Communications|
-|17|27.71.134.94|16000|Vietnam|Hanoi|Viettel Group|
-|18|185.172.3.70|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|19|27.79.173.210|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
+|3|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|4|85.215.139.68|1080|Germany|Berlin|IONOS SE|
+|5|27.79.147.101|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|193.152.86.81|8080|Spain|Barcelona|Telefonica De Espana S.A.U.|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|27.79.199.251|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
+|10|72.10.160.91|17737|Canada|Montreal|GloboTech Communications|
+|11|27.79.230.20|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|167.86.93.118|8002|Germany|Nuremberg|Contabo GmbH|
+|13|72.10.160.93|7069|Canada|Montreal|GloboTech Communications|
+|14|188.17.73.170|1080|Russia|Krasnokamsk|OJSC uralsvyazinform|
+|15|67.43.236.21|20045|Canada|Montreal|GloboTech Communications|
+|16|67.43.228.253|31049|Canada|Montreal|GloboTech Communications|
+|17|185.172.3.70|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|18|72.10.164.178|33227|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.94|8325|Canada|Montreal|GloboTech Communications|
+|20|72.10.164.178|33227|Canada|Montreal|GloboTech Communications|
 
 
 
