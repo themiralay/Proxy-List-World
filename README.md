@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.167.103|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
 |2|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|27.79.167.103|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|47.236.37.129|18081|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|12|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
-|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|27.79.208.39|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|47.254.67.27|8080|United States|Santa Clara|Alibaba Cloud LLC|
-|17|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|27.71.140.246|16000|Vietnam|Hanoi|Viettel Group|
+|13|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|14|213.226.119.120|4857|Turkey|Istanbul|Mehmet Selim Sahin|
+|15|5.75.142.180|11111|Germany|Nuremberg|Hetzner Online GmbH|
+|16|18.100.217.180|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|17|105.157.110.207|39811|Morocco|Rabat|ADSL Maroc telecom|
 |18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|105.157.110.207|39811|Morocco|Rabat|ADSL Maroc telecom|
-|20|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|19|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|20|144.76.42.215|8118|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
