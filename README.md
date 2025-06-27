@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|2|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|49.49.192.24|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|9|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|47.254.67.27|8080|United States|Santa Clara|Alibaba Cloud LLC|
-|12|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|15|185.172.3.70|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|16|27.79.173.210|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|27.79.214.230|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|27.79.230.20|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|20|43.153.81.124|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|1|49.49.192.24|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|7|171.237.91.227|1022|Vietnam|Hanoi|Viettel Corporation|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|49.48.99.158|8080|Thailand|Prakhon Chai|Triple T Broadband Public Company Limited|
+|10|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|115.72.4.190|10014|Vietnam|Vũng Tàu|VIETELmetro|
+|13|27.79.230.20|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|185.172.3.70|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|15|47.254.67.27|8080|United States|Santa Clara|Alibaba Cloud LLC|
+|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|17|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
+|18|130.185.104.62|4128|Germany|Donzdorf|Xirra GmbH|
+|19|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
+|20|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
 
 
 
