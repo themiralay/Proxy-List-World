@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
-|3|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
-|4|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|11|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|12|27.79.196.250|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|14|15.204.151.149|31158|United States|Reston|OVH SAS|
-|15|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|176.65.149.147|8081|Germany|Hauzenberg|Pfcloud UG|
-|18|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|19|27.79.210.170|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|16.171.242.247|57|Sweden|Stockholm|Amazon.com|
+|1|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|2|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|18.170.63.85|999|United Kingdom|London|Amazon Technologies Inc.|
+|7|51.158.105.94|31826|France|Paris|SCALEWAY|
+|8|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|10|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|3.27.237.252|3128|Australia|Sydney|Amazon Technologies Inc.|
+|13|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|14|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
+|15|43.216.75.140|42761|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|16|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|17|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|18|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|19|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|20|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
 
 
 
