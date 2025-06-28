@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|114.198.244.57|3128|Indonesia|Kediri|PT Sumber Data Indonesia|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|209.121.164.51|31147|Canada|Burnaby|TELUS Communications Inc.|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|58.186.174.156|16000|Vietnam|Hanoi|FPT Telecom Company|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|11|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 |12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|3.141.38.145|3128|United States|Dublin|Amazon.com, Inc.|
-|14|16.171.242.247|57|Sweden|Stockholm|Amazon.com|
-|15|185.172.3.70|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|16|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|17|3.126.92.60|29|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|18|103.155.246.155|8080|Indonesia|Sukoharjo|AMANNA|
-|19|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
-|20|176.65.149.147|8081|Germany|Hauzenberg|Pfcloud UG|
+|13|185.172.3.70|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|14|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|16|43.216.250.248|23218|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|17|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|13.235.246.116|25396|India|Mumbai|Amazon Technologies Inc.|
+|19|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
+|20|16.51.152.217|324|Australia|Melbourne|Amazon.com|
 
 
 
