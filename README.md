@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|27.71.135.109|16000|Vietnam|Hanoi|Viettel Group|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|7|103.54.80.194|8082|Indonesia|Purbalingga|MEDIACOMPUTINDO|
-|8|182.253.109.226|8080|Indonesia|Semarang|Biznet Metronet|
-|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|11|152.69.229.220|3128|South Korea|Chuncheon|Oracle Corporation|
-|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|13|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|14|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|15|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|16|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|17|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|18|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
-|19|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|20|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|3|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
+|4|58.186.174.156|16000|Vietnam|Hanoi|FPT Telecom Company|
+|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|182.253.109.226|8080|Indonesia|Semarang|Biznet Metronet|
+|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|9|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
+|10|152.53.66.81|3128|Austria|Vienna|netcup GmbH|
+|11|107.150.50.210|8118|United States|Kansas City|Nocix, LLC|
+|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|15|13.113.174.156|3128|Japan|Tokyo|Amazon Technologies Inc|
+|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|18|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|213.226.119.120|4857|Turkey|Istanbul|Mehmet Selim Sahin|
+|20|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 
 
 
