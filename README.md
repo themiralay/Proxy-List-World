@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **76909** proxies at the latest update. Usable proxies are below.
+> Scraper found **76402** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36813|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|143|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38727|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38220|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|74.226.183.77|3128|Japan|Tokyo|Microsoft Corporation|
-|2|27.79.167.103|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|6|27.79.205.182|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|58.186.174.156|16000|Vietnam|Hanoi|FPT Telecom Company|
-|8|27.79.232.181|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|27.71.137.89|16000|Vietnam|Hanoi|Viettel Group|
-|10|27.79.168.111|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|12|27.71.140.183|16000|Vietnam|Hanoi|Viettel Group|
-|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|14|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|16|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|27.71.134.94|16000|Vietnam|Hanoi|Viettel Group|
-|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|20|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|27.71.140.183|16000|Vietnam|Hanoi|Viettel Group|
+|8|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|9|27.79.167.103|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|95.164.0.177|36352|Poland|Warsaw|PQ HOSTING PLUS S.R.L.|
+|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|15|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|16|47.236.37.129|18081|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|18.170.63.85|999|United Kingdom|London|Amazon Technologies Inc.|
+|18|47.254.67.27|8080|United States|Santa Clara|Alibaba Cloud LLC|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
 
 
 
