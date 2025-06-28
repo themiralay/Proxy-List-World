@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|1|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|2|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|41.140.28.128|39811|Morocco|Rabat|ADSL Maroc telecom|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|11|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
-|12|51.158.105.94|31826|France|Paris|SCALEWAY|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|35.152.137.65|26038|Italy|Milan|Amazon.com, Inc.|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
+|7|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|10|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|17|27.79.129.106|16000|Vietnam|Hanoi|Viettel Corporation|
 |18|94.141.123.62|1080|Germany|Frankfurt am Main|Waicore LTD|
-|19|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|20|13.221.134.55|3128|United States|Ashburn|Amazon.com, Inc.|
+|19|41.140.28.128|39811|Morocco|Rabat|ADSL Maroc telecom|
+|20|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
