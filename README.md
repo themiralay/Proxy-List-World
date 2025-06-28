@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|27.79.224.183|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|7|27.79.210.170|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
-|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|5.75.142.180|11111|Germany|Nuremberg|Hetzner Online GmbH|
-|13|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|14|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|15|47.254.67.27|8080|United States|Santa Clara|Alibaba Cloud LLC|
-|16|27.79.184.242|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|18|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|27.79.205.82|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|27.79.212.7|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|27.79.232.181|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
+|4|27.79.205.182|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.210.170|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|27.79.210.200|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|27.79.196.250|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|43.154.134.238|50001|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|10|27.79.212.7|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|27.79.205.82|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|13|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|14|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|15|27.79.184.242|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|27.79.140.146|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|27.79.234.71|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|20|51.158.105.94|31826|France|Paris|SCALEWAY|
 
 
 
