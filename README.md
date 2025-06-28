@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |2|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
-|10|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|12|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|13|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|14|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|15|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|16|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|19|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
-|20|176.65.149.147|8081|Germany|Hauzenberg|Pfcloud UG|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|8|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|27.79.196.76|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|13|27.79.167.103|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
+|15|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|16|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|17|23.237.210.82|80|United States|Houston|FDCservers.net|
+|18|18.203.249.67|10010|Ireland|Dublin|Amazon Technologies Inc.|
+|19|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|20|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
 
 
 
