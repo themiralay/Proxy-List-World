@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|2|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
-|3|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|103.87.148.98|8090|Indonesia|Demak|Lintas Data Prima, PT|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|1|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
+|2|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|27.79.167.103|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|47.254.67.27|8080|United States|Santa Clara|Alibaba Cloud LLC|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|58.186.174.156|16000|Vietnam|Hanoi|FPT Telecom Company|
 |8|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|9|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|12|43.199.163.10|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|13|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|27.79.210.170|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|12|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
+|13|27.79.205.182|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |15|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|19|176.65.149.147|8081|Germany|Hauzenberg|Pfcloud UG|
-|20|194.183.190.10|8080|Ukraine|Kyiv|"SCIENTIFIC-INDUSTRIAL FIRM "VOLZ" LIMITED LIABILITY COMPANY|
+|16|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|18|27.79.168.111|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|20|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
 
 
 
