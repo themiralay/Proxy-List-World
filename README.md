@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|1|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|4|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
 |6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|27.71.134.94|16000|Vietnam|Hanoi|Viettel Group|
-|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|58.187.70.212|16000|Vietnam|Hanoi|FPT Telecom Company|
-|14|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
-|17|27.79.210.200|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|27.71.135.109|16000|Vietnam|Hanoi|Viettel Group|
-|19|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
-|20|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|7|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|8|58.186.174.156|16000|Vietnam|Hanoi|FPT Telecom Company|
+|9|27.79.168.111|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|13|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|14|112.211.212.238|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|15|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|16|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
+|19|94.141.123.62|1080|Germany|Frankfurt am Main|Waicore LTD|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
