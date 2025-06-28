@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|1|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
 |2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|15|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|16|185.172.3.70|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|17|112.211.212.238|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|18|160.22.118.203|39083|Vietnam|An Hải|Sandclock Service Trading Company Limited|
-|19|27.79.205.82|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|43.216.75.140|42761|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|3|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|112.211.212.238|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|176.65.149.147|8081|Germany|Hauzenberg|Pfcloud UG|
+|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|13|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|16|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
+|17|185.172.3.70|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|18|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|19|27.71.140.246|16000|Vietnam|Hanoi|Viettel Group|
+|20|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
 
 
 
