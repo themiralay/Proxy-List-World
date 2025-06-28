@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|23.237.210.82|80|United States|Houston|FDCservers.net|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|2|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
+|3|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|4|159.89.245.69|53971|United States|Clifton|DigitalOcean, LLC|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|157.245.124.217|53971|United States|Clifton|DigitalOcean, LLC|
+|7|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|23.237.210.82|80|United States|Houston|FDCservers.net|
-|12|159.89.245.69|53971|United States|Clifton|DigitalOcean, LLC|
-|13|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|157.245.124.217|53971|United States|Clifton|DigitalOcean, LLC|
+|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|11|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|159.89.245.69|53971|United States|Clifton|DigitalOcean, LLC|
+|14|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 |15|157.245.124.217|53971|United States|Clifton|DigitalOcean, LLC|
-|16|159.89.245.69|53971|United States|Clifton|DigitalOcean, LLC|
-|17|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|18|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|16|176.65.149.147|8081|Germany|Hauzenberg|Pfcloud UG|
+|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|19|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|20|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
 
 
 
