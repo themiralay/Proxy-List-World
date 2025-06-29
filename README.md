@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|1|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
+|2|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |4|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
-|14|27.71.135.109|16000|Vietnam|Hanoi|Viettel Group|
-|15|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|16|27.79.150.211|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|95.164.0.177|36352|Poland|Warsaw|PQ HOSTING PLUS S.R.L.|
-|18|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|19|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|20|3.126.92.60|29|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|11|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|12|43.216.214.221|4289|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|13|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
+|14|113.23.155.110|1231|Malaysia|Hulu Langat|Extreme Broadband|
+|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|16|51.158.105.94|31826|France|Paris|SCALEWAY|
+|17|35.152.137.65|26038|Italy|Milan|Amazon.com, Inc.|
+|18|27.79.248.155|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|20|27.79.172.142|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
