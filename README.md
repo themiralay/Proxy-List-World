@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **76265** proxies at the latest update. Usable proxies are below.
+> Scraper found **76266** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|10|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|11|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36375|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|76|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|1|43.134.40.177|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
+|4|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|27.79.152.163|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|51.158.105.94|31826|France|Paris|SCALEWAY|
-|11|27.79.195.95|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|13|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|15|3.148.186.197|8101|United States|Dublin|Amazon.com, Inc.|
-|16|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|17|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
-|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|19|35.152.137.65|26038|Italy|Milan|Amazon.com, Inc.|
-|20|72.10.164.178|8353|Canada|Montreal|GloboTech Communications|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|10|167.99.79.71|8118|Singapore|Singapore|DigitalOcean, LLC|
+|11|3.148.186.197|8101|United States|Dublin|Amazon.com, Inc.|
+|12|3.148.186.197|8101|United States|Dublin|Amazon.com, Inc.|
+|13|27.79.137.154|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|27.79.152.163|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|16|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|17|3.26.174.5|18609|Australia|Sydney|Amazon Technologies Inc.|
+|18|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|19|37.194.98.9|8080|Russia|Novosibirsk|Novotelecom Ltd.|
+|20|115.75.191.21|3128|Vietnam|Quận Một|VIETELxdsl|
 
 
 
