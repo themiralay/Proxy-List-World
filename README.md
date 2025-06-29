@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|118.68.28.223|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|2|42.114.161.1|16000|Vietnam|Hanoi|FPT Telecom Company|
-|3|42.113.105.133|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|4|58.186.162.145|16000|Vietnam|Hanoi|FPT Telecom Company|
-|5|118.71.152.31|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|6|58.186.131.69|16000|Vietnam|Hanoi|FPT Telecom Company|
-|7|1.55.60.223|16000|Vietnam|Hanoi|FPT Telecom Company|
-|8|118.68.28.21|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|9|113.22.204.215|16000|Vietnam|Quận Tân Phú|Vietnam Internet Network Information Center|
-|10|58.186.130.238|16000|Vietnam|Hanoi|FPT Telecom Company|
-|11|118.68.245.58|16000|Vietnam|Hanoi|FPT Telecom Company|
-|12|42.113.54.124|16000|Vietnam|Hanoi|FPT Telecom Company|
-|13|1.54.172.252|16000|Vietnam|Hanoi|FPT Telecom Company|
-|14|42.112.96.96|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|15|1.54.145.60|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|16|58.186.92.55|16000|Vietnam|Hanoi|FPT Telecom Company|
-|17|1.53.67.151|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|18|1.54.76.44|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|1.52.233.25|16000|Vietnam|Hanoi|FPT Telecom Company|
-|20|1.52.197.102|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|1|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
+|2|113.22.204.215|16000|Vietnam|Quận Tân Phú|Vietnam Internet Network Information Center|
+|3|42.113.205.153|16000|Vietnam|Quận Hai|FPT Telecom Company|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|10|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|13|23.237.210.82|80|United States|Houston|FDCservers.net|
+|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|15|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
+|16|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|47.254.67.27|8080|United States|Santa Clara|Alibaba Cloud LLC|
+|18|3.148.186.197|8101|United States|Dublin|Amazon.com, Inc.|
+|19|157.245.124.217|53971|United States|Clifton|DigitalOcean, LLC|
+|20|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
 
 
 
