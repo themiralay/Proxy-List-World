@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|118.70.170.125|31300|Vietnam|Hanoi|FPT Telecom Company|
-|5|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|13|103.237.144.232|1311|Vietnam|Quận Chín|LVSOFT|
-|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|15|152.53.66.81|3128|Austria|Vienna|netcup GmbH|
-|16|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|58.186.174.156|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|27.79.129.106|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
+|1|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|3|161.34.66.94|4649|Japan|Minamishinagawa|NTT PC Communications, Inc.|
+|4|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
+|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|8.219.1.139|8090|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|118.173.88.133|8080|Thailand|Bangkok|TOT Public Company Limited|
+|10|160.187.147.201|8888|Vietnam|Đạ Tẻh|Interdigi Joint Stock Company|
+|11|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
+|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|13|103.236.201.44|3128|Indonesia|Cicurug|PT Cloud Hosting Indonesia|
+|14|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|194.164.174.7|3128|Spain|Madrid|IONOS SE|
+|17|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|18|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|51.158.105.94|31826|France|Paris|SCALEWAY|
+|20|37.27.203.159|8068|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
