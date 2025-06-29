@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
+|1|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|5|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|4|51.158.105.94|31826|France|Paris|SCALEWAY|
+|5|27.79.228.118|16000|Vietnam|Hanoi|Viettel Corporation|
 |6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|9|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
-|11|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|13|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|14|98.130.47.34|3128|India|Hyderabad|Amazon.com|
-|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
-|18|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
-|19|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|20|35.152.137.65|26038|Italy|Milan|Amazon.com, Inc.|
+|7|27.79.150.211|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|27.79.248.155|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|12|27.79.172.214|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|103.125.161.20|8080|India|Hyderabad|CtrlS|
+|14|18.100.217.180|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|15|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
+|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|17|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|18|51.84.110.224|3128|Israel|Tel Aviv|Amazon.com, Inc.|
+|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|20|13.245.30.86|3128|South Africa|Johannesburg|Amazon.com, Inc.|
 
 
 
