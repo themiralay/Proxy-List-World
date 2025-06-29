@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|58.186.130.238|16000|Vietnam|Hanoi|FPT Telecom Company|
-|2|42.119.2.161|16000|Vietnam|Hanoi|FPT Telecom Company|
-|3|42.117.128.214|16000|Vietnam|Hanoi|FPT Telecom Company|
-|4|58.186.162.145|16000|Vietnam|Hanoi|FPT Telecom Company|
-|5|42.117.128.2|16000|Vietnam|Hanoi|FPT Telecom Company|
-|6|118.68.28.223|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|7|113.190.213.151|16000|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|1.54.145.60|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|9|1.54.69.10|16000|Vietnam|Hanoi|FPT Telecom Company|
-|10|42.113.54.124|16000|Vietnam|Hanoi|FPT Telecom Company|
-|11|1.52.197.102|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|12|118.68.245.58|16000|Vietnam|Hanoi|FPT Telecom Company|
-|13|42.117.240.231|16000|Vietnam|Hanoi|FPT Telecom Company|
-|14|42.118.202.79|16000|Vietnam|Thu Dau Mot|FPT Telecom Company|
-|15|42.113.205.153|16000|Vietnam|Quận Hai|FPT Telecom Company|
-|16|58.186.92.55|16000|Vietnam|Hanoi|FPT Telecom Company|
-|17|113.22.78.34|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|18|42.113.105.133|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|19|58.186.101.95|16000|Vietnam|Hanoi|FPT Telecom Company|
-|20|42.112.96.96|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|1|42.113.205.153|16000|Vietnam|Quận Hai|FPT Telecom Company|
+|2|113.190.213.151|16000|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|1.54.69.10|16000|Vietnam|Hanoi|FPT Telecom Company|
+|4|42.117.128.214|16000|Vietnam|Hanoi|FPT Telecom Company|
+|5|58.186.130.238|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|1.54.76.44|16000|Vietnam|Hanoi|FPT Telecom Company|
+|7|42.113.105.133|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|8|1.52.198.26|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|9|118.68.28.223|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|10|58.186.131.236|16000|Vietnam|Hanoi|FPT Telecom Company|
+|11|42.118.202.79|16000|Vietnam|Thu Dau Mot|FPT Telecom Company|
+|12|1.55.60.223|16000|Vietnam|Hanoi|FPT Telecom Company|
+|13|1.54.172.252|16000|Vietnam|Hanoi|FPT Telecom Company|
+|14|1.52.197.204|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|15|42.114.178.105|16000|Vietnam|Hanoi|FPT Telecom Company|
+|16|118.71.116.84|16000|Vietnam|Vĩnh Yên|Vietnam Internet Network Information Center|
+|17|42.112.96.96|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|18|1.52.197.102|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|19|118.68.245.58|16000|Vietnam|Hanoi|FPT Telecom Company|
+|20|1.53.67.151|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
 
 
 
