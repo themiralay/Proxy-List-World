@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.190.213.151|16000|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|3|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|14.231.131.109|10009|Vietnam|Hanoi|VNPT|
-|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|8|118.68.28.223|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|9|116.96.90.217|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|27.71.143.12|16000|Vietnam|Hanoi|Viettel Group|
-|11|113.22.78.34|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|12|58.186.131.236|16000|Vietnam|Hanoi|FPT Telecom Company|
-|13|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|58.186.131.69|16000|Vietnam|Hanoi|FPT Telecom Company|
-|15|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|16|1.54.172.252|16000|Vietnam|Hanoi|FPT Telecom Company|
-|17|58.186.130.238|16000|Vietnam|Hanoi|FPT Telecom Company|
-|18|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|19|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|20|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|1|113.22.204.215|16000|Vietnam|Quận Tân Phú|Vietnam Internet Network Information Center|
+|2|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|3|116.96.90.217|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|113.190.213.151|16000|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|27.71.143.12|16000|Vietnam|Hanoi|Viettel Group|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|42.113.54.124|16000|Vietnam|Hanoi|FPT Telecom Company|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|42.119.2.161|16000|Vietnam|Hanoi|FPT Telecom Company|
+|10|27.79.231.204|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|14|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
+|15|1.54.69.10|16000|Vietnam|Hanoi|FPT Telecom Company|
+|16|42.113.105.133|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|17|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|18|58.187.70.82|16000|Vietnam|Hanoi|FPT Telecom Company|
+|19|42.112.96.96|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|20|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
