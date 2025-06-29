@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
-|5|157.245.124.217|53971|United States|Clifton|DigitalOcean, LLC|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |8|23.237.210.82|80|United States|Houston|FDCservers.net|
-|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|51.158.105.94|31826|France|Paris|SCALEWAY|
-|13|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|23.237.210.82|80|United States|Houston|FDCservers.net|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|157.245.124.217|53971|United States|Clifton|DigitalOcean, LLC|
-|18|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|19|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|20|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|23.237.210.82|80|United States|Houston|FDCservers.net|
+|11|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|13|27.79.248.155|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|15|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|16|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|13.125.239.254|3128|South Korea|Seoul|Amazon Technologies Inc.|
+|19|27.71.135.109|16000|Vietnam|Hanoi|Viettel Group|
+|20|27.79.182.240|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
