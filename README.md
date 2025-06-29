@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|1|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
-|4|113.190.213.151|16000|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |5|183.80.22.161|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|6|116.96.90.217|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|42.113.205.153|16000|Vietnam|Quận Hai|FPT Telecom Company|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|11|113.22.204.215|16000|Vietnam|Quận Tân Phú|Vietnam Internet Network Information Center|
-|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|42.113.54.124|16000|Vietnam|Hanoi|FPT Telecom Company|
-|16|27.71.143.12|16000|Vietnam|Hanoi|Viettel Group|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|42.112.96.96|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|20|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|113.22.204.215|16000|Vietnam|Quận Tân Phú|Vietnam Internet Network Information Center|
+|13|116.96.90.217|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|15|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|16|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|17|1.55.60.223|16000|Vietnam|Hanoi|FPT Telecom Company|
+|18|113.22.78.34|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|19|42.113.205.153|16000|Vietnam|Quận Hai|FPT Telecom Company|
+|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
