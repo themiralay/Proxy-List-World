@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|3.72.40.248|50202|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
+|4|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|160.250.133.208|7008|Vietnam|Vãn Phú|VPS4U|
+|6|43.216.75.140|42761|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|10|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|11|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|27.79.173.107|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
-|14|27.79.182.240|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
-|16|27.71.134.94|16000|Vietnam|Hanoi|Viettel Group|
-|17|27.79.172.142|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|43.199.163.10|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|19|43.216.214.221|4289|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|20|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
+|9|27.79.172.142|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|93.113.238.37|8080|Iran|Tehran|Afranet|
+|11|13.125.239.254|3128|South Korea|Seoul|Amazon Technologies Inc.|
+|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|13|47.254.67.27|8080|United States|Santa Clara|Alibaba Cloud LLC|
+|14|3.72.40.248|50202|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|15|3.126.92.60|29|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|16|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|18.100.217.180|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|181.225.40.138|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
 
 
 
