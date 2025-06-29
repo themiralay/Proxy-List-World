@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
 |3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
 |4|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
 |5|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
 |6|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
 |7|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
 |8|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|9|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
+|9|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
 |10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|12|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|13|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|14|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|16|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|18|47.254.67.27|8080|United States|Santa Clara|Alibaba Cloud LLC|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|14|103.156.57.118|8080|Indonesia|Teluk Pinang|PT Filltech Antar Nusa|
+|15|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|16|23.237.210.82|80|United States|Houston|FDCservers.net|
+|17|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|18|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|19|23.237.210.82|80|United States|Houston|FDCservers.net|
+|20|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 
 
 
