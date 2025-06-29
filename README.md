@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
 |2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
 |3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|103.156.57.118|8080|Indonesia|Teluk Pinang|PT Filltech Antar Nusa|
-|6|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|47.254.67.27|8080|United States|Santa Clara|Alibaba Cloud LLC|
-|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|12|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|8|23.237.210.82|80|United States|Houston|FDCservers.net|
+|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
 |13|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|15|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
-|16|15.164.41.6|3129|South Korea|Seoul|Amazon Technologies Inc.|
-|17|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|18|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|43.216.75.140|42761|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|20|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|14|152.53.66.81|3128|Austria|Vienna|netcup GmbH|
+|15|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|16|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|17|23.237.210.82|80|United States|Houston|FDCservers.net|
+|18|51.158.105.94|31826|France|Paris|SCALEWAY|
+|19|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
+|20|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
