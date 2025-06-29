@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|362|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|362|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|362|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|2|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|1|160.187.147.201|8888|Vietnam|Đạ Tẻh|Interdigi Joint Stock Company|
+|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
 |3|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
-|4|34.42.102.129|3128|United States|Council Bluffs|Google LLC|
-|5|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|6|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|34.42.102.129|3128|United States|Council Bluffs|Google LLC|
-|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|12|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|13|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|14|152.53.66.81|3128|Austria|Vienna|netcup GmbH|
-|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|18|212.252.72.106|3128|Turkey|Beyoğlu|Superonline Iletisim Hizmetleri A.S.|
-|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|4|47.254.67.27|8080|United States|Santa Clara|Alibaba Cloud LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|123.20.63.211|1006|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
+|13|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|14|64.227.142.13|3128|India|Bengaluru|DigitalOcean, LLC|
+|15|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|16|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|17|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
+|18|12.36.67.4|3128|United States|Dallas|AT&T Enterprises, LLC|
+|19|99.244.130.89|3128|Canada|Fredericton|Rogers Communications Canada Inc.|
+|20|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
 
 
 
