@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|23.237.210.82|80|United States|Houston|FDCservers.net|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
-|10|160.250.133.208|7008|Vietnam|Vãn Phú|VPS4U|
-|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|43.134.40.177|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|160.250.133.208|7008|Vietnam|Vãn Phú|VPS4U|
+|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|11|13.125.239.254|3128|South Korea|Seoul|Amazon Technologies Inc.|
+|12|47.254.67.27|8080|United States|Santa Clara|Alibaba Cloud LLC|
+|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |14|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|16|18.170.63.85|999|United Kingdom|London|Amazon Technologies Inc.|
-|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|18|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|23.237.210.82|80|United States|Houston|FDCservers.net|
+|15|23.237.210.82|80|United States|Houston|FDCservers.net|
+|16|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|17|58.186.174.156|16000|Vietnam|Hanoi|FPT Telecom Company|
+|18|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|19|14.241.78.55|8085|Vietnam|Hanoi|VNPT|
+|20|51.158.105.94|31826|France|Paris|SCALEWAY|
 
 
 
