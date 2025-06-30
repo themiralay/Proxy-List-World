@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
 |2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|18.188.102.96|8080|United States|Dublin|Amazon.com, Inc.|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|4|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|11|72.10.160.94|5623|Canada|Montreal|GloboTech Communications|
-|12|42.114.178.105|16000|Vietnam|Hanoi|FPT Telecom Company|
-|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|14|18.188.102.96|8080|United States|Dublin|Amazon.com, Inc.|
-|15|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|16|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
-|17|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|19|58.186.130.238|16000|Vietnam|Hanoi|FPT Telecom Company|
-|20|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|11|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|12|18.188.102.96|8080|United States|Dublin|Amazon.com, Inc.|
+|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|15|18.188.102.96|8080|United States|Dublin|Amazon.com, Inc.|
+|16|72.10.160.94|5623|Canada|Montreal|GloboTech Communications|
+|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|18|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|19|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|27.0.183.82|3128|India|Lucknow|Sikka IPL|
 
 
 
