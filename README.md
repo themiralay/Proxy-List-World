@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|116.106.179.178|12027|Vietnam|Biên Hòa|Viettel Corporation|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|116.106.177.17|12030|Vietnam|Biên Hòa|Viettel Corporation|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|23.237.210.82|80|United States|Houston|FDCservers.net|
-|7|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|10|189.180.80.51|8118|Mexico|El Pueblito|UNINET|
-|11|27.74.219.51|30453|Vietnam|Biên Hòa|Newass2011xDSLHN|
-|12|113.22.204.215|16000|Vietnam|Quận Tân Phú|Vietnam Internet Network Information Center|
-|13|27.79.161.173|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|116.106.176.150|12030|Vietnam|Biên Hòa|Viettel Corporation|
-|15|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|16|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|17|116.106.176.217|12030|Vietnam|Biên Hòa|Viettel Corporation|
-|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|20|23.237.210.82|80|United States|Houston|FDCservers.net|
+|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|2|113.22.204.215|16000|Vietnam|Quận Tân Phú|Vietnam Internet Network Information Center|
+|3|27.74.219.51|30453|Vietnam|Biên Hòa|Newass2011xDSLHN|
+|4|116.106.179.178|12027|Vietnam|Biên Hòa|Viettel Corporation|
+|5|27.79.161.173|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|116.106.176.240|12032|Vietnam|Biên Hòa|Viettel Corporation|
+|9|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|12|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|13|23.237.210.82|80|United States|Houston|FDCservers.net|
+|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|15|189.180.80.51|8118|Mexico|El Pueblito|UNINET|
+|16|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|17|23.237.210.82|80|United States|Houston|FDCservers.net|
+|18|58.186.131.236|16000|Vietnam|Hanoi|FPT Telecom Company|
+|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
