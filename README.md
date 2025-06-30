@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|1|113.22.204.215|16000|Vietnam|Quận Tân Phú|Vietnam Internet Network Information Center|
 |2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|7|116.106.176.240|12032|Vietnam|Biên Hòa|Viettel Corporation|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|3|38.46.235.3|8088|Indonesia|Boyolali|PT CYB Media Group|
+|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|5|116.106.176.240|12032|Vietnam|Biên Hòa|Viettel Corporation|
+|6|49.145.114.103|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|8|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
 |9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|14|58.186.131.236|16000|Vietnam|Hanoi|FPT Telecom Company|
-|15|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|17|113.22.204.215|16000|Vietnam|Quận Tân Phú|Vietnam Internet Network Information Center|
-|18|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|19|23.237.210.82|80|United States|Houston|FDCservers.net|
-|20|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|10|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
+|11|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|16|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|27.79.161.173|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|19|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
 
 
 
