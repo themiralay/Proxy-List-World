@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.121.164.51|31147|Canada|Burnaby|TELUS Communications Inc.|
-|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|116.106.179.178|12027|Vietnam|Biên Hòa|Viettel Corporation|
 |3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|103.87.85.198|80|Indonesia|Jakarta|PT Cyberindo Aditama|
-|13|94.131.12.128|10808|Switzerland|Bern|PQ HOSTING PLUS S.R.L.|
-|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|27.74.219.51|30453|Vietnam|Biên Hòa|Newass2011xDSLHN|
+|11|14.186.61.187|10007|Vietnam|Ho Chi Minh City|VNPT|
+|12|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|13|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|14|97.79.251.186|80|United States|Dallas|Spectrum|
 |15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|18.188.141.177|21189|United States|Dublin|Amazon.com, Inc.|
-|17|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|18|193.151.141.17|8080|Iran|Tehran|IR-AT|
-|19|116.106.176.240|12032|Vietnam|Biên Hòa|Viettel Corporation|
-|20|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|16|36.83.53.107|3128|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|18|51.158.105.94|31826|France|Paris|SCALEWAY|
+|19|147.45.254.235|8080|Russia|Moscow|TimeWeb LLC|
+|20|3.72.40.248|50202|Germany|Frankfurt am Main|Amazon Technologies Inc.|
 
 
 
