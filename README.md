@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|3|51.222.244.155|4857|Canada|Montreal|OVH SAS|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|6|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|13|196.217.109.184|39811|Morocco|Salé|IP ADSL MarocTelecom|
-|14|177.85.70.50|3128|Brazil|Serra Preta|ASE TELECOMUNICAÇÕES LTDA ME|
-|15|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|16|37.27.253.44|8093|Finland|Helsinki|Hetzner Online GmbH|
-|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|18|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|92.58.181.171|1194|Spain|Madrid|UNI2|
-|20|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|2|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|93.190.138.107|46182|The Netherlands|Naaldwijk|WorldStream B.V.|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|37.27.253.44|8019|Finland|Helsinki|Hetzner Online GmbH|
+|11|196.217.109.184|39811|Morocco|Salé|IP ADSL MarocTelecom|
+|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|13|180.104.208.214|8081|China|Nanjing|Chinanet|
+|14|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|58.186.130.238|16000|Vietnam|Hanoi|FPT Telecom Company|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|92.58.181.171|1194|Spain|Madrid|UNI2|
+|18|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|19|23.237.210.82|80|United States|Houston|FDCservers.net|
+|20|36.136.27.2|4999|China|Guangzhou|China Mobile|
 
 
 
