@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|18.188.102.96|8080|United States|Dublin|Amazon.com, Inc.|
-|6|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|18.188.102.96|8080|United States|Dublin|Amazon.com, Inc.|
-|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|213.226.119.120|4857|Turkey|Istanbul|Mehmet Selim Sahin|
-|14|147.45.254.235|8080|Russia|Moscow|TimeWeb LLC|
+|1|18.188.102.96|8080|United States|Dublin|Amazon.com, Inc.|
+|2|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|5|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|27.0.183.82|3128|India|Lucknow|Sikka IPL|
+|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|11|18.188.102.96|8080|United States|Dublin|Amazon.com, Inc.|
+|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|13|42.113.54.124|16000|Vietnam|Hanoi|FPT Telecom Company|
+|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |15|94.141.123.62|1080|Germany|Frankfurt am Main|Waicore LTD|
-|16|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
-|17|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|16|147.45.254.235|8080|Russia|Moscow|TimeWeb LLC|
+|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
 |18|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|19|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |20|193.151.141.17|8080|Iran|Tehran|IR-AT|
 
 
