@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.227.61.201|3128|Japan|Chiyoda|InfoSphere|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|67.223.241.33|43080|United States|Jacksonville|Newfold Digital, Inc.|
-|6|23.237.210.82|80|United States|Houston|FDCservers.net|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|45.77.99.40|8990|United States|Piscataway|The Constant Company|
-|10|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|14|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|15|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|16|23.237.210.82|80|United States|Houston|FDCservers.net|
-|17|41.140.23.64|39811|Morocco|Rabat|ADSL Maroc telecom|
-|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|19|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|20|18.132.14.119|3128|United Kingdom|London|Amazon Technologies Inc.|
+|3|58.186.131.236|16000|Vietnam|Hanoi|FPT Telecom Company|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|23.237.210.82|80|United States|Houston|FDCservers.net|
+|12|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|14|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|17|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|18|23.237.210.82|80|United States|Houston|FDCservers.net|
+|19|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|20|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
 
 
 
