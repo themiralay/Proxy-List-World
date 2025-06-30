@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **76379** proxies at the latest update. Usable proxies are below.
+> Scraper found **76666** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36539|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|143|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38604|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38891|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|18.188.102.96|8080|United States|Dublin|Amazon.com, Inc.|
-|2|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|27.79.138.231|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|4|27.79.230.156|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|27.0.183.82|3128|India|Lucknow|Sikka IPL|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|18.188.102.96|8080|United States|Dublin|Amazon.com, Inc.|
-|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|13|42.113.54.124|16000|Vietnam|Hanoi|FPT Telecom Company|
-|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|94.141.123.62|1080|Germany|Frankfurt am Main|Waicore LTD|
-|16|147.45.254.235|8080|Russia|Moscow|TimeWeb LLC|
-|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|18|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|193.151.141.17|8080|Iran|Tehran|IR-AT|
+|7|115.72.5.78|10026|Vietnam|Vũng Tàu|VIETELmetro|
+|8|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|11|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|12|18.188.102.96|80|United States|Dublin|Amazon.com, Inc.|
+|13|103.144.18.55|3127|Indonesia|Bondowoso|PT Gasatek Bintang Nusantara|
+|14|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|15|202.61.120.182|8080|India|Chennai|Arjun Telecom Pvt. Ltd.|
+|16|103.144.18.92|8080|Indonesia|Sumberpinang|PT Gasatek Bintang Nusantara|
+|17|18.188.102.96|80|United States|Dublin|Amazon.com, Inc.|
+|18|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|19|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|115.74.7.199|10026|Vietnam|Vũng Tàu|VIETELxdsl|
 
 
 
