@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|2|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|3|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|42.114.178.105|16000|Vietnam|Hanoi|FPT Telecom Company|
-|6|43.134.40.177|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|182.253.109.226|8080|Indonesia|Semarang|Biznet Metronet|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|161.35.98.111|8080|United States|North Bergen|DigitalOcean, LLC|
-|10|42.113.54.124|16000|Vietnam|Hanoi|FPT Telecom Company|
-|11|18.188.102.96|8080|United States|Dublin|Amazon.com, Inc.|
-|12|27.71.136.219|16000|Vietnam|Hanoi|Viettel Group|
-|13|27.79.174.74|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|15|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|16|113.190.213.151|16000|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|159.223.124.116|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|37.187.109.70|10111|France|Roubaix|OVH SAS|
-|19|58.186.131.236|16000|Vietnam|Hanoi|FPT Telecom Company|
-|20|18.188.102.96|8080|United States|Dublin|Amazon.com, Inc.|
+|1|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|42.113.54.124|16000|Vietnam|Hanoi|FPT Telecom Company|
+|3|27.71.136.219|16000|Vietnam|Hanoi|Viettel Group|
+|4|18.188.102.96|8080|United States|Dublin|Amazon.com, Inc.|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|42.114.178.105|16000|Vietnam|Hanoi|FPT Telecom Company|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|182.253.109.226|8080|Indonesia|Semarang|Biznet Metronet|
+|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|12|27.79.174.74|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|14|1.54.172.252|16000|Vietnam|Hanoi|FPT Telecom Company|
+|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|16|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|17|119.92.75.48|8181|Philippines|La Paz|Philippine Long Distance Telephone Co.|
+|18|18.188.102.96|8080|United States|Dublin|Amazon.com, Inc.|
+|19|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|193.95.53.131|8077|Tunisia|Tunis|3S INF|
 
 
 
