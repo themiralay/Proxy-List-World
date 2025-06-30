@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|2|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|18.188.102.96|8080|United States|Dublin|Amazon.com, Inc.|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|11|18.188.102.96|8080|United States|Dublin|Amazon.com, Inc.|
-|12|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|13|31.40.248.2|8080|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|15|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|16|113.190.213.151|16000|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|51.158.105.94|31826|France|Paris|SCALEWAY|
-|18|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|58.186.130.238|16000|Vietnam|Hanoi|FPT Telecom Company|
+|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|6|113.190.213.151|16000|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|42.112.96.96|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|42.113.54.124|16000|Vietnam|Hanoi|FPT Telecom Company|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
+|12|18.188.102.96|8080|United States|Dublin|Amazon.com, Inc.|
+|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|14|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|15|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|16|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|17|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|18|58.186.130.238|16000|Vietnam|Hanoi|FPT Telecom Company|
+|19|2.56.188.160|17981|United States|Dallas|Clouvider Limited|
+|20|27.71.136.219|16000|Vietnam|Hanoi|Viettel Group|
 
 
 
