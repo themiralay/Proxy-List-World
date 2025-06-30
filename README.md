@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
 |2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|13|51.158.105.94|31826|France|Paris|SCALEWAY|
-|14|103.141.152.107|8989|Indonesia|Ciputat|PRIMACOM|
-|15|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|16|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|23.237.210.82|80|United States|Houston|FDCservers.net|
-|18|95.47.239.65|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
-|19|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
-|20|103.191.254.1|8001|Indonesia|Jadi|PT Ayodya Data Internusa|
+|12|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|14|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|15|23.237.210.82|80|United States|Houston|FDCservers.net|
+|16|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
+|17|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|19|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|20|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
