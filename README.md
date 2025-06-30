@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|23.237.210.82|80|United States|Houston|FDCservers.net|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|23.237.210.82|80|United States|Houston|FDCservers.net|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|23.237.210.82|80|United States|Houston|FDCservers.net|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|23.237.210.82|80|United States|Houston|FDCservers.net|
-|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|15|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|16|58.186.131.236|16000|Vietnam|Hanoi|FPT Telecom Company|
-|17|193.188.21.69|8118|Sweden|Stockholm|xorek.cloud International LTD|
-|18|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|20|179.60.53.28|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|12|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|13|1.52.177.253|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|14|43.198.103.235|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|15|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|16|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|17|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|19|193.151.141.17|8080|Iran|Tehran|IR-AT|
+|20|3.72.40.248|50202|Germany|Frankfurt am Main|Amazon Technologies Inc.|
 
 
 
