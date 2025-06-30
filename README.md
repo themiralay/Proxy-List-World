@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|13.113.174.156|3128|Japan|Tokyo|Amazon Technologies Inc|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|5|58.186.130.160|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |8|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|12|65.38.213.154|8881|Puerto Rico|San Juan|AT&T Mobility Puerto Rico|
-|13|51.158.105.94|31826|France|Paris|SCALEWAY|
-|14|27.74.219.51|30453|Vietnam|Biên Hòa|Newass2011xDSLHN|
-|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|19|23.237.210.82|80|United States|Houston|FDCservers.net|
-|20|18.100.217.180|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|9|27.74.219.51|30453|Vietnam|Biên Hòa|Newass2011xDSLHN|
+|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|13|160.25.245.25|8080|Indonesia|Ngawi|PT Jaringan Kita Bersama|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|23.237.210.82|80|United States|Houston|FDCservers.net|
+|17|18.188.141.177|21189|United States|Dublin|Amazon.com, Inc.|
+|18|176.65.149.147|8081|Germany|Hauzenberg|Pfcloud UG|
+|19|103.141.109.204|2023|Indonesia|Blitar|Data Buana Nusantara|
+|20|58.186.131.236|16000|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
