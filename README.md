@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
 |2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
 |4|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|27.74.219.51|30453|Vietnam|Biên Hòa|Newass2011xDSLHN|
-|11|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|12|116.106.179.178|12027|Vietnam|Biên Hòa|Viettel Corporation|
-|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|15|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|16|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|18|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|19|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|20|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|116.106.176.240|12032|Vietnam|Biên Hòa|Viettel Corporation|
+|9|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|116.106.179.178|12027|Vietnam|Biên Hòa|Viettel Corporation|
+|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|13|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|14|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|15|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|16|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|18|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|20|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 
 
 
