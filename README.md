@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|108.181.61.222|3535|India|Mumbai|Psychz Networks|
+|1|27.74.219.51|30453|Vietnam|Biên Hòa|Newass2011xDSLHN|
+|2|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |4|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|8|51.44.85.200|3128|France|Paris|Amazon.com, Inc.|
+|5|108.181.61.222|3535|India|Mumbai|Psychz Networks|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |9|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
-|10|3.10.207.94|8000|United Kingdom|London|Amazon Technologies Inc.|
-|11|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|12|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|13|27.79.184.9|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|15|43.198.151.41|31005|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|16|27.74.219.51|30453|Vietnam|Biên Hòa|Newass2011xDSLHN|
-|17|43.216.214.221|4289|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|18|18.60.111.249|6698|India|Hyderabad|Amazon.com, Inc.|
-|19|18.203.249.67|10010|Ireland|Dublin|Amazon Technologies Inc.|
-|20|35.152.137.65|26038|Italy|Milan|Amazon.com, Inc.|
+|10|46.62.142.135|80|Finland|Helsinki|Hetzner Online GmbH|
+|11|51.44.85.200|3128|France|Paris|Amazon.com, Inc.|
+|12|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|13|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|15|27.79.184.9|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|35.179.146.181|3128|United Kingdom|London|Amazon Technologies Inc.|
+|17|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
+|18|18.188.141.177|21189|United States|Dublin|Amazon.com, Inc.|
+|19|3.26.174.5|18609|Australia|Sydney|Amazon Technologies Inc.|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
