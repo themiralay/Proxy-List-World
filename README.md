@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|118.68.28.113|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|2|108.181.61.222|3535|India|Mumbai|Psychz Networks|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|7|1.53.72.202|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|118.68.167.86|16000|Vietnam|Hanoi|FPT Telecom Company|
-|10|46.62.142.135|80|Finland|Helsinki|Hetzner Online GmbH|
-|11|116.106.179.178|12027|Vietnam|Biên Hòa|Viettel Corporation|
+|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|118.68.167.86|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|108.181.61.222|3535|India|Mumbai|Psychz Networks|
+|8|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
+|11|51.158.105.94|31826|France|Paris|SCALEWAY|
 |12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|43.198.103.235|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|14|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|15|18.100.217.180|3128|Spain|Zaragoza|Amazon Technologies Inc.|
-|16|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|1.54.167.2|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|20|43.216.66.199|221|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|13|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|14|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|15|116.106.179.178|12027|Vietnam|Biên Hòa|Viettel Corporation|
+|16|3.26.174.5|18609|Australia|Sydney|Amazon Technologies Inc.|
+|17|43.216.66.199|221|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|18|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|19|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|20|164.163.42.39|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
