@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|192.81.129.252|3135|United States|Fremont|Akamai Technologies, Inc.|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|147.79.78.153|3128|United States|Boston|Hostinger International Limited|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|27.74.219.51|30453|Vietnam|Biên Hòa|Newass2011xDSLHN|
-|9|116.106.176.240|12032|Vietnam|Biên Hòa|Viettel Corporation|
-|10|192.81.129.252|3135|United States|Fremont|Akamai Technologies, Inc.|
-|11|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|12|147.79.78.153|3128|United States|Boston|Hostinger International Limited|
+|1|116.106.176.240|12032|Vietnam|Biên Hòa|Viettel Corporation|
+|2|116.106.179.178|12027|Vietnam|Biên Hòa|Viettel Corporation|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|5|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|6|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
 |13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|14|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|193.151.141.17|8080|Iran|Tehran|IR-AT|
+|14|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|15|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
+|16|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
 |17|188.121.100.221|3128|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|19|193.30.13.186|8080|Ecuador|Guayaquil|GEDATECU SA|
-|20|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|18|192.81.129.252|3135|United States|Fremont|Akamai Technologies, Inc.|
+|19|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|20|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 
 
 
