@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|1|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|2|23.237.210.82|80|United States|Houston|FDCservers.net|
 |3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|116.106.179.178|12027|Vietnam|Biên Hòa|Viettel Corporation|
-|6|23.237.210.82|80|United States|Houston|FDCservers.net|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|23.237.210.82|80|United States|Houston|FDCservers.net|
-|9|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|10|176.65.149.147|8081|Germany|Hauzenberg|Pfcloud UG|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|23.237.210.82|80|United States|Houston|FDCservers.net|
+|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
 |13|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|15|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|16|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|19|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|20|45.159.115.84|3128|Iran|Tehran|Green Web Samaneh Novin PJSC|
+|14|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|15|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
+|16|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|17|103.160.69.151|8080|Indonesia|Jakarta|PT Gayatri Lintas Nusantara|
+|18|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|19|18.203.249.67|10010|Ireland|Dublin|Amazon Technologies Inc.|
+|20|52.78.241.34|20134|South Korea|Seoul|Amazon Technologies Inc.|
 
 
 
