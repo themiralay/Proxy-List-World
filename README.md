@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
 |3|160.248.189.95|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 |5|161.34.66.94|4649|Japan|Minamishinagawa|NTT PC Communications, Inc.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|116.106.179.178|12027|Vietnam|Biên Hòa|Viettel Corporation|
+|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |12|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|13|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|17|51.158.105.94|31826|France|Paris|SCALEWAY|
-|18|45.167.126.250|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|182.253.109.17|8080|Indonesia|Semarang|Biznet Metronet|
+|13|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|14|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|15|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|16|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|17|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|18|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|19|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|20|45.167.126.250|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
 
 
 
