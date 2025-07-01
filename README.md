@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|2|116.106.179.178|12027|Vietnam|Biên Hòa|Viettel Corporation|
-|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|1|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|3|116.106.179.178|12027|Vietnam|Biên Hòa|Viettel Corporation|
 |4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|46.62.142.135|80|Finland|Helsinki|Hetzner Online GmbH|
-|11|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|12|18.188.141.177|21189|United States|Dublin|Amazon.com, Inc.|
-|13|23.237.210.82|80|United States|Houston|FDCservers.net|
-|14|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|15|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|16|51.158.105.94|31826|France|Paris|SCALEWAY|
-|17|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|18|43.199.163.10|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|19|3.109.62.30|717|India|Mumbai|Amazon Technologies Inc.|
-|20|18.188.141.177|21189|United States|Dublin|Amazon.com, Inc.|
+|5|27.74.219.51|30453|Vietnam|Biên Hòa|Newass2011xDSLHN|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|23.237.210.82|80|United States|Houston|FDCservers.net|
+|15|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|16|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
+|17|18.188.141.177|21189|United States|Dublin|Amazon.com, Inc.|
+|18|3.148.186.197|8101|United States|Dublin|Amazon.com, Inc.|
+|19|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
+|20|51.44.85.200|3128|France|Paris|Amazon.com, Inc.|
 
 
 
