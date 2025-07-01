@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|2|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|47.238.149.53|8888|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|154.201.72.192|8888|United States|Los Angeles|FD-298-8796|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 |7|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
 |8|154.201.72.192|8888|United States|Los Angeles|FD-298-8796|
-|9|171.6.77.43|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|154.201.72.192|8888|United States|Los Angeles|FD-298-8796|
-|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|176.65.149.147|8081|Germany|Hauzenberg|Pfcloud UG|
-|15|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|16|18.203.249.67|10010|Ireland|Dublin|Amazon Technologies Inc.|
-|17|13.221.134.55|3128|United States|Ashburn|Amazon.com, Inc.|
-|18|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
-|19|200.35.50.89|3028|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|20|31.14.114.67|1081|Iran|Tehran|Afranet Co|
+|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|10|200.35.50.89|3028|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|11|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|12|27.79.174.167|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|1.55.53.231|16000|Vietnam|Hanoi|FPT Telecom Company|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|116.106.176.217|12030|Vietnam|Biên Hòa|Viettel Corporation|
+|16|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|17|176.65.149.147|8081|Germany|Hauzenberg|Pfcloud UG|
+|18|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
+|19|164.68.101.70|8888|France|Lauterbourg|Contabo GmbH|
+|20|51.44.85.200|3128|France|Paris|Amazon.com, Inc.|
 
 
 
