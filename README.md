@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|4.216.101.66|3128|Japan|Tokyo|Microsoft Corporation|
 |5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |6|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|7|27.74.219.51|30453|Vietnam|Biên Hòa|Newass2011xDSLHN|
-|8|171.228.164.201|5136|Vietnam|Hanoi|Viettel Corporation|
-|9|116.106.179.178|12027|Vietnam|Biên Hòa|Viettel Corporation|
-|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|14|3.10.207.94|8000|United Kingdom|London|Amazon Technologies Inc.|
-|15|13.38.66.165|3128|France|Paris|Amazon Technologies Inc.|
-|16|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
-|17|18.132.14.119|3128|United Kingdom|London|Amazon Technologies Inc.|
-|18|3.148.186.197|8101|United States|Dublin|Amazon.com, Inc.|
-|19|46.62.142.135|80|Finland|Helsinki|Hetzner Online GmbH|
-|20|18.170.63.85|999|United Kingdom|London|Amazon Technologies Inc.|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|10|171.228.164.201|5136|Vietnam|Hanoi|Viettel Corporation|
+|11|27.74.219.51|30453|Vietnam|Biên Hòa|Newass2011xDSLHN|
+|12|116.106.179.178|12027|Vietnam|Biên Hòa|Viettel Corporation|
+|13|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|15|3.148.186.197|8101|United States|Dublin|Amazon.com, Inc.|
+|16|46.62.142.135|80|Finland|Helsinki|Hetzner Online GmbH|
+|17|152.32.148.233|3128|United States|Reston|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|19|51.158.105.94|31826|France|Paris|SCALEWAY|
+|20|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
 
 
 
