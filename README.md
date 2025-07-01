@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|4|58.186.130.160|16000|Vietnam|Hanoi|FPT Telecom Company|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|8|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|9|116.106.179.178|12027|Vietnam|Biên Hòa|Viettel Corporation|
-|10|27.74.219.51|30453|Vietnam|Biên Hòa|Newass2011xDSLHN|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|14|152.42.203.135|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|16|58.186.131.236|16000|Vietnam|Hanoi|FPT Telecom Company|
-|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|18|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|19|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|20|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|1|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|116.106.176.217|12030|Vietnam|Biên Hòa|Viettel Corporation|
+|3|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|7|116.106.177.17|12030|Vietnam|Biên Hòa|Viettel Corporation|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|116.106.179.178|12027|Vietnam|Biên Hòa|Viettel Corporation|
+|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|14|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|15|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|16|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|17|176.65.149.147|8081|Germany|Hauzenberg|Pfcloud UG|
+|18|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|19|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|20|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 
 
 
