@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|3|116.106.179.178|12027|Vietnam|Biên Hòa|Viettel Corporation|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|6|116.106.176.240|12032|Vietnam|Biên Hòa|Viettel Corporation|
-|7|74.48.160.189|3128|United States|Los Angeles|Multacom Corporation|
+|5|27.74.219.51|30453|Vietnam|Biên Hòa|Newass2011xDSLHN|
+|6|116.106.179.178|12027|Vietnam|Biên Hòa|Viettel Corporation|
+|7|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
 |8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|185.122.164.210|3128|United States|New York|Massivegrid LTD|
-|12|103.158.252.196|8090|Indonesia|Jakarta|Rapid Network|
-|13|152.53.194.159|8091|Austria|Vienna|ANXHOLDING2|
-|14|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|94.141.123.62|1080|Germany|Frankfurt am Main|Waicore LTD|
-|16|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|17|192.81.129.252|3135|United States|Fremont|Akamai Technologies, Inc.|
-|18|85.17.254.222|3128|The Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
-|19|185.126.158.58|8888|United States|Dallas|Cloudnium LLC|
-|20|185.122.164.210|3128|United States|New York|Massivegrid LTD|
+|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|10|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|165.232.95.232|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|12|160.191.55.147|60217|Vietnam|Hanoi|VPSTHTH|
+|13|185.122.164.210|3128|United States|New York|Massivegrid LTD|
+|14|212.56.40.135|3128|United States|St Louis|Nubes, LLC|
+|15|212.56.40.135|3128|United States|St Louis|Nubes, LLC|
+|16|185.122.164.210|3128|United States|New York|Massivegrid LTD|
+|17|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|19|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|20|192.81.129.252|3135|United States|Fremont|Akamai Technologies, Inc.|
 
 
 
