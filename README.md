@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|2|116.106.179.178|12027|Vietnam|Biên Hòa|Viettel Corporation|
-|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|8|47.236.37.129|18081|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|2|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
+|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|209.121.164.51|31147|Canada|Burnaby|TELUS Communications Inc.|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|27.79.184.9|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |9|108.181.61.222|3535|India|Mumbai|Psychz Networks|
-|10|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|11|51.158.105.94|31826|France|Paris|SCALEWAY|
-|12|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
-|15|51.44.85.200|3128|France|Paris|Amazon.com, Inc.|
-|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|19|27.79.184.9|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|12|51.158.105.94|31826|France|Paris|SCALEWAY|
+|13|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
+|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|15|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
+|16|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|94.141.123.62|1080|Germany|Frankfurt am Main|Waicore LTD|
+|18|18.188.141.177|21189|United States|Dublin|Amazon.com, Inc.|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
 
 
 
