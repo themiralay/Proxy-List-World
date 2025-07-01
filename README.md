@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|2|27.74.219.51|30453|Vietnam|Biên Hòa|Newass2011xDSLHN|
+|1|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|2|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
 |3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|4|116.106.179.178|12027|Vietnam|Biên Hòa|Viettel Corporation|
-|5|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|7|116.106.176.240|12032|Vietnam|Biên Hòa|Viettel Corporation|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|13|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|17|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|165.232.95.232|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|19|192.81.129.252|3135|United States|Fremont|Akamai Technologies, Inc.|
-|20|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|5|116.106.176.240|12032|Vietnam|Biên Hòa|Viettel Corporation|
+|6|27.74.219.51|30453|Vietnam|Biên Hòa|Newass2011xDSLHN|
+|7|116.106.176.150|12030|Vietnam|Biên Hòa|Viettel Corporation|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|10|116.106.176.217|12030|Vietnam|Biên Hòa|Viettel Corporation|
+|11|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|12|192.81.129.252|3135|United States|Fremont|Akamai Technologies, Inc.|
+|13|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|14|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|15|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|16|192.81.129.252|3135|United States|Fremont|Akamai Technologies, Inc.|
+|17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|19|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|20|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
