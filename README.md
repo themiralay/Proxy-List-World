@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|3|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|7|200.35.50.89|3028|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|8|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|3.72.40.248|50202|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|10|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|11|13.38.66.165|3128|France|Paris|Amazon Technologies Inc.|
-|12|94.141.123.62|1080|Germany|Frankfurt am Main|Waicore LTD|
-|13|18.60.111.249|6698|India|Hyderabad|Amazon.com, Inc.|
-|14|18.101.7.10|3128|Spain|Zaragoza|Amazon Technologies Inc.|
-|15|223.206.122.146|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|16|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|17|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
-|18|1.54.167.2|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|20|3.26.174.5|18609|Australia|Sydney|Amazon Technologies Inc.|
+|1|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|5|116.106.176.217|12030|Vietnam|Biên Hòa|Viettel Corporation|
+|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|7|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|8|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|10|200.35.50.89|3028|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|13|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|14|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|5.188.183.253|8080|Spain|Madrid|Melbikomas UAB|
+|17|18.60.111.249|6698|India|Hyderabad|Amazon.com, Inc.|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
+|20|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
 
 
 
