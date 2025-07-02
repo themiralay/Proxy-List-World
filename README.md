@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|95.135.153.191|12532|Hong Kong|Central|Sakura Clouds LLC|
-|2|103.159.96.143|8089|Indonesia|Kebomas|PT Jinde Grup Indonesia|
-|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|4|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|27.74.219.51|30453|Vietnam|Biên Hòa|Newass2011xDSLHN|
-|8|35.92.93.227|3128|United States|Portland|Amazon.com, Inc.|
-|9|103.158.253.23|8181|Indonesia|Jakarta|Rapid Network|
-|10|165.22.100.44|60000|Singapore|Singapore|DigitalOcean, LLC|
-|11|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|12|159.223.41.78|60000|Singapore|Singapore|DigitalOcean, LLC|
-|13|44.251.36.35|3128|United States|Portland|Amazon.com, Inc.|
+|1|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|4|159.89.194.70|60000|Singapore|Singapore|DigitalOcean, LLC|
+|5|165.22.100.44|60000|Singapore|Singapore|DigitalOcean, LLC|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|103.159.96.143|8089|Indonesia|Kebomas|PT Jinde Grup Indonesia|
+|8|68.183.227.59|60000|Singapore|Singapore|DigitalOcean, LLC|
+|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|10|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|11|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|12|157.245.148.210|60000|Singapore|Singapore|DigitalOcean, LLC|
+|13|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
 |14|34.222.108.29|3128|United States|Portland|Amazon.com, Inc.|
-|15|103.165.155.238|2016|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
-|16|103.156.15.87|1111|Indonesia|Jakarta|PT Lintas Jaringan Nusantara|
-|17|103.131.19.160|8083|Indonesia|Andongsari|PT Global Media Data Prima|
+|15|44.251.36.35|3128|United States|Portland|Amazon.com, Inc.|
+|16|35.92.93.227|3128|United States|Portland|Amazon.com, Inc.|
+|17|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
 |18|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|19|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|20|171.234.115.18|5103|Vietnam|Vĩnh Tường|Viettel Corporation|
+|19|157.230.243.223|60000|Singapore|Singapore|DigitalOcean, LLC|
+|20|139.59.245.99|60000|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
