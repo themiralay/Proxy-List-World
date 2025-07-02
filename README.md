@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|54.191.147.201|3128|United States|Portland|Amazon.com, Inc.|
-|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|3|35.92.93.227|3128|United States|Portland|Amazon.com, Inc.|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|3.23.6.28|3128|United States|Dublin|Amazon.com, Inc.|
-|9|35.92.93.227|3128|United States|Portland|Amazon.com, Inc.|
-|10|54.191.147.201|3128|United States|Portland|Amazon.com, Inc.|
-|11|3.23.6.28|3128|United States|Dublin|Amazon.com, Inc.|
-|12|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|51.158.105.94|31826|France|Paris|SCALEWAY|
-|16|18.203.249.67|10010|Ireland|Dublin|Amazon Technologies Inc.|
-|17|180.245.154.60|3128|Indonesia|Bandung|PT. TELKOM INDONESIA|
-|18|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|19|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|20|3.72.40.248|50202|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|1|47.79.149.104|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|45.221.113.243|3128|South Africa|Sandton|VMISS Inc.|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|5|34.173.241.24|3128|United States|Council Bluffs|Google LLC|
+|6|34.222.108.29|3128|United States|Portland|Amazon.com, Inc.|
+|7|95.135.153.191|12532|Hong Kong|Central|Sakura Clouds LLC|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|187.234.70.205|3128|Mexico|Mexico City|Uninet S.A. de C.V.|
+|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|11|34.236.155.20|3128|United States|Ashburn|Amazon.com, Inc.|
+|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|202.148.52.238|3128|The Netherlands|Amsterdam|Hostkey B.V.|
+|14|89.46.42.51|3128|Slovakia|Bratislava|eServer s.r.o.|
+|15|34.222.108.29|3128|United States|Portland|Amazon.com, Inc.|
+|16|193.111.62.156|3888|The Netherlands|Rotterdam|PE Skurykhin Mukola Volodumurovuch|
+|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|54.229.202.137|3128|Ireland|Dublin|Amazon.com, Inc.|
+|19|34.173.241.24|3128|United States|Council Bluffs|Google LLC|
+|20|171.22.114.252|3128|Finland|Helsinki|PQ HOSTING PLUS S.R.L.|
 
 
 
