@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|2|161.34.66.94|4649|Japan|Minamishinagawa|NTT PC Communications, Inc.|
-|3|42.112.96.78|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|42.118.173.29|16000|Vietnam|Hanoi|FPT Telecom Company|
-|6|27.78.222.133|5402|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|103.77.243.145|10000|Vietnam|Bắc Ninh|Vpsmmo Company Limited|
-|9|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|2|95.135.153.191|12532|Hong Kong|Central|Sakura Clouds LLC|
+|3|42.118.173.29|16000|Vietnam|Hanoi|FPT Telecom Company|
+|4|161.34.66.94|4649|Japan|Minamishinagawa|NTT PC Communications, Inc.|
+|5|117.5.70.42|20115|Vietnam|Hanoi|VIETTEL|
+|6|42.112.96.78|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|7|27.78.222.133|5402|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|103.77.243.145|10000|Vietnam|Bắc Ninh|Vpsmmo Company Limited|
 |10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|11|62.33.91.10|3128|Russia|Tynda|TRANS-TELECOM|
-|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|51.158.105.94|31826|France|Paris|SCALEWAY|
-|14|117.5.17.215|10089|Vietnam|Hanoi|VIETTEL|
-|15|209.97.181.142|5353|United Kingdom|Slough|DigitalOcean, LLC|
-|16|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|17|160.191.55.137|60816|Vietnam|Hanoi|VPSTHTH|
-|18|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|19|3.27.237.252|3128|Australia|Sydney|Amazon Technologies Inc.|
-|20|78.128.51.140|8080|Bulgaria|Sofia|BOL BG IZTOK LTD|
+|11|27.74.219.51|30453|Vietnam|Biên Hòa|Newass2011xDSLHN|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|14|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|15|116.103.93.153|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|209.97.181.142|5353|United Kingdom|Slough|DigitalOcean, LLC|
+|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|20|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 
 
 
