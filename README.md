@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.180.138.188|5555|Singapore|Singapore|SGP VULTR|
-|2|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|3|95.135.153.191|12532|Hong Kong|Central|Sakura Clouds LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|6|116.103.93.153|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|8|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|9|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|13|45.87.154.214|8118|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|14|117.5.70.42|20115|Vietnam|Hanoi|VIETTEL|
-|15|51.44.85.200|3128|France|Paris|Amazon.com, Inc.|
-|16|18.60.111.249|6698|India|Hyderabad|Amazon.com, Inc.|
-|17|18.188.141.177|21189|United States|Dublin|Amazon.com, Inc.|
-|18|193.151.141.17|8080|Iran|Tehran|IR-AT|
-|19|92.113.147.2|8765|Denmark|Nørre Åby|Webdock.io ApS|
-|20|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|95.135.153.191|12532|Hong Kong|Central|Sakura Clouds LLC|
+|2|60.249.94.59|3128|Taiwan|Chang-hua|Chunghwa Telecom Co., Ltd.|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|9|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|10|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|11|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|13|209.97.181.142|5353|United Kingdom|Slough|DigitalOcean, LLC|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|181.23.230.173|3128|Argentina|Buenos Aires|Telefonica de Argentina|
+|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|17|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|18|52.78.241.34|20134|South Korea|Seoul|Amazon Technologies Inc.|
+|19|51.44.85.200|3128|France|Paris|Amazon.com, Inc.|
+|20|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
 
 
 
