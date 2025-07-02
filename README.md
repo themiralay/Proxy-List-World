@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|6|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|9|116.106.179.178|12027|Vietnam|Biên Hòa|Viettel Corporation|
-|10|192.3.36.170|5050|United States|Buffalo|HostPapa|
-|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|12|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|4|222.228.171.92|8080|Japan|Nishiikebukuro|ARTERIA Networks Corporation|
+|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|12|192.121.102.202|8118|The Netherlands|Amsterdam|Arelion Sweden AB|
 |13|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|14|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|17|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|18|43.216.250.248|23218|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|19|31.14.114.67|1081|Iran|Tehran|Afranet Co|
-|20|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
+|14|46.62.142.135|80|Finland|Helsinki|Hetzner Online GmbH|
+|15|27.79.184.9|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|64.31.49.174|3128|United States|Miami|Limestone Networks, Inc.|
+|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|19|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|20|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
 
 
 
