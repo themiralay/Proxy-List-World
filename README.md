@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|362|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|362|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|362|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|42.118.173.29|16000|Vietnam|Hanoi|FPT Telecom Company|
-|7|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|27.78.222.133|5402|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|12|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|13|42.112.96.78|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|14|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|15|116.103.93.156|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|17|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|19|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|1|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|2|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|103.133.24.241|8181|Indonesia|Purwakarta|PT PHATRIA INTI PERSADA|
+|5|103.231.236.228|8182|Indonesia|Randudongkal|PT Level Indodata Teknologi|
+|6|103.231.236.239|8182|Indonesia|Randudongkal|PT Level Indodata Teknologi|
+|7|103.247.23.67|4317|Indonesia|Bekasi|PT wifian Solution|
+|8|103.167.170.77|1111|Indonesia|Jakarta|PT Rajeg Media Telekomunikasi|
+|9|103.158.253.23|8181|Indonesia|Jakarta|Rapid Network|
+|10|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|11|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|12|103.231.236.235|8182|Indonesia|Randudongkal|PT Level Indodata Teknologi|
+|13|167.71.213.82|60000|Singapore|Singapore|DigitalOcean, LLC|
+|14|103.46.186.133|10001|Indonesia|Jakarta|PT Air Lintas Komunikasi|
+|15|165.22.101.177|60000|Singapore|Singapore|DigitalOcean, LLC|
+|16|103.178.2.187|8181|Indonesia|Karangmulya|RSTNET|
+|17|103.55.224.193|7777|Indonesia|Olejet|PT Gapura Era Digital|
+|18|113.192.31.11|3127|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|19|103.247.23.250|7777|Indonesia|Wonosobo|PT wifian Solution|
+|20|103.175.240.161|3127|Indonesia|Buaran|LDP|
 
 
 
