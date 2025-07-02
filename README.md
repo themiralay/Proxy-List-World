@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|118.71.116.84|16000|Vietnam|Vĩnh Yên|Vietnam Internet Network Information Center|
-|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|7|27.76.9.187|10007|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|51.158.105.94|31826|France|Paris|SCALEWAY|
+|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
 |10|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|11|43.216.75.140|42761|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|12|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
-|13|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
-|14|13.221.134.55|3128|United States|Ashburn|Amazon.com, Inc.|
-|15|18.188.141.177|21189|United States|Dublin|Amazon.com, Inc.|
-|16|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|17|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|18|56.155.38.121|12736|Japan|Osaka|Amazon.com, Inc.|
-|19|46.62.142.135|80|Finland|Helsinki|Hetzner Online GmbH|
-|20|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|11|124.248.190.213|8080|Cambodia|Phnom Penh|COGETEL Co., Ltd|
+|12|52.78.241.34|20134|South Korea|Seoul|Amazon Technologies Inc.|
+|13|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|14|51.44.85.200|3128|France|Paris|Amazon.com, Inc.|
+|15|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|16|3.10.207.94|8000|United Kingdom|London|Amazon Technologies Inc.|
+|17|105.225.53.124|3128|South Africa|Hartbeespoort|Telkom SA Ltd|
+|18|177.71.134.117|35410|Brazil|São Paulo|Amazon.com, Inc.|
+|19|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|20|160.187.191.3|8082|Bangladesh|Puthia|Race Online Limited|
 
 
 
