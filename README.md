@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.66.94|4649|Japan|Minamishinagawa|NTT PC Communications, Inc.|
-|2|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|95.135.153.191|12532|Hong Kong|Central|Sakura Clouds LLC|
+|2|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |4|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|121.132.61.211|3128|South Korea|Paju-si|Korea Telecom|
 |7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|9|36.64.37.18|89|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|10|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|10|107.172.96.11|24283|United States|Santa Clara|HostPapa|
+|11|198.23.236.47|1111|United States|Santa Clara|HostPapa|
 |12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|3.249.212.91|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|14|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|15|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
-|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|213.160.144.10|14783|Ukraine|Kyiv|"SCIENTIFIC-INDUSTRIAL FIRM "VOLZ" LIMITED LIABILITY COMPANY|
-|19|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|20|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|14|3.249.212.91|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|15|213.160.144.10|14783|Ukraine|Kyiv|"SCIENTIFIC-INDUSTRIAL FIRM "VOLZ" LIMITED LIABILITY COMPANY|
+|16|116.103.93.156|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|95.135.153.191|12532|Hong Kong|Central|Sakura Clouds LLC|
+|18|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|19|107.172.96.11|24283|United States|Santa Clara|HostPapa|
+|20|58.186.92.137|16000|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
