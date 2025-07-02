@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **76767** proxies at the latest update. Usable proxies are below.
+> Scraper found **76799** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36638|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36670|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|125|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38778|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|1|157.20.252.181|8090|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
 |2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|5|27.74.219.51|30453|Vietnam|Biên Hòa|Newass2011xDSLHN|
-|6|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|7|116.103.93.156|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|116.103.93.156|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|27.74.219.51|30453|Vietnam|Biên Hòa|Newass2011xDSLHN|
 |8|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|46.62.142.135|80|Finland|Helsinki|Hetzner Online GmbH|
-|10|103.82.243.112|3128|Indonesia|Jakarta|PT. EXABYTES NETWORK INDONESIA|
+|9|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|10|58.186.92.137|16000|Vietnam|Hanoi|FPT Telecom Company|
 |11|44.251.36.35|3128|United States|Portland|Amazon.com, Inc.|
-|12|34.222.108.29|3128|United States|Portland|Amazon.com, Inc.|
-|13|80.211.202.138|8118|Czechia|Prague|INTERNET CZ, a.s.|
-|14|188.132.150.74|8080|Turkey|Kilis|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|15|193.151.141.17|8080|Iran|Tehran|IR-AT|
-|16|103.156.248.26|8080|Indonesia|Batam|Trans Media Telekomunikasi|
-|17|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|18|18.188.141.177|21189|United States|Dublin|Amazon.com, Inc.|
-|19|35.179.146.181|3128|United Kingdom|London|Amazon Technologies Inc.|
-|20|37.27.253.44|8014|Finland|Helsinki|Hetzner Online GmbH|
+|12|157.15.62.44|8082|Indonesia|Malang|AMAN ISP Customer Malang|
+|13|116.103.93.153|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|34.222.108.29|3128|United States|Portland|Amazon.com, Inc.|
+|15|34.173.241.24|3128|United States|Council Bluffs|Google LLC|
+|16|13.38.66.165|3128|France|Paris|Amazon Technologies Inc.|
+|17|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|18|35.179.146.181|3128|United Kingdom|London|Amazon Technologies Inc.|
+|19|177.93.39.73|999|Colombia|Puerto Rico|TV AZTECA SUCURSAL COLOMBIA|
+|20|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
 
 
 
