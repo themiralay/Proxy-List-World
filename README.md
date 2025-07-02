@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.66.94|4649|Japan|Minamishinagawa|NTT PC Communications, Inc.|
-|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|2|95.135.153.191|12532|Hong Kong|Central|Sakura Clouds LLC|
 |3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|103.224.125.38|2024|Indonesia|Depok|PT Curug Lintas Indonesia|
+|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|6|103.147.118.142|7777|Indonesia|Samarinda|PT.Bestcamp Prima Data|
-|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|149.28.83.131|8118|United States|Los Angeles|The Constant Company|
-|10|116.103.93.153|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|88.218.78.128|47808|France|Strasbourg|velia.net Internetdienste GmbH|
-|12|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|13|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|14|117.247.233.62|8080|India|Gurugram|BSNL Internet|
-|15|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|16|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|17|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|103.144.209.104|8715|Indonesia|Gandul|PT. Indonesia Comnets Plus|
-|19|116.103.93.156|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|3.249.212.91|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|11|116.103.89.163|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|88.218.78.128|47808|France|Strasbourg|velia.net Internetdienste GmbH|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|15|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|16|213.160.144.10|14783|Ukraine|Kyiv|"SCIENTIFIC-INDUSTRIAL FIRM "VOLZ" LIMITED LIABILITY COMPANY|
+|17|31.14.114.67|1081|Iran|Tehran|Afranet Co|
+|18|115.77.135.193|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|19|92.113.147.2|8765|Denmark|Nørre Åby|Webdock.io ApS|
+|20|103.169.38.118|8080|Indonesia|Candi Prambanan|PT Boombas Carlo Medianet|
 
 
 
