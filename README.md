@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|3|27.74.219.51|30453|Vietnam|Biên Hòa|Newass2011xDSLHN|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|6|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|7|103.188.169.219|1080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|5|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
 |8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|116.103.93.156|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|12|118.71.116.84|16000|Vietnam|Vĩnh Yên|Vietnam Internet Network Information Center|
-|13|117.5.17.215|10089|Vietnam|Hanoi|VIETTEL|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|58.186.92.137|16000|Vietnam|Hanoi|FPT Telecom Company|
-|16|42.112.96.78|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|17|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|18|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|19|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|20|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|9|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|10|27.78.222.133|5402|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|42.118.173.29|16000|Vietnam|Hanoi|FPT Telecom Company|
+|13|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|14|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|15|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|16|209.97.181.142|5353|United Kingdom|Slough|DigitalOcean, LLC|
+|17|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|18|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|19|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
+|20|117.5.22.18|10089|Vietnam|Hanoi|VIETTEL|
 
 
 
