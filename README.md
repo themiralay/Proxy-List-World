@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.149.104|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|45.221.113.243|3128|South Africa|Sandton|VMISS Inc.|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|34.222.108.29|3128|United States|Portland|Amazon.com, Inc.|
 |4|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|5|34.173.241.24|3128|United States|Council Bluffs|Google LLC|
-|6|34.222.108.29|3128|United States|Portland|Amazon.com, Inc.|
-|7|95.135.153.191|12532|Hong Kong|Central|Sakura Clouds LLC|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|187.234.70.205|3128|Mexico|Mexico City|Uninet S.A. de C.V.|
-|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|11|34.236.155.20|3128|United States|Ashburn|Amazon.com, Inc.|
-|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|202.148.52.238|3128|The Netherlands|Amsterdam|Hostkey B.V.|
-|14|89.46.42.51|3128|Slovakia|Bratislava|eServer s.r.o.|
-|15|34.222.108.29|3128|United States|Portland|Amazon.com, Inc.|
-|16|193.111.62.156|3888|The Netherlands|Rotterdam|PE Skurykhin Mukola Volodumurovuch|
-|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|54.229.202.137|3128|Ireland|Dublin|Amazon.com, Inc.|
-|19|34.173.241.24|3128|United States|Council Bluffs|Google LLC|
-|20|171.22.114.252|3128|Finland|Helsinki|PQ HOSTING PLUS S.R.L.|
+|5|34.236.155.20|3128|United States|Ashburn|Amazon.com, Inc.|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|34.222.108.29|3128|United States|Portland|Amazon.com, Inc.|
+|11|54.229.202.137|3128|Ireland|Dublin|Amazon.com, Inc.|
+|12|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|91.229.78.250|8448|Ukraine|Kyiv|Zemlyaniy Dmitro Leonidovich|
+|15|193.111.62.156|3888|The Netherlands|Rotterdam|PE Skurykhin Mukola Volodumurovuch|
+|16|91.238.104.171|2023|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|17|18.188.141.177|21189|United States|Dublin|Amazon.com, Inc.|
+|18|34.236.155.20|3128|United States|Ashburn|Amazon.com, Inc.|
+|19|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|35.92.93.227|3128|United States|Portland|Amazon.com, Inc.|
 
 
 
