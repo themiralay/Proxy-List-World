@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.149.104|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|116.103.89.163|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|27.74.219.51|30453|Vietnam|Biên Hòa|Newass2011xDSLHN|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|34.222.108.29|3128|United States|Portland|Amazon.com, Inc.|
-|8|34.173.241.24|3128|United States|Council Bluffs|Google LLC|
+|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|2|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|5|34.222.108.29|3128|United States|Portland|Amazon.com, Inc.|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|8|44.251.36.35|3128|United States|Portland|Amazon.com, Inc.|
 |9|44.251.36.35|3128|United States|Portland|Amazon.com, Inc.|
-|10|165.22.185.71|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|44.251.36.35|3128|United States|Portland|Amazon.com, Inc.|
-|12|187.234.70.205|3128|Mexico|Mexico City|Uninet S.A. de C.V.|
-|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|14|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|15|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|34.173.241.24|3128|United States|Council Bluffs|Google LLC|
-|17|31.131.20.156|3888|The Netherlands|Rotterdam|PE Skurykhin Mukola Volodumurovuch|
-|18|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|19|176.65.149.147|8081|Germany|Hauzenberg|Pfcloud UG|
-|20|43.216.250.248|23218|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|27.74.219.51|30453|Vietnam|Biên Hòa|Newass2011xDSLHN|
+|12|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|13|190.120.255.167|999|Venezuela|Barquisimeto|CORPORACION FIBEX TELECOM, C.A.|
+|14|193.111.62.156|3888|The Netherlands|Rotterdam|PE Skurykhin Mukola Volodumurovuch|
+|15|31.131.20.156|3888|The Netherlands|Rotterdam|PE Skurykhin Mukola Volodumurovuch|
+|16|92.113.147.2|8765|Denmark|Nørre Åby|Webdock.io ApS|
+|17|34.222.108.29|3128|United States|Portland|Amazon.com, Inc.|
+|18|51.44.85.200|3128|France|Paris|Amazon.com, Inc.|
+|19|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|20|91.238.104.171|2023|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
 
 
 
