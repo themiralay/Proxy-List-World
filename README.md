@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|1|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
+|2|118.71.116.84|16000|Vietnam|Vĩnh Yên|Vietnam Internet Network Information Center|
 |3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|186.96.70.5|999|Venezuela|Caracas|Gold Data USA Inc|
-|6|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|7|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|8|1.53.72.202|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|9|103.93.93.66|8080|Indonesia|Tanggulangin|MYRISE|
-|10|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|51.158.105.94|31826|France|Paris|SCALEWAY|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|103.133.27.179|8080|Indonesia|Purwakarta|PT PHATRIA INTI PERSADA|
-|15|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|16|190.94.213.244|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|17|13.221.134.55|3128|United States|Ashburn|Amazon.com, Inc.|
-|18|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|5|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|6|3.109.62.30|717|India|Mumbai|Amazon Technologies Inc.|
+|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|14.39.239.79|55084|South Korea|Eunpyeong-gu|Korea Telecom|
+|10|3.72.40.248|50202|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|108.136.220.77|4005|Indonesia|Jakarta|Amazon.com, Inc.|
+|13|157.66.16.52|8080|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|14|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|15|51.158.105.94|31826|France|Paris|SCALEWAY|
+|16|3.148.186.197|8101|United States|Dublin|Amazon.com, Inc.|
+|17|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|103.227.186.217|6080|Indonesia|Siderejo|PT Master Star Network|
 |19|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|20|94.131.105.69|5211|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|20|210.87.125.58|1080|Indonesia|Krajan Wetan Wonojoyo|CV Brawijaya Giga Network|
 
 
 
