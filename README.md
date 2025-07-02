@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **40152** proxies at the latest update. Usable proxies are below.
+> Scraper found **76821** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|337|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|337|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|337|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36669|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|221|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38705|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
 |2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
 |3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|4|103.133.24.241|8181|Indonesia|Purwakarta|PT PHATRIA INTI PERSADA|
-|5|103.231.236.231|8182|Indonesia|Randudongkal|PT Level Indodata Teknologi|
-|6|103.158.253.22|8181|Indonesia|Jakarta|Rapid Network|
-|7|171.234.115.18|5103|Vietnam|Vĩnh Tường|Viettel Corporation|
-|8|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|9|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|10|103.242.105.148|8181|Indonesia|Karangampel|PT Lintas Jaringan Nusantara|
-|11|103.231.236.222|8182|Indonesia|Randudongkal|PT Level Indodata Teknologi|
-|12|103.231.236.236|8182|Indonesia|Randudongkal|PT Level Indodata Teknologi|
-|13|171.234.116.180|5163|Vietnam|Vĩnh Tường|Viettel Corporation|
-|14|165.22.111.137|60000|Singapore|Singapore|DigitalOcean, LLC|
-|15|116.99.33.181|4001|Vietnam|Hanoi|Viettel Corporation|
-|16|103.231.236.235|8182|Indonesia|Randudongkal|PT Level Indodata Teknologi|
-|17|159.223.41.78|60000|Singapore|Singapore|DigitalOcean, LLC|
-|18|152.42.171.149|60000|Singapore|Singapore|DigitalOcean, LLC|
-|19|165.232.164.139|60000|Singapore|Singapore|DigitalOcean, LLC|
-|20|103.231.236.226|8182|Indonesia|Randudongkal|PT Level Indodata Teknologi|
+|4|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|103.133.24.241|8181|Indonesia|Purwakarta|PT PHATRIA INTI PERSADA|
+|7|146.190.94.2|60000|Singapore|Singapore|DigitalOcean, LLC|
+|8|103.231.236.217|8182|Indonesia|Randudongkal|PT Level Indodata Teknologi|
+|9|103.155.197.103|9090|Indonesia|Sukabumi|JEMBATANDATA|
+|10|103.55.224.193|7777|Indonesia|Olejet|PT Gapura Era Digital|
+|11|157.245.148.210|60000|Singapore|Singapore|DigitalOcean, LLC|
+|12|103.189.197.155|3030|Indonesia|Cirebon|PT Graha Sumber Teknologi|
+|13|157.230.247.140|60000|Singapore|Singapore|DigitalOcean, LLC|
+|14|139.59.245.99|60000|Singapore|Singapore|DigitalOcean, LLC|
+|15|103.171.241.50|3131|Indonesia|Jakarta|PT Abs Multimedia Indonesia|
+|16|165.22.255.142|60000|Singapore|Singapore|DigitalOcean, LLC|
+|17|103.231.236.223|8182|Indonesia|Randudongkal|PT Level Indodata Teknologi|
+|18|165.22.49.107|60000|Singapore|Singapore|DigitalOcean, LLC|
+|19|113.192.31.11|3127|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|20|103.231.236.239|8182|Indonesia|Randudongkal|PT Level Indodata Teknologi|
 
 
 
