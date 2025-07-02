@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|161.34.66.94|4649|Japan|Minamishinagawa|NTT PC Communications, Inc.|
 |2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|3|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 |4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|116.103.93.153|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|9|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|12|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|13|56.155.38.121|12736|Japan|Osaka|Amazon.com, Inc.|
-|14|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|15|51.158.105.94|31826|France|Paris|SCALEWAY|
-|16|51.84.110.224|3128|Israel|Tel Aviv|Amazon.com, Inc.|
-|17|18.132.14.119|3128|United Kingdom|London|Amazon Technologies Inc.|
-|18|188.132.222.41|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|19|13.221.134.55|3128|United States|Ashburn|Amazon.com, Inc.|
-|20|13.38.66.165|3128|France|Paris|Amazon Technologies Inc.|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|9|18.132.14.119|3128|United Kingdom|London|Amazon Technologies Inc.|
+|10|3.148.186.197|8101|United States|Dublin|Amazon.com, Inc.|
+|11|103.224.125.38|2024|Indonesia|Depok|PT Curug Lintas Indonesia|
+|12|200.125.170.238|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|13|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|14|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|15|18.203.249.67|10010|Ireland|Dublin|Amazon Technologies Inc.|
+|16|43.198.151.41|31005|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|17|35.177.23.165|10535|United Kingdom|London|Amazon Technologies Inc.|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
+|20|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
 
 
 
