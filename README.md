@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|2|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|6|95.135.153.191|12532|Hong Kong|Central|Sakura Clouds LLC|
-|7|27.74.219.51|30453|Vietnam|Biên Hòa|Newass2011xDSLHN|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|11|44.251.36.35|3128|United States|Portland|Amazon.com, Inc.|
-|12|44.251.36.35|3128|United States|Portland|Amazon.com, Inc.|
-|13|202.162.195.54|8080|Indonesia|Medan|PT. Media Antar Nusa|
-|14|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|31.131.20.156|3888|The Netherlands|Rotterdam|PE Skurykhin Mukola Volodumurovuch|
-|16|46.62.142.135|80|Finland|Helsinki|Hetzner Online GmbH|
-|17|34.222.108.29|3128|United States|Portland|Amazon.com, Inc.|
-|18|92.113.147.2|8765|Denmark|Nørre Åby|Webdock.io ApS|
-|19|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|20|103.170.64.201|1111|India|Pimpri-Chinchwad|Dream Cables|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|95.135.153.191|12532|Hong Kong|Central|Sakura Clouds LLC|
+|5|171.228.169.132|1001|Vietnam|Hanoi|Viettel Corporation|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|8|44.251.36.35|3128|United States|Portland|Amazon.com, Inc.|
+|9|27.79.139.76|1001|Vietnam|Hanoi|Viettel Corporation|
+|10|116.103.93.156|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|1.53.72.202|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|12|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|14|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|15|34.222.108.29|3128|United States|Portland|Amazon.com, Inc.|
+|16|31.131.20.156|3888|The Netherlands|Rotterdam|PE Skurykhin Mukola Volodumurovuch|
+|17|44.251.36.35|3128|United States|Portland|Amazon.com, Inc.|
+|18|91.238.105.43|2023|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|19|202.162.195.54|8080|Indonesia|Medan|PT. Media Antar Nusa|
+|20|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
