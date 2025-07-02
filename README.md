@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|27.74.219.51|30453|Vietnam|Biên Hòa|Newass2011xDSLHN|
+|1|116.103.93.153|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 |5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|58.186.92.137|16000|Vietnam|Hanoi|FPT Telecom Company|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|46.62.142.135|80|Finland|Helsinki|Hetzner Online GmbH|
+|10|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|11|185.233.37.178|1210|Ukraine|Kyiv|Hosting Ukraine LTD|
 |12|31.131.20.156|3888|The Netherlands|Rotterdam|PE Skurykhin Mukola Volodumurovuch|
-|13|116.103.93.153|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|15|91.238.105.43|2023|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|16|165.22.185.71|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|44.251.36.35|3128|United States|Portland|Amazon.com, Inc.|
-|18|34.222.108.29|3128|United States|Portland|Amazon.com, Inc.|
-|19|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|20|18.100.217.180|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|13|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|14|91.238.105.43|2023|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|15|192.121.102.202|8118|The Netherlands|Amsterdam|Arelion Sweden AB|
+|16|44.251.36.35|3128|United States|Portland|Amazon.com, Inc.|
+|17|85.117.63.38|8080|Georgia|Marneuli|Caucasus Online Ltd.|
+|18|27.74.219.51|30453|Vietnam|Biên Hòa|Newass2011xDSLHN|
+|19|92.113.147.2|8765|Denmark|Nørre Åby|Webdock.io ApS|
+|20|34.222.108.29|3128|United States|Portland|Amazon.com, Inc.|
 
 
 
