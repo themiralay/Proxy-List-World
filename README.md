@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.66.94|4649|Japan|Minamishinagawa|NTT PC Communications, Inc.|
-|2|95.135.153.191|12532|Hong Kong|Central|Sakura Clouds LLC|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|7|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|8|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|194.4.49.128|10808|France|Paris|PQ HOSTING PLUS S.R.L.|
-|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|4|61.245.9.174|8082|Philippines|Manila|Infinivan Incorporated|
+|5|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|6|62.33.91.10|3128|Russia|Tynda|TRANS-TELECOM|
+|7|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |13|3.249.212.91|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|14|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|15|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|16|213.160.144.10|14783|Ukraine|Kyiv|"SCIENTIFIC-INDUSTRIAL FIRM "VOLZ" LIMITED LIABILITY COMPANY|
-|17|149.28.83.131|8118|United States|Los Angeles|The Constant Company|
-|18|92.113.147.2|8765|Denmark|Nørre Åby|Webdock.io ApS|
-|19|103.82.135.154|8888|Vietnam|Thanh Khê|Cloudfly Corporation|
-|20|190.94.212.82|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|17|213.160.144.10|14783|Ukraine|Kyiv|"SCIENTIFIC-INDUSTRIAL FIRM "VOLZ" LIMITED LIABILITY COMPANY|
+|18|103.146.185.115|2021|Indonesia|Sukoharjo|YAMNET|
+|19|88.218.78.128|47808|France|Strasbourg|velia.net Internetdienste GmbH|
+|20|31.14.114.67|1081|Iran|Tehran|Afranet Co|
 
 
 
