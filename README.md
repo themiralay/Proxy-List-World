@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|2|157.20.253.43|8989|Indonesia|Jakarta|PT.Global Media Data Prima|
+|3|103.81.194.125|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|116.103.28.142|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|18.101.7.10|3128|Spain|Zaragoza|Amazon Technologies Inc.|
-|12|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|13|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|14|27.74.219.51|30453|Vietnam|Biên Hòa|Newass2011xDSLHN|
-|15|46.62.142.135|80|Finland|Helsinki|Hetzner Online GmbH|
-|16|35.179.146.181|3128|United Kingdom|London|Amazon Technologies Inc.|
-|17|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|18|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|19|13.221.134.55|3128|United States|Ashburn|Amazon.com, Inc.|
-|20|3.72.40.248|50202|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|10|131.196.115.147|999|Ecuador|Puerto Quito|Ufinet Panama S.A.|
+|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|13|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|14|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|15|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|16|103.215.187.66|3127|Indonesia|Duren Tiga|PT Jaringan Inti Exadata|
+|17|35.179.146.181|3128|United Kingdom|London|Amazon Technologies Inc.|
+|18|18.100.217.180|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|19|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|20|103.242.105.65|7200|Indonesia|Karangampel|PT Lintas Jaringan Nusantara|
 
 
 
