@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|2|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|3|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|43.199.163.10|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|9|116.103.89.163|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|23.237.210.82|80|United States|Houston|FDCservers.net|
+|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|5|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|7|108.136.149.20|25505|Indonesia|Jakarta|Amazon.com, Inc.|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|35.92.93.227|3128|United States|Portland|Amazon.com, Inc.|
+|10|54.191.147.201|3128|United States|Portland|Amazon.com, Inc.|
 |11|34.222.108.29|3128|United States|Portland|Amazon.com, Inc.|
-|12|35.92.93.227|3128|United States|Portland|Amazon.com, Inc.|
-|13|47.247.141.78|8080|India|Chennai|Reliance Jio Infocomm Limited|
-|14|165.22.185.71|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|3.10.207.94|8000|United Kingdom|London|Amazon Technologies Inc.|
-|16|54.191.147.201|3128|United States|Portland|Amazon.com, Inc.|
-|17|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
-|18|44.251.36.35|3128|United States|Portland|Amazon.com, Inc.|
-|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|20|103.82.243.112|3128|Indonesia|Jakarta|PT. EXABYTES NETWORK INDONESIA|
+|12|23.237.210.82|80|United States|Houston|FDCservers.net|
+|13|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
+|14|44.251.36.35|3128|United States|Portland|Amazon.com, Inc.|
+|15|176.65.149.147|8081|Germany|Hauzenberg|Pfcloud UG|
+|16|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
+|17|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|18|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
+|19|43.216.214.221|4289|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|20|13.221.134.55|3128|United States|Ashburn|Amazon.com, Inc.|
 
 
 
