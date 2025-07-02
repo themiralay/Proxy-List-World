@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **76781** proxies at the latest update. Usable proxies are below.
+> Scraper found **76775** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36714|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36708|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|136|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38705|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
 |4|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|7|117.5.70.42|20115|Vietnam|Hanoi|VIETTEL|
 |8|42.118.173.29|16000|Vietnam|Hanoi|FPT Telecom Company|
 |9|42.112.96.78|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|10|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|10|27.74.219.51|30453|Vietnam|Biên Hòa|Newass2011xDSLHN|
 |11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|13|117.5.70.42|20115|Vietnam|Hanoi|VIETTEL|
-|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|15|27.78.222.133|5402|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|16|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|17|103.77.243.145|10000|Vietnam|Bắc Ninh|Vpsmmo Company Limited|
-|18|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|19|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|20|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|27.78.222.133|5402|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|14|209.121.164.51|31147|Canada|Burnaby|TELUS Communications Inc.|
+|15|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
+|16|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|17|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|19|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|20|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
 
 
 
