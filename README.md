@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 |2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |3|44.251.36.35|3128|United States|Portland|Amazon.com, Inc.|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|6|147.79.66.184|3128|France|Paris|Hostinger International Limited|
-|7|3.80.114.184|3128|United States|Ashburn|Amazon Technologies Inc.|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|34.236.155.20|3128|United States|Ashburn|Amazon.com, Inc.|
-|10|44.251.36.35|3128|United States|Portland|Amazon.com, Inc.|
-|11|3.80.114.184|3128|United States|Ashburn|Amazon Technologies Inc.|
-|12|34.222.108.29|3128|United States|Portland|Amazon.com, Inc.|
-|13|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|14|34.222.108.29|3128|United States|Portland|Amazon.com, Inc.|
-|15|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|16|91.229.78.250|8448|Ukraine|Kyiv|Zemlyaniy Dmitro Leonidovich|
-|17|34.236.155.20|3128|United States|Ashburn|Amazon.com, Inc.|
-|18|77.239.116.83|3128|France|Paris|Aeza International LTD|
-|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|5|3.80.114.184|3128|United States|Ashburn|Amazon Technologies Inc.|
+|6|34.222.108.29|3128|United States|Portland|Amazon.com, Inc.|
+|7|44.251.36.35|3128|United States|Portland|Amazon.com, Inc.|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|3.80.114.184|3128|United States|Ashburn|Amazon Technologies Inc.|
+|10|147.79.66.184|3128|France|Paris|Hostinger International Limited|
+|11|193.111.62.156|3888|The Netherlands|Rotterdam|PE Skurykhin Mukola Volodumurovuch|
+|12|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|13|34.222.108.29|3128|United States|Portland|Amazon.com, Inc.|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|51.44.85.200|3128|France|Paris|Amazon.com, Inc.|
+|16|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|17|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|18|91.229.78.250|8448|Ukraine|Kyiv|Zemlyaniy Dmitro Leonidovich|
+|19|95.135.153.191|12532|Hong Kong|Central|Sakura Clouds LLC|
+|20|54.191.147.201|3128|United States|Portland|Amazon.com, Inc.|
 
 
 
