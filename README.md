@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|1|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|62.33.91.10|3128|Russia|Tynda|TRANS-TELECOM|
-|7|23.237.210.82|80|United States|Houston|FDCservers.net|
-|8|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|11|23.237.210.82|80|United States|Houston|FDCservers.net|
-|12|116.106.176.172|12032|Vietnam|Biên Hòa|Viettel Corporation|
-|13|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|14|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|17|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|18|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
-|19|27.74.219.51|30453|Vietnam|Biên Hòa|Newass2011xDSLHN|
-|20|178.214.194.202|14783|Ukraine|Kyiv|Ukranian Optical Systems and Technologies LLC|
+|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|23.237.210.82|80|United States|Houston|FDCservers.net|
+|10|23.237.210.82|80|United States|Houston|FDCservers.net|
+|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|14|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
+|15|213.160.144.10|14783|Ukraine|Kyiv|"SCIENTIFIC-INDUSTRIAL FIRM "VOLZ" LIMITED LIABILITY COMPANY|
+|16|178.214.194.202|14783|Ukraine|Kyiv|Ukranian Optical Systems and Technologies LLC|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|41.65.160.171|1977|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|20|119.92.75.48|8181|Philippines|La Paz|Philippine Long Distance Telephone Co.|
 
 
 
