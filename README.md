@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|115|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38575|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|95.135.153.191|12532|Hong Kong|Central|Sakura Clouds LLC|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|27.79.160.117|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|27.79.221.51|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|27.79.160.117|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|27.79.169.251|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
-|14|23.237.210.82|80|United States|Houston|FDCservers.net|
-|15|213.160.144.10|14783|Ukraine|Kyiv|"SCIENTIFIC-INDUSTRIAL FIRM "VOLZ" LIMITED LIABILITY COMPANY|
-|16|41.140.201.117|39811|Morocco|Rabat|ADSL Maroc telecom|
-|17|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
-|18|3.126.92.60|29|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|19|178.214.194.202|14783|Ukraine|Kyiv|Ukranian Optical Systems and Technologies LLC|
-|20|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|9|27.79.155.50|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|27.79.231.38|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|12|27.79.161.237|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|14|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
+|17|23.237.210.82|80|United States|Houston|FDCservers.net|
+|18|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|19|27.79.182.12|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|43.216.250.248|23218|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
 
 
 
