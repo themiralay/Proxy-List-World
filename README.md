@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|62.33.91.10|3128|Russia|Tynda|TRANS-TELECOM|
-|3|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|5|27.74.219.51|30453|Vietnam|Biên Hòa|Newass2011xDSLHN|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|9|27.79.208.120|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|11|103.97.140.163|8085|Indonesia|Jakarta|PT Jembatan Data Pangrango|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|176.65.149.147|8081|Germany|Hauzenberg|Pfcloud UG|
-|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|15|209.97.181.142|5353|United Kingdom|Slough|DigitalOcean, LLC|
-|16|27.79.239.240|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|18|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|19|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|20|105.225.53.124|3128|South Africa|Hartbeespoort|Telkom SA Ltd|
+|1|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|2|27.74.219.51|30453|Vietnam|Biên Hòa|Newass2011xDSLHN|
+|3|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|113.172.105.204|12027|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|76.50.80.32|8182|United States|North Hollywood|Spectrum|
+|12|27.79.175.179|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|1.52.198.53|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|14|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|15|27.79.208.120|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|209.97.181.142|5353|United Kingdom|Slough|DigitalOcean, LLC|
+|17|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|18|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|19|27.79.239.240|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
 
 
 
