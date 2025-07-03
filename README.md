@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.224.196|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|27.79.187.160|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|27.79.180.206|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|42.113.21.155|16000|Vietnam|Hanoi|FPT Telecom Company|
-|6|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|7|27.79.163.105|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|177.253.195.107|999|Colombia|Medellín|Colombia Móvil|
-|9|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|10|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|11|209.97.181.142|5353|United Kingdom|Slough|DigitalOcean, LLC|
-|12|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|13|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|14|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|15|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|16|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|17|43.216.75.140|42761|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|18|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|19|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|20|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|1|27.79.180.206|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|3|116.103.93.153|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|27.79.180.53|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|6|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|7|27.79.224.196|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|209.97.181.142|5353|United Kingdom|Slough|DigitalOcean, LLC|
+|9|27.79.163.105|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|11|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|13|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|14|58.69.137.62|8081|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|15|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|16|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|17|103.44.19.220|3127|Indonesia|Sidoarjo|PT Sarana Intimedia Telematika|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|128.199.254.13|9090|Singapore|Singapore|DigitalOcean, LLC|
+|20|147.75.49.154|9400|United States|San Jose|Packet Host, Inc.|
 
 
 
