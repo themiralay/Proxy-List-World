@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|113.172.105.204|12027|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|195.64.140.145|8080|Russia|Perm|LLC G&G-Telecom|
-|11|43.216.214.221|4289|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|12|193.181.35.90|8118|Sweden|Stockholm|PVDataNet AB|
-|13|13.221.134.55|3128|United States|Ashburn|Amazon.com, Inc.|
-|14|43.216.250.248|23218|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|15|37.27.253.44|8037|Finland|Helsinki|Hetzner Online GmbH|
-|16|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
-|17|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|18|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|182.253.109.17|8080|Indonesia|Semarang|Biznet Metronet|
-|20|13.229.47.37|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
+|12|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|13|37.27.253.44|8099|Finland|Helsinki|Hetzner Online GmbH|
+|14|37.27.253.44|8099|Finland|Helsinki|Hetzner Online GmbH|
+|15|113.172.105.204|12027|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|16|13.229.47.37|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|17|182.253.109.17|8080|Indonesia|Semarang|Biznet Metronet|
+|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|19|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|20|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
 
 
 
