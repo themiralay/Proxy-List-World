@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|27.79.242.244|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|10|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|15|116.103.26.249|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|27.76.9.187|10001|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|19|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|20|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|43.216.214.221|4289|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|10|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|193.151.141.17|8080|Iran|Tehran|IR-AT|
+|13|3.126.92.60|29|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|14|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|58.186.131.31|16000|Vietnam|Hanoi|FPT Telecom Company|
+|17|18.101.7.10|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|18|35.152.137.65|26038|Italy|Milan|Amazon.com, Inc.|
+|19|3.26.174.5|18609|Australia|Sydney|Amazon Technologies Inc.|
+|20|108.136.220.77|4005|Indonesia|Jakarta|Amazon.com, Inc.|
 
 
 
