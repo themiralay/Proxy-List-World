@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|2|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
-|6|118.71.110.55|16000|Vietnam|Hanoi|FPT Telecom Company|
+|1|13.229.47.37|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|3|118.71.110.55|16000|Vietnam|Hanoi|FPT Telecom Company|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|9|193.151.141.17|8080|Iran|Tehran|IR-AT|
-|10|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|176.65.149.147|8081|Germany|Hauzenberg|Pfcloud UG|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|3.148.186.197|8101|United States|Dublin|Amazon.com, Inc.|
-|14|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|15|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|16|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|17|189.240.60.172|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|18|189.240.60.162|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|19|58.186.131.31|16000|Vietnam|Hanoi|FPT Telecom Company|
-|20|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|8|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|9|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|10|209.97.181.142|5353|United Kingdom|Slough|DigitalOcean, LLC|
+|11|189.240.60.162|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|12|189.240.60.172|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|13|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
+|14|193.151.141.17|8080|Iran|Tehran|IR-AT|
+|15|85.206.93.105|8080|Lithuania|Kaunas|Telia Lietuva|
+|16|176.65.149.147|8081|Germany|Hauzenberg|Pfcloud UG|
+|17|35.152.137.65|26038|Italy|Milan|Amazon.com, Inc.|
+|18|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|19|27.79.239.240|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
