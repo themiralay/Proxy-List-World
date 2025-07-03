@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.189.97|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|189.240.60.172|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|3|189.240.60.171|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |5|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|62.33.91.10|3128|Russia|Tynda|TRANS-TELECOM|
-|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|116.106.176.172|12032|Vietnam|Biên Hòa|Viettel Corporation|
-|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|12|1.52.196.154|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|13|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|16|68.183.193.91|3128|Canada|Toronto|DigitalOcean, LLC|
-|17|203.175.127.240|8080|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
-|18|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|19|42.113.21.155|16000|Vietnam|Hanoi|FPT Telecom Company|
-|20|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|189.240.60.162|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|1.52.196.154|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|12|189.240.60.169|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|13|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|14|42.118.173.144|16000|Vietnam|Hanoi|FPT Telecom Company|
+|15|177.253.195.107|999|Colombia|Medellín|Colombia Móvil|
+|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|17|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|209.97.181.142|5353|United Kingdom|Slough|DigitalOcean, LLC|
+|20|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
 
 
 
