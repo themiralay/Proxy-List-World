@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -40,23 +40,23 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|95.135.153.191|12532|Hong Kong|Central|Sakura Clouds LLC|
-|2|1.55.53.65|16000|Vietnam|Hanoi|FPT Telecom Company|
-|3|27.74.219.51|30453|Vietnam|Biên Hòa|Newass2011xDSLHN|
-|4|43.130.34.135|5432|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|116.106.176.172|12032|Vietnam|Biên Hòa|Viettel Corporation|
+|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|9|27.79.180.53|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|11|209.97.181.142|5353|United Kingdom|Slough|DigitalOcean, LLC|
-|12|18.101.7.10|3128|Spain|Zaragoza|Amazon Technologies Inc.|
-|13|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|14|164.163.42.8|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|193.151.141.17|8080|Iran|Tehran|IR-AT|
-|16|42.113.21.155|16000|Vietnam|Hanoi|FPT Telecom Company|
-|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|18|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|8|94.141.123.62|1080|Germany|Frankfurt am Main|Waicore LTD|
+|9|27.74.219.51|30453|Vietnam|Biên Hòa|Newass2011xDSLHN|
+|10|13.221.134.55|3128|United States|Ashburn|Amazon.com, Inc.|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|209.97.181.142|5353|United Kingdom|Slough|DigitalOcean, LLC|
+|13|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|14|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|15|18.101.7.10|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|16|116.106.176.172|12032|Vietnam|Biên Hòa|Viettel Corporation|
+|17|193.151.141.17|8080|Iran|Tehran|IR-AT|
+|18|92.113.147.2|8765|Denmark|Nørre Åby|Webdock.io ApS|
 |19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |20|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 
