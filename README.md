@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|95.135.153.191|12532|Hong Kong|Central|Sakura Clouds LLC|
-|2|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|27.79.187.160|16000|Vietnam|Hanoi|Viettel Corporation|
 |3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|4|27.79.242.244|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|42.113.21.155|16000|Vietnam|Hanoi|FPT Telecom Company|
-|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|118.71.116.84|16000|Vietnam|Vĩnh Yên|Vietnam Internet Network Information Center|
+|8|43.216.214.221|4289|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|9|1.52.196.154|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
 |10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|12|1.55.53.65|16000|Vietnam|Hanoi|FPT Telecom Company|
-|13|116.103.93.153|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|15|172.98.201.190|3128|United States|Dallas|Centrilogic|
-|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|18|35.177.23.165|10535|United Kingdom|London|Amazon Technologies Inc.|
-|19|193.151.141.17|8080|Iran|Tehran|IR-AT|
-|20|18.132.14.119|3128|United Kingdom|London|Amazon Technologies Inc.|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|14|92.113.147.2|8765|Denmark|Nørre Åby|Webdock.io ApS|
+|15|193.151.141.17|8080|Iran|Tehran|IR-AT|
+|16|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|17|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|18|13.221.134.55|3128|United States|Ashburn|Amazon.com, Inc.|
+|19|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|20|27.79.207.47|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
