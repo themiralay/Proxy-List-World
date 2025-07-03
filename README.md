@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|27.79.163.105|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|209.97.181.142|5353|United Kingdom|Slough|DigitalOcean, LLC|
-|15|1.52.196.154|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|27.79.208.120|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|58.186.131.31|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|27.79.242.244|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|27.79.139.88|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|2|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|189.240.60.168|9090|Mexico|Venustiano Carranza|Uninet S.A. de C.V.|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|9|209.97.181.142|5353|United Kingdom|Slough|DigitalOcean, LLC|
+|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|13|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|14|177.253.195.107|999|Colombia|Medellín|Colombia Móvil|
+|15|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|16|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|17|103.63.26.123|8080|Indonesia|Probolinggo|PT Global Media Data Prima|
+|18|164.163.42.16|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|18.101.7.10|3128|Spain|Zaragoza|Amazon Technologies Inc.|
 
 
 
