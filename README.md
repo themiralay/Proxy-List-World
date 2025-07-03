@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.189.95|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|4|171.228.169.132|1001|Vietnam|Hanoi|Viettel Corporation|
-|5|116.106.176.172|12032|Vietnam|Biên Hòa|Viettel Corporation|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|27.71.130.193|16000|Vietnam|Đưc Trọng|Viettel Group|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|11|116.103.95.42|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|27.79.167.10|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|1.55.53.65|16000|Vietnam|Hanoi|FPT Telecom Company|
-|15|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|16|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|17|58.186.92.137|16000|Vietnam|Hanoi|FPT Telecom Company|
-|18|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|19|209.97.181.142|5353|United Kingdom|Slough|DigitalOcean, LLC|
-|20|193.151.141.17|8080|Iran|Tehran|IR-AT|
+|1|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|2|160.248.189.95|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
+|3|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|4|58.186.130.96|16000|Vietnam|Hanoi|FPT Telecom Company|
+|5|42.117.128.81|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|1.55.53.65|16000|Vietnam|Hanoi|FPT Telecom Company|
+|7|27.79.167.10|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|58.186.92.137|16000|Vietnam|Hanoi|FPT Telecom Company|
+|9|116.111.112.65|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|11|171.228.169.132|1001|Vietnam|Hanoi|Viettel Corporation|
+|12|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|13|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|14|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|18|27.79.180.53|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|20|27.71.130.193|16000|Vietnam|Đưc Trọng|Viettel Group|
 
 
 
