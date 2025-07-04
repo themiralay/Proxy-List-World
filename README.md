@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4178** proxies at the latest update. Usable proxies are below.
+> Scraper found **4100** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|172|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|94|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2780|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|1.54.172.28|16000|Vietnam|Hanoi|FPT Telecom Company|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|27.79.196.243|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|13|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|14|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
-|15|163.223.108.104|8080|Bangladesh|Sarankhola|Mehedi Hasan|
-|16|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|19|3.72.40.248|50202|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|20|58.186.92.104|16000|Vietnam|Hanoi|FPT Telecom Company|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|115.77.174.241|10030|Vietnam|Vũng Tàu|Viettel Group|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|6|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|27.79.166.239|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|27.79.196.243|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|15|43.216.214.221|4289|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|17|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
+|18|193.111.62.156|3888|The Netherlands|Rotterdam|PE Skurykhin Mukola Volodumurovuch|
+|19|162.240.148.177|8080|United States|Provo|Unified Layer|
+|20|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
 
 
 
