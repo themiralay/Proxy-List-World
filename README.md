@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|109.107.137.16|8118|Japan|Tokyo|xTom Japan Corporation|
-|2|47.76.76.56|8888|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|116.103.95.190|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|1.52.199.207|16000|Vietnam|Hanoi|FPT Telecom Company|
-|9|116.103.88.135|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|193.151.141.17|8080|Iran|Tehran|IR-AT|
 |12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|13|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
 |14|113.22.48.30|16000|Vietnam|Hanoi|FPT Telecom Company|
-|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|16|108.136.220.77|4005|Indonesia|Jakarta|Amazon.com, Inc.|
-|17|35.152.137.65|26038|Italy|Milan|Amazon.com, Inc.|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|43.216.214.221|4289|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|20|118.71.87.236|16000|Vietnam|Hanoi|FPT Telecom Company|
+|15|52.78.241.34|20134|South Korea|Seoul|Amazon Technologies Inc.|
+|16|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|18|223.205.184.190|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|19|18.100.217.180|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|20|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
 
 
 
