@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|8|23.237.210.82|80|United States|Houston|FDCservers.net|
-|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|12|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|23.237.210.82|80|United States|Houston|FDCservers.net|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|23.237.210.82|80|United States|Houston|FDCservers.net|
+|12|52.78.241.34|20134|South Korea|Seoul|Amazon Technologies Inc.|
 |13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|15|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|16|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
-|17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|18|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|19|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|20|27.79.204.31|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
+|15|41.140.201.117|39811|Morocco|Rabat|ADSL Maroc telecom|
+|16|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|17|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|18|3.10.207.94|8000|United Kingdom|London|Amazon Technologies Inc.|
+|19|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|20|113.172.105.204|12027|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
 
 
 
