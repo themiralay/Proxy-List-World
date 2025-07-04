@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.237.210.82|80|United States|Houston|FDCservers.net|
+|1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|23.237.210.82|80|United States|Houston|FDCservers.net|
 |5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|23.237.210.82|80|United States|Houston|FDCservers.net|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|15|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
-|16|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|17|37.27.203.159|8077|Finland|Helsinki|Hetzner Online GmbH|
-|18|18.100.217.180|3128|Spain|Zaragoza|Amazon Technologies Inc.|
-|19|41.140.2.255|39811|Morocco|Rabat|ADSL Maroc telecom|
-|20|18.101.7.10|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|23.237.210.82|80|United States|Houston|FDCservers.net|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|12|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
+|13|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
+|14|41.140.2.255|39811|Morocco|Rabat|ADSL Maroc telecom|
+|15|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|16|37.27.203.159|8077|Finland|Helsinki|Hetzner Online GmbH|
+|17|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|18|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|19|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|20|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
 
 
 
