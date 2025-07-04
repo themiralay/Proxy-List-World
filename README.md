@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|4|161.34.67.48|4649|Japan|Minamishinagawa|NTT PC Communications, Inc.|
-|5|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|6|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|8|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|10|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|11|117.6.49.83|16000|Vietnam|Hanoi|VIETTEL|
-|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|116.106.176.172|12030|Vietnam|Biên Hòa|Viettel Corporation|
-|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|15|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|17|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|18|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|19|114.198.244.57|3128|Indonesia|Kediri|PT Sumber Data Indonesia|
-|20|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|6|161.34.67.48|4649|Japan|Minamishinagawa|NTT PC Communications, Inc.|
+|7|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|11|116.103.88.135|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|13|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|15|1.54.82.13|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|16|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|17|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|18|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|19|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|20|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 
 
 
