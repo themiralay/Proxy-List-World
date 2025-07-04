@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|109.107.137.16|8118|Japan|Tokyo|xTom Japan Corporation|
-|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|109.107.137.16|8118|Japan|Tokyo|xTom Japan Corporation|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 |5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|27.74.219.51|30453|Vietnam|Biên Hòa|Newass2011xDSLHN|
 |7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|94.72.97.167|3128|United Kingdom|Portsmouth|Contabo GmbH|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|12|193.151.141.17|8080|Iran|Tehran|IR-AT|
-|13|27.74.219.51|30453|Vietnam|Biên Hòa|Newass2011xDSLHN|
-|14|98.130.47.34|3128|India|Hyderabad|Amazon.com|
+|8|94.72.97.167|3128|United Kingdom|Portsmouth|Contabo GmbH|
+|9|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|10|43.216.250.248|23218|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|176.65.149.147|8081|Germany|Hauzenberg|Pfcloud UG|
+|13|58.186.92.104|16000|Vietnam|Hanoi|FPT Telecom Company|
+|14|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
 |15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|13.221.134.55|3128|United States|Ashburn|Amazon.com, Inc.|
-|17|105.225.53.124|3128|South Africa|Hartbeespoort|Telkom SA Ltd|
-|18|93.190.138.107|46182|The Netherlands|Naaldwijk|WorldStream B.V.|
-|19|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|20|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|16|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|17|193.151.141.17|8080|Iran|Tehran|IR-AT|
+|18|27.79.195.168|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
+|20|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
