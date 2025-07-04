@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|109.107.137.16|8118|Japan|Tokyo|xTom Japan Corporation|
-|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|9|98.130.47.34|3128|India|Hyderabad|Amazon.com|
-|10|94.72.97.167|3128|United Kingdom|Portsmouth|Contabo GmbH|
-|11|13.221.134.55|3128|United States|Ashburn|Amazon.com, Inc.|
-|12|18.100.217.180|3128|Spain|Zaragoza|Amazon Technologies Inc.|
-|13|51.161.209.6|6591|Australia|North Sydney|OVH SAS|
-|14|35.152.137.65|26038|Italy|Milan|Amazon.com, Inc.|
-|15|43.198.151.41|31005|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|16|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
-|17|18.60.111.249|6698|India|Hyderabad|Amazon.com, Inc.|
-|18|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|19|190.61.55.19|999|Colombia|Fundación|Ufinet Panama S.A.|
-|20|54.168.197.42|18411|Japan|Tokyo|Amazon Technologies Inc.|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|94.72.97.167|3128|United Kingdom|Portsmouth|Contabo GmbH|
+|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|11|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|12|182.53.20.21|8080|Thailand|Si Racha|TOT Public Company Limited|
+|13|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|14|13.221.134.55|3128|United States|Ashburn|Amazon.com, Inc.|
+|15|51.161.209.6|6591|Australia|North Sydney|OVH SAS|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|27.79.166.239|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|16.26.41.189|4140|Australia|Melbourne|Amazon.com, Inc.|
+|20|188.132.222.247|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
