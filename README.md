@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|103.169.128.133|8080|Indonesia|Cirebon|PT Media Akses Data|
-|8|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|13|3.109.62.30|717|India|Mumbai|Amazon Technologies Inc.|
-|14|13.221.134.55|3128|United States|Ashburn|Amazon.com, Inc.|
-|15|193.151.141.17|8080|Iran|Tehran|IR-AT|
-|16|108.136.220.77|4005|Indonesia|Jakarta|Amazon.com, Inc.|
-|17|94.72.97.167|3128|United Kingdom|Portsmouth|Contabo GmbH|
-|18|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|19|1.54.172.28|16000|Vietnam|Hanoi|FPT Telecom Company|
-|20|125.163.73.107|3128|Indonesia|Mataram|PT. TELKOM INDONESIA|
+|6|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|11|94.72.97.167|3128|United Kingdom|Portsmouth|Contabo GmbH|
+|12|105.225.53.124|3128|South Africa|Hartbeespoort|Telkom SA Ltd|
+|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|14|3.126.92.60|29|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|15|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|16|176.65.149.147|8081|Germany|Hauzenberg|Pfcloud UG|
+|17|193.151.141.17|8080|Iran|Tehran|IR-AT|
+|18|35.152.137.65|26038|Italy|Milan|Amazon.com, Inc.|
+|19|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|20|43.216.214.221|4289|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
 
 
 
