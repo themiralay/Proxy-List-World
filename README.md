@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
-|4|209.121.164.51|31147|Canada|Burnaby|TELUS Communications Inc.|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|2|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|3|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|27.79.166.239|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|12|1.54.172.28|16000|Vietnam|Hanoi|FPT Telecom Company|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|116.103.93.153|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|16|47.76.76.56|8888|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|19|43.199.163.10|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|20|193.151.141.17|8080|Iran|Tehran|IR-AT|
+|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|27.54.117.180|4444|Indonesia|Legian|Indonesia Network Information Center|
+|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|103.126.87.76|8082|Indonesia|Trucuk|PT. Rasi Bintang Perkasa|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|19|23.237.210.82|80|United States|Houston|FDCservers.net|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
