@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|103.172.70.28|1111|Indonesia|Cimahi|AZNET|
-|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
 |4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
-|6|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
-|7|223.205.206.17|8080|Thailand|Ko Samui|Triple T Broadband Public Company Limited|
-|8|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|14|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
-|15|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|16|193.111.62.156|3888|The Netherlands|Rotterdam|PE Skurykhin Mukola Volodumurovuch|
-|17|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|18|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|19|1.53.116.84|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|20|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|8|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|9|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|10|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|13|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|193.111.62.156|3888|The Netherlands|Rotterdam|PE Skurykhin Mukola Volodumurovuch|
+|16|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
+|17|1.54.82.13|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|18|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|19|27.71.130.193|16000|Vietnam|Đưc Trọng|Viettel Group|
+|20|35.152.137.65|26038|Italy|Milan|Amazon.com, Inc.|
 
 
 
