@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|1|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
 |2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|27.79.146.150|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|11|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
-|12|18.170.63.85|999|United Kingdom|London|Amazon Technologies Inc.|
-|13|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|15|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|16|98.130.47.34|3128|India|Hyderabad|Amazon.com|
-|17|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
-|18|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
-|19|43.216.75.140|42761|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|20|51.84.110.224|3128|Israel|Tel Aviv|Amazon.com, Inc.|
+|3|27.79.160.228|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|13|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
+|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|16|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|17|193.151.141.17|8080|Iran|Tehran|IR-AT|
+|18|23.237.210.82|80|United States|Houston|FDCservers.net|
+|19|18.100.217.180|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|20|52.78.241.34|20134|South Korea|Seoul|Amazon Technologies Inc.|
 
 
 
