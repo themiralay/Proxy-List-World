@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|161.34.66.94|4649|Japan|Minamishinagawa|NTT PC Communications, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|68.183.179.119|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|23.237.210.82|80|United States|Houston|FDCservers.net|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|8|23.237.210.82|80|United States|Houston|FDCservers.net|
-|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|12|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|13|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|23.237.210.82|80|United States|Houston|FDCservers.net|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|23.237.210.82|80|United States|Houston|FDCservers.net|
+|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
 |14|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|16|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
-|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|15|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|19|23.157.88.25|1080|Germany|Frankfurt|GTHost|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
