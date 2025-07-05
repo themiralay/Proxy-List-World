@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.237.210.82|80|United States|Houston|FDCservers.net|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|23.237.210.82|80|United States|Houston|FDCservers.net|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|23.237.210.82|80|United States|Houston|FDCservers.net|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|103.247.240.34|8080|Indonesia|Semurup|PT Media Kerinci Network|
 |6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|27.79.130.5|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|222.228.171.92|8080|Japan|Nishiikebukuro|ARTERIA Networks Corporation|
-|9|58.186.163.247|16000|Vietnam|Hanoi|FPT Telecom Company|
-|10|103.153.39.35|8083|Pakistan|Burewala|Getlinks (SMC-Private) Limited|
+|7|23.237.210.82|80|United States|Houston|FDCservers.net|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|27.79.130.5|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|43.216.75.140|42761|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
 |11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|41.140.2.255|39811|Morocco|Rabat|ADSL Maroc telecom|
-|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|41.140.2.255|39811|Morocco|Rabat|ADSL Maroc telecom|
 |14|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|15|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|16|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|17|3.10.207.94|8000|United Kingdom|London|Amazon Technologies Inc.|
-|18|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|20|92.58.181.171|1194|Spain|Madrid|UNI2|
+|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|19|103.153.39.35|8083|Pakistan|Burewala|Getlinks (SMC-Private) Limited|
+|20|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
