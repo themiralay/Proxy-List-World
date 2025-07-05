@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|95.135.153.191|12532|Hong Kong|Central|Sakura Clouds LLC|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |2|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|115.77.2.112|12027|Vietnam|Can Tho|Viettel Group|
-|11|27.79.137.71|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|13|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
-|16|43.199.163.10|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|17|116.103.93.153|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|176.108.240.201|56246|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
+|11|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
+|12|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|13|35.152.137.65|26038|Italy|Milan|Amazon.com, Inc.|
+|14|18.170.63.85|999|United Kingdom|London|Amazon Technologies Inc.|
+|15|52.78.241.34|20134|South Korea|Seoul|Amazon Technologies Inc.|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|18|176.108.240.201|56246|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|19|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
+|20|194.147.35.134|52120|United Kingdom|Coventry|Baykov Ilya Sergeevich|
 
 
 
