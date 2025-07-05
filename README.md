@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|3.72.40.248|50202|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|11|54.168.197.42|18411|Japan|Tokyo|Amazon Technologies Inc.|
-|12|1.54.69.121|16000|Vietnam|Hanoi|FPT Telecom Company|
-|13|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|15|176.108.240.201|56246|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|13.38.66.165|3128|France|Paris|Amazon Technologies Inc.|
-|18|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|20|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
+|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|203.150.128.27|8080|Thailand|Vadhana|Internet Thailand Company Ltd|
+|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|103.156.114.13|8080|Indonesia|Jakarta|MYREPUBLIC|
+|10|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|115.77.2.112|12027|Vietnam|Can Tho|Viettel Group|
+|13|42.117.168.162|16000|Vietnam|Hanoi|FPT Telecom Company|
+|14|93.127.202.239|3128|France|Paris|Hostinger International Limited|
+|15|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|17|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|18|43.216.250.248|23218|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|19|27.79.134.223|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|3.126.92.60|29|Germany|Frankfurt am Main|Amazon Technologies Inc.|
 
 
 
