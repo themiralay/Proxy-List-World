@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|6|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|113.22.251.39|16000|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|8|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|11|176.108.240.201|56246|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|13|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|14|116.103.92.179|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|193.151.141.17|8080|Iran|Tehran|IR-AT|
-|16|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|17|27.79.134.223|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|16.26.88.4|28095|Australia|Melbourne|Amazon.com, Inc.|
-|19|3.109.62.30|717|India|Mumbai|Amazon Technologies Inc.|
-|20|98.130.47.34|3128|India|Hyderabad|Amazon.com|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|116.103.92.179|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|12|58.186.162.252|16000|Vietnam|Hanoi|FPT Telecom Company|
+|13|176.108.240.201|56246|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|14|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|15|27.79.137.71|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
+|17|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|19|43.199.163.10|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|20|54.168.197.42|18411|Japan|Tokyo|Amazon Technologies Inc.|
 
 
 
