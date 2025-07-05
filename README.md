@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|2|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|4|52.78.241.34|20134|South Korea|Seoul|Amazon Technologies Inc.|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|101.255.148.2|8080|Indonesia|Bogor|PT Remala Abadi|
-|10|152.53.166.49|8888|United States|Manassas|netcup GmbH|
-|11|176.108.240.201|56246|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|15|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|17|115.77.2.112|12027|Vietnam|Can Tho|Viettel Group|
+|7|152.53.166.49|8888|United States|Manassas|netcup GmbH|
+|8|176.108.240.201|56246|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|11|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|12|125.163.139.137|3128|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|15|160.19.146.210|8080|Indonesia|Tasikmalaya|PT Taska Sarana Nusantara|
+|16|115.77.2.112|12027|Vietnam|Can Tho|Viettel Group|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |18|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
 |19|3.84.157.93|3128|United States|Ashburn|Amazon Technologies Inc.|
-|20|18.101.7.10|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|20|160.20.38.22|8080|Indonesia|Indramayu|PT SAMUDRA DIGITAL NETWORK|
 
 
 
