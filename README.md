@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|5|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|27.79.159.1|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|14|27.79.225.220|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|176.108.240.201|56246|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|16|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|17|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|18|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|19|18.100.217.180|3128|Spain|Zaragoza|Amazon Technologies Inc.|
-|20|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|1|115.77.2.112|12027|Vietnam|Can Tho|Viettel Group|
+|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|43.216.250.248|23218|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|6|116.103.92.179|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|176.108.240.201|56246|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|192.121.102.116|8118|The Netherlands|Amsterdam|Arelion Sweden AB|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|14|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|15|18.100.217.180|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|17|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
+|18|35.179.146.181|3128|United Kingdom|London|Amazon Technologies Inc.|
+|19|116.103.94.185|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
 
 
 
