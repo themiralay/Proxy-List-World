@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
 |3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |5|23.237.210.82|80|United States|Houston|FDCservers.net|
-|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
 |10|27.74.219.51|30453|Vietnam|Biên Hòa|Newass2011xDSLHN|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|13|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
-|14|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|15|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
-|16|23.237.210.82|80|United States|Houston|FDCservers.net|
+|11|103.63.26.226|8080|Indonesia|Probolinggo|PT Global Media Data Prima|
+|12|35.177.23.165|10535|United Kingdom|London|Amazon Technologies Inc.|
+|13|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|14|23.237.210.82|80|United States|Houston|FDCservers.net|
+|15|13.221.134.55|3128|United States|Ashburn|Amazon.com, Inc.|
+|16|193.151.141.17|8080|Iran|Tehran|IR-AT|
 |17|115.77.2.112|12027|Vietnam|Can Tho|Viettel Group|
-|18|42.113.205.10|16000|Vietnam|Quận Hai|FPT Telecom Company|
-|19|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|20|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|18|18.101.7.10|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|19|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
+|20|18.61.87.35|4263|India|Hyderabad|Amazon.com, Inc.|
 
 
 
