@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.205.69|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|42.113.28.192|16000|Vietnam|Hanoi|FPT Telecom Company|
-|3|1.54.76.43|16000|Vietnam|Hanoi|FPT Telecom Company|
-|4|27.79.201.14|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|113.22.251.39|16000|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|6|113.22.205.83|16000|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|7|116.103.92.179|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|27.79.137.71|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|58.186.162.252|16000|Vietnam|Hanoi|FPT Telecom Company|
-|10|116.96.83.24|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|116.96.95.209|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|27.79.134.223|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|42.113.205.10|16000|Vietnam|Quận Hai|FPT Telecom Company|
+|1|113.22.205.83|16000|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|2|113.22.251.39|16000|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|3|42.113.205.10|16000|Vietnam|Quận Hai|FPT Telecom Company|
+|4|42.113.28.192|16000|Vietnam|Hanoi|FPT Telecom Company|
+|5|58.186.92.189|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|1.54.76.43|16000|Vietnam|Hanoi|FPT Telecom Company|
+|7|58.186.220.58|16000|Vietnam|Nam Định|FPT Telecom Company|
+|8|27.79.165.74|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|27.79.222.167|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|58.186.162.252|16000|Vietnam|Hanoi|FPT Telecom Company|
+|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|13|27.79.205.69|16000|Vietnam|Hanoi|Viettel Corporation|
 |14|27.79.159.1|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|27.79.205.93|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|58.186.92.189|16000|Vietnam|Hanoi|FPT Telecom Company|
-|17|27.79.165.74|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|116.96.80.51|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|116.96.90.224|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|15|27.79.137.71|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|17|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|18|116.96.95.209|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|27.79.134.223|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|27.79.171.148|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
