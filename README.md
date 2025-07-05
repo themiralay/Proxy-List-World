@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|42.112.97.239|12003|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|2|27.79.217.8|16000|Vietnam|Hanoi|Viettel Corporation|
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|27.79.201.14|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|116.103.94.185|16000|Vietnam|Hanoi|Viettel Corporation|
 |6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|27.79.171.148|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|11|116.96.83.24|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|13|27.79.201.14|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|15|3.72.40.248|50202|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|16|3.109.62.30|717|India|Mumbai|Amazon Technologies Inc.|
-|17|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|18|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
-|19|16.26.88.4|28095|Australia|Melbourne|Amazon.com, Inc.|
-|20|27.71.130.193|16000|Vietnam|Đưc Trọng|Viettel Group|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|113.22.205.83|16000|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|13|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|15|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|16|27.79.222.167|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|116.103.93.153|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|188.225.33.99|8382|Russia|St Petersburg|TimeWeb LLC|
+|19|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
