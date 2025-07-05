@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|3.72.40.248|50202|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|8|54.168.197.42|18411|Japan|Tokyo|Amazon Technologies Inc.|
-|9|193.151.141.17|8080|Iran|Tehran|IR-AT|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|12|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|13|43.199.163.10|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|14|116.103.26.249|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|3.10.207.94|8000|United Kingdom|London|Amazon Technologies Inc.|
-|16|43.216.250.248|23218|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|200.25.254.193|54240|Colombia|Puerto Nariño|Anditel S.A.S.|
-|19|43.216.75.140|42761|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|20|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|6|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|193.151.141.17|8080|Iran|Tehran|IR-AT|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|43.199.163.10|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|11|3.126.92.60|29|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|12|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|13|16.26.88.4|28095|Australia|Melbourne|Amazon.com, Inc.|
+|14|52.78.241.34|20134|South Korea|Seoul|Amazon Technologies Inc.|
+|15|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|16|3.26.174.5|18609|Australia|Sydney|Amazon Technologies Inc.|
+|17|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|18|13.221.134.55|3128|United States|Ashburn|Amazon.com, Inc.|
+|19|54.168.197.42|18411|Japan|Tokyo|Amazon Technologies Inc.|
+|20|103.97.140.163|8085|Indonesia|Jakarta|PT Jembatan Data Pangrango|
 
 
 
