@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|23.94.43.196|1080|United States|Seattle|HostPapa|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|7|115.77.2.112|12027|Vietnam|Can Tho|Viettel Group|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|23.94.43.196|1080|United States|Seattle|HostPapa|
-|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|12|3.126.92.60|29|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|23.237.210.82|80|United States|Houston|FDCservers.net|
-|17|13.221.134.55|3128|United States|Ashburn|Amazon.com, Inc.|
-|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|19|3.72.40.248|50202|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|20|18.100.217.180|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|9|42.117.168.116|16000|Vietnam|Hanoi|FPT Telecom Company|
+|10|115.77.2.112|12027|Vietnam|Can Tho|Viettel Group|
+|11|27.79.183.5|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|13|176.108.240.201|56246|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|14|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|15|200.25.254.193|54240|Colombia|Puerto Nariño|Anditel S.A.S.|
+|16|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|36.82.205.64|3128|Indonesia|Surabaya|PT. TELKOM INDONESIA|
+|19|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
+|20|52.78.241.34|20134|South Korea|Seoul|Amazon Technologies Inc.|
 
 
 
