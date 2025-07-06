@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|182.253.109.26|8080|Indonesia|Semarang|Biznet Metronet|
-|7|152.53.166.49|8888|United States|Manassas|netcup GmbH|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|12|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
-|13|3.72.40.248|50202|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|43.153.114.126|3128|United States|Santa Clara|Aceville Pte.ltd|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|182.253.109.26|8080|Indonesia|Semarang|Biznet Metronet|
+|8|176.108.240.201|56246|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
+|14|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
 |15|41.248.145.67|39811|Morocco|Rabat|ADSL Maroc telecom|
-|16|176.108.240.201|56246|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|17|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|18|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|19|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|20|193.151.141.17|8080|Iran|Tehran|IR-AT|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
+|18|193.151.141.17|8080|Iran|Tehran|IR-AT|
+|19|92.58.181.171|1194|Spain|Madrid|UNI2|
+|20|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
 
 
 
