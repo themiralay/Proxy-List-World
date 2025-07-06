@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|2|116.106.176.253|12027|Vietnam|Biên Hòa|Viettel Corporation|
-|3|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|152.53.166.49|8888|United States|Manassas|netcup GmbH|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|54.144.135.186|8080|United States|Ashburn|Amazon Technologies Inc.|
-|11|182.253.109.26|8080|Indonesia|Semarang|Biznet Metronet|
-|12|118.71.116.112|16000|Vietnam|Vĩnh Yên|Vietnam Internet Network Information Center|
-|13|54.144.135.186|8080|United States|Ashburn|Amazon Technologies Inc.|
-|14|54.144.145.241|8080|United States|Ashburn|Amazon Technologies Inc.|
-|15|116.108.129.166|4003|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|16|54.144.145.241|8080|United States|Ashburn|Amazon Technologies Inc.|
-|17|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|18|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
-|20|42.117.168.116|16000|Vietnam|Hanoi|FPT Telecom Company|
+|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|3|116.106.176.253|12027|Vietnam|Biên Hòa|Viettel Corporation|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
+|8|182.253.109.26|8080|Indonesia|Semarang|Biznet Metronet|
+|9|54.144.135.186|8080|United States|Ashburn|Amazon Technologies Inc.|
+|10|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|11|54.144.145.241|8080|United States|Ashburn|Amazon Technologies Inc.|
+|12|152.53.166.49|8888|United States|Manassas|netcup GmbH|
+|13|54.144.145.241|8080|United States|Ashburn|Amazon Technologies Inc.|
+|14|54.144.135.186|8080|United States|Ashburn|Amazon Technologies Inc.|
+|15|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|16|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|20|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
 
 
 
