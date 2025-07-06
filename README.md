@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |3|23.237.210.82|80|United States|Houston|FDCservers.net|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|23.237.210.82|80|United States|Houston|FDCservers.net|
+|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|12|13.221.134.55|3128|United States|Ashburn|Amazon.com, Inc.|
-|13|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|14|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|15|3.72.40.248|50202|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|16|194.147.35.134|52120|United Kingdom|Coventry|Baykov Ilya Sergeevich|
-|17|18.60.111.249|6698|India|Hyderabad|Amazon.com, Inc.|
-|18|208.72.108.226|16088|United States|Carmel|On-Ramp Indiana, Inc.|
-|19|43.216.75.140|42761|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|20|37.27.253.44|8088|Finland|Helsinki|Hetzner Online GmbH|
+|9|23.237.210.82|80|United States|Houston|FDCservers.net|
+|10|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|11|193.151.141.17|8080|Iran|Tehran|IR-AT|
+|12|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|15|37.27.253.44|8088|Finland|Helsinki|Hetzner Online GmbH|
+|16|176.108.240.201|56246|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|34.47.158.70|3128|India|Mumbai|Google LLC|
+|19|147.75.49.154|9400|United States|San Jose|Packet Host, Inc.|
+|20|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 
 
 
