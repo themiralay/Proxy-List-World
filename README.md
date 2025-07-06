@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.189.96|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|162.240.148.177|8080|United States|Provo|Unified Layer|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|23.237.210.82|80|United States|Houston|FDCservers.net|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|1|95.135.153.191|12532|Hong Kong|Central|Sakura Clouds LLC|
+|2|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|160.248.189.96|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|162.240.148.177|8080|United States|Provo|Unified Layer|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|162.240.148.177|8080|United States|Provo|Unified Layer|
-|11|23.237.210.82|80|United States|Houston|FDCservers.net|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|13|162.240.148.177|8080|United States|Provo|Unified Layer|
 |14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|15|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|17|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|18|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|19|176.108.240.201|56246|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|20|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|15|176.108.240.201|56246|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|16|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|17|23.237.210.82|80|United States|Houston|FDCservers.net|
+|18|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
 
 
 
