@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|2|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|6|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|7|176.108.240.201|56246|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|3|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|23.237.210.82|80|United States|Houston|FDCservers.net|
+|7|103.175.231.96|10001|Indonesia|Bogor|MYREPUBLIC|
 |8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|152.53.166.49|8888|United States|Manassas|netcup GmbH|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|213.226.119.120|4857|Turkey|Istanbul|Mehmet Selim Sahin|
-|13|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|15|18.100.217.180|3128|Spain|Zaragoza|Amazon Technologies Inc.|
-|16|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
-|17|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|18|41.249.85.227|39811|Morocco|Rabat|ADSL Maroc telecom|
+|9|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
+|10|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|11|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|46.39.105.251|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|13|41.249.85.227|39811|Morocco|Rabat|ADSL Maroc telecom|
+|14|176.108.240.201|56246|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|15|133.242.172.210|3128|Japan|Chiyoda|SAKURA Internet Inc.|
+|16|194.4.49.128|10808|France|Paris|PQ HOSTING PLUS S.R.L.|
+|17|23.237.210.82|80|United States|Houston|FDCservers.net|
+|18|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
 |19|193.151.141.17|8080|Iran|Tehran|IR-AT|
-|20|194.4.49.128|10808|France|Paris|PQ HOSTING PLUS S.R.L.|
+|20|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
 
 
 
