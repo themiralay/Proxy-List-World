@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|194.4.49.128|10808|France|Paris|PQ HOSTING PLUS S.R.L.|
-|8|46.39.105.251|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|9|203.175.127.240|8080|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
-|10|23.237.210.82|80|United States|Houston|FDCservers.net|
-|11|124.83.101.145|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|12|65.108.145.212|8080|Finland|Helsinki|Hetzner Online GmbH|
-|13|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|14|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|15|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|16|18.60.111.249|6698|India|Hyderabad|Amazon.com, Inc.|
-|17|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|193.151.141.17|8080|Iran|Tehran|IR-AT|
-|20|105.225.53.124|3128|South Africa|Hartbeespoort|Telkom SA Ltd|
+|5|95.135.153.191|12532|Hong Kong|Central|Sakura Clouds LLC|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|124.83.101.145|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|157.20.252.222|8082|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
+|10|65.108.145.212|8080|Finland|Helsinki|Hetzner Online GmbH|
+|11|3.72.40.248|50202|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|12|18.60.111.249|6698|India|Hyderabad|Amazon.com, Inc.|
+|13|185.200.38.53|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|14|103.247.13.131|8080|Indonesia|Godean|TERABIT|
+|15|41.203.213.211|8105|Kenya|Nairobi|Safaricom Limited|
+|16|41.249.85.227|39811|Morocco|Rabat|ADSL Maroc telecom|
+|17|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|18|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|19|94.136.186.241|3128|India|Mumbai|Contabo Asia Private Limited|
+|20|13.208.43.139|3128|Japan|Osaka|Amazon Technologies Inc.|
 
 
 
