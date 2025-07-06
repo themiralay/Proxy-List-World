@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
+|1|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|3.36.29.105|3128|South Korea|Seoul|Amazon.com, Inc.|
 |4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|116.106.176.253|12027|Vietnam|Biên Hòa|Viettel Corporation|
-|8|171.234.116.173|5168|Vietnam|Vĩnh Tường|Viettel Corporation|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|103.195.65.199|8080|Indonesia|Purbalingga|PT Perwira Pedjoeang Nusantara|
-|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|176.108.240.201|56246|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|171.234.116.173|5168|Vietnam|Vĩnh Tường|Viettel Corporation|
+|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|116.106.176.253|12027|Vietnam|Biên Hòa|Viettel Corporation|
 |15|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|103.42.118.29|8080|Indonesia|Batam|PT Kusuma Dinatha Jaya Abadi|
-|18|13.221.134.55|3128|United States|Ashburn|Amazon.com, Inc.|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|43.216.75.140|42761|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|18|176.108.240.201|56246|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|19|43.216.250.248|23218|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|20|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
