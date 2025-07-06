@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|3|160.248.189.96|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
-|4|95.135.153.191|12532|Hong Kong|Central|Sakura Clouds LLC|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|7|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|1|160.248.189.96|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|95.135.153.191|12532|Hong Kong|Central|Sakura Clouds LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|160.25.245.8|8080|Indonesia|Ngawi|PT Jaringan Kita Bersama|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|23.237.210.82|80|United States|Houston|FDCservers.net|
 |9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|10|42.117.168.116|16000|Vietnam|Hanoi|FPT Telecom Company|
-|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|12|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|13|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|160.19.19.99|8989|Indonesia|Ploso|PT Indo Telemedia Solusi|
-|16|23.237.210.82|80|United States|Houston|FDCservers.net|
-|17|23.237.210.82|80|United States|Houston|FDCservers.net|
-|18|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
-|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
+|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|11|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
+|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|13|23.237.210.82|80|United States|Houston|FDCservers.net|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
+|16|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|17|13.221.134.55|3128|United States|Ashburn|Amazon.com, Inc.|
+|18|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|19|115.77.2.112|12027|Vietnam|Can Tho|Viettel Group|
+|20|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
 
 
 
