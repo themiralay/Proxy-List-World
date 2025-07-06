@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|1|95.135.153.191|12532|Hong Kong|Central|Sakura Clouds LLC|
 |2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
 |4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|103.169.128.133|8080|Indonesia|Cirebon|PT Media Akses Data|
 |7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|9|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|12|23.237.210.82|80|United States|Houston|FDCservers.net|
-|13|176.108.240.201|56246|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|14|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|15|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|162.240.148.177|8080|United States|Provo|Unified Layer|
-|17|18.203.249.67|10010|Ireland|Dublin|Amazon Technologies Inc.|
-|18|1.54.238.245|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|20|116.110.245.62|9002|Vietnam|Điện Bàn|Viettel Corporation|
+|8|152.53.166.49|8888|United States|Manassas|netcup GmbH|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|23.237.210.82|80|United States|Houston|FDCservers.net|
+|11|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|14|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
+|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|16|23.237.210.82|80|United States|Houston|FDCservers.net|
+|17|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|194.147.35.134|52120|United Kingdom|Coventry|Baykov Ilya Sergeevich|
+|20|162.240.148.177|8080|United States|Provo|Unified Layer|
 
 
 
