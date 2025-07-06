@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|1|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|176.108.240.201|56246|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|12|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|13|18.101.7.10|3128|Spain|Zaragoza|Amazon Technologies Inc.|
-|14|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|17|98.130.47.34|3128|India|Hyderabad|Amazon.com|
-|18|103.36.11.35|8080|Indonesia|Cilegon|PT Awinet Global Mandiri|
-|19|51.84.110.224|3128|Israel|Tel Aviv|Amazon.com, Inc.|
-|20|3.27.237.252|3128|Australia|Sydney|Amazon Technologies Inc.|
+|11|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|12|176.108.240.201|56246|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|13|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|14|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|15|98.130.47.34|3128|India|Hyderabad|Amazon.com|
+|16|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|17|18.101.7.10|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|18|193.151.141.17|8080|Iran|Tehran|IR-AT|
+|19|13.245.30.86|3128|South Africa|Johannesburg|Amazon.com, Inc.|
+|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
