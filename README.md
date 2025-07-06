@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.189.95|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|2|160.248.189.95|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
 |3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|5|95.135.153.191|12532|Hong Kong|Central|Sakura Clouds LLC|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|223.206.79.219|8080|Thailand|Ko Samui|Triple T Broadband Public Company Limited|
-|8|160.191.167.216|39212|Vietnam|Ho Chi Minh City|Huy Hoang Electronics and Telecommunications Company Limited|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|115.77.2.112|12027|Vietnam|Can Tho|Viettel Group|
-|12|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|15|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
-|16|176.108.240.201|56246|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|17|113.22.78.154|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|18|103.169.254.101|6080|Indonesia|Curahjati|PT Master Star Network|
-|19|160.22.64.16|2022|Indonesia|Babat|Lintas Data Prima, PT|
-|20|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|115.77.2.112|12027|Vietnam|Can Tho|Viettel Group|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|12|95.135.153.191|12532|Hong Kong|Central|Sakura Clouds LLC|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
+|15|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
+|16|35.179.146.181|3128|United Kingdom|London|Amazon Technologies Inc.|
+|17|128.90.43.125|8118|Canada|Toronto|Paradise Networks LLC|
+|18|176.108.240.201|56246|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|19|160.191.167.216|39212|Vietnam|Ho Chi Minh City|Huy Hoang Electronics and Telecommunications Company Limited|
+|20|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
 
 
 
