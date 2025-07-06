@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|42.117.168.115|16000|Vietnam|Hanoi|FPT Telecom Company|
-|2|1.52.196.3|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|3|116.106.176.253|12027|Vietnam|Biên Hòa|Viettel Corporation|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|116.106.176.253|12027|Vietnam|Biên Hòa|Viettel Corporation|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|182.253.109.26|8080|Indonesia|Semarang|Biznet Metronet|
-|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|12|43.153.114.126|3128|United States|Santa Clara|Aceville Pte.ltd|
-|13|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|15|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|16|27.79.247.67|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|182.253.109.26|8080|Indonesia|Semarang|Biznet Metronet|
+|8|152.53.166.49|8888|United States|Manassas|netcup GmbH|
+|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|12|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
+|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|14|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|16|41.248.145.67|39811|Morocco|Rabat|ADSL Maroc telecom|
 |17|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|45.136.198.40|3128|Bulgaria|Sofia|Managed by IROKO Networks|
-|20|41.248.145.67|39811|Morocco|Rabat|ADSL Maroc telecom|
+|18|45.136.198.40|3128|Bulgaria|Sofia|Managed by IROKO Networks|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|181.23.248.61|3128|Argentina|Buenos Aires|Telefonica de Argentina|
 
 
 
