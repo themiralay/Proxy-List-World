@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|103.169.128.133|8080|Indonesia|Cirebon|PT Media Akses Data|
-|10|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|15|108.136.149.20|25505|Indonesia|Jakarta|Amazon.com, Inc.|
-|16|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
-|17|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
-|18|49.156.44.117|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|19|3.27.237.252|3128|Australia|Sydney|Amazon Technologies Inc.|
-|20|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|23.237.210.82|80|United States|Houston|FDCservers.net|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|23.237.210.82|80|United States|Houston|FDCservers.net|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|10|116.106.176.253|12027|Vietnam|Biên Hòa|Viettel Corporation|
+|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|12|27.79.222.213|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
+|14|103.156.118.104|8080|Indonesia|Jakarta|MYREPUBLIC|
+|15|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|18|3.126.92.60|29|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|19|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|222.228.171.92|8080|Japan|Nishiikebukuro|ARTERIA Networks Corporation|
 
 
 
