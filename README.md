@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|95.135.153.191|12532|Hong Kong|Central|Sakura Clouds LLC|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|160.248.189.96|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 |4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|162.240.148.177|8080|United States|Provo|Unified Layer|
-|10|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|11|23.237.210.82|80|United States|Houston|FDCservers.net|
-|12|162.240.148.177|8080|United States|Provo|Unified Layer|
-|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|14|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|15|115.77.2.112|12027|Vietnam|Can Tho|Viettel Group|
-|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|10|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|11|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|14|115.77.2.112|12027|Vietnam|Can Tho|Viettel Group|
+|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|98.130.47.34|3128|India|Hyderabad|Amazon.com|
+|17|176.108.240.201|56246|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
 |18|3.126.92.60|29|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|19|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|20|18.60.111.249|6698|India|Hyderabad|Amazon.com, Inc.|
+|19|23.237.210.82|80|United States|Houston|FDCservers.net|
+|20|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
 
 
 
