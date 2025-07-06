@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|95.135.153.191|12532|Hong Kong|Central|Sakura Clouds LLC|
+|1|171.237.125.122|1007|Vietnam|Ninh Bình|Viettel Corporation|
 |2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|213.226.119.120|4857|Turkey|Istanbul|Mehmet Selim Sahin|
-|13|23.237.210.82|80|United States|Houston|FDCservers.net|
+|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|116.110.245.62|9002|Vietnam|Điện Bàn|Viettel Corporation|
+|12|23.237.210.82|80|United States|Houston|FDCservers.net|
+|13|193.151.141.17|8080|Iran|Tehran|IR-AT|
 |14|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|15|116.110.245.62|9002|Vietnam|Điện Bàn|Viettel Corporation|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|43.129.77.105|8080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|16|1.2.176.177|8080|Thailand|Bangkok|TOT Public Company Limited|
 |17|162.240.148.177|8080|United States|Provo|Unified Layer|
-|18|108.136.149.20|25505|Indonesia|Jakarta|Amazon.com, Inc.|
-|19|118.71.116.112|16000|Vietnam|Vĩnh Yên|Vietnam Internet Network Information Center|
-|20|64.157.16.82|8080|United States|Francesville|Level 3|
+|18|157.20.252.221|8083|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
+|19|176.108.240.201|56246|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|20|213.226.119.120|4857|Turkey|Istanbul|Mehmet Selim Sahin|
 
 
 
