@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|2|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|35.179.146.181|3128|United Kingdom|London|Amazon Technologies Inc.|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
-|13|51.84.110.224|3128|Israel|Tel Aviv|Amazon.com, Inc.|
-|14|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|15|43.129.77.105|8080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|16|176.108.240.201|56246|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|17|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|18|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|19|43.216.75.140|42761|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|20|116.106.176.253|12027|Vietnam|Biên Hòa|Viettel Corporation|
+|7|202.137.14.57|8085|Indonesia|Bekasi|customer in Corporate Access|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|10|176.108.240.201|56246|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|11|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|12|43.129.77.105|8080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|13|43.216.75.140|42761|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|14|13.221.134.55|3128|United States|Ashburn|Amazon.com, Inc.|
+|15|180.191.59.119|8086|Philippines|Tarlac City|Globe Telecom|
+|16|54.168.197.42|18411|Japan|Tokyo|Amazon Technologies Inc.|
+|17|35.152.137.65|26038|Italy|Milan|Amazon.com, Inc.|
+|18|14.186.61.187|10058|Vietnam|Ho Chi Minh City|VNPT|
+|19|152.53.166.49|8888|United States|Manassas|netcup GmbH|
+|20|92.58.181.171|1194|Spain|Madrid|UNI2|
 
 
 
