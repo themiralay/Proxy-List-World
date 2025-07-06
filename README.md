@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|4|47.239.48.114|59394|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
 |6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|176.108.240.201|56246|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|13|18.203.249.67|10010|Ireland|Dublin|Amazon Technologies Inc.|
+|7|43.153.114.126|3128|United States|Santa Clara|Aceville Pte.ltd|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|12|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|13|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
 |14|108.136.149.20|25505|Indonesia|Jakarta|Amazon.com, Inc.|
-|15|193.151.141.17|8080|Iran|Tehran|IR-AT|
-|16|13.221.134.55|3128|United States|Ashburn|Amazon.com, Inc.|
-|17|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|18|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|19|98.130.47.34|3128|India|Hyderabad|Amazon.com|
-|20|113.22.78.154|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|15|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|16|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|17|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|18|103.180.123.107|8085|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|20|13.221.134.55|3128|United States|Ashburn|Amazon.com, Inc.|
 
 
 
