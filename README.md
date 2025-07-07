@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |2|47.76.76.56|8888|Hong Kong|Hong Kong|Alibaba Cloud LLC|
 |3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|5|14.181.51.25|1001|Vietnam|Nam Định|VNPT|
 |6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|10|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|27.71.130.193|16000|Vietnam|Đưc Trọng|Viettel Group|
-|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |14|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|15|23.237.210.82|80|United States|Houston|FDCservers.net|
-|16|54.168.197.42|18411|Japan|Tokyo|Amazon Technologies Inc.|
+|15|103.175.231.96|10001|Indonesia|Bogor|MYREPUBLIC|
+|16|193.151.141.17|8080|Iran|Tehran|IR-AT|
 |17|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|18|103.81.194.17|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|19|118.71.116.112|16000|Vietnam|Vĩnh Yên|Vietnam Internet Network Information Center|
-|20|105.225.53.124|3128|South Africa|Hartbeespoort|Telkom SA Ltd|
+|18|23.237.210.82|80|United States|Houston|FDCservers.net|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
