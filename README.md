@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **76356** proxies at the latest update. Usable proxies are below.
+> Scraper found **76342** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36442|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36428|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|120|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38568|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|4|8.219.188.145|8118|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|23.237.210.82|80|United States|Houston|FDCservers.net|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|18.203.249.67|10010|Ireland|Dublin|Amazon Technologies Inc.|
-|8|152.53.166.49|8888|United States|Manassas|netcup GmbH|
-|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
-|11|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
-|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|13|23.237.210.82|80|United States|Houston|FDCservers.net|
-|14|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|17|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
-|18|128.199.23.21|3128|India|Bengaluru|DigitalOcean, LLC|
-|19|65.108.145.212|8017|Finland|Helsinki|Hetzner Online GmbH|
-|20|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
+|10|23.237.210.82|80|United States|Houston|FDCservers.net|
+|11|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|193.151.141.17|8080|Iran|Tehran|IR-AT|
+|15|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
+|16|176.105.220.74|3129|Ukraine|Kremenchug|NPK Home-Net Ltd.|
+|17|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|18|37.27.253.44|8099|Finland|Helsinki|Hetzner Online GmbH|
+|19|75.119.141.8|7788|Germany|Düsseldorf|BroadbandONE|
+|20|60.174.167.40|4999|China|Hefei|Chinanet|
 
 
 
