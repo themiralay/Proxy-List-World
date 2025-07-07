@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
 |2|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|1.52.196.63|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|116.96.84.111|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|27.79.249.194|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|27.79.170.169|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|11|27.79.206.120|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|118.71.95.83|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|14|27.79.238.143|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
-|16|27.79.232.119|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|193.151.141.17|8080|Iran|Tehran|IR-AT|
-|18|54.193.116.236|8999|United States|San Jose|Amazon.com, Inc.|
-|19|27.79.142.168|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|116.103.91.224|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|5|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|6|27.79.206.120|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|27.76.9.187|10001|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|9|27.79.169.136|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|27.79.235.173|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|27.79.238.143|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|116.96.84.111|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|14|193.151.141.17|8080|Iran|Tehran|IR-AT|
+|15|1.52.196.63|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|16|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|17|14.225.210.186|3129|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|18|160.248.189.95|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
+|19|171.237.82.169|1005|Vietnam|Hanoi|Viettel Corporation|
+|20|59.47.238.4|8088|China|Benxi|CHINATELECOM Liaoning Benxi MAN|
 
 
 
