@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
-|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|54.168.197.42|18411|Japan|Tokyo|Amazon Technologies Inc.|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|3|128.199.23.21|3128|India|Bengaluru|DigitalOcean, LLC|
+|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|27.79.237.79|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|11|193.151.141.17|8080|Iran|Tehran|IR-AT|
-|12|18.203.249.67|10010|Ireland|Dublin|Amazon Technologies Inc.|
-|13|103.82.133.131|8888|India|Faridabad|Cloudfly Corporation|
-|14|23.237.210.82|80|United States|Houston|FDCservers.net|
-|15|35.152.137.65|26038|Italy|Milan|Amazon.com, Inc.|
-|16|105.225.53.124|3128|South Africa|Hartbeespoort|Telkom SA Ltd|
-|17|116.99.44.247|4001|Vietnam|Hanoi|Viettel Corporation|
-|18|23.237.210.82|80|United States|Houston|FDCservers.net|
+|8|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
+|9|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
+|10|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|11|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|12|194.4.49.128|10808|France|Paris|PQ HOSTING PLUS S.R.L.|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|105.225.53.124|3128|South Africa|Hartbeespoort|Telkom SA Ltd|
+|15|23.237.210.82|80|United States|Houston|FDCservers.net|
+|16|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
+|17|147.75.49.154|9400|United States|San Jose|Packet Host, Inc.|
+|18|147.75.49.154|9400|United States|San Jose|Packet Host, Inc.|
 |19|201.174.239.25|8080|Mexico|General Escobedo|Transtelco Inc|
-|20|147.75.49.154|9401|United States|San Jose|Packet Host, Inc.|
+|20|182.253.109.19|8080|Indonesia|Semarang|Biznet Metronet|
 
 
 
