@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|23.237.210.82|80|United States|Houston|FDCservers.net|
+|1|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|4|27.79.249.194|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|23.237.210.82|80|United States|Houston|FDCservers.net|
 |6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|7|152.53.166.49|8888|United States|Manassas|netcup GmbH|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |9|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|12|27.79.232.119|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|3.133.142.76|52195|United States|Dublin|Amazon.com, Inc.|
-|14|152.53.166.49|8888|United States|Manassas|netcup GmbH|
-|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|16|1.54.82.148|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|17|37.27.253.44|8035|Finland|Helsinki|Hetzner Online GmbH|
-|18|116.96.83.119|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|20|47.88.18.204|8023|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|12|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|13|1.52.196.63|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|14|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|15|27.79.232.119|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|202.154.18.160|8084|Indonesia|Babat|DIGITNET|
+|17|3.133.142.76|52195|United States|Dublin|Amazon.com, Inc.|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|27.79.206.120|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|105.225.53.124|3128|South Africa|Hartbeespoort|Telkom SA Ltd|
 
 
 
