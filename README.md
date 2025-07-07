@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|152.53.166.49|8888|United States|Manassas|netcup GmbH|
-|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|4|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|23.237.210.82|80|United States|Houston|FDCservers.net|
 |8|23.237.210.82|80|United States|Houston|FDCservers.net|
-|9|23.237.210.82|80|United States|Houston|FDCservers.net|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|13|18.203.249.67|10010|Ireland|Dublin|Amazon Technologies Inc.|
-|14|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|9|152.53.166.49|8888|United States|Manassas|netcup GmbH|
+|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|14|193.151.141.17|8080|Iran|Tehran|IR-AT|
 |15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|41.249.85.227|39811|Morocco|Rabat|ADSL Maroc telecom|
-|17|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|18|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|19|103.38.102.142|8080|Indonesia|Kroya|LAXONET|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|116.96.83.119|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|20|27.79.188.93|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
