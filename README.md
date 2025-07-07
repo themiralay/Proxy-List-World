@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|2|27.79.212.250|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|171.237.116.177|1004|Vietnam|Ninh Bình|Viettel Corporation|
-|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|6|27.79.206.128|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|1.54.82.24|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|27.79.230.76|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|42.117.243.98|16000|Vietnam|Hanoi|FPT Telecom Company|
-|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|46.39.105.251|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|18|35.152.137.65|26038|Italy|Milan|Amazon.com, Inc.|
-|19|42.118.1.229|16000|Vietnam|Hanoi|FPT Telecom Company|
-|20|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|47.76.76.56|8888|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|1.52.197.197|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|12|46.39.105.251|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|54.168.197.42|18411|Japan|Tokyo|Amazon Technologies Inc.|
+|17|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
+|18|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|19|54.193.116.236|8999|United States|San Jose|Amazon.com, Inc.|
+|20|115.74.6.92|10008|Vietnam|Vũng Tàu|VIETELxdsl|
 
 
 
