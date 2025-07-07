@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|4|23.237.210.82|80|United States|Houston|FDCservers.net|
-|5|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
-|6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
-|9|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|152.53.166.49|8888|United States|Manassas|netcup GmbH|
-|13|54.168.197.42|18411|Japan|Tokyo|Amazon Technologies Inc.|
-|14|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|2|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|5|23.237.210.82|80|United States|Houston|FDCservers.net|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|152.53.166.49|8888|United States|Manassas|netcup GmbH|
+|10|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
+|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|12|23.237.210.82|80|United States|Houston|FDCservers.net|
+|13|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|14|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
 |15|27.79.188.93|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|17|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|18|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|19|65.108.145.212|8017|Finland|Helsinki|Hetzner Online GmbH|
-|20|103.132.52.32|8080|Indonesia|Banjarnegara|PT Adeaksa Indo Jayatama|
+|16|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
+|17|54.193.116.236|8999|United States|San Jose|Amazon.com, Inc.|
+|18|65.108.145.212|8017|Finland|Helsinki|Hetzner Online GmbH|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|105.225.53.124|3128|South Africa|Hartbeespoort|Telkom SA Ltd|
 
 
 
