@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|42.112.96.169|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|1|1.54.73.43|16000|Vietnam|Hanoi|FPT Telecom Company|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|182.253.109.19|8080|Indonesia|Semarang|Biznet Metronet|
-|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|5|23.237.210.82|80|United States|Houston|FDCservers.net|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|23.237.210.82|80|United States|Houston|FDCservers.net|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|27.79.212.250|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|152.53.166.49|8888|United States|Manassas|netcup GmbH|
-|13|103.13.234.18|8080|Indonesia|Sintang|PT PT Disafa Cahaya Utama|
-|14|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
-|15|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|16|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|17|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|27.79.236.133|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|193.151.141.17|8080|Iran|Tehran|IR-AT|
+|3|42.118.0.18|16000|Vietnam|Hanoi|FPT Telecom Company|
+|4|1.54.54.164|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|5|1.54.76.120|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|27.79.212.250|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|42.112.189.179|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|182.253.109.19|8080|Indonesia|Semarang|Biznet Metronet|
+|10|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|11|152.53.166.49|8888|United States|Manassas|netcup GmbH|
+|12|23.237.210.82|80|United States|Houston|FDCservers.net|
+|13|42.112.96.169|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|14|1.54.54.165|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|15|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|16|43.129.77.105|8080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|17|23.237.210.82|80|United States|Houston|FDCservers.net|
+|18|42.117.168.125|16000|Vietnam|Hanoi|FPT Telecom Company|
+|19|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 
 
 
