@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|2|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
-|9|185.244.149.206|1080|Romania|Bucharest|HostSailor|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|23.237.210.82|80|United States|Houston|FDCservers.net|
-|12|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|13|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|14|35.152.137.65|26038|Italy|Milan|Amazon.com, Inc.|
+|1|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|4|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|7|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|10|23.237.210.82|80|United States|Houston|FDCservers.net|
+|11|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
 |15|54.193.116.236|8999|United States|San Jose|Amazon.com, Inc.|
-|16|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|17|85.206.93.105|8080|Lithuania|Kaunas|Telia Lietuva|
-|18|193.151.141.17|8080|Iran|Tehran|IR-AT|
-|19|23.237.210.82|80|United States|Houston|FDCservers.net|
-|20|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|193.151.141.17|8080|Iran|Tehran|IR-AT|
+|18|35.152.137.65|26038|Italy|Milan|Amazon.com, Inc.|
+|19|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
+|20|37.27.253.44|8063|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
