@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.212.250|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|27.79.230.76|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|27.79.235.221|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|58.186.163.18|16000|Vietnam|Hanoi|FPT Telecom Company|
-|5|27.79.235.173|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|58.187.71.87|16000|Vietnam|Hanoi|FPT Telecom Company|
-|7|42.118.1.229|16000|Vietnam|Hanoi|FPT Telecom Company|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|42.117.243.98|16000|Vietnam|Hanoi|FPT Telecom Company|
-|14|1.54.82.24|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|15|27.79.206.128|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|17|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|19|1.54.172.2|16000|Vietnam|Hanoi|FPT Telecom Company|
-|20|27.79.177.80|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|47.76.76.56|8888|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|5|1.54.172.240|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|1.54.54.164|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|9|42.118.1.229|16000|Vietnam|Hanoi|FPT Telecom Company|
+|10|27.79.218.64|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|42.112.189.179|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|13|16.63.160.161|36308|Switzerland|Zurich|Amazon.com, Inc.|
+|14|46.39.105.251|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|15|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|16|43.129.77.105|8080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|17|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|18|3.133.142.76|52195|United States|Dublin|Amazon.com, Inc.|
+|19|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
+|20|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
 
 
 
