@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|2|1.54.73.43|16000|Vietnam|Hanoi|FPT Telecom Company|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|209.121.164.51|31147|Canada|Burnaby|TELUS Communications Inc.|
-|5|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|1.54.76.120|16000|Vietnam|Hanoi|FPT Telecom Company|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|1|1.54.172.240|16000|Vietnam|Hanoi|FPT Telecom Company|
+|2|116.96.83.119|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|42.112.96.169|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|4|171.228.83.238|1008|Vietnam|Hòa Bình|Viettel Corporation|
+|5|58.187.70.115|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|42.117.168.125|16000|Vietnam|Hanoi|FPT Telecom Company|
+|7|27.79.235.173|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|118.71.95.83|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|9|1.54.54.164|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
 |10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|11|27.79.235.173|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|13|1.54.54.163|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|18|1.54.172.2|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|20|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|11|1.53.70.213|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|12|58.186.163.18|16000|Vietnam|Hanoi|FPT Telecom Company|
+|13|42.118.1.229|16000|Vietnam|Hanoi|FPT Telecom Company|
+|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|15|1.54.54.163|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|16|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|18|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|19|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|20|27.79.194.106|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
