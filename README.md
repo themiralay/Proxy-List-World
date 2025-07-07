@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.237.210.82|80|United States|Houston|FDCservers.net|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|182.253.109.19|8080|Indonesia|Semarang|Biznet Metronet|
-|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|152.53.166.49|8888|United States|Manassas|netcup GmbH|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|1|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|2|129.150.39.242|8118|Singapore|Singapore|Oracle Corporation|
+|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|182.253.109.19|8080|Indonesia|Semarang|Biznet Metronet|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|152.53.166.49|8888|United States|Manassas|netcup GmbH|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|12|41.249.85.227|39811|Morocco|Rabat|ADSL Maroc telecom|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|15|54.153.245.211|80|Australia|Sydney|Amazon.com, Inc.|
-|16|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
-|17|1.54.76.120|16000|Vietnam|Hanoi|FPT Telecom Company|
-|18|115.72.3.192|10023|Vietnam|Vũng Tàu|VIETELmetro|
-|19|103.227.186.68|6080|Indonesia|Siderejo|PT Master Star Network|
-|20|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|14|41.249.85.227|39811|Morocco|Rabat|ADSL Maroc telecom|
+|15|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|16|181.23.248.61|3128|Argentina|Buenos Aires|Telefonica de Argentina|
+|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|116.106.176.253|12027|Vietnam|Biên Hòa|Viettel Corporation|
+|19|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|20|193.151.141.17|8080|Iran|Tehran|IR-AT|
 
 
 
