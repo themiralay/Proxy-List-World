@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.81.191|3128|Japan|Chiyoda|InfoSphere|
-|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|1.54.73.43|16000|Vietnam|Hanoi|FPT Telecom Company|
-|6|1.54.82.24|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|9|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|1.54.54.165|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|1.54.82.24|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|1.54.73.43|16000|Vietnam|Hanoi|FPT Telecom Company|
 |10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|12|1.54.172.240|16000|Vietnam|Hanoi|FPT Telecom Company|
-|13|118.71.95.83|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|14|27.79.212.250|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|27.79.177.80|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|196.217.109.135|39811|Morocco|Salé|IP ADSL MarocTelecom|
-|17|27.79.236.133|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|35.152.137.65|26038|Italy|Milan|Amazon.com, Inc.|
-|19|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|20|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|11|118.71.95.83|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|12|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|13|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|14|1.54.172.2|16000|Vietnam|Hanoi|FPT Telecom Company|
+|15|196.217.109.135|39811|Morocco|Salé|IP ADSL MarocTelecom|
+|16|42.117.243.98|16000|Vietnam|Hanoi|FPT Telecom Company|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|20|193.151.141.17|8080|Iran|Tehran|IR-AT|
 
 
 
