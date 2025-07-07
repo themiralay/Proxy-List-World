@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|3|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|4|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|5|152.53.166.49|8888|United States|Manassas|netcup GmbH|
-|6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|23.237.210.82|80|United States|Houston|FDCservers.net|
-|8|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|9|23.237.210.82|80|United States|Houston|FDCservers.net|
-|10|58.186.92.28|16000|Vietnam|Hanoi|FPT Telecom Company|
-|11|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
-|12|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
-|13|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
-|14|54.168.197.42|18411|Japan|Tokyo|Amazon Technologies Inc.|
-|15|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|18|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|19|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|20|75.119.141.8|7788|Germany|Düsseldorf|BroadbandONE|
+|3|23.237.210.82|80|United States|Houston|FDCservers.net|
+|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|23.237.210.82|80|United States|Houston|FDCservers.net|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|9|152.53.166.49|8888|United States|Manassas|netcup GmbH|
+|10|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
+|11|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|12|116.96.83.119|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|116.96.84.111|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|18.203.249.67|10010|Ireland|Dublin|Amazon Technologies Inc.|
+|15|35.152.137.65|26038|Italy|Milan|Amazon.com, Inc.|
+|16|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
+|19|182.253.7.146|8180|Indonesia|Batam|Biznet Networks|
+|20|103.175.231.96|10001|Indonesia|Bogor|MYREPUBLIC|
 
 
 
