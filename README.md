@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|1.54.76.120|16000|Vietnam|Hanoi|FPT Telecom Company|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
 |4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|6|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|7|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
-|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|13|222.127.239.41|8082|Philippines|Lahug|GLBB|
-|14|103.125.39.93|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
-|15|193.151.141.17|8080|Iran|Tehran|IR-AT|
-|16|105.225.53.124|3128|South Africa|Hartbeespoort|Telkom SA Ltd|
-|17|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|18|47.76.76.56|8888|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|19|103.247.13.203|8090|Indonesia|Sangkalputung|TERABIT|
-|20|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|5|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|7|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|8|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|11|222.127.239.41|8082|Philippines|Lahug|GLBB|
+|12|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|13|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|14|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|15|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|16|108.136.149.20|25505|Indonesia|Jakarta|Amazon.com, Inc.|
+|17|202.137.122.4|8082|Philippines|Davao City|DC Tech Micro Services Inc.|
+|18|38.7.18.156|999|Mexico|Apatzingán|Internet Telefonia Y TV De Michoacan SA De CV|
+|19|47.176.240.250|4228|United States|Pomona|Frontier Communications of America, Inc.|
+|20|45.184.103.110|999|Venezuela|Valencia|PRINTER-NET-SERVICE, C.A.|
 
 
 
