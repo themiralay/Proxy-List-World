@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|1|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|6|23.237.210.82|80|United States|Houston|FDCservers.net|
-|7|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|8|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|9|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|35.152.137.65|26038|Italy|Milan|Amazon.com, Inc.|
-|13|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|14|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|152.53.166.49|8888|United States|Manassas|netcup GmbH|
-|17|23.237.210.82|80|United States|Houston|FDCservers.net|
-|18|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|19|182.160.105.46|14157|Bangladesh|Dhaka|Aamra Networks Limited|
-|20|105.225.53.124|3128|South Africa|Hartbeespoort|Telkom SA Ltd|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|23.237.210.82|80|United States|Houston|FDCservers.net|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|152.53.166.49|8888|United States|Manassas|netcup GmbH|
+|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|23.237.210.82|80|United States|Houston|FDCservers.net|
+|15|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|16|193.151.141.17|8080|Iran|Tehran|IR-AT|
+|17|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|18|118.175.30.26|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|19|157.15.82.118|8080|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
+|20|54.193.116.236|8999|United States|San Jose|Amazon.com, Inc.|
 
 
 
