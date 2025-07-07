@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|1|42.112.96.169|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|23.237.210.82|80|United States|Houston|FDCservers.net|
-|4|118.71.95.83|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|182.253.109.19|8080|Indonesia|Semarang|Biznet Metronet|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|23.237.210.82|80|United States|Houston|FDCservers.net|
-|9|42.117.243.98|16000|Vietnam|Hanoi|FPT Telecom Company|
-|10|103.112.53.211|6314|Bangladesh|Dhaka|Carnival Internet|
-|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|3|182.253.109.19|8080|Indonesia|Semarang|Biznet Metronet|
+|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|5|23.237.210.82|80|United States|Houston|FDCservers.net|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|23.237.210.82|80|United States|Houston|FDCservers.net|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|27.79.212.250|16000|Vietnam|Hanoi|Viettel Corporation|
 |12|152.53.166.49|8888|United States|Manassas|netcup GmbH|
-|13|58.186.163.18|16000|Vietnam|Hanoi|FPT Telecom Company|
-|14|42.118.1.229|16000|Vietnam|Hanoi|FPT Telecom Company|
-|15|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|16.63.160.161|36308|Switzerland|Zurich|Amazon.com, Inc.|
-|17|75.119.141.8|7788|Germany|Düsseldorf|BroadbandONE|
-|18|1.54.76.120|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
-|20|43.129.77.105|8080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|13|103.13.234.18|8080|Indonesia|Sintang|PT PT Disafa Cahaya Utama|
+|14|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
+|15|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|16|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|17|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|27.79.236.133|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|193.151.141.17|8080|Iran|Tehran|IR-AT|
 
 
 
