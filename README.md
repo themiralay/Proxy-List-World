@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|202.169.51.45|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
-|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|11|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|47.76.76.56|8888|Hong Kong|Hong Kong|Alibaba Cloud LLC|
+|3|209.121.164.51|31147|Canada|Burnaby|TELUS Communications Inc.|
+|4|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|14|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|15|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|16|185.244.149.206|1080|Romania|Bucharest|HostSailor|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|19|185.82.99.101|92|Lebanon|Baalbek|NET 360 S.A.R.L|
-|20|105.225.53.124|3128|South Africa|Hartbeespoort|Telkom SA Ltd|
+|13|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|18.101.7.10|3128|Spain|Zaragoza|Amazon Technologies Inc.|
+|18|35.152.137.65|26038|Italy|Milan|Amazon.com, Inc.|
+|19|105.225.53.124|3128|South Africa|Hartbeespoort|Telkom SA Ltd|
+|20|18.203.249.67|10010|Ireland|Dublin|Amazon Technologies Inc.|
 
 
 
