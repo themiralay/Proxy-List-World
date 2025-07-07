@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|3|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|5|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|6|128.199.23.21|3128|India|Bengaluru|DigitalOcean, LLC|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|4|8.219.188.145|8118|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|23.237.210.82|80|United States|Houston|FDCservers.net|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|18.203.249.67|10010|Ireland|Dublin|Amazon Technologies Inc.|
 |8|152.53.166.49|8888|United States|Manassas|netcup GmbH|
-|9|47.76.84.134|1000|China|Chonglong|Alibaba Cloud LLC|
-|10|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
-|14|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
-|15|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|16|54.168.197.42|45088|Japan|Tokyo|Amazon Technologies Inc.|
-|17|193.151.141.17|8080|Iran|Tehran|IR-AT|
-|18|27.79.237.79|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
+|11|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
+|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|13|23.237.210.82|80|United States|Houston|FDCservers.net|
+|14|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|17|40.76.69.94|8080|United States|Boydton|Microsoft Corporation|
+|18|128.199.23.21|3128|India|Bengaluru|DigitalOcean, LLC|
+|19|65.108.145.212|8017|Finland|Helsinki|Hetzner Online GmbH|
+|20|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
 
 
 
