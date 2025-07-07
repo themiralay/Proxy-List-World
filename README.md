@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|47.76.76.56|8888|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|194.170.146.125|8080|United Arab Emirates|Sharjah|Emirates Telecommunications Corporation|
-|8|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|10|23.237.210.82|80|United States|Houston|FDCservers.net|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|15|193.151.141.17|8080|Iran|Tehran|IR-AT|
-|16|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|17|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|18|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|19|18.100.217.180|3128|Spain|Zaragoza|Amazon Technologies Inc.|
-|20|3.27.237.252|3128|Australia|Sydney|Amazon Technologies Inc.|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|11|23.237.210.82|80|United States|Houston|FDCservers.net|
+|12|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|13|193.151.141.17|8080|Iran|Tehran|IR-AT|
+|14|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|15|31.14.114.77|1081|Iran|Tehran|Afranet Co|
+|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|85.206.93.105|8080|Lithuania|Kaunas|Telia Lietuva|
+|19|3.72.40.248|50202|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|20|105.225.53.124|3128|South Africa|Hartbeespoort|Telkom SA Ltd|
 
 
 
