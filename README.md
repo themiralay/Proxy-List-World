@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|171.248.205.133|10007|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|103.78.215.250|8080|Indonesia|Utan|MORATELINDO|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|86.109.3.23|443|United States|Chicago|Packet Host, Inc.|
+|1|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|103.78.215.250|8080|Indonesia|Utan|MORATELINDO|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|27.79.230.76|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|11|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|115.74.6.92|10008|Vietnam|Vũng Tàu|VIETELxdsl|
-|14|54.193.116.236|8999|United States|San Jose|Amazon.com, Inc.|
-|15|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|115.72.170.34|10010|Vietnam|Ho Chi Minh City|VIETELmetro|
+|9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|10|193.151.141.17|8080|Iran|Tehran|IR-AT|
+|11|23.237.210.82|80|United States|Houston|FDCservers.net|
+|12|54.193.116.236|8999|United States|San Jose|Amazon.com, Inc.|
+|13|116.103.91.224|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|15|171.227.29.213|4007|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|16|23.237.210.82|80|United States|Houston|FDCservers.net|
+|17|86.109.3.23|443|United States|Chicago|Packet Host, Inc.|
 |18|86.109.3.23|443|United States|Chicago|Packet Host, Inc.|
-|19|171.227.29.213|4007|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|20|115.72.12.149|10007|Vietnam|Vũng Tàu|VIETELmetro|
+|19|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|20|65.108.145.212|8080|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
