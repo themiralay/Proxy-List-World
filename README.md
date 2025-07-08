@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|96.9.213.17|8080|United States|Chicago|Nexeon Technologies|
-|2|58.186.175.206|16000|Vietnam|Hanoi|FPT Telecom Company|
-|3|116.103.28.233|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|58.186.162.231|16000|Vietnam|Hanoi|FPT Telecom Company|
+|3|118.68.241.125|16000|Vietnam|Hanoi|FPT Telecom Company|
 |4|118.68.159.59|16000|Vietnam|Quận Phú Nhuận|FPT Telecom Company|
-|5|42.113.54.6|16000|Vietnam|Hanoi|FPT Telecom Company|
-|6|58.186.162.231|16000|Vietnam|Hanoi|FPT Telecom Company|
-|7|14.171.47.152|8080|Vietnam|Bắc Ninh|VNPT-VNNIC|
-|8|1.53.92.63|16000|Vietnam|Hanoi|FPT Telecom Company|
-|9|118.68.241.125|16000|Vietnam|Hanoi|FPT Telecom Company|
-|10|118.71.166.237|16000|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|12|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|13|96.9.213.17|8080|United States|Chicago|Nexeon Technologies|
-|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|15|113.22.48.62|16000|Vietnam|Hanoi|FPT Telecom Company|
-|16|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|17|42.117.128.139|16000|Vietnam|Hanoi|FPT Telecom Company|
-|18|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|42.118.1.104|16000|Vietnam|Hanoi|FPT Telecom Company|
-|20|52.78.241.34|20134|South Korea|Seoul|Amazon Technologies Inc.|
+|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|7|116.103.28.233|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|14.171.47.152|8080|Vietnam|Bắc Ninh|VNPT-VNNIC|
+|9|96.9.213.17|8080|United States|Chicago|Nexeon Technologies|
+|10|198.23.236.47|1111|United States|Santa Clara|HostPapa|
+|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|198.23.236.47|1111|United States|Santa Clara|HostPapa|
+|15|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|17|1.53.92.63|16000|Vietnam|Hanoi|FPT Telecom Company|
+|18|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|19|45.147.7.161|8080|Germany|Frankfurt am Main|24fire GmbH|
+|20|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
