@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|14.171.47.152|8080|Vietnam|Bắc Ninh|VNPT-VNNIC|
+|2|118.71.245.74|16000|Vietnam|Quận Ba|Vietnam Internet Network Information Center|
+|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|77.110.123.32|3128|United States|Charlotte|Aeza International LTD|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|7|51.44.85.200|3128|France|Paris|Amazon.com, Inc.|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|9|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
 |10|77.110.123.32|3128|United States|Charlotte|Aeza International LTD|
-|11|182.253.1.100|80|Indonesia|Batam|BIZNET|
-|12|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|13|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|14|52.78.241.34|20134|South Korea|Seoul|Amazon Technologies Inc.|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|17|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
-|18|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|19|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|54.193.116.236|8999|United States|San Jose|Amazon.com, Inc.|
+|14|43.198.103.235|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|15|35.152.137.65|26038|Italy|Milan|Amazon.com, Inc.|
+|16|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|17|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|18|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|19|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|20|37.27.253.44|8005|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
