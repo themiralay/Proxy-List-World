@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|1.53.92.63|16000|Vietnam|Hanoi|FPT Telecom Company|
-|2|116.103.28.233|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|96.9.213.17|8080|United States|Chicago|Nexeon Technologies|
-|4|42.118.173.198|16000|Vietnam|Hanoi|FPT Telecom Company|
-|5|14.171.47.152|8080|Vietnam|Bắc Ninh|VNPT-VNNIC|
-|6|113.22.154.89|16000|Vietnam|Ninh Bình|Vietnam Internet Network Information Center|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|96.9.213.17|8080|United States|Chicago|Nexeon Technologies|
-|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|118.68.241.125|16000|Vietnam|Hanoi|FPT Telecom Company|
-|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|13|18.132.14.119|3128|United Kingdom|London|Amazon Technologies Inc.|
-|14|193.151.141.17|8080|Iran|Tehran|IR-AT|
-|15|113.22.48.62|16000|Vietnam|Hanoi|FPT Telecom Company|
-|16|45.147.7.161|8080|Germany|Frankfurt am Main|24fire GmbH|
-|17|51.44.85.200|3128|France|Paris|Amazon.com, Inc.|
-|18|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|19|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|20|58.186.162.231|16000|Vietnam|Hanoi|FPT Telecom Company|
+|1|96.9.213.17|8080|United States|Chicago|Nexeon Technologies|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|113.22.154.89|16000|Vietnam|Ninh Bình|Vietnam Internet Network Information Center|
+|4|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|5|96.9.213.17|8080|United States|Chicago|Nexeon Technologies|
+|6|14.171.47.152|8080|Vietnam|Bắc Ninh|VNPT-VNNIC|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|42.113.54.6|16000|Vietnam|Hanoi|FPT Telecom Company|
+|9|113.22.48.62|16000|Vietnam|Hanoi|FPT Telecom Company|
+|10|42.118.173.198|16000|Vietnam|Hanoi|FPT Telecom Company|
+|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|13|1.54.175.6|16000|Vietnam|Hanoi|FPT Telecom Company|
+|14|52.78.241.34|20134|South Korea|Seoul|Amazon Technologies Inc.|
+|15|193.151.141.17|8080|Iran|Tehran|IR-AT|
+|16|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|17|3.133.142.76|52195|United States|Dublin|Amazon.com, Inc.|
+|18|46.39.105.251|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|19|27.79.249.222|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|35.179.146.181|3128|United Kingdom|London|Amazon Technologies Inc.|
 
 
 
