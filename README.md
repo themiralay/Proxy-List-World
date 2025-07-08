@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|3|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|4|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|14.171.47.152|8080|Vietnam|Bắc Ninh|VNPT-VNNIC|
-|8|3.133.142.76|52195|United States|Dublin|Amazon.com, Inc.|
-|9|1.54.54.165|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|10|193.151.141.17|8080|Iran|Tehran|IR-AT|
-|11|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|12|27.79.218.64|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|27.79.212.250|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|19|18.226.200.222|51568|United States|Dublin|Amazon.com, Inc.|
-|20|103.131.18.58|8085|Indonesia|Gombong|PT Global Media Data Prima|
+|2|1.54.54.163|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|3|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|6|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|118.71.87.181|16000|Vietnam|Hanoi|FPT Telecom Company|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|1.53.70.213|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|11|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|12|14.171.47.152|8080|Vietnam|Bắc Ninh|VNPT-VNNIC|
+|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|16|42.117.168.125|16000|Vietnam|Hanoi|FPT Telecom Company|
+|17|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|18|43.129.77.105|8080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|19|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
