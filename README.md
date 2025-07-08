@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|220.87.60.239|65001|South Korea|Namdong-gu|Korea Telecom|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|1.54.82.24|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|11|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|12|27.79.194.106|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|15|27.79.218.64|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|23.237.210.82|80|United States|Houston|FDCservers.net|
-|17|58.186.163.18|16000|Vietnam|Hanoi|FPT Telecom Company|
-|18|1.54.172.240|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|43.198.103.235|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|20|42.118.1.229|16000|Vietnam|Hanoi|FPT Telecom Company|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|58.186.163.18|16000|Vietnam|Hanoi|FPT Telecom Company|
+|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|10|18.61.87.35|4263|India|Hyderabad|Amazon.com, Inc.|
+|11|23.237.210.82|80|United States|Houston|FDCservers.net|
+|12|42.117.168.125|16000|Vietnam|Hanoi|FPT Telecom Company|
+|13|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|14|43.129.77.105|8080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|193.151.141.17|8080|Iran|Tehran|IR-AT|
+|17|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|18|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|27.79.206.128|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
