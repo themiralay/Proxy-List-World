@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|2|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|1|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|14.171.47.152|8080|Vietnam|Bắc Ninh|VNPT-VNNIC|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|12|91.229.78.250|8448|Ukraine|Kyiv|Zemlyaniy Dmitro Leonidovich|
-|13|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
-|14|193.151.141.17|8080|Iran|Tehran|IR-AT|
-|15|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|16|43.129.77.105|8080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|17|3.109.62.30|717|India|Mumbai|Amazon Technologies Inc.|
-|18|16.26.88.4|28095|Australia|Melbourne|Amazon.com, Inc.|
-|19|116.103.29.91|16000|Vietnam|Đạ Tẻh|Viettel Corporation|
-|20|18.226.200.222|51568|United States|Dublin|Amazon.com, Inc.|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|18.226.200.222|51568|United States|Dublin|Amazon.com, Inc.|
+|9|116.103.28.233|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|11|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|12|43.129.77.105|8080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|13|116.103.29.91|16000|Vietnam|Đạ Tẻh|Viettel Corporation|
+|14|14.171.47.152|8080|Vietnam|Bắc Ninh|VNPT-VNNIC|
+|15|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|16|18.226.200.222|51568|United States|Dublin|Amazon.com, Inc.|
+|17|43.216.250.248|23218|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|18|18.132.14.119|3128|United Kingdom|London|Amazon Technologies Inc.|
+|19|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|20|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
 
 
 
