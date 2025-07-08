@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|118.68.159.59|16000|Vietnam|Quận Phú Nhuận|FPT Telecom Company|
-|2|58.186.98.79|16000|Vietnam|Da Nang|FPT Telecom Company|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|14.171.47.152|8080|Vietnam|Bắc Ninh|VNPT-VNNIC|
-|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|10|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|27.79.215.14|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|35.177.23.165|10535|United Kingdom|London|Amazon Technologies Inc.|
-|14|18.60.111.249|6698|India|Hyderabad|Amazon.com, Inc.|
-|15|18.132.14.119|3128|United Kingdom|London|Amazon Technologies Inc.|
-|16|193.151.141.17|8080|Iran|Tehran|IR-AT|
-|17|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|20|18.61.87.35|4263|India|Hyderabad|Amazon.com, Inc.|
+|1|14.171.47.152|8080|Vietnam|Bắc Ninh|VNPT-VNNIC|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
+|9|54.193.116.236|8999|United States|San Jose|Amazon.com, Inc.|
+|10|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
+|13|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|14|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|15|42.118.173.198|16000|Vietnam|Hanoi|FPT Telecom Company|
+|16|13.245.30.86|3128|South Africa|Johannesburg|Amazon.com, Inc.|
+|17|201.149.100.32|8085|Brazil|Cruzeiro do Oeste|Vibe Provedor De Internet Ltda|
+|18|27.79.172.253|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|20|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
 
 
 
