@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|14.171.47.152|8080|Vietnam|Bắc Ninh|VNPT-VNNIC|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|62.33.91.10|3128|Russia|Tynda|TRANS-TELECOM|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|187.234.70.205|3128|Mexico|Mexico City|Uninet S.A. de C.V.|
-|8|113.22.154.89|16000|Vietnam|Ninh Bình|Vietnam Internet Network Information Center|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|103.247.14.166|9285|Indonesia|Wedi|TERABIT|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|15|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|16|190.61.45.92|8081|Colombia|San Alberto|Ufinet Panama S.A.|
-|17|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|18|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|19|43.198.103.235|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|20|173.249.39.200|3128|France|Lauterbourg|Contabo GmbH|
+|1|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|2|14.171.47.152|8080|Vietnam|Bắc Ninh|VNPT-VNNIC|
+|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|14|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|15|103.137.91.250|8080|Laos|Vientiane|SLT Network Co., LTD|
+|16|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|19|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|20|54.193.116.236|8999|United States|San Jose|Amazon.com, Inc.|
 
 
 
