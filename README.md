@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.241.234|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|27.79.215.14|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|14.171.47.152|8080|Vietnam|Bắc Ninh|VNPT-VNNIC|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|42.118.1.104|16000|Vietnam|Hanoi|FPT Telecom Company|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|10|42.118.0.98|16000|Vietnam|Hanoi|FPT Telecom Company|
-|11|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
-|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|14|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|15|152.53.166.49|8888|United States|Manassas|netcup GmbH|
-|16|193.151.141.17|8080|Iran|Tehran|IR-AT|
-|17|18.60.111.249|6698|India|Hyderabad|Amazon.com, Inc.|
-|18|27.79.172.253|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|179.1.48.51|8080|Colombia|Santiago de Cali|Internexa S.a. E.S.P|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|179.1.48.51|8080|Colombia|Santiago de Cali|Internexa S.a. E.S.P|
+|7|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
+|8|14.171.47.152|8080|Vietnam|Bắc Ninh|VNPT-VNNIC|
+|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|13|152.53.166.49|8888|United States|Manassas|netcup GmbH|
+|14|193.151.141.17|8080|Iran|Tehran|IR-AT|
+|15|27.79.215.14|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|212.24.96.233|1080|Lithuania|Vilnius|UAB "Interneto vizija"|
+|17|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
+|18|18.60.111.249|6698|India|Hyderabad|Amazon.com, Inc.|
+|19|51.44.85.200|3128|France|Paris|Amazon.com, Inc.|
+|20|42.118.1.104|16000|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
