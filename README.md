@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|2|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|4|14.171.47.152|8080|Vietnam|Bắc Ninh|VNPT-VNNIC|
+|5|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |10|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|11|14.171.47.152|8080|Vietnam|Bắc Ninh|VNPT-VNNIC|
-|12|51.44.85.200|3128|France|Paris|Amazon.com, Inc.|
-|13|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|14|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|17|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|18|3.109.62.30|717|India|Mumbai|Amazon Technologies Inc.|
-|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|11|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|3.109.62.30|717|India|Mumbai|Amazon Technologies Inc.|
+|14|35.179.146.181|3128|United Kingdom|London|Amazon Technologies Inc.|
+|15|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|16|18.226.200.222|51568|United States|Dublin|Amazon.com, Inc.|
+|17|1.53.70.213|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|18|51.44.85.200|3128|France|Paris|Amazon.com, Inc.|
+|19|27.79.218.64|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|108.136.149.20|25505|Indonesia|Jakarta|Amazon.com, Inc.|
 
 
 
