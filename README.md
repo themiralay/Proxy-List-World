@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|2|14.171.47.152|8080|Vietnam|Bắc Ninh|VNPT-VNNIC|
-|3|113.22.48.62|16000|Vietnam|Hanoi|FPT Telecom Company|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|42.117.128.139|16000|Vietnam|Hanoi|FPT Telecom Company|
+|1|14.171.47.152|8080|Vietnam|Bắc Ninh|VNPT-VNNIC|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |6|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
 |7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|12|62.33.91.10|3128|Russia|Tynda|TRANS-TELECOM|
-|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|118.68.181.170|16000|Vietnam|Hanoi|FPT Telecom Company|
-|16|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|17|118.71.245.74|16000|Vietnam|Quận Ba|Vietnam Internet Network Information Center|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|20|51.44.85.200|3128|France|Paris|Amazon.com, Inc.|
+|8|62.33.91.10|3128|Russia|Tynda|TRANS-TELECOM|
+|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|15|18.60.111.249|6698|India|Hyderabad|Amazon.com, Inc.|
+|16|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|17|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|19|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|20|103.160.40.253|8080|Indonesia|Tanagara|PT Wistel Teknologi Solusi|
 
 
 
