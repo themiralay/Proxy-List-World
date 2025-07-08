@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|192.46.230.254|3128|Singapore|Singapore|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|14.171.47.152|8080|Vietnam|Bắc Ninh|VNPT-VNNIC|
+|1|14.171.47.152|8080|Vietnam|Bắc Ninh|VNPT-VNNIC|
+|2|192.46.230.254|3128|Singapore|Singapore|Akamai Technologies, Inc.|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|6|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|10|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|11|84.246.85.52|3128|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|77.52.187.196|18080|Ukraine|Rokytne|PrJSC "VF UKRAINE"|
-|15|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|16|35.177.23.165|10535|United Kingdom|London|Amazon Technologies Inc.|
-|17|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|18|54.193.116.236|8999|United States|San Jose|Amazon.com, Inc.|
-|19|118.68.159.59|16000|Vietnam|Quận Phú Nhuận|FPT Telecom Company|
-|20|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|54.193.116.236|8999|United States|San Jose|Amazon.com, Inc.|
+|10|77.52.187.196|18080|Ukraine|Rokytne|PrJSC "VF UKRAINE"|
+|11|35.177.23.165|10535|United Kingdom|London|Amazon Technologies Inc.|
+|12|35.152.137.65|26038|Italy|Milan|Amazon.com, Inc.|
+|13|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|14|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|15|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|16|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|17|27.79.139.201|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|19|118.71.245.74|16000|Vietnam|Quận Ba|Vietnam Internet Network Information Center|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
