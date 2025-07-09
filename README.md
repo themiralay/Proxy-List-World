@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|23.237.210.82|80|United States|Houston|FDCservers.net|
-|4|13.223.8.200|3128|United States|Ashburn|Amazon.com, Inc.|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|118.71.87.204|16000|Vietnam|Hanoi|FPT Telecom Company|
-|7|27.79.255.177|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|125.25.29.0|8080|Thailand|Bangkok|TOT Public Company Limited|
-|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|10|103.242.105.148|1111|Indonesia|Karangampel|PT Lintas Jaringan Nusantara|
-|11|23.237.210.82|80|United States|Houston|FDCservers.net|
-|12|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|1|27.79.132.12|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|118.71.120.159|16000|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|3|1.54.172.167|16000|Vietnam|Hanoi|FPT Telecom Company|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|23.237.210.82|80|United States|Houston|FDCservers.net|
+|6|13.223.8.200|3128|United States|Ashburn|Amazon.com, Inc.|
+|7|118.71.245.70|16000|Vietnam|Quận Ba|Vietnam Internet Network Information Center|
+|8|23.237.210.82|80|United States|Houston|FDCservers.net|
+|9|3.83.64.206|8888|United States|Ashburn|Amazon Technologies Inc.|
+|10|42.118.0.3|16000|Vietnam|Hanoi|FPT Telecom Company|
+|11|3.83.64.206|8888|United States|Ashburn|Amazon Technologies Inc.|
+|12|118.71.87.204|16000|Vietnam|Hanoi|FPT Telecom Company|
 |13|42.118.74.158|16000|Vietnam|Hanoi|FPT Telecom Company|
-|14|13.223.8.200|3128|United States|Ashburn|Amazon.com, Inc.|
-|15|116.103.91.81|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|27.79.152.160|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|3.254.114.35|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|18|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
+|14|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|15|189.164.123.183|8080|Mexico|Cholula|UNINET|
+|16|13.223.8.200|3128|United States|Ashburn|Amazon.com, Inc.|
+|17|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|18|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
 |19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|3.255.180.11|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|20|54.247.60.97|3128|Ireland|Dublin|Amazon.com, Inc.|
 
 
 
