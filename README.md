@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
+|3|23.237.210.82|80|United States|Houston|FDCservers.net|
+|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |5|23.237.210.82|80|United States|Houston|FDCservers.net|
 |6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|125.25.29.0|8080|Thailand|Bangkok|TOT Public Company Limited|
-|8|27.79.132.12|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
-|11|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|12|54.247.60.97|3128|Ireland|Dublin|Amazon.com, Inc.|
-|13|3.255.180.11|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|14|54.154.77.8|3128|Ireland|Dublin|Amazon.com, Inc.|
-|15|34.242.245.234|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|16|54.216.79.55|3128|Ireland|Dublin|Amazon.com, Inc.|
-|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|103.242.105.148|1111|Indonesia|Karangampel|PT Lintas Jaringan Nusantara|
+|9|189.164.123.183|8080|Mexico|Cholula|UNINET|
+|10|42.118.0.3|16000|Vietnam|Hanoi|FPT Telecom Company|
+|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|13|54.154.77.8|3128|Ireland|Dublin|Amazon.com, Inc.|
+|14|54.216.79.55|3128|Ireland|Dublin|Amazon.com, Inc.|
+|15|13.223.8.200|3128|United States|Ashburn|Amazon.com, Inc.|
+|16|3.254.114.35|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|17|3.255.180.11|3128|Ireland|Dublin|Amazon Technologies Inc.|
 |18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|3.254.114.35|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|20|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
+|19|54.247.60.97|3128|Ireland|Dublin|Amazon.com, Inc.|
+|20|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
 
 
 
