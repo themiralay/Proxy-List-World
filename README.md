@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|42.118.74.158|16000|Vietnam|Hanoi|FPT Telecom Company|
-|2|27.79.152.160|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|116.103.29.91|16000|Vietnam|Đạ Tẻh|Viettel Corporation|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|42.118.202.209|16000|Vietnam|Thu Dau Mot|FPT Telecom Company|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|118.71.87.204|16000|Vietnam|Hanoi|FPT Telecom Company|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|23.237.210.82|80|United States|Houston|FDCservers.net|
-|10|116.103.92.25|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|35.177.23.165|10535|United Kingdom|London|Amazon Technologies Inc.|
-|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|13|43.216.214.221|4289|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|14|18.226.200.222|51568|United States|Dublin|Amazon.com, Inc.|
-|15|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|54.193.116.236|8999|United States|San Jose|Amazon.com, Inc.|
-|18|18.132.14.119|3128|United Kingdom|London|Amazon Technologies Inc.|
-|19|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|20|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
+|1|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|103.125.174.62|8080|Indonesia|Parit Kali Patopah|PT Trinity Teknologi Nusantara|
+|6|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|103.166.159.249|7777|Indonesia|Kresek|PT Timor Lintas Nusantara|
+|9|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|103.86.116.81|1111|Indonesia|Lenteng|PT Link Data Sumber Barokah|
+|13|42.118.74.158|16000|Vietnam|Hanoi|FPT Telecom Company|
+|14|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|15|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
+|16|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
+|17|45.4.148.90|8080|Brazil|Surubim|Fausto Silva de Almeida ServiÔos - ME|
+|18|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|19|54.193.116.236|8999|United States|San Jose|Amazon.com, Inc.|
+|20|3.109.62.30|717|India|Mumbai|Amazon Technologies Inc.|
 
 
 
