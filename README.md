@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **40552** proxies at the latest update. Usable proxies are below.
+> Scraper found **76722** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -32,7 +32,7 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36483|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|91|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2752|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38922|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|14.171.47.152|8080|Vietnam|Bắc Ninh|VNPT-VNNIC|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|43.129.77.105|8080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|103.118.175.200|3127|Indonesia|Tigaraksa|PT Perwira Media Solusi|
+|5|14.171.47.152|8080|Vietnam|Bắc Ninh|VNPT-VNNIC|
+|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
 |10|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
 |11|23.237.210.82|80|United States|Houston|FDCservers.net|
-|12|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
-|16|35.179.146.181|3128|United Kingdom|London|Amazon Technologies Inc.|
-|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|113.22.154.89|16000|Vietnam|Ninh Bình|Vietnam Internet Network Information Center|
-|19|108.136.149.20|25505|Indonesia|Jakarta|Amazon.com, Inc.|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|14|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
+|15|35.152.137.65|26038|Italy|Milan|Amazon.com, Inc.|
+|16|103.215.187.68|8080|Indonesia|Duren Tiga|PT Jaringan Inti Exadata|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|19|193.151.141.17|8080|Iran|Tehran|IR-AT|
 |20|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
 
 
