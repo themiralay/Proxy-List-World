@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|85|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|85|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|85|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.255.177|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|171.232.74.220|4002|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|8|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|1|14.171.47.152|8080|Vietnam|Bắc Ninh|VNPT-VNNIC|
+|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
-|11|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|12|113.22.154.89|16000|Vietnam|Ninh Bình|Vietnam Internet Network Information Center|
-|13|116.103.29.91|16000|Vietnam|Đạ Tẻh|Viettel Corporation|
-|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|14.171.47.152|8080|Vietnam|Bắc Ninh|VNPT-VNNIC|
-|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|11|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|12|18.226.200.222|51568|United States|Dublin|Amazon.com, Inc.|
+|13|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|14|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|15|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|16|113.22.154.89|16000|Vietnam|Ninh Bình|Vietnam Internet Network Information Center|
+|17|27.79.255.177|16000|Vietnam|Hanoi|Viettel Corporation|
 |18|51.44.85.200|3128|France|Paris|Amazon.com, Inc.|
-|19|35.179.146.181|3128|United Kingdom|London|Amazon Technologies Inc.|
-|20|193.151.141.17|8080|Iran|Tehran|IR-AT|
+|19|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|20|43.216.75.140|42761|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
 
 
 
