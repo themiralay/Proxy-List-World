@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.171.47.152|8080|Vietnam|Bắc Ninh|VNPT-VNNIC|
+|1|42.118.173.198|16000|Vietnam|Hanoi|FPT Telecom Company|
 |2|223.205.40.121|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|14.171.47.152|8080|Vietnam|Bắc Ninh|VNPT-VNNIC|
+|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|103.188.168.85|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
 |9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|193.151.141.17|8080|Iran|Tehran|IR-AT|
+|10|116.103.29.91|16000|Vietnam|Đạ Tẻh|Viettel Corporation|
+|11|116.103.28.233|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|27.79.172.253|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|118.71.245.74|16000|Vietnam|Quận Ba|Vietnam Internet Network Information Center|
 |14|42.117.128.139|16000|Vietnam|Hanoi|FPT Telecom Company|
-|15|116.103.28.233|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|17|1.53.72.167|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|18|42.118.173.198|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|54.180.239.137|3128|South Korea|Seoul|Amazon Technologies Inc.|
-|20|116.103.29.91|16000|Vietnam|Đạ Tẻh|Viettel Corporation|
+|15|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|51.44.85.200|3128|France|Paris|Amazon.com, Inc.|
+|20|51.84.110.224|3128|Israel|Tel Aviv|Amazon.com, Inc.|
 
 
 
