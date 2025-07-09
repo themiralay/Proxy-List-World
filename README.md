@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|14.171.47.152|8080|Vietnam|Bắc Ninh|VNPT-VNNIC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|14.171.47.152|8080|Vietnam|Bắc Ninh|VNPT-VNNIC|
+|8|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|35.179.146.181|3128|United Kingdom|London|Amazon Technologies Inc.|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|193.151.141.17|8080|Iran|Tehran|IR-AT|
-|14|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
-|15|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|16|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|17|16.26.88.4|28095|Australia|Melbourne|Amazon.com, Inc.|
-|18|18.226.200.222|51568|United States|Dublin|Amazon.com, Inc.|
-|19|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|20|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
+|10|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
+|11|35.179.146.181|3128|United Kingdom|London|Amazon Technologies Inc.|
+|12|193.151.141.17|8080|Iran|Tehran|IR-AT|
+|13|43.129.77.105|8080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|14|27.79.139.201|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|16|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|17|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
+|18|3.109.62.30|717|India|Mumbai|Amazon Technologies Inc.|
+|19|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
+|20|18.226.200.222|51568|United States|Dublin|Amazon.com, Inc.|
 
 
 
