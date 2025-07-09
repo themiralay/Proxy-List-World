@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|14.171.47.152|8080|Vietnam|Bắc Ninh|VNPT-VNNIC|
-|10|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|15|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|1|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|9|113.22.154.89|16000|Vietnam|Ninh Bình|Vietnam Internet Network Information Center|
+|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|12|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|13|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|16|14.225.210.186|3129|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
 |17|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
-|18|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|19|35.179.146.181|3128|United Kingdom|London|Amazon Technologies Inc.|
-|20|52.78.241.34|20134|South Korea|Seoul|Amazon Technologies Inc.|
+|18|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|19|42.117.128.139|16000|Vietnam|Hanoi|FPT Telecom Company|
+|20|58.186.92.105|16000|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
