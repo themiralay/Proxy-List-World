@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|1|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|23.237.210.82|80|United States|Houston|FDCservers.net|
-|7|18.226.200.222|51568|United States|Dublin|Amazon.com, Inc.|
-|8|51.44.85.200|3128|France|Paris|Amazon.com, Inc.|
-|9|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
-|10|43.216.214.221|4289|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|11|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|12|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|103.39.70.68|1452|Indonesia|Sambas|PT Gateway media Zafira|
-|15|42.118.74.158|16000|Vietnam|Hanoi|FPT Telecom Company|
-|16|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|17|13.245.30.86|3128|South Africa|Johannesburg|Amazon.com, Inc.|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|103.153.136.10|8080|Indonesia|Gorontalo|PT Andalas Global Network|
-|20|103.166.159.249|7777|Indonesia|Kresek|PT Timor Lintas Nusantara|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|116.103.29.91|16000|Vietnam|Đạ Tẻh|Viettel Corporation|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|27.71.130.116|16000|Vietnam|Đưc Trọng|Viettel Group|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|11|51.44.85.200|3128|France|Paris|Amazon.com, Inc.|
+|12|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|13|43.216.250.248|23218|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|14|42.118.74.158|16000|Vietnam|Hanoi|FPT Telecom Company|
+|15|18.226.200.222|51568|United States|Dublin|Amazon.com, Inc.|
+|16|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
+|17|54.193.116.236|8999|United States|San Jose|Amazon.com, Inc.|
+|18|23.237.210.82|80|United States|Houston|FDCservers.net|
+|19|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|20|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
 
 
 
