@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|1|27.71.130.116|16000|Vietnam|Đưc Trọng|Viettel Group|
 |2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|6|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|7|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|8|42.113.21.191|16000|Vietnam|Hanoi|FPT Telecom Company|
-|9|43.216.75.140|42761|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|12|37.27.253.44|8073|Finland|Helsinki|Hetzner Online GmbH|
-|13|27.71.130.116|16000|Vietnam|Đưc Trọng|Viettel Group|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|15|103.189.62.131|8082|Indonesia|Denpasar|PT Blip Integrator Provider|
-|16|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|17|72.10.160.173|11413|Canada|Montreal|GloboTech Communications|
-|18|147.75.34.105|443|The Netherlands|Amsterdam|Packet Host, Inc.|
-|19|116.203.51.18|8118|Germany|Nuremberg|Hetzner Online GmbH|
-|20|65.108.145.212|8010|Finland|Helsinki|Hetzner Online GmbH|
+|4|116.103.91.81|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|116.103.92.25|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|18.60.111.249|6698|India|Hyderabad|Amazon.com, Inc.|
+|9|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|43.216.250.248|23218|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|12|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|13|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|14|105.225.53.124|3128|South Africa|Hartbeespoort|Telkom SA Ltd|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|16|42.113.21.191|16000|Vietnam|Hanoi|FPT Telecom Company|
+|17|54.193.116.236|8999|United States|San Jose|Amazon.com, Inc.|
+|18|27.79.152.160|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|103.189.62.131|8082|Indonesia|Denpasar|PT Blip Integrator Provider|
+|20|37.27.253.44|8069|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
