@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **76585** proxies at the latest update. Usable proxies are below.
+> Scraper found **40839** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36656|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|136|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38567|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2821|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|3|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|4|14.171.47.152|8080|Vietnam|Bắc Ninh|VNPT-VNNIC|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
-|11|113.22.154.89|16000|Vietnam|Ninh Bình|Vietnam Internet Network Information Center|
-|12|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|13|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|14|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|16|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|17|103.153.39.35|8083|Pakistan|Burewala|Getlinks (SMC-Private) Limited|
-|18|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|19|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|20|159.89.239.166|18086|United States|North Bergen|DigitalOcean, LLC|
+|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|14.171.47.152|8080|Vietnam|Bắc Ninh|VNPT-VNNIC|
+|12|113.22.48.62|16000|Vietnam|Hanoi|FPT Telecom Company|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|15|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|16|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|19|103.195.65.178|8080|Indonesia|Purbalingga|PT Perwira Pedjoeang Nusantara|
+|20|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
 
 
 
