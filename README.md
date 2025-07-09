@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|6|3.248.255.53|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|7|3.254.114.35|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|8|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|43.216.250.248|23218|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|1|23.237.210.82|80|United States|Houston|FDCservers.net|
+|2|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|4|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|23.237.210.82|80|United States|Houston|FDCservers.net|
+|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|8|3.248.255.53|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|9|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
 |10|54.154.77.8|3128|Ireland|Dublin|Amazon.com, Inc.|
-|11|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
-|12|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
-|13|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|14|35.179.146.181|3128|United Kingdom|London|Amazon Technologies Inc.|
-|15|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|16|18.132.14.119|3128|United Kingdom|London|Amazon Technologies Inc.|
+|11|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|3.254.114.35|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|13|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|14|54.193.116.236|8999|United States|San Jose|Amazon.com, Inc.|
+|15|51.84.110.224|3128|Israel|Tel Aviv|Amazon.com, Inc.|
+|16|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
 |17|18.226.200.222|51568|United States|Dublin|Amazon.com, Inc.|
-|18|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|19|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|20|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|18|51.44.85.200|3128|France|Paris|Amazon.com, Inc.|
+|19|43.216.75.140|42761|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|20|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
 
 
 
