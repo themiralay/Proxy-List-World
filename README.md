@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|2|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|2|103.141.150.187|8080|Indonesia|Ciputat|PRIMACOM|
+|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|43.129.77.105|8080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|9|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|10|41.249.117.154|39811|Morocco|Rabat|ADSL Maroc telecom|
-|11|3.109.62.30|717|India|Mumbai|Amazon Technologies Inc.|
-|12|43.216.250.248|23218|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
-|16|51.44.85.200|80|France|Paris|Amazon.com, Inc.|
-|17|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|18|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
-|19|18.60.111.249|6698|India|Hyderabad|Amazon.com, Inc.|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|8|159.69.110.232|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|42.118.0.208|16000|Vietnam|Hanoi|FPT Telecom Company|
+|13|41.249.117.154|39811|Morocco|Rabat|ADSL Maroc telecom|
+|14|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
+|15|43.216.250.248|23218|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|16|35.179.146.181|3128|United Kingdom|London|Amazon Technologies Inc.|
+|17|18.60.111.249|6698|India|Hyderabad|Amazon.com, Inc.|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|35.152.137.65|26038|Italy|Milan|Amazon.com, Inc.|
+|20|93.190.138.107|46182|The Netherlands|Naaldwijk|WorldStream B.V.|
 
 
 
