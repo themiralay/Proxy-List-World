@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|3|27.79.172.253|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|14.171.47.152|8080|Vietnam|Bắc Ninh|VNPT-VNNIC|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|8|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|9|52.78.241.34|20134|South Korea|Seoul|Amazon Technologies Inc.|
-|10|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|11|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
-|12|193.151.141.17|8080|Iran|Tehran|IR-AT|
-|13|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
-|14|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
-|15|103.161.69.217|8469|Bangladesh|Chittagong|MiME|
-|16|108.136.149.20|25505|Indonesia|Jakarta|Amazon.com, Inc.|
-|17|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
-|18|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|19|3.109.62.30|717|India|Mumbai|Amazon Technologies Inc.|
-|20|35.179.146.181|3128|United Kingdom|London|Amazon Technologies Inc.|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|14.171.47.152|8080|Vietnam|Bắc Ninh|VNPT-VNNIC|
+|8|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|18.60.111.249|6698|India|Hyderabad|Amazon.com, Inc.|
+|11|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|18.132.14.119|3128|United Kingdom|London|Amazon Technologies Inc.|
+|14|43.216.250.248|23218|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|18.226.200.222|51568|United States|Dublin|Amazon.com, Inc.|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|19|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|20|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
 
 
 
