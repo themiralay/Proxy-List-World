@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|42.112.96.33|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|2|42.114.161.203|16000|Vietnam|Hanoi|FPT Telecom Company|
+|1|118.68.212.199|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|2|27.79.232.71|16000|Vietnam|Hanoi|Viettel Corporation|
 |3|27.79.173.117|16000|Vietnam|Hanoi|Viettel Corporation|
 |4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|118.68.212.199|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|7|27.79.232.71|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|116.103.89.143|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|10|27.79.151.51|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|116.103.92.25|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|23.237.210.82|80|United States|Houston|FDCservers.net|
-|13|118.68.159.128|16000|Vietnam|Quận Phú Nhuận|FPT Telecom Company|
-|14|27.76.184.145|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|15|27.79.161.99|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|18|23.237.210.82|80|United States|Houston|FDCservers.net|
-|19|27.79.132.12|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|54.247.60.97|3128|Ireland|Dublin|Amazon.com, Inc.|
+|5|116.103.91.81|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|27.79.244.99|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|116.103.92.25|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|23.237.210.82|80|United States|Houston|FDCservers.net|
+|9|23.237.210.82|80|United States|Houston|FDCservers.net|
+|10|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|42.114.11.43|16000|Vietnam|Hanoi|FPT Telecom Company|
+|12|116.103.89.143|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|14|27.79.132.12|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|16|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
+|17|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|54.247.60.97|3128|Ireland|Dublin|Amazon.com, Inc.|
+|19|54.216.79.55|3128|Ireland|Dublin|Amazon.com, Inc.|
+|20|3.254.114.35|3128|Ireland|Dublin|Amazon Technologies Inc.|
 
 
 
