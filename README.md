@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|182.253.109.26|8080|Indonesia|Semarang|Biznet Metronet|
-|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|4|103.145.34.174|1111|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|103.125.116.114|8080|Indonesia|Bogor|PT Baraya Telematika Nusantara|
-|10|43.198.103.235|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|11|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|12|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|13|18.226.200.222|51568|United States|Dublin|Amazon.com, Inc.|
-|14|223.205.188.195|8080|Thailand|Uthai|Triple T Broadband Public Company Limited|
-|15|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
-|16|35.179.146.181|3128|United Kingdom|London|Amazon Technologies Inc.|
-|17|164.163.42.60|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|19|116.110.245.62|9002|Vietnam|Điện Bàn|Viettel Corporation|
-|20|116.103.29.91|16000|Vietnam|Đạ Tẻh|Viettel Corporation|
+|1|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|182.253.109.26|8080|Indonesia|Semarang|Biznet Metronet|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|18.132.14.119|3128|United Kingdom|London|Amazon Technologies Inc.|
+|9|35.152.137.65|26038|Italy|Milan|Amazon.com, Inc.|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|37.27.253.44|8084|Finland|Helsinki|Hetzner Online GmbH|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|13|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|14|35.179.146.181|3128|United Kingdom|London|Amazon Technologies Inc.|
+|15|103.125.116.114|8080|Indonesia|Bogor|PT Baraya Telematika Nusantara|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|23.237.210.82|80|United States|Houston|FDCservers.net|
+|19|37.27.253.44|8084|Finland|Helsinki|Hetzner Online GmbH|
+|20|37.27.253.44|8084|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
