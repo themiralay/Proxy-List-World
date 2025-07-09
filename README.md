@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|2|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
 |3|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|4|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|9|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|10|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
-|11|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|12|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|13|43.198.103.235|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|14|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|15|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|16|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|17|16.26.88.4|28095|Australia|Melbourne|Amazon.com, Inc.|
-|18|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|19|18.132.14.119|3128|United Kingdom|London|Amazon Technologies Inc.|
-|20|108.136.149.20|25505|Indonesia|Jakarta|Amazon.com, Inc.|
+|6|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|7|18.60.111.249|6698|India|Hyderabad|Amazon.com, Inc.|
+|8|38.180.82.210|8080|United States|Chicago|HIVELOCITY, Inc.|
+|9|143.0.243.78|8080|Brazil|São João do Pacuí|Nova Info Internet e Telecomunicações LTDA|
+|10|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|11|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
+|12|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|13|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|16|14.186.61.187|10030|Vietnam|Ho Chi Minh City|VNPT|
+|17|35.152.137.65|26038|Italy|Milan|Amazon.com, Inc.|
+|18|51.44.85.200|3128|France|Paris|Amazon.com, Inc.|
+|19|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|20|18.132.14.119|3128|United Kingdom|London|Amazon Technologies Inc.|
 
 
 
