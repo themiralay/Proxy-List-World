@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|42.114.161.203|16000|Vietnam|Hanoi|FPT Telecom Company|
-|2|172.233.78.254|7890|Japan|Osaka|Akamai Technologies, Inc.|
-|3|118.68.212.199|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|4|118.68.159.128|16000|Vietnam|Quận Phú Nhuận|FPT Telecom Company|
-|5|42.114.11.43|16000|Vietnam|Hanoi|FPT Telecom Company|
-|6|27.79.244.99|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|27.79.161.99|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|27.79.144.231|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|27.79.151.51|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|2|118.68.212.199|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|3|42.112.96.33|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|4|27.76.184.145|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|5|27.79.232.71|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|23.237.210.82|80|United States|Houston|FDCservers.net|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|8|42.114.11.43|16000|Vietnam|Hanoi|FPT Telecom Company|
+|9|116.103.92.25|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|27.79.161.99|16000|Vietnam|Hanoi|Viettel Corporation|
 |11|42.118.202.209|16000|Vietnam|Thu Dau Mot|FPT Telecom Company|
-|12|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|27.76.184.145|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|15|116.103.91.81|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|27.79.152.160|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|23.237.210.82|80|United States|Houston|FDCservers.net|
-|18|23.237.210.82|80|United States|Houston|FDCservers.net|
-|19|27.79.132.12|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|42.118.225.91|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|12|23.237.210.82|80|United States|Houston|FDCservers.net|
+|13|27.79.173.117|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|103.189.62.131|8082|Indonesia|Denpasar|PT Blip Integrator Provider|
+|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|16|3.254.114.35|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|17|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
+|18|54.216.79.55|3128|Ireland|Dublin|Amazon.com, Inc.|
+|19|3.255.180.11|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|20|54.154.77.8|3128|Ireland|Dublin|Amazon.com, Inc.|
 
 
 
