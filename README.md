@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|42.113.21.191|16000|Vietnam|Hanoi|FPT Telecom Company|
-|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|43.216.250.248|23218|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|6|18.60.111.249|6698|India|Hyderabad|Amazon.com, Inc.|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
-|10|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|11|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|12|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|1|103.189.62.131|8082|Indonesia|Denpasar|PT Blip Integrator Provider|
+|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|42.113.21.191|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|101.109.186.235|8080|Thailand|Bangkok|TOT Public Company Limited|
+|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|9|116.103.92.25|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|122.252.234.123|1313|India|Aligarh|RailTel Corporation of India Ltd.|
+|11|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|12|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
 |13|23.237.210.82|80|United States|Houston|FDCservers.net|
-|14|35.152.137.65|26038|Italy|Milan|Amazon.com, Inc.|
-|15|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|16|43.216.75.140|42761|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|17|116.103.91.81|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|54.193.116.236|8999|United States|San Jose|Amazon.com, Inc.|
+|14|91.229.78.250|8448|Ukraine|Kyiv|Zemlyaniy Dmitro Leonidovich|
+|15|35.152.137.65|26038|Italy|Milan|Amazon.com, Inc.|
+|16|52.78.241.34|20134|South Korea|Seoul|Amazon Technologies Inc.|
+|17|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|18|43.130.34.135|5432|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|19|114.130.183.66|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|20|105.225.53.124|3128|South Africa|Hartbeespoort|Telkom SA Ltd|
 
 
 
