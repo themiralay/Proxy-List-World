@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.237.210.82|80|United States|Houston|FDCservers.net|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|4|23.237.210.82|80|United States|Houston|FDCservers.net|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|36.50.27.253|39250|Vietnam|Thủ Đức|BNIX|
-|8|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|9|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|34.242.245.234|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|12|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|13|54.154.77.8|3128|Ireland|Dublin|Amazon.com, Inc.|
-|14|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|15|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|16|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|17|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|18|43.216.250.248|23218|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|19|195.62.50.167|8085|Turkey|Adana|High Speed Telekomunikasyon VE Haberlesme Hizmetleriltd STI|
-|20|113.22.251.67|16000|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|1|192.46.230.254|3128|Singapore|Singapore|Akamai Technologies, Inc.|
+|2|42.118.0.208|16000|Vietnam|Hanoi|FPT Telecom Company|
+|3|23.237.210.82|80|United States|Houston|FDCservers.net|
+|4|27.79.152.160|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|27.71.130.116|16000|Vietnam|Đưc Trọng|Viettel Group|
+|7|42.118.0.3|16000|Vietnam|Hanoi|FPT Telecom Company|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|23.237.210.82|80|United States|Houston|FDCservers.net|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|49.49.146.246|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
+|13|1.52.199.148|16000|Vietnam|Hanoi|FPT Telecom Company|
+|14|42.114.11.43|16000|Vietnam|Hanoi|FPT Telecom Company|
+|15|34.242.245.234|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|16|222.228.171.92|8080|Japan|Nishiikebukuro|ARTERIA Networks Corporation|
+|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
