@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|128.199.140.172|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|10|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
-|11|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
-|14|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|15|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|16|18.132.14.119|3128|United Kingdom|London|Amazon Technologies Inc.|
-|17|18.226.200.222|51568|United States|Dublin|Amazon.com, Inc.|
-|18|23.237.210.82|80|United States|Houston|FDCservers.net|
-|19|35.91.207.96|3128|United States|Portland|Amazon.com, Inc.|
-|20|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|51.81.245.3|17981|United States|Hillsboro|OVH SAS|
+|8|43.216.214.221|4289|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|9|18.226.200.222|51568|United States|Dublin|Amazon.com, Inc.|
+|10|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|11|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
+|12|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|13|43.216.250.248|23218|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|14|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|15|23.237.210.82|80|United States|Houston|FDCservers.net|
+|16|108.136.149.20|25505|Indonesia|Jakarta|Amazon.com, Inc.|
+|17|16.26.88.4|28095|Australia|Melbourne|Amazon.com, Inc.|
+|18|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
