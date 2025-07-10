@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |2|165.22.251.46|12344|Singapore|Singapore|DigitalOcean, LLC|
-|3|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|6|116.103.91.81|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|37.27.253.44|8003|Finland|Helsinki|Hetzner Online GmbH|
-|8|18.226.200.222|51568|United States|Dublin|Amazon.com, Inc.|
-|9|27.79.149.170|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|12|116.103.29.91|16000|Vietnam|Đạ Tẻh|Viettel Corporation|
-|13|14.186.61.187|10017|Vietnam|Ho Chi Minh City|VNPT|
-|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|15|72.10.164.178|30801|Canada|Montreal|GloboTech Communications|
-|16|23.237.210.82|80|United States|Houston|FDCservers.net|
-|17|37.27.253.44|8003|Finland|Helsinki|Hetzner Online GmbH|
-|18|187.251.130.140|8080|Mexico|Ciudad de Villa de Álvarez|Total Play Telecomunicaciones SA De CV|
-|19|42.118.202.209|16000|Vietnam|Thu Dau Mot|FPT Telecom Company|
-|20|103.137.218.113|83|India|Bhagalpur|Nandbalaji Connecting Zone Pvt. Ltd|
+|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|5|27.71.130.116|16000|Vietnam|Đưc Trọng|Viettel Group|
+|6|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|43.216.214.221|4289|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|9|18.226.200.222|51568|United States|Dublin|Amazon.com, Inc.|
+|10|179.1.142.130|999|Colombia|Bogotá|Internexa S.a. E.S.P|
+|11|37.27.253.44|8073|Finland|Helsinki|Hetzner Online GmbH|
+|12|37.27.253.44|8073|Finland|Helsinki|Hetzner Online GmbH|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|14|192.81.129.252|3135|United States|Fremont|Akamai Technologies, Inc.|
+|15|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|16|14.186.61.187|10043|Vietnam|Ho Chi Minh City|VNPT|
+|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|18|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|19|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|20|103.158.252.197|8090|Indonesia|Jakarta|Rapid Network|
 
 
 
