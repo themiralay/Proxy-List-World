@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|1.54.77.7|16000|Vietnam|Hanoi|FPT Telecom Company|
+|1|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
 |2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|3|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
+|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
 |4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|5|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|6|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |8|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
-|9|3.254.114.35|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|10|54.247.60.97|3128|Ireland|Dublin|Amazon.com, Inc.|
-|11|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|13|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|14|116.103.91.81|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
-|16|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|17|27.79.149.170|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
-|19|51.44.85.200|3128|France|Paris|Amazon.com, Inc.|
-|20|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
+|9|54.247.60.97|3128|Ireland|Dublin|Amazon.com, Inc.|
+|10|35.152.137.65|26038|Italy|Milan|Amazon.com, Inc.|
+|11|18.132.14.119|3128|United Kingdom|London|Amazon Technologies Inc.|
+|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|13|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|14|3.254.114.35|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|15|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|16|18.226.200.222|51568|United States|Dublin|Amazon.com, Inc.|
+|17|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|18|35.179.146.181|3128|United Kingdom|London|Amazon Technologies Inc.|
+|19|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
