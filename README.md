@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|118.71.245.74|16000|Vietnam|Quận Ba|Vietnam Internet Network Information Center|
-|4|27.71.130.116|16000|Vietnam|Đưc Trọng|Viettel Group|
-|5|27.79.152.160|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|42.118.202.209|16000|Vietnam|Thu Dau Mot|FPT Telecom Company|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|103.189.62.131|8082|Indonesia|Denpasar|PT Blip Integrator Provider|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|103.191.196.206|8080|Indonesia|Pamanukan|PT Pangkalan Lintas Data|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|23.237.210.82|80|United States|Houston|FDCservers.net|
-|19|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
-|20|154.119.80.27|3128|Zimbabwe|Harare|Telecontract Pvt Ltd|
+|1|118.68.159.128|16000|Vietnam|Quận Phú Nhuận|FPT Telecom Company|
+|2|42.113.21.191|16000|Vietnam|Hanoi|FPT Telecom Company|
+|3|27.71.130.116|16000|Vietnam|Đưc Trọng|Viettel Group|
+|4|27.79.152.160|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|8|103.189.62.131|8082|Indonesia|Denpasar|PT Blip Integrator Provider|
+|9|42.114.11.43|16000|Vietnam|Hanoi|FPT Telecom Company|
+|10|42.118.202.209|16000|Vietnam|Thu Dau Mot|FPT Telecom Company|
+|11|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|13|118.71.245.74|16000|Vietnam|Quận Ba|Vietnam Internet Network Information Center|
+|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|114.130.183.66|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|20|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
 
 
 
