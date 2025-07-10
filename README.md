@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|43.216.75.140|42761|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|9|43.198.103.235|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|10|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|11|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
-|12|91.200.163.190|8088|Russia|Lyubertsy|Dubrovskaya Nataliya Vladislavovna|
-|13|108.136.149.20|25505|Indonesia|Jakarta|Amazon.com, Inc.|
-|14|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|15|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
-|16|165.22.251.46|12344|Singapore|Singapore|DigitalOcean, LLC|
-|17|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|1|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|43.216.75.140|42761|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|34.131.212.129|3128|India|New Delhi|Google LLC|
+|10|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|11|123.20.219.252|6004|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|12|34.47.162.24|3128|India|Mumbai|Google LLC|
+|13|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|14|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|15|165.22.251.46|12344|Singapore|Singapore|DigitalOcean, LLC|
+|16|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|17|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
 |18|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|19|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|20|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|19|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|20|34.93.114.8|3128|India|Mumbai|Google LLC|
 
 
 
