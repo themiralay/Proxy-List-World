@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.71.130.116|16000|Vietnam|Đưc Trọng|Viettel Group|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|42.114.11.43|16000|Vietnam|Hanoi|FPT Telecom Company|
-|4|49.156.44.114|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|34.242.245.234|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|13|34.244.20.86|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|14|3.254.149.124|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|15|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
-|16|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|54.193.116.236|8999|United States|San Jose|Amazon.com, Inc.|
-|19|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
+|3|42.118.173.112|16000|Vietnam|Hanoi|FPT Telecom Company|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|34.242.245.234|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|10|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
+|11|3.254.149.124|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|12|35.152.137.65|26038|Italy|Milan|Amazon.com, Inc.|
+|13|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|14|42.118.74.158|16000|Vietnam|Hanoi|FPT Telecom Company|
+|15|35.177.23.165|10535|United Kingdom|London|Amazon Technologies Inc.|
+|16|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
+|17|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|18|27.71.130.116|16000|Vietnam|Đưc Trọng|Viettel Group|
+|19|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|20|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
 
 
 
