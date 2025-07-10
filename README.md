@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|116.103.91.81|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|45.138.25.9|3128|The Netherlands|Amsterdam|ITGLOBAL.COM NL B.V.|
-|6|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|7|34.131.205.250|3128|India|New Delhi|Google LLC|
-|8|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|9|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
-|10|42.118.173.112|16000|Vietnam|Hanoi|FPT Telecom Company|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|42.113.21.191|16000|Vietnam|Hanoi|FPT Telecom Company|
-|14|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
-|15|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
-|16|91.213.99.134|3128|Uzbekistan|Tashkent|New Line Solutions LLC|
-|17|18.226.200.222|51568|United States|Dublin|Amazon.com, Inc.|
-|18|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|19|103.18.79.165|8080|Indonesia|Ciampea|PT Usaha Adi Sanggoro|
-|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|34.131.205.250|3128|India|New Delhi|Google LLC|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|116.103.29.91|16000|Vietnam|Đạ Tẻh|Viettel Corporation|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|10|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|11|27.79.149.170|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|42.113.21.191|16000|Vietnam|Hanoi|FPT Telecom Company|
+|13|18.226.200.222|51568|United States|Dublin|Amazon.com, Inc.|
+|14|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|15|27.71.130.116|16000|Vietnam|Đưc Trọng|Viettel Group|
+|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|17|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
+|18|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|19|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|20|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
 
 
 
