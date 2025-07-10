@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **40241** proxies at the latest update. Usable proxies are below.
+> Scraper found **76838** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36597|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|129|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38886|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.103.29.91|16000|Vietnam|Đạ Tẻh|Viettel Corporation|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|118.71.95.149|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|4|1.54.77.7|16000|Vietnam|Hanoi|FPT Telecom Company|
-|5|42.118.74.51|16000|Vietnam|Hanoi|FPT Telecom Company|
-|6|27.79.136.224|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|42.118.202.191|16000|Vietnam|Thu Dau Mot|FPT Telecom Company|
-|9|27.79.250.93|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|27.79.205.148|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|27.79.149.170|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|27.79.188.254|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|27.79.170.34|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|15|118.71.172.36|16000|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|17|42.118.0.208|16000|Vietnam|Hanoi|FPT Telecom Company|
-|18|27.79.221.94|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|42.119.98.38|16000|Vietnam|Quận Hai|FPT Telecom Company|
-|20|1.54.172.229|16000|Vietnam|Hanoi|FPT Telecom Company|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|35.179.146.181|3128|United Kingdom|London|Amazon Technologies Inc.|
+|7|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|8|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
+|9|54.247.60.97|3128|Ireland|Dublin|Amazon.com, Inc.|
+|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|11|3.254.114.35|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|12|27.79.221.94|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|14|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|15|27.71.138.112|16000|Vietnam|Bảo Lộc|Viettel Group|
+|16|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
+|17|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|18|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|19|35.177.23.165|10535|United Kingdom|London|Amazon Technologies Inc.|
+|20|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
 
 
 
