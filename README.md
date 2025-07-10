@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|34.47.189.147|3128|India|Mumbai|Google LLC|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|13|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|14|165.22.251.46|12344|Singapore|Singapore|DigitalOcean, LLC|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
-|17|51.44.85.200|3128|France|Paris|Amazon.com, Inc.|
-|18|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|19|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|20|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|7|35.200.188.211|3128|India|Mumbai|Google LLC|
+|8|34.131.50.233|3128|India|New Delhi|Google LLC|
+|9|34.93.21.237|3128|India|Mumbai|Google LLC|
+|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|11|34.131.20.141|3128|India|New Delhi|Google LLC|
+|12|34.131.245.6|3128|India|New Delhi|Google LLC|
+|13|34.131.66.171|3128|India|New Delhi|Google LLC|
+|14|34.131.246.27|3128|India|New Delhi|Google LLC|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|17|198.23.236.47|1111|United States|Santa Clara|HostPapa|
+|18|34.131.214.238|3128|India|New Delhi|Google LLC|
+|19|34.93.195.209|3128|India|Mumbai|Google LLC|
+|20|34.47.225.111|3128|India|Mumbai|Google LLC|
 
 
 
