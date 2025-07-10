@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|2|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|2|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |5|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|6|46.39.105.251|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|7|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
-|8|23.237.210.82|80|United States|Houston|FDCservers.net|
-|9|43.129.77.105|8080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|91.213.99.134|3128|Uzbekistan|Tashkent|New Line Solutions LLC|
-|12|51.84.110.224|3128|Israel|Tel Aviv|Amazon.com, Inc.|
-|13|35.152.137.65|26038|Italy|Milan|Amazon.com, Inc.|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|27.79.149.170|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|17|58.186.248.216|16000|Vietnam|Vũng Tàu|FPT Telecom Company|
-|18|27.71.130.116|16000|Vietnam|Đưc Trọng|Viettel Group|
-|19|37.27.253.44|8015|Finland|Helsinki|Hetzner Online GmbH|
-|20|103.125.160.178|83|India|Hyderabad|CtrlS|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|9|27.71.138.112|16000|Vietnam|Bảo Lộc|Viettel Group|
+|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|11|51.44.85.200|3128|France|Paris|Amazon.com, Inc.|
+|12|16.26.88.4|28095|Australia|Melbourne|Amazon.com, Inc.|
+|13|23.237.210.82|80|United States|Houston|FDCservers.net|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|3.26.174.5|18609|Australia|Sydney|Amazon Technologies Inc.|
+|17|171.248.72.180|10008|Vietnam|Long An|Viettel Corporation|
+|18|43.216.214.221|4289|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|19|58.186.248.216|16000|Vietnam|Vũng Tàu|FPT Telecom Company|
+|20|27.79.149.170|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
