@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|2|42.118.173.112|16000|Vietnam|Hanoi|FPT Telecom Company|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|116.103.29.91|16000|Vietnam|Đạ Tẻh|Viettel Corporation|
-|8|116.103.91.81|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|42.113.20.253|16000|Vietnam|Hanoi|FPT Telecom Company|
-|10|27.79.152.160|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|18.226.200.222|51568|United States|Dublin|Amazon.com, Inc.|
-|14|54.193.116.236|8999|United States|San Jose|Amazon.com, Inc.|
-|15|18.132.14.119|3128|United Kingdom|London|Amazon Technologies Inc.|
-|16|54.193.116.236|8999|United States|San Jose|Amazon.com, Inc.|
-|17|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|18|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
-|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|20|108.136.149.20|25505|Indonesia|Jakarta|Amazon.com, Inc.|
+|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|42.113.20.253|16000|Vietnam|Hanoi|FPT Telecom Company|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|103.156.16.233|8085|Indonesia|Jatibarang|RSTNET|
+|13|116.103.29.91|16000|Vietnam|Đạ Tẻh|Viettel Corporation|
+|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|103.75.54.230|8080|Indonesia|Jakarta|PT Quantum Tera Network|
+|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|27.79.149.170|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
 
 
 
