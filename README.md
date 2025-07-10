@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|42.118.74.51|16000|Vietnam|Hanoi|FPT Telecom Company|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |8|3.249.42.134|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|27.79.188.254|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|13|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
-|14|171.247.80.172|4003|Vietnam|Biên Hòa|Viettel Corporation|
-|15|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
-|16|35.179.146.181|3128|United Kingdom|London|Amazon Technologies Inc.|
-|17|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|18|37.27.253.44|8014|Finland|Helsinki|Hetzner Online GmbH|
-|19|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|20|13.245.30.86|3128|South Africa|Johannesburg|Amazon.com, Inc.|
+|9|115.72.3.180|10007|Vietnam|Vũng Tàu|VIETELmetro|
+|10|18.132.14.119|3128|United Kingdom|London|Amazon Technologies Inc.|
+|11|42.118.0.24|16000|Vietnam|Hanoi|FPT Telecom Company|
+|12|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|13|27.71.138.112|16000|Vietnam|Bảo Lộc|Viettel Group|
+|14|54.193.116.236|8999|United States|San Jose|Amazon.com, Inc.|
+|15|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|16|108.136.149.20|25505|Indonesia|Jakarta|Amazon.com, Inc.|
+|17|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
+|18|42.118.74.182|16000|Vietnam|Hanoi|FPT Telecom Company|
+|19|51.44.85.200|3128|France|Paris|Amazon.com, Inc.|
+|20|27.79.205.148|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
