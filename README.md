@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|1|42.119.98.38|16000|Vietnam|Quận Hai|FPT Telecom Company|
+|2|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |4|23.237.210.82|80|United States|Houston|FDCservers.net|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|23.237.210.82|80|United States|Houston|FDCservers.net|
-|7|171.248.72.180|10008|Vietnam|Long An|Viettel Corporation|
-|8|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
-|9|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|5|23.237.210.82|80|United States|Houston|FDCservers.net|
+|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
 |10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|12|3.249.24.86|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|15|91.184.249.92|3128|Czechia|Prague|SmartApe OU|
-|16|41.140.231.162|39811|Morocco|Rabat|ADSL Maroc telecom|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|19|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|20|27.71.138.112|16000|Vietnam|Bảo Lộc|Viettel Group|
+|11|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|12|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
+|13|27.79.136.224|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|3.249.24.86|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|15|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
+|16|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|41.140.231.162|39811|Morocco|Rabat|ADSL Maroc telecom|
+|19|91.184.249.92|3128|Czechia|Prague|SmartApe OU|
+|20|43.216.250.248|23218|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
 
 
 
