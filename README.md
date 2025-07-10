@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|3|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|4|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|45.123.142.82|1111|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
-|7|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|9|35.179.146.181|3128|United Kingdom|London|Amazon Technologies Inc.|
-|10|35.200.188.211|3128|India|Mumbai|Google LLC|
-|11|108.136.149.20|25505|Indonesia|Jakarta|Amazon.com, Inc.|
-|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|13|34.93.114.8|3128|India|Mumbai|Google LLC|
-|14|198.23.236.47|1111|United States|Santa Clara|HostPapa|
-|15|18.132.14.119|3128|United Kingdom|London|Amazon Technologies Inc.|
-|16|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|17|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|18|171.228.135.233|1001|Vietnam|Hanoi|Viettel Corporation|
-|19|35.177.23.165|14601|United Kingdom|London|Amazon Technologies Inc.|
-|20|72.10.164.178|32119|Canada|Montreal|GloboTech Communications|
+|1|45.123.142.82|1111|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|116.103.91.81|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.71.130.116|16000|Vietnam|Đưc Trọng|Viettel Group|
+|6|116.103.29.91|16000|Vietnam|Đạ Tẻh|Viettel Corporation|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|13|35.200.188.211|3128|India|Mumbai|Google LLC|
+|14|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|15|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|43.216.75.140|42761|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|17|54.193.116.236|8999|United States|San Jose|Amazon.com, Inc.|
+|18|16.26.88.4|28095|Australia|Melbourne|Amazon.com, Inc.|
+|19|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|20|35.179.146.181|3128|United Kingdom|London|Amazon Technologies Inc.|
 
 
 
