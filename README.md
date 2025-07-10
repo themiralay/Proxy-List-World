@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|23.237.210.82|80|United States|Houston|FDCservers.net|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|23.237.210.82|80|United States|Houston|FDCservers.net|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
-|10|3.249.24.86|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|11|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|12|46.39.105.251|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|13|41.140.231.162|39811|Morocco|Rabat|ADSL Maroc telecom|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|27.79.149.170|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|1.54.172.229|16000|Vietnam|Hanoi|FPT Telecom Company|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|43.216.250.248|23218|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|19|91.184.249.92|3128|Czechia|Prague|SmartApe OU|
-|20|43.129.77.105|8080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|4|23.237.210.82|80|United States|Houston|FDCservers.net|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|23.237.210.82|80|United States|Houston|FDCservers.net|
+|7|171.248.72.180|10008|Vietnam|Long An|Viettel Corporation|
+|8|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
+|9|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|12|3.249.24.86|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|15|91.184.249.92|3128|Czechia|Prague|SmartApe OU|
+|16|41.140.231.162|39811|Morocco|Rabat|ADSL Maroc telecom|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|19|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|20|27.71.138.112|16000|Vietnam|Bảo Lộc|Viettel Group|
 
 
 
