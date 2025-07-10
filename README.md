@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|2|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|3|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|6|52.78.241.34|20134|South Korea|Seoul|Amazon Technologies Inc.|
-|7|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|9|42.113.20.253|16000|Vietnam|Hanoi|FPT Telecom Company|
-|10|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|11|16.26.88.4|28095|Australia|Melbourne|Amazon.com, Inc.|
-|12|18.132.14.119|3128|United Kingdom|London|Amazon Technologies Inc.|
-|13|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|16|116.103.29.91|16000|Vietnam|Đạ Tẻh|Viettel Corporation|
-|17|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|18|13.245.30.86|3128|South Africa|Johannesburg|Amazon.com, Inc.|
-|19|3.26.174.5|18609|Australia|Sydney|Amazon Technologies Inc.|
-|20|122.52.44.56|8081|Philippines|Bacoor|Philippine Long Distance Telephone Co.|
+|1|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|2|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|3|168.138.147.179|3128|Brazil|São Paulo|Oracle Corporation|
+|4|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|18.132.14.119|3128|United Kingdom|London|Amazon Technologies Inc.|
+|7|43.216.214.221|4289|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|8|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
+|9|51.44.85.200|3128|France|Paris|Amazon.com, Inc.|
+|10|43.198.103.235|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|11|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|12|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|13|52.78.241.34|20134|South Korea|Seoul|Amazon Technologies Inc.|
+|14|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|3.26.174.5|18609|Australia|Sydney|Amazon Technologies Inc.|
+|17|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|18|35.177.23.165|10535|United Kingdom|London|Amazon Technologies Inc.|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|20|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
 
 
 
