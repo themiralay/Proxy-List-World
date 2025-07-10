@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|165.22.251.46|12344|Singapore|Singapore|DigitalOcean, LLC|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |7|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
-|8|3.254.110.154|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|9|54.154.77.8|3128|Ireland|Dublin|Amazon.com, Inc.|
-|10|3.254.114.35|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|11|3.249.1.96|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|12|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|13|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|14|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|15|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|89.249.62.8|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|35.179.146.181|3128|United Kingdom|London|Amazon Technologies Inc.|
-|19|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|20|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|8|3.254.114.35|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|9|3.249.1.96|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|10|3.254.110.154|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|11|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|12|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|13|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|15|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|16|116.103.29.91|16000|Vietnam|Đạ Tẻh|Viettel Corporation|
+|17|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|43.216.75.140|42761|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|20|43.216.250.248|23218|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
 
 
 
