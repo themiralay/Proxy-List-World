@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|42.118.0.208|16000|Vietnam|Hanoi|FPT Telecom Company|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|14.247.254.180|8080|Vietnam|Hanoi|VNPT|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|7|20.162.224.93|8080|United Kingdom|City of London|Microsoft Corporation|
-|8|1.54.172.229|16000|Vietnam|Hanoi|FPT Telecom Company|
-|9|23.237.210.82|80|United States|Houston|FDCservers.net|
-|10|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
-|11|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|12|1.52.197.197|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|13|42.118.74.182|16000|Vietnam|Hanoi|FPT Telecom Company|
-|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|15|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|16|34.242.245.234|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|14.247.254.180|8080|Vietnam|Hanoi|VNPT|
+|3|1.52.197.197|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|4|23.237.210.82|80|United States|Houston|FDCservers.net|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|42.119.98.60|16000|Vietnam|Quận Hai|FPT Telecom Company|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|12|23.237.210.82|80|United States|Houston|FDCservers.net|
+|13|20.162.224.93|8080|United Kingdom|City of London|Microsoft Corporation|
+|14|34.242.245.234|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|15|3.249.24.86|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|16|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 |17|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
-|18|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|3.249.24.86|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|20|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|20|1.54.54.118|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
 
 
 
