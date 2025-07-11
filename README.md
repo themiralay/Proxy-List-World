@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.248.189.97|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|118.194.249.77|8080|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|3|118.194.249.77|8080|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
 |8|3.83.156.184|3128|United States|Ashburn|Amazon Technologies Inc.|
-|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|194.4.49.128|10808|France|Paris|PQ HOSTING PLUS S.R.L.|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|223.204.177.161|3128|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|13|43.216.75.140|42761|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|14|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|15|91.213.99.134|3128|Uzbekistan|Tashkent|New Line Solutions LLC|
-|16|40.192.110.77|29733|India|Hyderabad|Amazon.com, Inc.|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|19|157.175.224.240|3128|Bahrain|Manama|Amazon.com, Inc.|
-|20|3.83.156.184|3128|United States|Ashburn|Amazon Technologies Inc.|
+|9|3.83.156.184|3128|United States|Ashburn|Amazon Technologies Inc.|
+|10|27.71.139.33|16000|Vietnam|Hanoi|Viettel Group|
+|11|18.141.234.54|54314|Singapore|Singapore|Amazon.com, Inc.|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|165.22.251.46|12344|Singapore|Singapore|DigitalOcean, LLC|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
+|16|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|17|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|18|80.87.192.7|3128|Russia|Khimki|JSC IOT|
+|19|159.65.207.109|8080|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|20|35.152.137.65|26038|Italy|Milan|Amazon.com, Inc.|
 
 
 
