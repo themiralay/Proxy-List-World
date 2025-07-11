@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.194.239.173|8080|Hong Kong|Hong Kong|RETN (Hong Kong) Limited|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|4|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|51.84.110.224|3128|Israel|Tel Aviv|Amazon.com, Inc.|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|54.193.116.236|8999|United States|San Jose|Amazon.com, Inc.|
-|10|18.226.200.222|51568|United States|Dublin|Amazon.com, Inc.|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|13|103.189.62.131|8082|Indonesia|Denpasar|PT Blip Integrator Provider|
-|14|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|15|117.161.170.163|9349|China|Guangzhou|China Mobile communications corporation|
-|16|164.163.42.48|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|222.59.173.105|45094|China|Qinnan|China Mobile Communications Corporation|
-|18|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|19|65.108.145.212|8017|Finland|Helsinki|Hetzner Online GmbH|
-|20|23.237.210.82|80|United States|Houston|FDCservers.net|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|1.54.54.118|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
+|10|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|103.194.239.173|8080|Hong Kong|Hong Kong|RETN (Hong Kong) Limited|
+|13|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|14|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|15|27.71.130.116|16000|Vietnam|Đưc Trọng|Viettel Group|
+|16|185.200.38.53|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|85.206.93.105|8080|Lithuania|Kaunas|Telia Lietuva|
+|18|37.27.253.44|8014|Finland|Helsinki|Hetzner Online GmbH|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|20|222.59.173.105|45001|China|Qinnan|China Mobile Communications Corporation|
 
 
 
