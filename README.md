@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|2|1.52.197.113|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|3|103.194.239.173|8080|Hong Kong|Hong Kong|RETN (Hong Kong) Limited|
-|4|103.252.1.59|8080|Vietnam|Cầu Giấy|CMCMIENBAC|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|1.52.198.150|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|9|14.247.254.180|8080|Vietnam|Hanoi|VNPT|
-|10|27.71.138.112|16000|Vietnam|Bảo Lộc|Viettel Group|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|12|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|14|58.186.130.143|16000|Vietnam|Hanoi|FPT Telecom Company|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|18|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|19|23.237.210.82|80|United States|Houston|FDCservers.net|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|1|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|2|103.194.239.173|8080|Hong Kong|Hong Kong|RETN (Hong Kong) Limited|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|14.247.254.180|8080|Vietnam|Hanoi|VNPT|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|43.129.77.105|8080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|8|103.252.1.59|8080|Vietnam|Cầu Giấy|CMCMIENBAC|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
+|11|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|12|43.216.214.221|4289|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|13|23.237.210.82|80|United States|Houston|FDCservers.net|
+|14|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|165.22.251.46|12344|Singapore|Singapore|DigitalOcean, LLC|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|159.65.207.109|8080|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|19|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|20|58.186.248.216|16000|Vietnam|Vũng Tàu|FPT Telecom Company|
 
 
 
