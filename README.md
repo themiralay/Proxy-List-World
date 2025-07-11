@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|118.194.249.77|8080|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|42.118.0.24|16000|Vietnam|Hanoi|FPT Telecom Company|
-|3|3.83.156.184|3128|United States|Ashburn|Amazon Technologies Inc.|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|3.83.156.184|3128|United States|Ashburn|Amazon Technologies Inc.|
-|7|27.71.139.33|16000|Vietnam|Hanoi|Viettel Group|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|27.79.135.172|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|15|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
-|16|159.65.207.109|8080|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|17|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|19|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|20|18.60.111.249|6698|India|Hyderabad|Amazon.com, Inc.|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|3.83.156.184|3128|United States|Ashburn|Amazon Technologies Inc.|
+|6|118.194.249.77|8080|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|3.83.156.184|3128|United States|Ashburn|Amazon Technologies Inc.|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|11|18.60.111.249|6698|India|Hyderabad|Amazon.com, Inc.|
+|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|15|51.159.107.202|8118|France|Paris|SCALEWAY|
+|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|17|91.213.99.134|3128|Uzbekistan|Tashkent|New Line Solutions LLC|
+|18|51.84.110.224|3128|Israel|Tel Aviv|Amazon.com, Inc.|
+|19|223.204.80.13|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|20|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
 
 
 
