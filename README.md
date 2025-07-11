@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|2|14.247.254.180|8080|Vietnam|Hanoi|VNPT|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|103.194.239.173|8080|Hong Kong|Hong Kong|RETN (Hong Kong) Limited|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|23.237.210.82|80|United States|Houston|FDCservers.net|
-|9|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|10|23.237.210.82|80|United States|Houston|FDCservers.net|
-|11|194.4.49.128|10808|France|Paris|PQ HOSTING PLUS S.R.L.|
-|12|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|14|54.193.116.236|8999|United States|San Jose|Amazon.com, Inc.|
-|15|135.181.251.78|3128|Finland|Helsinki|Hetzner Online GmbH|
-|16|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|17|51.84.110.224|3128|Israel|Tel Aviv|Amazon.com, Inc.|
-|18|18.132.14.119|3128|United Kingdom|London|Amazon Technologies Inc.|
-|19|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|20|103.252.1.59|8080|Vietnam|Cầu Giấy|CMCMIENBAC|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|103.194.239.173|8080|Hong Kong|Hong Kong|RETN (Hong Kong) Limited|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|14.247.254.180|8080|Vietnam|Hanoi|VNPT|
+|7|40.192.110.77|29733|India|Hyderabad|Amazon.com, Inc.|
+|8|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|12|23.237.210.82|80|United States|Houston|FDCservers.net|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|16.26.88.4|28095|Australia|Melbourne|Amazon.com, Inc.|
+|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|16|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|17|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
+|18|43.216.250.248|23218|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|19|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|20|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
 
 
 
