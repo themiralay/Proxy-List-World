@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.194.239.173|8080|Hong Kong|Hong Kong|RETN (Hong Kong) Limited|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|23.237.210.82|80|United States|Houston|FDCservers.net|
-|4|103.230.69.219|8888|India|Noida|GPLHost LLC|
-|5|23.237.210.82|80|United States|Houston|FDCservers.net|
+|3|103.194.239.173|8080|Hong Kong|Hong Kong|RETN (Hong Kong) Limited|
+|4|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |6|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|10|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|11|135.181.251.78|3128|Finland|Helsinki|Hetzner Online GmbH|
-|12|43.129.77.105|8080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|13|51.84.110.224|3128|Israel|Tel Aviv|Amazon.com, Inc.|
-|14|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|15|91.229.78.250|8448|Ukraine|Kyiv|Zemlyaniy Dmitro Leonidovich|
-|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|17|51.159.159.73|80|France|Paris|SCALEWAY|
-|18|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|19|18.226.200.222|51568|United States|Dublin|Amazon.com, Inc.|
-|20|16.26.88.4|28095|Australia|Melbourne|Amazon.com, Inc.|
+|7|23.237.210.82|80|United States|Houston|FDCservers.net|
+|8|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|103.230.69.219|8888|India|Noida|GPLHost LLC|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
+|14|135.181.251.78|3128|Finland|Helsinki|Hetzner Online GmbH|
+|15|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|16|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|17|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|18|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|19|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|20|14.247.254.180|8080|Vietnam|Hanoi|VNPT|
 
 
 
