@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.145.34.50|1111|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
-|2|157.10.97.17|8080|Indonesia|Pulau Temiang|PT Lintas Jaringan Nusantara|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|23.237.210.82|80|United States|Houston|FDCservers.net|
+|1|103.194.239.173|8080|Hong Kong|Hong Kong|RETN (Hong Kong) Limited|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|10|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|11|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|12|103.194.239.173|8080|Hong Kong|Hong Kong|RETN (Hong Kong) Limited|
-|13|54.193.116.236|8999|United States|San Jose|Amazon.com, Inc.|
-|14|27.79.212.189|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|40.192.110.77|29733|India|Hyderabad|Amazon.com, Inc.|
-|18|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
-|19|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|20|159.65.207.109|8080|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|103.82.134.7|32629|Vietnam|Thanh Khê|Cloudfly Corporation|
+|9|23.237.210.82|80|United States|Houston|FDCservers.net|
+|10|43.129.77.105|8080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|11|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|12|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|13|27.79.212.189|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|3.26.174.5|18609|Australia|Sydney|Amazon Technologies Inc.|
+|15|160.187.174.58|8080|Indonesia|Deli Serdang|PT Netindo Persada Nusantara|
+|16|18.226.200.222|51568|United States|Dublin|Amazon.com, Inc.|
+|17|103.203.234.13|8181|Indonesia|Ungaran|PT Nesta Indo Media|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|18.226.200.222|51568|United States|Dublin|Amazon.com, Inc.|
+|20|3.145.16.157|1080|United States|Dublin|Amazon.com, Inc.|
 
 
 
