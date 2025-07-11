@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|23.237.210.82|80|United States|Houston|FDCservers.net|
-|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|8|43.216.214.221|4289|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
 |9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|10|105.157.155.20|39811|Morocco|Fes|ADSL Maroc telecom|
 |11|23.237.210.82|80|United States|Houston|FDCservers.net|
-|12|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|13|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|14|18.141.234.54|54314|Singapore|Singapore|Amazon.com, Inc.|
-|15|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
-|16|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|17|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
-|18|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|19|35.177.23.165|10535|United Kingdom|London|Amazon Technologies Inc.|
-|20|40.192.110.77|29733|India|Hyderabad|Amazon.com, Inc.|
+|12|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|13|51.44.85.200|3128|France|Paris|Amazon.com, Inc.|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|43.198.103.235|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|17|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|20|27.79.135.172|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
