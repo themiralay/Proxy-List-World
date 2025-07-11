@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|103.194.239.173|8080|Hong Kong|Hong Kong|RETN (Hong Kong) Limited|
 |2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|103.252.1.59|8080|Vietnam|Cầu Giấy|CMCMIENBAC|
-|7|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|14.247.254.180|8080|Vietnam|Hanoi|VNPT|
-|10|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|11|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
-|12|27.71.130.116|16000|Vietnam|Đưc Trọng|Viettel Group|
-|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|14|23.237.210.82|80|United States|Houston|FDCservers.net|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|17|103.230.69.219|8888|India|Noida|GPLHost LLC|
-|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|19|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|20|1.52.197.113|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|103.230.69.219|8888|India|Noida|GPLHost LLC|
+|6|14.247.254.180|8080|Vietnam|Hanoi|VNPT|
+|7|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
+|8|103.230.69.219|8888|India|Noida|GPLHost LLC|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|89.58.50.94|13140|Germany|Nuremberg|netcup GmbH|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|13|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|14|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|15|159.65.207.109|8080|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|16|23.237.210.82|80|United States|Houston|FDCservers.net|
+|17|43.216.250.248|23218|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|19|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|20|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
 
 
 
