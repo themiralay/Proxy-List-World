@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|103.194.239.173|8080|Hong Kong|Hong Kong|RETN (Hong Kong) Limited|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|8|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
-|9|51.44.85.200|3128|France|Paris|Amazon.com, Inc.|
-|10|159.65.207.109|8080|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|11|35.177.23.165|10535|United Kingdom|London|Amazon Technologies Inc.|
-|12|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
+|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|6|51.84.110.224|3128|Israel|Tel Aviv|Amazon.com, Inc.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|108.136.163.59|3561|Indonesia|Jakarta|Amazon.com, Inc.|
+|9|159.65.207.109|8080|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|10|43.216.214.221|4289|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|11|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
+|12|3.26.174.5|18609|Australia|Sydney|Amazon Technologies Inc.|
 |13|13.245.30.86|3128|South Africa|Johannesburg|Amazon.com, Inc.|
-|14|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|16|108.136.163.59|3561|Indonesia|Jakarta|Amazon.com, Inc.|
-|17|109.94.165.46|8080|Iran|Tehran|Damash Software Computer Services LTD|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|139.59.162.13|3128|United Kingdom|Slough|DIGITALOCEAN|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|108.136.149.20|25505|Indonesia|Jakarta|Amazon.com, Inc.|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|18|103.137.91.250|8080|Laos|Vientiane|SLT Network Co., LTD|
 |19|160.248.189.96|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|128.199.253.195|9090|Singapore|Singapore|DigitalOcean, LLC|
+|20|94.136.186.241|3128|India|Mumbai|Contabo Asia Private Limited|
 
 
 
