@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|103.194.239.173|8080|Hong Kong|Hong Kong|RETN (Hong Kong) Limited|
-|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|3|103.252.1.59|8080|Vietnam|Cầu Giấy|CMCMIENBAC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|10|89.58.50.94|13140|Germany|Nuremberg|netcup GmbH|
-|11|135.181.251.78|3128|Finland|Helsinki|Hetzner Online GmbH|
-|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|15|103.230.69.219|8888|India|Noida|GPLHost LLC|
-|16|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|17|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|18|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|19|18.132.14.119|3128|United Kingdom|London|Amazon Technologies Inc.|
-|20|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|2|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|3|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|4|23.237.210.82|80|United States|Houston|FDCservers.net|
+|5|23.237.210.82|80|United States|Houston|FDCservers.net|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|42.119.98.60|16000|Vietnam|Quận Hai|FPT Telecom Company|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|1.54.54.118|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|10|27.79.136.224|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|1.52.198.221|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|13|42.118.74.182|16000|Vietnam|Hanoi|FPT Telecom Company|
+|14|51.159.159.73|80|France|Paris|SCALEWAY|
+|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|16|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|17|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|18|43.216.250.248|23218|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|19|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|20|89.58.50.94|13140|Germany|Nuremberg|netcup GmbH|
 
 
 
