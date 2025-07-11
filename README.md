@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.247.254.180|8080|Vietnam|Hanoi|VNPT|
-|2|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|4|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|43.198.103.235|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|10|54.193.116.236|8999|United States|San Jose|Amazon.com, Inc.|
+|1|58.186.92.121|16000|Vietnam|Hanoi|FPT Telecom Company|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|14.247.254.180|8080|Vietnam|Hanoi|VNPT|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|42.119.98.60|16000|Vietnam|Quận Hai|FPT Telecom Company|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|10|43.198.103.235|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
 |11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
-|13|37.27.253.44|8099|Finland|Helsinki|Hetzner Online GmbH|
-|14|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|15|37.27.253.44|8099|Finland|Helsinki|Hetzner Online GmbH|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|17|146.190.80.158|9090|Singapore|Singapore|DigitalOcean, LLC|
+|12|3.145.16.157|1080|United States|Dublin|Amazon.com, Inc.|
+|13|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|14|37.27.253.44|8063|Finland|Helsinki|Hetzner Online GmbH|
+|15|54.193.116.236|8999|United States|San Jose|Amazon.com, Inc.|
+|16|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
+|17|147.75.49.154|80|United States|San Jose|Packet Host, Inc.|
 |18|182.253.109.188|8080|Indonesia|Semarang|Biznet Metronet|
-|19|147.75.49.154|80|United States|San Jose|Packet Host, Inc.|
-|20|171.228.174.230|5101|Vietnam|Hanoi|Viettel Corporation|
+|19|14.247.254.180|8080|Vietnam|Hanoi|VNPT|
+|20|23.237.210.82|80|United States|Houston|FDCservers.net|
 
 
 
