@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|2|116.104.179.15|4010|Vietnam|Hanoi|Viettel Corporation|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|43.216.214.221|4289|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|58.186.92.121|16000|Vietnam|Hanoi|FPT Telecom Company|
-|10|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|11|159.65.207.109|8080|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|12|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|13|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
-|14|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|15|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|16|35.177.23.165|10535|United Kingdom|London|Amazon Technologies Inc.|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|52.78.241.34|20134|South Korea|Seoul|Amazon Technologies Inc.|
-|19|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|20|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|1|103.194.239.173|8080|Hong Kong|Hong Kong|RETN (Hong Kong) Limited|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|8|27.71.138.112|16000|Vietnam|Bảo Lộc|Viettel Group|
+|9|3.145.16.157|1080|United States|Dublin|Amazon.com, Inc.|
+|10|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|11|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|12|43.216.214.221|4289|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|13|103.188.252.163|8080|Indonesia|Ungaran|PT Data Lintas Media Indonesia|
+|14|51.84.110.224|3128|Israel|Tel Aviv|Amazon.com, Inc.|
+|15|37.27.253.44|8063|Finland|Helsinki|Hetzner Online GmbH|
+|16|37.27.253.44|8063|Finland|Helsinki|Hetzner Online GmbH|
+|17|37.27.253.44|8063|Finland|Helsinki|Hetzner Online GmbH|
+|18|65.108.145.212|8099|Finland|Helsinki|Hetzner Online GmbH|
+|19|37.27.253.44|8063|Finland|Helsinki|Hetzner Online GmbH|
+|20|164.163.42.56|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
