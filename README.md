@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **76963** proxies at the latest update. Usable proxies are below.
+> Scraper found **77031** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36656|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|98|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|166|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38983|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|1.54.69.198|16000|Vietnam|Hanoi|FPT Telecom Company|
-|2|103.194.239.173|8080|Hong Kong|Hong Kong|RETN (Hong Kong) Limited|
-|3|1.52.198.221|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|4|1.54.54.118|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|5|58.186.92.121|16000|Vietnam|Hanoi|FPT Telecom Company|
-|6|58.186.130.143|16000|Vietnam|Hanoi|FPT Telecom Company|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|45.167.93.24|999|Mexico|Mérida|Lantointernet SA De CV|
-|10|182.253.109.188|8080|Indonesia|Semarang|Biznet Metronet|
-|11|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|12|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|13|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|1.52.198.150|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|16|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|17|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
-|18|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|19|43.129.77.105|8080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|20|23.237.210.82|80|United States|Houston|FDCservers.net|
+|1|103.194.239.173|8080|Hong Kong|Hong Kong|RETN (Hong Kong) Limited|
+|2|1.54.54.118|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|3|182.253.109.188|8080|Indonesia|Semarang|Biznet Metronet|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|11|35.180.23.174|42949|France|Paris|Amazon Technologies Inc.|
+|12|18.132.14.119|3128|United Kingdom|London|Amazon Technologies Inc.|
+|13|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|14|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
+|15|23.237.210.82|80|United States|Houston|FDCservers.net|
+|16|108.136.163.59|3561|Indonesia|Jakarta|Amazon.com, Inc.|
+|17|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|18|3.109.62.30|717|India|Mumbai|Amazon Technologies Inc.|
+|19|52.78.241.34|20134|South Korea|Seoul|Amazon Technologies Inc.|
+|20|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
