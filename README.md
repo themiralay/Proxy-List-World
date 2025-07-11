@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|152.53.194.46|8080|Austria|Vienna|ANXHOLDING2|
-|7|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|180.149.234.74|6214|Bangladesh|Gazipur|Digi Jadoo Broadband Ltd|
-|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|14|160.19.18.39|8080|Indonesia|Tangerang|PT Indo Telemedia Solusi|
-|15|31.14.114.71|1081|Iran|Tehran|Afranet Co|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|43.129.77.105|8080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|19|43.216.214.221|4289|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|20|157.175.224.240|52638|Bahrain|Manama|Amazon.com, Inc.|
+|2|103.167.171.50|8080|Indonesia|Jakarta|PT Rajeg Media Telekomunikasi|
+|3|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|27.71.140.233|16000|Vietnam|Hanoi|Viettel Group|
+|9|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|10|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|11|103.93.93.66|8080|Indonesia|Tanggulangin|MYRISE|
+|12|3.83.156.184|3128|United States|Ashburn|Amazon Technologies Inc.|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|16|118.194.249.77|8080|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|17|51.44.85.200|3128|France|Paris|Amazon.com, Inc.|
+|18|3.83.156.184|3128|United States|Ashburn|Amazon Technologies Inc.|
+|19|3.109.62.30|717|India|Mumbai|Amazon Technologies Inc.|
+|20|31.14.114.70|1081|Iran|Tehran|Afranet Co|
 
 
 
