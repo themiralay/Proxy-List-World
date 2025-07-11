@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|42.118.74.182|16000|Vietnam|Hanoi|FPT Telecom Company|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|23.237.210.82|80|United States|Houston|FDCservers.net|
-|7|14.247.254.180|8080|Vietnam|Hanoi|VNPT|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|165.22.251.46|12344|Singapore|Singapore|DigitalOcean, LLC|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|12|23.237.210.82|80|United States|Houston|FDCservers.net|
-|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|14|8.222.17.214|1080|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|1|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|14.247.254.180|8080|Vietnam|Hanoi|VNPT|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|58.186.248.216|16000|Vietnam|Vũng Tàu|FPT Telecom Company|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
 |15|34.242.245.234|3128|Ireland|Dublin|Amazon Technologies Inc.|
 |16|54.194.252.228|3128|Ireland|Dublin|Amazon.com, Inc.|
 |17|3.249.24.86|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|18|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
-|19|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|18|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|19|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
+|20|164.163.42.39|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
