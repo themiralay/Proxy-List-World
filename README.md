@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|6|51.84.110.224|3128|Israel|Tel Aviv|Amazon.com, Inc.|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|108.136.163.59|3561|Indonesia|Jakarta|Amazon.com, Inc.|
-|9|159.65.207.109|8080|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|103.194.239.173|8080|Hong Kong|Hong Kong|RETN (Hong Kong) Limited|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
 |10|43.216.214.221|4289|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|11|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
-|12|3.26.174.5|18609|Australia|Sydney|Amazon Technologies Inc.|
-|13|13.245.30.86|3128|South Africa|Johannesburg|Amazon.com, Inc.|
-|14|139.59.162.13|3128|United Kingdom|Slough|DIGITALOCEAN|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|108.136.149.20|25505|Indonesia|Jakarta|Amazon.com, Inc.|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|18|103.137.91.250|8080|Laos|Vientiane|SLT Network Co., LTD|
-|19|160.248.189.96|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
-|20|94.136.186.241|3128|India|Mumbai|Contabo Asia Private Limited|
+|11|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
+|12|52.78.241.34|20134|South Korea|Seoul|Amazon Technologies Inc.|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
+|15|3.145.16.157|1080|United States|Dublin|Amazon.com, Inc.|
+|16|159.65.207.109|8080|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|17|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
+|18|118.69.62.188|57140|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|19|13.245.30.86|3128|South Africa|Johannesburg|Amazon.com, Inc.|
+|20|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
 
 
 
