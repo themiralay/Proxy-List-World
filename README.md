@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|1|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
 |5|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|6|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|27.71.139.33|16000|Vietnam|Hanoi|Viettel Group|
-|9|45.77.99.40|8990|United States|Piscataway|The Constant Company|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|3.83.156.184|3128|United States|Ashburn|Amazon Technologies Inc.|
+|8|118.194.249.77|8080|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|14|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|15|64.157.16.89|8080|United States|Francesville|Level 3|
-|16|118.194.249.77|8080|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|17|54.193.116.236|8999|United States|San Jose|Amazon.com, Inc.|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|181.78.48.145|999|Guatemala|San Antonio Suchitepéquez|Ufinet Panama S.A.|
+|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|13|54.193.116.236|8999|United States|San Jose|Amazon.com, Inc.|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|15|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|16|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|17|3.83.156.184|3128|United States|Ashburn|Amazon Technologies Inc.|
+|18|194.42.112.234|13999|Ukraine|Kyiv|CHP Shmatko Sergey Leonidovic|
 |19|91.213.99.134|3128|Uzbekistan|Tashkent|New Line Solutions LLC|
-|20|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|20|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
