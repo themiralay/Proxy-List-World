@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|5|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|11|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|12|105.225.53.124|3128|South Africa|Hartbeespoort|Telkom SA Ltd|
-|13|18.203.249.67|10010|Ireland|Dublin|Amazon Technologies Inc.|
-|14|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|15|3.26.174.5|18609|Australia|Sydney|Amazon Technologies Inc.|
-|16|3.145.16.157|1080|United States|Dublin|Amazon.com, Inc.|
-|17|3.109.62.30|717|India|Mumbai|Amazon Technologies Inc.|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|37.27.253.44|8015|Finland|Helsinki|Hetzner Online GmbH|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|9|51.84.110.224|3128|Israel|Tel Aviv|Amazon.com, Inc.|
+|10|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|3.26.174.5|18609|Australia|Sydney|Amazon Technologies Inc.|
+|14|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
+|15|27.71.140.233|16000|Vietnam|Hanoi|Viettel Group|
+|16|18.203.249.67|10010|Ireland|Dublin|Amazon Technologies Inc.|
+|17|165.22.251.46|12344|Singapore|Singapore|DigitalOcean, LLC|
+|18|3.145.16.157|1080|United States|Dublin|Amazon.com, Inc.|
+|19|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|20|37.27.253.44|8011|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
