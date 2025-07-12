@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|3|103.169.128.133|8080|Indonesia|Cirebon|PT Media Akses Data|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|6|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
 |7|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
 |8|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|103.38.102.142|8080|Indonesia|Kroya|LAXONET|
-|10|103.156.221.229|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
-|11|42.118.0.24|16000|Vietnam|Hanoi|FPT Telecom Company|
-|12|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|13|125.25.32.107|8080|Thailand|Chachoengsao|TOT Public Company Limited|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|103.247.14.138|7777|Indonesia|Temanggung|TERABIT|
-|16|43.216.214.221|4289|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|17|192.81.129.252|3135|United States|Fremont|Akamai Technologies, Inc.|
-|18|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|19|3.83.156.184|3128|United States|Ashburn|Amazon Technologies Inc.|
-|20|18.203.249.67|10010|Ireland|Dublin|Amazon Technologies Inc.|
+|9|122.3.41.154|8090|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|10|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|11|23.237.210.82|80|United States|Houston|FDCservers.net|
+|12|3.83.156.184|3128|United States|Ashburn|Amazon Technologies Inc.|
+|13|18.203.249.67|10010|Ireland|Dublin|Amazon Technologies Inc.|
+|14|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|51.84.110.224|3128|Israel|Tel Aviv|Amazon.com, Inc.|
+|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|18|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|19|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|18.132.14.119|3128|United Kingdom|London|Amazon Technologies Inc.|
 
 
 
