@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|58.186.98.132|16000|Vietnam|Da Nang|FPT Telecom Company|
-|9|23.237.210.82|80|United States|Houston|FDCservers.net|
-|10|42.118.1.203|16000|Vietnam|Hanoi|FPT Telecom Company|
-|11|27.79.179.72|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|13|41.140.231.92|39811|Morocco|Rabat|ADSL Maroc telecom|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|117.6.62.58|16000|Vietnam|Hanoi|VIETTEL|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|20|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|42.118.225.31|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|7|160.19.18.195|1111|Indonesia|Mranggen|PT Indo Telemedia Solusi|
+|8|42.119.167.233|16000|Vietnam|Hanoi|FPT Telecom Company|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|23.237.210.82|80|United States|Houston|FDCservers.net|
+|11|27.71.138.112|16000|Vietnam|Bảo Lộc|Viettel Group|
+|12|41.140.231.92|39811|Morocco|Rabat|ADSL Maroc telecom|
+|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|16|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|17|115.77.135.193|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|18|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|19|43.129.77.105|8080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|20|122.144.4.226|57413|Indonesia|Bekasi|Maxindo|
 
 
 
