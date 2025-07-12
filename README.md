@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|4|103.122.64.181|8080|Indonesia|Kotabesi|PT. Jinom Network Indonesia|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|58.186.163.29|16000|Vietnam|Hanoi|FPT Telecom Company|
-|8|27.79.244.64|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|42.117.168.136|16000|Vietnam|Hanoi|FPT Telecom Company|
+|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|103.122.64.181|8080|Indonesia|Kotabesi|PT. Jinom Network Indonesia|
+|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
 |10|43.216.75.140|42761|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
-|13|31.14.114.68|1081|Iran|Tehran|Afranet Co|
-|14|52.78.241.34|20134|South Korea|Seoul|Amazon Technologies Inc.|
-|15|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|18.203.249.67|10010|Ireland|Dublin|Amazon Technologies Inc.|
-|20|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
+|11|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|12|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|13|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|14|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|15|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|16|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|17|18.226.200.222|51568|United States|Dublin|Amazon.com, Inc.|
+|18|108.136.163.59|3561|Indonesia|Jakarta|Amazon.com, Inc.|
+|19|27.79.244.64|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|3.145.16.157|3128|United States|Dublin|Amazon.com, Inc.|
 
 
 
