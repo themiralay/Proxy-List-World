@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|38.46.233.246|3127|Indonesia|Boyolali|PT CYB Media Group|
-|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|6|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
-|7|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|9|27.71.139.33|16000|Vietnam|Hanoi|Viettel Group|
-|10|23.237.210.82|80|United States|Houston|FDCservers.net|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|103.156.118.104|8080|Indonesia|Jakarta|MYREPUBLIC|
-|14|42.118.1.244|16000|Vietnam|Hanoi|FPT Telecom Company|
-|15|105.225.53.124|3128|South Africa|Hartbeespoort|Telkom SA Ltd|
-|16|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|17|27.71.140.233|16000|Vietnam|Hanoi|Viettel Group|
+|1|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|42.119.163.36|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|27.71.138.112|16000|Vietnam|Bảo Lộc|Viettel Group|
+|8|43.129.77.105|8080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|9|13.38.66.165|3128|France|Paris|Amazon Technologies Inc.|
+|10|18.132.14.119|3128|United Kingdom|London|Amazon Technologies Inc.|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|13|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|15|27.79.237.23|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|54.193.116.236|8999|United States|San Jose|Amazon.com, Inc.|
+|17|27.79.216.6|16000|Vietnam|Hanoi|Viettel Corporation|
 |18|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|19|18.226.200.222|51568|United States|Dublin|Amazon.com, Inc.|
-|20|103.156.248.241|8080|Indonesia|Batam|Trans Media Telekomunikasi|
+|19|27.79.156.8|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|27.79.139.208|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
