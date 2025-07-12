@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|27.79.156.8|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|42.118.1.203|16000|Vietnam|Hanoi|FPT Telecom Company|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|18.132.14.119|3128|United Kingdom|London|Amazon Technologies Inc.|
-|10|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|11|23.237.210.82|80|United States|Houston|FDCservers.net|
-|12|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
-|13|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|15|1.53.72.213|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|16|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|17|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
-|18|3.133.142.76|52195|United States|Dublin|Amazon.com, Inc.|
-|19|27.79.237.23|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|1|161.34.66.94|4649|Japan|Minamishinagawa|NTT PC Communications, Inc.|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|27.79.195.208|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|9|27.71.139.33|16000|Vietnam|Hanoi|Viettel Group|
+|10|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|61.29.96.146|8000|Australia|Hawthorn|AAPT Limited|
+|14|18.226.200.222|51568|United States|Dublin|Amazon.com, Inc.|
+|15|116.96.86.189|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|42.118.1.203|16000|Vietnam|Hanoi|FPT Telecom Company|
+|17|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|18|103.145.34.29|1111|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
+|19|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
