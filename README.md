@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|2|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|103.122.64.181|8080|Indonesia|Kotabesi|PT. Jinom Network Indonesia|
 |3|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|4|42.117.168.136|16000|Vietnam|Hanoi|FPT Telecom Company|
-|5|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|51.84.110.224|3128|Israel|Tel Aviv|Amazon.com, Inc.|
-|8|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|9|115.72.6.138|10007|Vietnam|Vũng Tàu|VIETELmetro|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|18.226.200.222|51568|United States|Dublin|Amazon.com, Inc.|
-|13|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
-|14|37.27.253.44|8073|Finland|Helsinki|Hetzner Online GmbH|
-|15|37.27.253.44|8073|Finland|Helsinki|Hetzner Online GmbH|
-|16|23.237.210.82|80|United States|Houston|FDCservers.net|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|103.122.64.181|8080|Indonesia|Kotabesi|PT. Jinom Network Indonesia|
-|19|65.108.145.212|8023|Finland|Helsinki|Hetzner Online GmbH|
-|20|117.161.170.163|9192|China|Guangzhou|China Mobile communications corporation|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|27.79.244.64|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|52.78.241.34|20134|South Korea|Seoul|Amazon Technologies Inc.|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
+|10|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|11|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|43.129.77.105|8080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|14|18.203.249.67|10010|Ireland|Dublin|Amazon Technologies Inc.|
+|15|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|16|108.136.163.59|3561|Indonesia|Jakarta|Amazon.com, Inc.|
+|17|16.26.88.4|28095|Australia|Melbourne|Amazon.com, Inc.|
+|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
 
 
 
