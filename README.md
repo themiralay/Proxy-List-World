@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|2|103.122.64.181|8080|Indonesia|Kotabesi|PT. Jinom Network Indonesia|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|157.15.62.44|8082|Indonesia|Malang|AMAN ISP Customer Malang|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|43.216.75.140|42761|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|103.122.64.181|8080|Indonesia|Kotabesi|PT. Jinom Network Indonesia|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|6|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|7|45.230.170.30|999|Venezuela|Caracas|Soluciones DCN Network C.A|
 |8|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|10|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|11|18.203.249.67|10010|Ireland|Dublin|Amazon Technologies Inc.|
-|12|38.58.174.25|999|Mexico|Ejido de Mañi|Cogent Communications|
-|13|18.226.200.222|51568|United States|Dublin|Amazon.com, Inc.|
-|14|18.132.14.119|3128|United Kingdom|London|Amazon Technologies Inc.|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|122.52.44.56|8081|Philippines|Bacoor|Philippine Long Distance Telephone Co.|
-|19|3.26.174.5|18609|Australia|Sydney|Amazon Technologies Inc.|
-|20|42.117.168.96|16000|Vietnam|Hanoi|FPT Telecom Company|
+|9|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|10|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|11|23.237.210.82|80|United States|Houston|FDCservers.net|
+|12|54.193.116.236|8999|United States|San Jose|Amazon.com, Inc.|
+|13|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|14|43.216.214.221|4289|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|15|18.132.14.119|3128|United Kingdom|London|Amazon Technologies Inc.|
+|16|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|17|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|18|3.26.174.5|18609|Australia|Sydney|Amazon Technologies Inc.|
+|19|27.71.139.33|16000|Vietnam|Hanoi|Viettel Group|
+|20|3.133.142.76|52195|United States|Dublin|Amazon.com, Inc.|
 
 
 
