@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|202.137.14.57|8085|Indonesia|Bekasi|customer in Corporate Access|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|6|124.104.176.167|8080|Philippines|Marilao|Philippine Long Distance Telephone Co.|
-|7|124.248.190.213|8080|Cambodia|Phnom Penh|COGETEL Co., Ltd|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|7|41.140.231.92|39811|Morocco|Rabat|ADSL Maroc telecom|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |9|23.237.210.82|80|United States|Houston|FDCservers.net|
-|10|27.71.142.16|16000|Vietnam|Hanoi|Viettel Group|
-|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|41.140.231.92|39811|Morocco|Rabat|ADSL Maroc telecom|
-|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|14|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|15|103.88.245.234|8080|Indonesia|Jakarta|PT.Indonesia Comnet Plus|
-|16|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|17|42.119.167.233|16000|Vietnam|Hanoi|FPT Telecom Company|
-|18|58.186.98.132|16000|Vietnam|Da Nang|FPT Telecom Company|
-|19|51.84.110.224|3128|Israel|Tel Aviv|Amazon.com, Inc.|
-|20|49.147.114.79|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|27.79.179.72|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|14|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|15|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|17|27.71.139.33|16000|Vietnam|Hanoi|Viettel Group|
+|18|117.6.62.58|16000|Vietnam|Hanoi|VIETTEL|
+|19|27.79.156.8|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|3.133.142.76|52195|United States|Dublin|Amazon.com, Inc.|
 
 
 
