@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|108.136.163.59|3561|Indonesia|Jakarta|Amazon.com, Inc.|
-|7|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
-|8|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|9|37.27.253.44|8063|Finland|Helsinki|Hetzner Online GmbH|
-|10|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|117.161.170.163|9001|China|Guangzhou|China Mobile communications corporation|
-|15|164.163.42.35|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|105.157.155.20|39811|Morocco|Fes|ADSL Maroc telecom|
-|17|65.108.145.212|8084|Finland|Helsinki|Hetzner Online GmbH|
-|18|37.27.253.44|8063|Finland|Helsinki|Hetzner Online GmbH|
-|19|65.108.145.212|8084|Finland|Helsinki|Hetzner Online GmbH|
-|20|222.59.173.105|45237|China|Qinnan|China Mobile Communications Corporation|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|6|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
+|7|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|8|52.78.241.34|20134|South Korea|Seoul|Amazon Technologies Inc.|
+|9|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
+|10|3.145.16.157|1080|United States|Dublin|Amazon.com, Inc.|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|108.136.163.59|3561|Indonesia|Jakarta|Amazon.com, Inc.|
+|13|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|14|3.145.16.157|1080|United States|Dublin|Amazon.com, Inc.|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|17|109.94.165.46|8080|Iran|Tehran|Damash Software Computer Services LTD|
+|18|43.216.75.140|42761|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|20|18.226.200.222|51568|United States|Dublin|Amazon.com, Inc.|
 
 
 
