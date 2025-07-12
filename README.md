@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|9|23.237.210.82|80|United States|Houston|FDCservers.net|
-|10|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|11|58.186.163.29|16000|Vietnam|Hanoi|FPT Telecom Company|
-|12|18.143.165.238|29981|Singapore|Singapore|Amazon Technologies Inc.|
-|13|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|14|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|43.216.75.140|42761|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|17|16.26.88.4|28095|Australia|Melbourne|Amazon.com, Inc.|
-|18|200.106.63.218|999|Peru|Lima region|Telefonica del Peru S.A.A.|
-|19|103.105.76.19|8080|Indonesia|Ngoro|PT. Garuda Media Telematika|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|194.36.209.53|3128|United States|Fremont|CGI GLOBAL LIMITED|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|7|27.71.139.33|16000|Vietnam|Hanoi|Viettel Group|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|43.129.77.105|8080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|10|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|11|194.36.209.53|3128|United States|Fremont|CGI GLOBAL LIMITED|
+|12|109.94.165.46|8080|Iran|Tehran|Damash Software Computer Services LTD|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|23.237.210.82|80|United States|Houston|FDCservers.net|
+|15|198.23.236.47|1111|United States|Santa Clara|HostPapa|
+|16|105.225.53.124|3128|South Africa|Hartbeespoort|Telkom SA Ltd|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|19|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|20|58.186.163.29|16000|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
