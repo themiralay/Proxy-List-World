@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **76361** proxies at the latest update. Usable proxies are below.
+> Scraper found **76335** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36443|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36417|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|119|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38573|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|128.199.140.172|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|6|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|7|5.188.183.253|8080|Spain|Madrid|Melbikomas UAB|
-|8|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|9|27.71.139.33|16000|Vietnam|Hanoi|Viettel Group|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|116.108.10.163|4002|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|12|18.132.14.119|3128|United Kingdom|London|Amazon Technologies Inc.|
-|13|43.216.75.140|42761|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|14|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
-|15|3.145.16.157|1080|United States|Dublin|Amazon.com, Inc.|
-|16|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|17|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|18|54.193.116.236|8999|United States|San Jose|Amazon.com, Inc.|
-|19|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|20|18.226.200.222|51568|United States|Dublin|Amazon.com, Inc.|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|27.79.184.241|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|5|27.79.237.23|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|7|117.6.57.142|16000|Vietnam|Hanoi|VIETTEL|
+|8|27.71.139.33|16000|Vietnam|Hanoi|Viettel Group|
+|9|116.96.86.189|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|11|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|12|52.78.241.34|20134|South Korea|Seoul|Amazon Technologies Inc.|
+|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|108.136.149.20|25505|Indonesia|Jakarta|Amazon.com, Inc.|
+|16|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
+|17|18.203.249.67|10010|Ireland|Dublin|Amazon Technologies Inc.|
+|18|105.225.53.124|3128|South Africa|Hartbeespoort|Telkom SA Ltd|
+|19|42.117.168.136|16000|Vietnam|Hanoi|FPT Telecom Company|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
 
 
 
