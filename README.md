@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|208.102.24.225|8888|United States|Harrison|Fuse Internet Access|
-|7|43.129.77.105|8080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|8|23.237.210.82|80|United States|Houston|FDCservers.net|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|11|51.84.110.224|3128|Israel|Tel Aviv|Amazon.com, Inc.|
-|12|27.71.140.233|16000|Vietnam|Hanoi|Viettel Group|
-|13|202.145.10.241|8080|Indonesia|Bogor|PT UniNET Media Sakti|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
-|16|181.118.151.184|999|Colombia|Medellín|Media Commerce Partners S.A|
-|17|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
-|18|180.190.238.62|8080|Philippines|Iloilo City|Globe Telecom|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|1|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|34.93.21.237|3128|India|Mumbai|Google LLC|
+|5|34.131.20.141|3128|India|New Delhi|Google LLC|
+|6|34.93.112.63|3128|India|Mumbai|Google LLC|
+|7|34.131.245.6|3128|India|New Delhi|Google LLC|
+|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|9|34.47.162.24|3128|India|Mumbai|Google LLC|
+|10|34.93.195.209|3128|India|Mumbai|Google LLC|
+|11|34.131.66.171|3128|India|New Delhi|Google LLC|
+|12|34.131.28.251|3128|India|New Delhi|Google LLC|
+|13|34.47.225.111|3128|India|Mumbai|Google LLC|
+|14|34.131.50.233|3128|India|New Delhi|Google LLC|
+|15|34.131.214.238|3128|India|New Delhi|Google LLC|
+|16|27.71.139.33|16000|Vietnam|Hanoi|Viettel Group|
+|17|3.83.156.184|3128|United States|Ashburn|Amazon Technologies Inc.|
+|18|23.237.210.82|80|United States|Houston|FDCservers.net|
+|19|34.93.114.8|3128|India|Mumbai|Google LLC|
+|20|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 
 
 
