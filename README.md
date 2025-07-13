@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|207.166.179.110|3128|Singapore|Singapore|BYTEPLUS|
-|2|207.166.176.27|3128|Singapore|Singapore|BYTEPLUS|
-|3|207.166.178.138|3128|Singapore|Singapore|BYTEPLUS|
-|4|27.71.138.112|16000|Vietnam|Bảo Lộc|Viettel Group|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|207.166.177.230|3128|Singapore|Singapore|BYTEPLUS|
-|7|207.166.177.188|3128|Singapore|Singapore|BYTEPLUS|
-|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|207.166.177.81|3128|Singapore|Singapore|BYTEPLUS|
-|10|207.166.178.101|3128|Singapore|Singapore|BYTEPLUS|
-|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|12|116.103.26.137|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|27.71.140.233|16000|Vietnam|Hanoi|Viettel Group|
-|14|27.71.139.33|16000|Vietnam|Hanoi|Viettel Group|
+|1|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|207.166.179.107|3128|Singapore|Singapore|BYTEPLUS|
+|3|207.166.179.2|3128|Singapore|Singapore|BYTEPLUS|
+|4|207.166.178.156|3128|Singapore|Singapore|BYTEPLUS|
+|5|207.166.177.21|3128|Singapore|Singapore|BYTEPLUS|
+|6|207.166.177.14|3128|Singapore|Singapore|BYTEPLUS|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|27.79.207.251|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|117.6.51.7|16000|Vietnam|Hanoi|VIETTEL|
+|13|207.166.178.107|3128|Singapore|Singapore|BYTEPLUS|
+|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |15|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|17|207.166.178.72|3128|Singapore|Singapore|BYTEPLUS|
-|18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|19|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|20|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|16|27.71.140.233|16000|Vietnam|Hanoi|Viettel Group|
+|17|58.187.70.251|16000|Vietnam|Hanoi|FPT Telecom Company|
+|18|116.103.26.137|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|27.71.139.33|16000|Vietnam|Hanoi|Viettel Group|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
