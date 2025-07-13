@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|8|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|9|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|11|58.186.98.132|16000|Vietnam|Da Nang|FPT Telecom Company|
-|12|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|13|27.79.179.72|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|183.80.23.196|16000|Vietnam|Hanoi|FPT Telecom Company|
-|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|17|117.6.62.58|16000|Vietnam|Hanoi|VIETTEL|
-|18|183.80.22.16|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|19|43.216.75.140|42761|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|20|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|2|42.119.167.233|16000|Vietnam|Hanoi|FPT Telecom Company|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|42.118.0.184|16000|Vietnam|Hanoi|FPT Telecom Company|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|144.48.162.104|8080|Bangladesh|Kāfrul|Cue Club Technology|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|13|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|14|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|15|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|17|160.19.19.43|8080|Indonesia|Ploso|PT Indo Telemedia Solusi|
+|18|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|19|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|20|27.79.195.208|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
