@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|42.118.1.244|16000|Vietnam|Hanoi|FPT Telecom Company|
-|2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|209.121.164.51|31147|Canada|Burnaby|TELUS Communications Inc.|
-|5|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|118.68.67.189|16000|Vietnam|Hanoi|FPT Telecom Company|
-|9|58.186.92.254|16000|Vietnam|Hanoi|FPT Telecom Company|
-|10|103.19.59.1|3127|Indonesia|Madiun|BITSNET|
-|11|27.79.179.72|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|15|12.36.67.4|3128|United States|Dallas|AT&T Enterprises, LLC|
-|16|118.71.87.199|16000|Vietnam|Hanoi|FPT Telecom Company|
-|17|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|20|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|3|111.238.206.143|8080|Japan|Asaka|Kddi Corporation|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|42.118.1.244|16000|Vietnam|Hanoi|FPT Telecom Company|
+|7|27.79.179.72|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|143.208.57.165|999|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|118.68.67.189|16000|Vietnam|Hanoi|FPT Telecom Company|
+|12|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|13|18.226.200.222|51568|United States|Dublin|Amazon.com, Inc.|
+|14|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|15|58.186.98.132|16000|Vietnam|Da Nang|FPT Telecom Company|
+|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|118.71.87.199|16000|Vietnam|Hanoi|FPT Telecom Company|
+|18|54.193.116.236|8999|United States|San Jose|Amazon.com, Inc.|
+|19|185.184.120.20|200|Germany|Frankfurt am Main|International Hosting Company Limited|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
