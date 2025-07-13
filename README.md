@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **76712** proxies at the latest update. Usable proxies are below.
+> Scraper found **76679** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|5|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36481|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36448|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|113|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|39187|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|207.166.179.107|3128|Singapore|Singapore|BYTEPLUS|
-|2|23.237.210.82|80|United States|Houston|FDCservers.net|
-|3|80.209.242.81|8888|United States|New York|HOSTKEY|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|27.71.139.33|16000|Vietnam|Hanoi|Viettel Group|
-|6|116.103.89.65|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|77.110.123.32|3128|United States|Charlotte|Aeza International LTD|
-|9|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|11|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|1|207.166.179.93|3128|Singapore|Singapore|BYTEPLUS|
+|2|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|23.237.210.82|80|United States|Houston|FDCservers.net|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|9|43.129.77.105|8080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|10|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|11|152.53.142.221|3128|Germany|Nuremberg|netcup GmbH|
 |12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|49.49.196.175|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
-|16|27.79.136.209|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|118.68.241.71|16000|Vietnam|Hanoi|FPT Telecom Company|
-|18|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|19|42.113.21.247|16000|Vietnam|Hanoi|FPT Telecom Company|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|14|152.53.141.127|3128|Germany|Nuremberg|netcup GmbH|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|17|51.81.220.14|7777|United States|Hillsboro|OVH SAS|
+|18|114.9.24.102|8082|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|19|58.186.92.253|16000|Vietnam|Hanoi|FPT Telecom Company|
+|20|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
 
 
 
