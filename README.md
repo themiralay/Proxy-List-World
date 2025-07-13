@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|207.166.176.52|3128|Singapore|Singapore|BYTEPLUS|
-|2|207.166.178.29|3128|Singapore|Singapore|BYTEPLUS|
-|3|116.103.26.137|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|207.166.179.84|3128|Singapore|Singapore|BYTEPLUS|
-|5|27.71.138.112|16000|Vietnam|Bảo Lộc|Viettel Group|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|207.166.176.61|3128|Singapore|Singapore|BYTEPLUS|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|27.71.142.16|16000|Vietnam|Hanoi|Viettel Group|
-|12|42.113.54.47|16000|Vietnam|Hanoi|FPT Telecom Company|
-|13|27.71.139.33|16000|Vietnam|Hanoi|Viettel Group|
-|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|13.38.66.165|3128|France|Paris|Amazon Technologies Inc.|
-|19|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|20|18.132.14.119|3128|United Kingdom|London|Amazon Technologies Inc.|
+|1|207.166.178.29|3128|Singapore|Singapore|BYTEPLUS|
+|2|42.118.74.62|16000|Vietnam|Hanoi|FPT Telecom Company|
+|3|207.166.178.107|3128|Singapore|Singapore|BYTEPLUS|
+|4|27.79.144.0|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|207.166.177.57|3128|Singapore|Singapore|BYTEPLUS|
+|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|207.166.177.156|3128|Singapore|Singapore|BYTEPLUS|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|207.166.179.12|3128|Singapore|Singapore|BYTEPLUS|
+|12|58.187.70.251|16000|Vietnam|Hanoi|FPT Telecom Company|
+|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|15|118.68.64.134|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|16|27.71.138.112|16000|Vietnam|Bảo Lộc|Viettel Group|
+|17|1.55.171.177|16000|Vietnam|Hanoi|FPT Telecom Company|
+|18|18.132.14.119|3128|United Kingdom|London|Amazon Technologies Inc.|
+|19|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|20|23.237.210.82|80|United States|Houston|FDCservers.net|
 
 
 
