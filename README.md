@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
-|2|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|18.206.234.106|3128|United States|Ashburn|Amazon.com, Inc.|
-|6|3.80.151.12|3128|United States|Ashburn|Amazon Technologies Inc.|
-|7|27.79.218.180|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|13.217.227.179|3128|United States|Ashburn|Amazon.com, Inc.|
-|9|3.91.8.153|3128|United States|Ashburn|Amazon Technologies Inc.|
-|10|54.226.72.141|3128|United States|Ashburn|Amazon.com, Inc.|
-|11|54.144.51.205|3128|United States|Ashburn|Amazon Technologies Inc.|
-|12|27.79.136.209|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|43.159.146.191|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|14|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|15|54.144.74.16|3128|United States|Ashburn|Amazon Technologies Inc.|
-|16|27.79.150.124|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|117.6.51.7|16000|Vietnam|Hanoi|VIETTEL|
-|18|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|20|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|1|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|3|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|27.79.218.226|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|27.71.138.112|16000|Vietnam|Bảo Lộc|Viettel Group|
+|7|103.35.111.233|19753|Bangladesh|Dhaka|Ranks ITT|
+|8|27.79.136.209|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|43.129.77.105|8080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|13.217.227.179|3128|United States|Ashburn|Amazon.com, Inc.|
+|12|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|13|54.226.72.141|3128|United States|Ashburn|Amazon.com, Inc.|
+|14|3.80.151.12|3128|United States|Ashburn|Amazon Technologies Inc.|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|17|54.167.90.182|3128|United States|Ashburn|Amazon.com, Inc.|
+|18|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|19|43.159.146.191|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|20|54.144.51.205|3128|United States|Ashburn|Amazon Technologies Inc.|
 
 
 
