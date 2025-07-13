@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.136.134|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|207.166.178.29|3128|Singapore|Singapore|BYTEPLUS|
-|3|207.166.178.107|3128|Singapore|Singapore|BYTEPLUS|
-|4|116.103.26.137|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|207.166.179.83|3128|Singapore|Singapore|BYTEPLUS|
+|2|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|27.79.136.134|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |5|207.166.176.61|3128|Singapore|Singapore|BYTEPLUS|
-|6|207.166.178.72|3128|Singapore|Singapore|BYTEPLUS|
-|7|207.166.177.156|3128|Singapore|Singapore|BYTEPLUS|
-|8|207.166.179.93|3128|Singapore|Singapore|BYTEPLUS|
-|9|207.166.177.57|3128|Singapore|Singapore|BYTEPLUS|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|118.68.64.134|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|15|27.79.144.0|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|17|27.79.207.251|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|19|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|202.137.14.57|8085|Indonesia|Bekasi|customer in Corporate Access|
+|6|207.166.177.156|3128|Singapore|Singapore|BYTEPLUS|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|80.92.204.223|31999|Germany|Frankfurt am Main|PQ HOSTING PLUS S.R.L.|
+|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|15|36.89.158.93|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|16|23.237.210.82|80|United States|Houston|FDCservers.net|
+|17|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|164.163.42.43|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|164.163.40.16|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|164.163.42.48|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
