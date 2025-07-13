@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|3|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|4|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|160.22.64.16|2022|Indonesia|Babat|Lintas Data Prima, PT|
-|8|27.79.156.8|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|10|117.6.55.26|16000|Vietnam|Hanoi|VIETTEL|
-|11|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|12|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|13|160.20.38.2|8080|Indonesia|Indramayu|PT SAMUDRA DIGITAL NETWORK|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|16|37.27.253.44|8095|Finland|Helsinki|Hetzner Online GmbH|
-|17|105.225.53.124|3128|South Africa|Hartbeespoort|Telkom SA Ltd|
-|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|19|67.43.236.20|2321|Canada|Montreal|GloboTech Communications|
-|20|23.237.210.82|80|United States|Houston|FDCservers.net|
+|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|2|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|7|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|10|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|14|27.71.139.33|16000|Vietnam|Hanoi|Viettel Group|
+|15|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|16|27.79.148.1|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|103.9.188.73|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|185.184.120.20|200|Germany|Frankfurt am Main|International Hosting Company Limited|
+|20|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
 
 
 
