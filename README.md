@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|18.181.169.78|8080|Japan|Tokyo|Amazon Technologies Inc.|
-|2|207.166.179.83|3128|Singapore|Singapore|BYTEPLUS|
-|3|207.166.179.107|3128|Singapore|Singapore|BYTEPLUS|
+|1|117.1.254.113|4007|Vietnam|Hanoi|Viettel Corporation|
+|2|103.113.3.228|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |4|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|5|207.166.179.2|3128|Singapore|Singapore|BYTEPLUS|
-|6|116.103.89.65|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|27.79.149.131|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|27.71.139.33|16000|Vietnam|Hanoi|Viettel Group|
-|11|49.49.196.175|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
-|12|152.53.142.221|3128|Germany|Nuremberg|netcup GmbH|
-|13|80.92.204.223|31999|Germany|Frankfurt am Main|PQ HOSTING PLUS S.R.L.|
-|14|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|15|27.79.232.84|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|43.129.77.105|8080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|223.204.163.133|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|19|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|20|42.118.0.53|16000|Vietnam|Hanoi|FPT Telecom Company|
+|5|207.166.179.66|3128|Singapore|Singapore|BYTEPLUS|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|8|27.79.164.90|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|34.93.237.179|3128|India|Mumbai|Google LLC|
+|11|152.53.142.221|3128|Germany|Nuremberg|netcup GmbH|
+|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|27.79.207.251|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|27.79.228.123|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|18|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|19|207.166.179.12|3128|Singapore|Singapore|BYTEPLUS|
+|20|27.79.136.209|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
