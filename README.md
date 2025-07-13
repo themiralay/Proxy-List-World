@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|116.96.86.189|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|103.189.254.28|2222|Indonesia|Surabaya|PT Lintas Daya Nusantara|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|27.71.142.16|16000|Vietnam|Hanoi|Viettel Group|
-|7|27.71.138.112|16000|Vietnam|Bảo Lộc|Viettel Group|
-|8|27.79.179.72|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|23.237.210.82|80|United States|Houston|FDCservers.net|
-|11|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
-|12|42.118.1.244|16000|Vietnam|Hanoi|FPT Telecom Company|
-|13|18.203.249.67|10010|Ireland|Dublin|Amazon Technologies Inc.|
-|14|105.225.53.124|3128|South Africa|Hartbeespoort|Telkom SA Ltd|
-|15|13.38.66.165|3128|France|Paris|Amazon Technologies Inc.|
-|16|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|17|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|18|117.6.51.7|16000|Vietnam|Hanoi|VIETTEL|
-|19|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|20|209.121.164.51|31147|Canada|Burnaby|TELUS Communications Inc.|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|27.79.179.72|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.195.208|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|10|103.211.26.94|80|Indonesia|Madiun|PT Olean Permata Telematika|
+|11|103.252.6.176|8080|India|Bhiwandi|Threesa Infoway Pvt.Ltd|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|124.13.130.193|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|14|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|15|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|20|138.122.250.25|8080|Brazil|Farias Brito|NET ON LINE LTDA|
 
 
 
