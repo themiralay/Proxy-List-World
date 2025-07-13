@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|207.166.179.110|3128|Singapore|Singapore|BYTEPLUS|
-|2|207.166.179.107|3128|Singapore|Singapore|BYTEPLUS|
-|3|116.103.89.65|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|207.166.179.83|3128|Singapore|Singapore|BYTEPLUS|
-|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|152.53.141.127|3128|Germany|Nuremberg|netcup GmbH|
-|12|152.53.142.221|3128|Germany|Nuremberg|netcup GmbH|
-|13|42.113.21.247|16000|Vietnam|Hanoi|FPT Telecom Company|
-|14|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|15|27.71.138.112|16000|Vietnam|Bảo Lộc|Viettel Group|
-|16|18.203.249.67|10010|Ireland|Dublin|Amazon Technologies Inc.|
-|17|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|18|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|19|27.79.232.84|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|43.216.75.140|42761|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|1|207.166.179.66|3128|Singapore|Singapore|BYTEPLUS|
+|2|18.181.169.78|8080|Japan|Tokyo|Amazon Technologies Inc.|
+|3|207.166.179.12|3128|Singapore|Singapore|BYTEPLUS|
+|4|27.79.228.123|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|207.166.179.2|3128|Singapore|Singapore|BYTEPLUS|
+|6|207.166.179.83|3128|Singapore|Singapore|BYTEPLUS|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|171.240.156.30|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|9|171.228.112.186|5181|Vietnam|Ninh Bình|Viettel Corporation|
+|10|116.103.89.65|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|12|207.166.179.93|3128|Singapore|Singapore|BYTEPLUS|
+|13|54.167.34.52|3128|United States|Ashburn|Amazon.com, Inc.|
+|14|207.166.179.107|3128|Singapore|Singapore|BYTEPLUS|
+|15|3.80.151.12|3128|United States|Ashburn|Amazon Technologies Inc.|
+|16|54.167.34.52|3128|United States|Ashburn|Amazon.com, Inc.|
+|17|3.91.8.153|3128|United States|Ashburn|Amazon Technologies Inc.|
+|18|34.228.68.95|3128|United States|Ashburn|Amazon.com, Inc.|
+|19|54.198.168.153|3128|United States|Ashburn|Amazon.com, Inc.|
+|20|34.228.68.95|3128|United States|Ashburn|Amazon.com, Inc.|
 
 
 
