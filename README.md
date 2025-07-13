@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|2|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|3|27.79.150.124|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|12.165.234.254|16096|United States|Walnut Ridge|AT&T Enterprises, LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|27.79.153.27|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|8|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|9|43.129.77.105|8080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|10|27.71.138.112|16000|Vietnam|Bảo Lộc|Viettel Group|
-|11|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|12|185.189.100.94|8080|Russia|Makhachkala|LTD "Erline"|
-|13|27.79.136.209|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|23.237.210.82|80|United States|Houston|FDCservers.net|
-|15|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|16|108.136.149.20|25505|Indonesia|Jakarta|Amazon.com, Inc.|
-|17|18.226.200.222|51568|United States|Dublin|Amazon.com, Inc.|
-|18|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
-|19|13.38.66.165|3128|France|Paris|Amazon Technologies Inc.|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|1|207.166.179.110|3128|Singapore|Singapore|BYTEPLUS|
+|2|207.166.179.107|3128|Singapore|Singapore|BYTEPLUS|
+|3|116.108.8.140|4003|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|4|207.166.179.84|3128|Singapore|Singapore|BYTEPLUS|
+|5|103.113.3.228|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|6|207.166.179.76|3128|Singapore|Singapore|BYTEPLUS|
+|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|8|116.103.26.137|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|116.103.89.65|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|27.79.207.251|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|27.79.228.123|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|18.203.249.67|10010|Ireland|Dublin|Amazon Technologies Inc.|
+|15|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|16|152.53.141.127|3128|Germany|Nuremberg|netcup GmbH|
+|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|152.53.142.221|3128|Germany|Nuremberg|netcup GmbH|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|117.6.51.7|16000|Vietnam|Hanoi|VIETTEL|
 
 
 
