@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |2|23.237.210.82|80|United States|Houston|FDCservers.net|
-|3|103.122.64.181|8080|Indonesia|Kotabesi|PT. Jinom Network Indonesia|
-|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|5|3.133.142.76|52195|United States|Dublin|Amazon.com, Inc.|
-|6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|3|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|4|27.71.139.33|16000|Vietnam|Hanoi|Viettel Group|
+|5|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
 |7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|9|34.228.68.95|3128|United States|Ashburn|Amazon.com, Inc.|
-|10|51.159.159.73|80|France|Paris|SCALEWAY|
-|11|103.189.62.131|8082|Indonesia|Denpasar|PT Blip Integrator Provider|
-|12|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|13|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|14|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|15|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|16|27.71.138.112|16000|Vietnam|Bảo Lộc|Viettel Group|
-|17|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|18|3.145.16.157|1080|United States|Dublin|Amazon.com, Inc.|
-|19|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|20|171.247.149.220|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|8|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|103.189.62.131|8082|Indonesia|Denpasar|PT Blip Integrator Provider|
+|11|116.103.26.137|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|13|27.79.215.172|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|58.186.211.204|16000|Vietnam|Nam Định|FPT Telecom Company|
+|15|42.118.225.32|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|16|27.79.165.95|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|27.79.150.124|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|20|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
 
 
 
