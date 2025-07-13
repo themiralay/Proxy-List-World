@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|103.122.64.181|8080|Indonesia|Kotabesi|PT. Jinom Network Indonesia|
-|3|23.237.210.82|80|United States|Houston|FDCservers.net|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|10|27.71.139.33|16000|Vietnam|Hanoi|Viettel Group|
-|11|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|12|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|213.231.7.10|8282|Ukraine|Odesa|TOV TRK "Briz"|
-|16|58.186.211.204|16000|Vietnam|Nam Định|FPT Telecom Company|
-|17|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
-|18|3.145.16.157|1080|United States|Dublin|Amazon.com, Inc.|
-|19|18.203.249.67|10010|Ireland|Dublin|Amazon Technologies Inc.|
-|20|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
+|2|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
+|3|27.71.138.112|16000|Vietnam|Bảo Lộc|Viettel Group|
+|4|42.118.225.33|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|5|23.237.210.82|80|United States|Houston|FDCservers.net|
+|6|113.22.48.222|16000|Vietnam|Hanoi|FPT Telecom Company|
+|7|103.122.64.181|8080|Indonesia|Kotabesi|PT. Jinom Network Indonesia|
+|8|42.113.21.247|16000|Vietnam|Hanoi|FPT Telecom Company|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|27.79.207.251|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|14|27.79.179.72|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|20|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
 
 
 
