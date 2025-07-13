@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.69.198.165|3128|Japan|Osaka|Oracle Corporation|
-|2|27.79.228.123|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|103.113.3.228|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|4|207.166.179.83|3128|Singapore|Singapore|BYTEPLUS|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|207.166.179.110|3128|Singapore|Singapore|BYTEPLUS|
-|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|8|223.206.113.170|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|9|43.216.214.221|4289|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|10|103.155.199.106|3128|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|207.166.179.2|3128|Singapore|Singapore|BYTEPLUS|
+|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|3|34.228.68.95|3128|United States|Ashburn|Amazon.com, Inc.|
+|4|117.1.254.113|2007|Vietnam|Hanoi|Viettel Corporation|
+|5|103.113.3.228|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|9|58.186.211.204|16000|Vietnam|Nam Định|FPT Telecom Company|
+|10|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|11|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
 |12|152.53.142.221|3128|Germany|Nuremberg|netcup GmbH|
-|13|152.53.141.127|3128|Germany|Nuremberg|netcup GmbH|
-|14|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|15|42.113.21.247|16000|Vietnam|Hanoi|FPT Telecom Company|
-|16|54.198.168.153|3128|United States|Ashburn|Amazon.com, Inc.|
-|17|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|103.169.39.30|8080|Indonesia|Trucuk|PT Boombas Carlo Medianet|
-|20|27.71.138.112|16000|Vietnam|Bảo Lộc|Viettel Group|
+|13|49.48.101.61|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|14|152.53.141.127|3128|Germany|Nuremberg|netcup GmbH|
+|15|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|18|43.216.214.221|4289|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|19|116.103.89.65|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
 
 
 
