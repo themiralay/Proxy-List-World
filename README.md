@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|58.186.98.132|16000|Vietnam|Da Nang|FPT Telecom Company|
-|9|42.118.225.31|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|10|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|42.118.0.184|16000|Vietnam|Hanoi|FPT Telecom Company|
-|13|118.68.67.189|16000|Vietnam|Hanoi|FPT Telecom Company|
-|14|27.71.139.33|16000|Vietnam|Hanoi|Viettel Group|
-|15|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
-|16|117.6.62.58|16000|Vietnam|Hanoi|VIETTEL|
-|17|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|18|27.71.142.16|16000|Vietnam|Hanoi|Viettel Group|
-|19|27.79.215.172|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|7|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|147.45.178.211|14658|Germany|Frankfurt am Main|Global Connectivity Solutions LLP|
+|11|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|12|43.129.77.105|8080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|13|103.164.212.125|8088|Indonesia|Kediri|PT iForte Global Internet|
+|14|18.226.200.222|51568|United States|Dublin|Amazon.com, Inc.|
+|15|202.137.14.57|8085|Indonesia|Bekasi|customer in Corporate Access|
+|16|40.192.110.77|29733|India|Hyderabad|Amazon.com, Inc.|
+|17|67.43.228.254|1415|Canada|Montreal|GloboTech Communications|
+|18|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|19|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|20|182.253.7.146|8180|Indonesia|Batam|Biznet Networks|
 
 
 
