@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|103.113.3.228|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|3|23.237.210.82|80|United States|Houston|FDCservers.net|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|27.71.138.112|16000|Vietnam|Bảo Lộc|Viettel Group|
-|6|34.228.68.95|3128|United States|Ashburn|Amazon.com, Inc.|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|9|152.53.141.127|3128|Germany|Nuremberg|netcup GmbH|
-|10|152.53.142.221|3128|Germany|Nuremberg|netcup GmbH|
-|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|34.93.237.179|3128|India|Mumbai|Google LLC|
-|13|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|14|27.71.142.16|16000|Vietnam|Hanoi|Viettel Group|
-|15|34.228.68.95|3128|United States|Ashburn|Amazon.com, Inc.|
-|16|27.71.139.33|16000|Vietnam|Hanoi|Viettel Group|
-|17|117.6.50.239|16000|Vietnam|Hanoi|VIETTEL|
-|18|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|19|103.81.220.57|8080|Indonesia|Bandung|STARNET|
-|20|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|1|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|2|23.237.210.82|80|United States|Houston|FDCservers.net|
+|3|80.209.242.81|8888|United States|New York|HOSTKEY|
+|4|34.93.237.179|3128|India|Mumbai|Google LLC|
+|5|207.166.179.2|3128|Singapore|Singapore|BYTEPLUS|
+|6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|8|34.228.68.95|3128|United States|Ashburn|Amazon.com, Inc.|
+|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|10|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|11|152.53.142.221|3128|Germany|Nuremberg|netcup GmbH|
+|12|152.53.141.127|3128|Germany|Nuremberg|netcup GmbH|
+|13|118.68.241.71|16000|Vietnam|Hanoi|FPT Telecom Company|
+|14|103.81.220.57|8080|Indonesia|Bandung|STARNET|
+|15|27.71.138.112|16000|Vietnam|Bảo Lộc|Viettel Group|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|103.155.199.106|3128|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|18|27.79.149.131|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|34.228.68.95|3128|United States|Ashburn|Amazon.com, Inc.|
+|20|43.216.75.140|42761|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
 
 
 
