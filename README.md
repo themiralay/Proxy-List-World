@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|54.248.79.99|3128|Japan|Tokyo|Amazon.com, Inc.|
-|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|5|223.204.196.193|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|13|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|23.237.210.82|80|United States|Houston|FDCservers.net|
-|15|116.105.21.153|9003|Vietnam|Da Nang|Viettel Corporation|
-|16|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|117.6.62.58|16000|Vietnam|Hanoi|VIETTEL|
-|19|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|20|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|1|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|2|118.71.87.199|16000|Vietnam|Hanoi|FPT Telecom Company|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|23.237.210.82|80|United States|Houston|FDCservers.net|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|9|54.193.116.236|8999|United States|San Jose|Amazon.com, Inc.|
+|10|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|11|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|12|37.27.253.44|8095|Finland|Helsinki|Hetzner Online GmbH|
+|13|15.204.151.149|31158|United States|Reston|OVH SAS|
+|14|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|15|65.108.145.212|8023|Finland|Helsinki|Hetzner Online GmbH|
+|16|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|17|27.71.142.16|16000|Vietnam|Hanoi|Viettel Group|
+|18|122.116.180.77|8080|Taiwan|Taoyuan District|Chunghwa Telecom Co., Ltd.|
+|19|203.150.113.84|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|20|23.237.210.82|80|United States|Houston|FDCservers.net|
 
 
 
