@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|103.112.53.211|6314|Bangladesh|Dhaka|Carnival Internet|
 |5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|27.71.142.16|16000|Vietnam|Hanoi|Viettel Group|
-|10|18.203.249.67|10010|Ireland|Dublin|Amazon Technologies Inc.|
-|11|180.149.234.73|6214|Bangladesh|Gazipur|Digi Jadoo Broadband Ltd|
-|12|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|13.38.66.165|3128|France|Paris|Amazon Technologies Inc.|
-|15|35.179.146.181|3128|United Kingdom|London|Amazon Technologies Inc.|
-|16|125.24.48.179|8080|Thailand|Phitsanulok|TOT Public Company Limited|
-|17|202.51.196.226|8080|Indonesia|Gunung|PT. Sejahtera Globalindo|
-|18|85.206.93.105|8080|Lithuania|Kaunas|Telia Lietuva|
-|19|195.162.70.48|8689|Ukraine|Kremenets|PP IV-COM|
-|20|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|27.79.147.212|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|10|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|13.38.66.165|3128|France|Paris|Amazon Technologies Inc.|
+|13|42.118.74.62|16000|Vietnam|Hanoi|FPT Telecom Company|
+|14|3.26.174.5|18609|Australia|Sydney|Amazon Technologies Inc.|
+|15|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|16|196.216.134.71|8865|South Africa|Lichtenburg|HERO TELECOMS (PTY) LTD|
+|17|27.71.140.233|16000|Vietnam|Hanoi|Viettel Group|
+|18|27.71.138.112|16000|Vietnam|Bảo Lộc|Viettel Group|
+|19|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|20|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 
 
 
