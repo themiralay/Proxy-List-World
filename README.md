@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |2|38.183.146.135|8080|Indonesia|Weleri|PT Ikhlas Cipta Teknologi|
-|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|117.6.51.7|16000|Vietnam|Hanoi|VIETTEL|
 |5|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|7|120.89.91.194|8085|Indonesia|Cianjur|PT. Java Digital Nusantara|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|11|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|12|116.103.26.137|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|5.202.84.97|8080|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
-|14|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|15|43.198.103.235|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|16|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|17|118.68.29.234|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|19|160.30.63.252|8080|Bangladesh|Nārāyanganj|InComIT Solution|
-|20|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|27.71.140.233|16000|Vietnam|Hanoi|Viettel Group|
+|8|103.163.134.95|8090|Indonesia|Banyuwangi|PROVITEL|
+|9|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|11|194.147.35.134|52120|United Kingdom|Coventry|Baykov Ilya Sergeevich|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|13|103.81.175.218|28022|Bangladesh|Chittagong|ADN Telecom Ltd.|
+|14|43.198.103.235|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|15|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|16|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|17|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|18|102.209.78.155|8080|Kenya|Nairobi|Safhome Fibre Limited|
+|19|27.79.144.0|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|185.5.251.0|2080|Russia|Moscow|I-servers LTD|
 
 
 
