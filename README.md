@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|207.166.177.57|3128|Singapore|Singapore|BYTEPLUS|
-|2|207.166.178.9|3128|Singapore|Singapore|BYTEPLUS|
-|3|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|4|116.103.26.137|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|7|27.71.138.112|16000|Vietnam|Bảo Lộc|Viettel Group|
-|8|117.6.51.7|16000|Vietnam|Hanoi|VIETTEL|
-|9|1.55.60.53|16000|Vietnam|Hanoi|FPT Telecom Company|
-|10|27.79.144.0|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|12|207.166.177.186|3128|Singapore|Singapore|BYTEPLUS|
-|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|15|27.71.142.16|16000|Vietnam|Hanoi|Viettel Group|
-|16|80.92.204.223|31999|Germany|Frankfurt am Main|PQ HOSTING PLUS S.R.L.|
-|17|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|27.71.140.233|16000|Vietnam|Hanoi|Viettel Group|
-|19|42.113.21.1|16000|Vietnam|Hanoi|FPT Telecom Company|
-|20|42.118.74.62|16000|Vietnam|Hanoi|FPT Telecom Company|
+|1|207.166.177.52|3128|Singapore|Singapore|BYTEPLUS|
+|2|207.166.179.12|3128|Singapore|Singapore|BYTEPLUS|
+|3|207.166.177.22|3128|Singapore|Singapore|BYTEPLUS|
+|4|207.166.178.156|3128|Singapore|Singapore|BYTEPLUS|
+|5|207.166.176.66|3128|Singapore|Singapore|BYTEPLUS|
+|6|207.166.179.93|3128|Singapore|Singapore|BYTEPLUS|
+|7|207.166.179.83|3128|Singapore|Singapore|BYTEPLUS|
+|8|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|9|27.71.140.233|16000|Vietnam|Hanoi|Viettel Group|
+|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|11|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|12|117.6.51.7|16000|Vietnam|Hanoi|VIETTEL|
+|13|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|14|42.118.0.105|16000|Vietnam|Hanoi|FPT Telecom Company|
+|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|27.71.138.112|16000|Vietnam|Bảo Lộc|Viettel Group|
+|18|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|27.71.142.16|16000|Vietnam|Hanoi|Viettel Group|
 
 
 
