@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|2|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|27.71.140.233|16000|Vietnam|Hanoi|Viettel Group|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|6|103.187.162.216|8080|Indonesia|Tangerang|PT Misqot Sejahtera Indonesia|
-|7|42.118.0.105|16000|Vietnam|Hanoi|FPT Telecom Company|
-|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|9|116.103.26.137|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|11|172.236.243.198|8888|United States|Los Angeles|Akamai Technologies, Inc.|
-|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|13|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|14|163.227.135.18|8081|Indonesia|Utan|PT EMLIMA KONEKSI NUSANTARA|
-|15|118.68.28.8|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|16|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|17|38.52.209.9|999|Guatemala|San Pedro Pinula|CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|20|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|1|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|49.49.24.151|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|5|27.71.140.233|16000|Vietnam|Hanoi|Viettel Group|
+|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|27.71.138.112|16000|Vietnam|Bảo Lộc|Viettel Group|
+|10|27.71.142.16|16000|Vietnam|Hanoi|Viettel Group|
+|11|27.79.147.212|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|15|42.113.21.1|16000|Vietnam|Hanoi|FPT Telecom Company|
+|16|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|17|163.227.135.18|8081|Indonesia|Utan|PT EMLIMA KONEKSI NUSANTARA|
+|18|103.235.181.245|8080|Indonesia|Jakarta|PT Top Class Universal|
+|19|103.138.185.81|83|India|Rāwatbhāta|Mahrth Internet Service Private Limited|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
