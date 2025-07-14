@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|80.92.204.223|31999|Germany|Frankfurt am Main|PQ HOSTING PLUS S.R.L.|
-|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|7|118.68.28.8|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|8|27.79.147.212|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|27.71.138.112|16000|Vietnam|Bảo Lộc|Viettel Group|
-|10|23.237.210.82|80|United States|Houston|FDCservers.net|
-|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|14|27.71.139.33|16000|Vietnam|Hanoi|Viettel Group|
-|15|1.55.60.53|16000|Vietnam|Hanoi|FPT Telecom Company|
-|16|1.54.175.138|16000|Vietnam|Hanoi|FPT Telecom Company|
-|17|49.151.113.148|8080|Philippines|Baguio City|Philippine Long Distance Telephone Co.|
-|18|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|19|37.27.253.44|8005|Finland|Helsinki|Hetzner Online GmbH|
-|20|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|1|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|4|49.48.45.198|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|1.54.175.138|16000|Vietnam|Hanoi|FPT Telecom Company|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|10|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|11|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|23.237.210.82|80|United States|Houston|FDCservers.net|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|27.71.138.112|16000|Vietnam|Bảo Lộc|Viettel Group|
+|16|116.103.26.137|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|184.82.46.19|8080|Thailand|Khon Kaen|AIS-Fibre|
+|18|38.211.24.18|8080|Indonesia|Bandung|PT Putra Garsel Interkoneksi|
+|19|124.248.190.213|8080|Cambodia|Phnom Penh|COGETEL Co., Ltd|
+|20|36.95.169.154|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
 
 
 
