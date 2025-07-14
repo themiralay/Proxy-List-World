@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|1|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|2|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|9|124.104.176.167|8080|Philippines|Marilao|Philippine Long Distance Telephone Co.|
-|10|80.92.204.223|31999|Germany|Frankfurt am Main|PQ HOSTING PLUS S.R.L.|
-|11|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|12|103.178.21.93|3125|Indonesia|Sumberpucung|PT Trisna Mega Abadi|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|14|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|15|180.191.59.103|9995|Philippines|Tarlac City|Globe Telecom|
-|16|149.86.159.4|8080|Turkey|Sille|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|17|212.175.61.31|8080|Turkey|Sanliurfa|Turk Telekomunikasyon Anonim Sirketi|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|116.96.86.189|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|7|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|8|103.178.21.93|3125|Indonesia|Sumberpucung|PT Trisna Mega Abadi|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|204.157.251.178|999|Dominican Republic|El Factor|Sequre Networks SRL|
+|11|188.132.222.230|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|43.216.214.221|4289|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|14|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|15|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|16|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
+|17|85.206.93.105|8080|Lithuania|Kaunas|Telia Lietuva|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|19|23.157.88.25|1080|Germany|Frankfurt|GTHost|
+|20|103.163.134.95|8090|Indonesia|Banyuwangi|PROVITEL|
 
 
 
