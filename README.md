@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|4|103.187.227.102|8082|Indonesia|Prambonkrajan|PT Arsya Bintang Nusantara|
-|5|27.71.142.16|16000|Vietnam|Hanoi|Viettel Group|
-|6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|27.71.140.233|16000|Vietnam|Hanoi|Viettel Group|
-|8|42.118.74.62|16000|Vietnam|Hanoi|FPT Telecom Company|
-|9|80.92.204.223|31999|Germany|Frankfurt am Main|PQ HOSTING PLUS S.R.L.|
-|10|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|11|35.179.146.181|3128|United Kingdom|London|Amazon Technologies Inc.|
-|12|116.103.26.137|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|118.68.29.234|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|14|1.54.175.138|16000|Vietnam|Hanoi|FPT Telecom Company|
-|15|3.26.174.5|18609|Australia|Sydney|Amazon Technologies Inc.|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|17|13.38.66.165|3128|France|Paris|Amazon Technologies Inc.|
-|18|103.81.194.165|8080|Indonesia|Ciampea|PT Rtiga Global Media|
-|19|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|20|23.237.210.82|80|United States|Houston|FDCservers.net|
+|3|36.70.146.33|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|5|103.209.36.58|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
+|6|27.71.140.233|16000|Vietnam|Hanoi|Viettel Group|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|10|27.71.139.33|16000|Vietnam|Hanoi|Viettel Group|
+|11|43.198.103.235|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|12|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|13|18.132.14.119|3128|United Kingdom|London|Amazon Technologies Inc.|
+|14|185.237.224.162|3128|Switzerland|Geneva|Green Floid LLC|
+|15|45.189.252.246|999|Mexico|Alvarado|Tracered SA De CV|
+|16|180.254.145.130|8080|Indonesia|Lhokseumawe|PT. TELKOM INDONESIA|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|18|103.184.21.102|8080|Indonesia|Bondowoso|PT Tekling Media Telematika|
+|19|118.68.28.8|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|20|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
 
 
 
