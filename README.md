@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|27.79.198.227|16000|Vietnam|Hanoi|Viettel Corporation|
 |10|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|11|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|12|18.132.14.119|3128|United Kingdom|London|Amazon Technologies Inc.|
-|13|115.72.43.152|10017|Vietnam|Hanoi|VIETELmetro|
-|14|1.54.167.216|16000|Vietnam|Hanoi|FPT Telecom Company|
-|15|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|17|103.191.251.199|8083|Indonesia|Batam|PT Mulia Batam Net|
-|18|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|19|37.27.253.44|8014|Finland|Helsinki|Hetzner Online GmbH|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|116.96.86.189|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|116.96.85.16|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|18.60.146.88|57355|India|Hyderabad|Amazon.com, Inc.|
+|14|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|15|42.118.74.232|16000|Vietnam|Hanoi|FPT Telecom Company|
+|16|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|17|43.198.103.235|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|19|138.99.94.51|8080|Brazil|Itapiúna|Fgtech Informatica Ltda|
+|20|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
 
 
 
