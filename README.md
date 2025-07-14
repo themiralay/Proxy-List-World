@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|2|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|118.71.170.101|16000|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|1.54.167.216|16000|Vietnam|Hanoi|FPT Telecom Company|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
 |8|27.71.139.33|16000|Vietnam|Hanoi|Viettel Group|
-|9|23.237.210.82|80|United States|Houston|FDCservers.net|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|1.54.167.216|16000|Vietnam|Hanoi|FPT Telecom Company|
-|13|42.118.74.232|16000|Vietnam|Hanoi|FPT Telecom Company|
-|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|15|113.162.238.139|20499|Vietnam|Quận Bảy|VietNam Post and Telecom Corporation|
-|16|13.38.66.165|3128|France|Paris|Amazon Technologies Inc.|
-|17|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|18|54.199.199.66|29733|Japan|Tokyo|Amazon.com, Inc.|
+|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|23.237.210.82|80|United States|Houston|FDCservers.net|
+|12|118.71.170.101|16000|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|13|27.71.142.16|16000|Vietnam|Hanoi|Viettel Group|
+|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|16|80.92.204.223|31999|Germany|Frankfurt am Main|PQ HOSTING PLUS S.R.L.|
+|17|18.203.249.67|10010|Ireland|Dublin|Amazon Technologies Inc.|
+|18|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
 |19|43.216.214.221|4289|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|20|113.162.238.139|20499|Vietnam|Quận Bảy|VietNam Post and Telecom Corporation|
 
 
 
