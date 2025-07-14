@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|5|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|80.92.204.223|31999|Germany|Frankfurt am Main|PQ HOSTING PLUS S.R.L.|
-|8|27.71.138.112|16000|Vietnam|Bảo Lộc|Viettel Group|
-|9|35.179.146.181|3128|United Kingdom|London|Amazon Technologies Inc.|
-|10|13.38.66.165|3128|France|Paris|Amazon Technologies Inc.|
-|11|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|12|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|13|3.26.174.5|18609|Australia|Sydney|Amazon Technologies Inc.|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|17|37.27.253.44|8099|Finland|Helsinki|Hetzner Online GmbH|
-|18|37.27.253.44|8099|Finland|Helsinki|Hetzner Online GmbH|
-|19|37.27.253.44|8099|Finland|Helsinki|Hetzner Online GmbH|
-|20|27.71.138.112|16000|Vietnam|Bảo Lộc|Viettel Group|
+|4|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|118.68.28.8|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|7|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|8|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|9|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|10|93.55.237.109|19702|Italy|Milan|Fastweb SpA|
+|11|18.132.14.119|3128|United Kingdom|London|Amazon Technologies Inc.|
+|12|85.206.93.105|8080|Lithuania|Kaunas|Telia Lietuva|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|14|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|37.27.253.44|8099|Finland|Helsinki|Hetzner Online GmbH|
+|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|18|103.175.240.87|8080|Indonesia|Buaran|LDP|
+|19|103.191.171.138|8080|Indonesia|Cianjur|PT Sahabat Manjur Grup|
+|20|65.108.145.212|8092|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
