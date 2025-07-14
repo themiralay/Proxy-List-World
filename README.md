@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|27.71.140.233|16000|Vietnam|Hanoi|Viettel Group|
-|4|118.68.28.8|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|116.96.86.189|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|8|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|9|27.79.147.212|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|27.79.149.131|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|12|23.237.210.82|80|United States|Houston|FDCservers.net|
-|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|15|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|16|1.54.175.138|16000|Vietnam|Hanoi|FPT Telecom Company|
-|17|18.166.211.233|8004|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|18|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|19|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|5|171.228.163.124|5104|Vietnam|Hanoi|Viettel Corporation|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|42.118.74.62|16000|Vietnam|Hanoi|FPT Telecom Company|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|23.237.210.82|80|United States|Houston|FDCservers.net|
+|11|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|12|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|13|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|14|116.96.86.189|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|27.79.147.212|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|27.79.149.131|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|184.82.46.19|8080|Thailand|Khon Kaen|AIS-Fibre|
+|18|18.166.211.233|8004|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|19|202.58.77.77|1111|Indonesia|Mojokerto|PT Data Buana Nusantara|
+|20|159.192.102.249|8080|Thailand|Bang Rak|CAT Telecom Public Company Limited|
 
 
 
