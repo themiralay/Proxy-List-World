@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|116.103.26.137|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|2|117.5.24.177|5108|Vietnam|Hanoi|VIETTEL|
+|3|42.119.157.10|7000|Vietnam|Hanoi|FPT Telecom Company|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|171.228.163.124|5104|Vietnam|Hanoi|Viettel Corporation|
+|6|42.118.24.120|16000|Vietnam|Hanoi|FPT Telecom Company|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|43.216.214.221|4289|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|10|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|11|27.71.140.233|16000|Vietnam|Hanoi|Viettel Group|
-|12|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|13|103.126.87.181|7777|Indonesia|Trucuk|PT. Rasi Bintang Perkasa|
-|14|184.82.46.19|8080|Thailand|Khon Kaen|AIS-Fibre|
-|15|115.72.161.148|10007|Vietnam|Ho Chi Minh City|VIETELmetro|
-|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|17|13.245.30.86|3128|South Africa|Johannesburg|Amazon.com, Inc.|
-|18|115.79.237.184|4003|Vietnam|Ho Chi Minh City|VIETELftth|
-|19|171.228.167.112|5109|Vietnam|Hanoi|Viettel Corporation|
-|20|171.228.160.128|5109|Vietnam|Hanoi|Viettel Corporation|
+|9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|10|49.48.45.198|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|11|171.228.184.30|5101|Vietnam|Hanoi|Viettel Corporation|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|14|118.68.28.8|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|15|43.216.214.221|4289|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|16|36.95.169.154|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|17|80.92.204.223|31999|Germany|Frankfurt am Main|PQ HOSTING PLUS S.R.L.|
+|18|117.6.51.7|16000|Vietnam|Hanoi|VIETTEL|
+|19|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|20|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
 
 
 
