@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|58.187.70.251|16000|Vietnam|Hanoi|FPT Telecom Company|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|8|80.92.204.223|31999|Germany|Frankfurt am Main|PQ HOSTING PLUS S.R.L.|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|116.96.86.189|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
 |9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|42.113.21.1|16000|Vietnam|Hanoi|FPT Telecom Company|
-|11|1.55.60.32|16000|Vietnam|Hanoi|FPT Telecom Company|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|14|117.6.51.7|16000|Vietnam|Hanoi|VIETTEL|
-|15|1.54.175.138|16000|Vietnam|Hanoi|FPT Telecom Company|
-|16|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|37.27.253.44|8035|Finland|Helsinki|Hetzner Online GmbH|
+|10|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|13|42.113.21.1|16000|Vietnam|Hanoi|FPT Telecom Company|
+|14|35.179.146.181|3128|United Kingdom|London|Amazon Technologies Inc.|
+|15|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|16|58.187.70.251|16000|Vietnam|Hanoi|FPT Telecom Company|
+|17|210.87.125.146|8090|Indonesia|Krajan Wetan Wonojoyo|CV Brawijaya Giga Network|
+|18|43.198.103.235|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|19|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
