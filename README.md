@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|8|80.92.204.223|31998|Germany|Frankfurt am Main|PQ HOSTING PLUS S.R.L.|
-|9|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|27.71.142.16|16000|Vietnam|Hanoi|Viettel Group|
-|12|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|13|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|14|13.38.66.165|3128|France|Paris|Amazon Technologies Inc.|
-|15|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|16|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|17|27.79.149.131|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|19|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|20|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|27.71.142.16|16000|Vietnam|Hanoi|Viettel Group|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|116.103.26.137|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|13|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|15|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|16|42.118.24.120|16000|Vietnam|Hanoi|FPT Telecom Company|
+|17|38.7.131.18|999|Dominican Republic|La Boca de Mao Abajo|SERVICIOS NUÑEZ EIRL|
+|18|103.189.62.131|8082|Indonesia|Denpasar|PT Blip Integrator Provider|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|20|45.230.170.30|999|Venezuela|Caracas|Soluciones DCN Network C.A|
 
 
 
