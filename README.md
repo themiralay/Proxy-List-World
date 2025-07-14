@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|7|27.79.144.0|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|5.188.183.253|8080|Spain|Madrid|Melbikomas UAB|
-|9|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|11|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|195.62.50.247|8080|Turkey|Adana|High Speed Telekomunikasyon VE Haberlesme Hizmetleriltd STI|
-|16|177.130.104.106|33333|Brazil|Presidente Prudente|America-NET Ltda.|
-|17|80.92.204.223|31999|Germany|Frankfurt am Main|PQ HOSTING PLUS S.R.L.|
-|18|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|19|103.186.33.15|8080|Indonesia|Gorontalo|CV Ali Media Network|
-|20|37.27.253.44|8005|Finland|Helsinki|Hetzner Online GmbH|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|8|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|10|116.96.86.189|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|27.79.147.212|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|13|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|14|1.54.175.138|16000|Vietnam|Hanoi|FPT Telecom Company|
+|15|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|16|195.114.7.6|8095|Ukraine|Simferopol|Artem Zubkov|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|19|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|20|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
 
 
 
