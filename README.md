@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|207.166.177.145|3128|Singapore|Singapore|BYTEPLUS|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|1.55.60.32|16000|Vietnam|Hanoi|FPT Telecom Company|
-|10|27.71.139.33|16000|Vietnam|Hanoi|Viettel Group|
-|11|42.118.74.62|16000|Vietnam|Hanoi|FPT Telecom Company|
-|12|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|15|118.68.28.8|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|16|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|17|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|18|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|19|117.6.51.7|16000|Vietnam|Hanoi|VIETTEL|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|1|207.166.178.9|3128|Singapore|Singapore|BYTEPLUS|
+|2|207.166.177.99|3128|Singapore|Singapore|BYTEPLUS|
+|3|207.166.179.66|3128|Singapore|Singapore|BYTEPLUS|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|207.166.177.186|3128|Singapore|Singapore|BYTEPLUS|
+|6|207.166.177.67|3128|Singapore|Singapore|BYTEPLUS|
+|7|207.166.179.110|3128|Singapore|Singapore|BYTEPLUS|
+|8|207.166.179.83|3128|Singapore|Singapore|BYTEPLUS|
+|9|207.166.178.147|3128|Singapore|Singapore|BYTEPLUS|
+|10|27.71.138.112|16000|Vietnam|Bảo Lộc|Viettel Group|
+|11|116.103.26.137|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|13|27.71.142.16|16000|Vietnam|Hanoi|Viettel Group|
+|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|16|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|17|27.71.139.33|16000|Vietnam|Hanoi|Viettel Group|
+|18|27.79.147.212|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
 
 
 
