@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|2|62.33.91.10|3128|Russia|Tynda|TRANS-TELECOM|
-|3|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|23.237.210.82|80|United States|Houston|FDCservers.net|
+|3|23.237.210.82|80|United States|Houston|FDCservers.net|
 |4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|5|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|6|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|7|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|8|18.60.233.122|4270|India|Hyderabad|Amazon.com, Inc.|
-|9|27.79.249.29|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|42.118.74.62|16000|Vietnam|Hanoi|FPT Telecom Company|
-|12|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|13|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|14|3.26.174.5|18609|Australia|Sydney|Amazon Technologies Inc.|
-|15|103.187.162.216|8080|Indonesia|Tangerang|PT Misqot Sejahtera Indonesia|
-|16|160.187.191.3|8082|Bangladesh|Puthia|Race Online Limited|
-|17|103.189.62.131|8082|Indonesia|Denpasar|PT Blip Integrator Provider|
-|18|3.109.62.30|717|India|Mumbai|Amazon Technologies Inc.|
-|19|113.162.238.139|20499|Vietnam|Quận Bảy|VietNam Post and Telecom Corporation|
-|20|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
+|5|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|9|3.109.62.30|717|India|Mumbai|Amazon Technologies Inc.|
+|10|18.60.233.122|4270|India|Hyderabad|Amazon.com, Inc.|
+|11|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|12|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|13|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
+|14|188.235.146.220|40754|Russia|Saratov|JSC "ER-Telecom Holding"|
+|15|85.206.93.105|8080|Lithuania|Kaunas|Telia Lietuva|
+|16|188.121.100.221|3128|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|17|103.188.169.160|7777|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|18|115.42.67.186|8080|Pakistan|Karachi|Connect Communication|
+|19|36.37.86.26|9812|Indonesia|Bekasi|LINTASARTA|
+|20|193.95.53.131|8077|Tunisia|Tunis|3S INF|
 
 
 
