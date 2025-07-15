@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|43.216.75.140|42761|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
 |9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|18.166.211.233|8004|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|12|18.203.249.67|10010|Ireland|Dublin|Amazon Technologies Inc.|
-|13|41.65.160.173|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|27.71.138.112|16000|Vietnam|Bảo Lộc|Viettel Group|
-|16|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|17|163.223.78.89|8080|Indonesia|Jombang|PT Big Network Indonesia|
-|18|16.26.88.4|28095|Australia|Melbourne|Amazon.com, Inc.|
-|19|13.245.30.86|3128|South Africa|Johannesburg|Amazon.com, Inc.|
-|20|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|10|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|11|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|18.203.249.67|10010|Ireland|Dublin|Amazon Technologies Inc.|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|27.71.142.16|16000|Vietnam|Hanoi|Viettel Group|
+|16|43.216.214.221|10600|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|17|37.27.253.44|8099|Finland|Helsinki|Hetzner Online GmbH|
+|18|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|19|5.160.47.72|8080|Iran|Tehran|Respina|
+|20|128.199.120.45|9090|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
