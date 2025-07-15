@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|23.237.210.82|80|United States|Houston|FDCservers.net|
-|5|23.237.210.82|80|United States|Houston|FDCservers.net|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|8|115.72.33.133|10028|Vietnam|Hanoi|VIETELmetro|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|12|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|13|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
-|14|188.121.100.221|3128|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|15|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|116.203.139.209|4145|Germany|Nuremberg|Hetzner Online GmbH|
-|18|54.199.199.66|29733|Japan|Tokyo|Amazon.com, Inc.|
-|19|18.60.233.122|4270|India|Hyderabad|Amazon.com, Inc.|
-|20|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|2|23.237.210.82|80|United States|Houston|FDCservers.net|
+|3|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|9|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
+|10|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
+|11|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
+|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|13|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|14|43.198.103.235|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|15|18.60.111.249|6698|India|Hyderabad|Amazon.com, Inc.|
+|16|86.109.3.23|443|United States|Chicago|Packet Host, Inc.|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|19|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
+|20|188.121.100.221|3128|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
 
 
 
