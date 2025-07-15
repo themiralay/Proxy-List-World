@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.189.95|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|18.203.249.67|10010|Ireland|Dublin|Amazon Technologies Inc.|
-|9|27.79.249.29|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|37.27.253.44|8035|Finland|Helsinki|Hetzner Online GmbH|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|14|80.92.204.223|31998|Germany|Frankfurt am Main|PQ HOSTING PLUS S.R.L.|
-|15|202.154.18.168|8099|Indonesia|Babat|DIGITNET|
-|16|117.161.170.163|9287|China|Guangzhou|China Mobile communications corporation|
-|17|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
-|18|60.174.167.40|4999|China|Hefei|Chinanet|
-|19|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|20|116.96.86.189|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|27.79.240.98|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|12|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|13|18.203.249.67|10010|Ireland|Dublin|Amazon Technologies Inc.|
+|14|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
+|15|40.192.110.77|29733|India|Hyderabad|Amazon.com, Inc.|
+|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|17|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|18|13.245.30.86|3128|South Africa|Johannesburg|Amazon.com, Inc.|
+|19|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|20|43.198.103.235|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
 
 
 
