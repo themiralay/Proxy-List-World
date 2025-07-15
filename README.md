@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |5|23.237.210.82|80|United States|Houston|FDCservers.net|
-|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |8|23.237.210.82|80|United States|Houston|FDCservers.net|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|11|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|12|27.79.240.98|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|15|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|16|18.60.146.88|57355|India|Hyderabad|Amazon.com, Inc.|
-|17|27.71.139.33|16000|Vietnam|Hanoi|Viettel Group|
-|18|92.58.181.171|1194|Spain|Madrid|UNI2|
-|19|18.60.233.122|4270|India|Hyderabad|Amazon.com, Inc.|
-|20|27.71.138.112|16000|Vietnam|Bảo Lộc|Viettel Group|
+|9|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|13|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|14|27.71.139.33|16000|Vietnam|Hanoi|Viettel Group|
+|15|13.38.66.165|3128|France|Paris|Amazon Technologies Inc.|
+|16|27.71.138.112|16000|Vietnam|Bảo Lộc|Viettel Group|
+|17|103.14.231.218|3168|Indonesia|Menggala|PT Internet Corp Ltd|
+|18|40.192.110.77|29733|India|Hyderabad|Amazon.com, Inc.|
+|19|103.144.253.234|8080|Indonesia|Gandul|PT. Indonesia Comnets Plus|
+|20|42.118.173.195|16000|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
