@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|171.234.115.45|1001|Vietnam|Vĩnh Tường|Viettel Corporation|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|4|54.199.199.66|29733|Japan|Tokyo|Amazon.com, Inc.|
-|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|7|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
-|8|27.71.142.16|16000|Vietnam|Hanoi|Viettel Group|
-|9|103.171.183.146|7777|Indonesia|Bogor|PT Hayat Teknologi Informatika|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|18.132.14.119|3128|United Kingdom|London|Amazon Technologies Inc.|
-|12|43.216.214.221|4289|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|13|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
-|14|27.71.138.112|16000|Vietnam|Bảo Lộc|Viettel Group|
-|15|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
-|16|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|17|18.60.146.88|57355|India|Hyderabad|Amazon.com, Inc.|
-|18|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|19|43.216.75.140|42761|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|20|18.166.211.233|8004|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|3|103.156.15.31|1111|Indonesia|Jakarta|PT Lintas Jaringan Nusantara|
+|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|18.60.233.122|4270|India|Hyderabad|Amazon.com, Inc.|
+|6|103.171.183.146|7777|Indonesia|Bogor|PT Hayat Teknologi Informatika|
+|7|103.141.105.74|55|Indonesia|Pamulang|PT Indonesia Comnets Plus|
+|8|115.72.33.133|10017|Vietnam|Hanoi|VIETELmetro|
+|9|27.71.138.112|16000|Vietnam|Bảo Lộc|Viettel Group|
+|10|54.199.199.66|29733|Japan|Tokyo|Amazon.com, Inc.|
+|11|12.165.234.254|16096|United States|Walnut Ridge|AT&T Enterprises, LLC|
+|12|27.79.249.29|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|38.194.250.66|999|Mexico|Jalpan|Ientc S De RL De CV|
+|16|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|17|18.60.111.249|6698|India|Hyderabad|Amazon.com, Inc.|
+|18|38.156.75.130|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|13.245.30.86|3128|South Africa|Johannesburg|Amazon.com, Inc.|
 
 
 
