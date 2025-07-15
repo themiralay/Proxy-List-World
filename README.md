@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|27.71.139.33|16000|Vietnam|Hanoi|Viettel Group|
-|4|80.92.204.223|31999|Germany|Frankfurt am Main|PQ HOSTING PLUS S.R.L.|
-|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|13.38.66.165|3128|France|Paris|Amazon Technologies Inc.|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
-|10|18.60.146.88|57355|India|Hyderabad|Amazon.com, Inc.|
-|11|40.192.110.77|29733|India|Hyderabad|Amazon.com, Inc.|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|23.237.210.82|80|United States|Houston|FDCservers.net|
-|14|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
-|15|85.206.93.105|8080|Lithuania|Kaunas|Telia Lietuva|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|5.202.103.101|514|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
-|18|37.27.253.44|8005|Finland|Helsinki|Hetzner Online GmbH|
-|19|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|20|23.237.210.82|80|United States|Houston|FDCservers.net|
+|1|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|171.234.115.45|1001|Vietnam|Vĩnh Tường|Viettel Corporation|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|27.71.138.112|16000|Vietnam|Bảo Lộc|Viettel Group|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|9|116.96.86.189|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|13|27.71.142.16|16000|Vietnam|Hanoi|Viettel Group|
+|14|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
+|15|27.71.139.33|16000|Vietnam|Hanoi|Viettel Group|
+|16|42.118.74.62|16000|Vietnam|Hanoi|FPT Telecom Company|
+|17|18.60.146.88|57355|India|Hyderabad|Amazon.com, Inc.|
+|18|27.79.249.29|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
+|20|93.126.6.68|3128|Iran|Isfahan|AsmanFaraz- IUT|
 
 
 
