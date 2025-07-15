@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|2|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|3|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
-|4|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|23.237.210.82|80|United States|Houston|FDCservers.net|
-|6|42.118.74.62|16000|Vietnam|Hanoi|FPT Telecom Company|
-|7|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|8|80.92.204.223|31998|Germany|Frankfurt am Main|PQ HOSTING PLUS S.R.L.|
-|9|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|11|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
-|13|18.60.233.122|4270|India|Hyderabad|Amazon.com, Inc.|
-|14|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|15|92.58.181.171|1194|Spain|Madrid|UNI2|
-|16|18.60.111.249|6698|India|Hyderabad|Amazon.com, Inc.|
-|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|18|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|19|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|20|200.149.27.31|8080|Brazil|Petrópolis|V tal|
+|1|23.237.210.82|80|United States|Houston|FDCservers.net|
+|2|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|4|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|5|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|7|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|8|27.71.142.16|16000|Vietnam|Hanoi|Viettel Group|
+|9|3.67.179.136|3629|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|10|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|11|27.71.138.112|16000|Vietnam|Bảo Lộc|Viettel Group|
+|12|92.58.181.171|1194|Spain|Madrid|UNI2|
+|13|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|14|40.192.110.77|29733|India|Hyderabad|Amazon.com, Inc.|
+|15|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|16|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|17|49.0.33.133|27039|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
+|18|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|19|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|20|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
 
 
 
