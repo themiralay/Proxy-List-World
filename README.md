@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|2|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
-|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|4|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
-|5|80.92.204.223|31998|Germany|Frankfurt am Main|PQ HOSTING PLUS S.R.L.|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|27.79.240.98|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|23.237.210.82|80|United States|Houston|FDCservers.net|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|8|80.92.204.223|31999|Germany|Frankfurt am Main|PQ HOSTING PLUS S.R.L.|
+|9|54.199.199.66|29733|Japan|Tokyo|Amazon.com, Inc.|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |11|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|12|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
-|13|18.166.211.233|8004|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|14|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|15|31.14.114.69|1081|Iran|Tehran|Afranet Co|
-|16|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
-|17|27.71.138.112|16000|Vietnam|Bảo Lộc|Viettel Group|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|43.216.214.221|4289|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|12|103.99.27.188|8282|Indonesia|Tangerang|PT Lintas Network Solusi|
+|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|14|18.132.14.119|3128|United Kingdom|London|Amazon Technologies Inc.|
+|15|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|16|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|17|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|18|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
+|19|18.166.211.233|8004|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|20|42.118.74.62|16000|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
