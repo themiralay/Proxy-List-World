@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |7|75.119.130.35|3129|Germany|Düsseldorf|Contabo GmbH|
 |8|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|11|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|18.60.146.88|57355|India|Hyderabad|Amazon.com, Inc.|
-|14|3.109.62.30|717|India|Mumbai|Amazon Technologies Inc.|
-|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|16|27.79.165.62|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|95.216.1.98|8080|Finland|Helsinki|Hetzner Online GmbH|
-|18|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|19|13.38.66.165|3128|France|Paris|Amazon Technologies Inc.|
-|20|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|9|18.60.146.88|57355|India|Hyderabad|Amazon.com, Inc.|
+|10|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|11|3.26.174.5|18609|Australia|Sydney|Amazon Technologies Inc.|
+|12|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|13|23.237.210.82|80|United States|Houston|FDCservers.net|
+|14|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|15|18.203.249.67|10010|Ireland|Dublin|Amazon Technologies Inc.|
+|16|45.138.25.9|3128|The Netherlands|Amsterdam|ITGLOBAL.COM NL B.V.|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|18|18.60.111.249|6698|India|Hyderabad|Amazon.com, Inc.|
+|19|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|20|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
 
 
 
