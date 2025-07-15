@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|4|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|6|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|7|45.70.236.121|8080|Ecuador|Pueblo Viejo|Ufinet Panama S.A.|
-|8|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|9|18.60.111.249|6698|India|Hyderabad|Amazon.com, Inc.|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|12|3.67.179.136|3629|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|13|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|14|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|23.157.88.25|1080|Germany|Frankfurt|GTHost|
-|17|3.26.174.5|18609|Australia|Sydney|Amazon Technologies Inc.|
-|18|80.92.204.223|31999|Germany|Frankfurt am Main|PQ HOSTING PLUS S.R.L.|
-|19|202.154.18.168|8099|Indonesia|Babat|DIGITNET|
-|20|37.27.253.44|8063|Finland|Helsinki|Hetzner Online GmbH|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|7|3.67.179.136|3629|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|8|18.60.111.249|6698|India|Hyderabad|Amazon.com, Inc.|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|13|103.174.236.115|8080|Indonesia|Karangampel|PT Global Erasiber Teknologi|
+|14|13.245.30.86|3128|South Africa|Johannesburg|Amazon.com, Inc.|
+|15|103.172.35.40|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|16|3.26.174.5|18609|Australia|Sydney|Amazon Technologies Inc.|
+|17|37.27.253.44|8063|Finland|Helsinki|Hetzner Online GmbH|
+|18|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|19|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
+|20|80.92.204.223|31998|Germany|Frankfurt am Main|PQ HOSTING PLUS S.R.L.|
 
 
 
