@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|3|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|8|128.199.140.172|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|91.213.99.134|3128|Uzbekistan|Tashkent|New Line Solutions LLC|
-|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|15|18.226.200.222|51568|United States|Dublin|Amazon.com, Inc.|
-|16|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
-|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|18|13.245.30.86|3128|South Africa|Johannesburg|Amazon.com, Inc.|
-|19|159.223.59.24|9999|Singapore|Singapore|DigitalOcean, LLC|
-|20|67.43.236.18|17481|Canada|Montreal|GloboTech Communications|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|9|91.213.99.134|3128|Uzbekistan|Tashkent|New Line Solutions LLC|
+|10|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
+|11|27.71.142.16|16000|Vietnam|Hanoi|Viettel Group|
+|12|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
+|13|103.164.229.149|8080|Indonesia|Baekrajan|PT Muria Data Utama|
+|14|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|15|18.60.233.122|4270|India|Hyderabad|Amazon.com, Inc.|
+|16|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
+|17|159.223.59.24|9999|Singapore|Singapore|DigitalOcean, LLC|
+|18|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
