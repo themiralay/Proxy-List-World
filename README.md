@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.237.210.82|80|United States|Houston|FDCservers.net|
-|2|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|18.203.249.67|10010|Ireland|Dublin|Amazon Technologies Inc.|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|3.109.62.30|717|India|Mumbai|Amazon Technologies Inc.|
-|11|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|12|40.192.110.77|29733|India|Hyderabad|Amazon.com, Inc.|
-|13|103.114.96.246|8080|Bangladesh|Hājīganj|HelloTech Limited|
-|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|15|13.38.66.165|3128|France|Paris|Amazon Technologies Inc.|
-|16|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|17|27.71.142.16|16000|Vietnam|Hanoi|Viettel Group|
-|18|54.199.199.66|29733|Japan|Tokyo|Amazon.com, Inc.|
-|19|43.216.214.221|4289|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|20|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|23.237.210.82|80|United States|Houston|FDCservers.net|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|5|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|6|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|8|13.38.66.165|3128|France|Paris|Amazon Technologies Inc.|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|11|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|16|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
+|17|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|18|144.48.162.104|8080|Bangladesh|Kāfrul|Cue Club Technology|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
