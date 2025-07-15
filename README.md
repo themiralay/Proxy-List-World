@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|4|45.138.25.9|3128|The Netherlands|Amsterdam|ITGLOBAL.COM NL B.V.|
-|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
-|10|18.132.14.119|3128|United Kingdom|London|Amazon Technologies Inc.|
-|11|75.119.130.35|3129|Germany|Düsseldorf|Contabo GmbH|
-|12|13.38.66.165|3128|France|Paris|Amazon Technologies Inc.|
+|1|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|2|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|80.92.204.223|31999|Germany|Frankfurt am Main|PQ HOSTING PLUS S.R.L.|
+|6|75.119.130.35|3129|Germany|Düsseldorf|Contabo GmbH|
+|7|18.166.211.233|8004|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|8|18.226.200.222|51568|United States|Dublin|Amazon.com, Inc.|
+|9|95.216.1.98|8080|Finland|Helsinki|Hetzner Online GmbH|
+|10|43.216.214.221|4289|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|11|157.15.139.85|8080|Indonesia|Pugeran Maguwoharjo|PT Ring Media Nusantara|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |13|3.109.62.30|717|India|Mumbai|Amazon Technologies Inc.|
-|14|18.166.211.233|8004|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|14|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
 |15|43.216.75.140|42761|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|16|41.254.48.190|1976|Libya|Tripoli|LTT Network Backbone and POPs|
-|17|43.216.214.221|4289|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|18|95.216.1.98|8080|Finland|Helsinki|Hetzner Online GmbH|
-|19|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
-|20|16.26.88.4|28095|Australia|Melbourne|Amazon.com, Inc.|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
+|19|37.27.253.44|8099|Finland|Helsinki|Hetzner Online GmbH|
+|20|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
 
 
 
