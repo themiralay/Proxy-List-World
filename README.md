@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|11|27.71.142.16|16000|Vietnam|Hanoi|Viettel Group|
-|12|41.65.160.173|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
-|13|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|14|27.79.240.98|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
-|18|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|19|18.166.211.233|8004|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|20|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|116.96.86.189|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|103.141.109.204|2023|Indonesia|Blitar|Data Buana Nusantara|
+|12|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|13|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|27.79.240.98|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|103.231.236.235|8182|Indonesia|Randudongkal|PT Level Indodata Teknologi|
+|17|18.166.211.233|8004|Hong Kong|Hong Kong|Amazon Technologies Inc.|
+|18|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|19|27.71.142.16|16000|Vietnam|Hanoi|Viettel Group|
+|20|37.27.253.44|8073|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
