@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |6|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
-|7|23.237.210.82|80|United States|Houston|FDCservers.net|
-|8|27.71.139.33|16000|Vietnam|Hanoi|Viettel Group|
-|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |12|27.71.138.112|16000|Vietnam|Bảo Lộc|Viettel Group|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|18.60.146.88|57355|India|Hyderabad|Amazon.com, Inc.|
-|15|40.192.110.77|29733|India|Hyderabad|Amazon.com, Inc.|
-|16|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|17|27.79.240.98|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|19|18.60.111.249|6698|India|Hyderabad|Amazon.com, Inc.|
-|20|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|13|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|119.93.87.65|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|16|116.96.85.16|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|18|42.118.74.62|16000|Vietnam|Hanoi|FPT Telecom Company|
+|19|116.96.86.189|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
 
 
 
