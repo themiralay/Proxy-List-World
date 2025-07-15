@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|4|112.201.237.191|8080|Philippines|Malabon|Philippine Long Distance Telephone Co.|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|103.39.51.207|8080|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
-|8|113.192.3.230|1452|Indonesia|Candi Prambanan|PT Boombas Carlo Medianet|
-|9|103.134.246.42|3172|Indonesia|Wongaya Kaja|Wisuandha Network Globalindo|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|103.160.68.233|8080|Indonesia|Surabaya|PT Gayatri Lintas Nusantara|
-|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|18|103.180.123.227|3127|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|19|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|20|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|1|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|11|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|12|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|18|152.53.194.46|8090|Austria|Vienna|ANXHOLDING2|
+|19|103.210.22.17|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|102.68.128.212|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
 
 
 
