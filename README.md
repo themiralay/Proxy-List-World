@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |3|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|10|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
-|11|18.60.146.88|57355|India|Hyderabad|Amazon.com, Inc.|
-|12|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|13|3.109.62.30|717|India|Mumbai|Amazon Technologies Inc.|
-|14|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|15|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|16|75.119.130.35|3129|Germany|Düsseldorf|Contabo GmbH|
-|17|18.203.249.67|10010|Ireland|Dublin|Amazon Technologies Inc.|
-|18|18.226.200.222|51568|United States|Dublin|Amazon.com, Inc.|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|20|103.186.193.135|8080|Indonesia|Krajan Mrayan|PT Lentera Digital Nusantara|
+|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|6|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
+|11|75.119.130.35|3129|Germany|Düsseldorf|Contabo GmbH|
+|12|18.203.249.67|10010|Ireland|Dublin|Amazon Technologies Inc.|
+|13|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|14|80.92.204.223|31999|Germany|Frankfurt am Main|PQ HOSTING PLUS S.R.L.|
+|15|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|103.63.26.123|8080|Indonesia|Probolinggo|PT Global Media Data Prima|
+|17|43.216.75.140|42761|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|35.179.146.181|3128|United Kingdom|London|Amazon Technologies Inc.|
+|20|18.166.211.233|8004|Hong Kong|Hong Kong|Amazon Technologies Inc.|
 
 
 
