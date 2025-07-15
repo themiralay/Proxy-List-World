@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|23.237.210.82|80|United States|Houston|FDCservers.net|
-|2|23.237.210.82|80|United States|Houston|FDCservers.net|
-|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|4|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
-|5|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
-|6|80.92.204.223|31999|Germany|Frankfurt am Main|PQ HOSTING PLUS S.R.L.|
+|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|4|23.237.210.82|80|United States|Houston|FDCservers.net|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
 |7|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|10|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|11|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|12|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|13|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|14|27.71.142.16|16000|Vietnam|Hanoi|Viettel Group|
-|15|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|16|43.216.75.140|42761|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|17|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|8|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|9|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|103.26.177.125|1080|Indonesia|Temenggungan|PT Lintas Jaringan Nusantara|
+|12|103.189.62.131|8082|Indonesia|Denpasar|PT Blip Integrator Provider|
+|13|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|14|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|15|85.192.27.44|3128|Austria|Vienna|Aeza International LTD|
+|16|42.118.74.62|16000|Vietnam|Hanoi|FPT Telecom Company|
+|17|18.60.233.122|4270|India|Hyderabad|Amazon.com, Inc.|
 |18|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|19|103.114.96.246|8080|Bangladesh|Hājīganj|HelloTech Limited|
-|20|54.248.79.99|3128|Japan|Tokyo|Amazon.com, Inc.|
+|19|150.107.246.45|8080|Indonesia|Bandung|Infrastruktur STARNET|
+|20|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 
 
 
