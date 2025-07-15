@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |3|23.237.210.82|80|United States|Houston|FDCservers.net|
 |4|23.237.210.82|80|United States|Houston|FDCservers.net|
-|5|80.92.204.223|31999|Germany|Frankfurt am Main|PQ HOSTING PLUS S.R.L.|
-|6|103.22.99.12|2020|Indonesia|Magetan|KHALISTAGROUP|
-|7|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|8|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|10|27.79.249.29|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|27.71.142.16|16000|Vietnam|Hanoi|Viettel Group|
-|12|27.71.139.33|16000|Vietnam|Hanoi|Viettel Group|
-|13|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|14|116.203.139.209|4145|Germany|Nuremberg|Hetzner Online GmbH|
-|15|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|18.60.111.249|6698|India|Hyderabad|Amazon.com, Inc.|
-|18|103.114.96.246|8080|Bangladesh|Hājīganj|HelloTech Limited|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|5|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|6|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|80.92.204.223|31999|Germany|Frankfurt am Main|PQ HOSTING PLUS S.R.L.|
+|8|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|9|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|10|18.203.249.67|10010|Ireland|Dublin|Amazon Technologies Inc.|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|42.118.74.62|16000|Vietnam|Hanoi|FPT Telecom Company|
+|13|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|180.149.232.33|8080|Bangladesh|Gazipur|Digi Jadoo Broadband Ltd|
+|18|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|19|43.216.214.221|4289|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|20|31.14.114.69|1081|Iran|Tehran|Afranet Co|
 
 
 
