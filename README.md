@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|5|43.216.75.140|42761|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|23.237.210.82|80|United States|Houston|FDCservers.net|
+|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|8|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|35.179.146.181|3128|United Kingdom|London|Amazon Technologies Inc.|
-|11|43.198.103.235|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|12|3.109.62.30|717|India|Mumbai|Amazon Technologies Inc.|
-|13|16.26.88.4|28095|Australia|Melbourne|Amazon.com, Inc.|
-|14|3.26.174.5|18609|Australia|Sydney|Amazon Technologies Inc.|
-|15|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|16|23.157.88.25|1080|Germany|Frankfurt|GTHost|
-|17|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|19|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|20|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|7|80.92.204.223|31999|Germany|Frankfurt am Main|PQ HOSTING PLUS S.R.L.|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|103.114.96.246|8080|Bangladesh|Hājīganj|HelloTech Limited|
+|10|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
+|11|42.118.74.62|16000|Vietnam|Hanoi|FPT Telecom Company|
+|12|116.96.85.16|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|27.71.139.33|16000|Vietnam|Hanoi|Viettel Group|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|16|54.199.199.66|29733|Japan|Tokyo|Amazon.com, Inc.|
+|17|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|18|18.132.14.119|3128|United Kingdom|London|Amazon Technologies Inc.|
+|19|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
+|20|38.199.68.142|999|Colombia|Santander De Quilichao|SOMOS TV+INTERNET|
 
 
 
