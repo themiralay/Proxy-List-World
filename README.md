@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|27.71.142.16|16000|Vietnam|Hanoi|Viettel Group|
-|9|91.213.99.134|3128|Uzbekistan|Tashkent|New Line Solutions LLC|
-|10|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
-|11|42.119.2.21|16000|Vietnam|Hanoi|FPT Telecom Company|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|115.72.33.133|10018|Vietnam|Hanoi|VIETELmetro|
-|14|72.10.160.90|5163|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|25913|Canada|Montreal|GloboTech Communications|
-|16|110.88.151.119|80|China|Fuzhou|Chinanet|
-|17|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|18|115.72.33.133|10018|Vietnam|Hanoi|VIETELmetro|
-|19|72.10.160.170|25107|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.171|2083|Canada|Montreal|GloboTech Communications|
+|6|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|7|18.226.200.222|51568|United States|Dublin|Amazon.com, Inc.|
+|8|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|3.26.174.5|18609|Australia|Sydney|Amazon Technologies Inc.|
+|11|13.245.30.86|3128|South Africa|Johannesburg|Amazon.com, Inc.|
+|12|18.60.233.122|4270|India|Hyderabad|Amazon.com, Inc.|
+|13|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|14|91.213.99.134|3128|Uzbekistan|Tashkent|New Line Solutions LLC|
+|15|37.27.253.44|8005|Finland|Helsinki|Hetzner Online GmbH|
+|16|72.10.160.90|5163|Canada|Montreal|GloboTech Communications|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|147.75.34.105|443|The Netherlands|Amsterdam|Packet Host, Inc.|
+|19|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|20|72.10.160.170|25107|Canada|Montreal|GloboTech Communications|
 
 
 
