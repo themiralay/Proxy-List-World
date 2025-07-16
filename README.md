@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|207.166.178.179|3128|Singapore|Singapore|BYTEPLUS|
-|2|207.166.178.251|3128|Singapore|Singapore|BYTEPLUS|
-|3|207.166.178.250|3128|Singapore|Singapore|BYTEPLUS|
-|4|207.166.178.240|3128|Singapore|Singapore|BYTEPLUS|
-|5|207.166.178.244|3128|Singapore|Singapore|BYTEPLUS|
-|6|207.166.178.232|3128|Singapore|Singapore|BYTEPLUS|
-|7|23.237.210.82|80|United States|Houston|FDCservers.net|
-|8|207.166.178.228|3128|Singapore|Singapore|BYTEPLUS|
-|9|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|27.71.139.33|16000|Vietnam|Hanoi|Viettel Group|
-|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|13|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|14|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|80.92.204.223|31999|Germany|Frankfurt am Main|PQ HOSTING PLUS S.R.L.|
-|16|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|17|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|18|103.170.22.137|8089|Indonesia|Banyumas|PT Puskomedia Indonesia Kreatif|
-|19|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|1|207.166.178.209|3128|Singapore|Singapore|BYTEPLUS|
+|2|207.166.177.93|3128|Singapore|Singapore|BYTEPLUS|
+|3|207.166.178.217|3128|Singapore|Singapore|BYTEPLUS|
+|4|207.166.178.227|3128|Singapore|Singapore|BYTEPLUS|
+|5|207.166.177.184|3128|Singapore|Singapore|BYTEPLUS|
+|6|207.166.176.104|3128|Singapore|Singapore|BYTEPLUS|
+|7|207.166.178.248|3128|Singapore|Singapore|BYTEPLUS|
+|8|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|43.153.28.68|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|15|23.237.210.82|80|United States|Houston|FDCservers.net|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|118.71.167.230|16000|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|18|3.109.62.30|717|India|Mumbai|Amazon Technologies Inc.|
+|19|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|20|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
 
 
 
