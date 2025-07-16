@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.61.201|3128|Japan|Chiyoda|InfoSphere|
-|2|207.166.178.251|3128|Singapore|Singapore|BYTEPLUS|
-|3|207.166.176.104|3128|Singapore|Singapore|BYTEPLUS|
-|4|207.166.178.244|3128|Singapore|Singapore|BYTEPLUS|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|23.237.210.82|80|United States|Houston|FDCservers.net|
-|7|207.166.178.235|3128|Singapore|Singapore|BYTEPLUS|
-|8|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|23.237.210.82|80|United States|Houston|FDCservers.net|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|207.166.177.178|3128|Singapore|Singapore|BYTEPLUS|
-|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|14|27.71.142.16|16000|Vietnam|Hanoi|Viettel Group|
-|15|207.166.178.232|3128|Singapore|Singapore|BYTEPLUS|
-|16|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|42.118.74.62|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|157.66.50.126|1111|Indonesia|Karawang|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|20|80.92.204.223|31999|Germany|Frankfurt am Main|PQ HOSTING PLUS S.R.L.|
+|2|207.166.178.217|3128|Singapore|Singapore|BYTEPLUS|
+|3|207.166.178.179|3128|Singapore|Singapore|BYTEPLUS|
+|4|207.166.178.209|3128|Singapore|Singapore|BYTEPLUS|
+|5|118.71.166.237|16000|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|6|207.166.178.233|3128|Singapore|Singapore|BYTEPLUS|
+|7|42.118.74.62|16000|Vietnam|Hanoi|FPT Telecom Company|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|118.71.167.230|16000|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|10|27.71.139.33|16000|Vietnam|Hanoi|Viettel Group|
+|11|23.237.210.82|80|United States|Houston|FDCservers.net|
+|12|23.237.210.82|80|United States|Houston|FDCservers.net|
+|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|15|207.166.178.236|3128|Singapore|Singapore|BYTEPLUS|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|27.79.243.140|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|19|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|20|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 
 
 
