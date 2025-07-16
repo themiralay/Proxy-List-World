@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|207.166.178.233|3128|Singapore|Singapore|BYTEPLUS|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
-|4|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|9|43.217.134.23|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|10|43.216.75.140|42761|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|11|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|12|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|13|40.192.110.77|29733|India|Hyderabad|Amazon.com, Inc.|
-|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|15|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|17|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|103.96.79.75|8080|Australia|South Brisbane|Asia Pacific Network Information Center|
-|20|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|1|207.166.178.209|3128|Singapore|Singapore|BYTEPLUS|
+|2|207.166.178.250|3128|Singapore|Singapore|BYTEPLUS|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|207.166.178.240|3128|Singapore|Singapore|BYTEPLUS|
+|5|207.166.178.236|3128|Singapore|Singapore|BYTEPLUS|
+|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|7|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|103.141.150.187|8080|Indonesia|Ciputat|PRIMACOM|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|207.166.177.93|3128|Singapore|Singapore|BYTEPLUS|
+|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|15|23.177.184.218|3128|United States|Fremont|ZhouyiSat Communications|
+|16|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|17|51.84.110.224|3128|Israel|Tel Aviv|Amazon.com, Inc.|
+|18|45.190.197.234|999|Mexico|El Salto|Tecnianet S.A De C.V.|
+|19|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|20|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
 
 
 
