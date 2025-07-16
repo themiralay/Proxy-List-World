@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.189.97|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
-|2|207.166.176.104|3128|Singapore|Singapore|BYTEPLUS|
-|3|207.166.178.217|3128|Singapore|Singapore|BYTEPLUS|
-|4|207.166.178.250|3128|Singapore|Singapore|BYTEPLUS|
-|5|207.166.177.184|3128|Singapore|Singapore|BYTEPLUS|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
-|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|14|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|15|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|16|18.166.211.233|8004|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|17|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|18|27.71.139.33|16000|Vietnam|Hanoi|Viettel Group|
-|19|18.203.249.67|10010|Ireland|Dublin|Amazon Technologies Inc.|
-|20|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|1|207.166.178.227|3128|Singapore|Singapore|BYTEPLUS|
+|2|207.166.178.239|3128|Singapore|Singapore|BYTEPLUS|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|9|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|10|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|11|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|12|37.27.253.44|8031|Finland|Helsinki|Hetzner Online GmbH|
+|13|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|14|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|15|164.163.42.38|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|17|23.237.210.82|80|United States|Houston|FDCservers.net|
+|18|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|19|72.10.160.170|10521|Canada|Montreal|GloboTech Communications|
+|20|117.161.170.163|9287|China|Guangzhou|China Mobile communications corporation|
 
 
 
