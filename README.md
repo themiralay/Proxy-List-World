@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|1|207.166.177.118|3128|Singapore|Singapore|BYTEPLUS|
 |2|207.166.176.156|3128|Singapore|Singapore|BYTEPLUS|
-|3|207.166.177.93|3128|Singapore|Singapore|BYTEPLUS|
-|4|207.166.178.251|3128|Singapore|Singapore|BYTEPLUS|
-|5|207.166.178.209|3128|Singapore|Singapore|BYTEPLUS|
+|3|207.166.178.233|3128|Singapore|Singapore|BYTEPLUS|
+|4|207.166.178.240|3128|Singapore|Singapore|BYTEPLUS|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|207.166.178.179|3128|Singapore|Singapore|BYTEPLUS|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|13|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|14|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|15|45.114.145.178|32650|India|Jaipur|Tejays Dynamic Limited|
-|16|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
-|17|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|18|18.203.249.67|10010|Ireland|Dublin|Amazon Technologies Inc.|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|51.84.110.224|3128|Israel|Tel Aviv|Amazon.com, Inc.|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|11|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|12|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|103.186.33.15|8080|Indonesia|Gorontalo|CV Ali Media Network|
+|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|16|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|19|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
 
 
 
