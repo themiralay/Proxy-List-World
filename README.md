@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|207.166.178.251|3128|Singapore|Singapore|BYTEPLUS|
-|2|207.166.177.178|3128|Singapore|Singapore|BYTEPLUS|
-|3|207.166.178.227|3128|Singapore|Singapore|BYTEPLUS|
-|4|207.166.178.235|3128|Singapore|Singapore|BYTEPLUS|
-|5|207.166.177.93|3128|Singapore|Singapore|BYTEPLUS|
-|6|207.166.178.244|3128|Singapore|Singapore|BYTEPLUS|
-|7|207.166.177.184|3128|Singapore|Singapore|BYTEPLUS|
-|8|207.166.177.118|3128|Singapore|Singapore|BYTEPLUS|
-|9|207.166.176.156|3128|Singapore|Singapore|BYTEPLUS|
-|10|207.166.178.250|3128|Singapore|Singapore|BYTEPLUS|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|207.166.178.240|3128|Singapore|Singapore|BYTEPLUS|
+|2|207.166.178.236|3128|Singapore|Singapore|BYTEPLUS|
+|3|207.166.178.217|3128|Singapore|Singapore|BYTEPLUS|
+|4|207.166.177.27|3128|Singapore|Singapore|BYTEPLUS|
+|5|207.166.178.209|3128|Singapore|Singapore|BYTEPLUS|
+|6|207.166.178.239|3128|Singapore|Singapore|BYTEPLUS|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|12|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|13|207.166.178.232|3128|Singapore|Singapore|BYTEPLUS|
+|14|207.166.176.156|3128|Singapore|Singapore|BYTEPLUS|
 |15|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|16|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
-|18|190.53.46.11|38525|Nicaragua|Managua|Amnet Telecomunicaciones S.A.|
-|19|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|20|42.118.74.62|16000|Vietnam|Hanoi|FPT Telecom Company|
+|16|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
+|17|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|18|103.156.248.103|8080|Indonesia|Batam|Trans Media Telekomunikasi|
+|19|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|20|80.92.204.223|31999|Germany|Frankfurt am Main|PQ HOSTING PLUS S.R.L.|
 
 
 
