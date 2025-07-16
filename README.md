@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|207.166.178.248|3128|Singapore|Singapore|BYTEPLUS|
-|2|207.166.178.209|3128|Singapore|Singapore|BYTEPLUS|
-|3|207.166.178.236|3128|Singapore|Singapore|BYTEPLUS|
-|4|207.166.177.27|3128|Singapore|Singapore|BYTEPLUS|
-|5|207.166.178.240|3128|Singapore|Singapore|BYTEPLUS|
-|6|207.166.178.228|3128|Singapore|Singapore|BYTEPLUS|
-|7|207.166.178.227|3128|Singapore|Singapore|BYTEPLUS|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|10|207.166.177.118|3128|Singapore|Singapore|BYTEPLUS|
-|11|207.166.178.232|3128|Singapore|Singapore|BYTEPLUS|
-|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|14|43.216.75.140|42761|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|15|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|16|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
-|17|42.119.2.21|16000|Vietnam|Hanoi|FPT Telecom Company|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|43.198.103.235|3128|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|20|16.26.88.4|28095|Australia|Melbourne|Amazon.com, Inc.|
+|1|207.166.178.235|3128|Singapore|Singapore|BYTEPLUS|
+|2|207.166.178.179|3128|Singapore|Singapore|BYTEPLUS|
+|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|58.186.174.223|16000|Vietnam|Hanoi|FPT Telecom Company|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|80.92.204.223|31999|Germany|Frankfurt am Main|PQ HOSTING PLUS S.R.L.|
+|13|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|16|41.65.160.173|1976|Egypt|Al Maḩallah al Kubrá|Etisalat Misr Mobile BB|
+|17|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|18|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|19|27.79.171.219|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
 
 
 
