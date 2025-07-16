@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|7|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|8|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|9|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
-|10|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|11|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|207.166.178.250|3128|Singapore|Singapore|BYTEPLUS|
+|2|207.166.177.178|3128|Singapore|Singapore|BYTEPLUS|
+|3|207.166.176.156|3128|Singapore|Singapore|BYTEPLUS|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|11|18.203.249.67|10010|Ireland|Dublin|Amazon Technologies Inc.|
+|12|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
 |13|37.27.253.44|8011|Finland|Helsinki|Hetzner Online GmbH|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|15|160.248.189.95|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
-|16|147.75.49.154|80|United States|San Jose|Packet Host, Inc.|
-|17|23.237.210.82|80|United States|Houston|FDCservers.net|
-|18|160.248.189.96|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
-|19|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|23.237.210.82|80|United States|Houston|FDCservers.net|
+|14|37.27.253.44|8011|Finland|Helsinki|Hetzner Online GmbH|
+|15|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|16|43.153.28.68|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|17|160.248.189.95|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
+|18|207.166.177.178|3128|Singapore|Singapore|BYTEPLUS|
+|19|207.166.178.209|3128|Singapore|Singapore|BYTEPLUS|
+|20|207.166.177.118|3128|Singapore|Singapore|BYTEPLUS|
 
 
 
