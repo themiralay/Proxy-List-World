@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **39885** proxies at the latest update. Usable proxies are below.
+> Scraper found **76320** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36491|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|135|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|79|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38524|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|207.166.176.104|3128|Singapore|Singapore|BYTEPLUS|
-|2|207.166.177.93|3128|Singapore|Singapore|BYTEPLUS|
-|3|207.166.178.251|3128|Singapore|Singapore|BYTEPLUS|
-|4|207.166.178.240|3128|Singapore|Singapore|BYTEPLUS|
-|5|58.186.174.223|16000|Vietnam|Hanoi|FPT Telecom Company|
-|6|42.118.74.62|16000|Vietnam|Hanoi|FPT Telecom Company|
-|7|207.166.178.236|3128|Singapore|Singapore|BYTEPLUS|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|207.166.178.217|3128|Singapore|Singapore|BYTEPLUS|
-|10|207.166.178.248|3128|Singapore|Singapore|BYTEPLUS|
-|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|12|42.118.74.16|16000|Vietnam|Hanoi|FPT Telecom Company|
-|13|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
-|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|16|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|1|207.166.178.251|3128|Singapore|Singapore|BYTEPLUS|
+|2|207.166.177.178|3128|Singapore|Singapore|BYTEPLUS|
+|3|207.166.178.227|3128|Singapore|Singapore|BYTEPLUS|
+|4|207.166.178.235|3128|Singapore|Singapore|BYTEPLUS|
+|5|207.166.177.93|3128|Singapore|Singapore|BYTEPLUS|
+|6|207.166.178.244|3128|Singapore|Singapore|BYTEPLUS|
+|7|207.166.177.184|3128|Singapore|Singapore|BYTEPLUS|
+|8|207.166.177.118|3128|Singapore|Singapore|BYTEPLUS|
+|9|207.166.176.156|3128|Singapore|Singapore|BYTEPLUS|
+|10|207.166.178.250|3128|Singapore|Singapore|BYTEPLUS|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|16|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|18|190.53.46.11|38525|Nicaragua|Managua|Amnet Telecomunicaciones S.A.|
+|19|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|20|42.118.74.62|16000|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
