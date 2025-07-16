@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|207.166.178.209|3128|Singapore|Singapore|BYTEPLUS|
-|2|207.166.178.250|3128|Singapore|Singapore|BYTEPLUS|
-|3|207.166.178.248|3128|Singapore|Singapore|BYTEPLUS|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|207.166.178.179|3128|Singapore|Singapore|BYTEPLUS|
-|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|27.79.243.140|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
-|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|207.166.178.244|3128|Singapore|Singapore|BYTEPLUS|
+|2|207.166.177.184|3128|Singapore|Singapore|BYTEPLUS|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|207.166.178.233|3128|Singapore|Singapore|BYTEPLUS|
+|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|8|207.166.177.178|3128|Singapore|Singapore|BYTEPLUS|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|207.166.178.251|3128|Singapore|Singapore|BYTEPLUS|
+|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|14|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|15|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
 |18|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|19|3.109.62.30|717|India|Mumbai|Amazon Technologies Inc.|
-|20|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|19|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|20|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
 
 
 
