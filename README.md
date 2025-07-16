@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|207.166.176.156|3128|Singapore|Singapore|BYTEPLUS|
-|2|207.166.178.209|3128|Singapore|Singapore|BYTEPLUS|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|207.166.178.236|3128|Singapore|Singapore|BYTEPLUS|
-|5|207.166.177.184|3128|Singapore|Singapore|BYTEPLUS|
-|6|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|7|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
-|8|207.166.178.250|3128|Singapore|Singapore|BYTEPLUS|
-|9|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|15|80.92.204.223|31999|Germany|Frankfurt am Main|PQ HOSTING PLUS S.R.L.|
-|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|18|18.60.146.88|57355|India|Hyderabad|Amazon.com, Inc.|
-|19|18.166.211.233|8004|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|20|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|1|207.166.178.239|3128|Singapore|Singapore|BYTEPLUS|
+|2|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|4|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|12|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|13|42.119.2.21|16000|Vietnam|Hanoi|FPT Telecom Company|
+|14|187.251.130.140|8080|Mexico|Ciudad de Villa de Álvarez|Total Play Telecomunicaciones SA De CV|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|51.44.163.128|3128|France|Paris|Amazon.com, Inc.|
+|17|18.60.111.249|6698|India|Hyderabad|Amazon.com, Inc.|
+|18|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
+|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|20|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
 
 
 
