@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|207.166.177.27|3128|Singapore|Singapore|BYTEPLUS|
-|2|207.166.178.228|3128|Singapore|Singapore|BYTEPLUS|
-|3|207.166.178.233|3128|Singapore|Singapore|BYTEPLUS|
-|4|207.166.178.179|3128|Singapore|Singapore|BYTEPLUS|
-|5|207.166.178.240|3128|Singapore|Singapore|BYTEPLUS|
-|6|207.166.178.239|3128|Singapore|Singapore|BYTEPLUS|
-|7|207.166.178.248|3128|Singapore|Singapore|BYTEPLUS|
-|8|207.166.177.93|3128|Singapore|Singapore|BYTEPLUS|
+|1|207.166.178.217|3128|Singapore|Singapore|BYTEPLUS|
+|2|207.166.178.239|3128|Singapore|Singapore|BYTEPLUS|
+|3|207.166.177.93|3128|Singapore|Singapore|BYTEPLUS|
+|4|207.166.178.233|3128|Singapore|Singapore|BYTEPLUS|
+|5|207.166.178.235|3128|Singapore|Singapore|BYTEPLUS|
+|6|207.166.178.232|3128|Singapore|Singapore|BYTEPLUS|
+|7|207.166.178.250|3128|Singapore|Singapore|BYTEPLUS|
+|8|207.166.178.228|3128|Singapore|Singapore|BYTEPLUS|
 |9|207.166.178.251|3128|Singapore|Singapore|BYTEPLUS|
-|10|207.166.177.178|3128|Singapore|Singapore|BYTEPLUS|
-|11|207.166.176.104|3128|Singapore|Singapore|BYTEPLUS|
-|12|207.166.178.250|3128|Singapore|Singapore|BYTEPLUS|
-|13|207.166.178.232|3128|Singapore|Singapore|BYTEPLUS|
-|14|207.166.178.236|3128|Singapore|Singapore|BYTEPLUS|
-|15|207.166.177.118|3128|Singapore|Singapore|BYTEPLUS|
-|16|207.166.178.209|3128|Singapore|Singapore|BYTEPLUS|
-|17|207.166.178.227|3128|Singapore|Singapore|BYTEPLUS|
-|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|207.166.178.217|3128|Singapore|Singapore|BYTEPLUS|
-|20|207.166.177.184|3128|Singapore|Singapore|BYTEPLUS|
+|10|207.166.176.104|3128|Singapore|Singapore|BYTEPLUS|
+|11|207.166.178.179|3128|Singapore|Singapore|BYTEPLUS|
+|12|207.166.177.178|3128|Singapore|Singapore|BYTEPLUS|
+|13|207.166.177.118|3128|Singapore|Singapore|BYTEPLUS|
+|14|207.166.177.27|3128|Singapore|Singapore|BYTEPLUS|
+|15|207.166.178.209|3128|Singapore|Singapore|BYTEPLUS|
+|16|207.166.178.240|3128|Singapore|Singapore|BYTEPLUS|
+|17|207.166.178.248|3128|Singapore|Singapore|BYTEPLUS|
+|18|207.166.178.227|3128|Singapore|Singapore|BYTEPLUS|
+|19|207.166.177.184|3128|Singapore|Singapore|BYTEPLUS|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
