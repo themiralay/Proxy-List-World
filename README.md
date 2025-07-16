@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|2|207.166.178.239|3128|Singapore|Singapore|BYTEPLUS|
-|3|207.166.178.209|3128|Singapore|Singapore|BYTEPLUS|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|23.237.210.82|80|United States|Houston|FDCservers.net|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|10|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|13|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|14|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|15|103.63.26.226|8080|Indonesia|Probolinggo|PT Global Media Data Prima|
-|16|103.81.175.218|28022|Bangladesh|Chittagong|ADN Telecom Ltd.|
-|17|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|18|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|19|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|20|171.249.211.160|10006|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|1|207.166.178.251|3128|Singapore|Singapore|BYTEPLUS|
+|2|27.71.139.33|16000|Vietnam|Hanoi|Viettel Group|
+|3|207.166.177.184|3128|Singapore|Singapore|BYTEPLUS|
+|4|207.166.177.93|3128|Singapore|Singapore|BYTEPLUS|
+|5|207.166.177.178|3128|Singapore|Singapore|BYTEPLUS|
+|6|207.166.178.232|3128|Singapore|Singapore|BYTEPLUS|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|207.166.178.227|3128|Singapore|Singapore|BYTEPLUS|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|12|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|14|103.63.26.226|8080|Indonesia|Probolinggo|PT Global Media Data Prima|
+|15|207.166.178.179|3128|Singapore|Singapore|BYTEPLUS|
+|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|17|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|18|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
+|19|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
+|20|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
 
 
 
