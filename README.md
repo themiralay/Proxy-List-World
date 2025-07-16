@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|207.166.178.251|3128|Singapore|Singapore|BYTEPLUS|
-|2|207.166.178.227|3128|Singapore|Singapore|BYTEPLUS|
-|3|207.166.177.118|3128|Singapore|Singapore|BYTEPLUS|
-|4|207.166.177.27|3128|Singapore|Singapore|BYTEPLUS|
-|5|207.166.178.239|3128|Singapore|Singapore|BYTEPLUS|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|43.159.146.191|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|1|207.166.177.178|3128|Singapore|Singapore|BYTEPLUS|
+|2|207.166.176.104|3128|Singapore|Singapore|BYTEPLUS|
+|3|207.166.178.228|3128|Singapore|Singapore|BYTEPLUS|
+|4|207.166.178.179|3128|Singapore|Singapore|BYTEPLUS|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|43.159.146.191|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|207.166.178.250|3128|Singapore|Singapore|BYTEPLUS|
+|9|207.166.178.248|3128|Singapore|Singapore|BYTEPLUS|
+|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |11|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
-|12|207.166.178.217|3128|Singapore|Singapore|BYTEPLUS|
-|13|207.166.176.156|3128|Singapore|Singapore|BYTEPLUS|
-|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|15|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
-|16|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|17|80.92.204.223|31999|Germany|Frankfurt am Main|PQ HOSTING PLUS S.R.L.|
-|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|14|207.166.178.232|3128|Singapore|Singapore|BYTEPLUS|
+|15|207.166.178.235|3128|Singapore|Singapore|BYTEPLUS|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|23.237.210.82|80|United States|Houston|FDCservers.net|
+|18|43.216.148.22|37425|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|19|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|20|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 
 
 
