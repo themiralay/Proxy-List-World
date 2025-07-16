@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|2|207.166.177.178|3128|Singapore|Singapore|BYTEPLUS|
-|3|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
-|4|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|207.166.178.209|3128|Singapore|Singapore|BYTEPLUS|
-|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|12|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|13|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
-|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|19|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|20|37.27.253.44|8073|Finland|Helsinki|Hetzner Online GmbH|
+|1|207.166.178.251|3128|Singapore|Singapore|BYTEPLUS|
+|2|207.166.176.156|3128|Singapore|Singapore|BYTEPLUS|
+|3|207.166.178.233|3128|Singapore|Singapore|BYTEPLUS|
+|4|207.166.178.240|3128|Singapore|Singapore|BYTEPLUS|
+|5|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|6|207.166.177.27|3128|Singapore|Singapore|BYTEPLUS|
+|7|207.166.178.217|3128|Singapore|Singapore|BYTEPLUS|
+|8|207.166.177.184|3128|Singapore|Singapore|BYTEPLUS|
+|9|207.166.178.232|3128|Singapore|Singapore|BYTEPLUS|
+|10|207.166.178.239|3128|Singapore|Singapore|BYTEPLUS|
+|11|207.166.178.227|3128|Singapore|Singapore|BYTEPLUS|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|207.166.177.93|3128|Singapore|Singapore|BYTEPLUS|
+|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|16|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|17|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|18|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|19|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|20|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
 
 
 
