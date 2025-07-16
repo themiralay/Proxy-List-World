@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.61.201|3128|Japan|Chiyoda|InfoSphere|
-|2|207.166.178.217|3128|Singapore|Singapore|BYTEPLUS|
-|3|207.166.178.233|3128|Singapore|Singapore|BYTEPLUS|
-|4|207.166.178.240|3128|Singapore|Singapore|BYTEPLUS|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|207.166.177.178|3128|Singapore|Singapore|BYTEPLUS|
-|8|23.237.210.82|80|United States|Houston|FDCservers.net|
-|9|207.166.178.235|3128|Singapore|Singapore|BYTEPLUS|
-|10|118.71.166.237|16000|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|11|23.237.210.82|80|United States|Houston|FDCservers.net|
-|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|13|27.71.139.33|16000|Vietnam|Hanoi|Viettel Group|
-|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|15|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|19|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|20|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|207.166.177.118|3128|Singapore|Singapore|BYTEPLUS|
+|4|207.166.178.248|3128|Singapore|Singapore|BYTEPLUS|
+|5|23.237.210.82|80|United States|Houston|FDCservers.net|
+|6|23.237.210.82|80|United States|Houston|FDCservers.net|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|207.166.178.227|3128|Singapore|Singapore|BYTEPLUS|
+|10|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|12|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|15|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|17|118.71.167.230|16000|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|18|27.71.142.16|16000|Vietnam|Hanoi|Viettel Group|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
 
 
 
