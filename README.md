@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|207.166.178.251|3128|Singapore|Singapore|BYTEPLUS|
-|2|160.248.189.97|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
-|3|207.166.176.104|3128|Singapore|Singapore|BYTEPLUS|
-|4|207.166.178.250|3128|Singapore|Singapore|BYTEPLUS|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|207.166.178.232|3128|Singapore|Singapore|BYTEPLUS|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|18.132.14.119|3128|United Kingdom|London|Amazon Technologies Inc.|
-|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|15|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|1|160.248.189.97|3127|Japan|Minato-ku|NTT PC Communications, Inc.|
+|2|207.166.178.228|3128|Singapore|Singapore|BYTEPLUS|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|207.166.178.233|3128|Singapore|Singapore|BYTEPLUS|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|207.166.176.156|3128|Singapore|Singapore|BYTEPLUS|
+|7|207.166.178.240|3128|Singapore|Singapore|BYTEPLUS|
+|8|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |16|80.92.204.223|31999|Germany|Frankfurt am Main|PQ HOSTING PLUS S.R.L.|
-|17|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
-|18|27.79.243.140|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|18.132.14.119|3128|United Kingdom|London|Amazon Technologies Inc.|
+|18|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|19|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
+|20|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
 
 
 
