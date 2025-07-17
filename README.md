@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|1|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |2|23.237.210.82|80|United States|Houston|FDCservers.net|
 |3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
-|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|13|23.237.210.82|80|United States|Houston|FDCservers.net|
-|14|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|15|18.60.233.122|4270|India|Hyderabad|Amazon.com, Inc.|
-|16|103.166.255.170|8080|Indonesia|Pekanbaru|PT Instanet Media Nusantara|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|19|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|20|103.46.11.156|7500|Indonesia|Malang|Lintas Data Prima, PT|
+|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|7|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|181.205.161.187|999|Colombia|Medellín|Colombia Móvil|
+|14|18.132.14.119|3128|United Kingdom|London|Amazon Technologies Inc.|
+|15|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|16|18.60.233.122|4270|India|Hyderabad|Amazon.com, Inc.|
+|17|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|18|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
+|19|3.109.62.30|717|India|Mumbai|Amazon Technologies Inc.|
+|20|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
