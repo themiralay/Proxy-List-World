@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.96.94.180|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|116.96.94.180|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|105.157.105.196|39811|Morocco|Rabat|ADSL Maroc telecom|
 |7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|105.157.105.196|39811|Morocco|Rabat|ADSL Maroc telecom|
-|9|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|11|118.68.28.194|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|12|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|35.179.146.181|3128|United Kingdom|London|Amazon Technologies Inc.|
-|15|16.26.88.4|28095|Australia|Melbourne|Amazon.com, Inc.|
-|16|38.41.1.76|999|Venezuela|Caracas|MDS TELECOM C.A.|
-|17|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
+|10|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|11|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|13|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|14|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
+|17|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
 |18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|37.27.253.44|8005|Finland|Helsinki|Hetzner Online GmbH|
-|20|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
+|19|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|20|58.186.130.234|16000|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
