@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.237.210.82|80|United States|Houston|FDCservers.net|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|6|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|13|42.118.74.62|16000|Vietnam|Hanoi|FPT Telecom Company|
-|14|103.191.254.134|8080|Indonesia|Jadi|PT Ayodya Data Internusa|
-|15|18.60.146.88|57355|India|Hyderabad|Amazon.com, Inc.|
-|16|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
-|17|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|19|201.150.118.26|999|Mexico|Tetepango|Hulux Telecomunicaciones|
-|20|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|1|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|2|23.237.210.82|80|United States|Houston|FDCservers.net|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|8|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|9|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|10|23.237.210.82|80|United States|Houston|FDCservers.net|
+|11|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
+|12|191.97.14.189|999|Colombia|Tame|TV AZTECA SUCURSAL COLOMBIA|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|18.60.233.122|4270|India|Hyderabad|Amazon.com, Inc.|
+|15|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|16|182.16.171.101|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|17|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|18|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|19|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
