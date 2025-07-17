@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|2|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|3|105.157.105.196|39811|Morocco|Rabat|ADSL Maroc telecom|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|118.68.28.194|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|9|58.186.130.234|16000|Vietnam|Hanoi|FPT Telecom Company|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|12|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|13|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
-|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|18|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|19|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|20|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|9|18.60.146.88|57355|India|Hyderabad|Amazon.com, Inc.|
+|10|58.186.131.65|16000|Vietnam|Hanoi|FPT Telecom Company|
+|11|105.157.105.196|39811|Morocco|Rabat|ADSL Maroc telecom|
+|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|119.93.9.125|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|14|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|15|27.71.142.16|16000|Vietnam|Hanoi|Viettel Group|
+|16|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|17|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|18|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|19|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
