@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
-|3|23.237.210.82|80|United States|Houston|FDCservers.net|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |4|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|5|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
-|8|36.64.214.203|6969|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|9|18.203.249.67|10010|Ireland|Dublin|Amazon Technologies Inc.|
-|10|51.84.110.224|3128|Israel|Tel Aviv|Amazon.com, Inc.|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|7|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|8|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
 |11|18.60.146.88|57355|India|Hyderabad|Amazon.com, Inc.|
-|12|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|14|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|15|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|16|180.92.224.125|8080|Bangladesh|Dhaka|Information Services Network Ltd|
-|17|103.54.80.192|1111|Indonesia|Purbalingga|MEDIACOMPUTINDO|
-|18|103.144.79.27|8080|Indonesia|Jakarta|PT. Indonesia Comnets Plus|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|13|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|14|18.60.233.122|4270|India|Hyderabad|Amazon.com, Inc.|
+|15|18.132.14.119|3128|United Kingdom|London|Amazon Technologies Inc.|
+|16|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|17|103.244.4.34|8081|India|Kolkata|Indinet Service Private Limited|
+|18|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
+|19|3.26.174.5|18609|Australia|Sydney|Amazon Technologies Inc.|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
 
 
 
