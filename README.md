@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|9|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|10|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|12|35.179.146.181|3128|United Kingdom|London|Amazon Technologies Inc.|
-|13|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|14|18.203.249.67|10010|Ireland|Dublin|Amazon Technologies Inc.|
-|15|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|19|16.26.88.4|28095|Australia|Melbourne|Amazon.com, Inc.|
-|20|142.171.45.131|24266|United States|Los Angeles|Multacom Corporation|
+|1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|118.68.28.194|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|12|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|13|42.113.20.183|16000|Vietnam|Hanoi|FPT Telecom Company|
+|14|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|15|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|27.79.162.53|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|18.203.249.67|10010|Ireland|Dublin|Amazon Technologies Inc.|
+|19|103.242.105.148|1111|Indonesia|Karangampel|PT Lintas Jaringan Nusantara|
+|20|165.90.64.216|8080|Mozambique|Maputo|Moztel LDA|
 
 
 
