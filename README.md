@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|3|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|8|42.118.74.62|16000|Vietnam|Hanoi|FPT Telecom Company|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|11|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|12|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|15|3.109.62.30|717|India|Mumbai|Amazon Technologies Inc.|
-|16|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|17|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|18|103.10.228.119|8080|Thailand|Don Mueang|CATBB|
-|19|177.93.39.73|999|Colombia|Puerto Rico|TV AZTECA SUCURSAL COLOMBIA|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|5|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|103.163.13.126|3128|Indonesia|Mersodo|PT Solusi Media Telekomunikasi|
+|14|113.192.3.230|1452|Indonesia|Candi Prambanan|PT Boombas Carlo Medianet|
+|15|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|16|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|17|3.109.62.30|717|India|Mumbai|Amazon Technologies Inc.|
+|18|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|19|18.203.249.67|10010|Ireland|Dublin|Amazon Technologies Inc.|
+|20|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
 
 
 
