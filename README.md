@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|103.171.255.59|8080|Indonesia|Sleman|ZKI|
-|3|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|8|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|119.93.164.163|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|12|179.61.154.8|8050|Brazil|São Paulo|Hostzone Tecnologia LTDA|
-|13|179.228.17.8|8080|Brazil|Araraquara|Vivo|
-|14|36.93.105.114|8085|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|15|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|16|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|17|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|18|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|19|188.211.233.101|3128|Ireland|Dublin|Interkvm Host SRL|
-|20|103.149.238.100|1111|Indonesia|Pasuruan|PT BITNIAGA CIPTA GEMILANG|
+|1|58.186.130.234|16000|Vietnam|Hanoi|FPT Telecom Company|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|4|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|12|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|13|45.168.244.16|8080|Brazil|São João Batista do Glória|Maxima Internet Banda Larga|
+|14|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|15|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|16|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|19|139.162.29.116|8888|Singapore|Singapore|LINODE|
+|20|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
 
 
 
