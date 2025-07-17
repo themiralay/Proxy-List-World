@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|3|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|105.157.105.196|39811|Morocco|Rabat|ADSL Maroc telecom|
-|6|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
+|1|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|2|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|105.157.105.196|39811|Morocco|Rabat|ADSL Maroc telecom|
 |7|185.255.179.101|3128|Germany|Frankfurt Am Main|Baykov Ilya Sergeevich|
-|8|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|9|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
-|10|58.186.131.65|16000|Vietnam|Hanoi|FPT Telecom Company|
-|11|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|12|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|13|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|15|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|16|90.156.197.189|8080|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|37.27.253.44|8099|Finland|Helsinki|Hetzner Online GmbH|
-|18|38.41.1.76|999|Venezuela|Caracas|MDS TELECOM C.A.|
-|19|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|20|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|8|203.154.91.225|4857|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|11|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|12|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|13|27.71.142.16|16000|Vietnam|Hanoi|Viettel Group|
+|14|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|15|35.179.146.181|3128|United Kingdom|London|Amazon Technologies Inc.|
+|16|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|17|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|19|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|20|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
 
 
 
