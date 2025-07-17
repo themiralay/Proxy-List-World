@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|207.166.178.227|3128|Singapore|Singapore|BYTEPLUS|
-|2|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|3|118.71.167.230|16000|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|10|207.166.178.217|3128|Singapore|Singapore|BYTEPLUS|
-|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|12|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|13|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|14|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|17|27.71.139.33|16000|Vietnam|Hanoi|Viettel Group|
-|18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|1|207.166.178.228|3128|Singapore|Singapore|BYTEPLUS|
+|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|6|118.71.166.237|16000|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|13|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|14|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|15|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|17|18.60.111.249|6698|India|Hyderabad|Amazon.com, Inc.|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|19|18.60.233.122|4270|India|Hyderabad|Amazon.com, Inc.|
+|20|194.4.49.128|10808|France|Paris|PQ HOSTING PLUS S.R.L.|
 
 
 
