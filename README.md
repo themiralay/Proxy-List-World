@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|2|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
-|8|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|5|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
+|8|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
 |9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|12|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|13|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|15|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|16|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|19|37.27.253.44|8073|Finland|Helsinki|Hetzner Online GmbH|
-|20|23.237.210.82|80|United States|Houston|FDCservers.net|
+|10|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|11|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|12|3.26.174.5|18609|Australia|Sydney|Amazon Technologies Inc.|
+|13|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|14|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|15|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|16|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|17|37.27.253.44|8011|Finland|Helsinki|Hetzner Online GmbH|
+|18|23.237.210.82|80|United States|Houston|FDCservers.net|
+|19|37.27.253.44|8011|Finland|Helsinki|Hetzner Online GmbH|
+|20|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
 
 
 
