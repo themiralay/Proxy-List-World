@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|42.113.20.183|16000|Vietnam|Hanoi|FPT Telecom Company|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|27.79.162.53|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|7|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
-|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|128.199.140.172|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|16|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|17|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|18|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|19|42.118.0.81|16000|Vietnam|Hanoi|FPT Telecom Company|
-|20|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|6|118.68.28.194|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|42.113.20.183|16000|Vietnam|Hanoi|FPT Telecom Company|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|15|128.140.113.110|8081|Germany|Falkenstein|Hetzner Online GmbH|
+|16|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|18|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|19|23.237.210.82|80|United States|Houston|FDCservers.net|
+|20|16.26.88.4|28095|Australia|Melbourne|Amazon.com, Inc.|
 
 
 
