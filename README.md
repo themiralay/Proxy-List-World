@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.29.116|8888|Singapore|Singapore|LINODE|
-|2|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
-|3|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|3|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|4|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
 |5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|10|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|6|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|7|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|185.41.152.110|3128|France|Valenciennes|global|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |11|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|12|37.27.253.44|8099|Finland|Helsinki|Hetzner Online GmbH|
-|13|91.122.216.55|3128|Russia|Arkhangelsk|JSC "North-West Telecom"|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|16.26.88.4|28095|Australia|Melbourne|Amazon.com, Inc.|
-|16|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
-|17|37.27.253.44|8099|Finland|Helsinki|Hetzner Online GmbH|
-|18|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|19|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
-|20|159.89.239.166|18086|United States|North Bergen|DigitalOcean, LLC|
+|12|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|13|49.146.58.86|8082|Philippines|Koronadal|Philippine Long Distance Telephone Co.|
+|14|37.27.253.44|8073|Finland|Helsinki|Hetzner Online GmbH|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|16|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|17|37.27.253.44|8073|Finland|Helsinki|Hetzner Online GmbH|
+|18|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|157.20.252.221|8083|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
 
 
 
