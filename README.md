@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|207.166.176.104|3128|Singapore|Singapore|BYTEPLUS|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|4|207.166.178.179|3128|Singapore|Singapore|BYTEPLUS|
-|5|207.166.178.227|3128|Singapore|Singapore|BYTEPLUS|
-|6|207.166.178.248|3128|Singapore|Singapore|BYTEPLUS|
-|7|207.166.176.156|3128|Singapore|Singapore|BYTEPLUS|
-|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|10|207.166.178.250|3128|Singapore|Singapore|BYTEPLUS|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|13|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|16|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|17|41.140.214.232|39811|Morocco|Rabat|ADSL Maroc telecom|
-|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|194.4.49.128|10808|France|Paris|PQ HOSTING PLUS S.R.L.|
-|20|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|1|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|27.71.139.33|16000|Vietnam|Hanoi|Viettel Group|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|10|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|11|103.153.39.35|8083|Pakistan|Burewala|Getlinks (SMC-Private) Limited|
+|12|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|15|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|16|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|17|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|18|27.71.138.112|16000|Vietnam|Bảo Lộc|Viettel Group|
+|19|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|20|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
 
 
 
