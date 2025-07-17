@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.81.191|3128|Japan|Chiyoda|InfoSphere|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
 |4|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|27.71.139.33|16000|Vietnam|Hanoi|Viettel Group|
-|7|103.76.109.123|8080|Indonesia|Kraksaan|PT Mahawira Nusantara Grup|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
-|10|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|13|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
-|14|220.81.123.23|48678|South Korea|Nam-gu|Korea Telecom|
-|15|27.79.182.251|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|103.247.22.33|4317|Indonesia|Rawaseser|PT wifian Solution|
-|17|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|18.132.14.119|3128|United Kingdom|London|Amazon Technologies Inc.|
-|20|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|3.109.62.30|717|India|Mumbai|Amazon Technologies Inc.|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|194.42.112.230|16999|Ukraine|Kyiv|CHP Shmatko Sergey Leonidovic|
+|10|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|27.71.139.33|16000|Vietnam|Hanoi|Viettel Group|
+|13|3.26.174.5|18609|Australia|Sydney|Amazon Technologies Inc.|
+|14|103.112.53.211|6314|Bangladesh|Dhaka|Carnival Internet|
+|15|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
+|16|18.132.14.119|3128|United Kingdom|London|Amazon Technologies Inc.|
+|17|103.76.109.123|8080|Indonesia|Kraksaan|PT Mahawira Nusantara Grup|
+|18|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|19|41.254.47.66|19000|Libya|Tripoli|LTT Network Backbone and POPs|
+|20|139.162.29.116|8888|Singapore|Singapore|LINODE|
 
 
 
