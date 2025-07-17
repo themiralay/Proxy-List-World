@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|16.26.88.4|28095|Australia|Melbourne|Amazon.com, Inc.|
-|9|18.60.146.88|57355|India|Hyderabad|Amazon.com, Inc.|
-|10|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
-|11|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|12|178.32.203.11|50006|Poland|Warsaw|OVH ISP|
-|13|23.237.210.82|80|United States|Houston|FDCservers.net|
-|14|51.84.110.224|3128|Israel|Tel Aviv|Amazon.com, Inc.|
-|15|105.157.105.196|39811|Morocco|Rabat|ADSL Maroc telecom|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|18|37.27.253.44|8099|Finland|Helsinki|Hetzner Online GmbH|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|20|37.27.253.44|8099|Finland|Helsinki|Hetzner Online GmbH|
+|1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|105.157.105.196|39811|Morocco|Rabat|ADSL Maroc telecom|
+|6|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|7|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|58.186.131.65|16000|Vietnam|Hanoi|FPT Telecom Company|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|23.237.210.82|80|United States|Houston|FDCservers.net|
+|12|37.27.253.44|8073|Finland|Helsinki|Hetzner Online GmbH|
+|13|90.156.197.189|8080|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|15|37.27.253.44|8073|Finland|Helsinki|Hetzner Online GmbH|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|18|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|19|170.245.132.85|999|Paraguay|Itá|MACHADO BAEZ, NERY JAVIER|
+|20|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
 
 
 
