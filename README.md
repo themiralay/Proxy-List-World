@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|139.162.29.116|8888|Singapore|Singapore|LINODE|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|27.71.139.33|16000|Vietnam|Hanoi|Viettel Group|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|13|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|14|35.179.146.181|3128|United Kingdom|London|Amazon Technologies Inc.|
+|9|139.162.29.116|8888|Singapore|Singapore|LINODE|
+|10|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|11|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|12|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |15|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|16|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|17|31.14.114.72|1081|Iran|Tehran|Afranet Co|
-|18|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|16|31.14.114.76|1081|Iran|Tehran|Afranet Co|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|27.79.182.251|16000|Vietnam|Hanoi|Viettel Corporation|
 |19|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|20|190.85.141.170|9090|Colombia|Bogotá|Telmex Colombia S.A.|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
