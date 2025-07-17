@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|7|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|10|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|11|103.164.192.79|8080|Indonesia|Kebonsari|PT Chayo Anugrah Teknologi|
-|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|13|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
-|14|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|15|103.231.236.228|8182|Indonesia|Randudongkal|PT Level Indodata Teknologi|
-|16|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|17|18.171.55.201|3128|United Kingdom|London|Amazon Technologies Inc.|
-|18|157.15.139.85|8080|Indonesia|Pugeran Maguwoharjo|PT Ring Media Nusantara|
-|19|42.118.74.62|16000|Vietnam|Hanoi|FPT Telecom Company|
-|20|37.27.253.44|8014|Finland|Helsinki|Hetzner Online GmbH|
+|2|207.166.178.179|3128|Singapore|Singapore|BYTEPLUS|
+|3|207.166.178.227|3128|Singapore|Singapore|BYTEPLUS|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|207.166.178.233|3128|Singapore|Singapore|BYTEPLUS|
+|6|207.166.177.184|3128|Singapore|Singapore|BYTEPLUS|
+|7|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|27.71.138.112|16000|Vietnam|Bảo Lộc|Viettel Group|
+|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|14|18.60.146.88|57355|India|Hyderabad|Amazon.com, Inc.|
+|15|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|16|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|17|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|18|200.6.165.234|999|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
+|19|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|20|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
 
 
 
