@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|4|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|2|128.199.140.172|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
 |8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|10|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|12|128.199.140.172|8080|Singapore|Singapore|DigitalOcean, LLC|
-|13|23.237.210.82|80|United States|Houston|FDCservers.net|
-|14|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|15|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|16|65.38.213.154|8881|Puerto Rico|San Juan|AT&T Mobility Puerto Rico|
-|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|18|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|19|37.27.253.44|8099|Finland|Helsinki|Hetzner Online GmbH|
-|20|106.225.148.45|655|China|Taohua|CHINANET Jiangx province IDC network|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|11|23.237.210.82|80|United States|Houston|FDCservers.net|
+|12|18.60.111.249|6698|India|Hyderabad|Amazon.com, Inc.|
+|13|16.26.88.4|28095|Australia|Melbourne|Amazon.com, Inc.|
+|14|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|15|103.229.15.10|8080|Indonesia|Bandung|PT Arthaloka Reka Teknologi|
+|16|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|17|37.27.253.44|8063|Finland|Helsinki|Hetzner Online GmbH|
+|18|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|19|37.27.253.44|8063|Finland|Helsinki|Hetzner Online GmbH|
+|20|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
 
 
 
