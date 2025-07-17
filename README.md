@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.29.116|8888|Singapore|Singapore|LINODE|
-|2|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|3|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|4|188.121.100.221|3128|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|12|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|13|103.189.62.131|8082|Indonesia|Denpasar|PT Blip Integrator Provider|
-|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|15|27.71.139.33|16000|Vietnam|Hanoi|Viettel Group|
-|16|118.99.95.104|8888|Indonesia|Jakarta|Biznet Metronet|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|20|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|2|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|3|47.236.37.129|18081|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|9|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|10|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|11|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|13|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|14|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|15|103.189.62.131|8082|Indonesia|Denpasar|PT Blip Integrator Provider|
+|16|109.127.82.4|8085|Iraq|Erbil|Allay Nawroz Telecom Company for Communication/Ltd.|
+|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|91.122.216.55|3128|Russia|Arkhangelsk|JSC "North-West Telecom"|
+|19|37.27.253.44|8073|Finland|Helsinki|Hetzner Online GmbH|
+|20|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
 
 
 
