@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|118.71.166.237|16000|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|3|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
-|4|42.118.74.62|16000|Vietnam|Hanoi|FPT Telecom Company|
-|5|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|1|207.166.177.184|3128|Singapore|Singapore|BYTEPLUS|
+|2|207.166.178.236|3128|Singapore|Singapore|BYTEPLUS|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |8|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|27.71.139.33|16000|Vietnam|Hanoi|Viettel Group|
-|14|160.25.245.9|8090|Indonesia|Ngawi|PT Jaringan Kita Bersama|
-|15|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|16|27.71.142.16|16000|Vietnam|Hanoi|Viettel Group|
-|17|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|18|18.60.233.122|4270|India|Hyderabad|Amazon.com, Inc.|
-|19|164.163.42.34|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|164.163.42.49|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|15|207.166.177.27|3128|Singapore|Singapore|BYTEPLUS|
+|16|164.163.42.40|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|164.163.42.23|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|20|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
 
 
 
