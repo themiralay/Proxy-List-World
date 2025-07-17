@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|8|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
-|11|23.237.210.82|80|United States|Houston|FDCservers.net|
-|12|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|13|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|14|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|7|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|10|152.53.66.81|3128|Austria|Vienna|netcup GmbH|
+|11|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|12|23.237.210.82|80|United States|Houston|FDCservers.net|
+|13|18.201.103.240|8535|Ireland|Dublin|Amazon Technologies Inc.|
+|14|18.60.111.249|6698|India|Hyderabad|Amazon.com, Inc.|
 |15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|18.201.103.240|8535|Ireland|Dublin|Amazon Technologies Inc.|
-|18|37.27.253.44|8073|Finland|Helsinki|Hetzner Online GmbH|
-|19|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|20|187.251.224.167|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
+|16|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
+|17|103.229.15.10|8080|Indonesia|Bandung|PT Arthaloka Reka Teknologi|
+|18|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|19|37.27.253.44|8063|Finland|Helsinki|Hetzner Online GmbH|
+|20|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
 
 
 
