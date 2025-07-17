@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.29.116|8888|Singapore|Singapore|LINODE|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|139.162.29.116|8888|Singapore|Singapore|LINODE|
+|3|117.5.227.23|7001|Vietnam|Hanoi|VIETTEL|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|188.121.100.221|3128|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
-|8|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|103.189.62.131|8082|Indonesia|Denpasar|PT Blip Integrator Provider|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|37.27.253.44|8099|Finland|Helsinki|Hetzner Online GmbH|
-|14|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|15|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|118.99.95.104|8888|Indonesia|Jakarta|Biznet Metronet|
-|19|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|20|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|9|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|10|27.71.139.33|16000|Vietnam|Hanoi|Viettel Group|
+|11|27.71.142.16|16000|Vietnam|Hanoi|Viettel Group|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|14|58.186.130.234|16000|Vietnam|Hanoi|FPT Telecom Company|
+|15|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|16|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|17|185.41.152.110|3128|France|Valenciennes|global|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|20|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
 
 
 
