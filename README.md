@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|3|207.166.178.244|3128|Singapore|Singapore|BYTEPLUS|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|7|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|111.238.206.143|8080|Japan|Asaka|Kddi Corporation|
+|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|4|207.166.178.179|3128|Singapore|Singapore|BYTEPLUS|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |8|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
-|9|23.237.210.82|80|United States|Houston|FDCservers.net|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|12|23.237.210.82|80|United States|Houston|FDCservers.net|
-|13|207.166.178.227|3128|Singapore|Singapore|BYTEPLUS|
-|14|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|15|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|9|207.166.178.248|3128|Singapore|Singapore|BYTEPLUS|
+|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|11|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|12|4.149.210.210|3128|United States|Quincy|Microsoft Corporation|
+|13|23.237.210.82|80|United States|Houston|FDCservers.net|
+|14|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|15|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
 |18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|27.71.138.112|16000|Vietnam|Bảo Lộc|Viettel Group|
-|20|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|19|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|20|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
 
 
 
