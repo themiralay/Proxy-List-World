@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.81.191|3128|Japan|Chiyoda|InfoSphere|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|10|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|11|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|12|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|13|31.14.114.69|1081|Iran|Tehran|Afranet Co|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|27.71.139.33|16000|Vietnam|Hanoi|Viettel Group|
+|10|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|11|103.156.249.72|8080|Indonesia|Mojoagung|Trans Media Telekomunikasi|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|31.14.114.69|1081|Iran|Tehran|Afranet Co|
+|15|18.60.111.249|6698|India|Hyderabad|Amazon.com, Inc.|
 |16|23.237.210.82|80|United States|Houston|FDCservers.net|
-|17|160.187.174.214|8080|Indonesia|Deli Serdang|PT Netindo Persada Nusantara|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|18.203.249.67|10010|Ireland|Dublin|Amazon Technologies Inc.|
-|20|103.247.21.55|4598|Indonesia|Cikarang|PT wifian Solution|
+|17|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|18|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
+|19|18.132.14.119|3128|United Kingdom|London|Amazon Technologies Inc.|
+|20|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
 
 
 
