@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|2|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|9|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|10|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|11|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|12|85.9.209.195|8080|The Netherlands|Amsterdam|UPCLOUD-RESERVE|
-|13|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|181.209.111.82|999|Argentina|Villa de Soto|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|16|85.9.209.195|8080|The Netherlands|Amsterdam|UPCLOUD-RESERVE|
-|17|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|18|37.27.253.44|8073|Finland|Helsinki|Hetzner Online GmbH|
-|19|103.84.176.122|8084|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|20|72.10.164.178|28733|Canada|Montreal|GloboTech Communications|
+|1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
+|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|7|85.9.209.195|8080|The Netherlands|Amsterdam|UPCLOUD-RESERVE|
+|8|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|9|185.200.38.53|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|10|37.27.253.44|8063|Finland|Helsinki|Hetzner Online GmbH|
+|11|37.27.253.44|8063|Finland|Helsinki|Hetzner Online GmbH|
+|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|13|72.10.164.178|28733|Canada|Montreal|GloboTech Communications|
+|14|37.27.253.44|8063|Finland|Helsinki|Hetzner Online GmbH|
+|15|37.27.253.44|8063|Finland|Helsinki|Hetzner Online GmbH|
+|16|67.43.228.253|5095|Canada|Montreal|GloboTech Communications|
+|17|105.157.105.196|39811|Morocco|Rabat|ADSL Maroc telecom|
+|18|200.49.99.78|9991|Argentina|Buenos Aires|Telecom Argentina S.A|
+|19|190.153.22.149|999|Venezuela|Caracas|Net Uno, C.A.|
+|20|67.43.236.22|16319|Canada|Montreal|GloboTech Communications|
 
 
 
