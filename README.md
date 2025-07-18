@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|1|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 |2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|3|85.9.209.195|8080|The Netherlands|Amsterdam|UPCLOUD-RESERVE|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|6|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|7|103.13.204.89|8083|Indonesia|Suwaduk|PT JARINGANKU SARANA NUSANTARA|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|11|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|12|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|13|51.84.110.224|3128|Israel|Tel Aviv|Amazon.com, Inc.|
-|14|147.75.68.85|443|United States|San Jose|Packet Host, Inc.|
-|15|37.27.253.44|8014|Finland|Helsinki|Hetzner Online GmbH|
-|16|152.53.194.46|8017|United States|Manassas|netcup GmbH|
-|17|103.82.133.153|8888|India|Faridabad|Cloudfly Corporation|
-|18|61.7.184.49|8080|Thailand|Bang Phae|CAT Telecom Public Company Limited|
-|19|198.145.118.246|8080|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|20|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|103.83.178.43|8181|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
+|6|103.82.20.150|8888|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|9|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|10|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|85.9.209.195|8080|The Netherlands|Amsterdam|UPCLOUD-RESERVE|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|18|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|19|38.52.209.9|999|Guatemala|Mataquescuintla|CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
+|20|37.27.253.44|8099|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
