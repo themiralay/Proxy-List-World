@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
 |8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|103.189.250.65|8080|Indonesia|Srono|PT Pandawa Lima Java Network|
-|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|181.129.140.210|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|11|42.118.1.104|16000|Vietnam|Hanoi|FPT Telecom Company|
+|12|118.71.166.72|16000|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|13|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
 |14|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|15|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|16|103.162.37.230|8080|Indonesia|Bandung|PT Lintas Satu Visi|
-|17|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|18|202.178.125.136|8080|Cambodia|Phnom Penh|Cambodia Data Communication|
-|19|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|20|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|15|200.125.171.60|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|16|112.198.186.104|8082|Philippines|Nasugbu|Globe Telecom|
+|17|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|18|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|19|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|20|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
 
 
 
