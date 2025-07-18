@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|4|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|5|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|6|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|7|52.78.241.34|20134|South Korea|Seoul|Amazon Technologies Inc.|
-|8|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|37.27.253.44|8028|Finland|Helsinki|Hetzner Online GmbH|
-|11|72.10.160.90|1877|Canada|Montreal|GloboTech Communications|
-|12|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|13|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|14|67.43.228.250|14551|Canada|Montreal|GloboTech Communications|
-|15|67.43.236.18|7217|Canada|Montreal|GloboTech Communications|
-|16|147.75.34.105|443|The Netherlands|Amsterdam|Packet Host, Inc.|
-|17|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|18|72.10.164.178|7451|Canada|Montreal|GloboTech Communications|
-|19|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|20|72.10.164.178|7451|Canada|Montreal|GloboTech Communications|
+|1|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|2|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|8|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|9|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|10|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|147.75.68.85|443|United States|San Jose|Packet Host, Inc.|
+|13|37.27.253.44|8099|Finland|Helsinki|Hetzner Online GmbH|
+|14|72.10.160.90|1877|Canada|Montreal|GloboTech Communications|
+|15|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|16|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|17|149.86.152.226|8080|Turkey|Sille|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|18|67.43.236.18|7217|Canada|Montreal|GloboTech Communications|
+|19|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|20|163.227.135.18|8081|Indonesia|Utan|PT EMLIMA KONEKSI NUSANTARA|
 
 
 
