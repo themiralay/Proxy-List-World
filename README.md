@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|6|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|7|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|8|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|9|52.78.241.34|20134|South Korea|Seoul|Amazon Technologies Inc.|
-|10|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|11|37.27.253.44|8099|Finland|Helsinki|Hetzner Online GmbH|
-|12|37.27.253.44|8099|Finland|Helsinki|Hetzner Online GmbH|
-|13|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|14|117.161.170.163|9006|China|Guangzhou|China Mobile communications corporation|
-|15|147.75.34.105|443|The Netherlands|Amsterdam|Packet Host, Inc.|
-|16|67.43.228.250|30213|Canada|Montreal|GloboTech Communications|
-|17|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|18|85.9.209.195|8080|The Netherlands|Amsterdam|UPCLOUD-RESERVE|
-|19|37.27.253.44|8099|Finland|Helsinki|Hetzner Online GmbH|
-|20|37.27.253.44|8099|Finland|Helsinki|Hetzner Online GmbH|
+|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|5|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|10|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|11|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|12|85.9.209.195|8080|The Netherlands|Amsterdam|UPCLOUD-RESERVE|
+|13|51.84.110.224|3128|Israel|Tel Aviv|Amazon.com, Inc.|
+|14|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|15|38.52.209.9|999|Guatemala|Mataquescuintla|CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
+|16|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|17|52.78.241.34|20134|South Korea|Seoul|Amazon Technologies Inc.|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|16.26.88.4|28095|Australia|Melbourne|Amazon.com, Inc.|
+|20|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
 
 
 
