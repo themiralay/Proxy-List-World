@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|157.66.15.66|3128|Indonesia|Cirebon|PT. Colo Media Netindo|
-|2|1.55.192.60|16000|Vietnam|Hanoi|FPT Telecom Company|
-|3|1.55.196.125|16000|Vietnam|Hanoi|FPT Telecom Company|
-|4|103.85.53.62|8080|Indonesia|Krajan Grogolan|PT Binerkahan Digital Telco|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|1.54.82.222|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|1.55.197.28|16000|Vietnam|Hanoi|FPT Telecom Company|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|14|152.53.66.81|3128|Austria|Vienna|netcup GmbH|
-|15|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|16|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|157.66.15.66|3128|Indonesia|Cirebon|PT. Colo Media Netindo|
+|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|194.4.49.128|2082|France|Paris|PQ HOSTING PLUS S.R.L.|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|23.237.210.82|80|United States|Houston|FDCservers.net|
+|15|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|16|3.109.62.30|717|India|Mumbai|Amazon Technologies Inc.|
+|17|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|18|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|19|102.68.128.212|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|20|1.55.196.125|16000|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
