@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
 |6|23.237.210.82|80|United States|Houston|FDCservers.net|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |9|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
 |10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|152.53.66.81|3128|Austria|Vienna|netcup GmbH|
-|12|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
-|13|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
-|16|45.190.79.65|999|Mexico|Zapopan|Meta Networks SA De CV|
+|11|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|14|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|15|45.190.79.65|999|Mexico|Zapopan|Meta Networks SA De CV|
+|16|187.188.169.169|8080|Mexico|Acatzingo|Total Play Telecomunicaciones SA De CV|
 |17|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|18|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|19|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|20|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|18|3.109.62.30|717|India|Mumbai|Amazon Technologies Inc.|
+|19|190.8.164.245|999|Venezuela|Porlamar|CORPORACION FIBEX TELECOM, C.A.|
+|20|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
 
 
 
