@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|1|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
+|2|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
 |3|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|8|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|16.26.88.4|28095|Australia|Melbourne|Amazon.com, Inc.|
-|11|116.212.137.74|8080|Cambodia|Phnom Penh|Angkor Data Communication|
-|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|13|37.27.253.44|8063|Finland|Helsinki|Hetzner Online GmbH|
-|14|37.27.253.44|8063|Finland|Helsinki|Hetzner Online GmbH|
-|15|72.10.160.90|19585|Canada|Montreal|GloboTech Communications|
-|16|85.9.209.195|8080|The Netherlands|Amsterdam|UPCLOUD-RESERVE|
-|17|41.254.47.66|19000|Libya|Tripoli|LTT Network Backbone and POPs|
-|18|37.27.253.44|8063|Finland|Helsinki|Hetzner Online GmbH|
-|19|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|4|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
+|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|103.81.194.17|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|11|103.189.250.117|1111|Indonesia|Pamedilan|PT Pandawa Lima Java Network|
+|12|37.27.253.44|8014|Finland|Helsinki|Hetzner Online GmbH|
+|13|72.10.160.90|19585|Canada|Montreal|GloboTech Communications|
+|14|37.27.253.44|8014|Finland|Helsinki|Hetzner Online GmbH|
+|15|117.161.170.163|9052|China|Guangzhou|China Mobile communications corporation|
+|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|17|37.27.253.44|8014|Finland|Helsinki|Hetzner Online GmbH|
+|18|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|19|72.10.160.90|19585|Canada|Montreal|GloboTech Communications|
 |20|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
 
 
