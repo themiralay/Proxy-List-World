@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|1|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|85.9.209.195|8080|The Netherlands|Amsterdam|UPCLOUD-RESERVE|
-|7|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|11|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|14|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|15|147.75.68.85|443|United States|San Jose|Packet Host, Inc.|
-|16|147.75.68.85|443|United States|San Jose|Packet Host, Inc.|
-|17|37.27.253.44|8014|Finland|Helsinki|Hetzner Online GmbH|
-|18|67.43.236.18|7217|Canada|Montreal|GloboTech Communications|
-|19|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|20|67.43.236.18|7217|Canada|Montreal|GloboTech Communications|
+|5|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|6|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|7|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|37.27.253.44|8014|Finland|Helsinki|Hetzner Online GmbH|
+|10|37.27.253.44|8014|Finland|Helsinki|Hetzner Online GmbH|
+|11|147.75.34.105|443|The Netherlands|Amsterdam|Packet Host, Inc.|
+|12|120.28.152.190|8082|Philippines|San Juan|Globe Telecom|
+|13|67.43.236.18|7217|Canada|Montreal|GloboTech Communications|
+|14|117.161.170.163|9443|China|Guangzhou|China Mobile communications corporation|
+|15|67.43.236.18|7217|Canada|Montreal|GloboTech Communications|
+|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|17|38.65.174.107|999|Mexico|Amealco|Wantelco SAS de CV|
+|18|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|19|37.27.253.44|8014|Finland|Helsinki|Hetzner Online GmbH|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
