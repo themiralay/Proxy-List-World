@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|1|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |3|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|6|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|10|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|11|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|14|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|15|152.53.66.81|3128|Austria|Vienna|netcup GmbH|
-|16|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|17|181.204.183.75|3737|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|18|16.26.88.4|28095|Australia|Melbourne|Amazon.com, Inc.|
-|19|36.95.245.7|8090|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|20|202.154.19.165|8080|Indonesia|Ngoro|DIGITNET|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|27.71.140.233|16000|Vietnam|Hanoi|Viettel Group|
+|6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
+|9|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
+|12|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|13|85.206.93.105|8080|Lithuania|Kaunas|Telia Lietuva|
+|14|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|15|176.88.168.105|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
+|16|85.9.209.195|8080|The Netherlands|Amsterdam|UPCLOUD-RESERVE|
+|17|147.75.68.85|443|United States|San Jose|Packet Host, Inc.|
+|18|37.27.253.44|8095|Finland|Helsinki|Hetzner Online GmbH|
+|19|37.27.253.44|8095|Finland|Helsinki|Hetzner Online GmbH|
+|20|67.43.236.19|12067|Canada|Montreal|GloboTech Communications|
 
 
 
