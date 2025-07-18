@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|208.67.28.29|58090|United States|Eagle River|SonicNet Inc.|
-|9|85.9.209.195|8080|The Netherlands|Amsterdam|UPCLOUD-RESERVE|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|12|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|13|16.26.88.4|28095|Australia|Melbourne|Amazon.com, Inc.|
-|14|147.75.68.85|443|United States|San Jose|Packet Host, Inc.|
-|15|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|16|52.78.241.34|20134|South Korea|Seoul|Amazon Technologies Inc.|
-|17|49.156.44.116|8080|Cambodia|Phnom Penh|WiCAM Corporation|
-|18|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|19|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|20|147.75.34.105|443|The Netherlands|Amsterdam|Packet Host, Inc.|
+|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|85.9.209.195|8080|The Netherlands|Amsterdam|UPCLOUD-RESERVE|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|42.113.20.173|16000|Vietnam|Hanoi|FPT Telecom Company|
+|11|52.78.241.34|20134|South Korea|Seoul|Amazon Technologies Inc.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|14|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|15|51.84.110.224|3128|Israel|Tel Aviv|Amazon.com, Inc.|
+|16|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|17|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|18|49.156.44.116|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|19|200.45.73.115|3577|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|20|185.200.38.53|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
