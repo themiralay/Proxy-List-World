@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|9|118.71.166.72|16000|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|197.248.231.237|8080|Kenya|Nairobi|Safaricom Limited|
-|12|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|13|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|14|91.217.60.202|4129|Ukraine|Pervomaisk|ZAT Televizijni kabelni merezhi Vsesvit|
-|15|16.26.88.4|28095|Australia|Melbourne|Amazon.com, Inc.|
-|16|85.206.93.105|8080|Lithuania|Kaunas|Telia Lietuva|
-|17|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|18|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|19|157.66.84.17|8080|Indonesia|Madiun|Menaksopal Lintas Nusantara|
-|20|85.206.93.105|8080|Lithuania|Kaunas|Telia Lietuva|
+|1|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|6|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|11|89.19.175.122|8012|Russia|Moscow|OJSC Comcor|
+|12|103.82.134.7|32629|Vietnam|Thanh Khê|Cloudfly Corporation|
+|13|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|14|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
+|15|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|16|16.26.88.4|28095|Australia|Melbourne|Amazon.com, Inc.|
+|17|37.27.253.44|8035|Finland|Helsinki|Hetzner Online GmbH|
+|18|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|19|31.14.114.69|1081|Iran|Tehran|Afranet Co|
+|20|67.43.236.20|24749|Canada|Montreal|GloboTech Communications|
 
 
 
