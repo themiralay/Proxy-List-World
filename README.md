@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -39,24 +39,24 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|3|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
-|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |7|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|8|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|9|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|10|42.118.1.207|16000|Vietnam|Hanoi|FPT Telecom Company|
-|11|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|13|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|14|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|15|116.96.88.238|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|51.84.110.224|3128|Israel|Tel Aviv|Amazon.com, Inc.|
-|17|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|18|85.9.209.195|8080|The Netherlands|Amsterdam|UPCLOUD-RESERVE|
+|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|152.53.66.81|3128|Austria|Vienna|netcup GmbH|
+|10|31.14.114.75|1081|Iran|Tehran|Afranet Co|
+|11|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|12|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|13|51.84.110.224|3128|Israel|Tel Aviv|Amazon.com, Inc.|
+|14|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|15|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|16|46.130.117.84|8080|Armenia|Yerevan|K-Telecom GPRS/3G|
+|17|110.164.128.124|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|18|147.75.68.85|443|United States|San Jose|Packet Host, Inc.|
 |19|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
 |20|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
 
