@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|8|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|9|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|10|85.9.209.195|8080|The Netherlands|Amsterdam|UPCLOUD-RESERVE|
-|11|37.27.253.44|8063|Finland|Helsinki|Hetzner Online GmbH|
-|12|37.27.253.44|8063|Finland|Helsinki|Hetzner Online GmbH|
-|13|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|14|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|15|117.161.170.163|9277|China|Guangzhou|China Mobile communications corporation|
-|16|85.9.209.195|8080|The Netherlands|Amsterdam|UPCLOUD-RESERVE|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|37.27.253.44|8063|Finland|Helsinki|Hetzner Online GmbH|
-|19|222.59.173.105|45021|China|Qinnan|China Mobile Communications Corporation|
-|20|124.121.177.132|8080|Thailand|Bangkok|TRUE|
+|1|207.166.176.131|3128|Singapore|Singapore|BYTEPLUS|
+|2|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|207.166.176.130|3128|Singapore|Singapore|BYTEPLUS|
+|7|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|8|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|10|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|11|85.9.209.195|8080|The Netherlands|Amsterdam|UPCLOUD-RESERVE|
+|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|13|24.176.35.228|8080|United States|Portage|Charter Communications|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|16|37.27.253.44|8063|Finland|Helsinki|Hetzner Online GmbH|
+|17|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|18|85.9.209.195|8080|The Netherlands|Amsterdam|UPCLOUD-RESERVE|
+|19|167.250.23.246|9090|Brazil|Patrocínio|OnNet Telecomunicações LTDA|
+|20|37.27.253.44|8063|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
