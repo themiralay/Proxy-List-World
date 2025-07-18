@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|2|207.166.177.160|3128|Singapore|Singapore|BYTEPLUS|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|85.9.209.195|8080|The Netherlands|Amsterdam|UPCLOUD-RESERVE|
-|5|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|6|103.191.58.71|7777|Indonesia|Ngasem|Panjalu Sarana Data Indonesia|
-|7|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|8|1.55.192.60|16000|Vietnam|Hanoi|FPT Telecom Company|
-|9|23.237.210.82|80|United States|Houston|FDCservers.net|
-|10|3.109.62.30|717|India|Mumbai|Amazon Technologies Inc.|
-|11|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|103.234.124.183|7777|Indonesia|Pelabuhanratu|PT. LINTAS DATA TRANS|
-|14|37.27.253.44|8073|Finland|Helsinki|Hetzner Online GmbH|
-|15|37.27.253.44|8073|Finland|Helsinki|Hetzner Online GmbH|
-|16|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|17|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|18|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|19|147.75.68.85|443|United States|San Jose|Packet Host, Inc.|
-|20|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|1|207.166.176.151|3128|Singapore|Singapore|BYTEPLUS|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|85.9.209.195|8080|The Netherlands|Amsterdam|UPCLOUD-RESERVE|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|10|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|11|37.27.253.44|8031|Finland|Helsinki|Hetzner Online GmbH|
+|12|1.55.192.60|16000|Vietnam|Hanoi|FPT Telecom Company|
+|13|37.27.253.44|8031|Finland|Helsinki|Hetzner Online GmbH|
+|14|85.206.93.105|8080|Lithuania|Kaunas|Telia Lietuva|
+|15|1.55.196.125|16000|Vietnam|Hanoi|FPT Telecom Company|
+|16|147.75.68.85|443|United States|San Jose|Packet Host, Inc.|
+|17|103.55.22.236|8080|Indonesia|Tanjungbalai|PT General Media Network|
+|18|27.79.133.195|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|20|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
 
 
 
