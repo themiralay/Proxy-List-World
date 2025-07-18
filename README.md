@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|65|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|65|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|65|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|76|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|76|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|76|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|1|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|118.71.166.72|16000|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|85.9.209.195|8080|The Netherlands|Amsterdam|UPCLOUD-RESERVE|
-|8|164.163.134.226|999|Ecuador|Zaruma|Ufinet Panama S.A.|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|37.27.253.44|8014|Finland|Helsinki|Hetzner Online GmbH|
-|11|185.200.38.53|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|12|147.75.49.154|80|United States|San Jose|Packet Host, Inc.|
-|13|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|14|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|15|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|17|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|18|42.113.20.173|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|202.62.67.209|53281|India|Visakhapatnam|CityOnline Services|
-|20|85.9.209.195|8080|The Netherlands|Amsterdam|UPCLOUD-RESERVE|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|9|85.9.209.195|8080|The Netherlands|Amsterdam|UPCLOUD-RESERVE|
+|10|51.84.110.224|3128|Israel|Tel Aviv|Amazon.com, Inc.|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|43.229.254.221|8181|Indonesia|Jakarta|PT. Media Antar Nusa|
+|15|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|16|202.179.93.132|58080|India|Mumbai|Ankhnet|
+|17|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|18|147.75.68.85|443|United States|San Jose|Packet Host, Inc.|
+|19|147.75.49.154|80|United States|San Jose|Packet Host, Inc.|
+|20|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
 
 
 
