@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|3|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|4|85.9.209.195|8080|The Netherlands|Amsterdam|UPCLOUD-RESERVE|
-|5|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|11|103.81.194.17|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|12|147.75.68.85|443|United States|San Jose|Packet Host, Inc.|
-|13|222.59.173.105|45064|China|Qinnan|China Mobile Communications Corporation|
-|14|190.52.99.220|999|Venezuela|Caracas|Gold Data USA Inc|
-|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|16|105.157.105.196|39811|Morocco|Rabat|ADSL Maroc telecom|
-|17|27.147.140.129|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|18|72.10.160.171|4273|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.22|16319|Canada|Montreal|GloboTech Communications|
-|20|117.161.170.163|9277|China|Guangzhou|China Mobile communications corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|7|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|8|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|9|85.9.209.195|8080|The Netherlands|Amsterdam|UPCLOUD-RESERVE|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|41.190.232.195|8080|DR Congo|Gandajika|Orioncom SPRL|
+|12|16.26.88.4|28095|Australia|Melbourne|Amazon.com, Inc.|
+|13|166.249.54.61|7234|United States|Hazlet|Verizon Business|
+|14|105.157.105.196|39811|Morocco|Rabat|ADSL Maroc telecom|
+|15|67.43.236.22|16319|Canada|Montreal|GloboTech Communications|
+|16|117.161.170.163|9010|China|Guangzhou|China Mobile communications corporation|
+|17|76.50.80.32|8182|United States|North Hollywood|Spectrum|
+|18|85.206.93.105|8080|Lithuania|Kaunas|Telia Lietuva|
+|19|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|20|72.10.160.90|2973|Canada|Montreal|GloboTech Communications|
 
 
 
