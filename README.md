@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|9|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|10|194.183.190.10|8080|Ukraine|Kyiv|"SCIENTIFIC-INDUSTRIAL FIRM "VOLZ" LIMITED LIABILITY COMPANY|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|128.199.140.172|8080|Singapore|Singapore|DigitalOcean, LLC|
-|13|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|14|49.150.63.236|8082|Philippines|Tarlac City|Philippine Long Distance Telephone Co.|
-|15|103.175.238.201|9090|Indonesia|Subang|PT Uliz Netmedia Solusindo|
-|16|112.204.118.221|8080|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|152.53.66.81|3128|Austria|Vienna|netcup GmbH|
+|9|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
+|10|122.3.41.154|8090|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|11|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|12|47.176.240.250|4228|United States|Pomona|Frontier Communications of America, Inc.|
+|13|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
+|14|113.11.179.108|8080|Indonesia|Kudus|Biznet Networks|
+|15|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|16|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
 |17|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|18|152.53.66.81|3128|Austria|Vienna|netcup GmbH|
-|19|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|20|43.217.143.220|9090|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|18|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|19|72.10.164.178|20695|Canada|Montreal|GloboTech Communications|
+|20|185.200.38.53|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
