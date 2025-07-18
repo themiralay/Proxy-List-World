@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|140.245.220.37|1080|India|Hyderabad|Oracle Corporation|
-|5|31.14.114.67|1081|Iran|Tehran|Afranet Co|
-|6|3.109.62.30|717|India|Mumbai|Amazon Technologies Inc.|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|9|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
-|10|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|11|37.27.253.44|8073|Finland|Helsinki|Hetzner Online GmbH|
-|12|149.86.142.84|8080|Türkiye|Istanbul|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|8|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
+|11|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|12|3.109.62.30|717|India|Mumbai|Amazon Technologies Inc.|
 |13|37.27.253.44|8073|Finland|Helsinki|Hetzner Online GmbH|
 |14|37.27.253.44|8073|Finland|Helsinki|Hetzner Online GmbH|
-|15|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|16|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|17|67.43.236.18|24703|Canada|Montreal|GloboTech Communications|
-|18|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|19|72.10.160.90|12899|Canada|Montreal|GloboTech Communications|
-|20|37.27.253.44|8073|Finland|Helsinki|Hetzner Online GmbH|
+|15|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|16|37.27.253.44|8073|Finland|Helsinki|Hetzner Online GmbH|
+|17|147.75.68.85|443|United States|San Jose|Packet Host, Inc.|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|67.43.236.18|24703|Canada|Montreal|GloboTech Communications|
+|20|23.237.210.82|80|United States|Houston|FDCservers.net|
 
 
 
