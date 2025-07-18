@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|1|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
 |2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
 |4|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|7|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|8|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|9|163.227.135.18|8081|Indonesia|Utan|PT EMLIMA KONEKSI NUSANTARA|
-|10|67.43.228.254|1415|Canada|Montreal|GloboTech Communications|
-|11|85.9.209.195|8080|The Netherlands|Amsterdam|UPCLOUD-RESERVE|
-|12|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|13|27.79.180.147|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|15|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|37.27.253.44|8014|Finland|Helsinki|Hetzner Online GmbH|
-|18|72.10.164.178|10763|Canada|Montreal|GloboTech Communications|
-|19|37.27.253.44|8014|Finland|Helsinki|Hetzner Online GmbH|
+|6|52.78.241.34|20134|South Korea|Seoul|Amazon Technologies Inc.|
+|7|16.26.88.4|28095|Australia|Melbourne|Amazon.com, Inc.|
+|8|51.84.110.224|3128|Israel|Tel Aviv|Amazon.com, Inc.|
+|9|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|10|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|11|102.222.231.25|2333|Democratic Republic of the Congo|Kinshasa|Orioncom SPRL|
+|12|147.75.68.85|443|United States|San Jose|Packet Host, Inc.|
+|13|185.200.38.53|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|14|37.27.253.44|8014|Finland|Helsinki|Hetzner Online GmbH|
+|15|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|16|103.189.62.131|8082|Indonesia|Denpasar|PT Blip Integrator Provider|
+|17|27.79.180.147|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|117.161.170.163|9006|China|Guangzhou|China Mobile communications corporation|
+|19|117.161.170.163|9006|China|Guangzhou|China Mobile communications corporation|
 |20|37.27.253.44|8014|Finland|Helsinki|Hetzner Online GmbH|
 
 
