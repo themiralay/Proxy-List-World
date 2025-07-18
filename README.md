@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|207.166.178.130|3128|Singapore|Singapore|BYTEPLUS|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|1|207.166.176.151|3128|Singapore|Singapore|BYTEPLUS|
+|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|85.9.209.195|8080|The Netherlands|Amsterdam|UPCLOUD-RESERVE|
-|10|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|11|103.18.77.154|8085|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|12|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|103.55.22.236|8080|Indonesia|Tanjungbalai|PT General Media Network|
-|15|23.237.210.82|80|United States|Houston|FDCservers.net|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|8|85.9.209.195|8080|The Netherlands|Amsterdam|UPCLOUD-RESERVE|
+|9|103.18.77.60|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|10|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|1.55.192.60|16000|Vietnam|Hanoi|FPT Telecom Company|
+|13|103.183.10.188|8080|Indonesia|Magetan|PT Yasmin Amanah Media|
+|14|23.237.210.82|80|United States|Houston|FDCservers.net|
+|15|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
 |16|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|17|3.109.62.30|717|India|Mumbai|Amazon Technologies Inc.|
-|18|188.125.169.101|8080|Turkey|Malıköy|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|42.113.20.173|16000|Vietnam|Hanoi|FPT Telecom Company|
+|18|85.206.93.105|8080|Lithuania|Kaunas|Telia Lietuva|
 |19|37.27.253.44|8095|Finland|Helsinki|Hetzner Online GmbH|
-|20|37.27.253.44|8095|Finland|Helsinki|Hetzner Online GmbH|
+|20|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
 
 
 
