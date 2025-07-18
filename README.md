@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|2|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|3|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|4|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|5|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|37.27.253.44|8014|Finland|Helsinki|Hetzner Online GmbH|
+|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|5|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|6|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |8|72.10.160.90|3215|Canada|Montreal|GloboTech Communications|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|37.27.253.44|8014|Finland|Helsinki|Hetzner Online GmbH|
 |10|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|11|147.75.34.105|443|The Netherlands|Amsterdam|Packet Host, Inc.|
-|12|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|13|72.10.164.178|11175|Canada|Montreal|GloboTech Communications|
-|14|37.27.253.44|8014|Finland|Helsinki|Hetzner Online GmbH|
-|15|37.27.253.44|8014|Finland|Helsinki|Hetzner Online GmbH|
-|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|17|72.10.164.178|11175|Canada|Montreal|GloboTech Communications|
-|18|195.62.50.246|8080|Türkiye|Istanbul|High Speed Telekomunikasyon VE Haberlesme Hizmetleriltd STI|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|72.10.164.178|11175|Canada|Montreal|GloboTech Communications|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|37.27.253.44|8014|Finland|Helsinki|Hetzner Online GmbH|
+|13|72.10.164.178|25989|Canada|Montreal|GloboTech Communications|
+|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|15|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|16|152.53.194.46|8020|United States|Manassas|netcup GmbH|
+|17|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|18|37.27.253.44|8014|Finland|Helsinki|Hetzner Online GmbH|
+|19|72.10.160.174|23619|Canada|Montreal|GloboTech Communications|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
