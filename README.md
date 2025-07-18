@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **39648** proxies at the latest update. Usable proxies are below.
+> Scraper found **75524** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35876|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|59|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38363|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.163.208|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|1.55.196.125|16000|Vietnam|Hanoi|FPT Telecom Company|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|1.55.192.60|16000|Vietnam|Hanoi|FPT Telecom Company|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|207.166.177.160|3128|Singapore|Singapore|BYTEPLUS|
-|7|42.113.20.173|16000|Vietnam|Hanoi|FPT Telecom Company|
-|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|85.9.209.195|8080|The Netherlands|Amsterdam|UPCLOUD-RESERVE|
-|11|103.183.10.188|8080|Indonesia|Magetan|PT Yasmin Amanah Media|
-|12|51.84.110.224|3128|Israel|Tel Aviv|Amazon.com, Inc.|
-|13|103.18.77.154|8085|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|14|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|15|85.206.93.105|8080|Lithuania|Kaunas|Telia Lietuva|
-|16|207.166.177.160|3128|Singapore|Singapore|BYTEPLUS|
-|17|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|18|118.71.166.72|16000|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|19|1.54.76.168|16000|Vietnam|Hanoi|FPT Telecom Company|
-|20|27.79.133.195|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|23.237.210.82|80|United States|Houston|FDCservers.net|
+|4|85.9.209.195|8080|The Netherlands|Amsterdam|UPCLOUD-RESERVE|
+|5|3.109.62.30|717|India|Mumbai|Amazon Technologies Inc.|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|188.125.169.101|8080|Turkey|Malıköy|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|9|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|10|103.18.77.60|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|11|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|13|23.237.210.82|80|United States|Houston|FDCservers.net|
+|14|58.136.44.191|8081|Thailand|Bangkok|AIS-Fibre|
+|15|1.55.192.60|16000|Vietnam|Hanoi|FPT Telecom Company|
+|16|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|17|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|18|47.251.11.225|3366|United States|Santa Clara|Alibaba Cloud LLC|
+|19|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|20|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
 
 
 
