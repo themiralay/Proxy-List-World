@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|13|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|14|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|15|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|16|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|19|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|20|152.32.68.171|65535|Philippines|Quezon City|Converge ICT Solution Inc|
+|1|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|11|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|12|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|13|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
+|14|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
+|15|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|16|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|20|16.26.88.4|28095|Australia|Melbourne|Amazon.com, Inc.|
 
 
 
