@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|1|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
+|4|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|9|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|10|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|11|180.149.232.253|6147|Bangladesh|Gazipur|Digi Jadoo Broadband Ltd|
-|12|77.110.123.32|3128|United States|Charlotte|Aeza International LTD|
-|13|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|14|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|16|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|17|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
-|18|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|19|16.26.88.4|28095|Australia|Melbourne|Amazon.com, Inc.|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|42.118.1.207|16000|Vietnam|Hanoi|FPT Telecom Company|
+|13|27.79.152.222|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|15|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
+|16|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|17|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|18|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|42.113.20.173|16000|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
