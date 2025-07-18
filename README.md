@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|3|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
 |5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|10|23.237.210.82|80|United States|Houston|FDCservers.net|
-|11|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|12|103.86.117.49|8080|Indonesia|Lenteng|PT Link Data Sumber Barokah|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
-|15|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|18|51.84.110.224|3128|Israel|Tel Aviv|Amazon.com, Inc.|
-|19|3.109.62.30|717|India|Mumbai|Amazon Technologies Inc.|
-|20|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|8|1.55.192.60|16000|Vietnam|Hanoi|FPT Telecom Company|
+|9|1.55.196.125|16000|Vietnam|Hanoi|FPT Telecom Company|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|12|152.53.66.81|3128|Austria|Vienna|netcup GmbH|
+|13|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|23.237.210.82|80|United States|Houston|FDCservers.net|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|19|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|20|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
 
 
 
