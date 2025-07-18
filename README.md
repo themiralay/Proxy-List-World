@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|2|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
 |3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|23.237.210.82|80|United States|Houston|FDCservers.net|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|11|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|12|152.53.66.81|3128|Austria|Vienna|netcup GmbH|
-|13|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|16|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|17|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|18|147.75.34.105|443|The Netherlands|Amsterdam|Packet Host, Inc.|
-|19|38.52.209.9|999|Guatemala|San Pedro Pinula|CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
-|20|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|23.237.210.82|80|United States|Houston|FDCservers.net|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|3.109.62.30|717|India|Mumbai|Amazon Technologies Inc.|
+|10|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|11|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|12|181.10.138.226|8083|Argentina|Tigre|Telecom Argentina S.A.|
+|13|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
+|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|15|38.52.209.9|999|Guatemala|San Pedro Pinula|CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
+|16|152.53.66.81|3128|Austria|Vienna|netcup GmbH|
+|17|37.27.253.44|8073|Finland|Helsinki|Hetzner Online GmbH|
+|18|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|19|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|20|147.75.34.105|443|The Netherlands|Amsterdam|Packet Host, Inc.|
 
 
 
