@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|5.161.131.126|8081|United States|Ashburn|Hetzner Online GmbH|
-|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|13|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|14|31.14.114.75|1081|Iran|Tehran|Afranet Co|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|1|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|9|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|10|128.199.140.172|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|12|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
+|15|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|16|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
 |17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|128.199.140.172|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
+|19|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|20|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
 
 
 
