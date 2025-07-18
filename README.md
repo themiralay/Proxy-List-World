@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|1|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 |6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|8|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|11|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|160.187.191.3|8082|Bangladesh|Puthia|Race Online Limited|
-|14|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|15|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|16|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|17|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|18|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
-|19|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|20|27.79.152.222|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|42.118.1.104|16000|Vietnam|Hanoi|FPT Telecom Company|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|10|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|11|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|13|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|15|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|16|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|17|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|18|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|19|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|20|118.71.166.72|16000|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
 
 
 
