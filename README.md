@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|3|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|4|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|10|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|11|16.26.88.4|28095|Australia|Melbourne|Amazon.com, Inc.|
-|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|14|37.27.253.44|8005|Finland|Helsinki|Hetzner Online GmbH|
-|15|37.27.253.44|8005|Finland|Helsinki|Hetzner Online GmbH|
-|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|17|72.10.160.90|15853|Canada|Montreal|GloboTech Communications|
-|18|159.89.239.166|18086|United States|North Bergen|DigitalOcean, LLC|
-|19|37.27.253.44|8005|Finland|Helsinki|Hetzner Online GmbH|
-|20|152.53.194.46|8020|United States|Manassas|netcup GmbH|
+|3|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|5|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|16.26.88.4|28095|Australia|Melbourne|Amazon.com, Inc.|
+|10|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|11|37.27.253.44|8005|Finland|Helsinki|Hetzner Online GmbH|
+|12|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|13|72.10.160.90|2973|Canada|Montreal|GloboTech Communications|
+|14|159.89.239.166|18086|United States|North Bergen|DigitalOcean, LLC|
+|15|117.161.170.163|9287|China|Guangzhou|China Mobile communications corporation|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|37.27.253.44|8005|Finland|Helsinki|Hetzner Online GmbH|
+|18|67.43.236.18|16319|Canada|Montreal|GloboTech Communications|
+|19|72.10.160.171|4273|Canada|Montreal|GloboTech Communications|
+|20|38.46.235.5|8088|Indonesia|Boyolali|PT CYB Media Group|
 
 
 
