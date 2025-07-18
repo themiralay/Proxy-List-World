@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|9|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|10|128.199.140.172|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|54.180.239.137|28136|South Korea|Seoul|Amazon Technologies Inc.|
-|12|52.78.241.34|20134|South Korea|Seoul|Amazon Technologies Inc.|
-|13|42.118.1.207|16000|Vietnam|Hanoi|FPT Telecom Company|
-|14|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|15|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|103.133.27.179|8080|Indonesia|Purwakarta|PT PHATRIA INTI PERSADA|
-|17|49.48.45.244|8081|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|18|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|19|159.89.239.166|18093|United States|North Bergen|DigitalOcean, LLC|
-|20|37.27.253.44|8028|Finland|Helsinki|Hetzner Online GmbH|
+|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|186.179.169.22|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|31.14.114.68|1081|Iran|Tehran|Afranet Co|
+|7|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|10|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|11|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|13|85.9.209.195|8080|The Netherlands|Amsterdam|UPCLOUD-RESERVE|
+|14|27.79.180.147|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|147.75.68.85|443|United States|San Jose|Packet Host, Inc.|
+|16|102.209.191.10|8080|South Africa|Johannesburg|Mavoni Telecoms (Pty) Ltd|
+|17|37.27.253.44|8099|Finland|Helsinki|Hetzner Online GmbH|
+|18|37.27.253.44|8099|Finland|Helsinki|Hetzner Online GmbH|
+|19|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|20|103.172.42.81|8080|Indonesia|Karawang|PT Media Solusi Sukses|
 
 
 
