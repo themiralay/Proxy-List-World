@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|4|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|36.95.169.154|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|202.178.125.136|8080|Cambodia|Phnom Penh|Cambodia Data Communication|
-|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|1|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|103.191.165.9|8070|Indonesia|Subang|PT Sakti Wijaya Network|
+|9|103.8.59.12|8080|Indonesia|Jakarta|PT Prime Link Communication|
 |10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|13|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|14|103.162.37.230|8080|Indonesia|Bandung|PT Lintas Satu Visi|
-|15|103.189.250.65|8080|Indonesia|Srono|PT Pandawa Lima Java Network|
-|16|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|17|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|18|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|19|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
-|20|42.113.20.173|16000|Vietnam|Hanoi|FPT Telecom Company|
+|11|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|103.191.218.115|8080|Indonesia|Sumber|PT Replay Inti Media|
+|14|103.59.44.87|8181|Indonesia|Gadingrejo|PT INDONESIA TRANS NETWORK|
+|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|16|118.179.121.56|6699|Bangladesh|Dhaka|Dhakacom Limited|
+|17|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
+|18|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|188.125.169.99|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|91.217.60.202|4129|Ukraine|Pervomaisk|ZAT Televizijni kabelni merezhi Vsesvit|
 
 
 
