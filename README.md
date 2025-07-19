@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|47.239.131.122|4000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|23.94.236.141|8080|United States|Los Angeles|HostPapa|
-|3|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |4|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|27.79.147.190|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|9|27.79.179.123|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|65.109.102.37|8080|Finland|Helsinki|Hetzner Online GmbH|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|14|42.118.173.16|16000|Vietnam|Hanoi|FPT Telecom Company|
-|15|58.186.92.97|16000|Vietnam|Hanoi|FPT Telecom Company|
-|16|27.79.192.45|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|18|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|19|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|20|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|65.109.102.37|8080|Finland|Helsinki|Hetzner Online GmbH|
+|10|23.94.67.161|8080|Ireland|Rathgar|HostPapa|
+|11|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|12|41.110.10.205|8888|Algeria|Birkhadem|Algerie Telecom|
+|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|15|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|16|23.94.236.141|8080|United States|Los Angeles|HostPapa|
+|17|93.190.138.107|46182|The Netherlands|Naaldwijk|WorldStream B.V.|
+|18|42.118.173.16|16000|Vietnam|Hanoi|FPT Telecom Company|
+|19|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|20|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
 
 
 
