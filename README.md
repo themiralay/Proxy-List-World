@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|1|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
+|2|209.121.164.51|31147|Canada|Burnaby|TELUS Communications Inc.|
 |3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|5|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
-|9|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|10|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|11|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|17|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|18|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|19|147.75.68.85|443|United States|San Jose|Packet Host, Inc.|
-|20|103.165.222.190|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
+|11|180.191.16.9|8085|Philippines|Cabanatuan City|Globe Telecom|
+|12|192.81.129.252|3135|United States|Fremont|Akamai Technologies, Inc.|
+|13|50.200.166.130|8080|United States|Cranbury|Comcast Cable Communications|
+|14|160.19.19.114|8080|Indonesia|Jatiroto|PT Indo Telemedia Solusi|
+|15|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|16|185.200.38.53|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|20|37.27.253.44|8095|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
