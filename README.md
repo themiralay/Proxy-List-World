@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |4|139.162.29.116|8888|Singapore|Singapore|LINODE|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|58.186.92.202|16000|Vietnam|Hanoi|FPT Telecom Company|
-|11|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|12|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|13|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|14|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|15|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|16|43.216.66.199|221|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|17|37.32.40.253|8080|Iran|Ahvaz|Toloe Rayaneh Loghman Educational and Cultural Co.|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|20|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|65.109.102.37|8080|Finland|Helsinki|Hetzner Online GmbH|
+|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|10|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|11|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|15|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|16|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|17|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|18|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|19|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|20|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
 
 
 
