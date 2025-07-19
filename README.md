@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|47.239.131.122|4000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|7|27.79.179.123|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|10|193.16.232.38|8080|Russia|Rostov-on-Don|ISS Ltd.|
-|11|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|12|16.26.88.4|28095|Australia|Melbourne|Amazon.com, Inc.|
-|13|37.27.253.44|8063|Finland|Helsinki|Hetzner Online GmbH|
-|14|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|15|47.236.37.129|18081|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|41.110.10.205|8888|Algeria|Birkhadem|Algerie Telecom|
-|17|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|18|23.94.67.161|8080|Ireland|Rathgar|HostPapa|
-|19|147.75.66.235|9401|United States|Secaucus|Packet Host, Inc.|
-|20|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|170.78.115.209|999|Chile|El Quisco|SOCIEDAD CONSULTORES EN INFORMATICA VARGAS Y COMPAÑIA LIMITADA|
+|8|118.71.170.122|16000|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|9|27.79.255.39|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|13|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|15|147.75.68.85|443|United States|San Jose|Packet Host, Inc.|
+|16|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|17|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|18|37.27.253.44|8095|Finland|Helsinki|Hetzner Online GmbH|
+|19|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|20|41.110.10.205|8888|Algeria|Birkhadem|Algerie Telecom|
 
 
 
