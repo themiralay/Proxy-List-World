@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.239.131.122|4000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|139.162.29.116|8888|Singapore|Singapore|LINODE|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|7|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|139.162.29.116|8888|Singapore|Singapore|LINODE|
+|3|103.169.128.133|8080|Indonesia|Cirebon|PT Media Akses Data|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|58.186.92.202|16000|Vietnam|Hanoi|FPT Telecom Company|
+|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|8|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|9|65.109.102.37|8080|Finland|Helsinki|Hetzner Online GmbH|
 |10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|12|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|13|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|14|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|15|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|16|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|17|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|18|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|19|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|20|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|11|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|101.51.164.181|8080|Thailand|Pattaya|TOT Public Company Limited|
+|14|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|15|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|16|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|17|207.166.177.27|3128|Singapore|Singapore|BYTEPLUS|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|20|80.211.202.138|8118|Czechia|Prague|INTERNET CZ, a.s.|
 
 
 
