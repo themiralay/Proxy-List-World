@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
 |3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|5|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|4|139.162.29.116|8888|Singapore|Singapore|LINODE|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|103.169.128.133|8080|Indonesia|Cirebon|PT Media Akses Data|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|12|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|13|207.166.177.27|3128|Singapore|Singapore|BYTEPLUS|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|16|65.109.102.37|8080|Finland|Helsinki|Hetzner Online GmbH|
-|17|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|18|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|19|37.32.40.253|8080|Iran|Ahvaz|Toloe Rayaneh Loghman Educational and Cultural Co.|
-|20|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|10|65.109.102.37|8080|Finland|Helsinki|Hetzner Online GmbH|
+|11|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|12|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|13|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|14|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|15|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|18|27.79.147.190|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|20|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
 
 
 
