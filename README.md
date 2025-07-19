@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|163.223.78.89|8080|Indonesia|Jombang|PT Big Network Indonesia|
-|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|12|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|13|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|14|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|15|5.160.89.154|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|16|86.100.108.89|8091|Lithuania|Klaipėda|Balticum TV network|
-|17|103.156.17.32|8818|Indonesia|Jatibarang|RSTNET|
-|18|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
-|19|52.78.241.34|20134|South Korea|Seoul|Amazon Technologies Inc.|
-|20|38.3.162.129|999|Chile|Puente Alto|Servicios Integrales Metfy Telecom SPA|
+|1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|11|163.223.78.89|8080|Indonesia|Jombang|PT Big Network Indonesia|
+|12|103.81.194.165|8080|Indonesia|Ciampea|PT Rtiga Global Media|
+|13|85.119.120.55|8080|Malta|Birkirkara|Melita Ltd|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|16|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|17|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
+|18|178.159.52.208|8080|Russia|Tver|Home Computer Networks ltd|
+|19|37.27.253.44|8095|Finland|Helsinki|Hetzner Online GmbH|
+|20|37.27.253.44|8095|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
