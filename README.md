@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.239.131.122|4000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|6|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|9|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|10|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|11|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|12|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|13|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|15|65.109.102.37|8080|Finland|Helsinki|Hetzner Online GmbH|
-|16|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|17|194.4.49.128|10808|France|Paris|PQ HOSTING PLUS S.R.L.|
-|18|43.216.66.199|221|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|19|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|20|45.123.142.13|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|207.166.177.27|3128|Singapore|Singapore|BYTEPLUS|
+|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|6|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|8|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|13|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|14|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|15|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|16|52.3.128.241|8888|United States|Ashburn|Amazon.com, Inc.|
+|17|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|18|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|19|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|20|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
 
 
 
