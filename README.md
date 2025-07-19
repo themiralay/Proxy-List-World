@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.125.174.83|7777|Indonesia|Pematangsiantar|PT Trinity Teknologi Nusantara|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|6|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|7|42.118.173.16|16000|Vietnam|Hanoi|FPT Telecom Company|
-|8|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|9|65.109.102.37|8080|Finland|Helsinki|Hetzner Online GmbH|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|12|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|13|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|14|52.78.241.34|20134|South Korea|Seoul|Amazon Technologies Inc.|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|27.79.192.45|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|18|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
-|19|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|20|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
+|5|65.109.102.37|8080|Finland|Helsinki|Hetzner Online GmbH|
+|6|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|9|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|11|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|12|27.79.255.39|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|52.78.241.34|20134|South Korea|Seoul|Amazon Technologies Inc.|
+|16|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|17|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|18|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|20|42.119.98.122|16000|Vietnam|Quận Hai|FPT Telecom Company|
 
 
 
