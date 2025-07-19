@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|47.239.131.122|4000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|3|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|4|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|9|1.55.199.63|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|12|37.27.253.44|8005|Finland|Helsinki|Hetzner Online GmbH|
-|13|202.58.77.7|7777|Indonesia|Nganjuk|PT Data Buana Nusantara|
-|14|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|15|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|16|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|2.188.229.150|7020|Iran|Tabriz|Ofogh Koroush Chain Store Public Joint Stock|
-|19|103.167.156.15|8083|Indonesia|Pemalang|PT Jaringan Tiang Indonesia Group|
-|20|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|2|42.119.98.122|16000|Vietnam|Quận Hai|FPT Telecom Company|
+|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|23.94.67.161|8080|Ireland|Rathgar|HostPapa|
+|8|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|65.109.102.37|8080|Finland|Helsinki|Hetzner Online GmbH|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|27.76.187.31|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|13|58.186.92.97|16000|Vietnam|Hanoi|FPT Telecom Company|
+|14|41.110.10.205|8888|Algeria|Birkhadem|Algerie Telecom|
+|15|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|16|27.79.147.190|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|159.100.20.206|27866|Germany|Frankfurt am Main|firstcolo GmbH|
+|18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|19|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|20|42.118.173.16|16000|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
