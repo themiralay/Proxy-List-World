@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|2|47.239.131.122|4000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|12|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|42.118.173.16|16000|Vietnam|Hanoi|FPT Telecom Company|
-|17|27.79.147.190|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|49.145.63.88|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|19|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|20|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|1|47.239.131.122|4000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|47.236.37.129|18081|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|207.166.177.27|3128|Singapore|Singapore|BYTEPLUS|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|11|103.189.62.131|8082|Indonesia|Denpasar|PT Blip Integrator Provider|
+|12|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|16|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|19|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|20|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
 
 
 
