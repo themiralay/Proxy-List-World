@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|3|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|4|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|5|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|6|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|7|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|65.109.102.37|8080|Finland|Helsinki|Hetzner Online GmbH|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|11|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|12|27.79.216.174|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|42.119.98.122|16000|Vietnam|Quận Hai|FPT Telecom Company|
-|14|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|15|27.79.255.39|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|17|1.55.193.9|16000|Vietnam|Hanoi|FPT Telecom Company|
-|18|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|19|37.27.253.44|8035|Finland|Helsinki|Hetzner Online GmbH|
-|20|65.109.102.37|8080|Finland|Helsinki|Hetzner Online GmbH|
+|1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|2|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|1.53.67.111|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
+|9|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
+|10|65.109.102.37|8080|Finland|Helsinki|Hetzner Online GmbH|
+|11|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|58.186.92.97|16000|Vietnam|Hanoi|FPT Telecom Company|
+|14|27.79.216.174|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|27.79.255.249|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|157.66.16.52|8080|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|17|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|18|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|19|1.54.77.215|16000|Vietnam|Hanoi|FPT Telecom Company|
+|20|92.36.202.5|8080|Bosnia and Herzegovina|Zenica|BH Telecom d.d. Sarajevo|
 
 
 
