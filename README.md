@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |2|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|5|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|1.55.193.9|16000|Vietnam|Hanoi|FPT Telecom Company|
-|8|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|9|42.118.1.104|16000|Vietnam|Hanoi|FPT Telecom Company|
-|10|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|11|1.54.77.12|16000|Vietnam|Hanoi|FPT Telecom Company|
-|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|13|49.48.91.91|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|14|49.146.238.181|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|15|147.75.66.235|9401|United States|Secaucus|Packet Host, Inc.|
-|16|152.53.194.46|8041|United States|Manassas|netcup GmbH|
-|17|164.163.42.43|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|105.157.152.30|39811|Morocco|Rabat|ADSL Maroc telecom|
-|19|61.164.204.130|4999|China|Hangzhou|Chinanet|
-|20|164.163.42.39|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|4|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|5|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|6|42.118.1.104|16000|Vietnam|Hanoi|FPT Telecom Company|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|118.71.170.122|16000|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|9|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|10|1.54.77.12|16000|Vietnam|Hanoi|FPT Telecom Company|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|16.26.88.4|28095|Australia|Melbourne|Amazon.com, Inc.|
+|13|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|14|37.27.253.44|8099|Finland|Helsinki|Hetzner Online GmbH|
+|15|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|17|49.48.91.91|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|18|147.75.68.85|443|United States|San Jose|Packet Host, Inc.|
+|19|164.163.42.43|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|160.22.24.115|8080|Indonesia|Kudus|PT Giga Media Internet|
 
 
 
