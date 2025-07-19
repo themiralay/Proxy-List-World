@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|47.239.131.122|4000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
-|4|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|42.119.98.122|16000|Vietnam|Quận Hai|FPT Telecom Company|
-|12|65.109.102.37|8080|Finland|Helsinki|Hetzner Online GmbH|
-|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|14|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|15|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|27.79.255.39|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|19|27.79.192.45|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|6|65.109.102.37|8080|Finland|Helsinki|Hetzner Online GmbH|
+|7|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|8|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|9|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|12|42.118.173.16|16000|Vietnam|Hanoi|FPT Telecom Company|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|103.167.156.15|8083|Indonesia|Pemalang|PT Jaringan Tiang Indonesia Group|
+|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|16|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|17|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|18|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|19|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|20|37.27.253.44|8014|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
