@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |3|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
 |4|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|5|65.109.102.37|8080|Finland|Helsinki|Hetzner Online GmbH|
-|6|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|7|27.79.147.190|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|11|27.79.255.39|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|13|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|15|37.27.253.44|8035|Finland|Helsinki|Hetzner Online GmbH|
-|16|85.206.93.105|8080|Lithuania|Kaunas|Telia Lietuva|
-|17|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|18|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|19|160.248.189.95|3127|Japan|Minato|NTT PC Communications, Inc.|
-|20|37.27.253.44|8035|Finland|Helsinki|Hetzner Online GmbH|
+|5|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|6|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|65.109.102.37|8080|Finland|Helsinki|Hetzner Online GmbH|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|11|194.4.49.128|10808|France|Paris|PQ HOSTING PLUS S.R.L.|
+|12|27.79.255.39|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|182.253.228.3|8080|Indonesia|Jakarta|BIZNET|
+|14|85.206.93.105|8080|Lithuania|Kaunas|Telia Lietuva|
+|15|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|16|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|17|160.248.189.95|3127|Japan|Minato|NTT PC Communications, Inc.|
+|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|37.27.253.44|8035|Finland|Helsinki|Hetzner Online GmbH|
+|20|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
 
 
 
