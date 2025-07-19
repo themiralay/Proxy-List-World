@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|47.239.131.122|4000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|207.166.177.27|3128|Singapore|Singapore|BYTEPLUS|
-|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|13|65.109.102.37|8080|Finland|Helsinki|Hetzner Online GmbH|
-|14|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|10|207.166.177.27|3128|Singapore|Singapore|BYTEPLUS|
+|11|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |15|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|16|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|17|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|18|181.205.161.189|999|Colombia|Medellín|Colombia Móvil|
-|19|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|20|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|17|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|18|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|19|58.187.70.82|16000|Vietnam|Hanoi|FPT Telecom Company|
+|20|152.53.66.81|3128|Austria|Vienna|netcup GmbH|
 
 
 
