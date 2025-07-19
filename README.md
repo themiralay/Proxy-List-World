@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|47.239.131.122|4000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|62.33.91.10|3128|Russia|Tynda|TRANS-TELECOM|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|58.187.70.82|16000|Vietnam|Hanoi|FPT Telecom Company|
-|8|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|27.79.174.216|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|14|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|15|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|16|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|18|37.27.253.44|8014|Finland|Helsinki|Hetzner Online GmbH|
-|19|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|4|27.79.174.216|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|12|207.166.177.27|3128|Singapore|Singapore|BYTEPLUS|
+|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|14|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|15|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|16|152.53.66.81|3128|Austria|Vienna|netcup GmbH|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|19|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|20|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
 
 
 
