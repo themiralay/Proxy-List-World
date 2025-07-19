@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|47.239.131.122|4000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|3|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
 |4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|42.113.21.191|16000|Vietnam|Hanoi|FPT Telecom Company|
-|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|103.189.62.131|8082|Indonesia|Denpasar|PT Blip Integrator Provider|
-|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|15|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|18|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|19|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|20|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|10|58.186.92.202|16000|Vietnam|Hanoi|FPT Telecom Company|
+|11|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|14|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|15|65.109.102.37|8080|Finland|Helsinki|Hetzner Online GmbH|
+|16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|17|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|18|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|19|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|20|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
 
 
 
