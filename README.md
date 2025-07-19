@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|4|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|27.79.255.39|16000|Vietnam|Hanoi|Viettel Corporation|
 |5|65.109.102.37|8080|Finland|Helsinki|Hetzner Online GmbH|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|8|31.58.158.184|8080|Singapore|Singapore|PT Perwira Media Solusi|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|12|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|13|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|14|179.43.8.15|8084|Brazil|Jaicós|Voex Telecom Ltda|
-|15|23.94.67.161|8080|Ireland|Rathgar|HostPapa|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|67.43.236.18|5891|Canada|Montreal|GloboTech Communications|
-|18|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|19|147.75.34.105|443|The Netherlands|Amsterdam|Packet Host, Inc.|
-|20|106.225.148.45|655|China|Taohua|CHINANET Jiangx province IDC network|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|9|27.79.192.45|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|27.76.187.31|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|11|42.119.98.122|16000|Vietnam|Quận Hai|FPT Telecom Company|
+|12|27.79.179.123|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|16|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|17|27.79.216.174|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|93.190.138.107|46182|The Netherlands|Naaldwijk|WorldStream B.V.|
+|19|42.118.173.16|16000|Vietnam|Hanoi|FPT Telecom Company|
+|20|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
 
 
 
