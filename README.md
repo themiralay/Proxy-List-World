@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|47.239.131.122|4000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|101.47.20.48|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
-|3|101.47.22.170|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|101.47.23.245|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|101.47.20.7|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|207.166.178.225|3128|Singapore|Singapore|BYTEPLUS|
+|2|101.47.22.170|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
+|3|101.47.23.245|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|101.47.20.7|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|207.166.178.225|3128|Singapore|Singapore|BYTEPLUS|
+|6|101.47.20.48|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
 |7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
 |8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|14|27.71.141.171|16000|Vietnam|Đưc Trọng|Viettel Group|
-|15|27.76.190.134|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|16|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|17|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|18|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|27.71.131.169|16000|Vietnam|Hanoi|Viettel Group|
+|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|11|27.71.141.171|16000|Vietnam|Đưc Trọng|Viettel Group|
+|12|61.29.96.146|80|Australia|Clarence Gardens|AAPT Limited|
+|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|16|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
+|17|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|27.76.190.134|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
 
 
 
