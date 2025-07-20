@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
 |4|47.239.131.122|4000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|207.166.177.27|3128|Singapore|Singapore|BYTEPLUS|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|12|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|13|58.186.92.202|16000|Vietnam|Hanoi|FPT Telecom Company|
-|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|15|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|152.53.66.81|3128|Austria|Vienna|netcup GmbH|
+|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|13|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|122.3.41.154|8090|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|17|207.166.177.27|3128|Singapore|Singapore|BYTEPLUS|
+|18|152.53.66.81|3128|Austria|Vienna|netcup GmbH|
+|19|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|20|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
 
 
 
