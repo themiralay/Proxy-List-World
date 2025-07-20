@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|140.227.61.201|3128|Japan|Tokyo|InfoSphere|
 |2|47.239.131.122|4000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|207.166.178.163|3128|Singapore|Singapore|BYTEPLUS|
-|4|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|23.94.236.141|8080|United States|Los Angeles|HostPapa|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|207.166.177.27|3128|Singapore|Singapore|BYTEPLUS|
+|5|157.10.97.185|8080|Indonesia|Cempaka|PT Lintas Jaringan Nusantara|
+|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
 |7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
+|8|27.79.255.7|16000|Vietnam|Hanoi|Viettel Corporation|
 |9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|11|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|14|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|17|42.118.1.26|16000|Vietnam|Hanoi|FPT Telecom Company|
-|18|42.117.243.34|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|20|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|42.117.243.34|16000|Vietnam|Hanoi|FPT Telecom Company|
+|11|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|12|42.118.1.69|16000|Vietnam|Hanoi|FPT Telecom Company|
+|13|42.118.1.26|16000|Vietnam|Hanoi|FPT Telecom Company|
+|14|42.113.28.8|16000|Vietnam|Hanoi|FPT Telecom Company|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|103.155.168.88|8299|Indonesia|Karawang|PT Arozak Bima Yudho Sangkara|
+|18|147.45.230.230|3128|The Netherlands|Amsterdam|Timeweb, LLP|
+|19|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|20|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 
 
 
