@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|51.159.159.73|80|France|Paris|SCALEWAY|
-|5|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|6|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|7|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|27.79.199.64|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|12|38.180.55.167|3128|Italy|Milan|M247 Europe SRL|
-|13|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
-|17|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
-|18|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|47.236.37.129|18081|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|51.159.159.73|80|France|Paris|SCALEWAY|
+|9|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|10|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|11|38.180.55.167|3128|Italy|Milan|M247 Europe SRL|
+|12|27.79.199.64|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|14|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
+|15|23.157.88.25|1080|Germany|Frankfurt|GTHost|
+|16|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
+|17|52.3.128.241|8888|United States|Ashburn|Amazon.com, Inc.|
+|18|52.3.128.241|8888|United States|Ashburn|Amazon.com, Inc.|
+|19|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
+|20|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 
 
 
