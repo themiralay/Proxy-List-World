@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|9|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|10|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|11|103.210.22.17|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|15|27.71.130.8|16000|Vietnam|Bảo Lộc|Viettel Group|
-|16|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|103.178.21.93|3125|Indonesia|Sumberpucung|PT Trisna Mega Abadi|
-|19|3.109.62.30|717|India|Mumbai|Amazon Technologies Inc.|
-|20|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|8|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|11|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
+|14|52.3.128.241|8888|United States|Ashburn|Amazon.com, Inc.|
+|15|51.159.159.73|80|France|Paris|SCALEWAY|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|162.223.89.87|3128|United States|Buffalo|ColoUp|
+|18|27.79.174.216|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|52.3.128.241|8888|United States|Ashburn|Amazon.com, Inc.|
+|20|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
 
 
 
