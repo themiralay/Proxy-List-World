@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|47.239.131.122|4000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|103.76.109.65|8080|Indonesia|Kraksaan|PT Mahawira Nusantara Grup|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|6|27.79.174.216|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|8|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
 |9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|11|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|12|1.20.169.60|8180|Thailand|Pattaya|TOT Public Company Limited|
-|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|15|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|13|168.228.44.66|999|Honduras|Yoro|CABLE NACIONAL, S.A|
+|14|122.3.41.154|8090|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|17|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
 |18|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|19|152.53.66.81|3128|Austria|Vienna|netcup GmbH|
-|20|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
+|19|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|20|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
