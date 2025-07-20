@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.47.22.170|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|101.47.23.245|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|47.239.131.122|4000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|101.47.20.7|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
-|7|101.47.20.48|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|1|47.239.131.122|4000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|101.47.20.7|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|58.186.92.202|16000|Vietnam|Hanoi|FPT Telecom Company|
 |10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|13|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|15|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
-|16|27.71.141.171|16000|Vietnam|Đưc Trọng|Viettel Group|
-|17|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|13|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
+|14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|15|101.47.23.245|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
+|16|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|17|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|18|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
 |19|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|20|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|20|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
 
 
 
