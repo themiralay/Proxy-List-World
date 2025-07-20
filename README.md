@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|101.47.20.7|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
-|2|101.47.23.245|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
-|3|101.47.20.48|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|207.166.176.156|3128|Singapore|Singapore|BYTEPLUS|
-|5|101.47.22.170|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
+|2|101.47.20.48|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
+|3|101.47.23.245|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|101.47.22.170|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|207.166.176.156|3128|Singapore|Singapore|BYTEPLUS|
 |6|207.166.178.221|3128|Singapore|Singapore|BYTEPLUS|
 |7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|101.47.23.78|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
-|9|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|207.166.178.232|3128|Singapore|Singapore|BYTEPLUS|
 |10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|101.47.23.78|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
 |12|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
 |14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|17|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|18|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|19|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|20|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 
 
 
