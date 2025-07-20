@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
 |2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|5|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|23.94.236.141|8080|United States|Los Angeles|HostPapa|
 |7|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|8|38.180.55.167|3128|Italy|Milan|M247 Europe SRL|
-|9|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|10|89.169.112.142|1080|Finland|Helsinki|Nebius B.V.|
-|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|12|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
-|13|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|14|52.3.128.241|8888|United States|Ashburn|Amazon.com, Inc.|
-|15|27.71.130.8|16000|Vietnam|Bảo Lộc|Viettel Group|
-|16|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
-|17|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|19|27.79.174.216|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|38.180.55.167|3128|Italy|Milan|M247 Europe SRL|
+|10|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|11|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|52.3.128.241|8888|United States|Ashburn|Amazon.com, Inc.|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
+|16|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|17|89.169.112.142|1080|Finland|Helsinki|Nebius B.V.|
+|18|122.52.213.79|62102|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|19|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|20|213.87.103.76|3128|Russia|Blagoveshchensk|MR DV division of Mobile Telesystems OJSC|
 
 
 
