@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|2|140.227.61.201|3128|Japan|Tokyo|InfoSphere|
-|3|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|4|207.166.177.27|3128|Singapore|Singapore|BYTEPLUS|
-|5|207.166.178.163|3128|Singapore|Singapore|BYTEPLUS|
-|6|115.74.10.142|10010|Vietnam|Vũng Tàu|VIETELxdsl|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|103.59.44.87|8181|Indonesia|Gadingrejo|PT INDONESIA TRANS NETWORK|
-|9|103.172.120.37|8080|Indonesia|Purwodadi Grobogan|PT Digital Akses Nusantara|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|14|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|16|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|17|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|18|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|19|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|140.227.61.201|3128|Japan|Tokyo|InfoSphere|
+|2|47.239.131.122|4000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|27.79.174.216|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|13|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|14|207.166.178.163|3128|Singapore|Singapore|BYTEPLUS|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|18|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|19|147.45.230.230|3128|The Netherlands|Amsterdam|Timeweb, LLP|
+|20|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
 
 
 
