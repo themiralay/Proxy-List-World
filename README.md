@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.189.96|3127|Japan|Minato|NTT PC Communications, Inc.|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|58.186.92.202|16000|Vietnam|Hanoi|FPT Telecom Company|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|101.47.23.245|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
+|2|101.47.20.7|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
+|3|101.47.20.48|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|101.47.22.170|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|101.47.23.78|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
+|9|207.166.178.221|3128|Singapore|Singapore|BYTEPLUS|
+|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |12|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|13|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|27.71.131.169|16000|Vietnam|Hanoi|Viettel Group|
-|16|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|17|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
-|18|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|19|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|20|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|13|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
+|17|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|20|27.71.141.171|16000|Vietnam|Đưc Trọng|Viettel Group|
 
 
 
