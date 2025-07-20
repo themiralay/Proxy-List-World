@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.239.131.122|4000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|6|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|51.159.159.73|80|France|Paris|SCALEWAY|
-|12|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|14|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|15|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|16|185.185.71.105|3128|Russia|Pargolovo Tretye|SPRINTHOST.RU LLC|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|38.180.55.167|3128|Italy|Milan|M247 Europe SRL|
+|7|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|10|89.249.62.8|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|12|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|13|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
+|14|52.3.128.241|8888|United States|Ashburn|Amazon.com, Inc.|
+|15|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|16|191.97.20.74|999|Peru|Chiclayo|Integra Network Del Peru E.I.R.L.|
 |17|52.3.128.241|8888|United States|Ashburn|Amazon.com, Inc.|
-|18|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|19|52.3.128.241|8888|United States|Ashburn|Amazon.com, Inc.|
-|20|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|51.159.159.73|80|France|Paris|SCALEWAY|
+|20|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
 
 
 
