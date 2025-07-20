@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|140.227.61.201|3128|Japan|Tokyo|InfoSphere|
 |2|47.239.131.122|4000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|207.166.178.163|3128|Singapore|Singapore|BYTEPLUS|
-|4|207.166.177.27|3128|Singapore|Singapore|BYTEPLUS|
-|5|160.19.19.33|8080|Indonesia|Kediri|PT Indo Telemedia Solusi|
-|6|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|42.117.243.34|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 |8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|13|115.74.10.142|10009|Vietnam|Vũng Tàu|VIETELxdsl|
-|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|15|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|16|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|17|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|20|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|10|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
+|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|13|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|14|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
+|15|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|17|42.118.1.69|16000|Vietnam|Hanoi|FPT Telecom Company|
+|18|42.113.28.8|16000|Vietnam|Hanoi|FPT Telecom Company|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|207.166.177.27|3128|Singapore|Singapore|BYTEPLUS|
 
 
 
