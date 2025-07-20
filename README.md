@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|106.251.66.243|58541|South Korea|Gwanak-gu|LG DACOM Corporation|
+|1|27.79.134.69|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|27.76.190.134|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
 |3|47.239.131.122|4000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|27.79.199.26|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|207.166.178.163|3128|Singapore|Singapore|BYTEPLUS|
 |5|42.113.21.250|16000|Vietnam|Hanoi|FPT Telecom Company|
-|6|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|7|207.166.178.163|3128|Singapore|Singapore|BYTEPLUS|
-|8|1.53.67.206|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|9|116.111.122.171|10008|Vietnam|Hanoi|Viettel Corporation|
+|6|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|27.79.198.25|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |10|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|11|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|12|202.150.71.164|8080|Indonesia|Jakarta|PT.Mora Telematika Indonesia|
-|13|27.79.134.69|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|42.119.102.178|16000|Vietnam|Quận Hai|FPT Telecom Company|
-|15|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|16|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|17|27.79.199.64|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|27.71.130.8|16000|Vietnam|Bảo Lộc|Viettel Group|
-|19|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|12|27.79.199.26|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|42.119.102.178|16000|Vietnam|Quận Hai|FPT Telecom Company|
+|14|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|16|42.117.243.34|16000|Vietnam|Hanoi|FPT Telecom Company|
+|17|27.79.196.148|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|27.79.174.216|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
