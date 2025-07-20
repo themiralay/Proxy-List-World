@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.47.22.170|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
-|2|101.47.23.245|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|118.71.170.101|16000|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|27.79.174.216|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|101.47.20.48|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|101.47.23.245|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |8|101.47.23.78|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
-|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|15|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|16|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
-|17|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|18|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|19|101.47.20.48|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
-|20|95.47.239.65|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
+|9|171.228.157.170|2001|Vietnam|Hanoi|Viettel Corporation|
+|10|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|16|27.79.199.64|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
+|18|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|19|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|20|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
 
 
 
