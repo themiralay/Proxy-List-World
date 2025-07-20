@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.239.131.122|4000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|106.251.66.243|58541|South Korea|Gwanak-gu|LG DACOM Corporation|
-|3|207.166.178.163|3128|Singapore|Singapore|BYTEPLUS|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|27.71.130.8|16000|Vietnam|Bảo Lộc|Viettel Group|
-|6|42.119.102.178|16000|Vietnam|Quận Hai|FPT Telecom Company|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|27.71.131.169|16000|Vietnam|Hanoi|Viettel Group|
-|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|27.71.141.171|16000|Vietnam|Đưc Trọng|Viettel Group|
-|11|27.71.134.210|16000|Vietnam|Hanoi|Viettel Group|
-|12|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|13|207.166.177.27|3128|Singapore|Singapore|BYTEPLUS|
-|14|115.77.135.193|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|15|181.78.23.113|999|Colombia|Mompós|IFX Networks Argentina S.R.L|
-|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|20.222.242.186|3128|Japan|Tokyo|Microsoft Corporation|
-|18|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|19|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|20|27.79.196.88|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|47.239.131.122|4000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|207.166.177.27|3128|Singapore|Singapore|BYTEPLUS|
+|4|207.166.178.163|3128|Singapore|Singapore|BYTEPLUS|
+|5|116.111.122.171|10008|Vietnam|Hanoi|Viettel Corporation|
+|6|27.79.134.69|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|42.113.21.250|16000|Vietnam|Hanoi|FPT Telecom Company|
+|8|106.251.66.243|58541|South Korea|Gwanak-gu|LG DACOM Corporation|
+|9|42.119.102.178|16000|Vietnam|Quận Hai|FPT Telecom Company|
+|10|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|12|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|13|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
+|14|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
+|15|27.79.198.25|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|27.71.130.8|16000|Vietnam|Bảo Lộc|Viettel Group|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|20|27.79.199.64|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
