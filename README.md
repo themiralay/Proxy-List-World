@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75011** proxies at the latest update. Usable proxies are below.
+> Scraper found **75033** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35591|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35613|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|83|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38111|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|2|123.18.235.64|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|3|23.94.236.141|8080|United States|Los Angeles|HostPapa|
-|4|156.240.120.13|7788|Peru|Lima|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|172.98.201.190|3128|United States|Dallas|Centrilogic|
-|8|31.14.114.75|1081|Iran|Tehran|Afranet Co|
-|9|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|10|23.94.236.141|8080|United States|Los Angeles|HostPapa|
-|11|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|13|58.186.175.249|16000|Vietnam|Hanoi|FPT Telecom Company|
-|14|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|15|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
+|1|123.18.235.64|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|2|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|3|222.108.89.90|3128|South Korea|Guro-gu|Korea Telecom|
+|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
+|6|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
+|7|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|8|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|9|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|10|27.79.176.158|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|12|41.110.10.205|8888|Algeria|Birkhadem|Algerie Telecom|
+|13|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|14|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|15|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
 |16|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|17|27.79.171.49|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|19|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|20|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|17|113.22.48.9|16000|Vietnam|Hanoi|FPT Telecom Company|
+|18|85.206.93.105|8080|Lithuania|Kaunas|Telia Lietuva|
+|19|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|20|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
 
 
 
