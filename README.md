@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|2|27.71.141.171|16000|Vietnam|Đưc Trọng|Viettel Group|
-|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|181.78.3.133|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
-|9|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|10|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|43.130.57.74|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|15|41.110.10.205|8888|Algeria|Birkhadem|Algerie Telecom|
-|16|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|17|31.14.114.70|1081|Iran|Tehran|Afranet Co|
-|18|45.230.170.30|999|Venezuela|Caracas|Soluciones DCN Network C.A|
-|19|194.4.49.128|10808|France|Paris|PQ HOSTING PLUS S.R.L.|
-|20|103.125.18.66|8080|Indonesia|Jakarta|JAVAMEDIA|
+|1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|8|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|43.130.57.74|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|13|41.110.10.205|8888|Algeria|Birkhadem|Algerie Telecom|
+|14|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|15|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|16|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
+|17|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|19|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|20|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 
 
 
