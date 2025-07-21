@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|123.18.235.64|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|171.228.157.170|2001|Vietnam|Hanoi|Viettel Corporation|
-|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|2|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|123.18.235.64|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |7|34.122.129.214|3128|United States|Council Bluffs|Google LLC|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|27.71.141.171|16000|Vietnam|Đưc Trọng|Viettel Group|
+|8|101.51.46.206|8080|Thailand|Pak Chong|TOT Public Company Limited|
+|9|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
 |10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|11|110.136.144.94|8080|Indonesia|Bandung|PT. TELKOM INDONESIA|
-|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|101.51.46.206|8080|Thailand|Pak Chong|TOT Public Company Limited|
-|15|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|16|45.133.74.101|8888|Germany|Frankfurt am Main|Florian Kolb|
-|17|45.93.250.7|8888|Germany|Markdorf|Oliver Horscht is trading as "SYNLINQ"|
-|18|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|19|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|20|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|11|23.94.236.141|8080|United States|Los Angeles|HostPapa|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|14|45.93.250.7|8888|Germany|Markdorf|Oliver Horscht is trading as "SYNLINQ"|
+|15|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|16|181.23.238.171|3128|Argentina|Buenos Aires|Telefonica de Argentina|
+|17|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|18|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|19|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|20|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
 
 
 
