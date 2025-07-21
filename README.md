@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|4|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|5|14.34.180.21|38157|South Korea|Pyeongtaek-si|Korea Telecom|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|8|103.39.75.123|8080|Indonesia|Karanganyar|PT. GOLDEN NETWORK NUSANTARA|
-|9|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|12|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|13|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|14|8.243.97.158|999|Peru|Tambobamba|CTL Peru|
-|15|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
-|18|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|19|85.206.93.105|8080|Lithuania|Kaunas|Telia Lietuva|
-|20|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|2|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|5|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|41.110.10.205|8888|Algeria|Birkhadem|Algerie Telecom|
+|10|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|11|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|12|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
+|13|164.163.42.43|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|16|177.53.155.204|999|Peru|Lima|Moreno Yanoc Nemias Bernardo|
+|17|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|18|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|19|27.71.141.171|16000|Vietnam|Đưc Trọng|Viettel Group|
+|20|31.14.114.75|1081|Iran|Tehran|Afranet Co|
 
 
 
