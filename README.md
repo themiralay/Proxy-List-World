@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|3|139.162.29.116|8888|Singapore|Singapore|LINODE|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 |4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|103.131.19.45|8080|Indonesia|Batang|PT Global Media Data Prima|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|9|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|10|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|11|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
-|12|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|13|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|41.110.10.205|8888|Algeria|Birkhadem|Algerie Telecom|
-|16|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|17|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|18|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|19|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|20|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|27.71.141.171|16000|Vietnam|Đưc Trọng|Viettel Group|
+|7|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|8|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|11|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|12|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|13|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|14|38.41.1.76|999|Venezuela|Caracas|MDS TELECOM C.A.|
+|15|93.190.138.107|46182|The Netherlands|Naaldwijk|WorldStream B.V.|
+|16|160.187.174.186|8080|Indonesia|Deli Serdang|PT Netindo Persada Nusantara|
+|17|96.93.124.209|31060|United States|Seattle|Comcast Cable Communications, LLC|
+|18|37.27.253.44|8031|Finland|Helsinki|Hetzner Online GmbH|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|20|49.49.94.125|8888|Thailand|Mukdahan|Triple T Broadband Public Company Limited|
 
 
 
