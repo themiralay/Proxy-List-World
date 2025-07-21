@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|34.122.129.214|3128|United States|Council Bluffs|Google LLC|
-|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|34.122.129.214|3128|United States|Council Bluffs|Google LLC|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|11|59.29.182.162|8888|South Korea|Wŏnju|Korea Telecom|
 |12|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|13|45.93.250.7|8888|Germany|Markdorf|Oliver Horscht is trading as "SYNLINQ"|
-|14|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|13|42.113.20.100|16000|Vietnam|Hanoi|FPT Telecom Company|
+|14|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |15|207.180.192.43|8118|France|Lauterbourg|Contabo GmbH|
-|16|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|17|23.94.236.141|8080|United States|Los Angeles|HostPapa|
-|18|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|19|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|17|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|18|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|19|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|20|42.117.243.39|16000|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
