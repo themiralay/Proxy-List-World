@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|207.166.176.115|3128|Singapore|Singapore|BYTEPLUS|
-|2|207.166.178.216|3128|Singapore|Singapore|BYTEPLUS|
-|3|207.166.178.207|3128|Singapore|Singapore|BYTEPLUS|
-|4|207.166.177.138|3128|Singapore|Singapore|BYTEPLUS|
-|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|6|207.166.178.54|3128|Singapore|Singapore|BYTEPLUS|
-|7|207.166.178.131|3128|Singapore|Singapore|BYTEPLUS|
-|8|207.166.178.225|3128|Singapore|Singapore|BYTEPLUS|
-|9|207.166.178.24|3128|Singapore|Singapore|BYTEPLUS|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|12|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|13|101.47.23.245|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
-|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|1|207.166.178.216|3128|Singapore|Singapore|BYTEPLUS|
+|2|207.166.178.207|3128|Singapore|Singapore|BYTEPLUS|
+|3|101.47.23.245|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
+|4|101.47.22.170|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|207.166.178.24|3128|Singapore|Singapore|BYTEPLUS|
+|6|207.166.178.131|3128|Singapore|Singapore|BYTEPLUS|
+|7|207.166.176.115|3128|Singapore|Singapore|BYTEPLUS|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|207.166.178.54|3128|Singapore|Singapore|BYTEPLUS|
+|10|101.47.20.48|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
+|11|207.166.177.138|3128|Singapore|Singapore|BYTEPLUS|
+|12|207.166.178.225|3128|Singapore|Singapore|BYTEPLUS|
+|13|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |15|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|16|103.247.23.119|8080|Indonesia|Wonosobo|PT wifian Solution|
-|17|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|16|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|17|66.211.155.34|8080|United States|Nashua|FirstLight Fiber|
+|18|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
 |19|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
