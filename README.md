@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|34.122.129.214|3128|United States|Council Bluffs|Google LLC|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|34.122.129.214|3128|United States|Council Bluffs|Google LLC|
+|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|7|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|8|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|9|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|7|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|42.118.74.163|16000|Vietnam|Hanoi|FPT Telecom Company|
+|9|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|10|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
 |11|45.93.250.7|8888|Germany|Markdorf|Oliver Horscht is trading as "SYNLINQ"|
-|12|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|13|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|14|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|15|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|16|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|17|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|34.122.129.214|3128|United States|Council Bluffs|Google LLC|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|208.102.24.225|8888|United States|Harrison|Fuse Internet Access|
+|13|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|15|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|16|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|17|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|18|34.122.129.214|3128|United States|Council Bluffs|Google LLC|
+|19|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
+|20|27.71.136.169|16000|Vietnam|Hanoi|Viettel Group|
 
 
 
