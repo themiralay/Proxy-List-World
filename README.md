@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|103.22.99.26|8080|Indonesia|Magetan|KHALISTAGROUP|
-|7|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|9|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|10|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|11|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|12|103.203.234.103|8080|Indonesia|Weleri|PT Nesta Indo Media|
-|13|41.110.10.205|8888|Algeria|Birkhadem|Algerie Telecom|
-|14|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|15|103.141.66.78|96|Bangladesh|Dhaka|Link3 Technologies Limited|
-|16|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|17|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
-|18|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|19|41.57.182.18|6060|South Africa|Centurion|FTH SCR P20|
-|20|49.0.33.133|27039|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
+|1|27.71.131.169|16000|Vietnam|Hanoi|Viettel Group|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
+|8|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|11|80.64.24.80|8080|Russia|St Petersburg|SPRINTHOST.RU LLC|
+|12|41.110.10.205|8888|Algeria|Birkhadem|Algerie Telecom|
+|13|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|15|31.14.114.72|1081|Iran|Tehran|Afranet Co|
+|16|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|17|93.190.138.107|46182|The Netherlands|Naaldwijk|WorldStream B.V.|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|19|164.163.42.56|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
