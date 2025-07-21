@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|4|14.241.133.207|8080|Vietnam|Đồng Nai Province|VNPT|
-|5|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|41.110.10.205|8888|Algeria|Birkhadem|Algerie Telecom|
-|9|37.32.40.253|8080|Iran|Ahvaz|Toloe Rayaneh Loghman Educational and Cultural Co.|
-|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|85.206.93.105|8080|Lithuania|Kaunas|Telia Lietuva|
-|14|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
-|15|185.111.165.148|8080|Ukraine|Shchyolkino|Comfort XXI Century Ltd.|
-|16|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|17|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|18|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|103.220.23.213|7777|Indonesia|Ponorogo|CV. LINTAS MEDIA|
+|1|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|2|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|3|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|5|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|8|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
+|9|41.110.10.205|8888|Algeria|Birkhadem|Algerie Telecom|
+|10|37.32.40.253|8080|Iran|Ahvaz|Toloe Rayaneh Loghman Educational and Cultural Co.|
+|11|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|12|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|13|164.163.42.43|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|37.27.253.44|8063|Finland|Helsinki|Hetzner Online GmbH|
+|15|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|16|194.4.49.128|10808|France|Paris|PQ HOSTING PLUS S.R.L.|
+|17|23.94.236.141|8080|United States|Los Angeles|HostPapa|
+|18|44.203.211.184|3128|United States|Ashburn|Amazon.com|
+|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
