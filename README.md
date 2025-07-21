@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|6|47.239.131.122|4000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|8|207.166.178.54|3128|Singapore|Singapore|BYTEPLUS|
-|9|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|10|101.47.23.245|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
+|1|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|3|47.239.131.122|4000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|5|101.47.23.245|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
+|6|101.47.20.48|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
+|7|207.166.177.138|3128|Singapore|Singapore|BYTEPLUS|
+|8|207.166.178.216|3128|Singapore|Singapore|BYTEPLUS|
+|9|207.166.178.207|3128|Singapore|Singapore|BYTEPLUS|
+|10|207.166.178.54|3128|Singapore|Singapore|BYTEPLUS|
 |11|207.166.178.225|3128|Singapore|Singapore|BYTEPLUS|
-|12|101.47.20.48|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
-|13|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|14|207.166.178.207|3128|Singapore|Singapore|BYTEPLUS|
-|15|207.166.177.138|3128|Singapore|Singapore|BYTEPLUS|
-|16|101.47.22.170|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
-|17|101.47.20.7|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
-|18|207.166.178.24|3128|Singapore|Singapore|BYTEPLUS|
-|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|20|207.166.176.115|3128|Singapore|Singapore|BYTEPLUS|
+|12|101.47.20.7|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
+|13|207.166.178.131|3128|Singapore|Singapore|BYTEPLUS|
+|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|15|207.166.176.115|3128|Singapore|Singapore|BYTEPLUS|
+|16|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|19|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|20|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
 
 
 
