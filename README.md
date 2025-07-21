@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|31.57.178.98|8080|Indonesia|Jakarta|PT Perwira Media Solusi|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|5|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|9|23.94.67.161|8080|Ireland|Rathgar|HostPapa|
+|1|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|2|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|3|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
+|4|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|5|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|6|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|31.57.178.98|8080|Indonesia|Jakarta|PT Perwira Media Solusi|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
 |10|41.110.10.205|8888|Algeria|Birkhadem|Algerie Telecom|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|23.94.67.161|8080|Ireland|Rathgar|HostPapa|
+|12|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|13|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
 |14|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|15|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|16|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|17|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|18|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|20|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|15|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|17|27.71.131.169|16000|Vietnam|Hanoi|Viettel Group|
+|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|19|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
+|20|147.75.34.74|10019|The Netherlands|Amsterdam|Packet Host, Inc.|
 
 
 
