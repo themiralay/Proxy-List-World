@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |3|23.94.236.141|8080|United States|Los Angeles|HostPapa|
-|4|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|8|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|45.93.250.7|8888|Germany|Markdorf|Oliver Horscht is trading as "SYNLINQ"|
-|10|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|15|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
-|16|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|17|190.15.194.72|8080|Argentina|Mendoza|Informática y Telecomunicaciones S.A.|
-|18|45.4.148.90|8080|Brazil|Surubim|Fausto Silva de Almeida Servi?os - ME|
-|19|202.47.185.2|8080|Indonesia|Selong|PT Putra Garsel Interkoneksi|
-|20|1.55.250.152|16000|Vietnam|Hanoi|FPT Telecom Company|
+|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|194.4.49.128|10808|France|Paris|PQ HOSTING PLUS S.R.L.|
+|11|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|12|58.186.175.249|16000|Vietnam|Hanoi|FPT Telecom Company|
+|13|27.71.138.207|16000|Vietnam|Bảo Lộc|Viettel Group|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|45.93.250.7|8888|Germany|Markdorf|Oliver Horscht is trading as "SYNLINQ"|
+|16|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|80.211.202.138|8118|Czechia|Prague|INTERNET CZ, a.s.|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
 
 
 
