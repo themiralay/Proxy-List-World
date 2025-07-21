@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|27.71.141.171|16000|Vietnam|Đưc Trọng|Viettel Group|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|27.79.174.231|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|80.64.24.80|8080|Russia|St Petersburg|SPRINTHOST.RU LLC|
-|10|41.110.10.205|8888|Algeria|Birkhadem|Algerie Telecom|
-|11|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|12|27.76.190.134|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|13|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|14|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|17|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|190.119.90.114|8080|Peru|Santiago|America Movil Peru S.A.C.|
-|20|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|8|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|11|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|13|80.64.24.80|8080|Russia|St Petersburg|SPRINTHOST.RU LLC|
+|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|15|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|16|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|17|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|20|58.8.255.141|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
 
 
 
