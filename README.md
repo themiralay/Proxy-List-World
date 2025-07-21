@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|4|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|5|202.93.247.51|3128|Indonesia|Wedoro|PT. Dutakom Wibawa Putra|
-|6|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|7|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|10|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|11|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|12|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|13|123.18.235.64|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|14|103.122.1.130|8080|Indonesia|Kabupaten Ogan Komering Ilir|PT. Java Digital Nusantara|
-|15|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|16|208.102.24.225|8888|United States|Harrison|Fuse Internet Access|
-|17|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|18|27.71.138.207|16000|Vietnam|Bảo Lộc|Viettel Group|
-|19|134.236.31.141|8080|Thailand|Bangkok|CAT-BB|
+|1|123.18.235.64|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|2|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|118.71.120.46|16000|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|5|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|6|23.94.236.141|8080|United States|Los Angeles|HostPapa|
+|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|185.155.99.114|8118|Estonia|Narva|RJ Network OU|
+|9|222.108.89.90|3128|South Korea|Guro-gu|Korea Telecom|
+|10|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|11|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|12|171.4.196.106|8080|Thailand|Rayong|Triple T Broadband Public Company Limited|
+|13|103.160.179.36|8888|Indonesia|Yogyakarta|PT Infonet Nusa Solusindo|
+|14|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|15|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
+|16|41.110.10.205|8888|Algeria|Birkhadem|Algerie Telecom|
+|17|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|18|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|19|182.53.23.65|8080|Thailand|Si Racha|TOT Public Company Limited|
 |20|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
 
 
