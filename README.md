@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.108.89.90|3128|South Korea|Guro-gu|Korea Telecom|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|123.18.235.64|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |4|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|5|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|6|103.165.155.195|8080|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
-|7|223.206.209.192|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|10|27.79.176.158|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|12|45.93.250.7|8888|Germany|Markdorf|Oliver Horscht is trading as "SYNLINQ"|
-|13|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|14|49.147.96.47|8080|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|15|156.240.120.13|7788|Peru|Lima|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|16|23.94.236.141|8080|United States|Los Angeles|HostPapa|
-|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|19|42.117.243.39|16000|Vietnam|Hanoi|FPT Telecom Company|
-|20|27.79.201.111|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|44.203.211.184|3128|United States|Ashburn|Amazon.com|
+|6|34.30.76.108|3128|United States|Council Bluffs|Google LLC|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|41.110.10.205|8888|Algeria|Birkhadem|Algerie Telecom|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|177.53.155.204|999|Peru|Lima|Moreno Yanoc Nemias Bernardo|
+|13|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|14|47.236.37.129|18081|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|19|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|20|157.15.82.118|8080|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
 
 
 
