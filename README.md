@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|2|222.108.89.90|3128|South Korea|Guro-gu|Korea Telecom|
-|3|49.147.96.47|8080|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|4|123.18.235.64|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|5|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|9|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|10|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|11|42.113.54.49|16000|Vietnam|Hanoi|FPT Telecom Company|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|1.55.250.152|16000|Vietnam|Hanoi|FPT Telecom Company|
-|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|17|45.93.250.7|8888|Germany|Markdorf|Oliver Horscht is trading as "SYNLINQ"|
-|18|23.94.236.141|8080|United States|Los Angeles|HostPapa|
-|19|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|20|42.118.0.170|16000|Vietnam|Hanoi|FPT Telecom Company|
+|1|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|4|140.245.220.37|1080|India|Hyderabad|Oracle Corporation|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|10|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
+|11|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|12|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|13|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|14|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|15|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|44.203.211.184|3128|United States|Ashburn|Amazon.com|
+|17|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|19|1.54.69.14|16000|Vietnam|Hanoi|FPT Telecom Company|
+|20|123.18.235.64|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
 
 
 
