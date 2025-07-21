@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|3|47.239.131.122|4000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|5|207.166.178.54|3128|Singapore|Singapore|BYTEPLUS|
-|6|207.166.178.24|3128|Singapore|Singapore|BYTEPLUS|
-|7|207.166.178.216|3128|Singapore|Singapore|BYTEPLUS|
-|8|207.166.178.207|3128|Singapore|Singapore|BYTEPLUS|
-|9|101.47.20.48|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
-|10|101.47.23.245|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
-|11|101.47.22.170|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
-|12|207.166.176.115|3128|Singapore|Singapore|BYTEPLUS|
-|13|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|14|207.166.178.131|3128|Singapore|Singapore|BYTEPLUS|
-|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|207.166.177.138|3128|Singapore|Singapore|BYTEPLUS|
-|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|18|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|20|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|47.239.131.122|4000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|207.166.178.24|3128|Singapore|Singapore|BYTEPLUS|
+|3|207.166.178.131|3128|Singapore|Singapore|BYTEPLUS|
+|4|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|5|207.166.176.115|3128|Singapore|Singapore|BYTEPLUS|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|160.25.245.8|8080|Indonesia|Ngawi|PT Jaringan Kita Bersama|
+|13|27.71.131.169|16000|Vietnam|Hanoi|Viettel Group|
+|14|122.52.185.72|8080|Philippines|Lañgub|Philippine Long Distance Telephone Co.|
+|15|103.174.236.88|8080|Indonesia|Karangampel|PT Global Erasiber Teknologi|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
+|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|27.76.190.134|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|20|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
 
 
 
