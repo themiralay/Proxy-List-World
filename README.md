@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|2|34.122.129.214|3128|United States|Council Bluffs|Google LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|9|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|34.122.129.214|3128|United States|Council Bluffs|Google LLC|
+|7|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|11|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
 |12|45.133.74.101|8888|Germany|Frankfurt am Main|Florian Kolb|
-|13|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|14|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|15|23.94.236.141|8080|United States|Los Angeles|HostPapa|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|34.122.129.214|3128|United States|Council Bluffs|Google LLC|
-|18|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|19|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|20|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|13|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|14|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|34.122.129.214|3128|United States|Council Bluffs|Google LLC|
+|17|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|18|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|19|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|20|103.132.52.32|8080|Indonesia|Buaran|PT Adeaksa Indo Jayatama|
 
 
 
