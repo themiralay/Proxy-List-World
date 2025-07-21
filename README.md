@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
 |2|123.18.235.64|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|103.80.214.106|8080|Indonesia|Sidoarjo|PT Redi Revolusi Digital Solusi|
-|5|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|6|156.240.120.13|7788|Peru|Lima|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|7|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|38.46.235.3|8088|Indonesia|Boyolali|PT CYB Media Group|
-|10|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|11|59.29.182.162|8888|South Korea|Wŏnju|Korea Telecom|
-|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|14|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|15|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|16|27.71.141.171|16000|Vietnam|Đưc Trọng|Viettel Group|
-|17|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|18|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
-|19|27.71.138.207|16000|Vietnam|Bảo Lộc|Viettel Group|
-|20|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|3|23.94.236.141|8080|United States|Los Angeles|HostPapa|
+|4|156.240.120.13|7788|Peru|Lima|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|172.98.201.190|3128|United States|Dallas|Centrilogic|
+|8|31.14.114.75|1081|Iran|Tehran|Afranet Co|
+|9|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|10|23.94.236.141|8080|United States|Los Angeles|HostPapa|
+|11|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|13|58.186.175.249|16000|Vietnam|Hanoi|FPT Telecom Company|
+|14|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
+|15|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
+|16|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|17|27.79.171.49|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|19|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|20|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
 
 
 
