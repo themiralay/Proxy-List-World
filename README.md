@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|123.18.235.64|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|2|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|3|222.108.89.90|3128|South Korea|Guro-gu|Korea Telecom|
-|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
-|6|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
-|7|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|8|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|9|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|10|27.79.176.158|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|12|41.110.10.205|8888|Algeria|Birkhadem|Algerie Telecom|
-|13|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|14|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|15|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|16|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|17|113.22.48.9|16000|Vietnam|Hanoi|FPT Telecom Company|
-|18|85.206.93.105|8080|Lithuania|Kaunas|Telia Lietuva|
-|19|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|20|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|1|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|123.18.235.64|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|4|202.93.247.51|3128|Indonesia|Wedoro|PT. Dutakom Wibawa Putra|
+|5|171.4.196.106|8080|Thailand|Rayong|Triple T Broadband Public Company Limited|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|8|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|11|41.110.10.205|8888|Algeria|Birkhadem|Algerie Telecom|
+|12|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|13|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|14|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
+|15|170.106.72.33|8118|United States|Santa Clara|Tencent Cloud Computing (Beijing) Co|
+|16|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|17|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|18|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|19|103.133.61.221|8181|Indonesia|Surabaya|TLINK|
+|20|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
 
 
 
