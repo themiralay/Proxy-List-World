@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|2|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|3|123.18.235.64|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|4|118.71.120.46|16000|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|7|172.98.201.190|3128|United States|Dallas|Centrilogic|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|10|45.93.250.7|8888|Germany|Markdorf|Oliver Horscht is trading as "SYNLINQ"|
-|11|27.71.131.169|16000|Vietnam|Hanoi|Viettel Group|
-|12|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
-|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|27.71.141.171|16000|Vietnam|Đưc Trọng|Viettel Group|
-|15|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|16|58.186.48.215|16000|Vietnam|Hanoi|FPT Telecom Company|
-|17|41.110.10.205|8888|Algeria|Birkhadem|Algerie Telecom|
-|18|31.14.114.70|1081|Iran|Tehran|Afranet Co|
-|19|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|20|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|1|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|2|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|3|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|4|123.18.235.64|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|5|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|45.93.250.7|8888|Germany|Markdorf|Oliver Horscht is trading as "SYNLINQ"|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|10|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|11|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|12|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|13|37.27.253.44|8014|Finland|Helsinki|Hetzner Online GmbH|
+|14|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|15|42.118.0.170|16000|Vietnam|Hanoi|FPT Telecom Company|
+|16|177.74.252.105|3128|Brazil|Itapema|UNIFIQUE TELECOMUNICACOES S/A|
+|17|208.102.24.225|8888|United States|Harrison|Fuse Internet Access|
+|18|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|19|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|20|45.230.170.30|999|Venezuela|Caracas|Soluciones DCN Network C.A|
 
 
 
