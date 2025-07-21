@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|34.122.129.214|3128|United States|Council Bluffs|Google LLC|
 |3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|34.122.129.214|3128|United States|Council Bluffs|Google LLC|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|8|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|9|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|10|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|11|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|13|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|14|45.133.74.101|8888|Germany|Frankfurt am Main|Florian Kolb|
-|15|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|34.122.129.214|3128|United States|Council Bluffs|Google LLC|
-|18|115.77.136.75|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|19|116.103.130.39|1002|Vietnam|Buon Ma Thuot|Viettel Corporation|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|12|34.122.129.214|3128|United States|Council Bluffs|Google LLC|
+|13|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|14|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|15|59.29.182.162|8888|South Korea|Wŏnju|Korea Telecom|
+|16|113.22.224.68|16000|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|17|45.133.74.101|8888|Germany|Frankfurt am Main|Florian Kolb|
+|18|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |20|208.102.24.225|8888|United States|Harrison|Fuse Internet Access|
 
 
