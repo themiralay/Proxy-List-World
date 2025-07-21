@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|3|203.175.127.240|8080|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
-|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|4|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|9|51.159.107.202|8118|France|Paris|SCALEWAY|
-|10|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|11|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|12|27.71.141.171|16000|Vietnam|Đưc Trọng|Viettel Group|
-|13|31.14.114.70|1081|Iran|Tehran|Afranet Co|
-|14|41.110.10.205|8888|Algeria|Birkhadem|Algerie Telecom|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|17|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|18|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|164.163.42.43|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|9|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|10|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|11|27.76.190.134|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|12|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|13|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
+|14|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
+|15|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|16|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
+|17|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
+|18|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|19|23.94.236.141|8080|United States|Los Angeles|HostPapa|
+|20|203.111.253.106|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
 
 
 
