@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **39390** proxies at the latest update. Usable proxies are below.
+> Scraper found **74928** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35538|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|53|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38111|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|58.187.71.181|16000|Vietnam|Hanoi|FPT Telecom Company|
-|2|42.118.74.163|16000|Vietnam|Hanoi|FPT Telecom Company|
-|3|27.79.249.92|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|27.79.171.49|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|113.22.250.64|16000|Vietnam|Hanoi|FPT Telecom Company|
-|6|118.71.120.46|16000|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|42.113.21.200|16000|Vietnam|Hanoi|FPT Telecom Company|
-|9|123.18.235.64|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|10|27.79.176.158|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|12|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|180.180.13.136|8080|Thailand|Chon Buri|TOT Public Company Limited|
-|16|27.71.128.157|16000|Vietnam|Hanoi|Viettel Group|
-|17|42.113.54.49|16000|Vietnam|Hanoi|FPT Telecom Company|
-|18|51.159.107.202|8118|France|Paris|SCALEWAY|
-|19|45.93.250.7|8888|Germany|Markdorf|Oliver Horscht is trading as "SYNLINQ"|
-|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|14.167.123.241|8080|Vietnam|Haiphong|VNPT-VNNIC|
+|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|180.180.155.178|8080|Thailand|Pattani|TOT Public Company Limited|
+|6|64.225.30.15|3128|United States|Clifton|DigitalOcean, LLC|
+|7|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|8|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|10|45.93.250.7|8888|Germany|Markdorf|Oliver Horscht is trading as "SYNLINQ"|
+|11|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|14|27.71.128.157|16000|Vietnam|Hanoi|Viettel Group|
+|15|123.18.235.64|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|16|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
+|17|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|18|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|19|31.14.114.77|1081|Iran|Tehran|Afranet Co|
+|20|41.110.10.205|8888|Algeria|Birkhadem|Algerie Telecom|
 
 
 
