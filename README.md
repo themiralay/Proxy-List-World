@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|123.18.235.64|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|3|34.122.129.214|3128|United States|Council Bluffs|Google LLC|
-|4|181.78.112.41|999|Costa Rica|San José|Ufinet Panama S.A.|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|7|23.94.236.141|8080|United States|Los Angeles|HostPapa|
-|8|45.189.116.243|999|Peru|Lima|Conex TV E.I.R.L|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|103.247.22.112|4317|Indonesia|Cikarang|PT wifian Solution|
-|11|38.9.141.63|8080|Indonesia|Medan|Cogent Communications|
-|12|38.52.209.9|999|Guatemala|Mataquescuintla|CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
-|13|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|14|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|17|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|42.113.20.100|16000|Vietnam|Hanoi|FPT Telecom Company|
-|20|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|1|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|3|157.66.16.36|5568|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|4|34.122.129.214|3128|United States|Council Bluffs|Google LLC|
+|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|123.18.235.64|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|23.94.236.141|8080|United States|Los Angeles|HostPapa|
+|12|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|13|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|14|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|15|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|16|152.53.194.46|8084|United States|Manassas|netcup GmbH|
+|17|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|84.36.39.222|1976|Egypt|Cairo|EgyNet Network|
+|19|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|20|171.7.119.204|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
 
 
 
