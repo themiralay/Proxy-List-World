@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.47.20.7|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
-|2|101.47.23.245|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
+|1|101.47.23.245|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
+|2|47.239.131.122|4000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|207.166.178.54|3128|Singapore|Singapore|BYTEPLUS|
-|4|207.166.178.131|3128|Singapore|Singapore|BYTEPLUS|
-|5|207.166.178.225|3128|Singapore|Singapore|BYTEPLUS|
+|4|101.47.20.7|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
+|5|207.166.177.138|3128|Singapore|Singapore|BYTEPLUS|
 |6|101.47.22.170|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
-|7|207.166.178.207|3128|Singapore|Singapore|BYTEPLUS|
-|8|207.166.178.216|3128|Singapore|Singapore|BYTEPLUS|
-|9|207.166.177.138|3128|Singapore|Singapore|BYTEPLUS|
-|10|207.166.178.24|3128|Singapore|Singapore|BYTEPLUS|
+|7|207.166.178.216|3128|Singapore|Singapore|BYTEPLUS|
+|8|207.166.178.131|3128|Singapore|Singapore|BYTEPLUS|
+|9|207.166.178.207|3128|Singapore|Singapore|BYTEPLUS|
+|10|207.166.178.225|3128|Singapore|Singapore|BYTEPLUS|
 |11|207.166.176.115|3128|Singapore|Singapore|BYTEPLUS|
-|12|27.71.131.169|16000|Vietnam|Hanoi|Viettel Group|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|14|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|15|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|16|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|17|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|207.166.178.24|3128|Singapore|Singapore|BYTEPLUS|
+|13|101.47.20.48|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
+|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|15|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|16|182.253.109.224|8080|Indonesia|Ketanggi|Biznet Metronet|
+|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|18|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 |19|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|20|182.253.109.224|8080|Indonesia|Ketanggi|Biznet Metronet|
+|20|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
