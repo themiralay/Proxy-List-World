@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|161.34.66.94|4649|Japan|Minamishinagawa|NTT PC Communications, Inc.|
 |2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|59.29.182.162|8888|South Korea|Wŏnju|Korea Telecom|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|45.133.74.101|8888|Germany|Frankfurt am Main|Florian Kolb|
-|12|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
-|13|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|14|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|208.102.24.225|8888|United States|Harrison|Fuse Internet Access|
-|17|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|18|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|19|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|20|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|7|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|8|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|12|27.71.138.207|16000|Vietnam|Bảo Lộc|Viettel Group|
+|13|45.133.74.101|8888|Germany|Frankfurt am Main|Florian Kolb|
+|14|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|15|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|16|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|17|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|18|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|19|103.56.205.84|8080|Indonesia|Jakarta|Argon Data Communication|
+|20|58.186.175.249|16000|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
