@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|27.71.141.171|16000|Vietnam|Đưc Trọng|Viettel Group|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|3|103.176.96.114|8085|Indonesia|Gombong|PT Global Sarana Elektronika|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|6|27.79.174.231|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 |8|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|9|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|41.110.10.205|8888|Algeria|Birkhadem|Algerie Telecom|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|15|27.76.190.134|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|16|58.8.255.141|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|17|31.14.114.75|1081|Iran|Tehran|Afranet Co|
+|9|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|10|47.236.37.129|18081|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|41.110.10.205|8888|Algeria|Birkhadem|Algerie Telecom|
+|14|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|15|27.71.131.169|16000|Vietnam|Hanoi|Viettel Group|
+|16|152.53.194.46|8064|United States|Manassas|netcup GmbH|
+|17|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
 |18|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|19|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|20|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|19|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|20|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
 
 
 
