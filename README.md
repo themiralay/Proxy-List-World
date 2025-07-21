@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.34.66.94|4649|Japan|Minamishinagawa|NTT PC Communications, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|4|34.122.129.214|3128|United States|Council Bluffs|Google LLC|
-|5|34.122.129.214|3128|United States|Council Bluffs|Google LLC|
-|6|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|7|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|9|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|12|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|13|37.32.40.253|8080|Iran|Ahvaz|Toloe Rayaneh Loghman Educational and Cultural Co.|
-|14|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|15|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|16|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|17|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|18|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|20|124.83.109.53|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|161.34.66.94|4649|Japan|Minamishinagawa|NTT PC Communications, Inc.|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|34.122.129.214|3128|United States|Council Bluffs|Google LLC|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|34.122.129.214|3128|United States|Council Bluffs|Google LLC|
+|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|12|194.4.49.128|10808|France|Paris|PQ HOSTING PLUS S.R.L.|
+|13|103.247.23.53|4317|Indonesia|Wonosobo|PT wifian Solution|
+|14|65.38.213.154|8881|Puerto Rico|San Juan|AT&T Mobility Puerto Rico|
+|15|208.102.24.225|8888|United States|Harrison|Fuse Internet Access|
+|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|59.29.182.162|8888|South Korea|Wŏnju|Korea Telecom|
+|20|115.77.136.75|10001|Vietnam|Ho Chi Minh City|Viettel Group|
 
 
 
