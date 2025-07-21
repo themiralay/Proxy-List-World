@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.248.189.95|3127|Japan|Minato|NTT PC Communications, Inc.|
-|2|47.239.131.122|4000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|207.166.178.207|3128|Singapore|Singapore|BYTEPLUS|
-|4|101.47.23.245|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
-|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|207.166.177.138|3128|Singapore|Singapore|BYTEPLUS|
-|7|207.166.178.225|3128|Singapore|Singapore|BYTEPLUS|
-|8|207.166.178.131|3128|Singapore|Singapore|BYTEPLUS|
-|9|207.166.176.115|3128|Singapore|Singapore|BYTEPLUS|
-|10|207.166.178.54|3128|Singapore|Singapore|BYTEPLUS|
-|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|1|47.239.131.122|4000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|101.47.23.245|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
+|3|207.166.177.138|3128|Singapore|Singapore|BYTEPLUS|
+|4|207.166.178.225|3128|Singapore|Singapore|BYTEPLUS|
+|5|207.166.176.115|3128|Singapore|Singapore|BYTEPLUS|
+|6|207.166.178.24|3128|Singapore|Singapore|BYTEPLUS|
+|7|207.166.178.131|3128|Singapore|Singapore|BYTEPLUS|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|103.175.46.13|8080|Indonesia|Arjawinangun|PT Internet Keluarga Indonesia|
+|10|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
+|11|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
 |12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|18|207.166.178.24|3128|Singapore|Singapore|BYTEPLUS|
-|19|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|20|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|14|207.166.178.207|3128|Singapore|Singapore|BYTEPLUS|
+|15|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|16|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
+|17|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|19|207.166.178.54|3128|Singapore|Singapore|BYTEPLUS|
+|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
