@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|47.239.131.122|4000|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|207.166.178.54|3128|Singapore|Singapore|BYTEPLUS|
-|3|101.47.20.48|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
-|4|207.166.178.225|3128|Singapore|Singapore|BYTEPLUS|
-|5|101.47.23.245|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
-|6|207.166.178.24|3128|Singapore|Singapore|BYTEPLUS|
-|7|207.166.176.115|3128|Singapore|Singapore|BYTEPLUS|
-|8|207.166.178.131|3128|Singapore|Singapore|BYTEPLUS|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|27.71.141.171|16000|Vietnam|Đưc Trọng|Viettel Group|
-|11|160.25.245.8|8080|Indonesia|Ngawi|PT Jaringan Kita Bersama|
-|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|14|207.166.178.216|3128|Singapore|Singapore|BYTEPLUS|
-|15|207.166.178.207|3128|Singapore|Singapore|BYTEPLUS|
+|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|7|27.71.141.171|16000|Vietnam|Đưc Trọng|Viettel Group|
+|8|139.135.145.198|5050|Philippines|Pasig|ComClark Network & Technology Corp|
+|9|103.167.170.203|8080|Indonesia|Jakarta|PT Rajeg Media Telekomunikasi|
+|10|201.150.116.3|999|Mexico|Tetepango|Yesenia Ramirez Garcia|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|207.166.178.24|3128|Singapore|Singapore|BYTEPLUS|
+|13|101.47.22.170|3128|Singapore|Singapore|Byteplus Pte. Ltd.|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|41.110.10.205|8888|Algeria|Birkhadem|Algerie Telecom|
 |16|184.82.18.123|8080|Thailand|Chiang Mai|AIS-Fibre|
-|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|194.42.112.234|13999|Ukraine|Kyiv|CHP Shmatko Sergey Leonidovic|
-|19|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|20|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
+|17|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
+|18|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|19|207.166.178.131|3128|Singapore|Singapore|BYTEPLUS|
+|20|207.166.176.115|3128|Singapore|Singapore|BYTEPLUS|
 
 
 
