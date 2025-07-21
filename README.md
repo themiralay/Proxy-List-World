@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.94.236.141|8080|United States|Los Angeles|HostPapa|
-|2|59.29.182.162|8888|South Korea|Wŏnju|Korea Telecom|
-|3|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|4|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|34.122.129.214|3128|United States|Council Bluffs|Google LLC|
-|10|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|11|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|14|45.93.250.7|8888|Germany|Markdorf|Oliver Horscht is trading as "SYNLINQ"|
-|15|37.32.40.253|8080|Iran|Ahvaz|Toloe Rayaneh Loghman Educational and Cultural Co.|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|85.206.93.105|8080|Lithuania|Kaunas|Telia Lietuva|
-|18|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|19|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|20|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|1|139.180.138.188|5555|Singapore|Singapore|SGP VULTR|
+|2|34.122.129.214|3128|United States|Council Bluffs|Google LLC|
+|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|4|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|7|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|8|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|11|45.93.250.7|8888|Germany|Markdorf|Oliver Horscht is trading as "SYNLINQ"|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|101.51.46.206|8080|Thailand|Pak Chong|TOT Public Company Limited|
+|14|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|19|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|20|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
 
 
 
