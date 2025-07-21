@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|2|27.71.131.169|16000|Vietnam|Hanoi|Viettel Group|
-|3|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|4|27.71.141.171|16000|Vietnam|Đưc Trọng|Viettel Group|
-|5|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|8|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|9|41.110.10.205|8888|Algeria|Birkhadem|Algerie Telecom|
-|10|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
-|11|164.163.42.43|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|13|103.87.148.16|8085|Indonesia|Pundong|Lintas Data Prima, PT|
-|14|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|15|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|16|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|17|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|18|103.182.79.137|8085|Indonesia|Dlemmer|PT Cybernet Data Multimedia|
-|19|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
-|20|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|7|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|8|23.94.236.141|8080|United States|Los Angeles|HostPapa|
+|9|80.64.24.80|8080|Russia|St Petersburg|SPRINTHOST.RU LLC|
+|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|13|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|14|31.14.114.75|1081|Iran|Tehran|Afranet Co|
+|15|41.110.10.205|8888|Algeria|Birkhadem|Algerie Telecom|
+|16|164.163.42.43|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
+|18|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|19|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|20|103.39.75.123|8080|Indonesia|Karanganyar|PT. GOLDEN NETWORK NUSANTARA|
 
 
 
