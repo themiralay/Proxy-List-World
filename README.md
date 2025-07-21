@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|1|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|37.32.40.253|8080|Iran|Ahvaz|Toloe Rayaneh Loghman Educational and Cultural Co.|
-|8|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|9|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|10|41.110.10.205|8888|Algeria|Birkhadem|Algerie Telecom|
-|11|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|12|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|13|181.78.216.38|999|Paraguay|Concepción|Ufinet Paraguay S.A|
-|14|93.190.138.107|46182|The Netherlands|Naaldwijk|WorldStream B.V.|
-|15|14.224.183.185|8080|Vietnam|Hanoi|VNPT|
-|16|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|17|37.27.253.44|8035|Finland|Helsinki|Hetzner Online GmbH|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|106.225.148.45|655|China|Taohua|CHINANET Jiangx province IDC network|
-|20|49.49.94.125|8888|Thailand|Mukdahan|Triple T Broadband Public Company Limited|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|41.110.10.205|8888|Algeria|Birkhadem|Algerie Telecom|
+|9|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|13|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|14|222.127.55.155|8082|Philippines|Lahug|INNOVE|
+|15|152.53.194.46|8019|United States|Manassas|netcup GmbH|
+|16|192.203.0.22|999|Puerto Rico|Fajardo|Boom NET|
+|17|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
+|18|66.78.40.66|1080|United States|Liberty Lake|Aokigahara SRL|
+|19|103.111.119.34|8080|Indonesia|Kepatihan|PT Dimensi Jaringan Bersinar|
+|20|37.27.253.44|8035|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
