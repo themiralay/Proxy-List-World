@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|2|123.18.235.64|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|4|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|5|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|6|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
-|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|123.18.235.64|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|2|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
+|5|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|7|27.79.176.158|16000|Vietnam|Hanoi|Viettel Corporation|
 |8|45.93.250.7|8888|Germany|Markdorf|Oliver Horscht is trading as "SYNLINQ"|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|11|41.110.10.205|8888|Algeria|Birkhadem|Algerie Telecom|
-|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|13|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|14|27.71.138.207|16000|Vietnam|Bảo Lộc|Viettel Group|
-|15|208.102.24.225|8888|United States|Harrison|Fuse Internet Access|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|180.180.139.203|8080|Thailand|Bangkok|TOT Public Company Limited|
-|18|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|19|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|10|42.117.243.39|16000|Vietnam|Hanoi|FPT Telecom Company|
+|11|31.14.114.77|1081|Iran|Tehran|Afranet Co|
+|12|47.236.37.129|18081|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|23.94.236.141|8080|United States|Los Angeles|HostPapa|
+|14|27.71.131.169|16000|Vietnam|Hanoi|Viettel Group|
+|15|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|16|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|17|27.79.171.49|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|19|118.173.183.150|8081|Thailand|Ko Samui|TOT Public Company Limited|
+|20|42.113.20.100|16000|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
