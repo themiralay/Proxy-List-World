@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|3|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|5|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|154.57.15.155|8080|Greece|Athens|Novelcomm LP|
-|8|41.110.10.205|8888|Algeria|Birkhadem|Algerie Telecom|
-|9|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|27.79.174.231|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|13|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
-|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|15|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|7|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|10|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|11|41.110.10.205|8888|Algeria|Birkhadem|Algerie Telecom|
+|12|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|13|93.190.138.107|46182|The Netherlands|Naaldwijk|WorldStream B.V.|
+|14|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |16|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|17|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|18|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|19|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|20|85.206.93.105|8080|Lithuania|Kaunas|Telia Lietuva|
+|17|37.27.253.44|8095|Finland|Helsinki|Hetzner Online GmbH|
+|18|182.253.109.224|8080|Indonesia|Ketanggi|Biznet Metronet|
+|19|181.204.81.179|999|Colombia|Pereira|EPM Telecomunicaciones S.A. E.S.P.|
+|20|45.5.119.70|999|Guatemala|Guatemala City|Infinitum S.A.|
 
 
 
