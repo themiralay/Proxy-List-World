@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|2|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |3|27.71.141.171|16000|Vietnam|Đưc Trọng|Viettel Group|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|27.71.131.169|16000|Vietnam|Hanoi|Viettel Group|
-|6|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|7|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|8|41.110.10.205|8888|Algeria|Birkhadem|Algerie Telecom|
-|9|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
-|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|6|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|7|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|23.94.67.161|8080|Ireland|Rathgar|HostPapa|
+|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|10|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
 |11|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|12|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|13|23.94.67.161|8080|Ireland|Rathgar|HostPapa|
-|14|27.79.174.231|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|18|93.190.138.107|46182|The Netherlands|Naaldwijk|WorldStream B.V.|
-|19|37.27.253.44|8035|Finland|Helsinki|Hetzner Online GmbH|
-|20|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|12|27.71.131.169|16000|Vietnam|Hanoi|Viettel Group|
+|13|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|14|41.110.10.205|8888|Algeria|Birkhadem|Algerie Telecom|
+|15|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|16|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
+|17|154.57.15.155|8080|Greece|Athens|Novelcomm LP|
+|18|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|20|93.190.138.107|46182|The Netherlands|Naaldwijk|WorldStream B.V.|
 
 
 
