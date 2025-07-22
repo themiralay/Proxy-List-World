@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|133.186.229.93|3128|Japan|Chiyoda City|NHNCLOUD|
+|1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
 |2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|118.68.181.164|16000|Vietnam|Hanoi|FPT Telecom Company|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|103.191.165.9|8070|Indonesia|Subang|PT Sakti Wijaya Network|
-|8|103.73.193.130|8080|Indonesia|Serang|Fot PT Kihnabil.net|
-|9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|12|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|13|1.54.175.86|16000|Vietnam|Hanoi|FPT Telecom Company|
-|14|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
-|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
-|20|170.85.158.82|10005|United States|Reston|ZSCALER, INC.|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|103.247.22.33|4317|Indonesia|Cikarang|PT wifian Solution|
+|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|6|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|7|180.191.16.198|8082|Philippines|Cabanatuan City|Globe Telecom|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|10|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|11|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|12|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|118.68.181.164|16000|Vietnam|Hanoi|FPT Telecom Company|
+|16|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|17|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|18|103.175.231.96|10001|Indonesia|Cibinong|MYREPUBLIC|
+|19|85.131.243.125|3128|Japan|Chiyoda City|Xserver Inc.|
+|20|103.173.138.177|8080|Indonesia|Pulaupanggung|PT Serayu Multi Connection|
 
 
 
