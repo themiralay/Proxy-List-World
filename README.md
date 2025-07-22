@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|52.32.176.50|3128|United States|Portland|Amazon.com, Inc.|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|103.217.224.36|3127|Indonesia|Ungaran|PT Nesta Indo Media|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|44.207.6.57|3128|United States|Ashburn|Amazon.com|
-|7|52.32.176.50|3128|United States|Portland|Amazon.com, Inc.|
-|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|44.207.6.57|3128|United States|Ashburn|Amazon.com|
-|12|42.118.173.77|16000|Vietnam|Hanoi|FPT Telecom Company|
-|13|103.189.62.131|8082|Indonesia|Denpasar|PT Blip Integrator Provider|
-|14|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|16|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|17|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|18|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|20|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|27.71.141.171|16000|Vietnam|Đưc Trọng|Viettel Group|
+|7|27.71.141.120|16000|Vietnam|Đưc Trọng|Viettel Group|
+|8|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|9|1.54.82.160|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|10|1.53.72.19|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|11|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|13|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|14|27.79.213.227|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|16|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|17|156.240.120.13|7788|Peru|Lima|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|18|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|19|116.96.84.144|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
