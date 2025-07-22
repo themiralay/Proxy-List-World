@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|160.248.189.96|3127|Japan|Minato|NTT PC Communications, Inc.|
 |2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|7|103.76.109.65|8080|Indonesia|Kraksaan|PT Mahawira Nusantara Grup|
-|8|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|10|182.253.109.224|8080|Indonesia|Ketanggi|Biznet Metronet|
-|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|6|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|182.253.109.224|8080|Indonesia|Ketanggi|Biznet Metronet|
+|10|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|11|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 |12|51.79.99.237|4502|Canada|Montreal|OVH SAS|
 |13|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|15|202.145.10.241|8080|Indonesia|Bogor|PT UniNET Media Sakti|
-|16|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|17|42.113.20.100|16000|Vietnam|Hanoi|FPT Telecom Company|
-|18|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|19|150.109.37.211|3128|Hong Kong|Hong Kong|Aceville Pte.ltd|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|14|34.22.209.8|3128|Belgium|Brussels|Google LLC|
+|15|34.118.49.79|3128|Poland|Warsaw|Google LLC|
+|16|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|17|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|18|213.87.103.76|3128|Russia|Blagoveshchensk|MR DV division of Mobile Telesystems OJSC|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
