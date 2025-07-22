@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|8|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|11|45.133.74.101|8888|Germany|Frankfurt am Main|Florian Kolb|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|3|70.36.99.51|3128|United States|Los Angeles|Perfect International, Inc|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|11|157.66.16.36|5568|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|12|3.86.93.88|3128|United States|Ashburn|Amazon Technologies Inc.|
 |13|92.58.181.171|7575|Spain|Madrid|UNI2|
-|14|1.54.77.118|16000|Vietnam|Hanoi|FPT Telecom Company|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|17|58.186.174.232|16000|Vietnam|Hanoi|FPT Telecom Company|
-|18|103.155.196.46|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|19|72.10.160.91|21271|Canada|Montreal|GloboTech Communications|
-|20|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|14|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|15|45.133.74.101|8888|Germany|Frankfurt am Main|Florian Kolb|
+|16|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|17|179.228.17.8|8080|Brazil|Araraquara|Vivo|
+|18|72.10.160.91|21271|Canada|Montreal|GloboTech Communications|
+|19|58.186.174.232|16000|Vietnam|Hanoi|FPT Telecom Company|
+|20|164.163.42.43|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
