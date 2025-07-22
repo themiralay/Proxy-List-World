@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|70.36.99.51|3128|United States|Los Angeles|Perfect International, Inc|
+|2|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
 |3|70.36.99.51|3128|United States|Los Angeles|Perfect International, Inc|
-|4|70.36.99.51|3128|United States|Los Angeles|Perfect International, Inc|
-|5|27.79.213.227|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|58.186.98.119|16000|Vietnam|Da Nang|FPT Telecom Company|
-|7|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|125.25.110.250|8080|Thailand|Bangkok|TOT Public Company Limited|
-|10|92.58.181.171|7575|Spain|Madrid|UNI2|
+|4|27.71.131.62|16000|Vietnam|Hanoi|Viettel Group|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|92.58.181.171|7575|Spain|Madrid|UNI2|
+|7|170.64.149.240|3128|Australia|Sydney|DigitalOcean, LLC|
+|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|10|116.105.98.89|1011|Vietnam|Hanoi|Viettel Corporation|
 |11|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|13|115.72.196.60|8080|Vietnam|Ho Chi Minh City|VIETELmetro|
+|12|103.171.255.121|8080|Indonesia|Sleman|ZKI|
+|13|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 |14|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
-|15|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|16|103.155.168.171|8299|Indonesia|Cikampek|PT Arozak Bima Yudho Sangkara|
-|17|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|18|45.133.74.101|8888|Germany|Frankfurt am Main|Florian Kolb|
-|19|58.187.70.65|16000|Vietnam|Hanoi|FPT Telecom Company|
-|20|182.53.249.101|8080|Thailand|Mueang Samut Prakan|TOT Public Company Limited|
+|15|49.145.115.254|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|16|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|17|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|18|27.79.229.235|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|42.113.21.248|16000|Vietnam|Hanoi|FPT Telecom Company|
+|20|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 
 
 
