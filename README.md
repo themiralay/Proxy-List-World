@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 |2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|3|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|5|41.110.10.205|8888|Algeria|Birkhadem|Algerie Telecom|
-|6|116.96.84.144|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|45.133.74.101|8888|Germany|Frankfurt am Main|Florian Kolb|
-|8|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|9|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|10|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|11|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
-|12|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|13|1.55.193.253|16000|Vietnam|Hanoi|FPT Telecom Company|
-|14|38.172.128.13|999|Peru|Lima region|Conex TV E.I.R.L.|
-|15|103.131.18.42|7777|Indonesia|Cikarang|PT Global Media Data Prima|
-|16|27.71.131.62|16000|Vietnam|Hanoi|Viettel Group|
-|17|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|19|164.163.42.56|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|7|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|8|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|9|37.27.253.44|8095|Finland|Helsinki|Hetzner Online GmbH|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|12|164.163.42.56|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|121.91.60.68|8080|Pakistan|Chakwal|CMPak Limited|
+|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|147.75.34.105|443|The Netherlands|Amsterdam|Packet Host, Inc.|
+|16|132.255.18.121|8080|Brazil|Guarapuava|E. M. Fernandes|
+|17|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|18|67.43.228.252|31863|Canada|Montreal|GloboTech Communications|
+|19|41.110.10.205|8888|Algeria|Birkhadem|Algerie Telecom|
+|20|152.53.194.46|8064|United States|Manassas|netcup GmbH|
 
 
 
