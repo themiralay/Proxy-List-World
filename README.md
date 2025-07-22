@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|182.253.109.224|8080|Indonesia|Ketanggi|Biznet Metronet|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|6|116.103.141.186|1027|Vietnam|Buon Ma Thuot|Viettel Corporation|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |9|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|10|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|10|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
 |11|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|1.53.72.19|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|14|116.96.84.144|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|16|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|17|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|18|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|20|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|12|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|182.253.109.224|8080|Indonesia|Ketanggi|Biznet Metronet|
+|15|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|16|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|17|23.94.236.141|8080|United States|Los Angeles|HostPapa|
+|18|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|19|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
