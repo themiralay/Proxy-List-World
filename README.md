@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|61.198.88.93|8080|Japan|Kanazawa|NSK Co., Ltd.|
-|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|4|70.36.99.51|3128|United States|Los Angeles|Perfect International, Inc|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|27.79.213.227|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|59.29.182.162|8888|South Korea|Wŏnju|Korea Telecom|
-|10|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|11|92.58.181.171|7575|Spain|Madrid|UNI2|
-|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|14|1.2.220.193|3128|Thailand|Bangkok|TOT Public Company Limited|
-|15|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|16|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|17|37.32.40.253|8080|Iran|Ahvaz|Toloe Rayaneh Loghman Educational and Cultural Co.|
-|18|41.110.10.205|8888|Algeria|Birkhadem|Algerie Telecom|
-|19|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|170.85.158.14|80|United States|Reston|ZSCALER, INC.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|41.110.10.205|8888|Algeria|Birkhadem|Algerie Telecom|
+|6|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|7|41.65.160.173|1976|Egypt|Giza|Etisalat Misr Mobile BB|
+|8|45.133.74.101|8888|Germany|Frankfurt am Main|Florian Kolb|
+|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|10|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|11|170.85.158.14|80|United States|Reston|ZSCALER, INC.|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|14|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|16|37.27.253.44|8099|Finland|Helsinki|Hetzner Online GmbH|
+|17|103.153.202.125|8080|Myanmar|Möng Pawk|Shwe Mahar MAE Khong Industrial Company Limited|
+|18|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|27.79.227.98|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
