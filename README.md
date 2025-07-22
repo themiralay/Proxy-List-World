@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|37.27.253.44|8099|Finland|Helsinki|Hetzner Online GmbH|
-|8|37.27.253.44|8099|Finland|Helsinki|Hetzner Online GmbH|
-|9|12.218.209.130|53281|United States|San Jose|AT&T Enterprises, LLC|
-|10|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|11|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|12|72.10.160.91|12377|Canada|Montreal|GloboTech Communications|
-|13|164.163.42.43|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|37.27.253.44|8099|Finland|Helsinki|Hetzner Online GmbH|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|17|165.16.3.242|9999|Libya|Darnah|Aljeel Aljadeed For Technology|
-|18|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|19|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|20|38.224.97.60|999|Mexico|Nuevo Laredo|Alestra, S. de R.L. de C.V.|
+|1|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|9|41.110.10.205|8888|Algeria|Birkhadem|Algerie Telecom|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|58.186.220.82|16000|Vietnam|Nam Định|FPT Telecom Company|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|14|37.27.253.44|8095|Finland|Helsinki|Hetzner Online GmbH|
+|15|27.71.131.62|16000|Vietnam|Hanoi|Viettel Group|
+|16|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|17|72.10.160.91|12377|Canada|Montreal|GloboTech Communications|
+|18|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|20|58.186.220.82|16000|Vietnam|Nam Định|FPT Telecom Company|
 
 
 
