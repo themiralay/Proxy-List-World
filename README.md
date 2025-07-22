@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|70.36.99.51|3128|United States|Los Angeles|Perfect International, Inc|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|58.186.220.82|16000|Vietnam|Nam Định|FPT Telecom Company|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|10|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|11|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
-|12|103.131.18.42|7777|Indonesia|Cikarang|PT Global Media Data Prima|
-|13|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|15|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|16|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|18|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|19|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|20|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|9|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|10|3.86.93.88|3128|United States|Ashburn|Amazon Technologies Inc.|
+|11|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|12|45.133.74.101|8888|Germany|Frankfurt am Main|Florian Kolb|
+|13|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|15|37.27.253.44|8005|Finland|Helsinki|Hetzner Online GmbH|
+|16|37.27.253.44|8005|Finland|Helsinki|Hetzner Online GmbH|
+|17|27.76.176.241|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|18|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|19|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|20|212.110.188.193|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
 
 
 
