@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|58.186.220.81|16000|Vietnam|Nam Định|FPT Telecom Company|
-|3|27.79.250.44|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|7|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|11|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|12|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|13|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|14|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|17|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|18|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|19|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|1|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|9|27.79.250.44|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|11|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|12|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|103.86.117.49|8080|Indonesia|Lenteng|PT Link Data Sumber Barokah|
+|15|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|17|45.133.74.101|8888|Germany|Frankfurt am Main|Florian Kolb|
+|18|52.32.176.50|3128|United States|Portland|Amazon.com, Inc.|
+|19|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|1.54.175.86|16000|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
