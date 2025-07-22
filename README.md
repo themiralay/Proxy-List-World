@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|133.186.229.93|3128|Japan|Chiyoda City|NHNCLOUD|
-|2|13.212.14.132|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|7|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|8|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
 |9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|91.121.106.55|8118|France|Roubaix|OVH SAS|
-|11|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
 |13|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|14|103.155.246.155|8080|Indonesia|Sukoharjo|AMANNA|
+|14|27.71.141.120|16000|Vietnam|Đưc Trọng|Viettel Group|
 |15|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|18|42.117.240.148|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
-|20|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|16|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|17|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
+|18|27.76.176.241|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|19|103.191.251.54|8080|Indonesia|Batam|PT Mulia Batam Net|
+|20|15.204.151.142|31158|United States|Reston|OVH SAS|
 
 
 
