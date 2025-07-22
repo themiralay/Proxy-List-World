@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.94.236.141|8080|United States|Los Angeles|HostPapa|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|23.94.236.141|8080|United States|Los Angeles|HostPapa|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|10|171.228.162.243|2001|Vietnam|Hanoi|Viettel Corporation|
-|11|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|12|103.188.169.183|7777|Indonesia|Bunisakit|PT Lintas Jaringan Nusantara|
-|13|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|14|103.191.165.9|8070|Indonesia|Subang|PT Sakti Wijaya Network|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|17|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|103.153.149.45|8035|Indonesia|Gianyar|JARINGANKU|
-|20|27.79.229.235|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|7|103.242.104.178|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|8|103.156.75.246|8181|Indonesia|Gianyar|PT Trika Global Media|
+|9|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|10|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
+|11|103.169.132.58|8085|Indonesia|Cikampek|PT Alfa Omega Interkoneksi|
+|12|103.84.176.122|8084|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|80.64.24.80|8080|Russia|St Petersburg|SPRINTHOST.RU LLC|
+|15|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|16|103.88.90.117|8080|Indonesia|Malang|PT Paket Switch Bersama|
+|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|20|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
 
 
 
