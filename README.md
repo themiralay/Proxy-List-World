@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|8|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|11|98.80.5.83|3128|United States|Ashburn|BellSouth.net Inc.|
-|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|13|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|14|143.198.56.34|443|United States|Santa Clara|DigitalOcean, LLC|
-|15|172.98.201.190|3128|United States|Dallas|Centrilogic|
-|16|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|17|54.158.9.111|3128|United States|Ashburn|Amazon.com, Inc.|
-|18|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|3.21.171.131|3128|United States|Dublin|Amazon.com, Inc.|
+|2|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|58.186.248.249|16000|Vietnam|Vũng Tàu|FPT Telecom Company|
+|5|52.32.176.50|3128|United States|Portland|Amazon.com, Inc.|
+|6|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|7|27.71.141.171|16000|Vietnam|Đưc Trọng|Viettel Group|
+|8|27.71.131.62|16000|Vietnam|Hanoi|Viettel Group|
+|9|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|11|44.207.6.57|3128|United States|Ashburn|Amazon.com|
+|12|98.80.5.83|3128|United States|Ashburn|BellSouth.net Inc.|
+|13|143.198.56.34|443|United States|Santa Clara|DigitalOcean, LLC|
+|14|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|44.202.83.24|3128|United States|Ashburn|Amazon.com|
+|18|3.84.204.116|3128|United States|Ashburn|Amazon Technologies Inc.|
+|19|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|20|80.64.24.80|8080|Russia|St Petersburg|SPRINTHOST.RU LLC|
 
 
 
