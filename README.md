@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|44.202.83.24|3128|United States|Ashburn|Amazon.com|
 |4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|7|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|103.189.62.131|8082|Indonesia|Denpasar|PT Blip Integrator Provider|
-|13|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|15|41.110.10.205|8888|Algeria|Birkhadem|Algerie Telecom|
-|16|116.96.84.144|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|18|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|19|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|44.202.83.24|3128|United States|Ashburn|Amazon.com|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|59.29.182.162|8888|South Korea|Wŏnju|Korea Telecom|
+|11|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|27.71.141.120|16000|Vietnam|Đưc Trọng|Viettel Group|
+|14|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|15|103.189.62.131|8082|Indonesia|Denpasar|PT Blip Integrator Provider|
+|16|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|58.186.174.232|16000|Vietnam|Hanoi|FPT Telecom Company|
+|18|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|19|41.110.10.205|8888|Algeria|Birkhadem|Algerie Telecom|
+|20|58.186.98.119|16000|Vietnam|Da Nang|FPT Telecom Company|
 
 
 
