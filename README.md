@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|170.85.158.14|80|United States|Reston|ZSCALER, INC.|
-|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|41.110.10.205|8888|Algeria|Birkhadem|Algerie Telecom|
-|7|170.85.158.14|80|United States|Reston|ZSCALER, INC.|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|13|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|14|45.133.74.101|8888|Germany|Frankfurt am Main|Florian Kolb|
-|15|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|16|27.123.222.193|8080|Indonesia|Jakarta|FIBERNET|
-|17|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|170.85.158.14|80|United States|Reston|ZSCALER, INC.|
+|7|41.110.10.205|8888|Algeria|Birkhadem|Algerie Telecom|
+|8|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
+|11|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|12|45.133.74.101|8888|Germany|Frankfurt am Main|Florian Kolb|
+|13|177.234.217.43|999|Ecuador|Quito|Ufinet Panama S.A.|
+|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|15|37.27.253.44|8005|Finland|Helsinki|Hetzner Online GmbH|
+|16|37.27.253.44|8005|Finland|Helsinki|Hetzner Online GmbH|
+|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|18|118.68.67.230|16000|Vietnam|Hanoi|FPT Telecom Company|
 |19|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|20|58.187.70.65|16000|Vietnam|Hanoi|FPT Telecom Company|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
