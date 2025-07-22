@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
 |3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|103.169.128.133|8080|Indonesia|Cirebon|PT Media Akses Data|
 |6|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|9|118.68.181.224|16000|Vietnam|Hanoi|FPT Telecom Company|
-|10|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|11|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
-|12|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|13|58.186.248.249|16000|Vietnam|Vũng Tàu|FPT Telecom Company|
-|14|45.133.74.101|8888|Germany|Frankfurt am Main|Florian Kolb|
-|15|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
-|16|118.68.181.164|16000|Vietnam|Hanoi|FPT Telecom Company|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|37.27.253.44|8095|Finland|Helsinki|Hetzner Online GmbH|
-|19|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|20|152.53.194.46|8039|United States|Manassas|netcup GmbH|
+|7|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
+|8|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|10|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|14|113.22.224.68|16000|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|15|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
+|18|88.1.159.1|3128|Spain|Tarancón|Telefonica de Espana SAU|
+|19|37.27.253.44|8063|Finland|Helsinki|Hetzner Online GmbH|
+|20|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
 
 
 
