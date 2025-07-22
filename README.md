@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|5|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|6|45.133.74.101|8888|Germany|Frankfurt am Main|Florian Kolb|
-|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|9|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|13.212.14.132|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|14|27.79.230.69|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|147.75.88.120|9401|United States|San Jose|Packet Host, Inc.|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|19|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|20|196.217.28.62|39811|Morocco|Rabat|IP ADSL MarocTelecom|
+|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|3|62.33.91.10|3128|Russia|Tynda|TRANS-TELECOM|
+|4|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|5|27.71.131.62|16000|Vietnam|Hanoi|Viettel Group|
+|6|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|7|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|8|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|13|80.64.24.80|8080|Russia|St Petersburg|SPRINTHOST.RU LLC|
+|14|103.73.193.130|8080|Indonesia|Serang|Fot PT Kihnabil.net|
+|15|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
+|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|17|37.32.40.253|8080|Iran|Ahvaz|Toloe Rayaneh Loghman Educational and Cultural Co.|
+|18|27.71.141.171|16000|Vietnam|Đưc Trọng|Viettel Group|
+|19|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
+|20|103.189.116.134|8080|Indonesia|Wonosobo|PT Callysta Total Solusindo|
 
 
 
