@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|52.32.176.50|3128|United States|Portland|Amazon.com, Inc.|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
-|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|6|156.240.120.13|7788|Peru|Lima|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|52.32.176.50|3128|United States|Portland|Amazon.com, Inc.|
-|9|182.253.109.224|8080|Indonesia|Ketanggi|Biznet Metronet|
-|10|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|14|1.53.72.19|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|15|103.189.62.131|8082|Indonesia|Denpasar|PT Blip Integrator Provider|
-|16|37.32.40.253|8080|Iran|Ahvaz|Toloe Rayaneh Loghman Educational and Cultural Co.|
-|17|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|18|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|19|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|20|41.110.10.205|8888|Algeria|Birkhadem|Algerie Telecom|
+|2|182.253.109.224|8080|Indonesia|Ketanggi|Biznet Metronet|
+|3|118.68.67.230|16000|Vietnam|Hanoi|FPT Telecom Company|
+|4|103.189.62.131|8082|Indonesia|Denpasar|PT Blip Integrator Provider|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|3.149.138.238|3128|United States|Dublin|Amazon.com, Inc.|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|3.149.138.238|3128|United States|Dublin|Amazon.com, Inc.|
+|11|58.186.174.232|16000|Vietnam|Hanoi|FPT Telecom Company|
+|12|1.53.72.19|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|13|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|14|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|15|27.71.138.207|16000|Vietnam|Bảo Lộc|Viettel Group|
+|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|19|27.79.227.98|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|42.113.21.248|16000|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
