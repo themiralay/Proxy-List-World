@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|6|23.94.236.141|8080|United States|Los Angeles|HostPapa|
+|1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|2|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
 |7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |8|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|9|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|10|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|11|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|103.86.117.49|8080|Indonesia|Lenteng|PT Link Data Sumber Barokah|
-|15|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|16|192.140.102.151|8080|Brazil|Paraíba do Sul|NCI NET WORK PROVEDOR DE INTERNET EIRELI - ME|
-|17|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|20|103.8.59.12|8080|Indonesia|Jakarta|PT Prime Link Communication|
+|9|45.133.74.101|8888|Germany|Frankfurt am Main|Florian Kolb|
+|10|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|11|5.188.183.253|8080|Spain|Madrid|Melbikomas UAB|
+|12|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|103.165.155.45|8080|Indonesia|Teluknaga|PT Jaringan Keluarga Bersama|
+|15|45.10.161.161|8118|Germany|Karlsruhe|Contabo GmbH|
+|16|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|17|27.79.250.44|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
