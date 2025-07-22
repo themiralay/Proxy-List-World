@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|36.95.245.7|8090|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|5|103.160.182.103|8080|Indonesia|Sumbersari Wetan|PT Internusa Duta Makmur|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|1|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
 |8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |9|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|11|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|13|52.32.176.50|3128|United States|Portland|Amazon.com, Inc.|
-|14|44.212.73.64|3128|United States|Ashburn|Amazon.com|
-|15|44.202.83.24|3128|United States|Ashburn|Amazon.com|
-|16|98.80.5.83|3128|United States|Ashburn|BellSouth.net Inc.|
-|17|3.149.138.238|3128|United States|Dublin|Amazon.com, Inc.|
-|18|3.21.171.131|3128|United States|Dublin|Amazon.com, Inc.|
-|19|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|20|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|10|103.86.117.49|8080|Indonesia|Lenteng|PT Link Data Sumber Barokah|
+|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|13|171.228.168.199|4001|Vietnam|Hanoi|Viettel Corporation|
+|14|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|15|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|17|52.32.176.50|3128|United States|Portland|Amazon.com, Inc.|
+|18|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|44.212.73.64|3128|United States|Ashburn|Amazon.com|
 
 
 
