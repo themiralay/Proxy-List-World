@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|160.248.189.96|3127|Japan|Minato|NTT PC Communications, Inc.|
-|2|13.212.14.132|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|3|18.143.150.149|3128|Singapore|Singapore|Amazon Technologies Inc.|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|2|18.143.150.149|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|3|13.212.14.132|3128|Singapore|Singapore|Amazon Technologies Inc.|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |7|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
 |8|51.79.99.237|4502|Canada|Montreal|OVH SAS|
 |9|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
 |10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|45.133.74.101|8888|Germany|Frankfurt am Main|Florian Kolb|
-|14|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|15|103.138.71.133|8085|Indonesia|Kurintji|PT Centronet Data Indonesia|
-|16|202.154.18.172|8082|Indonesia|Babat|DIGITNET|
-|17|42.118.202.193|16000|Vietnam|Thu Dau Mot|FPT Telecom Company|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|14|103.169.255.203|6080|Indonesia|Kendalrejo|PT Master Star Network|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|23.94.67.161|8080|Ireland|Rathgar|HostPapa|
+|17|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |18|34.118.49.79|3128|Poland|Warsaw|Google LLC|
-|19|34.22.209.8|3128|Belgium|Brussels|Google LLC|
-|20|103.210.22.17|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|19|45.133.74.101|8888|Germany|Frankfurt am Main|Florian Kolb|
+|20|103.149.238.100|1111|Indonesia|Mojokerto|PT BITNIAGA CIPTA GEMILANG|
 
 
 
