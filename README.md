@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.227.98|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|27.76.176.241|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|113.22.154.74|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|42.113.21.189|16000|Vietnam|Hanoi|FPT Telecom Company|
-|10|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|45.133.74.101|8888|Germany|Frankfurt am Main|Florian Kolb|
+|9|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|10|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
 |11|37.32.40.253|8080|Iran|Ahvaz|Toloe Rayaneh Loghman Educational and Cultural Co.|
-|12|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|13|27.79.213.227|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|41.110.10.205|8888|Algeria|Birkhadem|Algerie Telecom|
-|19|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
-|20|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|14|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|15|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|16|37.27.253.44|8031|Finland|Helsinki|Hetzner Online GmbH|
+|17|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|18|116.96.84.144|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
+|20|45.173.199.51|999|Venezuela|Cagua|360net C.A.|
 
 
 
