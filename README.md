@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|3|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|4|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|5|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
-|6|23.94.236.141|8080|United States|Los Angeles|HostPapa|
-|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|10|27.79.229.235|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|45.133.74.101|8888|Germany|Frankfurt am Main|Florian Kolb|
-|12|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|13|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|14|67.43.236.18|30445|Canada|Montreal|GloboTech Communications|
-|15|72.10.164.178|2741|Canada|Montreal|GloboTech Communications|
-|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|17|131.255.227.168|3128|Brazil|Marabá|IR Tecnologia (Fibralink)|
-|18|190.60.41.18|999|Colombia|Bogotá|IFX NETWORKS COLOMBIA|
-|19|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|20|202.74.245.83|5020|Bangladesh|Dhaka|Aamra Networks Limited|
+|1|59.29.182.162|8888|South Korea|Wŏnju|Korea Telecom|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|4|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
+|7|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|8|45.133.74.101|8888|Germany|Frankfurt am Main|Florian Kolb|
+|9|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|37.27.253.44|8063|Finland|Helsinki|Hetzner Online GmbH|
+|14|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|15|131.255.227.168|3128|Brazil|Marabá|IR Tecnologia (Fibralink)|
+|16|72.10.164.178|2741|Canada|Montreal|GloboTech Communications|
+|17|67.43.236.18|30445|Canada|Montreal|GloboTech Communications|
+|18|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|19|49.156.44.116|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|20|45.133.74.101|8888|Germany|Frankfurt am Main|Florian Kolb|
 
 
 
