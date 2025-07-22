@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|133.186.229.93|3128|Japan|Chiyoda City|NHNCLOUD|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|1.20.169.60|8180|Thailand|Pattaya|TOT Public Company Limited|
-|5|23.94.236.141|8080|United States|Los Angeles|HostPapa|
-|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|7|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|8|45.190.197.234|999|Mexico|El Salto|Tecnianet S.A De C.V.|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
-|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|14|80.64.24.80|8080|Russia|St Petersburg|SPRINTHOST.RU LLC|
-|15|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|16|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
-|17|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|18|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|19|27.71.141.171|16000|Vietnam|Đưc Trọng|Viettel Group|
-|20|27.76.176.241|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|8|80.64.24.80|8080|Russia|St Petersburg|SPRINTHOST.RU LLC|
+|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|11|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|12|103.169.128.133|8080|Indonesia|Cirebon|PT Media Akses Data|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|27.76.180.80|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|15|103.81.194.17|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|16|160.3.168.70|8080|United States|Gulfport|CABLE ONE, INC.|
+|17|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|18|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
+|19|103.169.132.58|8085|Indonesia|Cikampek|PT Alfa Omega Interkoneksi|
+|20|42.117.243.39|16000|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
