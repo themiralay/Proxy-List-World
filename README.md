@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.121.164.51|31147|Canada|Burnaby|TELUS Communications Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
-|4|182.253.109.224|8080|Indonesia|Ketanggi|Biznet Metronet|
-|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|3|182.253.109.224|8080|Indonesia|Ketanggi|Biznet Metronet|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
 |6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|11|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|12|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|7|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|8|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|9|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |13|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|18|181.23.254.171|3128|Argentina|Buenos Aires|Telefonica de Argentina|
-|19|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|20|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|16|116.96.84.144|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|103.57.37.167|8080|Indonesia|Bandung|PT. Cemerlang Multimedia|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|27.71.141.120|16000|Vietnam|Đưc Trọng|Viettel Group|
+|20|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
 
 
 
