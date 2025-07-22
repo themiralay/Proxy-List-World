@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|133.186.229.93|3128|Japan|Chiyoda City|NHNCLOUD|
+|1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|2|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|8|103.242.104.178|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|9|23.94.236.141|8080|United States|Los Angeles|HostPapa|
-|10|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|11|103.191.251.54|8080|Indonesia|Batam|PT Mulia Batam Net|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|103.155.246.155|8080|Indonesia|Sukoharjo|AMANNA|
-|14|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|19|80.64.24.80|8080|Russia|St Petersburg|SPRINTHOST.RU LLC|
-|20|45.5.116.177|999|Guatemala|Guatemala City|Inversiones Grajeda Andrade S.A|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|58.186.248.249|16000|Vietnam|Vũng Tàu|FPT Telecom Company|
+|6|133.186.229.93|3128|Japan|Chiyoda City|NHNCLOUD|
+|7|58.186.220.81|16000|Vietnam|Nam Định|FPT Telecom Company|
+|8|80.64.24.80|8080|Russia|St Petersburg|SPRINTHOST.RU LLC|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|59.29.182.162|8888|South Korea|Wŏnju|Korea Telecom|
+|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
+|14|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|15|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|16|45.133.74.101|8888|Germany|Frankfurt am Main|Florian Kolb|
+|17|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|18|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|19|103.217.216.67|8000|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|20|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
 
 
 
