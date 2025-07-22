@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.189.62.131|8082|Indonesia|Denpasar|PT Blip Integrator Provider|
-|2|52.32.176.50|3128|United States|Portland|Amazon.com, Inc.|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|182.253.109.224|8080|Indonesia|Ketanggi|Biznet Metronet|
 |3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|52.32.176.50|3128|United States|Portland|Amazon.com, Inc.|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|59.29.182.162|8888|South Korea|Wŏnju|Korea Telecom|
-|8|182.253.109.224|8080|Indonesia|Ketanggi|Biznet Metronet|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|11|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|12|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|13|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|14|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|15|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|103.162.16.7|8080|Indonesia|Parenggan|PT Mega Data Perkasa|
-|17|41.110.10.205|8888|Algeria|Birkhadem|Algerie Telecom|
-|18|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|19|27.79.213.227|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|4|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|11|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|12|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|13|37.32.40.253|8080|Iran|Ahvaz|Toloe Rayaneh Loghman Educational and Cultural Co.|
+|14|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|15|116.96.84.144|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|17|103.167.156.114|8083|Indonesia|Pemalang|PT Jaringan Tiang Indonesia Group|
+|18|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|19|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
+|20|1.54.82.160|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
 
 
 
