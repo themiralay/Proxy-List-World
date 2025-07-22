@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|73|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|73|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|73|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|4|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|27.79.141.54|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|8|41.110.10.205|8888|Algeria|Birkhadem|Algerie Telecom|
-|9|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
-|10|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|13|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
-|14|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|15|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|16|37.27.253.44|8095|Finland|Helsinki|Hetzner Online GmbH|
-|17|152.53.194.46|8064|United States|Manassas|netcup GmbH|
-|18|45.133.74.101|8888|Germany|Frankfurt am Main|Florian Kolb|
-|19|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|20|182.253.109.224|8080|Indonesia|Ketanggi|Biznet Metronet|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|45.133.74.101|8888|Germany|Frankfurt am Main|Florian Kolb|
+|10|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|11|41.110.10.205|8888|Algeria|Birkhadem|Algerie Telecom|
+|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|13|91.200.163.190|8088|Russia|Lyubertsy|Dubrovskaya Nataliya Vladislavovna|
+|14|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|15|116.96.84.144|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|38.9.48.211|8080|Dominican Republic|Bella Vista|INVERSIONES BONAFER, SRL|
+|17|37.27.253.44|8095|Finland|Helsinki|Hetzner Online GmbH|
+|18|37.27.253.44|8095|Finland|Helsinki|Hetzner Online GmbH|
+|19|140.227.61.201|3128|Japan|Tokyo|InfoSphere|
+|20|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 
 
 
