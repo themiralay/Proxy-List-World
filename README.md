@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|4|58.186.248.249|16000|Vietnam|Vũng Tàu|FPT Telecom Company|
 |5|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|37.27.253.44|8095|Finland|Helsinki|Hetzner Online GmbH|
-|10|37.27.253.44|8095|Finland|Helsinki|Hetzner Online GmbH|
-|11|152.53.194.46|8047|United States|Manassas|netcup GmbH|
-|12|182.253.109.224|8080|Indonesia|Ketanggi|Biznet Metronet|
-|13|156.240.120.13|7788|Peru|Lima|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|14|152.53.194.46|8047|United States|Manassas|netcup GmbH|
-|15|37.27.253.44|8095|Finland|Helsinki|Hetzner Online GmbH|
-|16|118.99.96.170|8080|Indonesia|Jakarta|Biznet Networks|
-|17|67.43.236.20|4495|Canada|Montreal|GloboTech Communications|
-|18|72.10.164.178|3167|Canada|Montreal|GloboTech Communications|
-|19|152.53.194.46|8047|United States|Manassas|netcup GmbH|
-|20|72.10.160.170|2563|Canada|Montreal|GloboTech Communications|
+|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|8|27.71.141.120|16000|Vietnam|Đưc Trọng|Viettel Group|
+|9|27.71.141.171|16000|Vietnam|Đưc Trọng|Viettel Group|
+|10|35.180.23.174|3128|France|Paris|Amazon Technologies Inc.|
+|11|43.216.143.179|3128|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|12|23.94.236.141|8080|United States|Los Angeles|HostPapa|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|45.181.12.10|999|Mexico|Monterrey|Sierra Madre Internet SA de CV|
+|15|45.133.74.101|8888|Germany|Frankfurt am Main|Florian Kolb|
+|16|27.71.131.62|16000|Vietnam|Hanoi|Viettel Group|
+|17|27.79.154.76|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|122.52.44.56|8081|Philippines|Bacoor|Philippine Long Distance Telephone Co.|
+|20|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
 
 
 
