@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|52.32.176.50|3128|United States|Portland|Amazon.com, Inc.|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|1|52.32.176.50|3128|United States|Portland|Amazon.com, Inc.|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|182.253.109.224|8080|Indonesia|Ketanggi|Biznet Metronet|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |5|52.32.176.50|3128|United States|Portland|Amazon.com, Inc.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|182.253.109.224|8080|Indonesia|Ketanggi|Biznet Metronet|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|15|103.189.62.131|8082|Indonesia|Denpasar|PT Blip Integrator Provider|
-|16|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|17|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|18|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|19|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
+|6|103.189.62.131|8082|Indonesia|Denpasar|PT Blip Integrator Provider|
+|7|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|8|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|10|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|198.52.241.114|999|Puerto Rico|Corozal|OSNET Wireless|
+|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|14|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|15|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|27.71.131.62|16000|Vietnam|Hanoi|Viettel Group|
+|18|38.56.23.139|999|Colombia|Pasto|INTERCOMM DE NARIÑO SAS|
+|19|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
 |20|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
 
 
