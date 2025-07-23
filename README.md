@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|42.113.21.210|16000|Vietnam|Hanoi|FPT Telecom Company|
 |4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |8|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|9|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|10|59.29.182.162|8888|South Korea|Wŏnju|Korea Telecom|
-|11|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|12|42.113.27.13|16000|Vietnam|Hanoi|FPT Telecom Company|
+|9|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|12|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
 |13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|208.102.24.225|8888|United States|Harrison|Fuse Internet Access|
-|16|42.118.3.254|16000|Vietnam|Hanoi|FPT Telecom Company|
+|14|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|15|42.113.27.13|16000|Vietnam|Hanoi|FPT Telecom Company|
+|16|42.118.3.7|16000|Vietnam|Hanoi|FPT Telecom Company|
 |17|1.55.199.142|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|18|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
-|19|42.113.21.210|16000|Vietnam|Hanoi|FPT Telecom Company|
-|20|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|18|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|19|1.53.92.254|16000|Vietnam|Hanoi|FPT Telecom Company|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
 
 
 
