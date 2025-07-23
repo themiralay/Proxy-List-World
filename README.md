@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
 |8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|10|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|11|180.191.23.22|8089|Philippines|Cabanatuan City|Globe Telecom|
-|12|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|13|146.103.99.6|6588|The Netherlands|Amsterdam|Servers Tech Fzco|
-|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
-|16|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|20|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|13|103.144.103.154|1111|Indonesia|Jatibarang|PANDAWANET|
+|14|27.79.137.72|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|81.218.86.226|8080|Israel|Yehud|Bezeq International Ltd.|
+|16|42.118.74.192|16000|Vietnam|Hanoi|FPT Telecom Company|
+|17|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|18|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|19|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|Uzbektelecom JSC|
 
 
 
