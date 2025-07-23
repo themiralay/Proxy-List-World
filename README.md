@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|118.34.4.196|80|South Korea|Nonsan|Korea Telecom|
-|2|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|118.34.4.196|80|South Korea|Nonsan|Korea Telecom|
 |3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|7|129.146.169.173|3128|United States|Phoenix|Oracle Corporation|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|12|38.7.18.103|999|Mexico|Nueva Italia de Ruiz|Internet Telefonia Y TV De Michoacan SA De CV|
-|13|64.31.49.174|3128|United States|Miami|Limestone Networks, Inc.|
-|14|64.31.49.174|3128|United States|Miami|Limestone Networks, Inc.|
-|15|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|16|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|17|103.229.14.114|8080|Indonesia|Cimahi|PT Arthaloka Reka Teknologi|
-|18|122.53.59.191|5050|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|4|64.31.49.174|3128|United States|Miami|Limestone Networks, Inc.|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|8|64.31.49.174|3128|United States|Miami|Limestone Networks, Inc.|
+|9|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|92.36.202.5|8080|Bosnia and Herzegovina|Zenica|BH Telecom d.d. Sarajevo|
+|13|190.61.84.166|9812|Costa Rica|San José|Ufinet Costa Rica|
+|14|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|15|45.159.220.120|7778|Germany|Karlsruhe|Contabo GmbH|
+|16|192.46.230.254|3128|Singapore|Singapore|Akamai Technologies, Inc.|
+|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|18|129.146.169.173|3128|United States|Phoenix|Oracle Corporation|
+|19|14.172.146.226|20399|Vietnam|Ho Chi Minh City|VNPT-VNNIC|
+|20|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
 
 
 
