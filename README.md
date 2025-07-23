@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.226.249|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|42.118.74.192|16000|Vietnam|Hanoi|FPT Telecom Company|
+|1|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 |9|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|42.114.161.81|16000|Vietnam|Hanoi|FPT Telecom Company|
-|12|27.79.158.110|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|42.118.3.254|16000|Vietnam|Hanoi|FPT Telecom Company|
-|14|42.118.3.7|16000|Vietnam|Hanoi|FPT Telecom Company|
-|15|58.186.220.125|16000|Vietnam|Nam Định|FPT Telecom Company|
-|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|18|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|19|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|20|27.79.191.160|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|11|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|12|156.240.120.13|7788|Peru|Lima|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|13|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|16|42.118.3.7|16000|Vietnam|Hanoi|FPT Telecom Company|
+|17|58.186.220.125|16000|Vietnam|Nam Định|FPT Telecom Company|
+|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
 
 
 
