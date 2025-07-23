@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|182.253.109.61|8080|Indonesia|Semarang|Biznet Metronet|
 |5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|6|182.253.109.61|8080|Indonesia|Semarang|Biznet Metronet|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|171.7.82.1|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|15|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|16|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|17|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|18|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|19|27.71.138.207|16000|Vietnam|Bảo Lộc|Viettel Group|
-|20|37.220.139.219|8080|Hungary|Budapest|ACE Telecom Kft|
+|6|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|8|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|42.118.74.192|16000|Vietnam|Hanoi|FPT Telecom Company|
+|12|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|95.47.239.65|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
+|16|42.118.3.117|16000|Vietnam|Hanoi|FPT Telecom Company|
+|17|37.220.139.219|8080|Hungary|Budapest|ACE Telecom Kft|
+|18|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|19|103.156.14.43|8080|Indonesia|Sungailiat|PT Lintas Jaringan Nusantara|
+|20|42.118.3.254|16000|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
