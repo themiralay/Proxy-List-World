@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|157.230.38.173|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|58.186.92.153|16000|Vietnam|Hanoi|FPT Telecom Company|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|37.32.40.253|8080|Iran|Ahvaz|Toloe Rayaneh Loghman Educational and Cultural Co.|
-|12|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|15|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|16|103.165.155.238|2016|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
-|17|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|18|1.54.69.214|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|20|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|6|157.230.38.173|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|49.145.63.88|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|8|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|9|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|13|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|14|37.32.40.253|8080|Iran|Ahvaz|Toloe Rayaneh Loghman Educational and Cultural Co.|
+|15|140.245.88.97|8118|Japan|Tokyo|Oracle Corporation|
+|16|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|17|1.55.199.142|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|18|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|19|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|20|27.71.138.207|16000|Vietnam|Bảo Lộc|Viettel Group|
 
 
 
