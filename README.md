@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|7|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|8|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
 |9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|23.94.236.141|8080|United States|Los Angeles|HostPapa|
-|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|12|58.187.70.68|16000|Vietnam|Hanoi|FPT Telecom Company|
-|13|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|14|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|15|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|16|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|17|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|10|223.205.73.132|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|11|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|13|52.32.176.50|3128|United States|Portland|Amazon.com, Inc.|
+|14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|15|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|16|23.94.236.141|8080|United States|Los Angeles|HostPapa|
+|17|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
 |18|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|19|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|20|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|19|58.186.220.125|16000|Vietnam|Nam Định|FPT Telecom Company|
+|20|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
 
 
 
