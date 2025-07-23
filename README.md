@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|9|103.169.128.133|8080|Indonesia|Cirebon|PT Media Akses Data|
-|10|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
-|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|13|58.186.220.125|16000|Vietnam|Nam Định|FPT Telecom Company|
-|14|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|15|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|16|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|19|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|20|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|42.118.3.254|16000|Vietnam|Hanoi|FPT Telecom Company|
+|8|103.147.134.179|8080|Indonesia|Waru|PT.MURNI MAKMUR ABADI|
+|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|12|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|13|156.240.120.13|7788|Peru|Lima|Beijing Baidu Netcom Science and Technology Co., Ltd.|
+|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|15|1.53.92.254|16000|Vietnam|Hanoi|FPT Telecom Company|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|184.105.182.254|3128|United States|Gilroy|Hurricane Electric LLC|
+|18|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|19|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|20|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
 
 
 
