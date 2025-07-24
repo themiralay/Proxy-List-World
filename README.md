@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|2|34.122.129.214|3128|United States|Council Bluffs|Google LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|34.122.129.214|3128|United States|Council Bluffs|Google LLC|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|9|182.253.109.61|8080|Indonesia|Semarang|Biznet Metronet|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|103.189.254.70|8080|Indonesia|Surabaya|PT Lintas Daya Nusantara|
+|3|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|7|34.122.129.214|3128|United States|Council Bluffs|Google LLC|
+|8|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|9|58.186.92.227|16000|Vietnam|Hanoi|FPT Telecom Company|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 |13|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|14|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|15|27.71.138.207|16000|Vietnam|Bảo Lộc|Viettel Group|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|20|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|15|34.122.129.214|3128|United States|Council Bluffs|Google LLC|
+|16|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|19|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|20|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
 
 
 
