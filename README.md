@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.122.129.214|3128|United States|Council Bluffs|Google LLC|
-|2|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|3|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|9|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|10|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|11|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
+|1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|34.122.129.214|3128|United States|Council Bluffs|Google LLC|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|8|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|9|34.122.129.214|3128|United States|Council Bluffs|Google LLC|
+|10|68.155.152.132|3128|Mexico|Querétaro City|Microsoft Corporation|
+|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 |12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|13|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|14|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|15|27.79.179.205|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|104.238.30.16|34512|Italy|Rome|AkhaliNet LLC|
-|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|20|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|13|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|182.253.109.125|8080|Indonesia|Semarang|Biznet Metronet|
+|17|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|18|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|19|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|20|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
 
 
 
