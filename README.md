@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|12|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|13|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|15|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|16|42.118.0.170|16000|Vietnam|Hanoi|FPT Telecom Company|
-|17|62.217.187.248|10808|Russia|Moscow|Lovitel LLC|
-|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|20|58.186.92.153|16000|Vietnam|Hanoi|FPT Telecom Company|
+|2|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|3|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|4|27.71.141.171|16000|Vietnam|Bảo Lộc|Viettel Group|
+|5|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|10|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|13|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|14|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|15|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|16|31.220.86.108|3128|Germany|Düsseldorf|Contabo GmbH|
+|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|62.217.187.248|10808|Russia|Moscow|Lovitel LLC|
+|20|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
 
 
 
