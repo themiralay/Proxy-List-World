@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|3|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|4|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|5|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|1|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|2|27.71.141.171|16000|Vietnam|Bảo Lộc|Viettel Group|
+|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|58.187.71.205|16000|Vietnam|Hanoi|FPT Telecom Company|
-|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|13|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|14|42.118.1.17|16000|Vietnam|Hanoi|FPT Telecom Company|
-|15|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
-|16|42.118.0.170|16000|Vietnam|Hanoi|FPT Telecom Company|
-|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|19|58.187.71.44|16000|Vietnam|Hanoi|FPT Telecom Company|
-|20|113.162.238.139|20499|Vietnam|Quận Bảy|VietNam Post and Telecom Corporation|
+|11|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|13|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|15|103.73.193.228|8089|Indonesia|Serang|Fot PT Kihnabil.net|
+|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|17|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|18|58.187.71.205|16000|Vietnam|Hanoi|FPT Telecom Company|
+|19|58.186.92.153|16000|Vietnam|Hanoi|FPT Telecom Company|
+|20|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
 
 
 
