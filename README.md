@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
 |4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|103.82.132.48|8888|India|Faridabad|Cloudfly Corporation|
-|7|27.71.141.171|16000|Vietnam|Bảo Lộc|Viettel Group|
+|5|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|9|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|10|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|11|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
 |12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|16|27.71.138.207|16000|Vietnam|Bảo Lộc|Viettel Group|
-|17|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|13|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|14|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|27.71.141.171|16000|Vietnam|Bảo Lộc|Viettel Group|
+|16|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 |18|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|19|103.18.79.89|8080|Indonesia|Cibinong|PT Usaha Adi Sanggoro|
-|20|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|19|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|20|210.79.141.226|8080|Indonesia|Soreang|PT Reueus Sumber Data|
 
 
 
