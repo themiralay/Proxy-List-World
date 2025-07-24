@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|4|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|42.118.1.17|16000|Vietnam|Hanoi|FPT Telecom Company|
-|11|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|16|58.186.92.227|16000|Vietnam|Hanoi|FPT Telecom Company|
-|17|1.55.192.199|16000|Vietnam|Hanoi|FPT Telecom Company|
-|18|1.55.60.47|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|20|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|42.118.0.170|16000|Vietnam|Hanoi|FPT Telecom Company|
+|8|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|11|27.79.167.42|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|103.169.128.133|8080|Indonesia|Cirebon|PT Media Akses Data|
+|13|38.41.0.62|11201|Venezuela|Caracas|MDS TELECOM C.A.|
+|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|16|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
+|19|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|20|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
 
 
 
