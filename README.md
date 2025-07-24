@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|1|103.144.102.120|8080|Indonesia|Karangsembung|PANDAWANET|
+|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|6|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|7|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|9|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|10|207.244.254.27|7003|United States|St Louis|Nubes, LLC|
-|11|103.144.102.120|8080|Indonesia|Karangsembung|PANDAWANET|
-|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|207.244.254.27|7003|United States|St Louis|Nubes, LLC|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|17|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|11|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|27.72.100.236|4995|Vietnam|Hanoi|Newass2011xDSLHN|
+|13|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|14|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|15|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|16|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |18|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|20|85.117.61.70|8080|Georgia|Marneuli|Caucasus Online Ltd.|
+|19|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|20|207.244.254.27|7003|United States|St Louis|Nubes, LLC|
 
 
 
