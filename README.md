@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|2|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|42.118.1.17|16000|Vietnam|Hanoi|FPT Telecom Company|
-|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|10|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|9|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|10|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 |12|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|13|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|14|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|17|103.73.193.228|8089|Indonesia|Serang|Fot PT Kihnabil.net|
-|18|58.187.71.44|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|13|42.118.0.170|16000|Vietnam|Hanoi|FPT Telecom Company|
+|14|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|17|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|18|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|19|62.217.187.248|10808|Russia|Moscow|Lovitel LLC|
 |20|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
 
 
