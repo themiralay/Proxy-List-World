@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|2|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
 |3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|6|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|13|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|5|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|6|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|11|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|12|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|13|58.187.71.205|16000|Vietnam|Hanoi|FPT Telecom Company|
+|14|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|207.154.207.148|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
-|19|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|20|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|18|62.217.187.248|10808|Russia|Moscow|Lovitel LLC|
+|19|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|20|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
