@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|58.186.92.227|16000|Vietnam|Hanoi|FPT Telecom Company|
-|8|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|9|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|10|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|11|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|13|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|14|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
-|15|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|16|49.145.124.147|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|17|93.190.138.107|46182|The Netherlands|Naaldwijk|WorldStream B.V.|
-|18|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|19|104.238.30.16|34512|Italy|Rome|AkhaliNet LLC|
-|20|45.189.252.245|999|Mexico|Tlalixcoyan|Tracered SA De CV|
+|1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|58.186.92.227|16000|Vietnam|Hanoi|FPT Telecom Company|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|7|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|8|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
+|12|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|15|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|16|89.249.62.8|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|27.79.179.205|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|19|58.186.92.153|16000|Vietnam|Hanoi|FPT Telecom Company|
+|20|104.238.30.16|34512|Italy|Rome|AkhaliNet LLC|
 
 
 
