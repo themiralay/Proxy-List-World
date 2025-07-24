@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.208.227.142|3128|United States|Council Bluffs|Google LLC|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|58.186.92.227|16000|Vietnam|Hanoi|FPT Telecom Company|
-|5|1.54.69.214|16000|Vietnam|Hanoi|FPT Telecom Company|
-|6|58.186.92.153|16000|Vietnam|Hanoi|FPT Telecom Company|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|35.208.227.142|3128|United States|Council Bluffs|Google LLC|
-|11|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|116.96.84.144|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|27.71.141.171|16000|Vietnam|Đưc Trọng|Viettel Group|
-|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|15|156.240.120.13|7788|Peru|Lima|Beijing Baidu Netcom Science and Technology Co., Ltd.|
-|16|14.172.146.226|20399|Vietnam|Ho Chi Minh City|VNPT-VNNIC|
-|17|38.211.24.18|8080|Indonesia|Bandung|PT Putra Garsel Interkoneksi|
-|18|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|19|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|20|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|116.96.84.144|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|23.94.236.141|8080|United States|Los Angeles|HostPapa|
+|11|1.54.69.214|16000|Vietnam|Hanoi|FPT Telecom Company|
+|12|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|13|164.163.42.29|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|16|27.71.137.213|16000|Vietnam|Hanoi|Viettel Group|
+|17|58.147.171.12|8085|Bangladesh|Dhaka|Aftab IT Limited|
+|18|93.190.138.107|46182|The Netherlands|Naaldwijk|WorldStream B.V.|
+|19|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|20|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
 
 
 
