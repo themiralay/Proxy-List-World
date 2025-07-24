@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|2|34.122.129.214|3128|United States|Council Bluffs|Google LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|182.253.109.61|8080|Indonesia|Semarang|Biznet Metronet|
-|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|3|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|4|34.122.129.214|3128|United States|Council Bluffs|Google LLC|
+|5|34.122.129.214|3128|United States|Council Bluffs|Google LLC|
 |6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|12|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|7|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|8|27.71.141.171|16000|Vietnam|Bảo Lộc|Viettel Group|
+|9|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |13|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|14|103.73.193.228|8089|Indonesia|Serang|Fot PT Kihnabil.net|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|17|103.81.175.218|28022|Bangladesh|Chittagong|ADN Telecom Ltd.|
-|18|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|19|182.253.109.125|8080|Indonesia|Semarang|Biznet Metronet|
-|20|49.146.58.86|8082|Philippines|Koronadal|Philippine Long Distance Telephone Co.|
+|14|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|15|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|16|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|17|182.253.109.61|8080|Indonesia|Semarang|Biznet Metronet|
+|18|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|103.81.194.17|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
 
 
 
