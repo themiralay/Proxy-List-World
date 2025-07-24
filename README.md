@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|5|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|210.79.142.73|8080|Indonesia|Kediri|PT Gayatri Lintas Nusantara|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|12|34.93.182.218|5050|India|Mumbai|Google LLC|
-|13|114.31.15.190|2024|Bangladesh|Dhaka|BDCOM Online Limited|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|16|37.32.40.253|8080|Iran|Ahvaz|Toloe Rayaneh Loghman Educational and Cultural Co.|
-|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|18|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|20|38.95.88.124|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|1|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|35.208.227.142|3128|United States|Council Bluffs|Google LLC|
+|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|35.208.227.142|3128|United States|Council Bluffs|Google LLC|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|13|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|14|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|15|58.186.92.227|16000|Vietnam|Hanoi|FPT Telecom Company|
+|16|27.71.138.207|16000|Vietnam|Bảo Lộc|Viettel Group|
+|17|13.126.217.46|3128|India|Mumbai|Amazon Technologies Inc|
+|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|19|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|20|103.9.188.73|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
 
 
 
