@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.121.164.51|31147|Canada|Burnaby|TELUS Communications Inc.|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|34.122.129.214|3128|United States|Council Bluffs|Google LLC|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|3.134.32.96|80|United States|Dublin|Amazon.com, Inc.|
-|6|68.155.152.132|3128|Mexico|Querétaro City|Microsoft Corporation|
-|7|59.29.182.162|8888|South Korea|Wŏnju|Korea Telecom|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|34.122.129.214|3128|United States|Council Bluffs|Google LLC|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
 |8|34.122.129.214|3128|United States|Council Bluffs|Google LLC|
-|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|13|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|14|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|15|68.155.152.132|3128|Mexico|Querétaro City|Microsoft Corporation|
-|16|3.134.32.96|80|United States|Dublin|Amazon.com, Inc.|
-|17|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|11|68.155.152.132|3128|Mexico|Querétaro City|Microsoft Corporation|
+|12|3.134.32.96|80|United States|Dublin|Amazon.com, Inc.|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|3.134.32.96|80|United States|Dublin|Amazon.com, Inc.|
+|15|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|16|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|17|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
 |18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|20|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|19|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|20|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
 
 
 
