@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|2|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|3.211.161.22|80|United States|Ashburn|Amazon Technologies Inc.|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|7|3.211.161.22|80|United States|Ashburn|Amazon Technologies Inc.|
-|8|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|9|92.58.181.171|7575|Spain|Madrid|UNI2|
-|10|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|14|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|15|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|23.94.236.141|8080|United States|Los Angeles|HostPapa|
-|17|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|18|23.94.236.141|8080|United States|Los Angeles|HostPapa|
-|19|27.71.141.120|16000|Vietnam|Bảo Lộc|Viettel Group|
-|20|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|1|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|6|23.94.236.141|8080|United States|Los Angeles|HostPapa|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|11|3.211.161.22|80|United States|Ashburn|Amazon Technologies Inc.|
+|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|14|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|15|164.163.42.56|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|20|43.217.116.234|16170|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
 
 
 
