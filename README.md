@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|1|70.36.99.51|3128|United States|Los Angeles|Perfect International, Inc|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|70.36.99.51|3128|United States|Los Angeles|Perfect International, Inc|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
-|16|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|17|66.78.40.66|8880|United States|Liberty Lake|Aokigahara SRL|
-|18|70.36.99.51|3128|United States|Los Angeles|Perfect International, Inc|
-|19|161.97.181.217|8118|France|Lauterbourg|Contabo GmbH|
-|20|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|12|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|58.187.71.205|16000|Vietnam|Hanoi|FPT Telecom Company|
+|15|38.183.146.159|8181|Indonesia|Weleri|PT Ikhlas Cipta Teknologi|
+|16|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|146.103.99.6|6588|The Netherlands|Amsterdam|Servers Tech Fzco|
+|19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|103.18.79.165|8080|Indonesia|Cibinong|PT Usaha Adi Sanggoro|
 
 
 
