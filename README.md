@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|209.121.164.51|31147|Canada|Burnaby|TELUS Communications Inc.|
-|3|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|36.37.86.26|9812|Indonesia|Bekasi|LINTASARTA|
-|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|8|103.81.110.187|8080|Indonesia|Serang|PT Fiber Data Nusantara|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|13|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|14|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|15|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|4|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|10|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|11|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|23.94.236.141|8080|United States|Los Angeles|HostPapa|
+|14|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |16|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|59.29.182.162|8888|South Korea|Wŏnju|Korea Telecom|
 |18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|85.9.209.195|8080|The Netherlands|Amsterdam|UPCLOUD-RESERVE|
-|20|20.243.174.96|3128|Japan|Tokyo|Microsoft Corporation|
+|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|20|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
 
 
 
