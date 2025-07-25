@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|3|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|11|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|12|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|15|157.20.253.163|1024|Indonesia|Jakarta|PT.Global Media Data Prima|
-|16|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|17|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|20|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|6|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|8|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|12|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|13|115.72.39.21|8080|Vietnam|Hanoi|VIETELmetro|
+|14|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|15|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|16|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
+|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|18|104.238.30.12|34513|Italy|Rome|AkhaliNet LLC|
+|19|104.238.30.16|34512|Italy|Rome|AkhaliNet LLC|
+|20|188.235.146.220|40754|Russia|Saratov|JSC "ER-Telecom Holding"|
 
 
 
