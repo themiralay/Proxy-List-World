@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|2|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|9|85.9.209.195|8080|The Netherlands|Amsterdam|UPCLOUD-RESERVE|
-|10|42.118.74.151|16000|Vietnam|Hanoi|FPT Telecom Company|
-|11|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|103.214.102.171|8083|Indonesia|Batam|SMARTPLUS|
-|15|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|16|163.223.78.127|8080|Indonesia|Ngoro|PT Big Network Indonesia|
-|17|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|18|65.38.213.154|8881|Puerto Rico|San Juan|AT&T Mobility Puerto Rico|
-|19|146.103.99.6|6588|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|177.253.224.58|8085|Colombia|Medellín|Colombia Móvil|
+|1|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|7|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|9|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|42.118.74.151|16000|Vietnam|Hanoi|FPT Telecom Company|
+|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|16|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|103.131.19.44|8080|Indonesia|Batang|PT Global Media Data Prima|
+|18|27.71.137.213|16000|Vietnam|Bảo Lộc|Viettel Group|
+|19|65.38.213.154|8881|Puerto Rico|San Juan|AT&T Mobility Puerto Rico|
+|20|103.156.221.229|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
 
 
 
