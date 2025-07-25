@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|6|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|7|103.73.193.228|8089|Indonesia|Serang|Fot PT Kihnabil.net|
-|8|27.71.141.171|16000|Vietnam|Bảo Lộc|Viettel Group|
-|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|12|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|13|27.71.137.213|16000|Vietnam|Bảo Lộc|Viettel Group|
-|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|16|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|164.163.42.56|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|1|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|9|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|10|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|11|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|12|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|15|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|164.163.42.43|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|164.163.42.22|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|47.236.37.129|18081|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
