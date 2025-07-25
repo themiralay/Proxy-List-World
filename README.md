@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|66.78.40.66|8880|United States|Liberty Lake|Aokigahara SRL|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|66.78.40.66|8880|United States|Liberty Lake|Aokigahara SRL|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|27.71.141.120|16000|Vietnam|Bảo Lộc|Viettel Group|
-|16|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|103.191.250.58|8080|Indonesia|Pancur Biru Lestari II|PT Mulia Batam Net|
-|19|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|20|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|27.71.141.171|16000|Vietnam|Bảo Lộc|Viettel Group|
+|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|89.46.249.252|5080|United Kingdom|London|Hydra Communications Ltd|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|27.71.137.213|16000|Vietnam|Bảo Lộc|Viettel Group|
+|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|15|152.53.168.53|32361|United States|Manassas|netcup GmbH|
+|16|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|17|42.118.0.170|16000|Vietnam|Hanoi|FPT Telecom Company|
+|18|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|19|5.134.48.59|8080|Azerbaijan|Baku|SUPERONLAYN|
+|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
