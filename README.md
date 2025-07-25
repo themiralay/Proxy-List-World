@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|1|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
 |2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|3.211.161.22|80|United States|Ashburn|Amazon Technologies Inc.|
-|11|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|58.187.71.205|16000|Vietnam|Hanoi|FPT Telecom Company|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|52.32.176.50|3128|United States|Portland|Amazon.com, Inc.|
-|16|45.115.113.182|4334|Bangladesh|Kāfrul|Drik ICT Ltd|
-|17|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|20|77.110.123.32|3128|United States|Charlotte|Aeza International LTD|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|45.63.40.63|80|The Netherlands|Amsterdam|The Constant Company|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|58.187.71.44|16000|Vietnam|Hanoi|FPT Telecom Company|
+|10|43.231.69.206|3128|Australia|Sydney|Buroserv Australia Pty Ltd|
+|11|157.66.131.26|1111|Indonesia|Ciampea|PT Nararya Global Network|
+|12|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|13|3.211.161.22|80|United States|Ashburn|Amazon Technologies Inc.|
+|14|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|15|27.71.141.120|16000|Vietnam|Bảo Lộc|Viettel Group|
+|16|138.2.64.185|8118|Singapore|Singapore|Oracle Corporation|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|103.236.173.116|8080|Indonesia|Jakarta|PT. Jaringan Registri Indonesia|
+|19|42.118.0.170|16000|Vietnam|Hanoi|FPT Telecom Company|
+|20|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
 
 
 
