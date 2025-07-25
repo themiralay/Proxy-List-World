@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |2|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|3|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
-|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|42.118.74.151|16000|Vietnam|Hanoi|FPT Telecom Company|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|186.96.70.57|999|Venezuela|Caracas|Gold Data USA Inc|
+|8|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |10|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|11|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|14|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|15|186.96.70.57|999|Venezuela|Caracas|Gold Data USA Inc|
-|16|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
-|17|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|19|42.118.1.23|16000|Vietnam|Hanoi|FPT Telecom Company|
-|20|85.9.209.195|8080|The Netherlands|Amsterdam|UPCLOUD-RESERVE|
+|11|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|12|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|13|31.14.114.75|1081|Iran|Tehran|Afranet Co|
+|14|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|17|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|18|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|19|85.9.209.195|8080|The Netherlands|Amsterdam|UPCLOUD-RESERVE|
+|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
