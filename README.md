@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|66.78.40.66|8880|United States|Liberty Lake|Aokigahara SRL|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|1|27.71.141.171|16000|Vietnam|Bảo Lộc|Viettel Group|
+|2|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
 |7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|43.216.143.123|9008|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|11|43.217.159.83|9080|Malaysia|Kuala Lumpur|Amazon.com, Inc.|
-|12|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
-|13|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|15|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|16|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|17|66.78.40.66|8880|United States|Liberty Lake|Aokigahara SRL|
-|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|194.183.190.10|8080|Ukraine|Kyiv|"SCIENTIFIC-INDUSTRIAL FIRM "VOLZ" LIMITED LIABILITY COMPANY|
-|20|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|27.71.141.120|16000|Vietnam|Bảo Lộc|Viettel Group|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|194.183.190.10|8080|Ukraine|Kyiv|"SCIENTIFIC-INDUSTRIAL FIRM "VOLZ" LIMITED LIABILITY COMPANY|
+|16|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|17|27.71.137.213|16000|Vietnam|Bảo Lộc|Viettel Group|
+|18|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|19|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|20|58.187.71.205|16000|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
