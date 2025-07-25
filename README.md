@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|2|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|113.192.12.55|8080|Indonesia|Jakarta|PT Parsaoran Global Datatrans|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|10|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|11|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|12|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|15|27.71.137.213|16000|Vietnam|Bảo Lộc|Viettel Group|
-|16|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|17|85.9.209.195|8080|The Netherlands|Amsterdam|UPCLOUD-RESERVE|
-|18|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|19|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|20|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|2|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|3|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|5|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|11|103.81.110.187|8080|Indonesia|Serang|PT Fiber Data Nusantara|
+|12|27.79.159.153|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|14|42.118.74.151|16000|Vietnam|Hanoi|FPT Telecom Company|
+|15|157.66.50.125|1111|Indonesia|Karawang|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|16|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|17|14.172.146.226|20399|Vietnam|Ho Chi Minh City|VNPT-VNNIC|
+|18|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|19|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|20|58.187.70.153|16000|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
