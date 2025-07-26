@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.61.201|3128|Japan|Chiyoda|InfoSphere|
-|2|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|68.183.179.119|8888|Singapore|Singapore|DigitalOcean, LLC|
-|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
+|4|209.121.164.51|31147|Canada|Burnaby|TELUS Communications Inc.|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|11|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|13|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
 |14|92.58.181.171|7575|Spain|Madrid|UNI2|
-|15|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|16|77.110.123.32|3128|United States|Charlotte|Aeza International LTD|
-|17|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|101.255.211.54|8082|Indonesia|Tangerang|PT Remala Abadi|
-|20|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|15|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|16|27.71.137.213|16000|Vietnam|Bảo Lộc|Viettel Group|
+|17|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|18|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|19|59.29.182.162|8888|South Korea|Wŏnju|Korea Telecom|
+|20|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
 
 
 
