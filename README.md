@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
 |2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 |6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|8|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
 |9|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|16|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|78.47.126.220|8888|Germany|Nuremberg|Hetzner Online GmbH|
-|20|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|10|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|11|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|13|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|18|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|19|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
