@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
 |3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|103.167.171.57|8080|Indonesia|Jakarta|PT Rajeg Media Telekomunikasi|
-|9|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|11|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
 |12|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|13|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|14|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|15|58.187.70.67|16000|Vietnam|Hanoi|FPT Telecom Company|
-|16|45.63.40.63|80|The Netherlands|Amsterdam|The Constant Company|
-|17|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|20|115.77.169.113|10009|Vietnam|Vũng Tàu|Viettel Group|
+|13|70.36.99.51|3128|United States|Los Angeles|Perfect International, Inc|
+|14|70.36.99.51|3128|United States|Los Angeles|Perfect International, Inc|
+|15|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|17|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|18|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|19|92.58.181.171|7575|Spain|Madrid|UNI2|
+|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
