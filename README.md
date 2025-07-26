@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|4|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|27.71.137.213|16000|Vietnam|Bảo Lộc|Viettel Group|
-|10|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|13|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|1|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|2|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|3|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|8|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|9|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|12|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
 |15|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|27.79.160.251|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
-|19|209.121.164.51|31147|Canada|Burnaby|TELUS Communications Inc.|
-|20|38.52.209.9|999|Guatemala|Mataquescuintla|CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|
+|16|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|17|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|18|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|19|217.197.100.249|8000|Italy|Poppi|WISP.ONE S.R.L.|
+|20|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
 
 
 
