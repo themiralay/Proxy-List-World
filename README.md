@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
 |7|70.36.99.51|3128|United States|Los Angeles|Perfect International, Inc|
-|8|70.36.99.51|3128|United States|Los Angeles|Perfect International, Inc|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|17|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|18|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|19|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|13|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|14|70.36.99.51|3128|United States|Los Angeles|Perfect International, Inc|
+|15|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|16|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|17|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|18|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|19|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
