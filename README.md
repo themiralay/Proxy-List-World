@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
-|2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|160.153.172.248|80|United States|Tempe|GoDaddy.com, LLC|
-|11|160.153.172.248|80|United States|Tempe|GoDaddy.com, LLC|
-|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|1|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|160.153.172.248|80|United States|Tempe|GoDaddy.com, LLC|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
 |13|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
 |15|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|16|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|17|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|20|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
+|19|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|20|160.153.172.248|80|United States|Tempe|GoDaddy.com, LLC|
 
 
 
