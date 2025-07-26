@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|44.198.241.44|3128|United States|Ashburn|Amazon.com|
-|5|59.29.182.162|8888|South Korea|Wŏnju|Korea Telecom|
+|1|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
 |6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|44.198.241.44|3128|United States|Ashburn|Amazon.com|
-|8|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|11|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|12|47.252.81.108|8118|United States|Richmond|Alibaba Cloud LLC|
-|13|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|15|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|16|31.14.114.77|1081|Iran|Tehran|Afranet Co|
-|17|47.252.81.108|8118|United States|Richmond|Alibaba Cloud LLC|
-|18|162.223.89.87|3128|United States|Buffalo|ColoUp|
-|19|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
-|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|13|14.172.146.226|20399|Vietnam|Ho Chi Minh City|VNPT-VNNIC|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|16|180.149.232.253|6147|Bangladesh|Gazipur|Digi Jadoo Broadband Ltd|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|19|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|20|103.85.53.62|8080|Indonesia|Krajan Ngagel|PT Binerkahan Digital Telco|
 
 
 
