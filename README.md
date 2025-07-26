@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|2|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|1|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|2|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|3|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|4|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|6|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
 |9|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|11|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|12|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|13|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|16|59.29.182.162|8888|South Korea|Wŏnju|Korea Telecom|
-|17|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|18|27.71.137.213|16000|Vietnam|Bảo Lộc|Viettel Group|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|14|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|15|110.49.34.126|32650|Thailand|Bangkok|Advanced Wireless Network Company Limited|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|66.27.58.70|8080|United States|Hawthorne|Spectrum|
+|18|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
 |19|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|85.206.93.105|8080|Lithuania|Patašinė|Telia Lietuva|
 
 
 
