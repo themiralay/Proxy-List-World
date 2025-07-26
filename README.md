@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|140.227.61.201|3128|Japan|Chiyoda|InfoSphere|
+|1|140.227.61.201|3128|Japan|Chiyoda|InfoSphere|
+|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|58.187.70.67|16000|Vietnam|Hanoi|FPT Telecom Company|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|58.187.70.67|16000|Vietnam|Hanoi|FPT Telecom Company|
+|5|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 |9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|11|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|27.71.137.213|16000|Vietnam|Bảo Lộc|Viettel Group|
-|14|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|15|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|160.20.38.2|8080|Indonesia|Indramayu|PT SAMUDRA DIGITAL NETWORK|
-|18|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|19|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
-|20|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|10|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|14.172.146.226|20399|Vietnam|Ho Chi Minh City|VNPT-VNNIC|
+|13|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
+|14|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
+|15|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|17|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|18|31.14.114.67|1081|Iran|Tehran|Afranet Co|
+|19|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|20|103.73.193.130|8080|Indonesia|Serang|Fot PT Kihnabil.net|
 
 
 
