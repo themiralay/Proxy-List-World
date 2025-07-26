@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|58.187.70.67|16000|Vietnam|Hanoi|FPT Telecom Company|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|1|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|202.93.244.66|1111|Indonesia|Kamal|PT. Dutakom Wibawa Putra|
+|6|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|15|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|16|13.57.11.118|3128|United States|San Jose|Amazon.com, Inc.|
-|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|17|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|18|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|19|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|20|181.78.95.50|999|Paraguay|Asunción|Ufinet Paraguay S.A|
 
 
 
