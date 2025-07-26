@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.61.201|3128|Japan|Chiyoda|InfoSphere|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|5|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|58.187.70.67|16000|Vietnam|Hanoi|FPT Telecom Company|
-|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|13|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|14|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|17|92.58.181.171|7575|Spain|Madrid|UNI2|
-|18|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|19|77.110.123.32|3128|United States|Charlotte|Aeza International LTD|
-|20|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|6|68.183.179.119|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|11|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|13|191.97.14.189|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|14|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|15|92.58.181.171|7575|Spain|Madrid|UNI2|
+|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|18|77.110.123.32|3128|United States|Charlotte|Aeza International LTD|
+|19|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|20|146.103.99.6|6588|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
