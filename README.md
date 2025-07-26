@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.121.164.51|31147|Canada|Burnaby|TELUS Communications Inc.|
-|2|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
-|6|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|59.29.182.162|8888|South Korea|Wŏnju|Korea Telecom|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|13|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|14|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|15|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|16|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|17|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|18|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|213.207.200.222|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|1|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|7|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|12|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|13|31.14.114.71|1081|Iran|Tehran|Afranet Co|
+|14|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|15|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
+|16|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|17|54.219.186.252|9909|United States|San Jose|Amazon.com, Inc.|
+|18|157.15.144.82|8080|Indonesia|Cilacap|PT. INDOTEK SOLUTION NETWORK|
+|19|3.101.76.84|18242|United States|San Jose|Amazon.com, Inc.|
+|20|192.203.0.210|999|Puerto Rico|Fajardo|Boom NET|
 
 
 
