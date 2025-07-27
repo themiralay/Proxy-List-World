@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|7|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
-|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|9|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|10|31.14.114.75|1081|Iran|Tehran|Afranet Co|
-|11|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|14|27.79.237.0|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|103.191.254.134|8080|Indonesia|Jadi|PT Ayodya Data Internusa|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|8|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|11|103.119.147.235|8080|Indonesia|Jakarta|PT Bali Towerindo Sentra, Tbk|
+|12|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|13|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|14|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |16|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
-|17|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|18|103.81.194.17|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|19|45.123.142.84|1111|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
-|20|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|18|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|19|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|20|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
 
 
 
