@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|3|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 |10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|12|157.20.253.43|8989|Indonesia|Jakarta|PT.Global Media Data Prima|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|16|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|18|171.6.101.28|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|19|103.68.214.113|8787|Indonesia|Bulakamba|PT Media Grasi Internet|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|13|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
+|14|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|15|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|16|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|103.38.102.142|8080|Indonesia|Kroya|LAXONET|
+|18|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |20|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
 
 
