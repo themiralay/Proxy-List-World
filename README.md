@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|34.142.215.211|3128|Singapore|Singapore|Google LLC|
 |2|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|59.29.182.162|8888|South Korea|Wŏnju|Korea Telecom|
+|3|210.186.125.148|8080|Malaysia|Kuala Lumpur|ADSL Streamyx Telekom Malaysia|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|113.175.45.73|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|11|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|13|42.118.3.41|16000|Vietnam|Hanoi|FPT Telecom Company|
-|14|139.135.145.198|5050|Philippines|Pasig|ComClark Network & Technology Corp|
-|15|42.117.240.219|16000|Vietnam|Hanoi|FPT Telecom Company|
-|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|18|42.119.241.37|3051|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|19|191.232.39.200|3128|Brazil|São Paulo|Microsoft Corporation|
-|20|217.160.224.54|8118|Germany|Berlin|IONOS SE|
+|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|11|58.186.92.204|16000|Vietnam|Hanoi|FPT Telecom Company|
+|12|42.117.240.219|16000|Vietnam|Hanoi|FPT Telecom Company|
+|13|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|14|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|15|27.79.204.172|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|17|42.119.156.139|16000|Vietnam|Hanoi|FPT Telecom Company|
+|18|49.49.56.81|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
+|19|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|20|1.55.60.133|16000|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
