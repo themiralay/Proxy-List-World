@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|9|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|13|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|14|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|15|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|16|200.39.120.43|999|Mexico|Villa García|Marcatel Com, S.A. de C.V.|
-|17|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|103.189.250.65|8080|Indonesia|Srono|PT Pandawa Lima Java Network|
-|20|196.217.109.164|39811|Morocco|Salé|IP ADSL MarocTelecom|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|6|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|10|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|11|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|13|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|14|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|15|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|18|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
 
 
 
