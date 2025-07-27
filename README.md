@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|70.36.99.51|3128|United States|Los Angeles|Perfect International, Inc|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
-|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|11|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|70.36.99.51|3128|United States|Los Angeles|Perfect International, Inc|
+|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|8|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|12|70.36.99.51|3128|United States|Los Angeles|Perfect International, Inc|
 |13|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|14|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|15|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|16|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|70.36.99.51|3128|United States|Los Angeles|Perfect International, Inc|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|15|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|17|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|18|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|19|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
