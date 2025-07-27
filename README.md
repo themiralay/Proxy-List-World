@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.142.215.211|3128|Singapore|Singapore|Google LLC|
-|2|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|3|171.237.84.11|1029|Vietnam|Hanoi|Viettel Corporation|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|7|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|43.153.109.39|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|13|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|43.153.109.39|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|16|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|19|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|20|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|2|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|10|43.153.109.39|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|11|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|14|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|16|34.131.111.117|3128|India|New Delhi|Google LLC|
+|17|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|18|34.131.85.161|3128|India|New Delhi|Google LLC|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
 
 
 
