@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|171.237.119.194|1017|Vietnam|Hanoi|Viettel Corporation|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|5|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|6|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
 |7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|34.131.85.161|3128|India|New Delhi|Google LLC|
-|14|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|15|8.222.197.104|1080|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|82.202.180.214|8888|Russia|Moscow|Xeon LLC|
-|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
-|19|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|20|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|13|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|14|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|15|116.107.175.128|10001|Vietnam|Tuyên Quang|Viettel Corporation|
+|16|27.79.139.159|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|27.79.158.38|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
