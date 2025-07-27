@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|103.55.224.69|8181|Indonesia|Karawang|PT Gapura Era Digital|
+|1|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|160.19.19.99|8989|Indonesia|Kediri|PT Indo Telemedia Solusi|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|190.52.100.81|999|Venezuela|Caracas|Gold Data USA Inc|
-|12|160.187.191.3|8082|Bangladesh|Puthia|Race Online Limited|
-|13|45.63.40.63|80|The Netherlands|Amsterdam|The Constant Company|
-|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|16|119.155.143.218|8080|Pakistan|Islamabad|Pakistan Telecommuication company limited|
-|17|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|18|190.61.116.244|999|Honduras|Tegucigalpa|Ufinet Honduras|
-|19|110.164.128.124|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|20|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|9|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|12|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|14|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
+|15|43.225.185.154|8080|Indonesia|Batam|SOLNET|
+|16|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|17|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|18|102.213.179.194|8081|Kenya|Nairobi|NEXT THING NETWORKS Limited|
+|19|36.88.189.66|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|20|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
 
 
 
