@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 |4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|6|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|12|103.85.15.46|8082|Indonesia|Dolok Sanggul|PT. Hesta Media Sinergi|
-|13|179.1.142.129|8080|Colombia|Bogotá|Internexa S.a. E.S.P|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|45.63.40.63|80|The Netherlands|Amsterdam|The Constant Company|
-|16|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|17|45.230.170.30|999|Venezuela|Caracas|Soluciones DCN Network C.A|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|152.53.168.53|31915|United States|Manassas|netcup GmbH|
+|10|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|116.107.175.128|10003|Vietnam|Tuyên Quang|Viettel Corporation|
+|14|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|15|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|16|85.206.93.105|8080|Lithuania|Patašinė|Telia Lietuva|
+|17|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
 |18|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|47.236.37.129|18081|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|190.145.227.114|999|Colombia|Santiago de Cali|Telmex Colombia S.A.|
+|20|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
 
 
 
