@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.175.45.73|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|182.253.109.61|8080|Indonesia|Semarang|Biznet Metronet|
-|3|103.154.118.154|57413|Indonesia|Jakarta|MORATELINDONAP|
+|1|112.209.12.96|8081|Philippines|Imus|Philippine Long Distance Telephone Co.|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|113.175.45.73|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|7|27.71.142.31|16000|Vietnam|Bảo Lộc|Viettel Group|
-|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|13|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|14|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|16|58.187.70.102|16000|Vietnam|Hanoi|FPT Telecom Company|
-|17|42.118.3.228|16000|Vietnam|Hanoi|FPT Telecom Company|
-|18|27.71.129.176|16000|Vietnam|Bảo Lộc|Viettel Group|
-|19|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|20|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|34.131.111.117|3128|India|New Delhi|Google LLC|
+|6|182.253.109.61|8080|Indonesia|Semarang|Biznet Metronet|
+|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|8|124.217.104.122|8082|Philippines|Davao City|Philippine Long Distance Telephone Co.|
+|9|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|13|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|14|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|15|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|16|47.236.37.129|18081|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|18|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|20|42.118.74.105|16000|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
