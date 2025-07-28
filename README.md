@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|112.216.83.10|3128|South Korea|Siheung-si|LG DACOM Corporation|
-|2|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|10|92.58.181.171|7575|Spain|Madrid|UNI2|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|157.66.16.36|5568|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|8|74.207.235.213|1221|United States|Atlanta|Akamai Technologies, Inc.|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
 |11|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|12|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
 |13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|171.237.119.194|1017|Vietnam|Hanoi|Viettel Corporation|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|18|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|19|203.175.127.240|8080|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
-|20|42.117.243.163|16000|Vietnam|Hanoi|FPT Telecom Company|
+|14|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|15|92.58.181.171|7575|Spain|Madrid|UNI2|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|200.94.102.13|999|Mexico|Fronterita|Alestra, S. de R.L. de C.V.|
+|19|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|20|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
 
 
 
