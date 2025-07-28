@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|417|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|417|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|417|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|373|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|373|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|373|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|2|183.80.8.212|16000|Vietnam|Hanoi|FPT Telecom Company|
-|3|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|1|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|2|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|8|202.154.18.148|8080|Indonesia|Babat|DIGITNET|
-|9|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|10|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|12|42.119.155.44|16000|Vietnam|Hanoi|FPT Telecom Company|
-|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|14|92.58.181.171|7575|Spain|Madrid|UNI2|
-|15|42.118.16.195|16000|Vietnam|Hanoi|FPT Telecom Company|
-|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|103.14.231.218|3168|Indonesia|Menggala|PT Internet Corp Ltd|
-|18|116.96.82.102|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|58.186.45.153|16000|Vietnam|Hanoi|FPT Telecom Company|
-|20|42.118.0.181|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|10|92.58.181.171|7575|Spain|Madrid|UNI2|
+|11|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|183.80.23.68|16000|Vietnam|Hanoi|FPT Telecom Company|
+|14|42.118.16.195|16000|Vietnam|Hanoi|FPT Telecom Company|
+|15|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
+|16|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|1.55.193.157|16000|Vietnam|Hanoi|FPT Telecom Company|
+|19|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|20|58.186.163.172|16000|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
