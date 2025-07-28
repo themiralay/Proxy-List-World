@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|58.186.45.153|16000|Vietnam|Hanoi|FPT Telecom Company|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|152.42.192.87|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|1.173.201.249|3128|Taiwan|Chiyayi County|Chunghwa Telecom Co., Ltd.|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|10|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|11|27.79.129.145|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|202.232.52.162|8080|Japan|Ōita|Internet Initiative Japan Inc.|
-|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|2|1.173.201.249|3128|Taiwan|Chiyayi County|Chunghwa Telecom Co., Ltd.|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|9|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|10|27.79.129.145|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|58.186.45.153|16000|Vietnam|Hanoi|FPT Telecom Company|
+|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|103.248.222.0|90|Pakistan|Rawalpindi|ALPINES INTERNET (PRIVATE) LIMITED|
-|16|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|17|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|18|42.118.17.124|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|20|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|15|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|17|37.32.40.253|8080|Iran|Ahvaz|Toloe Rayaneh Loghman Educational and Cultural Co.|
+|18|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|19|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|20|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
 
 
 
