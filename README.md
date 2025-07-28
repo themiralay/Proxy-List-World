@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|10|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|11|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|12|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|13|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|14|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|15|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|16|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|17|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|18|147.28.240.216|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|144.76.159.121|8082|Germany|Falkenstein|Hetzner Online GmbH|
+|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|8|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|14|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|15|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|16|14.172.146.226|20399|Vietnam|Ho Chi Minh City|VNPT-VNNIC|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|19|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|20|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 
 
 
