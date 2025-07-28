@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.227.61.201|3128|Japan|Chiyoda|InfoSphere|
-|2|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|140.227.61.201|3128|Japan|Chiyoda|InfoSphere|
 |3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|5|171.237.119.194|1010|Vietnam|Hanoi|Viettel Corporation|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|12|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|112.216.83.10|3128|South Korea|Siheung-si|LG DACOM Corporation|
-|15|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|18|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|19|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|9|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|10|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|14|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|16|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|17|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
 
 
 
