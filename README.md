@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|140.227.61.201|3128|Japan|Chiyoda|InfoSphere|
-|2|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|112.216.83.10|3128|South Korea|Siheung-si|LG DACOM Corporation|
-|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|10|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|11|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|12|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|13|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|14|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|16|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|17|42.118.0.168|16000|Vietnam|Hanoi|FPT Telecom Company|
-|18|59.29.182.162|8888|South Korea|Wŏnju|Korea Telecom|
-|19|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
-|20|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|12|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|13|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|15|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|18|8.243.67.190|8080|Colombia|Bogotá|CTL Colombia|
+|19|112.216.83.10|3128|South Korea|Siheung-si|LG DACOM Corporation|
+|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
