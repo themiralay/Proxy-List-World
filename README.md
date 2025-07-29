@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|362|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|362|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|362|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
-|2|139.59.228.95|8118|Singapore|Singapore|DIGITALOCEAN|
+|1|27.71.128.132|16000|Vietnam|Bảo Lộc|Viettel Group|
+|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |3|4.197.152.93|3128|Australia|The Rocks|Microsoft Corporation|
-|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|6|59.29.182.162|8888|South Korea|Wŏnju|Korea Telecom|
-|7|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|91.107.185.149|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|183.80.22.13|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|15|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|16|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|18|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
-|19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|20|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|5|27.71.141.120|16000|Vietnam|Bảo Lộc|Viettel Group|
+|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|7|27.79.138.237|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|58.186.92.146|16000|Vietnam|Hanoi|FPT Telecom Company|
+|9|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|27.79.172.194|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|113.23.39.17|16000|Vietnam|Hai BàTrưng|FPT Telecom Company|
+|15|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
+|16|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|17|42.118.2.246|16000|Vietnam|Hanoi|FPT Telecom Company|
+|18|42.119.98.115|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|42.114.11.170|16000|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
