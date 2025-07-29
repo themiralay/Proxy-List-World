@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|4|59.29.182.162|8888|South Korea|Wŏnju|Korea Telecom|
-|5|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|8|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|9|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|10|91.107.185.149|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|1|74.48.189.152|2580|United States|Los Angeles|Multacom Corporation|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
+|5|103.133.27.229|8080|Indonesia|Mranggen|PT PHATRIA INTI PERSADA|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|8|91.107.185.149|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|10|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
 |11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|12|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|13|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|14|45.159.220.120|7778|Germany|Karlsruhe|Contabo GmbH|
 |15|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|19|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
-|20|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|18|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|19|210.87.125.146|8090|Indonesia|Krajan Wetan Wonojoyo|CV Brawijaya Giga Network|
+|20|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
 
 
 
