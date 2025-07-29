@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -39,24 +39,24 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|2|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|3|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|4|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|5|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
 |6|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|8|37.32.40.253|8080|Iran|Ahvaz|Toloe Rayaneh Loghman Educational and Cultural Co.|
-|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|12|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|196.217.26.230|39811|Morocco|Salé|IP ADSL MarocTelecom|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|9|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|10|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|11|36.94.39.146|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|12|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|13|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|14|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|15|27.79.204.174|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
 |17|147.28.240.200|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|18|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|18|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
 |19|144.76.159.121|8085|Germany|Falkenstein|Hetzner Online GmbH|
 |20|147.28.240.216|443|Germany|Frankfurt am Main|Packet Host, Inc.|
 
