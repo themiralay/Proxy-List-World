@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75027** proxies at the latest update. Usable proxies are below.
+> Scraper found **75016** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35589|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35622|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|153|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|109|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38059|✅|
 
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|1|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|2|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
+|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 |5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|8|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|11|23.94.236.141|8080|United States|Los Angeles|HostPapa|
-|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|13|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|14|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|91.107.185.149|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|9|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|11|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|12|78.109.201.55|81|Iran|Tehran|Afranet co|
+|13|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|14|8.208.97.82|3129|United Kingdom|London|Alibaba.com Singapore E-Commerce Private Limited|
 |15|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|16|58.186.131.73|16000|Vietnam|Hanoi|FPT Telecom Company|
-|17|27.71.143.114|16000|Vietnam|Bảo Lộc|Viettel Group|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|147.28.240.215|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|20|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|16|116.107.175.128|10003|Vietnam|Tuyên Quang|Viettel Corporation|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|147.28.240.200|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|19|147.28.240.200|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|188.132.222.247|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
