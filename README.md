@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
-|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|7|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|11|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|12|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|13|27.71.141.120|16000|Vietnam|Bảo Lộc|Viettel Group|
-|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|16|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|18|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|19|103.56.205.84|8080|Indonesia|Jakarta|Argon Data Communication|
-|20|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|66.228.47.125|110|United States|Cedar Knolls|Akamai Technologies, Inc.|
+|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|9|91.107.185.149|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|12|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|66.228.47.125|110|United States|Cedar Knolls|Akamai Technologies, Inc.|
+|15|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
+|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|17|37.32.40.253|8080|Iran|Ahvaz|Toloe Rayaneh Loghman Educational and Cultural Co.|
+|18|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|19|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|20|116.101.28.101|22661|Vietnam|Hanoi|Viettel Corporation|
 
 
 
