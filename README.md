@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|5|74.48.189.152|2580|United States|Los Angeles|Multacom Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|137.184.223.13|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|13|91.107.185.149|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|43.252.237.163|8082|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|18|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|20|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|1|202.232.52.162|8080|Japan|Ōita|Internet Initiative Japan Inc.|
+|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|91.107.185.149|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
+|18|49.147.104.174|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|19|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|20|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
