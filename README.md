@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|6|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|7|14.239.189.250|8080|Vietnam|Việt Trì|VNPT|
-|8|115.72.160.117|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|9|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|10|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|11|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|14|91.107.185.149|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|16|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
-|17|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|18|42.114.11.81|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|20|57.129.29.184|1080|Germany|Frankfurt am Main|OVH SAS|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|27.71.128.132|16000|Vietnam|Bảo Lộc|Viettel Group|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|103.220.23.221|3120|Indonesia|Ponorogo|CV. LINTAS MEDIA|
+|5|14.239.189.250|8080|Vietnam|Việt Trì|VNPT|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|27.71.141.120|16000|Vietnam|Bảo Lộc|Viettel Group|
+|9|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|12|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|13|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|14|103.156.17.171|8181|Indonesia|Jatibarang|RSTNET|
+|15|170.80.202.251|999|Dominican Republic|Santiago de los Caballeros|RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L|
+|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|17|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
+|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|20|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
 
 
 
