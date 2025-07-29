@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|438|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|438|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|438|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
 |6|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
 |7|202.232.52.162|8080|Japan|Ōita|Internet Initiative Japan Inc.|
-|8|1.52.140.110|16000|Vietnam|Ho Chi Minh City|FPTDYNAMICIP|
-|9|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|42.114.11.170|16000|Vietnam|Hanoi|FPT Telecom Company|
-|11|27.71.128.132|16000|Vietnam|Bảo Lộc|Viettel Group|
-|12|27.79.242.170|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|113.23.39.17|16000|Vietnam|Hai BàTrưng|FPT Telecom Company|
+|8|27.79.244.250|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|42.119.2.155|16000|Vietnam|Hanoi|FPT Telecom Company|
+|10|58.186.110.243|16000|Vietnam|Hanoi|FPT Telecom Company|
+|11|42.118.225.104|16000|Vietnam|Hanoi|FPT Telecom Company|
+|12|42.117.168.231|16000|Vietnam|Quận Mười|FPT Telecom Company|
+|13|58.186.248.8|16000|Vietnam|Hanoi|FPT Telecom Company|
 |14|58.186.53.98|16000|Vietnam|Hanoi|FPT Telecom Company|
-|15|42.119.2.155|16000|Vietnam|Hanoi|FPT Telecom Company|
-|16|42.117.168.231|16000|Vietnam|Quận Mười|FPT Telecom Company|
-|17|27.79.167.57|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|42.118.225.104|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|42.119.167.13|16000|Vietnam|Hanoi|FPT Telecom Company|
-|20|58.186.248.8|16000|Vietnam|Hanoi|FPT Telecom Company|
+|15|42.119.167.13|16000|Vietnam|Hanoi|FPT Telecom Company|
+|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|17|1.52.140.110|16000|Vietnam|Ho Chi Minh City|FPTDYNAMICIP|
+|18|118.68.167.74|16000|Vietnam|Hanoi|FPT Telecom Company|
+|19|27.79.167.57|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 
 
 
