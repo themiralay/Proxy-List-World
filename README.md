@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|42.114.11.81|16000|Vietnam|Hanoi|FPT Telecom Company|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|1.55.60.217|16000|Vietnam|Hanoi|FPT Telecom Company|
-|7|14.239.189.250|8080|Vietnam|Việt Trì|VNPT|
-|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|9|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|11|1.55.60.120|16000|Vietnam|Hanoi|FPT Telecom Company|
-|12|1.54.175.123|16000|Vietnam|Hanoi|FPT Telecom Company|
-|13|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|42.118.173.158|16000|Vietnam|Hanoi|FPT Telecom Company|
-|16|1.54.175.34|16000|Vietnam|Hanoi|FPT Telecom Company|
-|17|34.100.231.130|3128|India|Mumbai|Google LLC|
-|18|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
-|19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|20|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|1|14.239.189.250|8080|Vietnam|Việt Trì|VNPT|
+|2|27.71.128.132|16000|Vietnam|Bảo Lộc|Viettel Group|
+|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|1.54.175.34|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|42.118.173.158|16000|Vietnam|Hanoi|FPT Telecom Company|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|12|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|34.100.231.130|3128|India|Mumbai|Google LLC|
+|15|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|16|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
+|17|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|18|42.114.11.81|16000|Vietnam|Hanoi|FPT Telecom Company|
+|19|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|20|58.186.53.98|16000|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
