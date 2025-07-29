@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|377|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|377|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|377|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|137.184.223.13|3128|United States|North Bergen|DigitalOcean, LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|1|202.232.52.162|8080|Japan|Ōita|Internet Initiative Japan Inc.|
+|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|139.59.228.95|8118|Singapore|Singapore|DIGITALOCEAN|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|8|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|9|91.107.185.149|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|11|91.107.185.149|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
 |12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|14|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|15|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|16|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|17|18.179.46.106|999|Japan|Tokyo|Amazon Technologies Inc.|
-|18|183.80.22.185|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|19|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|20|103.216.48.124|8080|Cambodia|Phnom Penh|Today Communication Co|
+|13|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|16|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
+|17|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|18|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|19|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
+|20|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
 
 
 
