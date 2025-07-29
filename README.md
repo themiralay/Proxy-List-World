@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
 |2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|5|58.186.131.73|16000|Vietnam|Hanoi|FPT Telecom Company|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|1.54.237.20|16000|Vietnam|Hanoi|FPT Telecom Company|
-|9|27.79.204.174|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|42.118.202.53|16000|Vietnam|Thu Dau Mot|FPT Telecom Company|
-|13|27.79.203.49|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|183.80.22.185|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|15|1.54.77.232|16000|Vietnam|Hanoi|FPT Telecom Company|
-|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|17|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|18|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|1.55.193.157|16000|Vietnam|Hanoi|FPT Telecom Company|
-|20|183.80.22.206|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
+|13|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|16|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
+|19|27.79.203.49|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
