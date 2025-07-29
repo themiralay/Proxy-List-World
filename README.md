@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|392|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|392|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|392|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
 |2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
 |3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|27.71.130.147|16000|Vietnam|Bảo Lộc|Viettel Group|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|103.126.86.91|7777|Indonesia|Karanganyar|PT. Rasi Bintang Perkasa|
-|15|59.29.182.162|8888|South Korea|Wŏnju|Korea Telecom|
-|16|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
-|17|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|18|117.250.3.58|8080|India|Dehradun|Bharat Sanchar Nigam Ltd|
-|19|65.38.213.154|8881|Puerto Rico|San Juan|AT&T Mobility Puerto Rico|
-|20|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|160.187.174.170|8080|Indonesia|Deli Serdang|PT Netindo Persada Nusantara|
+|6|1.54.77.232|16000|Vietnam|Hanoi|FPT Telecom Company|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|157.20.252.221|8083|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
+|9|117.6.48.4|16000|Vietnam|Hanoi|VIETTEL|
+|10|42.118.74.104|16000|Vietnam|Hanoi|FPT Telecom Company|
+|11|42.118.202.53|16000|Vietnam|Thu Dau Mot|FPT Telecom Company|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|15|1.55.59.202|16000|Vietnam|Hanoi|FPT Telecom Company|
+|16|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|17|58.186.131.73|16000|Vietnam|Hanoi|FPT Telecom Company|
+|18|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|19|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
 
 
 
