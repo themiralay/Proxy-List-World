@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|3|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|4|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|4|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
 |5|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|6|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|7|27.79.146.172|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|194.29.60.220|8080|Ukraine|Kyiv|PRIVATE JOINT STOCK COMPANY "DATAGROUP"|
-|9|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|27.79.156.251|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|8|103.143.197.218|8000|Indonesia|Karanganom|JERNIHNETWORK|
+|9|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|10|147.28.240.200|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|14|147.28.240.200|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|15|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|16|147.28.240.217|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|17|147.28.240.214|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|18|164.163.42.43|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|66.210.33.34|8080|United States|Navarre|Cox Communications Inc.|
+|14|147.28.240.217|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|15|147.28.240.214|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|16|159.89.239.166|18086|United States|North Bergen|DigitalOcean, LLC|
+|17|164.163.42.43|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|103.76.109.193|8080|Indonesia|Kraksaan|PT Mahawira Nusantara Grup|
 |19|147.28.240.216|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|20|147.28.240.218|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|147.28.240.218|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
