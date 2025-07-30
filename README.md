@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|6|27.79.178.148|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|8|181.129.97.38|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
-|9|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|10|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|11|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|14|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|15|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|16|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|17|147.28.240.217|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|18|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|19|147.28.240.216|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|20|147.28.240.216|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|1|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
+|2|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|115.77.133.5|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|9|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|10|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|13|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|16|147.28.240.217|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|17|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|18|147.28.240.216|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|157.66.16.38|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
 
 
 
