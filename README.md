@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|34.218.51.162|3128|United States|Portland|Amazon.com, Inc.|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
-|5|34.218.51.162|3128|United States|Portland|Amazon.com, Inc.|
-|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|2|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
+|3|34.218.51.162|3128|United States|Portland|Amazon.com, Inc.|
+|4|34.218.51.162|3128|United States|Portland|Amazon.com, Inc.|
+|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|6|51.79.99.237|4502|Canada|Montreal|OVH SAS|
 |7|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|8|3.16.164.85|3128|United States|Dublin|Amazon.com, Inc.|
-|9|103.156.75.246|8181|Indonesia|Gianyar|PT Trika Global Media|
-|10|125.164.213.163|3128|Indonesia|Malang|PT. TELKOM INDONESIA|
-|11|103.155.198.142|1080|Indonesia|Jakarta|PT Lintas Jaringan Nusantara|
-|12|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|3.16.164.85|3128|United States|Dublin|Amazon.com, Inc.|
+|10|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|11|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|12|42.119.98.195|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|13|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
+|14|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
 |15|37.32.40.253|8080|Iran|Ahvaz|Toloe Rayaneh Loghman Educational and Cultural Co.|
-|16|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|17|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|120.28.152.190|8082|Philippines|San Juan|Globe Telecom|
+|17|164.90.193.32|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|18|103.39.75.123|8080|Indonesia|Karanganyar|PT. GOLDEN NETWORK NUSANTARA|
 |19|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 
 
 
