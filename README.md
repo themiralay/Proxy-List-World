@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
 |6|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|44.211.254.144|3128|United States|Ashburn|Amazon.com|
-|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|11|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|12|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
-|13|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|16|147.28.240.216|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|17|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|18|147.28.240.218|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|19|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|20|117.2.48.206|8080|Vietnam|Qui Nhon|Viettel Corporation|
+|7|42.118.1.93|16000|Vietnam|Hanoi|FPT Telecom Company|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|10|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
+|11|37.32.40.253|8080|Iran|Ahvaz|Toloe Rayaneh Loghman Educational and Cultural Co.|
+|12|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|13|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|14|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|15|1.54.175.15|16000|Vietnam|Hanoi|FPT Telecom Company|
+|16|204.199.120.18|999|Colombia|Pasto|Level 3 Communications, Inc.|
+|17|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|18|147.28.240.216|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|19|85.206.93.105|8080|Lithuania|Patašinė|Telia Lietuva|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
