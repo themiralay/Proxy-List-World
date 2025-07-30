@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|3|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|4|181.129.97.38|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
-|5|27.79.146.172|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|103.143.197.218|8000|Indonesia|Karanganom|JERNIHNETWORK|
-|8|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|9|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|10|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|11|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|147.28.240.216|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|14|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|15|147.28.240.216|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|16|147.28.240.213|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|17|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|18|147.28.240.200|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|19|147.28.240.200|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|2|103.102.12.105|8080|Indonesia|Rembangan|FISNET|
+|3|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
+|4|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|5|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|6|181.129.97.38|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|9|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|10|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|11|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|12|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|13|59.29.182.162|8888|South Korea|Wŏnju|Korea Telecom|
+|14|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|15|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|18|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|19|147.28.240.216|443|Germany|Frankfurt am Main|Packet Host, Inc.|
 |20|147.28.240.216|443|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
