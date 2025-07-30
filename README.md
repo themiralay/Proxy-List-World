@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
-|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|6|103.13.215.31|8081|Thailand|Ratchathewi|Bunny Communications|
-|7|201.54.176.64|8080|Brazil|Piquet Carneiro|C & K TELECOMUNICACOES LTDA|
-|8|182.253.36.52|33128|Indonesia|Sukabumi|BIZNET|
-|9|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|103.17.246.60|1080|Indonesia|Banjar Medura|PT Media Sarana Data|
-|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|14|85.206.93.105|8080|Lithuania|Patašinė|Telia Lietuva|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|45.189.252.242|999|Mexico|Tlalixcoyan|Tracered SA De CV|
-|17|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|18|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|19|115.127.139.106|48134|Bangladesh|Paltan|BRACNet Limited|
-|20|134.35.9.159|8080|Yemen|Aden|Public Telecommunication Corporation|
+|2|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
+|6|114.198.244.57|3128|Indonesia|Kediri|PT Sumber Data Indonesia|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|10|103.189.249.196|1111|Indonesia|Krajan Dukuhseti|PT Berkah Media Kusuma Vision|
+|11|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
+|12|119.93.173.202|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|103.25.111.246|8080|Indonesia|Pamulang|PT. Indonesia Comnet Plus|
+|17|210.61.216.63|60808|Taiwan|Yangmei District|Chunghwa Telecom Co., Ltd.|
+|18|42.117.168.54|16000|Vietnam|Quận Mười|FPT Telecom Company|
+|19|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
+|20|42.119.98.170|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
 
 
 
