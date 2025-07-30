@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
-|3|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|6|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|7|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|8|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|10|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|11|147.161.246.38|11814|Switzerland|Zurich|Zscaler Switzerland GmbH|
-|12|144.76.159.121|8082|Germany|Falkenstein|Hetzner Online GmbH|
-|13|147.28.240.210|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|14|147.28.240.217|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|15|147.28.240.215|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|16|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|17|147.28.240.214|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|18|66.78.40.66|8880|United States|Liberty Lake|Aokigahara SRL|
-|19|51.159.159.73|80|France|Paris|SCALEWAY|
-|20|152.53.194.46|8053|United States|Manassas|netcup GmbH|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|4|42.119.98.195|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|5|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|6|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|7|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|10|38.183.146.181|8090|Indonesia|Weleri|PT Ikhlas Cipta Teknologi|
+|11|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|12|147.161.246.38|11814|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|13|144.76.159.121|8082|Germany|Falkenstein|Hetzner Online GmbH|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|147.28.240.210|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|16|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|17|193.30.13.186|8080|Ecuador|Guayaquil|GEDATECU SA|
+|18|41.33.142.182|8081|Egypt|Banī Suwayf|TE Data|
+|19|147.28.240.217|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
