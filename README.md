@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|37.32.40.253|8080|Iran|Ahvaz|Toloe Rayaneh Loghman Educational and Cultural Co.|
-|5|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|6|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|9|103.165.157.239|1080|Indonesia|Mojokerto|MEGADATA-ISP|
-|10|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|11|38.183.146.181|8090|Indonesia|Weleri|PT Ikhlas Cipta Teknologi|
-|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|164.163.42.22|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|42.118.1.132|16000|Vietnam|Hanoi|FPT Telecom Company|
-|18|147.28.240.210|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|19|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|20|42.118.1.7|16000|Vietnam|Hanoi|FPT Telecom Company|
+|2|34.218.51.162|3128|United States|Portland|Amazon.com, Inc.|
+|3|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|44.211.254.144|3128|United States|Ashburn|Amazon.com|
+|6|3.16.164.85|3128|United States|Dublin|Amazon.com, Inc.|
+|7|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|10|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|11|103.165.157.239|1080|Indonesia|Mojokerto|MEGADATA-ISP|
+|12|42.118.1.93|16000|Vietnam|Hanoi|FPT Telecom Company|
+|13|38.191.90.65|999|Dominican Republic|Santiago de los Caballeros|LAUAM MEGARED TELECOM, S.R.L.|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|17|147.28.240.210|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|18|42.118.1.7|16000|Vietnam|Hanoi|FPT Telecom Company|
+|19|144.76.159.121|8082|Germany|Falkenstein|Hetzner Online GmbH|
+|20|185.200.38.53|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
