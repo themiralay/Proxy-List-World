@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -39,23 +39,23 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|139.59.228.95|8118|Singapore|Singapore|DIGITALOCEAN|
-|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|4|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|5|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|6|108.181.215.187|8888|United States|Dallas|TELUS Communications Inc.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|5|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|6|181.129.97.38|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
 |7|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|8|103.35.111.233|19753|Bangladesh|Azimpur|Ranks ITT|
-|9|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|10|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|13|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|14|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|15|27.79.168.51|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|42.118.0.226|16000|Vietnam|Hanoi|FPT Telecom Company|
-|17|93.115.144.38|1452|Iran|Tehran|Asiatech Data Transmission company|
+|8|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|9|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|10|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|11|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
+|12|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|27.79.146.172|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
 |18|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
 |19|147.28.240.213|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
 |20|147.28.240.216|443|Germany|Frankfurt am Main|Packet Host, Inc.|
