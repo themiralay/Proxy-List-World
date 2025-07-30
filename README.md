@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|2|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|181.129.97.38|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|7|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|8|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|9|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|10|27.79.218.194|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|12|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|13|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
-|14|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|15|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|16|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|1.54.175.15|16000|Vietnam|Hanoi|FPT Telecom Company|
+|1|103.13.215.31|8081|Thailand|Ratchathewi|Bunny Communications|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|6|115.77.140.76|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|8|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
+|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|12|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|14|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|15|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|18|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|27.79.178.148|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
