@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
+|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|5|91.107.185.149|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |9|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|10|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|11|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|12|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|13|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|14|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|193.30.13.186|8080|Ecuador|Guayaquil|GEDATECU SA|
-|19|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|20|72.10.160.90|26323|Canada|Montreal|GloboTech Communications|
+|10|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|11|85.206.93.105|8080|Lithuania|Patašinė|Telia Lietuva|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|147.28.240.215|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|14|147.28.240.215|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|15|193.30.13.186|8080|Ecuador|Guayaquil|GEDATECU SA|
+|16|147.28.240.218|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|17|147.28.240.214|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|18|147.28.240.218|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|19|37.120.162.180|28175|Germany|Nuremberg|netcup GmbH|
+|20|147.28.240.215|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
