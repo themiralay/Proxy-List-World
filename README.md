@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|5|103.143.197.218|8000|Indonesia|Karanganom|JERNIHNETWORK|
+|6|42.117.168.54|16000|Vietnam|Quận Mười|FPT Telecom Company|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |8|1.55.52.197|16000|Vietnam|Hanoi|FPT Telecom Company|
-|9|27.71.129.176|16000|Vietnam|Bảo Lộc|Viettel Group|
-|10|103.10.55.137|8664|Bangladesh|Dhaka|Drik ICT Ltd|
-|11|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
+|9|159.192.112.104|8999|Thailand|Sattahip|CAT Telecom Public Company Limited|
+|10|103.230.81.121|8080|Indonesia|Pandeglang|PT. Pandeglang Akses Semesta|
+|11|27.79.218.194|16000|Vietnam|Hanoi|Viettel Corporation|
 |12|91.107.185.149|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|14|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|15|27.79.218.194|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|17|85.206.93.105|8080|Lithuania|Patašinė|Telia Lietuva|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|13|177.253.224.58|8085|Colombia|Medellín|Colombia Móvil|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|1.54.175.15|16000|Vietnam|Hanoi|FPT Telecom Company|
+|16|103.189.254.70|8080|Indonesia|Surabaya|PT Lintas Daya Nusantara|
+|17|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|18|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|19|152.200.200.217|999|Colombia|Bogotá|Colombia Telecomunicaciones S.a. ESP|
+|20|103.13.215.31|8081|Thailand|Ratchathewi|Bunny Communications|
 
 
 
