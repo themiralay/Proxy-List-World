@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|108.181.215.187|8888|United States|Dallas|TELUS Communications Inc.|
+|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|139.59.228.95|8118|Singapore|Singapore|DIGITALOCEAN|
+|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |5|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|6|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|9|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|12|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
-|13|85.206.93.105|8080|Lithuania|Patašinė|Telia Lietuva|
-|14|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|15|164.163.42.22|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|18|147.28.240.214|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|19|147.28.240.213|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|20|147.28.240.217|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|6|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|7|108.181.215.187|8888|United States|Dallas|TELUS Communications Inc.|
+|8|5.188.183.253|8080|Spain|Madrid|Melbikomas UAB|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|11|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|12|27.79.190.203|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|14|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|16|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|17|23.28.246.152|8080|United States|Union City|WideOpenWest Finance LLC|
+|18|40.172.232.213|29214|United Arab Emirates|Dubai|Amazon.com|
+|19|203.111.253.146|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
+|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
