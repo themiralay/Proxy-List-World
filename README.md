@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|3|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|4|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|59.29.182.162|8888|South Korea|Wŏnju|Korea Telecom|
+|4|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|5|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
 |6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
-|8|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|7|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|8|37.32.40.253|8080|Iran|Ahvaz|Toloe Rayaneh Loghman Educational and Cultural Co.|
 |9|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
 |10|164.163.42.22|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 |11|147.28.240.216|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|13|147.28.240.218|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|14|147.28.240.213|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|15|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|16|27.79.146.172|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|161.132.41.36|8080|Peru|Upaca|Red Cientifica Peruana|
-|18|147.28.240.217|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|19|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|20|181.129.97.38|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|14|38.191.90.65|999|Dominican Republic|Santiago de los Caballeros|LAUAM MEGARED TELECOM, S.R.L.|
+|15|103.165.157.239|1080|Indonesia|Mojokerto|MEGADATA-ISP|
+|16|147.28.240.218|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|17|147.28.240.213|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|18|147.75.34.105|443|The Netherlands|Amsterdam|Packet Host, Inc.|
+|19|147.28.240.214|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|147.28.240.217|80|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
