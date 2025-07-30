@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|2|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
+|1|14.239.189.250|8080|Vietnam|Việt Trì|VNPT|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|27.79.186.229|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|42.118.173.158|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |9|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|42.118.173.158|16000|Vietnam|Hanoi|FPT Telecom Company|
-|13|59.29.182.162|8888|South Korea|Wŏnju|Korea Telecom|
-|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|10|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|13|23.94.236.141|8080|United States|Los Angeles|HostPapa|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |15|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|16|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|17|36.91.220.131|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|18|58.186.131.73|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|170.80.234.145|8080|Brazil|Olinda|Agility Telecom Ltda|
-|20|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|16|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
+|17|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
+|18|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|19|103.226.232.205|8099|Indonesia|Sumberketangi|PT Jaringan Multimedia Indonesia|
+|20|27.79.220.78|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
