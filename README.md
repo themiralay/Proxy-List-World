@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 |2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|4|27.79.146.172|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|103.13.215.31|8081|Thailand|Ratchathewi|Bunny Communications|
-|6|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|7|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|8|181.129.97.38|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
-|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|11|42.117.168.54|16000|Vietnam|Quận Mười|FPT Telecom Company|
-|12|27.79.218.194|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|14|42.118.1.132|16000|Vietnam|Hanoi|FPT Telecom Company|
-|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|16|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|17|123.200.31.210|100|Bangladesh|Dhaka|Link3 Technologies Limited|
-|18|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|19|164.163.42.56|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|7|59.29.182.162|8888|South Korea|Wŏnju|Korea Telecom|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|27.79.178.148|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|12|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|13|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|14|115.77.140.76|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|15|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
+|16|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|17|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|18|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|19|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|20|147.28.240.217|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
