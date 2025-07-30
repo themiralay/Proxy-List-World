@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|5|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|6|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|7|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|8|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|13|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|14|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|15|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|16|177.253.224.58|8085|Colombia|Medellín|Colombia Móvil|
-|17|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|18|147.28.240.213|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|19|72.10.164.178|5357|Canada|Montreal|GloboTech Communications|
-|20|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
+|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|5|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|6|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|7|103.13.215.31|8081|Thailand|Ratchathewi|Bunny Communications|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|11|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|12|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|14|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|15|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|147.28.240.213|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|18|144.76.159.121|8082|Germany|Falkenstein|Hetzner Online GmbH|
+|19|147.28.240.200|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|147.28.240.216|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
