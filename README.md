@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
-|5|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
-|6|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|7|37.32.40.253|8080|Iran|Ahvaz|Toloe Rayaneh Loghman Educational and Cultural Co.|
-|8|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|10|23.94.236.141|8080|United States|Los Angeles|HostPapa|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|14|44.211.254.144|3128|United States|Ashburn|Amazon.com|
-|15|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|16|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|19|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|20|147.28.240.216|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|2|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
+|3|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|23.94.236.141|8080|United States|Los Angeles|HostPapa|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|204.199.120.18|999|Colombia|Pasto|Level 3 Communications, Inc.|
+|10|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|12|37.32.40.253|8080|Iran|Ahvaz|Toloe Rayaneh Loghman Educational and Cultural Co.|
+|13|44.211.254.144|3128|United States|Ashburn|Amazon.com|
+|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|15|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|17|1.54.175.15|16000|Vietnam|Hanoi|FPT Telecom Company|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|147.28.240.214|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
 
 
 
