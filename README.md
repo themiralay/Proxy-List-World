@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
-|3|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
-|4|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|5|91.107.185.149|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
+|7|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
 |8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|23.94.236.141|8080|United States|Los Angeles|HostPapa|
-|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|12|44.211.254.144|3128|United States|Ashburn|Amazon.com|
-|13|147.28.240.218|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|9|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|10|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|11|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
+|12|147.28.240.218|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|13|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
 |14|147.28.240.217|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|15|85.206.93.105|8080|Lithuania|Patašinė|Telia Lietuva|
-|16|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|17|147.28.240.200|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|15|162.239.194.73|8080|United States|Bardstown|AT&T Enterprises, LLC|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
 |18|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|19|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|20|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|19|85.206.93.105|8080|Lithuania|Patašinė|Telia Lietuva|
+|20|147.28.240.200|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
