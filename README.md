@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -39,24 +39,24 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|2|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|3|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
 |6|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|7|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|8|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
-|9|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|7|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|5.190.36.4|3128|Iran|Bavānāt|Iran Telecommunication Company PJS|
 |10|181.129.97.38|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
-|11|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|147.28.240.217|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|14|147.28.240.216|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|15|147.28.240.210|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|16|165.225.72.38|10960|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
-|17|147.28.240.218|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|18|37.120.162.180|46064|Germany|Nuremberg|netcup GmbH|
+|11|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|12|147.28.240.217|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|13|147.28.240.216|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|14|147.28.240.210|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|15|178.178.100.188|8080|Russia|Moscow|PJSC MegaFon|
+|16|187.198.213.140|8080|Mexico|Zapotlán el Grande|Uninet S.A. de C.V.|
+|17|1.54.175.34|16000|Vietnam|Hanoi|FPT Telecom Company|
+|18|147.28.240.218|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
 |19|147.28.240.214|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
 |20|147.28.240.216|443|Germany|Frankfurt am Main|Packet Host, Inc.|
 
