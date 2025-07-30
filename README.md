@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|116.107.175.128|10003|Vietnam|Tuyên Quang|Viettel Corporation|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|27.79.168.51|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|8|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|9|27.79.218.194|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|11|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|12|27.79.156.251|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|14|91.107.185.149|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|27.79.176.162|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|183.80.22.110|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|20|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|3|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|5|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|6|103.13.215.31|8081|Thailand|Ratchathewi|Bunny Communications|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|78.109.201.55|81|Iran|Tehran|Afranet co|
+|12|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|13|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|14|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
+|15|103.157.117.234|8080|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
+|16|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|17|147.28.240.215|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|18|144.76.159.121|8082|Germany|Falkenstein|Hetzner Online GmbH|
+|19|183.80.22.110|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|20|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
 
 
 
