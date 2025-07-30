@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
-|4|173.249.40.64|8118|France|Lauterbourg|Contabo GmbH|
-|5|91.107.185.149|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|7|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|119.95.188.8|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|10|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|11|44.211.254.144|3128|United States|Ashburn|Amazon.com|
-|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|14|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|17|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|27.79.218.194|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|4|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|5|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
+|6|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|7|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|8|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|10|1.54.175.15|16000|Vietnam|Hanoi|FPT Telecom Company|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|103.13.215.31|8081|Thailand|Ratchathewi|Bunny Communications|
+|13|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|103.187.86.27|8182|Indonesia|Pinrang|PT Satunol Digital Teknologi|
+|16|147.161.246.38|11814|Switzerland|Zurich|Zscaler Switzerland GmbH|
+|17|179.189.120.147|3128|Brazil|Teresina|IP CARRIER BRASIL|
+|18|147.28.240.215|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|19|147.28.240.217|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|147.28.240.215|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
