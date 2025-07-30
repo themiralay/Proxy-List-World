@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|34.218.51.162|3128|United States|Portland|Amazon.com, Inc.|
+|2|223.206.41.253|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
 |3|34.218.51.162|3128|United States|Portland|Amazon.com, Inc.|
-|4|91.107.185.149|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|5|44.211.254.144|3128|United States|Ashburn|Amazon.com|
+|4|34.218.51.162|3128|United States|Portland|Amazon.com, Inc.|
+|5|164.90.193.32|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
 |6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|7|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|8|223.206.41.253|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|9|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|12|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
-|13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|15|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|16|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|17|37.32.40.253|8080|Iran|Ahvaz|Toloe Rayaneh Loghman Educational and Cultural Co.|
-|18|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|19|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|20|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|7|91.107.185.149|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|8|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|12|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|13|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|14|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|15|42.118.0.226|16000|Vietnam|Hanoi|FPT Telecom Company|
+|16|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|17|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|20|103.39.51.233|8085|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
 
 
 
