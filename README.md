@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
-|3|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|103.13.215.31|8081|Thailand|Ratchathewi|Bunny Communications|
+|4|51.79.99.237|4502|Canada|Montreal|OVH SAS|
 |5|27.79.218.194|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|103.63.26.109|2121|Indonesia|Probolinggo|PT Global Media Data Prima|
-|7|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|8|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
-|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|12|37.32.40.253|8080|Iran|Ahvaz|Toloe Rayaneh Loghman Educational and Cultural Co.|
-|13|164.90.193.32|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|14|103.13.215.31|8081|Thailand|Ratchathewi|Bunny Communications|
-|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|18|59.29.182.162|8888|South Korea|Wŏnju|Korea Telecom|
-|19|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|20|200.56.239.66|999|Mexico|San Felipe del Progreso|Marcatel Com, S.A. de C.V.|
+|6|91.107.185.149|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|38.41.0.62|11201|Venezuela|Caracas|MDS TELECOM C.A.|
+|8|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|10|42.118.1.93|16000|Vietnam|Hanoi|FPT Telecom Company|
+|11|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|13|46.161.194.82|8085|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|14|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|15|45.189.252.242|999|Mexico|Tlalixcoyan|Tracered SA De CV|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|38.64.216.222|999|Dominican Republic|Guananico|CABLE VISION E. GONZALEZ, S.R.L.|
+|18|42.118.1.7|16000|Vietnam|Hanoi|FPT Telecom Company|
+|19|109.230.72.236|8080|Iran|Tehran|boomrang|
+|20|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
 
 
 
