@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|4|38.183.146.181|8090|Indonesia|Weleri|PT Ikhlas Cipta Teknologi|
-|5|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
-|6|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|7|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|8|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|12|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
-|13|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|14|67.43.228.250|31389|Canada|Montreal|GloboTech Communications|
-|15|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|16|37.32.40.253|8080|Iran|Ahvaz|Toloe Rayaneh Loghman Educational and Cultural Co.|
-|17|195.58.58.211|8118|United States|Salt Lake City|Oxide Group Limited|
-|18|147.28.240.210|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|19|147.28.240.216|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|3|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|4|23.94.236.141|8080|United States|Los Angeles|HostPapa|
+|5|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|6|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|12|185.200.38.53|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|13|67.43.228.250|31389|Canada|Montreal|GloboTech Communications|
+|14|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|15|195.58.58.211|8118|United States|Salt Lake City|Oxide Group Limited|
+|16|147.28.240.210|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|17|147.28.240.216|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|18|147.28.240.218|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|19|152.53.194.46|8070|United States|Manassas|netcup GmbH|
+|20|147.28.240.217|80|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
