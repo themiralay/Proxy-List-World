@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
-|3|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|4|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|5|93.55.237.109|19702|Italy|Milan|Fastweb SpA|
-|6|173.249.40.64|8118|France|Lauterbourg|Contabo GmbH|
-|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|10|44.211.254.144|3128|United States|Ashburn|Amazon.com|
-|11|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|12|91.107.185.149|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|13|103.158.62.186|8088|Bangladesh|Sylhet|SEARCH IT|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|16|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|19|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|2|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|6|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|7|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
+|8|93.55.237.109|19702|Italy|Milan|Fastweb SpA|
+|9|37.32.40.253|8080|Iran|Ahvaz|Toloe Rayaneh Loghman Educational and Cultural Co.|
+|10|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|11|91.107.185.149|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|12|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|13|103.13.215.31|8081|Thailand|Ratchathewi|Bunny Communications|
+|14|103.78.1.209|39206|Vietnam|Thanh Xuân|Megacore Technology Company Limited|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|202.176.1.77|5555|India|Mirzāpur|RailTel Corporation|
+|18|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|19|147.28.240.216|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
 
 
 
