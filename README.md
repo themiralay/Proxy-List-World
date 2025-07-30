@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|34.218.51.162|3128|United States|Portland|Amazon.com, Inc.|
 |3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|27.79.218.194|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|34.218.51.162|3128|United States|Portland|Amazon.com, Inc.|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|42.118.0.226|16000|Vietnam|Hanoi|FPT Telecom Company|
+|4|34.218.51.162|3128|United States|Portland|Amazon.com, Inc.|
+|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|6|44.211.254.144|3128|United States|Ashburn|Amazon.com|
+|7|3.16.164.85|3128|United States|Dublin|Amazon.com, Inc.|
 |8|164.90.193.32|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|9|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|10|3.16.164.85|3128|United States|Dublin|Amazon.com, Inc.|
-|11|44.211.254.144|3128|United States|Ashburn|Amazon.com|
-|12|160.176.240.40|3128|Morocco|Tangier|Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM|
-|13|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|14|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|15|42.118.1.7|16000|Vietnam|Hanoi|FPT Telecom Company|
-|16|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|17|42.119.98.195|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|18|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|19|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
-|20|1.54.175.15|16000|Vietnam|Hanoi|FPT Telecom Company|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|11|160.176.240.40|3128|Morocco|Tangier|Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM|
+|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|13|27.71.129.176|16000|Vietnam|Bảo Lộc|Viettel Group|
+|14|103.157.117.226|81|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
+|15|157.15.144.82|8080|Indonesia|Cilacap|PT. INDOTEK SOLUTION NETWORK|
+|16|103.141.67.50|51935|Bangladesh|Dhaka|Link3 Technologies Limited|
+|17|27.79.218.194|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
+|19|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|20|103.13.215.31|8081|Thailand|Ratchathewi|Bunny Communications|
 
 
 
