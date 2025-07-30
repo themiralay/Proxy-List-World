@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|5|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|8|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|9|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|27.71.141.120|16000|Vietnam|Bảo Lộc|Viettel Group|
-|12|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|16|147.28.240.216|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|17|147.28.240.217|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|18|147.28.240.210|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|19|147.28.240.213|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|20|147.28.240.217|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|5|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|6|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|7|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|10|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|11|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|12|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|13|193.188.21.69|8118|Sweden|Stockholm|xorek.cloud International LTD|
+|14|203.76.98.21|45958|Bangladesh|Dhaka|Link3 Technologies Limited|
+|15|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
+|16|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|18|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|19|177.253.224.58|8085|Colombia|Medellín|Colombia Móvil|
+|20|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
