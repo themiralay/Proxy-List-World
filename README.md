@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|3|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
 |4|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|91.107.185.149|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|7|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|8|103.162.37.194|8080|Indonesia|Bandung|PT Lintas Satu Visi|
-|9|38.183.146.181|8090|Indonesia|Weleri|PT Ikhlas Cipta Teknologi|
-|10|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|11|36.64.183.98|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|89.151.133.216|8080|Russia|Cheboksary|VolgaTelecom Cheboxary|
-|14|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|15|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|16|144.76.159.121|8082|Germany|Falkenstein|Hetzner Online GmbH|
-|17|72.10.160.170|27221|Canada|Montreal|GloboTech Communications|
-|18|147.28.240.213|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|19|147.28.240.215|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|20|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|7|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|8|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|9|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|12|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|13|144.76.159.121|8082|Germany|Falkenstein|Hetzner Online GmbH|
+|14|38.9.141.63|8080|Indonesia|Medan|Cogent Communications|
+|15|147.28.240.213|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|16|147.28.240.215|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|17|152.53.194.46|8053|United States|Manassas|netcup GmbH|
+|18|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|111.238.206.143|8080|Japan|Asaka|Kddi Corporation|
 
 
 
