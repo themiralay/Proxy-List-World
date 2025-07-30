@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
-|3|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|4|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|5|91.107.185.149|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|173.249.40.64|8118|France|Lauterbourg|Contabo GmbH|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|9|103.155.198.142|1080|Indonesia|Jakarta|PT Lintas Jaringan Nusantara|
-|10|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|11|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|12|157.20.253.43|8989|Indonesia|Jakarta|PT.Global Media Data Prima|
-|13|42.119.98.195|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|14|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|15|147.28.240.216|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|16|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|18|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|19|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|20|144.76.159.121|8082|Germany|Falkenstein|Hetzner Online GmbH|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|173.249.40.64|8118|France|Lauterbourg|Contabo GmbH|
+|5|103.13.215.31|8081|Thailand|Ratchathewi|Bunny Communications|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|8|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|9|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|10|91.107.185.149|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|13|103.158.62.186|8088|Bangladesh|Sylhet|SEARCH IT|
+|14|44.211.254.144|3128|United States|Ashburn|Amazon.com|
+|15|103.156.75.213|8787|Indonesia|Gianyar|PT Trika Global Media|
+|16|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|125.164.213.163|3128|Indonesia|Malang|PT. TELKOM INDONESIA|
+|18|42.118.0.226|16000|Vietnam|Hanoi|FPT Telecom Company|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|147.28.240.215|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
