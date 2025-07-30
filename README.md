@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|103.63.26.109|2121|Indonesia|Probolinggo|PT Global Media Data Prima|
-|5|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|7|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
-|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|3|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
+|4|103.189.254.70|8080|Indonesia|Surabaya|PT Lintas Daya Nusantara|
+|5|103.63.26.109|2121|Indonesia|Probolinggo|PT Global Media Data Prima|
+|6|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|7|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|8|114.198.244.57|3128|Indonesia|Kediri|PT Sumber Data Indonesia|
+|9|42.118.1.93|16000|Vietnam|Hanoi|FPT Telecom Company|
+|10|42.119.98.170|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
 |11|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|12|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|13|91.107.185.149|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|14|202.232.52.162|8080|Japan|Ōita|Internet Initiative Japan Inc.|
-|15|103.13.215.31|8081|Thailand|Ratchathewi|Bunny Communications|
-|16|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|17|124.83.100.216|8081|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|18|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|20|85.206.93.105|8080|Lithuania|Patašinė|Telia Lietuva|
+|12|103.190.225.214|8080|Indonesia|Bekasi|LINTASARTA|
+|13|109.230.72.236|8080|Iran|Tehran|boomrang|
+|14|27.71.129.176|16000|Vietnam|Bảo Lộc|Viettel Group|
+|15|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|16|38.156.72.6|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|18|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
+|19|181.224.65.50|999|Chile|Santiago|Netv SPA|
+|20|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
