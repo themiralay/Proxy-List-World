@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.178.148|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|27.79.190.203|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|4|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
-|5|42.118.1.132|16000|Vietnam|Hanoi|FPT Telecom Company|
-|6|42.118.173.158|16000|Vietnam|Hanoi|FPT Telecom Company|
-|7|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|8|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|9|181.129.97.38|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
-|10|58.186.92.217|16000|Vietnam|Hanoi|FPT Telecom Company|
-|11|58.186.131.73|16000|Vietnam|Hanoi|FPT Telecom Company|
-|12|27.79.177.104|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|42.118.1.93|16000|Vietnam|Hanoi|FPT Telecom Company|
-|14|91.107.185.149|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|16|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|17|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
-|18|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|19|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|20|42.118.1.7|16000|Vietnam|Hanoi|FPT Telecom Company|
+|1|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|2|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|3|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|6|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|7|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|8|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
+|9|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|10|103.13.215.31|8081|Thailand|Ratchathewi|Bunny Communications|
+|11|103.81.194.163|8080|Indonesia|Ciampea|PT Rtiga Global Media|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|85.206.93.105|8080|Lithuania|Patašinė|Telia Lietuva|
+|14|147.28.240.215|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|15|147.28.240.215|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|16|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|17|147.28.240.200|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|18|147.28.240.216|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|19|144.76.159.121|8084|Germany|Falkenstein|Hetzner Online GmbH|
+|20|147.28.240.216|443|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
