@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|2|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|3|181.129.97.38|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|6|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|7|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
+|1|58.186.92.217|16000|Vietnam|Hanoi|FPT Telecom Company|
+|2|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|3|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|4|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|5|27.79.178.148|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|7|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
 |8|5.190.36.4|3128|Iran|Bavānāt|Iran Telecommunication Company PJS|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|42.118.1.93|16000|Vietnam|Hanoi|FPT Telecom Company|
-|11|147.28.240.217|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|12|147.28.240.218|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|13|181.129.97.38|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|116.68.250.46|8080|Indonesia|Labansari|PT. Cross Network Indonesia|
-|16|147.28.240.215|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|17|72.10.160.170|32803|Canada|Montreal|GloboTech Communications|
-|18|1.54.175.34|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|164.163.42.43|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|59.29.182.162|8888|South Korea|Wŏnju|Korea Telecom|
+|12|147.28.240.217|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|13|147.28.240.218|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|14|177.200.239.141|999|Dominican Republic|Cotuí|ESQUIRE CORPORATE SERVICES, S.R.L.|
+|15|147.28.240.215|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|16|72.10.160.170|32803|Canada|Montreal|GloboTech Communications|
+|17|181.129.97.38|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
+|18|164.163.42.43|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|103.222.255.106|8080|Indonesia|Srandakan|PT Iktiar Doa Tawakal|
 |20|164.163.42.29|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
