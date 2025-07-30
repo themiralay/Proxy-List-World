@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.177.104|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|4|27.79.178.148|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|9|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
-|12|59.29.182.162|8888|South Korea|Wŏnju|Korea Telecom|
-|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|14|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|15|1.54.175.15|16000|Vietnam|Hanoi|FPT Telecom Company|
-|16|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|17|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|18|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|19|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
-|20|42.117.168.54|16000|Vietnam|Quận Mười|FPT Telecom Company|
+|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|3|18.224.188.107|3128|United States|Dublin|Amazon.com, Inc.|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|181.129.97.38|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
+|6|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|7|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
+|8|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|11|103.155.198.253|8006|Indonesia|Jakarta|PT Lintas Jaringan Nusantara|
+|12|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|13|103.175.240.87|8080|Indonesia|Buaran|LDP|
+|14|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|177.253.224.58|8085|Colombia|Medellín|Colombia Móvil|
+|17|164.163.178.61|8080|Brazil|Nova Esperança do Piriá|J M P M ALENCAR & A G F ALENCAR LTDA - ME|
+|18|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|140.227.81.191|3128|Japan|Chiyoda|InfoSphere|
 
 
 
