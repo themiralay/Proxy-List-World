@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|91.107.185.149|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |3|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
-|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|4|51.79.99.237|4502|Canada|Montreal|OVH SAS|
 |5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|12|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|9|37.32.40.253|8080|Iran|Ahvaz|Toloe Rayaneh Loghman Educational and Cultural Co.|
+|10|44.211.254.144|3128|United States|Ashburn|Amazon.com|
+|11|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|12|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|13|185.200.38.53|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 |14|147.28.240.218|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|15|42.118.1.93|16000|Vietnam|Hanoi|FPT Telecom Company|
-|16|89.151.133.216|8080|Russia|Cheboksary|VolgaTelecom Cheboxary|
-|17|147.28.240.216|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|18|147.28.240.200|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|19|147.28.240.215|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|20|147.28.240.215|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|15|204.199.120.18|999|Colombia|Pasto|Level 3 Communications, Inc.|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|117.2.48.206|8080|Vietnam|Qui Nhon|Viettel Corporation|
+|18|122.52.157.209|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|19|147.28.240.216|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|147.28.240.200|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
