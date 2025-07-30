@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|103.156.15.181|8080|Indonesia|Jakarta|PT Lintas Jaringan Nusantara|
-|3|181.129.97.38|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
-|4|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |5|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|10|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|11|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|147.28.240.218|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|15|42.118.1.7|16000|Vietnam|Hanoi|FPT Telecom Company|
-|16|147.28.240.214|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|17|147.28.240.215|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|18|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|19|103.189.197.139|8080|Indonesia|Cirebon|PT Graha Sumber Teknologi|
-|20|147.28.240.218|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|6|37.32.40.253|8080|Iran|Ahvaz|Toloe Rayaneh Loghman Educational and Cultural Co.|
+|7|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|8|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|9|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|10|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|11|103.172.42.179|8080|Indonesia|Kemantren Satu|PT Media Solusi Sukses|
+|12|27.79.168.51|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|58.186.92.217|16000|Vietnam|Hanoi|FPT Telecom Company|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|108.181.215.187|8888|United States|Dallas|TELUS Communications Inc.|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|18|147.28.240.218|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|19|147.28.240.214|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|159.89.239.166|18086|United States|North Bergen|DigitalOcean, LLC|
 
 
 
