@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|27.79.218.194|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|103.166.158.33|8080|Indonesia|Kotabaru|PT Timor Lintas Nusantara|
-|7|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|8|119.93.87.65|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|9|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|10|202.137.14.57|8085|Indonesia|Tangerang|customer in Corporate Access|
-|11|103.203.232.69|1080|Indonesia|Batu|PT Inti Data Guna|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|201.150.119.174|999|Mexico|Mineral de la Reforma|Hulux Telecomunicaciones|
-|14|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
-|15|45.189.252.242|999|Mexico|Tlalixcoyan|Tracered SA De CV|
-|16|49.156.44.130|55443|Cambodia|Phnom Penh|WiCAM Corporation|
-|17|203.111.253.106|8080|Indonesia|Karawang|PT Wifian Global Nusantara|
-|18|103.81.64.89|8080|Indonesia|Bandar Lampung|QIUNET|
-|19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|20|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
+|4|91.107.185.149|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|5|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|8|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|9|37.32.40.253|8080|Iran|Ahvaz|Toloe Rayaneh Loghman Educational and Cultural Co.|
+|10|38.211.24.18|8080|Indonesia|West Java|PT Putra Garsel Interkoneksi|
+|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|12|103.126.173.203|8880|Indonesia|Natar|MEGARAP|
+|13|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
+|14|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|15|46.161.194.82|8085|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|16|103.13.215.31|8081|Thailand|Ratchathewi|Bunny Communications|
+|17|103.76.109.201|8088|Indonesia|Kraksaan|PT Mahawira Nusantara Grup|
+|18|118.163.13.200|8080|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|19|103.83.179.134|8080|Indonesia|Maros|PT SOLUSI TRIMEGAH PERSADA|
+|20|152.53.194.46|8031|United States|Manassas|netcup GmbH|
 
 
 
