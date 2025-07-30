@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|34.218.51.162|3128|United States|Portland|Amazon.com, Inc.|
-|3|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|34.218.51.162|3128|United States|Portland|Amazon.com, Inc.|
 |4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|3.16.164.85|3128|United States|Dublin|Amazon.com, Inc.|
-|6|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|3.16.164.85|3128|United States|Dublin|Amazon.com, Inc.|
 |7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|10|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|8|44.211.254.144|3128|United States|Ashburn|Amazon.com|
+|9|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
+|10|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
 |11|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|13|147.28.240.216|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|147.28.240.218|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|18|147.28.240.210|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|19|147.28.240.215|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|20|37.120.162.180|30875|Germany|Nuremberg|netcup GmbH|
+|12|103.39.70.225|8181|Indonesia|Sambas|PT Gateway media Zafira|
+|13|58.136.170.157|8080|Thailand|Bangkok|AIS-Fibre|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
+|16|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|164.163.42.56|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|147.28.240.216|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|147.28.240.218|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
