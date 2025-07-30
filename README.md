@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|103.39.70.225|8181|Indonesia|Sambas|PT Gateway media Zafira|
+|2|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |3|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|4|91.107.185.149|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|5|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|8|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|12|147.28.240.216|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|13|147.28.240.213|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|14|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
-|15|147.28.240.200|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|16|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|18|147.28.240.213|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|19|159.89.239.166|18086|United States|North Bergen|DigitalOcean, LLC|
-|20|147.28.240.216|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|91.107.185.149|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|6|23.94.236.141|8080|United States|Los Angeles|HostPapa|
+|7|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|8|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|9|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|10|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|11|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|147.28.240.216|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|14|147.28.240.213|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|15|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|16|147.28.240.200|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|17|147.28.240.213|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|18|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
+|19|147.28.240.216|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|103.189.197.139|8080|Indonesia|Cirebon|PT Graha Sumber Teknologi|
 
 
 
