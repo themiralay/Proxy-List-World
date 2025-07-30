@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|108.181.215.187|8888|United States|Dallas|TELUS Communications Inc.|
+|3|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|4|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|5|181.129.97.38|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
+|6|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|7|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|8|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|11|103.137.111.211|8080|Indonesia|Loa Janan|PT. Capoeng Digital Nusantara|
+|12|45.70.236.121|8080|Ecuador|Simón Bolívar|Ufinet Panama S.A.|
+|13|147.28.240.200|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|14|147.28.240.217|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|15|147.28.240.217|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|16|147.28.240.214|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|147.28.240.210|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|19|147.28.240.213|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|147.28.240.200|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+
 
 
 ## Contributing
