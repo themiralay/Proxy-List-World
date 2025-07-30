@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|3|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|4|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|5|91.107.185.149|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|6|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|7|181.129.97.38|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
-|8|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|9|27.79.146.172|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|15|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|16|72.10.164.178|29439|Canada|Montreal|GloboTech Communications|
-|17|147.28.240.217|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|18|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|19|72.10.160.90|15511|Canada|Montreal|GloboTech Communications|
-|20|147.28.240.213|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|4|181.129.97.38|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
+|5|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|8|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
+|9|91.107.185.149|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|10|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|11|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|12|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|13|38.211.24.18|8080|Indonesia|West Java|PT Putra Garsel Interkoneksi|
+|14|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|16|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|20|147.28.240.217|80|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
