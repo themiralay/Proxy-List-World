@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|27.79.187.155|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|1.54.73.149|16000|Vietnam|Hanoi|FPT Telecom Company|
-|4|91.107.185.149|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|7|27.79.228.52|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|37.32.40.253|8080|Iran|Ahvaz|Toloe Rayaneh Loghman Educational and Cultural Co.|
-|9|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|10|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|11|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|12|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|13|27.79.234.236|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|128.140.113.110|5153|Germany|Falkenstein|Hetzner Online GmbH|
-|15|118.68.29.183|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|66.78.40.66|8880|United States|Liberty Lake|Aokigahara SRL|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|20|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|2|42.119.2.165|16000|Vietnam|Hanoi|FPT Telecom Company|
+|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|4|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|5|1.54.73.149|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|103.167.156.25|8083|Indonesia|Pemalang|PT Jaringan Tiang Indonesia Group|
+|7|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|8|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|9|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|10|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|1.54.77.124|16000|Vietnam|Hanoi|FPT Telecom Company|
+|13|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|14|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|15|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|193.30.13.186|8080|Ecuador|Guayaquil|GEDATECU SA|
+|18|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|19|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|20|112.209.17.218|8081|Philippines|Manila|Philippine Long Distance Telephone Co.|
 
 
 
