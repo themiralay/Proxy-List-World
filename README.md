@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|27.71.138.222|16000|Vietnam|Bảo Lộc|Viettel Group|
 |3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|171.7.130.195|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|5|103.131.18.42|7777|Indonesia|Cikarang|PT Global Media Data Prima|
-|6|27.71.138.222|16000|Vietnam|Bảo Lộc|Viettel Group|
-|7|27.79.188.212|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|113.22.184.106|16000|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
-|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|91.107.185.149|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|11|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|12|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|13|118.68.172.205|16000|Vietnam|Hanoi|FPT Telecom Company|
-|14|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|17|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
-|18|27.79.228.52|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|27.79.211.47|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|157.66.16.36|5568|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|103.13.215.31|8081|Thailand|Ratchathewi|Bunny Communications|
+|6|91.107.185.149|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|202.232.52.162|8080|Japan|Ōita|Internet Initiative Japan Inc.|
+|8|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
+|9|59.29.182.162|8888|South Korea|Wŏnju|Korea Telecom|
+|10|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|11|180.194.154.120|8080|Philippines|Malaybalay|Philippine Long Distance Telephone Co.|
+|12|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|13|182.52.100.51|8080|Thailand|Trat|TOT Public Company Limited|
+|14|103.76.201.109|8080|Indonesia|Cileungsir|PT. Arjuna Global Teknologi Indonesia|
+|15|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|18|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
+|19|46.101.104.251|46009|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
 
 
 
