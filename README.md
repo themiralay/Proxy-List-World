@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
-|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
+|3|139.59.228.95|8118|Singapore|Singapore|DIGITALOCEAN|
 |4|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
 |5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 |6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|27.79.235.145|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|181.129.97.38|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
-|9|161.132.37.122|3128|Peru|Santa Anita - Los Ficus|Red Cientifica Peruana|
+|7|27.79.134.70|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|27.79.235.145|16000|Vietnam|Hanoi|Viettel Corporation|
 |10|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|11|52.51.50.129|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|12|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|13|27.79.167.112|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|15|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|16|118.71.117.91|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|17|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|18|27.79.134.70|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|58.187.71.222|16000|Vietnam|Hanoi|FPT Telecom Company|
-|20|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|11|181.129.97.38|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
+|12|42.119.2.88|16000|Vietnam|Hanoi|FPT Telecom Company|
+|13|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|14|52.51.50.129|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|15|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|16|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|17|58.187.71.222|16000|Vietnam|Hanoi|FPT Telecom Company|
+|18|58.186.45.199|16000|Vietnam|Hanoi|FPT Telecom Company|
+|19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
 
 
 
