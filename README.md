@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|66.211.155.34|8080|United States|Nashua|FirstLight Fiber|
-|7|103.238.232.42|1111|Indonesia|Bandung|PT Digital Netcom Solution|
-|8|116.103.133.154|1018|Vietnam|Buon Ma Thuot|Viettel Corporation|
-|9|103.148.113.170|8080|Indonesia|Purwakarta|PT. FORIT ASTA SOLUSINDO|
-|10|88.1.159.1|3128|Spain|Tarancón|Telefonica de Espana SAU|
-|11|27.71.131.186|16000|Vietnam|Bảo Lộc|Viettel Group|
-|12|185.200.38.53|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|14|116.103.131.240|1008|Vietnam|Buon Ma Thuot|Viettel Corporation|
-|15|177.184.195.168|8080|Brazil|Brasília|Wireless Comm Services LTDA|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|181.204.183.251|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|18|66.78.40.66|8880|United States|Liberty Lake|Aokigahara SRL|
-|19|116.103.133.168|1015|Vietnam|Buon Ma Thuot|Viettel Corporation|
-|20|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|2|27.71.131.186|16000|Vietnam|Bảo Lộc|Viettel Group|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|27.71.129.176|16000|Vietnam|Bảo Lộc|Viettel Group|
+|5|58.186.248.95|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|7|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|8|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|9|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|12|116.103.133.154|1024|Vietnam|Buon Ma Thuot|Viettel Corporation|
+|13|115.127.95.82|8080|Bangladesh|Dhaka|BRACNet Limited|
+|14|183.240.46.42|443|China|Guangzhou|China Mobile|
+|15|116.103.131.240|1013|Vietnam|Buon Ma Thuot|Viettel Corporation|
+|16|66.78.40.66|8880|United States|Liberty Lake|Aokigahara SRL|
+|17|116.103.133.168|1015|Vietnam|Buon Ma Thuot|Viettel Corporation|
+|18|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|19|181.129.97.38|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
+|20|147.28.240.210|80|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
