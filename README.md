@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|27.71.131.186|16000|Vietnam|Bảo Lộc|Viettel Group|
+|2|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
 |3|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|4|42.119.2.165|16000|Vietnam|Hanoi|FPT Telecom Company|
-|5|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|6|164.163.42.56|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|8|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|9|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|10|147.28.240.213|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|11|117.2.48.206|8080|Vietnam|Qui Nhon|Viettel Corporation|
-|12|190.145.194.210|8080|Colombia|Santiago de Cali|Telmex Colombia S.A.|
-|13|67.43.236.18|13069|Canada|Montreal|GloboTech Communications|
-|14|67.43.228.251|2877|Canada|Montreal|GloboTech Communications|
-|15|37.120.162.180|45499|Germany|Nuremberg|netcup GmbH|
-|16|38.172.128.52|999|Peru|Lima region|Conex TV E.I.R.L.|
-|17|37.120.162.180|45499|Germany|Nuremberg|netcup GmbH|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|67.43.236.18|13069|Canada|Montreal|GloboTech Communications|
-|20|103.153.202.120|8080|Myanmar|Möng Pawk|Shwe Mahar MAE Khong Industrial Company Limited|
+|4|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|5|103.13.215.31|8081|Thailand|Ratchathewi|Bunny Communications|
+|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|7|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|8|42.119.2.165|16000|Vietnam|Hanoi|FPT Telecom Company|
+|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|10|164.163.42.56|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|85.206.93.105|8080|Lithuania|Patašinė|Telia Lietuva|
+|12|202.232.52.162|8080|Japan|Ōita|Internet Initiative Japan Inc.|
+|13|91.211.212.6|32650|Greece|Athens|ISP Inalan|
+|14|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|15|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|16|185.49.25.198|8080|Albania|Tirana|Tibo Communications Sh.P.K|
+|17|147.28.240.213|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|18|187.189.119.231|8080|Mexico|Tuxtla Gutiérrez|Total Play Telecomunicaciones SA De CV|
+|19|37.120.162.180|45499|Germany|Nuremberg|netcup GmbH|
+|20|67.43.236.18|6447|Canada|Montreal|GloboTech Communications|
 
 
 
