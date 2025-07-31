@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|4|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
 |5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|7|101.51.77.21|8080|Thailand|Bangkok|TOT Public Company Limited|
+|6|4.197.174.204|3128|Australia|The Rocks|Microsoft Corporation|
+|7|58.186.248.123|16000|Vietnam|Hanoi|FPT Telecom Company|
 |8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|9|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |11|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|12|115.76.196.60|8080|Vietnam|Ho Chi Minh City|VIETELGPRS|
+|12|1.54.54.6|16000|Vietnam|Hanoi|FPT Telecom Company|
 |13|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|14|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|15|223.205.77.28|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|16|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|17|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|18|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|19|103.19.59.1|3127|Indonesia|Madiun|BITSNET|
-|20|101.108.198.239|8080|Thailand|Bangkok|TOT Public Company Limited|
+|14|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|15|181.129.97.38|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
+|16|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|17|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|18|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
 
 
 
