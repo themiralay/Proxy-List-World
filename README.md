@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|5|27.71.128.132|16000|Vietnam|Bảo Lộc|Viettel Group|
-|6|58.186.131.54|16000|Vietnam|Hanoi|FPT Telecom Company|
-|7|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|10|42.119.2.165|16000|Vietnam|Hanoi|FPT Telecom Company|
-|11|58.186.92.19|16000|Vietnam|Hanoi|FPT Telecom Company|
-|12|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|13|42.113.54.9|16000|Vietnam|Hanoi|FPT Telecom Company|
-|14|91.107.185.149|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|15|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|3|58.186.131.54|16000|Vietnam|Hanoi|FPT Telecom Company|
+|4|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|5|42.119.98.170|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|6|42.113.54.9|16000|Vietnam|Hanoi|FPT Telecom Company|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|42.118.1.52|16000|Vietnam|Hanoi|FPT Telecom Company|
+|11|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|12|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|14|42.118.0.241|16000|Vietnam|Hanoi|FPT Telecom Company|
+|15|58.186.92.90|16000|Vietnam|Hanoi|FPT Telecom Company|
 |16|58.186.92.233|16000|Vietnam|Hanoi|FPT Telecom Company|
-|17|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
-|18|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|19|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|17|91.107.185.149|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|18|42.118.74.81|16000|Vietnam|Hanoi|FPT Telecom Company|
+|19|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
 |20|80.78.30.182|3128|Sweden|Malmo|ab stract|
 
 
