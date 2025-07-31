@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|3|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|4|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
 |5|4.197.174.204|3128|Australia|The Rocks|Microsoft Corporation|
 |6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 |7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|9|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|10|58.187.71.222|16000|Vietnam|Hanoi|FPT Telecom Company|
-|11|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|14|91.229.78.250|8448|Ukraine|Kyiv|Zemlyaniy Dmitro Leonidovich|
-|15|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|16|122.52.43.72|8082|Philippines|Bacoor|Philippine Long Distance Telephone Co.|
-|17|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|18|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|19|103.188.169.183|7777|Indonesia|Bunisakit|PT Lintas Jaringan Nusantara|
-|20|181.129.97.38|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|122.52.43.72|8082|Philippines|Bacoor|Philippine Long Distance Telephone Co.|
+|11|101.108.198.239|8080|Thailand|Bangkok|TOT Public Company Limited|
+|12|181.129.97.38|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
+|13|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|14|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|15|87.122.50.52|8118|Germany|Bonn|1&1 Versatel Deutschland GmbH|
+|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|17|45.189.252.49|999|Mexico|Tlalixcoyan|Tracered SA De CV|
+|18|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|19|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|20|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
 
 
 
