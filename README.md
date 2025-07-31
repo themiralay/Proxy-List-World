@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|7|103.189.197.139|8080|Indonesia|Cirebon|PT Graha Sumber Teknologi|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|91.107.185.149|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
-|11|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|12|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|13|58.186.248.95|16000|Vietnam|Hanoi|FPT Telecom Company|
-|14|103.247.15.91|8030|Indonesia|Sragen|TERABIT|
-|15|118.68.29.183|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|16|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|17|1.54.175.129|16000|Vietnam|Hanoi|FPT Telecom Company|
-|18|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|19|181.129.97.38|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
-|20|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
+|3|170.81.171.189|8282|Brazil|São Paulo|Wireless Comm Services LTDA|
+|4|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|7|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|8|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|9|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|10|27.71.131.186|16000|Vietnam|Bảo Lộc|Viettel Group|
+|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|103.13.215.31|8081|Thailand|Ratchathewi|Bunny Communications|
+|13|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|14|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|15|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|16|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|18|92.58.181.171|7575|Spain|Madrid|UNI2|
+|19|176.88.175.151|8080|Turkey|Beyoğlu|Superonline Iletisim Hizmetleri A.S.|
+|20|147.28.240.213|80|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
