@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|368|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|368|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|368|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
-|3|58.186.248.97|16000|Vietnam|Hanoi|FPT Telecom Company|
+|2|27.79.228.52|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|27.71.129.176|16000|Vietnam|Bảo Lộc|Viettel Group|
-|7|103.13.215.31|8081|Thailand|Ratchathewi|Bunny Communications|
-|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|58.186.248.95|16000|Vietnam|Hanoi|FPT Telecom Company|
-|11|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|12|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|13|190.202.59.26|8080|Venezuela|Chacao|CANTV Servicios, Venezuela|
-|14|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|15|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|16|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|18|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|19|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|20|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
+|5|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|6|58.186.248.95|16000|Vietnam|Hanoi|FPT Telecom Company|
+|7|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
+|8|42.118.1.7|16000|Vietnam|Hanoi|FPT Telecom Company|
+|9|118.68.241.127|16000|Vietnam|Hanoi|FPT Telecom Company|
+|10|1.54.73.149|16000|Vietnam|Hanoi|FPT Telecom Company|
+|11|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|12|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|13|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|16|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|17|58.186.248.97|16000|Vietnam|Hanoi|FPT Telecom Company|
+|18|103.119.147.235|8080|Indonesia|Jakarta|PT Bali Towerindo Sentra, Tbk|
+|19|27.79.234.236|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|1.55.53.239|16000|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
