@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|181.129.97.38|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|5|58.186.248.123|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|58.186.92.146|16000|Vietnam|Hanoi|FPT Telecom Company|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|118.71.117.91|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|10|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|11|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|9|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|10|41.216.186.252|8080|Indonesia|Jakarta|FASTHOSTING|
+|11|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
 |12|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|103.169.128.133|8080|Indonesia|Cirebon|PT Media Akses Data|
-|15|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|16|42.113.54.237|16000|Vietnam|Hanoi|FPT Telecom Company|
-|17|58.187.174.141|16000|Vietnam|Hanoi|FPT Telecom Company|
-|18|45.70.236.194|999|Ecuador|Simón Bolívar|Ufinet Panama S.A.|
-|19|27.79.254.86|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|42.118.74.81|16000|Vietnam|Hanoi|FPT Telecom Company|
+|13|91.229.78.250|8448|Ukraine|Kyiv|Zemlyaniy Dmitro Leonidovich|
+|14|42.118.0.241|16000|Vietnam|Hanoi|FPT Telecom Company|
+|15|160.20.38.90|8080|Indonesia|Indramayu|PT SAMUDRA DIGITAL NETWORK|
+|16|27.71.128.132|16000|Vietnam|Bảo Lộc|Viettel Group|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|182.253.109.188|8080|Indonesia|Semarang|Biznet Metronet|
+|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
 
 
 
