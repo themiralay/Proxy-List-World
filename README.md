@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75110** proxies at the latest update. Usable proxies are below.
+> Scraper found **75065** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35679|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35634|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|132|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38073|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|103.189.197.139|8080|Indonesia|Cirebon|PT Graha Sumber Teknologi|
 |3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|6|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|7|91.107.185.149|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|14.225.210.186|3129|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|11|103.189.197.139|8080|Indonesia|Cirebon|PT Graha Sumber Teknologi|
-|12|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|13|126.209.73.254|8082|Philippines|Mandaluyong|Infinivan Incorporated|
-|14|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|16|181.129.97.38|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
-|17|115.127.95.82|8080|Bangladesh|Dhaka|BRACNet Limited|
-|18|98.154.21.253|4228|United States|Whittier|Charter Communications Inc|
-|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|20|46.161.194.74|8085|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|181.129.97.38|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
+|6|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
+|7|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|8|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|10|42.119.2.165|16000|Vietnam|Hanoi|FPT Telecom Company|
+|11|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|14|1.54.175.34|16000|Vietnam|Hanoi|FPT Telecom Company|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|171.249.163.170|1452|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|17|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|18|103.153.250.65|83|India|Jabalpur|Purenet Telecom India Pvt. Ltd.|
+|19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|103.247.21.59|4317|Indonesia|Purbalingga|PT wifian Solution|
 
 
 
