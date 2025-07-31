@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|58.186.248.97|16000|Vietnam|Hanoi|FPT Telecom Company|
-|3|27.71.138.222|16000|Vietnam|Bảo Lộc|Viettel Group|
-|4|58.186.248.95|16000|Vietnam|Hanoi|FPT Telecom Company|
-|5|27.71.129.176|16000|Vietnam|Bảo Lộc|Viettel Group|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|27.71.131.186|16000|Vietnam|Bảo Lộc|Viettel Group|
-|8|49.150.60.64|8082|Philippines|Tarlac City|Philippine Long Distance Telephone Co.|
-|9|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|6|103.152.238.179|1080|Indonesia|Cikarang|APRIN|
+|7|27.79.187.155|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|91.107.185.149|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|9|49.0.26.205|8080|Indonesia|Taraan|SIMS Jabar Banten Medianet|
+|10|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
 |11|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|12|27.79.228.52|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|103.247.240.34|8080|Indonesia|Semurup|PT Media Kerinci Network|
-|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|15|42.119.2.165|16000|Vietnam|Hanoi|FPT Telecom Company|
-|16|103.172.70.101|8080|Indonesia|Surakarta|AZNET|
-|17|101.108.3.242|8080|Thailand|Bangkok|TOT Public Company Limited|
-|18|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|19|1.54.237.210|16000|Vietnam|Hanoi|FPT Telecom Company|
-|20|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
+|12|58.186.248.95|16000|Vietnam|Hanoi|FPT Telecom Company|
+|13|27.79.228.52|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|27.112.66.122|8181|Indonesia|Jakarta|GRAHANET|
+|15|118.68.241.127|16000|Vietnam|Hanoi|FPT Telecom Company|
+|16|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|17|103.39.51.207|8080|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
+|18|118.68.172.205|16000|Vietnam|Hanoi|FPT Telecom Company|
+|19|112.216.83.10|3128|South Korea|Siheung-si|LG DACOM Corporation|
+|20|45.190.79.65|999|Mexico|Zapopan|Meta Networks SA De CV|
 
 
 
