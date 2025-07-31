@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|112.216.83.10|3128|South Korea|Siheung-si|LG DACOM Corporation|
-|4|45.190.79.65|999|Mexico|Zapopan|Meta Networks SA De CV|
-|5|101.108.3.242|8080|Thailand|Bangkok|TOT Public Company Limited|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|103.13.215.31|8081|Thailand|Ratchathewi|Bunny Communications|
-|12|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|14|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|15|38.159.227.194|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
-|16|47.252.81.108|8118|United States|Richmond|Alibaba Cloud LLC|
-|17|27.79.211.47|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|19|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|20|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|2|112.216.83.10|3128|South Korea|Siheung-si|LG DACOM Corporation|
+|3|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|6|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|7|103.13.215.31|8081|Thailand|Ratchathewi|Bunny Communications|
+|8|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|13|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|14|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
+|15|58.186.248.95|16000|Vietnam|Hanoi|FPT Telecom Company|
+|16|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
+|17|179.43.8.15|8084|Brazil|Jaicós|Voex Telecom Ltda|
+|18|144.76.159.121|8082|Germany|Falkenstein|Hetzner Online GmbH|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|42.119.98.170|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
 
 
 
