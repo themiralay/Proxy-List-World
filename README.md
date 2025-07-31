@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|157.20.128.189|8080|Indonesia|Sagaranten|PT Citra Meta Data|
-|3|103.85.15.46|8082|Indonesia|Dolok Sanggul|PT. Hesta Media Sinergi|
-|4|42.119.2.165|16000|Vietnam|Hanoi|FPT Telecom Company|
+|2|118.68.29.183|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|3|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|4|103.105.76.227|8080|Indonesia|Ngoro|PT. Garuda Media Telematika|
 |5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|27.79.253.210|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|1.55.59.26|16000|Vietnam|Hanoi|FPT Telecom Company|
-|8|118.68.29.183|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|27.79.165.233|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|27.79.140.131|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|118.68.172.205|16000|Vietnam|Hanoi|FPT Telecom Company|
-|13|111.125.242.34|1111|India|Mumbai|NIXI|
-|14|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
-|15|27.79.234.236|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|17|27.79.187.155|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|27.79.188.212|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|1.54.73.149|16000|Vietnam|Hanoi|FPT Telecom Company|
-|20|118.68.64.87|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|68.183.179.119|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|187.230.151.54|3128|Mexico|Miguel Hidalgo|Uninet S.A. de C.V.|
+|9|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|10|192.81.129.252|3135|United States|Fremont|Akamai Technologies, Inc.|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|12|116.212.182.74|8081|India|Kolkata|Microsense Private Limited|
+|13|27.79.253.210|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|16|91.107.185.149|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|17|201.230.8.244|999|Peru|Yunguyo|Telefonica del Peru|
+|18|27.79.234.236|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|1.55.53.239|16000|Vietnam|Hanoi|FPT Telecom Company|
+|20|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
 
 
 
