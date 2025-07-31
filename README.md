@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|3|118.71.167.216|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|42.113.21.143|16000|Vietnam|Hanoi|FPT Telecom Company|
-|6|42.118.1.52|16000|Vietnam|Hanoi|FPT Telecom Company|
-|7|91.107.185.149|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|42.118.225.165|16000|Vietnam|Hanoi|FPT Telecom Company|
-|11|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|13|27.71.131.186|16000|Vietnam|Bảo Lộc|Viettel Group|
-|14|27.79.184.214|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|27.79.167.112|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|190.97.231.0|999|Venezuela|Porlamar|Viginet C.A|
-|17|58.186.131.54|16000|Vietnam|Hanoi|FPT Telecom Company|
-|18|42.119.2.165|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|58.186.248.97|16000|Vietnam|Hanoi|FPT Telecom Company|
-|20|58.186.92.246|16000|Vietnam|Hanoi|FPT Telecom Company|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|27.71.129.176|16000|Vietnam|Bảo Lộc|Viettel Group|
+|4|58.186.248.96|16000|Vietnam|Hanoi|FPT Telecom Company|
+|5|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|6|91.107.185.149|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|27.71.131.186|16000|Vietnam|Bảo Lộc|Viettel Group|
+|8|27.71.138.222|16000|Vietnam|Bảo Lộc|Viettel Group|
+|9|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|10|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|11|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|12|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|13|58.186.92.19|16000|Vietnam|Hanoi|FPT Telecom Company|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|49.49.93.129|8888|Thailand|Mukdahan|Triple T Broadband Public Company Limited|
+|16|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|17|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|18|118.71.117.91|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|19|58.186.248.95|16000|Vietnam|Hanoi|FPT Telecom Company|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
