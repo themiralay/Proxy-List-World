@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
-|3|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|2|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |4|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|27.71.138.222|16000|Vietnam|Bảo Lộc|Viettel Group|
-|7|58.186.248.95|16000|Vietnam|Hanoi|FPT Telecom Company|
-|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|9|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|10|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|11|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|12|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|13|27.79.228.52|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|202.232.52.162|8080|Japan|Ōita|Internet Initiative Japan Inc.|
-|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|16|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|17|118.68.29.183|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|18|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|19|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|20|147.28.240.215|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|5|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
+|6|118.68.29.183|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|7|200.39.120.45|999|Mexico|Villa García|Marcatel Com, S.A. de C.V.|
+|8|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|103.153.134.27|8090|Indonesia|Cikupa|WMINET|
+|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|12|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|13|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|14|91.107.185.149|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|15|202.232.52.162|8080|Japan|Ōita|Internet Initiative Japan Inc.|
+|16|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|18|103.167.171.50|8080|Indonesia|Jakarta|PT Rajeg Media Telekomunikasi|
+|19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
 
 
 
