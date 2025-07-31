@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|3|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|4|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|27.79.228.52|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|118.71.167.223|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|10|58.186.92.233|16000|Vietnam|Hanoi|FPT Telecom Company|
-|11|27.79.167.112|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|42.119.2.165|16000|Vietnam|Hanoi|FPT Telecom Company|
-|15|58.186.92.19|16000|Vietnam|Hanoi|FPT Telecom Company|
-|16|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|17|42.118.225.165|16000|Vietnam|Hanoi|FPT Telecom Company|
-|18|58.186.131.54|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|91.107.185.149|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|20|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
+|2|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|6|91.107.185.149|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|11|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|12|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|13|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|58.186.92.90|16000|Vietnam|Hanoi|FPT Telecom Company|
+|16|147.28.240.216|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|147.28.240.213|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|19|147.28.240.217|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|147.28.240.218|443|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
