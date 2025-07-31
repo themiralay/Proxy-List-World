@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
-|4|112.216.83.10|3128|South Korea|Siheung-si|LG DACOM Corporation|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|27.112.66.122|8181|Indonesia|Jakarta|GRAHANET|
-|7|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|8|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|9|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|11|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|12|2.139.80.104|3128|Spain|Madrid|RIMA (Red IP Multi Acceso)|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|16|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|17|192.140.93.6|3128|Ecuador|Esmeraldas|Kolvech S.A.|
-|18|85.206.93.105|8080|Lithuania|Patašinė|Telia Lietuva|
-|19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|20|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|3|103.154.118.154|57413|Indonesia|Jakarta|MORATELINDONAP|
+|4|103.152.238.179|1080|Indonesia|Cikarang|APRIN|
+|5|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|6|103.127.252.57|3128|India|Mumbai|Juweriyah Networks Private Limited|
+|7|112.216.83.10|3128|South Korea|Siheung-si|LG DACOM Corporation|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|10|103.13.215.31|8081|Thailand|Ratchathewi|Bunny Communications|
+|11|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|12|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|13|27.71.138.222|16000|Vietnam|Bảo Lộc|Viettel Group|
+|14|176.88.168.105|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|18|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|19|90.156.197.189|8080|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|66.211.155.34|8080|United States|Nashua|FirstLight Fiber|
 
 
 
