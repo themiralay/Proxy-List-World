@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|203.175.102.162|1111|Indonesia|Kuningan|MITRAKITA|
-|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|6|161.97.181.217|8118|France|Lauterbourg|Contabo GmbH|
-|7|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|8|92.124.115.104|8080|Russia|Irkutsk|OJSC "Sibirtelecom"|
-|9|42.119.2.165|16000|Vietnam|Hanoi|FPT Telecom Company|
-|10|117.2.48.206|8080|Vietnam|Qui Nhon|Viettel Corporation|
-|11|115.79.70.69|8470|Vietnam|Ho Chi Minh City|VIETELftth|
-|12|1.54.175.129|16000|Vietnam|Hanoi|FPT Telecom Company|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|15|58.186.248.95|16000|Vietnam|Hanoi|FPT Telecom Company|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|19|27.71.138.222|16000|Vietnam|Bảo Lộc|Viettel Group|
-|20|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|2|202.232.52.162|8080|Japan|Ōita|Internet Initiative Japan Inc.|
+|3|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|118.68.29.183|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|5|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|6|103.167.171.50|8080|Indonesia|Jakarta|PT Rajeg Media Telekomunikasi|
+|7|43.130.34.135|5432|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|8|200.39.120.81|999|Mexico|Villa García|Marcatel Com, S.A. de C.V.|
+|9|27.79.228.52|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|11|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|12|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|13|1.54.175.129|16000|Vietnam|Hanoi|FPT Telecom Company|
+|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|15|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|210.2.132.52|8080|Pakistan|Islamabad|LINKdotNET Telecom Limited|
+|17|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|18|49.48.81.24|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|19|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|20|163.61.55.129|8081|Indonesia|Probolinggo|PT INFINITY GLOBAL DATA NUSANTARA|
 
 
 
