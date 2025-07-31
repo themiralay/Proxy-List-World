@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|202.232.52.162|8080|Japan|Ōita|Internet Initiative Japan Inc.|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|5|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|118.68.29.183|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|13|1.54.175.34|16000|Vietnam|Hanoi|FPT Telecom Company|
-|14|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|112.216.83.10|3128|South Korea|Siheung-si|LG DACOM Corporation|
+|4|59.29.182.162|8888|South Korea|Wŏnju|Korea Telecom|
+|5|171.237.89.216|1002|Vietnam|Hanoi|Viettel Corporation|
+|6|171.228.154.82|4001|Vietnam|Hanoi|Viettel Corporation|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|9|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|10|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|103.13.215.31|8081|Thailand|Ratchathewi|Bunny Communications|
 |15|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|16|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
-|17|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|18|112.216.83.10|3128|South Korea|Siheung-si|LG DACOM Corporation|
+|16|66.211.155.34|8080|United States|Nashua|FirstLight Fiber|
+|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|18|46.10.209.230|8080|Bulgaria|Sofia|BTC-BROADBAND|
 |19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|20|160.20.38.2|8080|Indonesia|Indramayu|PT SAMUDRA DIGITAL NETWORK|
+|20|118.68.29.183|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
 
 
 
