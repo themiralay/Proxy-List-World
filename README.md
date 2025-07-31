@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|118.68.29.183|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|3|27.79.187.155|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|42.119.98.170|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|5|27.79.228.52|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|42.119.2.165|16000|Vietnam|Hanoi|FPT Telecom Company|
-|8|27.71.129.176|16000|Vietnam|Bảo Lộc|Viettel Group|
-|9|91.107.185.149|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|10|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|164.163.42.56|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|164.163.42.43|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|164.163.42.22|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|16|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|17|1.54.73.149|16000|Vietnam|Hanoi|FPT Telecom Company|
-|18|58.186.248.97|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|1|202.232.52.162|8080|Japan|Ōita|Internet Initiative Japan Inc.|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|42.119.2.165|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|43.130.34.135|5432|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|10|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|11|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|12|58.186.248.95|16000|Vietnam|Hanoi|FPT Telecom Company|
+|13|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|14|194.15.98.17|8080|Georgia|Marneuli|Jenet LLC|
+|15|58.186.248.97|16000|Vietnam|Hanoi|FPT Telecom Company|
+|16|103.13.215.31|8081|Thailand|Ratchathewi|Bunny Communications|
+|17|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|18|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|19|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|20|68.183.179.119|8888|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
