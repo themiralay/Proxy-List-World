@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
-|3|139.59.228.95|8118|Singapore|Singapore|DIGITALOCEAN|
-|4|91.107.185.149|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|5|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|4|27.71.138.222|16000|Vietnam|Bảo Lộc|Viettel Group|
+|5|58.186.248.95|16000|Vietnam|Hanoi|FPT Telecom Company|
 |6|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|203.76.98.21|45958|Bangladesh|Dhaka|Link3 Technologies Limited|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|11|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|12|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|13|1.54.175.129|16000|Vietnam|Hanoi|FPT Telecom Company|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|1.54.73.149|16000|Vietnam|Hanoi|FPT Telecom Company|
-|16|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|19|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|20|147.28.240.210|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|7|1.54.77.124|16000|Vietnam|Hanoi|FPT Telecom Company|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|10|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|11|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|92.124.115.104|8080|Russia|Irkutsk|OJSC "Sibirtelecom"|
+|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|17|72.10.164.178|21855|Canada|Montreal|GloboTech Communications|
+|18|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|19|147.28.240.210|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|147.28.240.213|80|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
