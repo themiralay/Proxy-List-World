@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|157.245.195.67|8444|Singapore|Singapore|DigitalOcean, LLC|
-|3|103.189.254.28|2222|Indonesia|Surabaya|PT Lintas Daya Nusantara|
-|4|43.135.172.217|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|5|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|6|58.186.248.95|16000|Vietnam|Hanoi|FPT Telecom Company|
-|7|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|8|91.107.185.149|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
-|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|10|103.247.240.34|8080|Indonesia|Semurup|PT Media Kerinci Network|
-|11|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|14|68.225.17.237|4228|United States|Santa Ana|Cox Communications Inc.|
-|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|17|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|18|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|2|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|3|43.135.172.217|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|4|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|5|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|58.186.248.96|16000|Vietnam|Hanoi|FPT Telecom Company|
+|9|58.186.92.90|16000|Vietnam|Hanoi|FPT Telecom Company|
+|10|27.79.167.112|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|12|42.118.1.52|16000|Vietnam|Hanoi|FPT Telecom Company|
+|13|27.79.235.237|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|42.113.21.143|16000|Vietnam|Hanoi|FPT Telecom Company|
+|15|91.107.185.149|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|17|27.79.201.43|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|5.188.183.253|8080|Spain|Madrid|Melbikomas UAB|
+|19|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|116.107.169.233|10001|Vietnam|Tuyên Quang|Viettel Corporation|
 
 
 
