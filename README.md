@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|2|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|3|23.94.236.141|8080|United States|Los Angeles|HostPapa|
+|4|58.186.248.123|16000|Vietnam|Hanoi|FPT Telecom Company|
 |5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|103.144.103.161|8080|Indonesia|Jatibarang|PANDAWANET|
-|10|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|11|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|8|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|9|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|10|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|11|1.54.54.6|16000|Vietnam|Hanoi|FPT Telecom Company|
 |12|58.186.92.146|16000|Vietnam|Hanoi|FPT Telecom Company|
-|13|202.88.251.73|8080|India|Thrissur|Asianet Satellite Communications Pvt Ltd|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|16|163.223.78.89|8080|Indonesia|Jombang|PT Big Network Indonesia|
-|17|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|13|95.47.239.65|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
+|14|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|15|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|16|27.79.165.127|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|58.186.131.54|16000|Vietnam|Hanoi|FPT Telecom Company|
 |18|42.118.0.241|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|103.189.250.117|1111|Indonesia|Pamedilan|PT Pandawa Lima Java Network|
-|20|61.118.38.234|60808|Japan|Chiyoda|Open Computer Network|
+|19|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|20|1.54.76.119|16000|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
