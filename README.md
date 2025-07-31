@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
 |3|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
 |4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|8|118.71.117.91|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|9|58.186.92.146|16000|Vietnam|Hanoi|FPT Telecom Company|
+|7|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|8|23.94.236.141|8080|United States|Los Angeles|HostPapa|
+|9|103.144.103.161|8080|Indonesia|Jatibarang|PANDAWANET|
 |10|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|11|23.94.236.141|8080|United States|Los Angeles|HostPapa|
-|12|112.211.64.112|8082|Philippines|Taguig|Philippine Long Distance Telephone Co.|
-|13|79.127.54.89|3130|Iran|Tehran|Asiatech Data Transmission company|
-|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|58.186.248.123|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|20|103.174.236.115|8080|Indonesia|Karangampel|PT Global Erasiber Teknologi|
+|11|160.191.180.236|8080|Indonesia|Purworejo|PT.Global Media Data Prima|
+|12|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|13|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|14|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|16|103.143.197.218|8000|Indonesia|Karanganom|JERNIHNETWORK|
+|17|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|18|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|19|85.206.93.105|8080|Lithuania|Patašinė|Telia Lietuva|
+|20|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
 
 
 
