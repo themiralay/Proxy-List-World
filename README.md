@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|6|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|9|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|10|91.229.78.250|8448|Ukraine|Kyiv|Zemlyaniy Dmitro Leonidovich|
-|11|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|58.187.71.222|16000|Vietnam|Hanoi|FPT Telecom Company|
-|14|202.137.14.57|8085|Indonesia|Tangerang|customer in Corporate Access|
-|15|27.71.128.132|16000|Vietnam|Bảo Lộc|Viettel Group|
-|16|202.88.251.73|8080|India|Thrissur|Asianet Satellite Communications Pvt Ltd|
-|17|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|18|1.54.54.6|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|116.103.131.240|1021|Vietnam|Buon Ma Thuot|Viettel Corporation|
-|20|42.114.11.224|16000|Vietnam|Hanoi|FPT Telecom Company|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|5|58.186.92.146|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|8|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|9|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|10|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|11|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|12|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|13|27.71.131.186|16000|Vietnam|Bảo Lộc|Viettel Group|
+|14|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|17|42.117.168.204|16000|Vietnam|Quận Mười|FPT Telecom Company|
+|18|58.186.248.123|16000|Vietnam|Hanoi|FPT Telecom Company|
+|19|42.114.11.224|16000|Vietnam|Hanoi|FPT Telecom Company|
+|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
