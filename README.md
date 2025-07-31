@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|103.169.128.133|8080|Indonesia|Cirebon|PT Media Akses Data|
-|3|42.117.168.204|16000|Vietnam|Quận Mười|FPT Telecom Company|
-|4|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|5|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|6|58.187.71.222|16000|Vietnam|Hanoi|FPT Telecom Company|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|156.225.70.152|39151|United States|Piscataway|ZAgency Media and Technology Company Limited|
-|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|51.81.220.14|7777|United States|Hillsboro|OVH SAS|
+|2|171.237.85.43|1011|Vietnam|Hanoi|Viettel Corporation|
+|3|42.113.54.237|16000|Vietnam|Hanoi|FPT Telecom Company|
+|4|58.187.174.141|16000|Vietnam|Hanoi|FPT Telecom Company|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|7|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|10|42.117.168.204|16000|Vietnam|Quận Mười|FPT Telecom Company|
 |11|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
 |12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|13|58.187.174.141|16000|Vietnam|Hanoi|FPT Telecom Company|
-|14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|15|156.225.70.152|39151|United States|Piscataway|ZAgency Media and Technology Company Limited|
-|16|1.54.54.6|16000|Vietnam|Hanoi|FPT Telecom Company|
-|17|52.51.50.129|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|18|58.186.248.123|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|20|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|14|154.220.66.2|7000|Hong Kong|Chai Wan|CloudFly Net Inc Pending|
+|15|58.187.71.222|16000|Vietnam|Hanoi|FPT Telecom Company|
+|16|52.51.50.129|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|17|27.79.134.70|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|45.70.236.194|999|Ecuador|Simón Bolívar|Ufinet Panama S.A.|
+|19|91.229.78.250|8448|Ukraine|Kyiv|Zemlyaniy Dmitro Leonidovich|
+|20|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
 
 
 
