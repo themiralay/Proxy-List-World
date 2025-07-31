@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|103.13.215.31|8081|Thailand|Ratchathewi|Bunny Communications|
-|3|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|4|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|5|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|6|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|7|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|8|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|1.54.237.210|16000|Vietnam|Hanoi|FPT Telecom Company|
-|11|164.163.42.56|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|147.28.240.210|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|15|144.76.159.121|8084|Germany|Falkenstein|Hetzner Online GmbH|
-|16|147.75.34.105|443|The Netherlands|Amsterdam|Packet Host, Inc.|
-|17|51.159.159.73|80|France|Paris|SCALEWAY|
-|18|121.131.113.94|8080|South Korea|Mapo-gu|Korea Telecom|
-|19|37.120.162.180|38457|Germany|Nuremberg|netcup GmbH|
-|20|72.10.164.178|5427|Canada|Montreal|GloboTech Communications|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|5|27.79.187.155|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|7|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|58.186.248.97|16000|Vietnam|Hanoi|FPT Telecom Company|
+|10|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|11|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|14|8.244.151.70|3128|Japan|Koto-ku|Level 3 Communications, Inc.|
+|15|27.79.188.212|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|1.54.237.210|16000|Vietnam|Hanoi|FPT Telecom Company|
+|17|164.163.42.43|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|68.183.179.119|8888|Singapore|Singapore|DigitalOcean, LLC|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|27.71.129.176|16000|Vietnam|Bảo Lộc|Viettel Group|
 
 
 
