@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
 |3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 |6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|7|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|8|180.194.144.142|8080|Philippines|Malaybalay|Philippine Long Distance Telephone Co.|
-|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|223.204.10.20|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
-|12|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|13|181.129.97.38|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
-|14|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|15|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|16|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|17|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|19|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|20|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|7|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|8|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|9|4.197.174.204|3128|Australia|The Rocks|Microsoft Corporation|
+|10|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|11|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|12|1.54.76.119|16000|Vietnam|Hanoi|FPT Telecom Company|
+|13|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|14|159.65.166.126|8118|United States|Clifton|DigitalOcean, LLC|
+|15|125.24.195.174|8080|Thailand|Bangkok|TOT Public Company Limited|
+|16|1.55.53.177|16000|Vietnam|Hanoi|FPT Telecom Company|
+|17|181.129.97.38|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
+|18|1.54.111.112|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|19|58.187.174.141|16000|Vietnam|Hanoi|FPT Telecom Company|
+|20|51.79.99.237|4502|Canada|Montreal|OVH SAS|
 
 
 
