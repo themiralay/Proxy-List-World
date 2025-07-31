@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|5|179.49.156.56|999|Peru|Lima|Vemax S.A.C|
-|6|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|164.163.42.56|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|11|147.28.240.213|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|12|85.206.93.105|8080|Lithuania|Patašinė|Telia Lietuva|
-|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|116.103.131.240|1014|Vietnam|Buon Ma Thuot|Viettel Corporation|
-|15|180.194.154.120|8080|Philippines|Malaybalay|Philippine Long Distance Telephone Co.|
-|16|147.28.240.210|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|17|103.167.156.14|8084|Indonesia|Pemalang|PT Jaringan Tiang Indonesia Group|
-|18|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|19|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|20|190.123.83.137|999|Argentina|Río Cuarto|Pogliotti & Construcciones S.A.|
+|2|27.71.131.186|16000|Vietnam|Bảo Lộc|Viettel Group|
+|3|58.186.248.95|16000|Vietnam|Hanoi|FPT Telecom Company|
+|4|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|5|27.71.129.176|16000|Vietnam|Bảo Lộc|Viettel Group|
+|6|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|7|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|8|197.248.204.231|8080|Kenya|Nairobi|Safaricom Limited|
+|9|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|11|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|14|103.13.215.31|8081|Thailand|Ratchathewi|Bunny Communications|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|222.127.55.155|8082|Philippines|Lahug|INNOVE|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|147.28.240.213|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|19|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|20|147.28.240.210|80|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
