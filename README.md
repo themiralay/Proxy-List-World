@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|2|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
 |3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|6|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|7|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|8|42.119.2.165|16000|Vietnam|Hanoi|FPT Telecom Company|
-|9|42.119.98.170|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|10|118.71.117.91|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|12|42.113.21.143|16000|Vietnam|Hanoi|FPT Telecom Company|
-|13|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|14|58.186.92.19|16000|Vietnam|Hanoi|FPT Telecom Company|
-|15|1.54.111.112|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|16|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|17|34.48.171.130|33080|United States|Washington|Google LLC|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|80.78.30.182|3128|Sweden|Malmo|ab stract|
-|20|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|8|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|9|58.186.92.246|16000|Vietnam|Hanoi|FPT Telecom Company|
+|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|11|92.247.12.136|9510|Bulgaria|Sofia|A1 Bulgaria EAD|
+|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|13|34.48.171.130|33080|United States|Washington|Google LLC|
+|14|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|15|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|16|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|17|180.190.202.175|8082|Philippines|Lahug|Globe Telecom|
+|18|77.110.114.19|8118|United States|Charlotte|Aeza International LTD|
+|19|85.206.93.105|8080|Lithuania|Patašinė|Telia Lietuva|
+|20|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 
 
 
