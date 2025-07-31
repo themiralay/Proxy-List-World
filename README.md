@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|3|42.119.2.165|16000|Vietnam|Hanoi|FPT Telecom Company|
-|4|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|118.68.29.183|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|9|58.186.248.95|16000|Vietnam|Hanoi|FPT Telecom Company|
-|10|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|11|1.54.73.149|16000|Vietnam|Hanoi|FPT Telecom Company|
-|12|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|14|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|15|103.81.194.163|8080|Indonesia|Ciampea|PT Rtiga Global Media|
-|16|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|2|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
+|3|203.175.102.162|1111|Indonesia|Kuningan|MITRAKITA|
+|4|118.68.29.183|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|91.107.185.149|1080|Germany|Frankfurt Am Main|Hetzner Online AG|
+|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|9|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
+|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|11|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|12|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|13|1.54.73.149|16000|Vietnam|Hanoi|FPT Telecom Company|
+|14|1.54.77.124|16000|Vietnam|Hanoi|FPT Telecom Company|
+|15|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|16|1.54.175.129|16000|Vietnam|Hanoi|FPT Telecom Company|
 |17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|20|1.54.175.129|16000|Vietnam|Hanoi|FPT Telecom Company|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|20|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
 
 
 
