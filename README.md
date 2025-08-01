@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|5|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|6|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|7|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|8|78.47.126.220|8888|Germany|Nuremberg|Hetzner Online GmbH|
+|3|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|8|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
 |9|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|11|147.28.240.215|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|12|147.28.240.215|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|14|34.48.171.130|33080|United States|Washington|Google LLC|
-|15|147.28.240.214|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|16|147.28.240.217|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|17|147.28.240.210|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|18|147.28.240.217|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|19|147.28.240.216|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|20|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|10|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|11|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|12|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|13|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|14|149.86.140.162|8080|Turkey|Reyhanlı|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|15|78.47.126.220|8888|Germany|Nuremberg|Hetzner Online GmbH|
+|16|58.186.92.19|16000|Vietnam|Hanoi|FPT Telecom Company|
+|17|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|18|103.146.38.7|1111|Indonesia|Karawang|MEDIASOLUSISUKSES|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|80.78.30.182|3128|Sweden|Malmo|ab stract|
 
 
 
