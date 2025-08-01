@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|3|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
-|4|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|5|80.78.30.182|3128|Sweden|Malmo|ab stract|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|8|37.32.40.253|8080|Iran|Ahvaz|Toloe Rayaneh Loghman Educational and Cultural Co.|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|11|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|12|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|13|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|14|78.9.234.55|8080|Poland|Warsaw|Netia SA|
-|15|147.28.240.215|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|16|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|17|164.163.42.29|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|144.76.159.121|8082|Germany|Falkenstein|Hetzner Online GmbH|
-|20|147.28.240.210|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|2|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|5|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|6|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|7|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|8|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|9|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|10|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|11|147.28.240.215|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|12|40.172.232.213|29214|United Arab Emirates|Dubai|Amazon.com|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|15|144.76.159.121|8082|Germany|Falkenstein|Hetzner Online GmbH|
+|16|164.163.42.29|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|181.10.138.226|8083|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|18|147.28.240.210|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|19|103.85.53.62|8080|Indonesia|Krajan Ngagel|PT Binerkahan Digital Telco|
+|20|147.28.240.213|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
