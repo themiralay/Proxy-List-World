@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
 |3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|152.53.194.46|8065|United States|Manassas|netcup GmbH|
-|6|202.137.14.57|8085|Indonesia|Tangerang|customer in Corporate Access|
+|5|80.211.202.138|8118|Czechia|Prague|INTERNET CZ, a.s.|
+|6|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
 |7|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|8|1.54.76.119|16000|Vietnam|Hanoi|FPT Telecom Company|
-|9|147.28.240.210|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|10|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|11|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|12|27.79.142.87|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|14|49.156.44.117|8080|Cambodia|Phnom Penh|WiCAM Corporation|
-|15|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|16|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|200.24.130.149|999|Ecuador|Tres Postes|Ufinet Panama S.A.|
-|19|212.110.188.220|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|20|23.143.160.193|999|Puerto Rico|Ponce|Unonet Corp|
+|8|147.28.240.210|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|9|152.53.194.46|8029|United States|Manassas|netcup GmbH|
+|10|58.186.92.19|16000|Vietnam|Hanoi|FPT Telecom Company|
+|11|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|12|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
+|13|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|14|42.113.54.237|16000|Vietnam|Hanoi|FPT Telecom Company|
+|15|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|16|103.169.255.203|6080|Indonesia|Kendalrejo|PT Master Star Network|
+|17|212.110.188.220|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|18|213.87.103.76|3128|Russia|Blagoveshchensk|MR DV division of Mobile Telesystems OJSC|
+|19|201.88.213.118|8080|Brazil|Brasília|V tal|
+|20|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
 
 
 
