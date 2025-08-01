@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|202.232.52.162|8080|Japan|Ōita|Internet Initiative Japan Inc.|
-|7|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|8|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|9|212.110.188.207|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|10|152.53.194.46|8029|United States|Manassas|netcup GmbH|
-|11|77.110.124.36|3128|United States|Charlotte|Aeza International LTD|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|14|157.180.121.252|48053|Finland|Helsinki|Hetzner Online GmbH|
-|15|147.28.240.217|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|16|95.53.246.137|3128|Russia|Vologda|Rostelecom networks|
+|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|4|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|5|208.102.24.225|8888|United States|Harrison|Fuse Internet Access|
+|6|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|7|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
+|8|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|9|152.53.194.46|8070|United States|Manassas|netcup GmbH|
+|10|147.28.240.214|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|11|40.172.232.213|29214|United Arab Emirates|Dubai|Amazon.com|
+|12|147.28.240.217|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|13|203.115.123.163|1452|India|Mumbai|PRIMENET|
+|14|103.233.152.18|8080|Indonesia|Jimbaran|BIZNET|
+|15|154.220.66.2|7000|Hong Kong|Chai Wan|CloudFly Net Inc Pending|
+|16|157.180.121.252|48053|Finland|Helsinki|Hetzner Online GmbH|
 |17|157.180.121.252|48053|Finland|Helsinki|Hetzner Online GmbH|
-|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|19|147.28.240.214|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|20|67.43.236.18|2965|Canada|Montreal|GloboTech Communications|
+|18|147.28.240.217|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|19|67.43.236.18|4959|Canada|Montreal|GloboTech Communications|
+|20|147.28.240.210|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
