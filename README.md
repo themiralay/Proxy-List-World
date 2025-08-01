@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|3|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|4|37.49.227.99|1994|The Netherlands|Amsterdam|ESTOXY OU|
-|5|52.51.50.129|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|7|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|8|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|9|164.163.42.29|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|11|5.190.36.2|3128|Iran|Bavānāt|Iran Telecommunication Company PJS|
-|12|202.137.14.57|8085|Indonesia|Tangerang|customer in Corporate Access|
+|1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|3|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|4|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|5|103.82.38.203|8888|Vietnam|Thanh Khê|CLOUDFLY|
+|6|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|7|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|8|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|10|190.145.194.210|8080|Colombia|Santiago de Cali|Telmex Colombia S.A.|
+|11|103.180.118.174|6789|Indonesia|Bilo|PT Persada Data Multimedia|
+|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
 |13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|14|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|15|42.119.2.94|16000|Vietnam|Hanoi|FPT Telecom Company|
-|16|147.28.240.217|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|17|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|18|212.110.188.213|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|19|147.28.240.210|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|20|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|14|147.28.240.217|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|147.28.240.210|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|17|209.141.54.136|5555|United States|Las Vegas|FranTech Solutions|
+|18|27.71.131.186|16000|Vietnam|Bảo Lộc|Viettel Group|
+|19|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|20|103.189.197.139|8080|Indonesia|Cirebon|PT Graha Sumber Teknologi|
 
 
 
