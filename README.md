@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|5|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|6|52.51.50.129|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|7|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|8|103.76.109.65|8080|Indonesia|Kraksaan|PT Mahawira Nusantara Grup|
-|9|202.137.14.57|8085|Indonesia|Tangerang|customer in Corporate Access|
-|10|65.38.213.154|8881|Puerto Rico|San Juan|AT&T Mobility Puerto Rico|
-|11|80.78.30.182|3128|Sweden|Malmo|ab stract|
-|12|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|13|118.97.69.163|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|14|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|15|116.203.139.209|999|Germany|Nuremberg|Hetzner Online GmbH|
-|16|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|17|58.186.92.146|16000|Vietnam|Hanoi|FPT Telecom Company|
-|18|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|19|103.162.154.200|8888|Australia|Nikenbah|Serenitas Communities Holdings Pty Ltd|
-|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|52.51.50.129|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|8|190.145.194.210|8080|Colombia|Santiago de Cali|Telmex Colombia S.A.|
+|9|147.28.240.215|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|10|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|11|212.110.188.216|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|12|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|14|147.28.240.210|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|15|147.28.240.215|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|16|67.43.228.253|12089|Canada|Montreal|GloboTech Communications|
+|17|72.10.160.170|26921|Canada|Montreal|GloboTech Communications|
+|18|27.79.138.117|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|147.28.240.216|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|49.49.144.13|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
 
 
 
