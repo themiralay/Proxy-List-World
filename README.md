@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|4|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|5|201.77.96.145|999|Mexico|Actopan|Hulux Telecomunicaciones|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|170.64.149.240|3128|Australia|Sydney|DigitalOcean, LLC|
+|2|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |8|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|9|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|9|178.156.191.112|3128|United States|Ashburn|Hetzner Online GmbH|
 |10|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|11|112.198.128.35|8084|Philippines|Nasugbu|Globe Telecom|
+|11|51.79.99.237|4502|Canada|Montreal|OVH SAS|
 |12|80.78.30.182|3128|Sweden|Malmo|ab stract|
 |13|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|15|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|16|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|17|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|18|80.211.202.138|8118|Czechia|Prague|INTERNET CZ, a.s.|
-|19|154.220.66.2|7000|Hong Kong|Chai Wan|CloudFly Net Inc Pending|
-|20|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|14|1.55.53.177|16000|Vietnam|Hanoi|FPT Telecom Company|
+|15|58.186.45.199|16000|Vietnam|Hanoi|FPT Telecom Company|
+|16|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|17|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|18|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|19|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|20|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
 
 
 
