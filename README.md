@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **74668** proxies at the latest update. Usable proxies are below.
+> Scraper found **74695** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35514|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35541|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|116|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|37812|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|3|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|4|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|5|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|6|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|7|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|8|203.190.46.31|8080|Indonesia|Pandak|PT Jaring Lintas Utara|
-|9|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|10|147.28.240.200|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|11|147.28.240.216|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|12|34.48.171.130|33080|United States|Washington|Google LLC|
-|13|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|14|147.28.240.215|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|95.53.246.137|3128|Russia|Vologda|Rostelecom networks|
-|17|147.28.240.218|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|18|147.28.240.216|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|19|147.28.240.213|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|20|103.247.22.15|1111|Indonesia|Purbalingga|PT wifian Solution|
+|2|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|3|58.187.71.222|16000|Vietnam|Hanoi|FPT Telecom Company|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|42.113.54.237|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|1.54.54.6|16000|Vietnam|Hanoi|FPT Telecom Company|
+|7|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|8|103.222.255.106|8080|Indonesia|Srandakan|PT Iktiar Doa Tawakal|
+|9|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
+|10|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|11|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
+|12|194.147.35.134|52120|United Kingdom|Coventry|Baykov Ilya Sergeevich|
+|13|103.158.253.13|8382|Indonesia|Gresik|Rapid Network|
+|14|27.79.142.87|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|16|152.53.194.46|8065|United States|Manassas|netcup GmbH|
+|17|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|18|147.28.240.215|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|19|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|20|212.110.188.213|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
 
 
 
