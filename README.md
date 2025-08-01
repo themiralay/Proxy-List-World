@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
 |3|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|4|1.54.54.6|16000|Vietnam|Hanoi|FPT Telecom Company|
-|5|58.186.248.123|16000|Vietnam|Hanoi|FPT Telecom Company|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
 |6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|8|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|9|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|10|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|11|103.234.124.183|7777|Indonesia|Pelabuhanratu|PT. LINTAS DATA TRANS|
-|12|31.14.114.68|1081|Iran|Tehran|Afranet Co|
-|13|160.191.180.236|8080|Indonesia|Purworejo|PT.Global Media Data Prima|
-|14|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|15|157.66.84.29|7777|Indonesia|Madiun|Menaksopal Lintas Nusantara|
-|16|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|17|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|18|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|19|58.187.71.222|16000|Vietnam|Hanoi|FPT Telecom Company|
-|20|27.79.235.237|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|8|1.54.76.119|16000|Vietnam|Hanoi|FPT Telecom Company|
+|9|65.38.213.154|8881|Puerto Rico|San Juan|AT&T Mobility Puerto Rico|
+|10|42.117.168.204|16000|Vietnam|Quận Mười|FPT Telecom Company|
+|11|42.114.11.224|16000|Vietnam|Hanoi|FPT Telecom Company|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|14|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|15|23.94.236.141|8080|United States|Los Angeles|HostPapa|
+|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|17|1.54.54.6|16000|Vietnam|Hanoi|FPT Telecom Company|
+|18|202.137.14.57|8085|Indonesia|Tangerang|customer in Corporate Access|
+|19|27.79.235.237|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|51.79.99.237|4502|Canada|Montreal|OVH SAS|
 
 
 
