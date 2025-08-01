@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -40,23 +40,23 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|45.136.198.40|3128|Bulgaria|Sofia|Managed by IROKO Networks|
-|3|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|4|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|5|78.47.126.220|8888|Germany|Nuremberg|Hetzner Online GmbH|
-|6|40.172.232.213|29214|United Arab Emirates|Dubai|Amazon.com|
-|7|223.206.53.75|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|8|103.180.118.207|7777|Indonesia|Kebondempet|PT Persada Data Multimedia|
-|9|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|10|103.18.79.181|8080|Indonesia|Gunungkalong|PT Usaha Adi Sanggoro|
-|11|49.48.68.109|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|12|164.163.42.56|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|188.235.146.220|40754|Russia|Saratov|JSC "ER-Telecom Holding"|
-|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|15|147.28.240.214|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|16|152.53.194.46|8065|United States|Manassas|netcup GmbH|
-|17|152.53.194.46|8065|United States|Manassas|netcup GmbH|
-|18|157.180.121.252|38266|Finland|Helsinki|Hetzner Online GmbH|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|4|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|5|88.218.78.128|47808|France|Strasbourg|velia.net Internetdienste GmbH|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|40.172.232.213|29214|United Arab Emirates|Dubai|Amazon.com|
+|8|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|9|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|10|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|11|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|12|164.163.42.22|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|14|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|15|200.201.134.184|8787|Brazil|São Paulo|Telium Telecomunicações Ltda|
+|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|17|203.177.237.138|8282|Philippines|Iloilo City|Globe Telecom|
+|18|160.153.172.248|80|United States|Tempe|GoDaddy.com, LLC|
 |19|152.53.194.46|8065|United States|Manassas|netcup GmbH|
 |20|147.28.240.217|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
 
