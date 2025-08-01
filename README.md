@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|3|80.78.30.182|3128|Sweden|Malmo|ab stract|
-|4|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|5|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|2|103.46.186.196|8080|Indonesia|Utan|PT Air Lintas Komunikasi|
+|3|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|4|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|5|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
 |6|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|7|203.115.123.163|1452|India|Mumbai|PRIMENET|
-|8|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|9|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|10|27.79.142.87|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|103.178.88.54|8080|Indonesia|Jakarta|PT INTER MEDIALINK SOLUSI|
-|12|147.28.240.218|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|13|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|14|116.107.169.233|10001|Vietnam|Tuyên Quang|Viettel Corporation|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|157.180.121.252|48053|Finland|Helsinki|Hetzner Online GmbH|
-|17|66.70.235.23|5454|United States|Los Angeles|OVH Hosting|
-|18|147.28.240.200|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|19|147.28.240.210|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|20|181.129.97.38|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
+|7|23.94.236.141|8080|United States|Los Angeles|HostPapa|
+|8|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|9|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|10|144.76.159.121|8082|Germany|Falkenstein|Hetzner Online GmbH|
+|11|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|12|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|13|147.28.240.218|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|14|40.172.232.213|29214|United Arab Emirates|Dubai|Amazon.com|
+|15|164.163.42.22|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|181.129.97.38|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
+|17|157.180.121.252|48053|Finland|Helsinki|Hetzner Online GmbH|
+|18|147.28.240.210|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|19|147.28.240.200|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
