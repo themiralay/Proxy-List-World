@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|202.137.14.57|8085|Indonesia|Tangerang|customer in Corporate Access|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|2|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |7|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|10|175.158.63.166|1111|Indonesia|Jakarta|CBNNAP|
-|11|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|12|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|13|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|14|58.186.45.199|16000|Vietnam|Hanoi|FPT Telecom Company|
-|15|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|16|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|18|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|20|58.186.92.19|16000|Vietnam|Hanoi|FPT Telecom Company|
+|8|170.64.149.240|3128|Australia|Sydney|DigitalOcean, LLC|
+|9|112.198.128.35|8084|Philippines|Nasugbu|Globe Telecom|
+|10|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|13|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|14|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|15|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|16|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|17|1.55.53.177|16000|Vietnam|Hanoi|FPT Telecom Company|
+|18|154.220.66.2|7000|Hong Kong|Chai Wan|CloudFly Net Inc Pending|
+|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|51.79.99.237|4502|Canada|Montreal|OVH SAS|
 
 
 
