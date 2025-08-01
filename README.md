@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|42.200.253.116|8080|Hong Kong|Central|PCCW IMSBiz|
-|3|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|4|144.34.228.13|3128|United States|Los Angeles|IT7 Networks Inc|
-|5|144.34.228.13|3128|United States|Los Angeles|IT7 Networks Inc|
-|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|10|14.225.212.81|3128|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|157.66.16.52|8080|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|14|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|15|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|77.49.137.178|8080|Greece|Athens|RIPE Network Coordination Centre|
-|18|27.79.142.153|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|125.25.231.132|8080|Thailand|Phichit|TOT Public Company Limited|
-|20|45.7.65.253|999|Mexico|Huauchinango|Maysnet SA De CV|
+|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|3|144.34.228.13|3128|United States|Los Angeles|IT7 Networks Inc|
+|4|18.117.112.163|3128|United States|Dublin|Amazon.com, Inc.|
+|5|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|18.117.112.163|3128|United States|Dublin|Amazon.com, Inc.|
+|8|144.34.228.13|3128|United States|Los Angeles|IT7 Networks Inc|
+|9|157.180.121.252|46206|Finland|Helsinki|Hetzner Online GmbH|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|49.150.48.74|8082|Philippines|Tarlac City|Philippine Long Distance Telephone Co.|
+|12|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|13|14.225.212.81|3128|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|14|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|15|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|16|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|17|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|18|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|19|103.224.125.38|2024|Indonesia|Depok|PT Curug Lintas Indonesia|
+|20|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
 
 
 
