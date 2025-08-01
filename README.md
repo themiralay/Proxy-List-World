@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|4|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|103.231.236.228|8182|Indonesia|Randudongkal|PT Level Indodata Teknologi|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
 |6|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|7|42.113.54.237|16000|Vietnam|Hanoi|FPT Telecom Company|
-|8|78.47.126.220|8888|Germany|Nuremberg|Hetzner Online GmbH|
-|9|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|10|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|11|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|15|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|16|58.187.71.222|16000|Vietnam|Hanoi|FPT Telecom Company|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|9|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|10|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|11|103.158.62.186|8088|Bangladesh|Sylhet|SEARCH IT|
+|12|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|13|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|14|78.47.126.220|8888|Germany|Nuremberg|Hetzner Online GmbH|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|18|42.119.2.88|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|20|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|18|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|19|40.172.232.213|29214|United Arab Emirates|Dubai|Amazon.com|
+|20|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
 
 
 
