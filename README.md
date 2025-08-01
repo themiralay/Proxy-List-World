@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|3|58.187.71.222|16000|Vietnam|Hanoi|FPT Telecom Company|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|42.113.54.237|16000|Vietnam|Hanoi|FPT Telecom Company|
-|6|1.54.54.6|16000|Vietnam|Hanoi|FPT Telecom Company|
-|7|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|8|103.222.255.106|8080|Indonesia|Srandakan|PT Iktiar Doa Tawakal|
-|9|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
-|10|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|11|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
-|12|194.147.35.134|52120|United Kingdom|Coventry|Baykov Ilya Sergeevich|
-|13|103.158.253.13|8382|Indonesia|Gresik|Rapid Network|
-|14|27.79.142.87|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|16|152.53.194.46|8065|United States|Manassas|netcup GmbH|
-|17|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|18|147.28.240.215|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|19|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|20|212.110.188.213|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|2|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|3|27.71.128.132|16000|Vietnam|Bảo Lộc|Viettel Group|
+|4|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|5|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|6|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|7|40.172.232.213|29214|United Arab Emirates|Dubai|Amazon.com|
+|8|103.178.88.54|8080|Indonesia|Jakarta|PT INTER MEDIALINK SOLUSI|
+|9|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|10|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|11|102.221.216.163|8080|South Africa|Cape Town|Krypton Web|
+|12|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|13|152.53.194.46|8065|United States|Manassas|netcup GmbH|
+|14|147.28.240.215|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|15|185.200.38.53|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|18|103.168.254.81|1111|Indonesia|Gemiring|PT Fahasa Tri Data|
+|19|147.28.240.218|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|147.28.240.200|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
