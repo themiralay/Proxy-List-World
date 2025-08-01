@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|3|49.156.44.117|8080|Cambodia|Phnom Penh|WiCAM Corporation|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|7|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|10|147.28.240.210|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|11|118.71.117.91|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|12|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|13|152.53.194.46|8065|United States|Manassas|netcup GmbH|
-|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|201.47.88.21|3128|Brazil|Cascavel|Vivo|
-|16|185.41.152.110|3128|France|Valenciennes|global|
-|17|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|18|58.187.71.222|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|20|58.186.45.199|16000|Vietnam|Hanoi|FPT Telecom Company|
+|2|58.186.248.123|16000|Vietnam|Hanoi|FPT Telecom Company|
+|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|4|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|5|1.54.54.6|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|10|1.54.76.119|16000|Vietnam|Hanoi|FPT Telecom Company|
+|11|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|12|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|14|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|15|64.225.30.15|3128|United States|Clifton|DigitalOcean, LLC|
+|16|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|17|58.186.92.19|16000|Vietnam|Hanoi|FPT Telecom Company|
+|18|103.133.60.12|8080|Indonesia|Pekalongan|TLINK|
+|19|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|20|64.225.30.15|3128|United States|Clifton|DigitalOcean, LLC|
 
 
 
