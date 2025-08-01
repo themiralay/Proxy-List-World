@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **74790** proxies at the latest update. Usable proxies are below.
+> Scraper found **74753** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35623|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|155|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|118|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|37786|✅|
 
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
 |3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|103.132.52.32|8080|Indonesia|Buaran|PT Adeaksa Indo Jayatama|
-|5|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|4|152.53.194.46|8065|United States|Manassas|netcup GmbH|
+|5|38.211.24.18|8080|Indonesia|West Java|PT Putra Garsel Interkoneksi|
 |6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|8|152.53.194.46|8029|United States|Manassas|netcup GmbH|
-|9|118.71.117.91|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|10|58.186.92.146|16000|Vietnam|Hanoi|FPT Telecom Company|
-|11|84.252.136.237|3128|Russia|Moscow|Yandex.Cloud LLC|
-|12|49.156.44.117|8080|Cambodia|Phnom Penh|WiCAM Corporation|
-|13|147.28.240.210|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|14|103.169.255.203|6080|Indonesia|Kendalrejo|PT Master Star Network|
-|15|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|16|23.143.160.193|999|Puerto Rico|Ponce|Unonet Corp|
-|17|1.54.76.119|16000|Vietnam|Hanoi|FPT Telecom Company|
-|18|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|19|185.41.152.110|3128|France|Valenciennes|global|
-|20|58.187.71.222|16000|Vietnam|Hanoi|FPT Telecom Company|
+|7|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|8|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|9|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|10|147.28.240.210|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|11|181.48.160.114|9090|Colombia|Bogotá|Telmex Colombia S.A.|
+|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|13|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|14|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|15|185.41.152.110|3128|France|Valenciennes|global|
+|16|103.165.156.186|8090|Indonesia|Jember|MEGADATA-ISP|
+|17|58.186.45.199|16000|Vietnam|Hanoi|FPT Telecom Company|
+|18|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|19|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|20|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
 
 
 
