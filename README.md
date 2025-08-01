@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
 |3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|6|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|7|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|8|42.114.11.224|16000|Vietnam|Hanoi|FPT Telecom Company|
-|9|103.155.199.106|3128|Indonesia|Cikadu|PT Lintas Jaringan Nusantara|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|12|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|14|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|15|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|16|212.110.188.216|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|18|38.172.131.64|999|Peru|Lima|Conex TV E.I.R.L.|
-|19|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|20|147.28.240.217|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|7|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|8|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|9|42.113.54.237|16000|Vietnam|Hanoi|FPT Telecom Company|
+|10|147.28.240.217|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|11|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|12|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|14|85.206.93.105|8080|Lithuania|Patašinė|Telia Lietuva|
+|15|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|16|147.28.240.210|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|17|147.28.240.218|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|18|164.163.42.29|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|147.28.240.210|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
