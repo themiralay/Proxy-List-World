@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|3|173.249.40.64|8118|France|Lauterbourg|Contabo GmbH|
-|4|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|5|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|6|52.51.50.129|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|7|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|9|36.255.87.222|84|India|Bengaluru|Gatik Business Solutions|
-|10|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|11|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|12|147.28.240.213|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|13|201.150.116.3|999|Mexico|Tetepango|Yesenia Ramirez Garcia|
-|14|147.28.240.218|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|15|144.76.159.121|8082|Germany|Falkenstein|Hetzner Online GmbH|
-|16|147.28.240.218|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|17|188.132.249.136|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|18|147.28.240.216|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|19|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|20|72.10.160.90|16645|Canada|Montreal|GloboTech Communications|
+|1|139.59.228.95|8118|Singapore|Singapore|DIGITALOCEAN|
+|2|58.186.248.123|16000|Vietnam|Hanoi|FPT Telecom Company|
+|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|27.71.131.186|16000|Vietnam|Bảo Lộc|Viettel Group|
+|6|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|9|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|10|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|11|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|13|190.61.40.188|8080|Colombia|Barranquilla|Ufinet Panama S.A.|
+|14|191.101.190.175|3127|Singapore|Singapore|PT Perwira Media Solusi|
+|15|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|16|37.49.227.99|1994|The Netherlands|Amsterdam|ESTOXY OU|
+|17|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|18|103.76.109.65|8080|Indonesia|Kraksaan|PT Mahawira Nusantara Grup|
+|19|190.145.194.210|8080|Colombia|Santiago de Cali|Telmex Colombia S.A.|
+|20|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
 
 
 
