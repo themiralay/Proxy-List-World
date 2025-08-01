@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|3|49.156.44.117|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
 |4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|49.156.44.117|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|6|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
 |7|152.53.194.46|8029|United States|Manassas|netcup GmbH|
-|8|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|9|42.118.74.81|16000|Vietnam|Hanoi|FPT Telecom Company|
-|10|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|11|58.187.71.222|16000|Vietnam|Hanoi|FPT Telecom Company|
-|12|43.130.57.74|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|13|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|14|147.28.240.210|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|15|118.71.117.91|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|16|190.52.101.148|999|Venezuela|Caracas|Gold Data USA Inc|
-|17|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|18|58.186.45.199|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|20|42.113.54.237|16000|Vietnam|Hanoi|FPT Telecom Company|
+|8|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|9|147.28.240.210|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|10|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|11|185.41.152.110|3128|France|Valenciennes|global|
+|12|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|13|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|15|213.87.103.76|3128|Russia|Blagoveshchensk|MR DV division of Mobile Telesystems OJSC|
+|16|85.206.93.105|8080|Lithuania|Patašinė|Telia Lietuva|
+|17|212.110.188.222|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|19|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|20|201.88.213.118|8080|Brazil|Brasília|V tal|
 
 
 
