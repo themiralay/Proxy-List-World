@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|3|103.174.237.66|3127|Indonesia|Wates|PT Global Erasiber Teknologi|
-|4|103.141.152.108|8989|Indonesia|Ciputat|PRIMACOM|
-|5|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|6|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|9|106.0.168.138|8080|Thailand|Pom Prap Sattru Phai|Ministry of Education - EMISC|
-|10|157.15.144.80|8080|Indonesia|Cilacap|PT. INDOTEK SOLUTION NETWORK|
-|11|103.133.26.45|8080|Indonesia|Cikarang|PT PHATRIA INTI PERSADA|
-|12|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|13|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
-|14|66.78.40.66|8880|United States|Liberty Lake|Aokigahara SRL|
-|15|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|16|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|17|120.28.194.76|8082|Philippines|Cagayan de Oro|Globe Telecom|
-|18|66.78.40.66|8880|United States|Liberty Lake|Aokigahara SRL|
-|19|152.53.194.46|8029|United States|Manassas|netcup GmbH|
-|20|152.53.194.46|8029|United States|Manassas|netcup GmbH|
+|2|103.141.152.108|8989|Indonesia|Ciputat|PRIMACOM|
+|3|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|4|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|5|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
+|6|66.78.40.66|8880|United States|Liberty Lake|Aokigahara SRL|
+|7|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|8|103.157.117.226|81|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
+|9|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|10|103.147.246.184|3127|Indonesia|Ketapang|PLBNET|
+|11|103.168.149.48|8181|Indonesia|Pematangsiantar|TORSADA|
+|12|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|13|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|14|152.53.194.46|8065|United States|Manassas|netcup GmbH|
+|15|147.28.240.216|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|16|147.28.240.210|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|17|152.53.194.46|8065|United States|Manassas|netcup GmbH|
+|18|147.28.240.200|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|19|147.28.240.200|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|147.28.240.216|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
