@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|66.78.40.66|8880|United States|Liberty Lake|Aokigahara SRL|
-|3|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|2|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|3|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|4|49.156.44.117|8080|Cambodia|Phnom Penh|WiCAM Corporation|
 |5|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|6|223.206.53.75|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|7|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|8|65.38.213.154|8881|Puerto Rico|San Juan|AT&T Mobility Puerto Rico|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|188.235.146.220|40754|Russia|Saratov|JSC "ER-Telecom Holding"|
-|11|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|12|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|13|88.218.78.128|47808|France|Strasbourg|velia.net Internetdienste GmbH|
-|14|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|15|78.47.126.220|8888|Germany|Nuremberg|Hetzner Online GmbH|
-|16|154.220.66.2|7000|Hong Kong|Chai Wan|CloudFly Net Inc Pending|
-|17|182.252.69.197|8080|Bangladesh|Nārāyanganj|Agni Systems Limited|
-|18|185.200.38.53|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|19|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|20|67.43.228.254|30503|Canada|Montreal|GloboTech Communications|
+|6|102.223.154.177|8080|Sierra Leone|Freetown|MOIAC|
+|7|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|8|112.216.83.10|3128|South Korea|Siheung-si|LG DACOM Corporation|
+|9|66.78.40.66|8880|United States|Liberty Lake|Aokigahara SRL|
+|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|11|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|12|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|14|67.43.228.254|30503|Canada|Montreal|GloboTech Communications|
+|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|152.53.194.46|8065|United States|Manassas|netcup GmbH|
+|17|72.10.164.178|24633|Canada|Montreal|GloboTech Communications|
+|18|157.180.121.252|48053|Finland|Helsinki|Hetzner Online GmbH|
+|19|147.28.240.217|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 
 
 
