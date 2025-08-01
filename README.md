@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|3|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|7|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|8|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|23.94.236.141|8080|United States|Los Angeles|HostPapa|
+|5|1.55.192.44|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|9|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
 |10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|14|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|1.55.192.44|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|58.186.92.146|16000|Vietnam|Hanoi|FPT Telecom Company|
-|20|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|13|58.187.71.222|16000|Vietnam|Hanoi|FPT Telecom Company|
+|14|157.15.63.80|8080|Indonesia|Malang|PT Anugerah Media Data Nusantara|
+|15|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|16|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|17|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|20|103.81.195.94|2020|Indonesia|Utan|PT Rtiga Global Media|
 
 
 
