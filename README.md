@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
 |3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|10|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|11|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|12|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|13|103.210.22.17|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|14|58.187.71.222|16000|Vietnam|Hanoi|FPT Telecom Company|
-|15|103.245.109.57|39355|Bangladesh|Paltan|ACE IT Networks Limited|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|6|37.32.40.253|8080|Iran|Ahvaz|Toloe Rayaneh Loghman Educational and Cultural Co.|
+|7|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|8|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|9|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|10|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|11|147.28.240.218|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|212.110.188.213|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|14|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|15|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
 |16|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|17|78.47.126.220|8888|Germany|Nuremberg|Hetzner Online GmbH|
-|18|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|19|27.71.128.132|16000|Vietnam|Bảo Lộc|Viettel Group|
-|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|154.220.66.2|7000|Hong Kong|Chai Wan|CloudFly Net Inc Pending|
+|19|103.181.255.55|8080|Indonesia|Talbantal|PT Giga Digital Nusantara|
+|20|181.129.97.38|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
 
 
 
