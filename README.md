@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|80.78.30.182|3128|Sweden|Malmo|ab stract|
-|3|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|4|40.172.232.213|29214|United Arab Emirates|Dubai|Amazon.com|
-|5|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|6|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|147.28.240.210|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|9|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|10|147.28.240.216|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|11|154.220.66.2|7000|Hong Kong|Chai Wan|CloudFly Net Inc Pending|
-|12|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|13|102.222.231.25|2333|Democratic Republic of the Congo|Kinshasa|Orioncom SPRL|
-|14|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|15|67.43.228.250|14757|Canada|Montreal|GloboTech Communications|
-|16|147.28.240.218|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|2|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|5|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|6|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|7|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|8|147.28.240.216|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|9|147.28.240.210|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|10|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|11|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|12|103.172.42.121|8086|Indonesia|Karawang|PT Media Solusi Sukses|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|147.28.240.218|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|15|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|16|66.78.40.66|8880|United States|Liberty Lake|Aokigahara SRL|
 |17|147.28.240.200|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|18|67.43.236.18|24619|Canada|Montreal|GloboTech Communications|
-|19|72.10.160.170|6345|Canada|Montreal|GloboTech Communications|
-|20|72.10.160.170|6345|Canada|Montreal|GloboTech Communications|
+|18|72.10.160.170|6345|Canada|Montreal|GloboTech Communications|
+|19|67.43.236.18|24619|Canada|Montreal|GloboTech Communications|
+|20|65.108.251.40|57919|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
