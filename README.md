@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|198.23.236.47|1111|United States|Santa Clara|HostPapa|
-|3|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|42.117.168.191|16000|Vietnam|Quận Mười|FPT Telecom Company|
-|7|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|8|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|12|171.241.121.29|4001|Vietnam|Hanoi|Viettel Corporation|
-|13|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|14|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|15|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|66.70.235.23|5454|United States|Los Angeles|OVH Hosting|
-|19|103.112.53.211|6314|Bangladesh|Dhaka|Carnival Internet|
-|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|37.27.142.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|5|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
+|6|42.118.2.147|16000|Vietnam|Hanoi|FPT Telecom Company|
+|7|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|11|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|12|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|15|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|16|114.9.52.2|1452|Indonesia|Wonorejo|PT. INDOSAT Tbk|
+|17|23.94.236.141|8080|United States|Los Angeles|HostPapa|
+|18|45.184.74.246|45005|Brazil|Sítio do Quinto|A2 TELECOM PROVEDOR DE INTERNET LTDA|
+|19|200.24.130.144|999|Ecuador|Cumandá|Ufinet Panama S.A.|
+|20|103.81.195.94|2020|Indonesia|Utan|PT Rtiga Global Media|
 
 
 
