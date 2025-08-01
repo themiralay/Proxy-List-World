@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|1|198.23.236.47|1111|United States|Santa Clara|HostPapa|
 |2|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|3|103.162.17.205|8080|Indonesia|Pajeksan|PT Mega Data Perkasa|
-|4|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|8|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|9|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|10|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|11|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|12|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|13|209.14.118.116|999|Colombia|Quinchía|AGIS|
-|14|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|15|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|16|147.28.240.218|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|19|103.189.197.139|8080|Indonesia|Cirebon|PT Graha Sumber Teknologi|
-|20|67.43.228.251|12515|Canada|Montreal|GloboTech Communications|
+|3|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|4|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|5|27.71.131.186|16000|Vietnam|Bảo Lộc|Viettel Group|
+|6|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|103.139.98.169|8080|Indonesia|Bandaragung|Digital Network Setiawan|
+|13|147.28.240.218|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|14|67.43.228.251|12515|Canada|Montreal|GloboTech Communications|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|147.28.240.200|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|17|107.172.96.11|24283|United States|Santa Clara|HostPapa|
+|18|58.186.248.123|16000|Vietnam|Hanoi|FPT Telecom Company|
+|19|147.28.240.213|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|164.163.42.43|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
