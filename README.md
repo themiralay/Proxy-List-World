@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|4|103.174.237.66|3127|Indonesia|Wates|PT Global Erasiber Teknologi|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|7|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|8|103.147.246.184|3127|Indonesia|Ketapang|PLBNET|
-|9|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|10|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|11|80.78.30.182|3128|Sweden|Malmo|ab stract|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|147.28.240.210|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|14|157.180.121.252|35619|Finland|Helsinki|Hetzner Online GmbH|
-|15|147.28.240.215|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|147.28.240.218|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|18|147.28.240.210|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|19|147.28.240.216|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|20|72.10.160.170|30423|Canada|Montreal|GloboTech Communications|
+|2|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
+|3|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
+|4|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|5|103.133.26.45|8080|Indonesia|Cikarang|PT PHATRIA INTI PERSADA|
+|6|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|7|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|8|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|9|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|10|38.156.75.51|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|11|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|13|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|14|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|102.222.231.25|2333|Democratic Republic of the Congo|Kinshasa|Orioncom SPRL|
+|17|213.231.7.10|8282|Ukraine|Odesa|TOV TRK "Briz"|
+|18|103.157.117.226|81|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
+|19|40.172.232.213|29214|United Arab Emirates|Dubai|Amazon.com|
+|20|147.28.240.210|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
