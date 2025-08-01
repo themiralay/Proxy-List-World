@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|3|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|4|103.174.237.66|3127|Indonesia|Wates|PT Global Erasiber Teknologi|
-|5|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|6|27.72.244.228|8080|Vietnam|Hanoi|Newass2011xDSLHN|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|66.78.40.66|8880|United States|Liberty Lake|Aokigahara SRL|
-|9|157.20.144.195|8089|Indonesia|Tangerang|PT Lintas Network Solusi|
-|10|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
-|11|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|12|80.78.30.182|3128|Sweden|Malmo|ab stract|
-|13|85.119.120.55|8080|Malta|Birkirkara|Melita Ltd|
-|14|147.28.240.216|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|15|212.110.188.216|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|16|147.28.240.213|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|17|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|18|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|19|152.53.194.46|8065|United States|Manassas|netcup GmbH|
-|20|152.53.194.46|8065|United States|Manassas|netcup GmbH|
+|3|49.156.44.117|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|4|45.136.198.40|3128|Bulgaria|Sofia|Managed by IROKO Networks|
+|5|78.47.126.220|8888|Germany|Nuremberg|Hetzner Online GmbH|
+|6|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|7|116.203.139.209|4145|Germany|Nuremberg|Hetzner Online GmbH|
+|8|190.217.19.185|999|Colombia|Santiago de Cali|Level 3 Communications, Inc.|
+|9|200.201.134.184|8787|Brazil|São Paulo|Telium Telecomunicações Ltda|
+|10|203.175.127.240|8080|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
+|11|147.28.240.216|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|12|8.208.94.223|3128|United Kingdom|London|Alibaba.com Singapore E-Commerce Private Limited|
+|13|147.28.240.213|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|14|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|15|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|152.53.194.46|8065|United States|Manassas|netcup GmbH|
+|18|152.53.194.46|8065|United States|Manassas|netcup GmbH|
+|19|147.28.240.210|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|147.28.240.213|80|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
