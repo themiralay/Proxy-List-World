@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.189.197.139|8080|Indonesia|Cirebon|PT Graha Sumber Teknologi|
-|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|3|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|6|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|7|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|8|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|1|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|2|209.14.118.116|999|Colombia|Quinchía|AGIS|
+|3|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|4|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|5|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|6|188.125.169.196|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|7|38.194.246.34|999|Mexico|León|Cogent Communications|
+|8|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
 |9|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|10|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|11|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|14|38.194.246.34|999|Mexico|León|Cogent Communications|
-|15|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|16|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|17|147.28.240.218|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|18|213.87.103.76|3128|Russia|Blagoveshchensk|MR DV division of Mobile Telesystems OJSC|
-|19|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|20|147.28.240.217|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|10|27.71.131.186|16000|Vietnam|Bảo Lộc|Viettel Group|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|13|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|14|213.87.103.76|3128|Russia|Blagoveshchensk|MR DV division of Mobile Telesystems OJSC|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|147.28.240.218|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|17|147.28.240.217|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|18|190.145.194.210|8080|Colombia|Santiago de Cali|Telmex Colombia S.A.|
+|19|67.43.228.251|14405|Canada|Montreal|GloboTech Communications|
+|20|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 
 
 
