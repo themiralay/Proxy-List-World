@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|58.187.71.222|16000|Vietnam|Hanoi|FPT Telecom Company|
-|4|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|5|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|6|42.117.168.204|16000|Vietnam|Quận Mười|FPT Telecom Company|
-|7|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
-|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|42.119.2.88|16000|Vietnam|Hanoi|FPT Telecom Company|
-|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|13|42.113.54.237|16000|Vietnam|Hanoi|FPT Telecom Company|
-|14|27.71.131.186|16000|Vietnam|Bảo Lộc|Viettel Group|
-|15|42.114.11.224|16000|Vietnam|Hanoi|FPT Telecom Company|
-|16|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|2|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|42.117.168.204|16000|Vietnam|Quận Mười|FPT Telecom Company|
+|6|8.210.117.141|8888|Hong Kong|Hong Kong|Alibaba.com LLC|
+|7|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
+|8|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|9|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|10|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|11|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|12|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|13|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|14|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|15|58.186.248.123|16000|Vietnam|Hanoi|FPT Telecom Company|
+|16|78.47.126.220|8888|Germany|Nuremberg|Hetzner Online GmbH|
 |17|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|18|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|19|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|20|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|18|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|19|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|20|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
 
 
 
