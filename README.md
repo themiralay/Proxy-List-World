@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
 |3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|42.113.54.237|16000|Vietnam|Hanoi|FPT Telecom Company|
-|7|58.186.92.19|16000|Vietnam|Hanoi|FPT Telecom Company|
+|5|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|6|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|7|42.114.11.224|16000|Vietnam|Hanoi|FPT Telecom Company|
 |8|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|9|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|10|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|11|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|14|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|15|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|16|103.14.33.82|3128|Hong Kong|Hong Kong|UCloud-HK|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|103.163.13.14|1111|Indonesia|Waleran|PT Solusi Media Telekomunikasi|
-|19|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|20|43.251.84.242|8080|Bangladesh|Dhaka|Md. Abdul Kayum Rashed|
+|9|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|10|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|13|42.119.2.88|16000|Vietnam|Hanoi|FPT Telecom Company|
+|14|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|15|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|16|147.28.240.200|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|17|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|18|147.28.240.216|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|19|58.187.71.222|16000|Vietnam|Hanoi|FPT Telecom Company|
+|20|147.28.240.218|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
