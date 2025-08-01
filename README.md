@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|3|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
+|3|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|170.64.149.240|3128|Australia|Sydney|DigitalOcean, LLC|
-|7|180.180.175.11|8080|Thailand|Phra Nakhon Si Ayutthaya|TOT Public Company Limited|
-|8|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|9|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|10|157.180.121.252|21001|Finland|Helsinki|Hetzner Online GmbH|
-|11|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|12|1.54.54.6|16000|Vietnam|Hanoi|FPT Telecom Company|
-|13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|14|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|15|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|16|1.55.250.53|16000|Vietnam|Hanoi|FPT Telecom Company|
-|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|18|45.177.16.137|999|Paraguay|Ciudad del Este|MSW S.A.|
-|19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|20|177.234.217.44|999|Ecuador|Quito|Ufinet Panama S.A.|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|42.117.168.204|16000|Vietnam|Quận Mười|FPT Telecom Company|
+|8|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|9|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|10|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|11|118.71.117.91|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|12|58.186.248.123|16000|Vietnam|Hanoi|FPT Telecom Company|
+|13|1.54.111.112|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|14|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|15|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|16|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|18|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|19|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|20|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
 
 
 
