@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|27.71.131.186|16000|Vietnam|Bảo Lộc|Viettel Group|
-|3|42.119.2.94|16000|Vietnam|Hanoi|FPT Telecom Company|
-|4|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
+|2|58.186.92.146|16000|Vietnam|Hanoi|FPT Telecom Company|
+|3|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|4|37.49.227.99|1994|The Netherlands|Amsterdam|ESTOXY OU|
 |5|52.51.50.129|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|6|58.186.92.146|16000|Vietnam|Hanoi|FPT Telecom Company|
-|7|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|8|37.49.227.99|1994|The Netherlands|Amsterdam|ESTOXY OU|
-|9|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|10|58.186.248.123|16000|Vietnam|Hanoi|FPT Telecom Company|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|14|103.82.38.203|8888|Vietnam|Thanh Khê|CLOUDFLY|
-|15|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|16|143.255.87.188|999|Venezuela|Casigua-El Cubo|Viginet C.A|
-|17|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|18|58.187.71.222|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|20|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|6|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
+|7|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|8|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|27.71.131.186|16000|Vietnam|Bảo Lộc|Viettel Group|
+|12|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|14|186.215.87.194|30001|Brazil|Brasília|TELEFÔNICA BRASIL S.A|
+|15|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|17|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|18|147.28.240.200|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|19|42.119.2.94|16000|Vietnam|Hanoi|FPT Telecom Company|
+|20|72.10.160.90|30803|Canada|Montreal|GloboTech Communications|
 
 
 
