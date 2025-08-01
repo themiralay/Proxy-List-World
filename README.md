@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|4|37.49.227.99|1994|The Netherlands|Amsterdam|ESTOXY OU|
-|5|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|6|65.38.213.154|8881|Puerto Rico|San Juan|AT&T Mobility Puerto Rico|
-|7|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|8|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|9|37.152.183.29|3128|Iran|Nā’īn|AbrArvan|
-|10|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|11|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|13|212.110.188.222|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|14|58.186.92.146|16000|Vietnam|Hanoi|FPT Telecom Company|
-|15|212.110.188.216|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|16|58.187.71.222|16000|Vietnam|Hanoi|FPT Telecom Company|
-|17|212.110.188.193|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|2|58.186.248.123|16000|Vietnam|Hanoi|FPT Telecom Company|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|103.10.55.137|8664|Bangladesh|Dhaka|Drik ICT Ltd|
+|6|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|7|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|8|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|9|45.7.65.229|999|Mexico|Huauchinango|Maysnet SA De CV|
+|10|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|11|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|27.71.131.186|16000|Vietnam|Bảo Lộc|Viettel Group|
+|14|65.38.213.154|8881|Puerto Rico|San Juan|AT&T Mobility Puerto Rico|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|17|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
 |18|118.68.64.197|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|19|147.28.240.215|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|20|103.203.234.210|8080|Indonesia|Weleri|PT Nesta Indo Media|
+|19|103.81.194.17|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|20|147.28.240.215|443|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
