@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|58.186.248.123|16000|Vietnam|Hanoi|FPT Telecom Company|
-|3|202.137.14.57|8085|Indonesia|Tangerang|customer in Corporate Access|
-|4|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|5|1.54.54.6|16000|Vietnam|Hanoi|FPT Telecom Company|
+|2|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|58.186.92.146|16000|Vietnam|Hanoi|FPT Telecom Company|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|37.49.227.99|1994|The Netherlands|Amsterdam|ESTOXY OU|
 |6|52.51.50.129|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|7|37.49.227.99|1994|The Netherlands|Amsterdam|ESTOXY OU|
-|8|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|9|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|10|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|11|38.123.48.50|999|Dominican Republic|Santo Domingo Este|Bravic SRL|
-|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|13|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|14|190.145.194.210|8080|Colombia|Santiago de Cali|Telmex Colombia S.A.|
-|15|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|16|58.187.71.222|16000|Vietnam|Hanoi|FPT Telecom Company|
-|17|27.71.128.132|16000|Vietnam|Bảo Lộc|Viettel Group|
-|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|7|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|8|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|9|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|10|118.97.69.163|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|11|186.235.123.3|8080|Brazil|Cachoeiras de Macacu|K1 Telecom e Multimidia LTDA|
+|12|171.249.163.170|1452|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|13|212.110.188.222|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|16|147.28.240.210|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|17|147.28.240.210|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|18|144.76.159.121|8082|Germany|Falkenstein|Hetzner Online GmbH|
 |19|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|20|147.28.240.210|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|147.28.240.216|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
