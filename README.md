@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|159.89.15.205|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|5|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|6|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|7|223.204.93.68|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
-|8|14.225.212.81|3128|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|9|125.27.14.69|8080|Thailand|Rayong|TOT Public Company Limited|
+|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|4|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|5|14.225.212.81|3128|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|8|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|9|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
 |10|49.150.48.74|8082|Philippines|Tarlac City|Philippine Long Distance Telephone Co.|
-|11|144.34.228.13|3128|United States|Los Angeles|IT7 Networks Inc|
-|12|144.34.228.13|3128|United States|Los Angeles|IT7 Networks Inc|
-|13|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|14|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|42.112.96.97|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|17|42.119.98.220|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|18|223.205.30.126|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|20|43.252.238.37|8080|Indonesia|Ciampea|PT Usaha Adi Sanggoro|
+|11|125.27.14.69|8080|Thailand|Rayong|TOT Public Company Limited|
+|12|223.206.55.153|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|13|45.122.220.13|8080|Vietnam|Ho Chi Minh City|Viet Solutions Services Trading Company Limited|
+|14|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|15|223.206.196.149|8080|Thailand|Changwat Sara Buri|Triple T Broadband Public Company Limited|
+|16|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|18|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|19|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
 
 
 
