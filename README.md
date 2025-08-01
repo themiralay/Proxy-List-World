@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|3|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
 |4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|7|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|10|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|11|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|170.64.149.240|3128|Australia|Sydney|DigitalOcean, LLC|
+|7|180.180.175.11|8080|Thailand|Phra Nakhon Si Ayutthaya|TOT Public Company Limited|
+|8|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|9|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|10|157.180.121.252|21001|Finland|Helsinki|Hetzner Online GmbH|
+|11|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|12|1.54.54.6|16000|Vietnam|Hanoi|FPT Telecom Company|
+|13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
 |14|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|15|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|16|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|17|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|18|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|19|58.186.92.19|16000|Vietnam|Hanoi|FPT Telecom Company|
-|20|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|15|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|16|1.55.250.53|16000|Vietnam|Hanoi|FPT Telecom Company|
+|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|18|45.177.16.137|999|Paraguay|Ciudad del Este|MSW S.A.|
+|19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|177.234.217.44|999|Ecuador|Quito|Ufinet Panama S.A.|
 
 
 
