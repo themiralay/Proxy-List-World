@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
-|3|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|4|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|5|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
-|6|103.133.26.45|8080|Indonesia|Cikarang|PT PHATRIA INTI PERSADA|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|85.206.93.105|8080|Lithuania|Patašinė|Telia Lietuva|
+|4|164.163.42.43|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|5|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|6|72.10.160.170|6345|Canada|Montreal|GloboTech Communications|
 |7|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|8|85.119.120.55|8080|Malta|Birkirkara|Melita Ltd|
-|9|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|10|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|11|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|12|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|13|164.163.42.56|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|8.243.97.244|999|Peru|La Molina|Cirion Technologies Solutions|
-|15|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|16|164.163.42.43|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|85.206.93.105|8080|Lithuania|Patašinė|Telia Lietuva|
-|18|72.10.160.170|6345|Canada|Montreal|GloboTech Communications|
-|19|147.28.240.216|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|20|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|9|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|10|147.28.240.210|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|11|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|12|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|13|147.28.240.216|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|14|144.76.159.121|8082|Germany|Falkenstein|Hetzner Online GmbH|
+|15|147.28.240.215|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|16|157.180.121.252|35619|Finland|Helsinki|Hetzner Online GmbH|
+|17|164.163.42.29|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|66.78.40.66|8880|United States|Liberty Lake|Aokigahara SRL|
+|19|115.78.135.4|3334|Vietnam|Ho Chi Minh City|VIETELftth|
+|20|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 
 
 
