@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|3|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|4|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|5|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|6|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|7|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|213.87.103.76|3128|Russia|Blagoveshchensk|MR DV division of Mobile Telesystems OJSC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|3|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|4|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|5|36.64.183.98|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|6|85.208.85.202|3128|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|7|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|8|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|9|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
 |10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|11|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|12|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|11|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|12|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
 |13|107.172.96.11|24283|United States|Santa Clara|HostPapa|
-|14|152.53.194.46|8065|United States|Manassas|netcup GmbH|
-|15|147.28.240.216|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|16|67.43.236.20|11953|Canada|Montreal|GloboTech Communications|
-|17|147.28.240.214|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|18|147.28.240.218|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|19|147.28.240.216|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|20|202.154.18.172|8082|Indonesia|Babat|DIGITNET|
+|14|38.7.2.130|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
+|15|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|16|116.111.93.159|8080|Vietnam|Hanoi|Viettel Corporation|
+|17|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|18|116.102.145.79|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|19|200.35.50.89|3028|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|20|147.28.240.216|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
