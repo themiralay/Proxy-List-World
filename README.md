@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|144.34.228.13|3128|United States|Los Angeles|IT7 Networks Inc|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|144.34.228.13|3128|United States|Los Angeles|IT7 Networks Inc|
-|5|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|6|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|7|42.114.178.153|16000|Vietnam|Hanoi|FPT Telecom Company|
-|8|134.236.62.13|8080|Thailand|Non Narai|CAT-BB|
-|9|42.112.189.153|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|10|27.79.145.171|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|27.79.190.233|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|13|223.206.60.37|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|14|186.207.148.71|8787|Brazil|Rio Verde|Claro NXT Telecomunicacoes Ltda|
-|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|16|125.164.178.148|8080|Indonesia|Surakarta|PT. Telekomunikasi Indonesia|
-|17|58.186.92.96|16000|Vietnam|Hanoi|FPT Telecom Company|
-|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|19|14.225.212.81|3128|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|20|144.76.159.121|8082|Germany|Falkenstein|Hetzner Online GmbH|
+|3|144.34.228.13|3128|United States|Los Angeles|IT7 Networks Inc|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|6|14.239.153.245|8080|Vietnam|Việt Trì|VNPT|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|1.53.72.195|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|9|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|10|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|11|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|12|77.83.246.56|3128|Poland|Mazovia|Global Connectivity Solutions LLP|
+|13|18.117.112.163|3128|United States|Dublin|Amazon.com, Inc.|
+|14|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|15|88.1.159.1|3128|Spain|Tarancón|Telefonica de Espana SAU|
+|16|18.117.112.163|3128|United States|Dublin|Amazon.com, Inc.|
+|17|125.164.178.148|8080|Indonesia|Surakarta|PT. Telekomunikasi Indonesia|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|125.25.231.132|8080|Thailand|Phichit|TOT Public Company Limited|
+|20|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
 
 
 
