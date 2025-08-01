@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|2|103.124.137.150|20|Indonesia|Ungaran|Global Media Data Prima|
-|3|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|4|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|5|27.71.131.186|16000|Vietnam|Bảo Lộc|Viettel Group|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|8|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|9|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|11|80.78.30.182|3128|Sweden|Malmo|ab stract|
-|12|189.180.46.175|8118|Mexico|El Pueblito|UNINET|
-|13|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|14|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|15|213.87.103.76|3128|Russia|Blagoveshchensk|MR DV division of Mobile Telesystems OJSC|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|147.28.240.218|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|18|144.76.159.121|8084|Germany|Falkenstein|Hetzner Online GmbH|
-|19|88.1.159.1|3128|Spain|Tarancón|Telefonica de Espana SAU|
-|20|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|1|27.71.131.186|16000|Vietnam|Bảo Lộc|Viettel Group|
+|2|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|3|103.189.197.139|8080|Indonesia|Cirebon|PT Graha Sumber Teknologi|
+|4|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|5|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|6|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|7|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|8|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|9|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|14|103.162.17.205|8080|Indonesia|Pajeksan|PT Mega Data Perkasa|
+|15|147.28.240.218|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|16|144.76.159.121|8084|Germany|Falkenstein|Hetzner Online GmbH|
+|17|213.87.103.76|3128|Russia|Blagoveshchensk|MR DV division of Mobile Telesystems OJSC|
+|18|92.58.181.171|7575|Spain|Madrid|UNI2|
+|19|147.28.240.218|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|147.28.240.200|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
