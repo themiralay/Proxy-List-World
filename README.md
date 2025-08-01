@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|2|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|3|27.71.131.186|16000|Vietnam|Bảo Lộc|Viettel Group|
 |4|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|5|80.78.30.182|3128|Sweden|Malmo|ab stract|
-|6|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|7|42.113.54.237|16000|Vietnam|Hanoi|FPT Telecom Company|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|154.220.66.2|7000|Hong Kong|Chai Wan|CloudFly Net Inc Pending|
-|10|147.28.240.215|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|11|147.28.240.218|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|12|147.28.240.213|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|13|147.28.240.210|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|14|106.225.148.45|655|China|Taohua|CHINANET Jiangx province IDC network|
-|15|147.28.240.215|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|16|147.28.240.214|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|17|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|18|157.180.121.252|38266|Finland|Helsinki|Hetzner Online GmbH|
-|19|72.10.160.91|22635|Canada|Montreal|GloboTech Communications|
-|20|147.28.240.217|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|5|85.208.85.202|3128|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|6|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
+|7|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|8|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|9|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|10|58.186.248.123|16000|Vietnam|Hanoi|FPT Telecom Company|
+|11|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|12|115.78.135.4|3334|Vietnam|Ho Chi Minh City|VIETELftth|
+|13|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|16|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|154.220.66.2|7000|Hong Kong|Chai Wan|CloudFly Net Inc Pending|
+|18|27.71.128.132|16000|Vietnam|Bảo Lộc|Viettel Group|
+|19|1.54.54.6|16000|Vietnam|Hanoi|FPT Telecom Company|
+|20|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
 
 
 
