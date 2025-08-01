@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|3|1.53.72.195|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|49.0.33.133|27039|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
 |5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|14|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|18|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|19|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|20|147.28.240.217|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|42.117.168.191|16000|Vietnam|Quận Mười|FPT Telecom Company|
+|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|10|1.53.192.214|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|12|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|13|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
+|14|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|18|212.110.188.207|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
