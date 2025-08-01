@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|42.119.98.220|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|157.20.144.195|8089|Indonesia|Tangerang|PT Lintas Network Solusi|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
 |8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|23.94.236.141|8080|United States|Los Angeles|HostPapa|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |10|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
 |11|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|27.79.144.226|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|14|49.0.33.133|27039|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
 |15|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|16|58.187.71.222|16000|Vietnam|Hanoi|FPT Telecom Company|
-|17|42.118.1.215|16000|Vietnam|Hanoi|FPT Telecom Company|
-|18|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|19|103.125.18.69|8080|Indonesia|Jakarta|JAVAMEDIA|
-|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|114.9.52.2|1452|Indonesia|Wonorejo|PT. INDOSAT Tbk|
+|18|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|200.24.130.144|999|Ecuador|Cumandá|Ufinet Panama S.A.|
 
 
 
