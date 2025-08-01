@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|6|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|7|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|80.78.30.182|3128|Sweden|Malmo|ab stract|
-|10|58.186.92.19|16000|Vietnam|Hanoi|FPT Telecom Company|
-|11|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|14|154.220.66.2|7000|Hong Kong|Chai Wan|CloudFly Net Inc Pending|
-|15|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|16|42.113.54.237|16000|Vietnam|Hanoi|FPT Telecom Company|
-|17|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|18|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|19|147.28.240.215|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|20|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|2|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|8|58.187.71.222|16000|Vietnam|Hanoi|FPT Telecom Company|
+|9|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|12|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|13|42.113.54.237|16000|Vietnam|Hanoi|FPT Telecom Company|
+|14|42.114.11.224|16000|Vietnam|Hanoi|FPT Telecom Company|
+|15|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|16|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|17|58.186.92.19|16000|Vietnam|Hanoi|FPT Telecom Company|
+|18|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
 
 
 
