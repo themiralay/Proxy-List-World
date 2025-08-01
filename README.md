@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
-|3|58.186.248.123|16000|Vietnam|Hanoi|FPT Telecom Company|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|6|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|6|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
 |7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|10|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|11|192.177.139.119|8000|United States|San Jose|EGIHosting|
+|8|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|9|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 |12|91.238.105.64|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
-|13|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|14|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
-|15|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|16|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|17|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|18|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|19|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|20|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|14|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|15|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|16|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|17|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
+|18|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|1.54.76.119|16000|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
