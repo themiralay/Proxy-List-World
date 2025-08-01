@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |3|123.18.140.231|8080|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
-|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|4|58.186.248.123|16000|Vietnam|Hanoi|FPT Telecom Company|
 |5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
+|6|58.187.71.222|16000|Vietnam|Hanoi|FPT Telecom Company|
 |7|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|8|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|9|40.172.232.213|29214|United Arab Emirates|Dubai|Amazon.com|
-|10|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|11|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|14|212.110.188.216|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|15|154.220.66.2|7000|Hong Kong|Chai Wan|CloudFly Net Inc Pending|
-|16|80.78.30.182|3128|Sweden|Malmo|ab stract|
-|17|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|19|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|20|92.58.181.171|7575|Spain|Madrid|UNI2|
+|8|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|9|78.47.126.220|8888|Germany|Nuremberg|Hetzner Online GmbH|
+|10|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|11|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|12|103.173.141.10|8080|Indonesia|Ngawi|DIAZANETWORKS|
+|13|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|17|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|18|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|19|43.130.52.194|8118|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
 
 
 
