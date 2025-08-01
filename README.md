@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|85.208.85.202|3128|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
-|3|58.186.248.123|16000|Vietnam|Hanoi|FPT Telecom Company|
-|4|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|5|42.113.54.237|16000|Vietnam|Hanoi|FPT Telecom Company|
-|6|103.167.68.35|8080|Indonesia|Bandung|PT Kataji Nukami Indonesia|
-|7|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|8|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|9|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|72.10.160.170|26027|Canada|Montreal|GloboTech Communications|
-|12|147.28.240.217|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|13|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
-|14|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|15|147.28.240.210|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|16|147.28.240.210|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|17|36.50.92.99|8080|Indonesia|Sukamulya|PT Ring Media Nusantara|
-|18|67.43.236.18|31065|Canada|Montreal|GloboTech Communications|
-|19|103.35.108.181|5020|Bangladesh|Sirajganj|Ranks ITT|
-|20|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|2|42.113.54.237|16000|Vietnam|Hanoi|FPT Telecom Company|
+|3|85.208.85.202|3128|Russia|Moscow|"Cloud Technologies" LLC trading as Cloud.ru|
+|4|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|5|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|6|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|7|107.172.96.11|24283|United States|Santa Clara|HostPapa|
+|8|122.144.7.137|7775|Indonesia|Jakarta|Maxindo|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|72.10.160.170|26027|Canada|Montreal|GloboTech Communications|
+|11|144.76.159.121|8084|Germany|Falkenstein|Hetzner Online GmbH|
+|12|38.250.126.201|999|Chile|Santiago|Servicios De Telecomunicaciones Intercable Ltda.|
+|13|45.229.9.146|8402|Brazil|Rondonópolis|Meganet Telecon Ltda|
+|14|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|15|72.10.164.178|28815|Canada|Montreal|GloboTech Communications|
+|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|17|147.28.240.218|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|18|152.53.194.46|8065|United States|Manassas|netcup GmbH|
+|19|147.28.240.217|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
 
 
 
