@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|42.119.98.215|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|3|27.79.170.135|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|27.79.193.49|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|3|27.79.193.49|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|27.79.170.135|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|222.254.88.74|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|18.143.165.238|13040|Singapore|Singapore|Amazon Technologies Inc.|
-|11|27.79.174.182|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|13|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|14|42.118.2.147|16000|Vietnam|Hanoi|FPT Telecom Company|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|125.25.179.75|8080|Thailand|Si Banphot|TOT Public Company Limited|
+|10|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|11|42.118.0.86|16000|Vietnam|Hanoi|FPT Telecom Company|
+|12|58.186.249.104|16000|Vietnam|Thanh Xuân|FPT Telecom Company|
+|13|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
 |15|58.186.52.30|16000|Vietnam|Hanoi|FPT Telecom Company|
-|16|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|80.78.30.182|3128|Sweden|Malmo|ab stract|
-|19|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|20|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|45.70.236.194|999|Ecuador|Simón Bolívar|Ufinet Panama S.A.|
+|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|194.183.190.10|8080|Ukraine|Kyiv|"SCIENTIFIC-INDUSTRIAL FIRM "VOLZ" LIMITED LIABILITY COMPANY|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|80.78.30.182|3128|Sweden|Malmo|ab stract|
 
 
 
