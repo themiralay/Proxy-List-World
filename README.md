@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **74307** proxies at the latest update. Usable proxies are below.
+> Scraper found **38914** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35393|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|94|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|37594|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|3|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|3|27.79.182.81|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|27.79.170.135|16000|Vietnam|Hanoi|Viettel Corporation|
 |5|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|10|184.82.244.96|8080|Thailand|Udon Thani|AIS-Fibre|
-|11|38.58.170.11|999|Mexico|Nuevo Laredo|Terameg SA De CV|
-|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|14|147.28.240.200|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|15|147.28.240.215|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|16|157.180.121.252|37525|Finland|Helsinki|Hetzner Online GmbH|
-|17|147.28.240.218|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|18|147.28.240.217|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|19|157.180.121.252|37525|Finland|Helsinki|Hetzner Online GmbH|
-|20|147.28.240.217|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|6|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|7|103.121.199.138|62797|Indonesia|Jakarta|PT Parsaoran Global Datatrans|
+|8|126.209.17.202|8082|Philippines|Davao City|Infinivan Incorporated|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|157.180.121.252|46206|Finland|Helsinki|Hetzner Online GmbH|
+|13|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|103.161.69.217|8469|Bangladesh|Chittagong|MiME|
+|16|200.125.171.254|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|17|1.54.175.133|16000|Vietnam|Hanoi|FPT Telecom Company|
+|18|187.251.224.167|8081|Mexico|León|Total Play Telecomunicaciones SA De CV|
+|19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|45.231.221.193|999|Mexico|Tijuana|Distrokom S De RL De CV|
 
 
 
