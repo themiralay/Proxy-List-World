@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|171.6.153.225|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|3|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
 |4|222.254.88.74|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|45.168.236.54|3128|Mexico|Cadereyta|Wantelco SAS de CV|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|8|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|9|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|10|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|7|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|8|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|9|62.217.187.248|10808|Russia|Moscow|Lovitel LLC|
+|10|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
 |11|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|12|27.79.182.81|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|62.217.187.248|10808|Russia|Moscow|Lovitel LLC|
-|14|49.49.185.126|8080|Thailand|Lopburi|Triple T Broadband Public Company Limited|
-|15|212.110.188.216|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|16|103.148.62.1|8080|India|Thāne|Rae Internet Service Provider Private Limited|
-|17|103.56.206.67|4000|Indonesia|Jakarta|Argon Data Communication|
-|18|154.220.66.2|7000|Hong Kong|Chai Wan|CloudFly Net Inc Pending|
-|19|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|20|147.28.240.214|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|42.119.152.105|16000|Vietnam|Hanoi|FPT Telecom Company|
+|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|15|58.187.70.38|16000|Vietnam|Hanoi|FPT Telecom Company|
+|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|17|27.79.251.193|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|147.28.240.214|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|222.254.88.74|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
