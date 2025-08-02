@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|140.227.61.201|3128|Japan|Chiyoda|InfoSphere|
-|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|4|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|3|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 |5|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|6|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|9|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|10|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|11|38.58.170.11|999|Mexico|Nuevo Laredo|Terameg SA De CV|
-|12|58.137.174.101|8080|Thailand|Bangkok|AGC|
-|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|27.147.140.129|58080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|6|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|7|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|128.140.113.110|5153|Germany|Falkenstein|Hetzner Online GmbH|
+|10|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|11|14.225.212.81|3128|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|12|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|13|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|14|181.57.131.122|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|16|147.28.240.218|443|Germany|Frankfurt am Main|Packet Host, Inc.|
 |17|147.28.240.215|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|18|147.28.240.218|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|19|160.19.18.55|7777|Indonesia|Singosari|PT Indo Telemedia Solusi|
-|20|147.28.240.215|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|147.28.240.215|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|147.28.240.216|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
