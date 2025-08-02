@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|3|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|5|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
 |6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|147.28.240.200|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|12|147.28.240.215|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|13|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|14|157.180.121.252|37525|Finland|Helsinki|Hetzner Online GmbH|
-|15|103.180.196.113|2024|Indonesia|Yogyakarta|PT Dekadata Lingkar Nusantara|
-|16|152.53.194.46|8070|United States|Manassas|netcup GmbH|
+|7|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|10|184.82.244.96|8080|Thailand|Udon Thani|AIS-Fibre|
+|11|38.58.170.11|999|Mexico|Nuevo Laredo|Terameg SA De CV|
+|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|14|147.28.240.200|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|15|147.28.240.215|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|16|157.180.121.252|37525|Finland|Helsinki|Hetzner Online GmbH|
 |17|147.28.240.218|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
 |18|147.28.240.217|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
 |19|157.180.121.252|37525|Finland|Helsinki|Hetzner Online GmbH|
-|20|147.28.240.210|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|147.28.240.217|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
