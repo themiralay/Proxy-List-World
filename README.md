@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|182.253.109.209|8080|Indonesia|Ketanggi|Biznet Metronet|
-|3|1.53.72.195|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|42.118.74.34|16000|Vietnam|Hanoi|FPT Telecom Company|
-|6|58.186.92.96|16000|Vietnam|Hanoi|FPT Telecom Company|
-|7|42.113.21.218|16000|Vietnam|Hanoi|FPT Telecom Company|
-|8|42.119.2.164|16000|Vietnam|Hanoi|FPT Telecom Company|
-|9|52.221.222.182|80|Singapore|Singapore|Amazon.com, Inc.|
-|10|42.118.1.215|16000|Vietnam|Hanoi|FPT Telecom Company|
-|11|42.118.0.25|16000|Vietnam|Hanoi|FPT Telecom Company|
-|12|42.118.2.147|16000|Vietnam|Hanoi|FPT Telecom Company|
-|13|42.112.189.153|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|15|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|17|1.55.192.62|16000|Vietnam|Hanoi|FPT Telecom Company|
-|18|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|19|202.137.14.57|8085|Indonesia|Tangerang|customer in Corporate Access|
-|20|1.55.192.44|16000|Vietnam|Hanoi|FPT Telecom Company|
+|2|42.118.74.34|16000|Vietnam|Hanoi|FPT Telecom Company|
+|3|58.186.92.96|16000|Vietnam|Hanoi|FPT Telecom Company|
+|4|42.114.178.153|16000|Vietnam|Hanoi|FPT Telecom Company|
+|5|182.253.109.209|8080|Indonesia|Ketanggi|Biznet Metronet|
+|6|42.119.2.164|16000|Vietnam|Hanoi|FPT Telecom Company|
+|7|1.53.72.195|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|8|42.118.2.147|16000|Vietnam|Hanoi|FPT Telecom Company|
+|9|202.232.52.162|8080|Japan|Ōita|Internet Initiative Japan Inc.|
+|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|11|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|12|37.32.40.253|8080|Iran|Ahvaz|Toloe Rayaneh Loghman Educational and Cultural Co.|
+|13|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|14|45.123.142.13|8181|Indonesia|Tawingmuara|PT Anten Sarana Teknologi|
+|15|103.101.193.46|1111|Indonesia|Pancur Biru Lestari II|PT Bintang Teknologi Sejahtera|
+|16|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|17|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
 
 
 
