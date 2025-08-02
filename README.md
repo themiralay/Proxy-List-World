@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|27.71.131.186|16000|Vietnam|Bảo Lộc|Viettel Group|
-|5|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|6|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|7|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|8|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|18.143.165.238|13040|Singapore|Singapore|Amazon Technologies Inc.|
-|11|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|13|80.78.30.182|3128|Sweden|Malmo|ab stract|
-|14|103.188.169.11|8080|Indonesia|Kelodan|PT Lintas Jaringan Nusantara|
-|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|16|58.187.70.38|16000|Vietnam|Hanoi|FPT Telecom Company|
-|17|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|18|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|19|94.181.191.158|8080|Russia|Penza|CJSC "ER-Telecom Holding" Penza branch|
-|20|147.28.240.218|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|2|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|3|103.157.62.229|8080|Indonesia|Pangandaran|ADSNETWORK|
+|4|103.18.77.14|1111|Indonesia|Caringin|PT Usaha Adi Sanggoro|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|9|27.71.131.186|16000|Vietnam|Bảo Lộc|Viettel Group|
+|10|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|11|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|12|192.177.139.148|8000|United States|San Jose|EGIHosting|
+|13|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|14|18.143.165.238|13040|Singapore|Singapore|Amazon Technologies Inc.|
+|15|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|16|116.203.139.209|4145|Germany|Nuremberg|Hetzner Online GmbH|
+|17|103.153.39.37|8083|Pakistan|Burewala|Getlinks (SMC-Private) Limited|
+|18|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|19|24.106.221.230|53281|United States|Pine Knoll Shores|Spectrum|
+|20|27.79.170.135|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
