@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 |4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|8|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|9|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|10|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|12|27.71.131.186|16000|Vietnam|Bảo Lộc|Viettel Group|
-|13|37.32.40.253|8080|Iran|Ahvaz|Toloe Rayaneh Loghman Educational and Cultural Co.|
-|14|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|15|27.112.66.122|8181|Indonesia|Jakarta|GRAHANET|
-|16|103.220.206.138|59417|Bangladesh|Feni|KS Network|
-|17|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|10|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
+|11|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|164.163.42.43|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|15|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|18|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
 |20|164.163.42.22|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
