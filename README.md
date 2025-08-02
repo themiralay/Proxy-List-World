@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|3|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |4|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|27.71.131.186|16000|Vietnam|Bảo Lộc|Viettel Group|
-|7|80.78.30.182|3128|Sweden|Malmo|ab stract|
-|8|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|9|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|10|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|11|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|12|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|13|62.217.187.248|10808|Russia|Moscow|Lovitel LLC|
-|14|27.79.170.135|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|16|181.119.84.123|8080|Colombia|Santiago de Cali|IFX Networks Argentina S.R.L|
-|17|49.156.38.226|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|103.157.62.229|8080|Indonesia|Pangandaran|ADSNETWORK|
+|9|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|10|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|11|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|12|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|15|5.190.36.4|3128|Iran|Bavānāt|Iran Telecommunication Company PJS|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|18|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|19|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|20|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
 
 
 
