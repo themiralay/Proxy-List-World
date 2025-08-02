@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|42.118.2.147|16000|Vietnam|Hanoi|FPT Telecom Company|
-|3|182.253.109.209|8080|Indonesia|Ketanggi|Biznet Metronet|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|8|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|9|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|10|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|11|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|14|27.71.131.186|16000|Vietnam|Bảo Lộc|Viettel Group|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|17|27.71.128.132|16000|Vietnam|Bảo Lộc|Viettel Group|
-|18|147.28.240.218|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|19|1.55.192.44|16000|Vietnam|Hanoi|FPT Telecom Company|
-|20|1.53.72.195|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|2|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|42.118.74.34|16000|Vietnam|Hanoi|FPT Telecom Company|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|6|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|42.118.1.215|16000|Vietnam|Hanoi|FPT Telecom Company|
+|9|182.253.109.209|8080|Indonesia|Ketanggi|Biznet Metronet|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|27.71.131.186|16000|Vietnam|Bảo Lộc|Viettel Group|
+|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|14|198.23.236.47|1111|United States|Santa Clara|HostPapa|
+|15|27.71.128.132|16000|Vietnam|Bảo Lộc|Viettel Group|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|42.119.2.164|16000|Vietnam|Hanoi|FPT Telecom Company|
+|18|1.55.192.62|16000|Vietnam|Hanoi|FPT Telecom Company|
+|19|42.112.189.153|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|20|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
