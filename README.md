@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **74665** proxies at the latest update. Usable proxies are below.
+> Scraper found **74637** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35608|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35580|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|107|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|37724|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|58.186.249.104|16000|Vietnam|Thanh Xuân|FPT Telecom Company|
-|2|27.79.251.193|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|58.186.177.10|16000|Vietnam|Hanoi|FPT Telecom Company|
-|4|27.79.223.186|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|118.68.64.176|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|7|42.119.152.105|16000|Vietnam|Hanoi|FPT Telecom Company|
-|8|101.108.199.25|8080|Thailand|Bangkok|TOT Public Company Limited|
-|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|27.79.182.81|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|40.192.120.48|3128|India|Hyderabad|Amazon.com, Inc.|
-|14|62.217.187.248|10808|Russia|Moscow|Lovitel LLC|
-|15|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
-|16|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|17|36.50.92.99|8080|Indonesia|Sukamulya|PT Ring Media Nusantara|
-|18|1.54.175.133|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|20|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|27.79.219.247|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|58.186.177.10|16000|Vietnam|Hanoi|FPT Telecom Company|
+|3|58.186.249.104|16000|Vietnam|Thanh Xuân|FPT Telecom Company|
+|4|101.108.199.25|8080|Thailand|Bangkok|TOT Public Company Limited|
+|5|125.27.20.35|8080|Thailand|Chanthaburi|TOT Public Company Limited|
+|6|27.79.182.81|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|27.79.223.186|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|118.68.64.176|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|9|27.79.170.135|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|11|171.6.153.225|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|12|42.119.152.105|16000|Vietnam|Hanoi|FPT Telecom Company|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|118.174.152.249|8080|Thailand|Bangkok|TOT Public Company Limited|
+|15|171.4.65.133|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
+|16|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|17|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|18|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|19|42.119.98.215|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|20|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
 
 
 
