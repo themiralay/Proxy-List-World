@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **74533** proxies at the latest update. Usable proxies are below.
+> Scraper found **74514** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35499|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35480|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|136|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|37672|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|103.214.102.172|8083|Indonesia|Batam|SMARTPLUS|
-|4|103.157.62.229|8080|Indonesia|Pangandaran|ADSNETWORK|
-|5|160.22.206.65|8080|Indonesia|Cikampek|PT Teradata Bintang Selaras|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
-|8|1.54.175.245|16000|Vietnam|Hanoi|FPT Telecom Company|
-|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|10|160.25.180.35|8080|India|Mumbai|TAJ BROADBAND PRIVATE LIMITED|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|62.217.187.248|10808|Russia|Moscow|Lovitel LLC|
-|13|80.78.30.182|3128|Sweden|Malmo|ab stract|
-|14|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|19|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|20|91.236.74.10|8080|Greece|Komotini|Mechmet CHATIP MEMET trading as SpeedNet|
+|3|103.157.62.229|8080|Indonesia|Pangandaran|ADSNETWORK|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|6|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|7|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|8|103.188.169.11|8080|Indonesia|Kelodan|PT Lintas Jaringan Nusantara|
+|9|1.54.175.245|16000|Vietnam|Hanoi|FPT Telecom Company|
+|10|18.143.165.238|13040|Singapore|Singapore|Amazon Technologies Inc.|
+|11|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|12|116.203.139.209|4145|Germany|Nuremberg|Hetzner Online GmbH|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|15|27.79.170.135|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|103.156.17.39|8818|Indonesia|Jatibarang|RSTNET|
+|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|18|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|19|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|20|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
 
 
 
