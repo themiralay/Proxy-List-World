@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|4|42.117.243.65|16000|Vietnam|Hanoi|FPT Telecom Company|
-|5|80.78.30.182|3128|Sweden|Malmo|ab stract|
-|6|118.174.187.236|8081|Thailand|Ao Nang|TOT Public Company Limited|
-|7|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|8|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|9|58.187.70.38|16000|Vietnam|Hanoi|FPT Telecom Company|
-|10|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|11|27.79.223.186|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|13|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|14|180.190.188.183|8082|Philippines|Lahug|Globe Telecom|
-|15|46.60.15.90|8080|Palestinian Territory|Salfīt|AL Zaytona Company For Communication Ltd.|
-|16|1.54.175.133|16000|Vietnam|Hanoi|FPT Telecom Company|
-|17|103.214.102.172|8083|Indonesia|Batam|SMARTPLUS|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|20|179.43.96.178|8080|Peru|Arequipa|GLG PERU SAC|
+|2|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|3|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|4|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|5|27.79.135.237|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|42.112.189.153|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|7|27.79.193.49|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|42.118.2.147|16000|Vietnam|Hanoi|FPT Telecom Company|
+|9|27.79.174.182|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|42.114.11.151|16000|Vietnam|Hanoi|FPT Telecom Company|
+|11|58.187.70.38|16000|Vietnam|Hanoi|FPT Telecom Company|
+|12|58.186.92.96|16000|Vietnam|Hanoi|FPT Telecom Company|
+|13|152.53.194.55|21609|United States|Manassas|netcup GmbH|
+|14|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|15|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|17|27.79.223.186|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|194.15.98.17|8080|Georgia|Marneuli|Jenet LLC|
+|19|103.83.224.176|8080|Philippines|Mandaue City|Channel Information Technology Support and Leasing Services Inc.|
+|20|38.183.215.126|999|Venezuela|Villa de Cura|WISP TECNOGER, C.A.|
 
 
 
