@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|140.227.61.201|3128|Japan|Chiyoda|InfoSphere|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|7|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|3|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|6|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|7|58.186.211.121|16000|Vietnam|Bắc Ninh|FPT Telecom Company|
 |8|27.79.182.81|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|12|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|13|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|14|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
-|15|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|16|209.121.164.51|31147|Canada|Burnaby|TELUS Communications Inc.|
-|17|208.102.24.225|80|United States|Harrison|Fuse Internet Access|
-|18|58.186.211.121|16000|Vietnam|Bắc Ninh|FPT Telecom Company|
-|19|212.110.188.193|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|11|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|12|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|15|161.248.169.146|8080|Philippines|Bacolod City|GNET TECHNOLOGIES OPC main|
+|16|147.28.240.218|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|17|147.28.240.214|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|18|147.28.240.216|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|19|147.28.240.210|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|72.10.164.178|26865|Canada|Montreal|GloboTech Communications|
 
 
 
