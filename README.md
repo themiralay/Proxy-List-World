@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|103.97.140.96|8080|Indonesia|Bandung|PT Jembatan Data Pangrango|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|157.66.16.36|5568|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|5|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |8|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|10|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|11|27.79.219.247|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|1.2.216.107|8080|Thailand|Bangkok|TOT Public Company Limited|
-|13|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|14|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|15|164.163.42.43|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|186.215.43.69|3128|Brazil|Fortaleza|TELEFÔNICA BRASIL S.A|
-|17|164.163.42.17|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|103.171.245.184|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
-|19|164.163.42.22|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|11|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|164.163.42.43|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|164.163.42.17|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|164.163.42.22|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|164.163.42.56|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|103.220.206.138|59417|Bangladesh|Feni|KS Network|
+|20|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
 
 
 
