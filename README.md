@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|3|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|160.25.48.33|9090|Indonesia|Bangsal Aceh|PT Shs Solusindo Network|
-|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|12|27.71.131.186|16000|Vietnam|Bảo Lộc|Viettel Group|
-|13|103.210.22.17|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|14|77.110.114.19|8118|United States|Charlotte|Aeza International LTD|
-|15|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|16|77.110.114.19|8118|United States|Charlotte|Aeza International LTD|
-|17|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|18|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|19|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|42.114.11.222|16000|Vietnam|Hanoi|FPT Telecom Company|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|7|202.232.52.162|8080|Japan|Ōita|Internet Initiative Japan Inc.|
+|8|157.66.16.36|5568|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|9|103.155.199.106|3128|Indonesia|Cikadu|PT Lintas Jaringan Nusantara|
+|10|103.189.197.139|8080|Indonesia|Cirebon|PT Graha Sumber Teknologi|
+|11|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|12|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|13|36.95.169.154|8080|Indonesia|Bintaro|PT. Telekomunikasi Indonesia|
+|14|103.126.119.252|8080|Indonesia|Tangerang|PT. Media Tekno Nusantara|
+|15|42.118.74.34|16000|Vietnam|Hanoi|FPT Telecom Company|
+|16|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|19|38.191.90.65|999|Dominican Republic|Santiago de los Caballeros|LAUAM MEGARED TELECOM, S.R.L.|
+|20|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
