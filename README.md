@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|202.137.14.57|8085|Indonesia|Tangerang|customer in Corporate Access|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|103.18.77.14|1111|Indonesia|Caringin|PT Usaha Adi Sanggoro|
 |4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|8|223.206.57.233|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|9|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|10|212.110.188.220|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|11|18.143.165.238|13040|Singapore|Singapore|Amazon Technologies Inc.|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|1.54.175.133|16000|Vietnam|Hanoi|FPT Telecom Company|
-|14|182.253.109.209|8080|Indonesia|Ketanggi|Biznet Metronet|
-|15|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|16|181.129.97.38|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|201.150.119.174|999|Mexico|Mineral de la Reforma|Hulux Telecomunicaciones|
-|19|147.28.240.215|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|20|147.28.240.215|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|5|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|6|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|7|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|8|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|9|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|116.203.139.209|4145|Germany|Nuremberg|Hetzner Online GmbH|
+|12|103.191.251.54|8080|Indonesia|Batam|PT Mulia Batam Net|
+|13|103.78.1.117|39114|Vietnam|Thanh Xuân|Megacore Technology Company Limited|
+|14|85.117.61.74|8080|Georgia|Marneuli|Caucasus Online Ltd.|
+|15|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|16|66.54.106.56|8104|United States|Greenwood|Mobile Communications, LLC|
+|17|182.253.109.209|8080|Indonesia|Ketanggi|Biznet Metronet|
+|18|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|27.79.215.7|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
