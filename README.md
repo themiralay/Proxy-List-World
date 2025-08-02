@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -40,21 +40,21 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|40.192.67.241|3128|India|Hyderabad|Amazon.com, Inc.|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|9|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|10|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|11|27.79.182.81|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|15|45.228.77.77|999|Argentina|Mariano Moreno|Daniel Marechal|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|2|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|3|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|4|37.32.40.253|8080|Iran|Ahvaz|Toloe Rayaneh Loghman Educational and Cultural Co.|
+|5|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|103.193.144.81|8080|Indonesia|Meureubo|PT Lintas Jaringan Nusantara|
+|10|178.49.137.190|8080|Russia|Novosibirsk|Novotelecom Ltd|
+|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|12|103.151.226.133|8080|Indonesia|Soreang|URBANACCESS|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|15|217.76.245.24|999|Dominican Republic|Santiago de los Caballeros|CENTRIC MOBILITY, S.R.L|
+|16|95.47.239.65|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
 |17|157.180.121.252|41299|Finland|Helsinki|Hetzner Online GmbH|
 |18|147.28.240.216|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
 |19|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
