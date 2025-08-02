@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **74635** proxies at the latest update. Usable proxies are below.
+> Scraper found **74592** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35539|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35496|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|198|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|37672|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |3|222.254.88.74|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|5|150.129.115.253|6666|India|Surat|Gtpl Solanki Cable Network Pvt Ltd|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|125.25.179.75|8080|Thailand|Si Banphot|TOT Public Company Limited|
-|9|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|10|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|11|18.143.165.238|13040|Singapore|Singapore|Amazon Technologies Inc.|
-|12|177.234.217.88|999|Ecuador|Quito|Ufinet Panama S.A.|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|16|147.28.240.218|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|17|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|18|72.10.164.178|26787|Canada|Montreal|GloboTech Communications|
-|19|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|20|152.53.194.46|8029|United States|Manassas|netcup GmbH|
+|4|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|9|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|10|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|11|103.220.23.117|8080|Indonesia|Surabaya|CV. LINTAS MEDIA|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|14|209.14.119.120|999|Colombia|Tibú|AGIS|
+|15|1.54.175.245|16000|Vietnam|Hanoi|FPT Telecom Company|
+|16|103.81.194.165|8080|Indonesia|Ciampea|PT Rtiga Global Media|
+|17|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|18|177.234.217.88|999|Ecuador|Quito|Ufinet Panama S.A.|
+|19|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
