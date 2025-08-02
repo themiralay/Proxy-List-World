@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|103.119.147.235|8080|Indonesia|Jakarta|PT Bali Towerindo Sentra, Tbk|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|80.78.30.182|3128|Sweden|Malmo|ab stract|
-|7|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|103.188.169.11|8080|Indonesia|Kelodan|PT Lintas Jaringan Nusantara|
-|10|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|11|181.174.231.153|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
-|12|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|15|18.143.165.238|13040|Singapore|Singapore|Amazon Technologies Inc.|
-|16|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|18|188.132.222.24|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|19|222.128.44.7|8118|China|Beijing|China Unicom Beijing Province Network|
-|20|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|6|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|7|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|8|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|9|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|10|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|11|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|12|103.119.147.235|8080|Indonesia|Jakarta|PT Bali Towerindo Sentra, Tbk|
+|13|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|14|181.174.231.153|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
+|15|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|16|103.217.216.30|8080|Indonesia|Bekasi|PT. Infotama Lintas Global|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|103.172.17.51|8080|Indonesia|Meluwung|PT Media Access Telematika|
+|19|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
