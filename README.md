@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **74531** proxies at the latest update. Usable proxies are below.
+> Scraper found **74504** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35627|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35600|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|131|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|37547|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|7|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|8|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|9|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|10|18.143.165.238|13040|Singapore|Singapore|Amazon Technologies Inc.|
+|3|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
+|4|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|5|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|103.242.105.65|7200|Indonesia|Karangampel|PT Lintas Jaringan Nusantara|
+|8|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|9|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|10|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
 |11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|13|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|14|80.78.30.182|3128|Sweden|Malmo|ab stract|
-|15|103.125.173.5|1111|Indonesia|Deli Serdang|PT Trinity Teknologi Nusantara|
-|16|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|17|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|18|27.79.174.182|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|38.183.146.21|8085|Indonesia|Weleri|PT Ikhlas Cipta Teknologi|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|13|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|14|121.101.129.150|8080|Indonesia|Candi Prambanan|PT SELARAS CITRA TERABIT|
+|15|190.52.99.220|999|Venezuela|Caracas|Gold Data USA Inc|
+|16|147.28.240.218|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|17|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|18|38.183.146.21|8085|Indonesia|Weleri|PT Ikhlas Cipta Teknologi|
+|19|147.28.240.200|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
