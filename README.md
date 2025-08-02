@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|5|27.79.182.81|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|152.53.194.46|8070|United States|Manassas|netcup GmbH|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|10|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|12|126.209.17.202|8082|Philippines|Davao City|Infinivan Incorporated|
-|13|192.177.139.23|8000|United States|San Jose|EGIHosting|
-|14|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|15|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|16|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|17|170.81.171.189|8282|Brazil|São Paulo|Wireless Comm Services LTDA|
-|18|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|19|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|3|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|4|1.54.175.133|16000|Vietnam|Hanoi|FPT Telecom Company|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|8|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|9|103.155.199.106|3128|Indonesia|Cikadu|PT Lintas Jaringan Nusantara|
+|10|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|11|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|12|160.191.180.236|8080|Indonesia|Purworejo|PT.Global Media Data Prima|
+|13|147.28.240.215|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|14|147.28.240.215|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|15|147.28.240.210|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|16|103.153.39.35|8083|Pakistan|Burewala|Getlinks (SMC-Private) Limited|
+|17|157.180.121.252|57411|Finland|Helsinki|Hetzner Online GmbH|
+|18|147.28.240.218|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|19|147.28.240.216|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|189.72.85.254|8080|Brazil|Itajaí|V tal|
 
 
 
