@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|222.254.88.74|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|9|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|10|80.78.30.182|3128|Sweden|Malmo|ab stract|
-|11|103.220.23.117|8080|Indonesia|Surabaya|CV. LINTAS MEDIA|
+|2|58.186.211.121|16000|Vietnam|Bắc Ninh|FPT Telecom Company|
+|3|58.186.249.104|16000|Vietnam|Thanh Xuân|FPT Telecom Company|
+|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|5|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
+|8|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
+|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|14|209.14.119.120|999|Colombia|Tibú|AGIS|
-|15|1.54.175.245|16000|Vietnam|Hanoi|FPT Telecom Company|
-|16|103.81.194.165|8080|Indonesia|Ciampea|PT Rtiga Global Media|
-|17|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|18|177.234.217.88|999|Ecuador|Quito|Ufinet Panama S.A.|
-|19|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|15|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|16|27.79.170.135|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|18|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|19|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|20|222.254.88.74|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
