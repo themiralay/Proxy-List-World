@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|10|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|12|103.155.199.106|3128|Indonesia|Cikadu|PT Lintas Jaringan Nusantara|
-|13|27.79.182.81|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|147.28.240.200|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|17|8.243.97.246|999|Peru|La Molina|Cirion Technologies Solutions|
-|18|152.53.194.46|8070|United States|Manassas|netcup GmbH|
-|19|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|20|27.79.182.81|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|27.79.170.135|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|7|5.188.183.253|8080|Spain|Madrid|Melbikomas UAB|
+|8|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|9|152.53.194.46|8070|United States|Manassas|netcup GmbH|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|37.32.40.253|8080|Iran|Ahvaz|Toloe Rayaneh Loghman Educational and Cultural Co.|
+|14|147.28.240.200|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|15|27.79.182.81|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|17|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|18|147.28.240.218|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|19|147.28.240.216|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|147.28.240.216|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
