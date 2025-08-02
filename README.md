@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|3|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|7|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|8|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|9|103.247.240.34|8080|Indonesia|Semurup|PT Media Kerinci Network|
-|10|80.78.30.182|3128|Sweden|Malmo|ab stract|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|13|103.115.20.87|8099|Indonesia|Subang|PMYNET|
-|14|37.32.40.253|8080|Iran|Ahvaz|Toloe Rayaneh Loghman Educational and Cultural Co.|
-|15|42.113.21.218|16000|Vietnam|Hanoi|FPT Telecom Company|
-|16|42.118.2.147|16000|Vietnam|Hanoi|FPT Telecom Company|
-|17|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|18|203.175.126.229|8080|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
-|19|45.189.252.218|999|Mexico|Tlalixcoyan|Tracered SA De CV|
-|20|147.75.49.154|80|United States|San Jose|Packet Host, Inc.|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|6|58.186.211.121|16000|Vietnam|Bắc Ninh|FPT Telecom Company|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|9|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|12|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|13|42.113.21.218|16000|Vietnam|Hanoi|FPT Telecom Company|
+|14|42.118.74.34|16000|Vietnam|Hanoi|FPT Telecom Company|
+|15|184.22.2.110|8080|Thailand|Bangkok|AIS-Fibre|
+|16|186.179.103.249|999|Colombia|Riosucio|TV AZTECA SUCURSAL COLOMBIA|
+|17|27.79.174.182|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|147.75.49.154|80|United States|San Jose|Packet Host, Inc.|
+|19|147.28.240.215|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
