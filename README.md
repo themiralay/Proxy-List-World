@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|4|103.147.77.66|8082|Indonesia|Madiun|TRIDATA|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|37.32.40.253|8080|Iran|Ahvaz|Toloe Rayaneh Loghman Educational and Cultural Co.|
-|12|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|13|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|16|66.96.233.62|8085|Indonesia|Jakarta|MYREPUBLIC|
-|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|18|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|19|103.144.103.155|8080|Indonesia|Jatibarang|PANDAWANET|
-|20|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|3|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|139.59.228.95|8118|Singapore|Singapore|DIGITALOCEAN|
+|6|58.186.249.104|16000|Vietnam|Thanh Xuân|FPT Telecom Company|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|58.186.211.121|16000|Vietnam|Bắc Ninh|FPT Telecom Company|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|11|27.71.131.186|16000|Vietnam|Bảo Lộc|Viettel Group|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|14|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|15|37.32.40.253|8080|Iran|Ahvaz|Toloe Rayaneh Loghman Educational and Cultural Co.|
+|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|17|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|18|27.79.170.135|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|20|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 
 
 
