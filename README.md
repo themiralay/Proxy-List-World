@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |3|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
-|6|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|194.233.76.162|8000|Singapore|Singapore|Contabo Asia Private Limited|
-|9|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|10|80.78.30.182|3128|Sweden|Malmo|ab stract|
-|11|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|4|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|5|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|6|103.18.77.14|1111|Indonesia|Caringin|PT Usaha Adi Sanggoro|
+|7|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|8|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|9|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|10|66.211.155.34|8080|United States|Nashua|FirstLight Fiber|
+|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 |12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|118.174.187.236|8081|Thailand|Ao Nang|TOT Public Company Limited|
-|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|15|163.61.55.163|8881|Indonesia|Probolinggo|PT INFINITY GLOBAL DATA NUSANTARA|
-|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|17|103.18.77.14|1111|Indonesia|Caringin|PT Usaha Adi Sanggoro|
-|18|50.200.166.130|8080|United States|Cranbury|Comcast Cable Communications|
-|19|222.254.88.74|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|103.157.62.229|8080|Indonesia|Pangandaran|ADSNETWORK|
+|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|147.28.240.218|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|16|147.28.240.217|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|17|147.28.240.217|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|18|72.10.164.178|7549|Canada|Montreal|GloboTech Communications|
+|19|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|20|103.164.223.53|3128|Indonesia|Jakarta|PT iForte Global Internet|
 
 
 
