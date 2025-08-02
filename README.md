@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|139.59.228.95|8118|Singapore|Singapore|DIGITALOCEAN|
 |4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|58.186.211.121|16000|Vietnam|Bắc Ninh|FPT Telecom Company|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|10|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|11|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|14|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|16|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|17|58.186.211.120|16000|Vietnam|Bắc Ninh|FPT Telecom Company|
-|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|20|58.186.249.104|16000|Vietnam|Thanh Xuân|FPT Telecom Company|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|8|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|27.79.182.81|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|13|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|16|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|20|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
 
 
 
