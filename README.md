@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|222.254.88.74|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|42.114.11.151|16000|Vietnam|Hanoi|FPT Telecom Company|
-|8|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|9|18.143.165.238|13040|Singapore|Singapore|Amazon Technologies Inc.|
-|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|11|80.78.30.182|3128|Sweden|Malmo|ab stract|
-|12|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|13|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|14|27.79.170.135|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|27.79.223.186|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|27.79.174.182|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|42.119.152.105|16000|Vietnam|Hanoi|FPT Telecom Company|
-|18|194.183.190.10|8080|Ukraine|Kyiv|"SCIENTIFIC-INDUSTRIAL FIRM "VOLZ" LIMITED LIABILITY COMPANY|
-|19|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|27.79.193.49|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|194.183.190.10|8080|Ukraine|Kyiv|"SCIENTIFIC-INDUSTRIAL FIRM "VOLZ" LIMITED LIABILITY COMPANY|
+|10|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|11|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|12|58.187.71.222|16000|Vietnam|Hanoi|FPT Telecom Company|
+|13|103.39.51.207|8080|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
+|14|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|15|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|16|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|17|27.79.174.182|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|20|27.79.215.7|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
