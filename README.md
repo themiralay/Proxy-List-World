@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|103.214.102.172|8083|Indonesia|Batam|SMARTPLUS|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|18.143.165.238|13040|Singapore|Singapore|Amazon Technologies Inc.|
 |4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|6|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|80.78.30.182|3128|Sweden|Malmo|ab stract|
-|9|103.143.197.38|8080|Indonesia|Karanganom|JERNIHNETWORK|
-|10|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|11|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|12|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|13|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|14|18.143.165.238|13040|Singapore|Singapore|Amazon Technologies Inc.|
-|15|201.65.173.179|8080|Brazil|Brasília|Claro S.A.|
-|16|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|17|201.150.116.3|999|Mexico|Tetepango|Yesenia Ramirez Garcia|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|62.217.187.248|10808|Russia|Moscow|Lovitel LLC|
-|20|147.28.240.200|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|5|103.18.77.14|1111|Indonesia|Caringin|PT Usaha Adi Sanggoro|
+|6|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
+|7|62.217.187.248|10808|Russia|Moscow|Lovitel LLC|
+|8|103.143.197.38|8080|Indonesia|Karanganom|JERNIHNETWORK|
+|9|103.214.102.172|8083|Indonesia|Batam|SMARTPLUS|
+|10|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|11|91.236.74.10|8080|Greece|Komotini|Mechmet CHATIP MEMET trading as SpeedNet|
+|12|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|13|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|14|77.242.21.133|8080|Albania|Tirana|Business Custommers|
+|15|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|16|201.65.173.179|8080|Brazil|Brasília|Claro S.A.|
+|17|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|19|212.110.188.220|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|20|103.153.149.45|8035|Indonesia|Gianyar|JARINGANKU|
 
 
 
