@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|3|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|4|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|8|27.79.193.49|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|10|114.8.131.178|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|11|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|12|147.28.240.214|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|13|161.248.169.146|8080|Philippines|Bacolod City|GNET TECHNOLOGIES OPC main|
-|14|147.28.240.215|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|15|147.28.240.210|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|16|116.107.169.233|10006|Vietnam|Tuyên Quang|Viettel Corporation|
-|17|72.10.164.178|5825|Canada|Montreal|GloboTech Communications|
-|18|147.28.240.215|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|4|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|5|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|6|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|7|103.180.196.113|2024|Indonesia|Yogyakarta|PT Dekadata Lingkar Nusantara|
+|8|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|10|14.225.212.81|3128|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|11|147.28.240.214|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|147.28.240.215|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|14|147.28.240.210|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|15|77.110.114.19|8118|United States|Charlotte|Aeza International LTD|
+|16|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|17|147.28.240.215|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 |20|147.28.240.216|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
