@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|14.172.146.19|20399|Vietnam|Ho Chi Minh City|VNPT-VNNIC|
+|2|139.59.228.95|8118|Singapore|Singapore|DIGITALOCEAN|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|8|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
+|9|37.32.40.253|8080|Iran|Ahvaz|Toloe Rayaneh Loghman Educational and Cultural Co.|
+|10|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|11|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 |13|164.163.42.56|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|164.163.42.17|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|164.163.42.22|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|164.163.42.43|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|15|103.122.66.170|3128|Indonesia|Cilegon|PT. Jinom Network Indonesia|
+|16|192.177.33.221|8000|United States|San Jose|EGIHosting|
+|17|164.163.42.22|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|164.163.42.43|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|103.123.235.42|8080|India|Mumbai|Esto Broadband|
 
 
 
