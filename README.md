@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|219.92.103.218|8080|Malaysia|Ampang|TMnet|
-|5|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|8|80.78.30.182|3128|Sweden|Malmo|ab stract|
-|9|18.143.165.238|13040|Singapore|Singapore|Amazon Technologies Inc.|
-|10|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|11|103.76.201.126|8080|Indonesia|Cileungsir|PT. Arjuna Global Teknologi Indonesia|
-|12|210.79.142.73|8080|Indonesia|Kediri|PT Gayatri Lintas Nusantara|
-|13|164.163.42.22|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|91.236.74.10|8080|Greece|Komotini|Mechmet CHATIP MEMET trading as SpeedNet|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|17|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|18|152.53.194.46|8029|United States|Manassas|netcup GmbH|
-|19|144.76.159.121|8082|Germany|Falkenstein|Hetzner Online GmbH|
-|20|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|3|118.174.187.236|8081|Thailand|Ao Nang|TOT Public Company Limited|
+|4|103.153.149.45|8035|Indonesia|Gianyar|JARINGANKU|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
+|9|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|10|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|11|163.61.55.163|8881|Indonesia|Probolinggo|PT INFINITY GLOBAL DATA NUSANTARA|
+|12|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|13|18.143.165.238|13040|Singapore|Singapore|Amazon Technologies Inc.|
+|14|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|15|103.157.62.229|8080|Indonesia|Pangandaran|ADSNETWORK|
+|16|20.206.173.100|3128|Brazil|São Paulo|Microsoft Corporation|
+|17|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|18|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|19|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|20|144.76.159.121|8082|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
