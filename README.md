@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|3|18.143.165.238|13040|Singapore|Singapore|Amazon Technologies Inc.|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|103.174.236.88|8080|Indonesia|Karangampel|PT Global Erasiber Teknologi|
-|6|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|4|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|5|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|6|42.114.178.153|16000|Vietnam|Hanoi|FPT Telecom Company|
 |7|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|8|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|12|103.163.13.126|3128|Indonesia|Mersodo|PT Solusi Media Telekomunikasi|
-|13|181.174.231.153|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
-|14|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|147.28.240.200|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|8|103.203.234.210|8080|Indonesia|Weleri|PT Nesta Indo Media|
+|9|103.178.87.50|8080|Indonesia|Parung|PT Adhi Pradana Makayasa|
+|10|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|11|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|12|18.143.165.238|13040|Singapore|Singapore|Amazon Technologies Inc.|
+|13|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|14|188.132.222.24|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|15|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|16|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
 |17|147.28.240.215|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|18|157.180.121.252|54315|Finland|Helsinki|Hetzner Online GmbH|
-|19|147.28.240.218|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|20|157.180.121.252|54315|Finland|Helsinki|Hetzner Online GmbH|
+|18|112.198.186.104|8082|Philippines|Nasugbu|Globe Telecom|
+|19|27.79.223.186|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 
 
 
