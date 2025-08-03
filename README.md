@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
 |3|182.253.109.5|8080|Indonesia|Semarang|Biznet Metronet|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|147.28.240.213|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|4|35.206.88.200|8888|United States|Council Bluffs|Google LLC|
+|5|27.71.142.16|16000|Vietnam|Bảo Lộc|Viettel Group|
+|6|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|7|152.53.194.46|8053|United States|Manassas|netcup GmbH|
+|8|147.28.240.213|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |10|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|11|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
-|13|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|14|152.53.194.46|8053|United States|Manassas|netcup GmbH|
-|15|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|17|5.190.36.4|3128|Iran|Bavānāt|Iran Telecommunication Company PJS|
-|18|95.53.246.137|3128|Russia|Vologda|Rostelecom networks|
-|19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|20|202.5.37.104|17382|Bangladesh|Comilla|BBTS-NEW|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|13|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
+|14|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|15|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|16|5.190.36.4|3128|Iran|Bavānāt|Iran Telecommunication Company PJS|
+|17|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|18|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|19|157.66.16.38|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|20|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
