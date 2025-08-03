@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75003** proxies at the latest update. Usable proxies are below.
+> Scraper found **75054** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35458|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35509|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|122|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38197|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|2|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|3|27.71.142.16|16000|Vietnam|Bảo Lộc|Viettel Group|
-|4|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|8|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|147.28.240.217|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|11|147.28.240.217|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|12|147.28.240.200|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|13|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|14|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|15|152.53.194.46|8070|United States|Manassas|netcup GmbH|
-|16|157.180.121.252|33691|Finland|Helsinki|Hetzner Online GmbH|
-|17|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|18|193.30.13.186|8080|Ecuador|Guayaquil|GEDATECU SA|
-|19|157.180.121.252|33691|Finland|Helsinki|Hetzner Online GmbH|
-|20|38.9.48.211|8080|Dominican Republic|Bella Vista|INVERSIONES BONAFER, SRL|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|4|182.253.109.5|8080|Indonesia|Semarang|Biznet Metronet|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|10|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|11|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|13|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|14|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|15|180.211.94.50|8080|Indonesia|Bekasi|Kings Network Indonesia, PT|
+|16|164.163.42.9|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|27.71.142.16|16000|Vietnam|Bảo Lộc|Viettel Group|
+|18|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|19|164.163.42.45|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|164.163.42.30|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
