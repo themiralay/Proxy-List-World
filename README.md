@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|4|207.244.254.27|7003|United States|St Louis|Nubes, LLC|
-|5|27.79.133.107|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|7|51.159.159.73|80|France|Paris|SCALEWAY|
-|8|207.244.254.27|7003|United States|St Louis|Nubes, LLC|
-|9|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|12|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|13|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|14|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|27.71.131.186|16000|Vietnam|Bảo Lộc|Viettel Group|
-|17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|18|37.120.162.180|42824|Germany|Nuremberg|netcup GmbH|
-|19|181.129.97.38|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
-|20|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|2|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|51.159.159.73|80|France|Paris|SCALEWAY|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|11|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|23.94.236.141|8080|United States|Los Angeles|HostPapa|
+|14|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|15|1.54.175.190|16000|Vietnam|Hanoi|FPT Telecom Company|
+|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|18|152.53.194.46|8065|United States|Manassas|netcup GmbH|
+|19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|200.125.171.62|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
 
 
 
