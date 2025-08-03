@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|3.135.6.138|443|United States|Dublin|Amazon.com, Inc.|
+|2|3.135.6.138|443|United States|Dublin|Amazon.com, Inc.|
+|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |5|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
 |6|3.135.6.138|443|United States|Dublin|Amazon.com, Inc.|
-|7|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|9|112.216.83.10|3128|South Korea|Siheung-si|LG DACOM Corporation|
-|10|152.53.194.46|8051|United States|Manassas|netcup GmbH|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|9|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|10|112.216.83.10|3128|South Korea|Siheung-si|LG DACOM Corporation|
 |11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|13|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|14|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|83.143.24.66|80|Botswana|Gaborone|BOTSWANA FIBRE NETWORKS (Proprietary) Limited|
-|17|147.28.240.217|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|18|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|19|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
+|12|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|13|103.154.230.179|8080|Indonesia|Bilo|DIGITNET|
+|14|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|15|190.52.99.193|999|Venezuela|Caracas|Gold Data USA Inc|
+|16|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|18|147.28.240.217|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |20|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
 
 
