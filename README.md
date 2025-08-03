@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|27.79.183.250|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|47.79.19.26|8118|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|9|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|10|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|12|74.48.189.152|2580|United States|Los Angeles|Multacom Corporation|
-|13|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|14|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|15|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|17|181.23.244.117|3128|Argentina|Buenos Aires|Telefonica de Argentina|
-|18|14.225.212.81|3128|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|19|27.71.136.68|16000|Vietnam|Bảo Lộc|Viettel Group|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|1|27.79.183.250|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|9|14.225.212.81|3128|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|12|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|13|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|16|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|17|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|20|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
 
 
 
