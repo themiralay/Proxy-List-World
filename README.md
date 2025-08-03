@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|2|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|3|80.78.30.182|3128|Sweden|Malmo|ab stract|
-|4|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|5|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|6|103.117.194.250|8080|Bangladesh|Dhaka|DigiCon Telecommunication Ltd|
-|7|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|8|167.250.23.48|9090|Brazil|Patrocínio|OnNet Telecomunicações LTDA|
-|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|10|147.28.240.200|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|11|147.28.240.215|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|12|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|13|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|14|147.28.240.218|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|15|72.10.160.170|22703|Canada|Montreal|GloboTech Communications|
-|16|144.76.159.121|8082|Germany|Falkenstein|Hetzner Online GmbH|
-|17|190.121.128.201|999|Colombia|El Carmen de Viboral|Media Commerce Partners S.A|
-|18|152.53.194.46|8070|United States|Manassas|netcup GmbH|
-|19|171.249.163.170|1452|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|20|38.123.220.173|999|Mexico|Ixtlahuaca de Rayón|Cogent Communications|
+|1|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|103.174.122.203|8090|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
+|5|43.130.34.135|5432|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|6|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|7|147.28.240.200|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|8|147.28.240.215|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|9|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|10|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|12|147.28.240.218|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|13|38.123.220.173|999|Mexico|Ixtlahuaca de Rayón|Cogent Communications|
+|14|197.248.201.97|8080|Kenya|Nairobi|Safaricom Limited|
+|15|144.76.159.121|8082|Germany|Falkenstein|Hetzner Online GmbH|
+|16|72.10.160.90|14773|Canada|Montreal|GloboTech Communications|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|49.146.252.146|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|19|119.110.75.50|63123|Indonesia|Bekasi|Maxindo|
+|20|181.209.82.91|1994|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A.|
 
 
 
