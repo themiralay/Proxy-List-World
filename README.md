@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.133.107|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
 |2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|4|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|5|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|6|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|7|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|80.78.30.182|3128|Sweden|Malmo|ab stract|
-|10|171.251.27.56|10001|Vietnam|Da Nang|Viettel Corporation|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|3|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|4|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|5|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|171.251.27.56|10001|Vietnam|Da Nang|Viettel Corporation|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|147.28.240.200|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 |12|147.28.240.200|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|15|147.28.240.200|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|16|147.28.240.218|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|17|147.28.240.217|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|18|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|19|147.28.240.218|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|20|147.28.240.216|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|13|147.28.240.218|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|14|147.28.240.217|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|185.49.170.20|43626|Spain|Madrid|OLIVE|
+|17|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|18|147.28.240.218|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|19|147.28.240.216|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|147.28.240.215|443|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
