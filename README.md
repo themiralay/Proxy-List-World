@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|182.253.109.5|8080|Indonesia|Semarang|Biznet Metronet|
-|5|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|147.28.240.213|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|8|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|9|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|13|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
-|14|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|15|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
-|16|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|185.200.37.123|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|20|144.76.159.121|8082|Germany|Falkenstein|Hetzner Online GmbH|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|103.151.247.246|8081|Indonesia|Polewali|MANAKARRANET|
+|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|9|27.71.142.16|16000|Vietnam|Bảo Lộc|Viettel Group|
+|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|35.206.88.200|8888|United States|Council Bluffs|Google LLC|
+|12|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|13|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|182.253.109.5|8080|Indonesia|Semarang|Biznet Metronet|
+|16|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|17|147.28.240.213|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|5.188.183.253|8080|Spain|Madrid|Melbikomas UAB|
+|20|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
 
 
 
