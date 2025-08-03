@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|161.49.87.222|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
 |5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|77.83.246.56|3128|Poland|Mazovia|Global Connectivity Solutions LLP|
-|10|23.94.236.141|8080|United States|Los Angeles|HostPapa|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
 |11|195.88.71.201|8888|United Kingdom|Salford|OVH SAS|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|152.53.194.55|21609|United States|Manassas|netcup GmbH|
-|14|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|15|103.227.187.75|8080|Indonesia|Sragikrajan|PT Master Star Network|
-|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|19|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|20|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|12|31.14.114.69|1081|Iran|Tehran|Afranet Co|
+|13|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|70.36.99.51|3128|United States|Los Angeles|Perfect International, Inc|
+|17|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|77.110.124.36|3128|United States|Charlotte|Aeza International LTD|
+|20|72.10.160.91|9897|Canada|Montreal|GloboTech Communications|
 
 
 
