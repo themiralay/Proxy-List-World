@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|2|80.78.30.182|3128|Sweden|Malmo|ab stract|
-|3|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|4|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|5|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|6|147.28.240.200|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|7|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|8|147.28.240.215|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|9|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|10|147.28.240.218|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|11|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|12|72.10.160.170|22703|Canada|Montreal|GloboTech Communications|
-|13|144.76.159.121|8082|Germany|Falkenstein|Hetzner Online GmbH|
-|14|72.10.160.90|14773|Canada|Montreal|GloboTech Communications|
-|15|188.132.222.147|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|16|103.220.23.211|8080|Indonesia|Ponorogo|CV. LINTAS MEDIA|
-|17|147.28.240.200|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|18|147.28.240.217|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|19|147.28.240.210|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|20|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|1|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|2|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|3|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|4|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|5|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|6|103.117.194.250|8080|Bangladesh|Dhaka|DigiCon Telecommunication Ltd|
+|7|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|8|167.250.23.48|9090|Brazil|Patrocínio|OnNet Telecomunicações LTDA|
+|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|10|147.28.240.200|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|11|147.28.240.215|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|12|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|13|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|14|147.28.240.218|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|15|72.10.160.170|22703|Canada|Montreal|GloboTech Communications|
+|16|144.76.159.121|8082|Germany|Falkenstein|Hetzner Online GmbH|
+|17|190.121.128.201|999|Colombia|El Carmen de Viboral|Media Commerce Partners S.A|
+|18|152.53.194.46|8070|United States|Manassas|netcup GmbH|
+|19|171.249.163.170|1452|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|20|38.123.220.173|999|Mexico|Ixtlahuaca de Rayón|Cogent Communications|
 
 
 
