@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|3|152.53.194.46|8053|United States|Manassas|netcup GmbH|
-|4|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|5|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|3|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|4|152.53.194.46|8053|United States|Manassas|netcup GmbH|
+|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|6|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
 |7|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|152.53.194.46|8053|United States|Manassas|netcup GmbH|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|72.10.160.91|13653|Canada|Montreal|GloboTech Communications|
-|13|162.239.194.73|8080|United States|Bardstown|AT&T Enterprises, LLC|
-|14|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
-|15|181.129.97.38|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
-|16|51.159.159.73|80|France|Paris|SCALEWAY|
-|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|18|112.216.83.10|3128|South Korea|Siheung-si|LG DACOM Corporation|
-|19|177.55.178.92|8080|Brazil|Pedro Leopoldo|BTT TELECOMUNICACOES S.A.|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|10|5.190.36.2|3128|Iran|Bavānāt|Iran Telecommunication Company PJS|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|72.10.160.91|13653|Canada|Montreal|GloboTech Communications|
+|15|51.159.159.73|80|France|Paris|SCALEWAY|
+|16|157.180.121.252|43523|Finland|Helsinki|Hetzner Online GmbH|
+|17|181.129.97.38|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
+|18|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|147.28.240.200|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
