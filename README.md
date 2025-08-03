@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|80.78.30.182|3128|Sweden|Malmo|ab stract|
-|4|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|5|103.169.41.236|8080|Indonesia|Medan|Telnet Indonesia|
-|6|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|7|171.237.115.165|1004|Vietnam|Hanoi|Viettel Corporation|
-|8|147.28.240.215|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|2|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|3|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|4|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|5|147.28.240.215|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|6|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|7|119.252.173.26|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
+|8|147.28.240.217|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
 |9|147.28.240.217|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|10|157.180.121.252|33691|Finland|Helsinki|Hetzner Online GmbH|
-|11|147.28.240.217|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|13|147.28.240.200|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|11|147.28.240.200|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|12|38.65.172.6|999|Mexico|San José Iturbide|Guillermo Robles Ramirez|
+|13|186.96.111.214|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
 |14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|15|45.5.118.249|999|Guatemala|Guatemala City|Inversiones Grajeda Andrade S.A|
-|16|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|14.225.210.186|3129|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|18|186.96.111.214|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|19|152.53.194.46|8053|United States|Manassas|netcup GmbH|
-|20|171.237.115.165|1004|Vietnam|Hanoi|Viettel Corporation|
+|15|152.53.194.46|8070|United States|Manassas|netcup GmbH|
+|16|171.237.115.165|1004|Vietnam|Hanoi|Viettel Corporation|
+|17|147.28.240.218|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|18|177.234.226.83|1994|Ecuador|San Isidro|Ufinet Panama S.A.|
+|19|147.28.240.215|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|67.43.228.252|19519|Canada|Montreal|GloboTech Communications|
 
 
 
