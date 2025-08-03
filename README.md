@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|2|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|3|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|4|45.174.80.83|20183|Brazil|Riachão das Neves|Davilson Dos Santos Correia-me|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|147.28.240.216|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|7|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|1|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|2|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|5|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|6|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |8|147.28.240.216|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|9|147.28.240.218|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|9|147.28.240.216|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
 |10|147.28.240.218|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|147.28.240.218|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
 |12|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|13|42.200.253.116|8080|Hong Kong|Central|PCCW IMSBiz|
-|14|65.108.251.40|21046|Finland|Helsinki|Hetzner Online GmbH|
-|15|187.251.224.167|80|Mexico|León|Total Play Telecomunicaciones SA De CV|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|114.9.27.142|8080|Indonesia|Kebomas|PT. INDOSAT Tbk|
+|15|72.10.160.170|10181|Canada|Montreal|GloboTech Communications|
 |16|147.28.240.210|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|17|72.10.160.170|10181|Canada|Montreal|GloboTech Communications|
-|18|164.163.42.43|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|147.28.240.217|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|20|190.60.45.79|999|Colombia|Cáceres|IFX NETWORKS COLOMBIA|
+|17|164.163.42.43|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|147.28.240.217|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|19|157.180.121.252|43523|Finland|Helsinki|Hetzner Online GmbH|
+|20|67.43.228.251|3539|Canada|Montreal|GloboTech Communications|
 
 
 
