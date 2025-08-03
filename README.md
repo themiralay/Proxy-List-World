@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|27.79.183.250|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|139.59.228.95|8118|Singapore|Singapore|DIGITALOCEAN|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|171.228.181.175|2001|Vietnam|Hanoi|Viettel Corporation|
-|9|14.225.212.81|3128|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|157.15.63.80|8080|Indonesia|Malang|PT Anugerah Media Data Nusantara|
-|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|3|27.79.183.250|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|139.59.228.95|8118|Singapore|Singapore|DIGITALOCEAN|
+|7|14.225.212.81|3128|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|8|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|12|103.129.172.141|8080|Indonesia|Purwokerto|PT. Eka Mas Republik|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |14|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|181.23.244.117|3128|Argentina|Buenos Aires|Telefonica de Argentina|
-|18|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|15|94.156.152.115|3128|South Africa|Centurion|Internet Magnate (Pty) Ltd|
+|16|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|17|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|18|103.141.150.191|8080|Indonesia|Margahayukencana|PRIMACOM|
 |19|27.71.136.68|16000|Vietnam|Bảo Lộc|Viettel Group|
-|20|103.129.172.141|8080|Indonesia|Purwokerto|PT. Eka Mas Republik|
+|20|203.175.126.229|8080|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
 
 
 
