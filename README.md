@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **74383** proxies at the latest update. Usable proxies are below.
+> Scraper found **74413** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35514|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35544|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|90|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|37553|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|9|184.82.244.15|8080|Thailand|Udon Thani|AIS-Fibre|
-|10|45.5.116.177|999|Guatemala|Guatemala City|Inversiones Grajeda Andrade S.A|
-|11|103.232.20.174|8080|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
-|12|190.15.211.43|8080|Argentina|Mendoza|Informática y Telecomunicaciones S.A.|
-|13|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|14|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|15|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|17|98.147.60.146|48678|United States|Honolulu|Spectrum|
-|18|103.180.119.182|8082|Indonesia|Banjaranyar|PT Persada Data Multimedia|
-|19|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|20|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|103.191.129.245|8020|Indonesia|Depok|PT Metro Ring Bersama|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|103.197.206.97|23654|Bangladesh|Dhaka|Cosmopolitan Communications Limited|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|14|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|15|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|16|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|17|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|18|203.188.251.50|8080|Bangladesh|Dhaka|Information Services Network Ltd|
+|19|190.60.41.26|999|Colombia|Chía|IFX NETWORKS COLOMBIA|
+|20|42.114.11.222|16000|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
