@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.232.52.162|8080|Japan|Ōita|Internet Initiative Japan Inc.|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
-|6|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|7|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|8|80.78.30.182|3128|Sweden|Malmo|ab stract|
-|9|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|10|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|11|212.110.188.195|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|13|61.29.96.146|8000|Australia|Albury|AAPT Limited|
-|14|152.32.77.213|8095|Philippines|Quezon City|ComClark Network & Technology Corp|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|212.110.188.189|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|17|110.136.95.23|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|18|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|19|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|20|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|42.114.11.222|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|8|119.110.75.50|63123|Indonesia|Bekasi|Maxindo|
+|9|1.54.175.190|16000|Vietnam|Hanoi|FPT Telecom Company|
+|10|192.177.139.168|8000|United States|San Jose|EGIHosting|
+|11|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|12|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|13|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|38.123.220.173|999|Mexico|Ixtlahuaca de Rayón|Cogent Communications|
+|15|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|147.28.240.216|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
