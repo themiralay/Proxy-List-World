@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.85.53.62|8080|Indonesia|Krajan Ngagel|PT Binerkahan Digital Telco|
-|2|42.114.11.222|16000|Vietnam|Hanoi|FPT Telecom Company|
-|3|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|1|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|2|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|3|27.71.142.16|16000|Vietnam|Bảo Lộc|Viettel Group|
 |4|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|7|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|8|147.28.240.217|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|9|147.28.240.217|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|8|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|147.28.240.217|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|11|147.28.240.217|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
 |12|147.28.240.200|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|13|157.180.121.252|51247|Finland|Helsinki|Hetzner Online GmbH|
-|14|152.53.194.46|8070|United States|Manassas|netcup GmbH|
-|15|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|16|102.222.173.34|8080|Botswana|Gaborone|Donya Digital (Pty) Ltd|
+|13|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|14|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|15|152.53.194.46|8070|United States|Manassas|netcup GmbH|
+|16|157.180.121.252|33691|Finland|Helsinki|Hetzner Online GmbH|
 |17|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|18|147.28.240.216|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|19|147.28.240.217|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|20|147.28.240.217|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|18|193.30.13.186|8080|Ecuador|Guayaquil|GEDATECU SA|
+|19|157.180.121.252|33691|Finland|Helsinki|Hetzner Online GmbH|
+|20|38.9.48.211|8080|Dominican Republic|Bella Vista|INVERSIONES BONAFER, SRL|
 
 
 
