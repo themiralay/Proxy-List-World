@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|27.71.136.68|16000|Vietnam|Bảo Lộc|Viettel Group|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|10|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|11|192.177.33.197|8000|United States|San Jose|EGIHosting|
-|12|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|14|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|15|182.253.38.179|3128|Indonesia|Yogyakarta|BIZNET|
-|16|38.41.27.150|11201|Venezuela|Caracas|MDS TELECOM C.A.|
-|17|96.0.146.77|80|Singapore|Singapore|Amazon.com|
-|18|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
-|19|147.28.240.215|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|20|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|4|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|5|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|7|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|8|103.133.26.119|8080|Indonesia|Cikarang|PT PHATRIA INTI PERSADA|
+|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|192.177.139.119|8000|United States|San Jose|EGIHosting|
+|11|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
+|13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|14|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|15|96.0.146.77|80|Singapore|Singapore|Amazon.com|
+|16|212.110.188.220|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|17|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|103.147.77.254|7777|Indonesia|Magetan|TRIDATA|
 
 
 
