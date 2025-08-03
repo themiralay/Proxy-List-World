@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|5|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|6|139.59.228.95|8118|Singapore|Singapore|DIGITALOCEAN|
 |7|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|8|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|9|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|10|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|11|223.206.53.75|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|12|164.163.42.44|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|14|143.208.57.165|999|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
-|15|89.249.62.8|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|17|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|160.119.228.146|12354|South Africa|Johannesburg|Web Squad Connect|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|164.163.42.44|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|103.26.177.42|1080|Indonesia|Temenggungan|PT Lintas Jaringan Nusantara|
+|11|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|13|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|160.25.48.33|9090|Indonesia|Bangsal Aceh|PT Shs Solusindo Network|
+|16|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|20|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 
 
 
