@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|3|51.159.159.73|80|France|Paris|SCALEWAY|
-|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|5|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|6|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|7|23.94.236.141|8080|United States|Los Angeles|HostPapa|
-|8|204.199.120.18|999|Colombia|Pasto|Level 3 Communications, Inc.|
-|9|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|11|103.227.187.75|8080|Indonesia|Sragikrajan|PT Master Star Network|
-|12|102.218.67.252|8080|South Africa|Cape Town|Netdirect Wireless Technology (Pty) Ltd|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|66.78.40.66|8880|United States|Liberty Lake|Aokigahara SRL|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|66.78.40.66|8880|United States|Liberty Lake|Aokigahara SRL|
+|9|77.83.246.56|3128|Poland|Mazovia|Global Connectivity Solutions LLP|
+|10|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|11|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|12|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
 |13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|16|27.71.131.186|16000|Vietnam|Bảo Lộc|Viettel Group|
-|17|147.28.240.215|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|18|144.76.159.121|8082|Germany|Falkenstein|Hetzner Online GmbH|
-|19|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|20|117.161.170.163|9447|China|Guangzhou|China Mobile communications corporation|
+|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|15|212.100.65.12|3129|Nigeria|Lagos|Autonomous System number for Cyber Space|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|193.43.149.72|8080|Syria|Al Mulayḩah|Syrian Telecom|
+|18|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|223.206.196.149|8080|Thailand|Changwat Sara Buri|Triple T Broadband Public Company Limited|
+|20|77.110.124.36|3128|United States|Charlotte|Aeza International LTD|
 
 
 
