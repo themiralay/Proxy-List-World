@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **74965** proxies at the latest update. Usable proxies are below.
+> Scraper found **74954** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35570|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35559|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|139|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38030|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|96.0.146.77|80|Singapore|Singapore|Amazon.com|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|43.246.200.73|8888|Bangladesh|Sonargaon|HelloTech Limited|
-|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
-|10|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|11|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|12|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|13|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|14|103.118.175.200|3127|Indonesia|Tigaraksa|PT Perwira Media Solusi|
-|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|16|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|212.110.188.213|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|19|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|20|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|3|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|4|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|5|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|6|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|9|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|10|38.46.235.5|8088|Indonesia|Boyolali|PT CYB Media Group|
+|11|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
+|12|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|13|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|16|147.28.240.217|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|17|103.187.86.3|8182|Indonesia|Pinrang|PT Satunol Digital Teknologi|
+|18|27.71.136.68|16000|Vietnam|Bảo Lộc|Viettel Group|
+|19|212.110.188.220|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|20|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
 
 
 
