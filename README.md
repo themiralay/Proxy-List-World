@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|182.253.109.5|8080|Indonesia|Semarang|Biznet Metronet|
-|3|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|6|27.79.133.107|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|152.53.194.46|8070|United States|Manassas|netcup GmbH|
-|9|147.28.240.213|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|10|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|14|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|15|27.71.142.16|16000|Vietnam|Bảo Lộc|Viettel Group|
-|16|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|17|164.163.42.45|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|164.163.42.9|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|20|212.110.188.220|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|4|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|5|103.167.171.134|8181|Indonesia|Jakarta|PT Rajeg Media Telekomunikasi|
+|6|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|7|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
+|8|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|9|61.29.96.146|8000|Australia|Albury|AAPT Limited|
+|10|124.158.190.132|64999|Indonesia|Jakarta|PT Jala Lintas Media|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|14|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|15|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|16|103.153.134.27|8090|Indonesia|Cikupa|WMINET|
+|17|185.200.38.53|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|18|67.43.236.18|17661|Canada|Montreal|GloboTech Communications|
+|19|147.28.240.218|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|147.28.240.217|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
