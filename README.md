@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|138|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38030|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|47.79.19.26|8118|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |3|27.71.136.68|16000|Vietnam|Bảo Lộc|Viettel Group|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|96.0.146.77|80|Singapore|Singapore|Amazon.com|
 |6|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
 |7|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|8|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|11|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |12|80.78.30.182|3128|Sweden|Malmo|ab stract|
 |13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|14|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
-|15|149.86.140.233|8080|Turkey|Reyhanlı|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|16|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|17|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|15|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|16|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
+|17|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
+|19|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|20|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 
 
 
