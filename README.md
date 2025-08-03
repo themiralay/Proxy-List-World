@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|2|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|103.191.129.245|8020|Indonesia|Depok|PT Metro Ring Bersama|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|103.197.206.97|23654|Bangladesh|Dhaka|Cosmopolitan Communications Limited|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|14|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|15|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|16|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|17|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|18|203.188.251.50|8080|Bangladesh|Dhaka|Information Services Network Ltd|
-|19|190.60.41.26|999|Colombia|Chía|IFX NETWORKS COLOMBIA|
-|20|42.114.11.222|16000|Vietnam|Hanoi|FPT Telecom Company|
+|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|14|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|15|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|16|27.71.142.16|16000|Vietnam|Bảo Lộc|Viettel Group|
+|17|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|18|40.192.69.102|3128|India|Hyderabad|Amazon.com, Inc.|
+|19|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|20|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
 
 
 
