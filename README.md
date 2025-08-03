@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|9|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|10|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|11|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|12|103.232.20.174|8080|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
-|13|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
-|14|188.125.169.196|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|15|103.60.181.46|8080|Indonesia|Cibinong|PT. Jala Lintas Media|
-|16|107.172.96.11|24283|United States|Santa Clara|HostPapa|
-|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|18|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|45.70.202.161|999|Ecuador|Cayambe|Ufinet Panama S.A.|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|6|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|7|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|8|47.236.37.129|18081|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|11|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|12|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|13|128.140.113.110|5153|Germany|Falkenstein|Hetzner Online GmbH|
+|14|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|15|103.38.102.142|8080|Indonesia|Kroya|LAXONET|
+|16|70.36.99.51|3128|United States|Los Angeles|Perfect International, Inc|
+|17|116.107.169.233|10001|Vietnam|Tuyên Quang|Viettel Corporation|
+|18|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|19|177.19.167.242|80|Brazil|Porto Alegre|Vivo|
+|20|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
 
 
 
