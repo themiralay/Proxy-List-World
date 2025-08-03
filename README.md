@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|182.253.109.5|8080|Indonesia|Semarang|Biznet Metronet|
-|5|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|8|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|9|147.28.240.213|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|10|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|11|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|12|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|14|42.114.11.222|16000|Vietnam|Hanoi|FPT Telecom Company|
-|15|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
-|16|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|17|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|19|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|2|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|3|182.253.109.5|8080|Indonesia|Semarang|Biznet Metronet|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|8|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|9|152.53.194.46|8053|United States|Manassas|netcup GmbH|
+|10|147.28.240.213|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|27.71.142.16|16000|Vietnam|Bảo Lộc|Viettel Group|
+|13|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|15|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|16|5.188.183.253|8080|Spain|Madrid|Melbikomas UAB|
+|17|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|103.124.137.150|20|Indonesia|Ungaran|Global Media Data Prima|
+|20|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
 
 
 
