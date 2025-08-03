@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|202.93.244.42|65432|Indonesia|Kamal|PT. Dutakom Wibawa Putra|
-|4|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|5|172.98.201.190|3128|United States|Dallas|Centrilogic|
-|6|147.28.240.215|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|7|152.53.194.46|8029|United States|Manassas|netcup GmbH|
-|8|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|9|147.28.240.200|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|1|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|3|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|4|27.79.133.107|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|6|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|9|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 |10|147.28.240.215|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|11|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|12|164.163.42.29|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|14|147.28.240.210|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|15|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|16|147.28.240.216|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|17|157.180.121.252|43523|Finland|Helsinki|Hetzner Online GmbH|
-|18|201.150.116.3|999|Mexico|Tetepango|Yesenia Ramirez Garcia|
-|19|152.53.194.46|8029|United States|Manassas|netcup GmbH|
-|20|147.28.240.218|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|11|152.53.194.46|8029|United States|Manassas|netcup GmbH|
+|12|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|13|147.28.240.200|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|14|147.28.240.215|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|15|164.163.42.29|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|157.180.121.252|51247|Finland|Helsinki|Hetzner Online GmbH|
+|17|147.28.240.210|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|18|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|19|147.28.240.216|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|147.28.240.215|443|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
