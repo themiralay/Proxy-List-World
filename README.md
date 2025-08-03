@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|182.253.109.5|8080|Indonesia|Semarang|Biznet Metronet|
-|7|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|147.28.240.213|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|11|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|14|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|15|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|16|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|164.163.42.9|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|164.163.42.45|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|42.114.11.222|16000|Vietnam|Hanoi|FPT Telecom Company|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|182.253.109.5|8080|Indonesia|Semarang|Biznet Metronet|
+|6|47.236.37.129|18081|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|152.53.194.46|8070|United States|Manassas|netcup GmbH|
+|8|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|9|147.28.240.213|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|42.114.11.222|16000|Vietnam|Hanoi|FPT Telecom Company|
+|12|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
+|13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|14|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|16|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|17|46.55.143.145|8080|Bulgaria|Kardzhali|DCC|
+|18|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|20|37.120.162.180|42824|Germany|Nuremberg|netcup GmbH|
 
 
 
