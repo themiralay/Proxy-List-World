@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|5|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|7|72.10.160.170|4105|Canada|Montreal|GloboTech Communications|
-|8|67.43.228.253|20543|Canada|Montreal|GloboTech Communications|
-|9|152.53.194.46|8065|United States|Manassas|netcup GmbH|
-|10|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|11|152.53.194.46|8065|United States|Manassas|netcup GmbH|
-|12|14.224.218.210|8080|Vietnam|Hanoi|VNPT|
-|13|147.28.240.200|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|14|157.180.121.252|43523|Finland|Helsinki|Hetzner Online GmbH|
-|15|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|16|147.28.240.215|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|17|152.53.194.46|8065|United States|Manassas|netcup GmbH|
-|18|185.200.37.41|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|19|190.94.213.244|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|20|72.10.160.90|6141|Canada|Montreal|GloboTech Communications|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|40.192.69.166|3128|India|Hyderabad|Amazon.com, Inc.|
+|3|40.192.65.41|3128|India|Hyderabad|Amazon.com, Inc.|
+|4|40.192.120.122|3128|India|Hyderabad|Amazon.com, Inc.|
+|5|40.192.69.15|3128|India|Hyderabad|Amazon.com, Inc.|
+|6|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|7|40.192.67.123|3128|India|Hyderabad|Amazon.com, Inc.|
+|8|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|9|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|10|204.199.139.72|999|Chile|Isla de Maipo|Ingbell Chile SPA|
+|11|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|12|14.225.212.81|3128|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|13|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
+|14|13.211.233.22|36619|Australia|Sydney|Amazon Technologies Inc.|
+|15|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|16|72.10.160.170|4105|Canada|Montreal|GloboTech Communications|
+|17|67.43.228.253|20543|Canada|Montreal|GloboTech Communications|
+|18|157.15.62.100|5050|Indonesia|Malang|AMAN ISP Customer Malang|
+|19|152.53.194.46|8065|United States|Manassas|netcup GmbH|
+|20|103.175.240.87|8080|Indonesia|Buaran|LDP|
 
 
 
