@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|3|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|5|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|6|66.78.40.66|8880|United States|Liberty Lake|Aokigahara SRL|
-|7|66.78.40.66|8880|United States|Liberty Lake|Aokigahara SRL|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|14|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
-|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|16|157.180.121.252|46206|Finland|Helsinki|Hetzner Online GmbH|
+|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|4|171.248.25.100|5101|Vietnam|Quận Mười|Viettel Corporation|
+|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|6|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|11|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|12|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|14|157.180.121.252|54315|Finland|Helsinki|Hetzner Online GmbH|
+|15|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|16|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
 |17|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|18|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|20|1.54.175.190|16000|Vietnam|Hanoi|FPT Telecom Company|
+|18|101.109.31.52|8080|Thailand|Laem Sing|TOT Public Company Limited|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|27.71.142.16|16000|Vietnam|Bảo Lộc|Viettel Group|
 
 
 
