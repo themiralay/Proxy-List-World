@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|27.71.136.68|16000|Vietnam|Bảo Lộc|Viettel Group|
-|3|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |4|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|7|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|8|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|9|164.163.42.42|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|164.163.42.24|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|12|103.187.86.3|8182|Indonesia|Pinrang|PT Satunol Digital Teknologi|
-|13|182.253.38.179|3128|Indonesia|Yogyakarta|BIZNET|
-|14|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|15|212.110.188.216|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|16|34.124.254.47|8888|Singapore|Singapore|Google LLC|
-|17|185.200.37.43|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|18|103.245.109.57|39355|Bangladesh|Paltan|ACE IT Networks Limited|
-|19|103.133.26.119|8080|Indonesia|Cikarang|PT PHATRIA INTI PERSADA|
-|20|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|8|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
+|9|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|10|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|11|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|12|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|13|212.110.188.220|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|34.48.171.130|33080|United States|Washington|Google LLC|
+|16|192.177.139.214|8000|United States|San Jose|EGIHosting|
+|17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|18|27.71.136.68|16000|Vietnam|Bảo Lộc|Viettel Group|
+|19|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|20|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
 
 
 
