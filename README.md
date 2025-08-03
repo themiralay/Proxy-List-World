@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|2|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|80.78.30.182|3128|Sweden|Malmo|ab stract|
 |3|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
 |4|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|5|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|5|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
 |6|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|7|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|8|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|9|45.225.120.36|40033|Brazil|Santo Amaro das Brotas|Centrosulnet Informatica Eireli|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|147.28.240.200|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|12|14.225.210.186|3129|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|13|147.28.240.210|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|14|157.180.121.252|43523|Finland|Helsinki|Hetzner Online GmbH|
-|15|67.43.236.20|16061|Canada|Montreal|GloboTech Communications|
-|16|51.159.159.73|80|France|Paris|SCALEWAY|
-|17|147.28.240.218|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|18|147.28.240.210|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|7|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|8|147.28.240.200|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|9|14.225.210.186|3129|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|10|157.180.121.252|43523|Finland|Helsinki|Hetzner Online GmbH|
+|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|12|147.28.240.210|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|13|223.204.117.217|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|14|51.159.159.73|80|France|Paris|SCALEWAY|
+|15|147.28.240.218|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|16|147.28.240.210|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|17|147.28.240.200|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|18|119.110.75.50|63123|Indonesia|Bekasi|Maxindo|
 |19|157.180.121.252|43523|Finland|Helsinki|Hetzner Online GmbH|
-|20|147.28.240.200|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|152.53.194.46|8053|United States|Manassas|netcup GmbH|
 
 
 
