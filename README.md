@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|96.0.146.77|80|Singapore|Singapore|Amazon.com|
-|3|34.124.254.47|8888|Singapore|Singapore|Google LLC|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|27.71.136.68|16000|Vietnam|Bảo Lộc|Viettel Group|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|11|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|12|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|13|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|15|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|16|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|17|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|19|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|20|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|2|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|3|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|9|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|10|96.0.146.77|80|Singapore|Singapore|Amazon.com|
+|11|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|27.71.136.68|16000|Vietnam|Bảo Lộc|Viettel Group|
+|14|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|15|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|18|212.110.188.220|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|19|164.163.42.40|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|103.187.86.3|8182|Indonesia|Pinrang|PT Satunol Digital Teknologi|
 
 
 
