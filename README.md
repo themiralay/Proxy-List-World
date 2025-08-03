@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|11|124.83.110.164|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|12|91.229.78.250|8448|Ukraine|Kyiv|Zemlyaniy Dmitro Leonidovich|
+|8|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|9|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 |13|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|15|42.114.11.222|16000|Vietnam|Hanoi|FPT Telecom Company|
-|16|76.169.128.104|8080|United States|Santa Ana|Charter Communications|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|103.169.187.225|8080|Indonesia|Ponorogo|PT. PRATAMA HASTA UTAMA SOLUSINDO|
-|19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|20|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
+|14|103.38.102.142|8080|Indonesia|Kroya|LAXONET|
+|15|40.192.69.188|3128|India|Hyderabad|Amazon.com, Inc.|
+|16|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
+|17|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|18|167.250.50.2|999|Venezuela|La Guaira|CORPORACIÓN GALA IT, C.A.|
+|19|131.255.227.168|3128|Brazil|Marabá|IR Tecnologia (Fibralink)|
+|20|47.236.37.129|18081|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 
