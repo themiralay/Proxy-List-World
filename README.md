@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|5|40.192.69.166|3128|India|Hyderabad|Amazon.com, Inc.|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|40.192.65.41|3128|India|Hyderabad|Amazon.com, Inc.|
-|8|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|13.211.233.22|36619|Australia|Sydney|Amazon Technologies Inc.|
-|11|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
-|12|147.28.240.200|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|13|80.78.30.182|3128|Sweden|Malmo|ab stract|
-|14|147.28.240.215|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|16|147.28.240.215|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|17|147.28.240.217|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|18|147.28.240.218|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|19|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|20|164.163.42.29|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|2|40.192.69.4|3128|India|Hyderabad|Amazon.com, Inc.|
+|3|40.192.67.123|3128|India|Hyderabad|Amazon.com, Inc.|
+|4|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|5|40.192.69.73|3128|India|Hyderabad|Amazon.com, Inc.|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|11|40.192.69.166|3128|India|Hyderabad|Amazon.com, Inc.|
+|12|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|13|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
+|14|40.192.69.15|3128|India|Hyderabad|Amazon.com, Inc.|
+|15|14.225.212.81|3128|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|157.180.121.252|46206|Finland|Helsinki|Hetzner Online GmbH|
+|18|143.208.57.162|999|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
+|19|147.28.240.200|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|147.28.240.215|443|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
