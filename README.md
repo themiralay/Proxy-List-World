@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|6|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|182.253.109.5|8080|Indonesia|Semarang|Biznet Metronet|
+|3|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|182.253.109.5|8080|Indonesia|Semarang|Biznet Metronet|
-|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|10|103.151.247.246|8081|Indonesia|Polewali|MANAKARRANET|
-|11|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|13|47.236.37.129|18081|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|147.28.240.213|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|17|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|18|42.114.11.222|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|20|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
+|8|5.188.183.253|8080|Spain|Madrid|Melbikomas UAB|
+|9|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|10|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|11|152.53.194.46|8029|United States|Manassas|netcup GmbH|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|14|147.28.240.213|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|15|103.55.22.236|8080|Indonesia|Tanjungbalai|PT General Media Network|
+|16|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|17|202.5.37.104|17382|Bangladesh|Comilla|BBTS-NEW|
+|18|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
+|19|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|20|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
 
 
 
