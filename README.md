@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|2|3.135.6.138|443|United States|Dublin|Amazon.com, Inc.|
 |3|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
 |4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 |5|3.135.6.138|443|United States|Dublin|Amazon.com, Inc.|
-|6|3.135.6.138|443|United States|Dublin|Amazon.com, Inc.|
-|7|112.216.83.10|3128|South Korea|Siheung-si|LG DACOM Corporation|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|152.53.194.46|8029|United States|Manassas|netcup GmbH|
-|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|119.93.87.65|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|12|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|13|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|14|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|16|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
-|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|6|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|7|152.53.194.46|8029|United States|Manassas|netcup GmbH|
+|8|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|9|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|11|38.156.75.174|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|12|147.28.240.217|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|13|147.28.240.215|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|14|147.28.240.217|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|15|147.28.240.218|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|16|147.28.240.215|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|17|147.28.240.217|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|18|147.28.240.216|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|19|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|67.43.228.250|13247|Canada|Montreal|GloboTech Communications|
 
 
 
