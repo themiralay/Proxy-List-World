@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|14.225.212.81|3128|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|2|40.192.67.123|3128|India|Hyderabad|Amazon.com, Inc.|
 |3|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |4|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|5|42.114.11.222|16000|Vietnam|Hanoi|FPT Telecom Company|
-|6|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|10|181.129.97.38|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
-|11|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|40.192.69.166|3128|India|Hyderabad|Amazon.com, Inc.|
-|14|40.192.67.123|3128|India|Hyderabad|Amazon.com, Inc.|
-|15|51.159.159.73|80|France|Paris|SCALEWAY|
-|16|185.200.38.53|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|17|80.78.30.182|3128|Sweden|Malmo|ab stract|
-|18|67.43.228.251|4519|Canada|Montreal|GloboTech Communications|
-|19|147.28.240.218|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|20|157.180.121.252|43523|Finland|Helsinki|Hetzner Online GmbH|
+|5|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|6|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|7|14.225.212.81|3128|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|8|40.192.69.4|3128|India|Hyderabad|Amazon.com, Inc.|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
+|13|181.129.97.38|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
+|14|177.234.210.56|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|16|40.192.120.122|3128|India|Hyderabad|Amazon.com, Inc.|
+|17|40.192.69.73|3128|India|Hyderabad|Amazon.com, Inc.|
+|18|49.48.68.109|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|19|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|20|51.159.159.73|80|France|Paris|SCALEWAY|
 
 
 
