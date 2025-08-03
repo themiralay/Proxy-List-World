@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |4|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|8|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|9|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|6|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|7|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|80.78.30.182|3128|Sweden|Malmo|ab stract|
 |11|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|116.107.169.233|10006|Vietnam|Tuyên Quang|Viettel Corporation|
-|14|80.78.30.182|3128|Sweden|Malmo|ab stract|
-|15|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
-|16|181.129.97.38|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
-|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|192.46.230.254|3128|Singapore|Singapore|Akamai Technologies, Inc.|
+|15|188.121.104.134|3128|Iran|Tehran|Noyan Abr Arvan Co. ( Private Joint Stock)|
+|16|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|17|103.247.22.15|1111|Indonesia|Purbalingga|PT wifian Solution|
+|18|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
 |19|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
-|20|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|20|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
