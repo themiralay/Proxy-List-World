@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|3.135.6.138|443|United States|Dublin|Amazon.com, Inc.|
-|5|152.53.194.46|8029|United States|Manassas|netcup GmbH|
+|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|3.135.6.138|443|United States|Dublin|Amazon.com, Inc.|
+|4|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|5|152.53.194.46|8053|United States|Manassas|netcup GmbH|
 |6|3.135.6.138|443|United States|Dublin|Amazon.com, Inc.|
-|7|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|8|190.52.99.193|999|Venezuela|Caracas|Gold Data USA Inc|
-|9|45.224.22.63|999|Ecuador|Riobamba|Ufinet Panama S.A.|
-|10|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|12|123.25.234.143|8090|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|14|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|15|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|17|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|18|103.154.230.179|8080|Indonesia|Bilo|DIGITNET|
-|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|20|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|7|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|9|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|10|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|11|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|12|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|13|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|14|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|38.56.213.29|999|Peru|Santo Tomas|YOTTALAN|
+|16|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|17|51.159.159.73|80|France|Paris|SCALEWAY|
+|18|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|19|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|20|147.28.240.216|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
