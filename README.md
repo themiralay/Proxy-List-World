@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|96.0.146.77|80|Singapore|Singapore|Amazon.com|
-|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|4|80.78.30.182|3128|Sweden|Malmo|ab stract|
-|5|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|10|160.187.191.3|8082|Bangladesh|Puthia|Race Online Limited|
-|11|45.168.244.16|8080|Brazil|São João Batista do Glória|Maxima Internet Banda Larga|
-|12|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|13|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
-|14|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|164.163.42.42|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|164.163.42.24|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|19|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|20|107.172.96.11|24283|United States|Santa Clara|HostPapa|
+|3|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|4|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
+|7|27.71.136.68|16000|Vietnam|Bảo Lộc|Viettel Group|
+|8|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|9|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|10|103.153.246.142|8181|Indonesia|Siwa|PRIMAHOME|
+|11|107.172.96.11|24283|United States|Santa Clara|HostPapa|
+|12|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|16|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|17|45.70.236.121|8080|Ecuador|Simón Bolívar|Ufinet Panama S.A.|
+|18|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|19|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|20|177.200.80.6|11221|Brazil|Senador Pompeu|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
 
 
 
