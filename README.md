@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 |4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 |5|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |7|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
 |8|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|9|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|10|116.107.169.233|10001|Vietnam|Tuyên Quang|Viettel Corporation|
-|11|164.163.42.44|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|13|157.66.16.63|8181|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|14|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|16|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|17|101.255.210.1|1111|Indonesia|Tangerang|PT Remala Abadi|
-|18|212.110.188.216|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|164.163.42.44|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|15|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|16|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|17|77.110.114.19|8118|United States|Charlotte|Aeza International LTD|
+|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|19|38.211.24.26|8080|Indonesia|West Java|PT Putra Garsel Interkoneksi|
+|20|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
