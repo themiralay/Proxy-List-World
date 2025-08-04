@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|202.154.18.56|8080|Indonesia|Babat|DIGITNET|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|27.79.183.250|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|202.232.52.162|8080|Japan|Ōita|Internet Initiative Japan Inc.|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|171.228.181.175|2001|Vietnam|Hanoi|Viettel Corporation|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|27.79.183.250|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|15|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|12|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|14|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|15|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
 |16|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
 |17|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|18|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|18|65.38.213.154|8881|Puerto Rico|San Juan|AT&T Mobility Puerto Rico|
 |19|27.71.136.68|16000|Vietnam|Bảo Lộc|Viettel Group|
-|20|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
