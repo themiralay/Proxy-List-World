@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4199** proxies at the latest update. Usable proxies are below.
+> Scraper found **4117** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|155|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|73|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2818|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|139.59.228.95|8118|Singapore|Singapore|DIGITALOCEAN|
-|3|58.186.92.254|16000|Vietnam|Hanoi|FPT Telecom Company|
-|4|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|10|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|11|23.94.236.141|8080|United States|Los Angeles|HostPapa|
-|12|157.20.128.189|8080|Indonesia|Sagaranten|PT Citra Meta Data|
-|13|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
-|14|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|15|41.254.48.66|1981|Libya|Tripoli|LTT Network Backbone and POPs|
-|16|13.232.213.216|3128|India|Mumbai|Amazon Technologies Inc.|
-|17|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|18|41.249.136.65|39811|Morocco|Salé|ADSL Maroc telecom|
-|19|46.99.222.167|8080|Kosovo|Pristina|IPKO Telecommunications LLC|
-|20|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|2|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|3|120.89.91.222|8181|Indonesia|Cianjur|PT. Java Digital Nusantara|
+|4|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|5|157.173.101.217|3128|Germany|Düsseldorf|Contabo GmbH|
+|6|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|7|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|8|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|9|154.64.215.193|999|United States|Jacksonville|OSNET Wireless|
+|10|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|11|188.125.169.101|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|12|103.124.197.26|8090|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
+|13|37.120.162.180|42824|Germany|Nuremberg|netcup GmbH|
+|14|45.168.244.16|8080|Brazil|São João Batista do Glória|Maxima Internet Banda Larga|
+|15|115.72.4.69|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|16|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
+|17|8.208.94.223|3128|United Kingdom|London|Alibaba.com Singapore E-Commerce Private Limited|
+|18|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|19|160.187.191.3|8082|Bangladesh|Puthia|Race Online Limited|
+|20|140.227.81.191|3128|Japan|Chiyoda|InfoSphere|
 
 
 
