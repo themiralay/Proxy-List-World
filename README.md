@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|112.216.83.10|3128|South Korea|Siheung-si|LG DACOM Corporation|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|7|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|8|45.66.157.22|8080|United States|Los Angeles|Enzu Inc|
-|9|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|10|182.16.171.101|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|11|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|12|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|13|38.172.128.104|999|Peru|Lima region|Conex TV E.I.R.L.|
-|14|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|15|116.68.170.117|8080|Indonesia|Jakarta|Asia Pacific Network Information Center|
-|16|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|17|58.186.92.254|16000|Vietnam|Hanoi|FPT Telecom Company|
-|18|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|19|181.129.97.38|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
-|20|103.184.56.240|8080|Indonesia|Bandung|PT Gading Bhakti Utama|
+|2|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|112.216.83.10|3128|South Korea|Siheung-si|LG DACOM Corporation|
+|5|92.58.181.171|7575|Spain|Madrid|UNI2|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|1.52.196.1|16000|Vietnam|Ha Long|Vietnam Internet Network Information Center|
+|8|103.124.197.230|8080|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
+|9|167.172.49.33|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|11|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|12|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
+|15|181.129.97.38|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
+|16|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|203.172.225.227|8080|Thailand|Pom Prap Sattru Phai|Ministry of Education - EMISC|
+|19|220.81.123.23|48678|South Korea|Daegu|Korea Telecom|
+|20|23.94.236.141|8080|United States|Los Angeles|HostPapa|
 
 
 
