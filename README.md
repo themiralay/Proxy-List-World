@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
 |3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|217.160.224.54|8118|Germany|Berlin|IONOS SE|
-|8|132.255.21.123|999|Colombia|Santa Marta|Media Commerce Partners S.A|
-|9|92.58.181.171|7575|Spain|Madrid|UNI2|
-|10|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|11|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|58.186.92.254|16000|Vietnam|Hanoi|FPT Telecom Company|
-|14|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|15|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|16|13.211.233.22|36619|Australia|Sydney|Amazon Technologies Inc.|
-|17|160.22.192.42|8080|Indonesia|Bekasi|PT Elemen Jaringan Nusantara|
-|18|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|19|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|112.216.83.10|3128|South Korea|Siheung-si|LG DACOM Corporation|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|6|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|7|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|8|167.172.49.33|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|10|181.129.97.38|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
+|11|103.51.205.168|8080|Indonesia|Karanganyar|Lintas Data Prima, PT|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|13|70.186.128.126|8080|United States|Oklahoma City|Cox Communications Inc.|
+|14|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|23.94.236.141|8080|United States|Los Angeles|HostPapa|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|19|183.178.50.58|8080|Hong Kong|Kwai Chung|Hong Kong Broadband Network Ltd|
+|20|125.27.38.250|8080|Thailand|Bangkok|TOT Public Company Limited|
 
 
 
