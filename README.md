@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|2|112.216.83.10|3128|South Korea|Siheung-si|LG DACOM Corporation|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|112.216.83.10|3128|South Korea|Siheung-si|LG DACOM Corporation|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|6|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|7|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|11|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|12|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|13|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|16|181.129.97.38|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
-|17|190.61.84.166|9812|Costa Rica|San José|Ufinet Costa Rica|
-|18|34.48.171.130|33080|United States|Washington|Google LLC|
-|19|147.28.240.215|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|20|72.10.160.90|30089|Canada|Montreal|GloboTech Communications|
+|10|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|11|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|12|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|14|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|15|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|147.28.240.215|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|18|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|19|147.28.240.216|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|147.28.240.217|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
