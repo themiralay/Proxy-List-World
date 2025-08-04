@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
-|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|1|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|4|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|12|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|14|80.78.30.182|3128|Sweden|Malmo|ab stract|
-|15|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|16|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|164.163.42.56|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|20|103.169.255.194|6080|Indonesia|Kedungsumur|PT Master Star Network|
+|4|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|8|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|11|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|12|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|13|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|15|164.163.42.56|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|164.163.42.43|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
+|18|164.163.42.22|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
