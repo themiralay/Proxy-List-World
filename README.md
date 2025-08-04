@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|58.187.70.32|16000|Vietnam|Hanoi|FPT Telecom Company|
 |3|42.118.74.12|16000|Vietnam|Hanoi|FPT Telecom Company|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|4|209.121.164.51|31147|Canada|Burnaby|TELUS Communications Inc.|
+|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
 |6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|7|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|148.244.181.138|8080|Mexico|Cunduacán|Alestra, S. de R.L. de C.V.|
-|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|11|37.220.139.219|8080|Hungary|Budapest|ACE Telecom Kft|
-|12|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|13|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|18|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|19|80.78.30.182|3128|Sweden|Malmo|ab stract|
-|20|149.86.142.194|8080|Türkiye|Istanbul|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|7|116.103.143.179|1004|Vietnam|Buon Ma Thuot|Viettel Corporation|
+|8|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|12|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|13|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
+|15|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|16|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|17|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|18|37.220.139.219|8080|Hungary|Budapest|ACE Telecom Kft|
+|19|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
+|20|51.81.220.14|7777|United States|Hillsboro|OVH SAS|
 
 
 
