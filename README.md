@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|139.59.228.95|8118|Singapore|Singapore|DIGITALOCEAN|
-|3|157.20.252.228|3127|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
-|4|112.216.83.10|3128|South Korea|Siheung-si|LG DACOM Corporation|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|103.153.34.2|1111|Indonesia|Jatiwangi|JMExpress|
-|9|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|13|1.52.196.1|16000|Vietnam|Ha Long|Vietnam Internet Network Information Center|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|58.186.92.254|16000|Vietnam|Hanoi|FPT Telecom Company|
-|16|103.13.234.18|8080|Indonesia|Sintang|PT PT Disafa Cahaya Utama|
-|17|182.16.171.101|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|18|181.78.83.3|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
-|19|103.81.64.89|8080|Indonesia|Bandar Lampung|QIUNET|
-|20|187.61.98.7|8080|Brazil|Palmeirândia|CINTE Telecom Comercio e Servicos Ltda|
+|2|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|92.58.181.171|7575|Spain|Madrid|UNI2|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|9|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|10|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|11|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|12|159.192.112.104|8999|Thailand|Sattahip|CAT Telecom Public Company Limited|
+|13|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|14|200.215.229.33|999|Peru|Cusco|Gpon Networks S.A.C.|
+|15|45.231.221.193|999|Mexico|Tijuana|Distrokom S De RL De CV|
+|16|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|181.129.97.38|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|1.52.196.1|16000|Vietnam|Ha Long|Vietnam Internet Network Information Center|
+|20|27.79.204.217|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
