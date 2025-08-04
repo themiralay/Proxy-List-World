@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|139.59.228.95|8118|Singapore|Singapore|DIGITALOCEAN|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|9|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|10|41.249.136.65|39811|Morocco|Salé|ADSL Maroc telecom|
-|11|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|12|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|13|80.78.30.182|3128|Sweden|Malmo|ab stract|
-|14|36.64.162.194|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|15|120.89.91.222|8181|Indonesia|Cianjur|PT. Java Digital Nusantara|
-|16|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|185.200.38.53|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|19|88.1.159.1|3128|Spain|Tarancón|Telefonica de Espana SAU|
-|20|147.28.240.214|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|3|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|103.193.144.13|8080|Indonesia|Meureubo|PT Lintas Jaringan Nusantara|
+|7|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|8|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
+|9|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|10|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|11|27.79.204.217|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|13|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|14|103.154.230.130|8080|Indonesia|Bilo|DIGITNET|
+|15|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|16|181.78.82.210|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|19|66.27.58.70|8080|United States|Hawthorne|Spectrum|
+|20|103.162.16.109|8080|Indonesia|Parenggan|PT Mega Data Perkasa|
 
 
 
