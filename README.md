@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|2|139.59.228.95|8118|Singapore|Singapore|DIGITALOCEAN|
 |3|112.216.83.10|3128|South Korea|Siheung-si|LG DACOM Corporation|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|4|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|157.173.101.217|3128|Germany|Düsseldorf|Contabo GmbH|
 |8|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
 |9|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|10|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|14|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|103.231.236.239|8182|Indonesia|Randudongkal|PT Level Indodata Teknologi|
-|17|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|19|200.215.229.33|999|Peru|Cusco|Gpon Networks S.A.C.|
-|20|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|10|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|11|103.137.91.250|8080|Laos|Vientiane|SLT Network Co., LTD|
+|12|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|13|103.151.226.133|8080|Indonesia|Soreang|URBANACCESS|
+|14|13.232.213.216|3128|India|Mumbai|Amazon Technologies Inc.|
+|15|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|16|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|17|58.186.92.254|16000|Vietnam|Hanoi|FPT Telecom Company|
+|18|94.136.143.92|8888|Slovakia|Michalovce|Minet-sk|
+|19|13.211.233.22|36619|Australia|Sydney|Amazon Technologies Inc.|
+|20|181.78.83.3|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
 
 
 
