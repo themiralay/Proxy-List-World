@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|65.38.213.154|8881|Puerto Rico|San Juan|AT&T Mobility Puerto Rico|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|9|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|11|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|12|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|14|27.71.136.68|16000|Vietnam|Bảo Lộc|Viettel Group|
-|15|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|16|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|19|27.79.183.250|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|27.79.183.250|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|9|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|10|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|11|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|14|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|15|27.71.136.68|16000|Vietnam|Bảo Lộc|Viettel Group|
+|16|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|17|103.160.68.213|8080|Indonesia|Surabaya|PT Gayatri Lintas Nusantara|
+|18|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|19|103.133.61.221|8181|Indonesia|Surabaya|TLINK|
+|20|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
 
 
 
