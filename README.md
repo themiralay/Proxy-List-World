@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|58.186.92.254|16000|Vietnam|Hanoi|FPT Telecom Company|
+|2|23.94.236.141|8080|United States|Los Angeles|HostPapa|
 |3|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|4|80.78.30.182|3128|Sweden|Malmo|ab stract|
-|5|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|6|103.191.219.31|7777|Indonesia|Sumber|PT Replay Inti Media|
-|7|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|8|43.153.28.68|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|9|1.52.196.1|16000|Vietnam|Ha Long|Vietnam Internet Network Information Center|
-|10|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|11|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|12|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|13|181.129.97.38|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
-|14|152.53.194.46|8051|United States|Manassas|netcup GmbH|
-|15|144.76.159.121|8082|Germany|Falkenstein|Hetzner Online GmbH|
-|16|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|17|147.28.240.218|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|18|147.28.240.200|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|19|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|20|41.249.136.65|39811|Morocco|Salé|ADSL Maroc telecom|
+|4|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|5|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|6|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|7|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|8|13.232.213.216|3128|India|Mumbai|Amazon Technologies Inc.|
+|9|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|10|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|11|43.153.28.68|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|12|43.153.28.68|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|13|122.52.81.190|8081|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|15|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|16|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|17|181.129.97.38|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
+|18|147.28.240.218|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|19|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|144.76.159.121|8082|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
