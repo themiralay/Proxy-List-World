@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
-|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|112.216.83.10|3128|South Korea|Siheung-si|LG DACOM Corporation|
-|9|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|10|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|11|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|12|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|13|13.232.213.216|3128|India|Mumbai|Amazon Technologies Inc.|
-|14|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|15|190.61.84.166|9812|Costa Rica|San José|Ufinet Costa Rica|
-|16|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|17|147.28.240.217|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|18|147.28.240.218|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|19|147.28.240.210|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|20|147.28.240.200|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|9|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|10|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|11|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|12|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|13|152.53.194.46|8065|United States|Manassas|netcup GmbH|
+|14|103.138.71.133|8085|Indonesia|Kurintji|PT Centronet Data Indonesia|
+|15|77.110.114.19|8118|United States|Charlotte|Aeza International LTD|
+|16|13.232.213.216|3128|India|Mumbai|Amazon Technologies Inc.|
+|17|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|18|147.28.240.217|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|19|147.28.240.218|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 
 
 
