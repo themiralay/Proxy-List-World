@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|80.78.30.182|3128|Sweden|Malmo|ab stract|
-|9|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|10|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|13|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|14|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|15|200.35.148.98|999|Venezuela|Caracas|RED DOT TECHNOLOGIES, C.A.|
-|16|103.153.135.90|8080|Indonesia|Curug|WMINET|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|49.48.202.196|8080|Thailand|Nakhon Pathom|Triple T Broadband Public Company Limited|
-|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|20|161.248.169.146|8080|Philippines|Bacolod City|GNET TECHNOLOGIES OPC main|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|9|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|10|109.74.132.178|8080|Russia|Moscow|OOO WestCall Ltd|
+|11|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|15|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|18|181.119.67.133|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
 
 
 
