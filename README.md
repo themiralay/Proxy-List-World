@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|73|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2818|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
 |3|23.94.236.141|8080|United States|Los Angeles|HostPapa|
-|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|103.145.34.10|55443|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
-|6|157.173.101.217|3128|Germany|Düsseldorf|Contabo GmbH|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
-|9|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|10|80.78.30.182|3128|Sweden|Malmo|ab stract|
-|11|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
-|12|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|13|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|14|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|15|45.168.244.16|8080|Brazil|São João Batista do Glória|Maxima Internet Banda Larga|
-|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|17|103.186.193.135|8080|Indonesia|Pacitan|PT Lentera Digital Nusantara|
-|18|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|19|180.180.151.12|8080|Thailand|Pattaya|TOT Public Company Limited|
-|20|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|6|172.98.201.190|3128|United States|Dallas|Centrilogic|
+|7|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
+|8|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|9|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|10|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|11|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|13|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|14|49.0.33.133|27039|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
+|15|186.0.144.81|9797|Brazil|Araçatuba|Tellius Telecomunicacoes DAS Americas Ltda|
+|16|43.153.28.68|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|17|103.193.144.13|8080|Indonesia|Meureubo|PT Lintas Jaringan Nusantara|
+|18|147.75.101.247|10011|The Netherlands|Amsterdam|Packet Host, Inc.|
+|19|157.100.6.202|999|Ecuador|Quito|Telconet S.A|
+|20|140.227.81.191|3128|Japan|Chiyoda|InfoSphere|
 
 
 
