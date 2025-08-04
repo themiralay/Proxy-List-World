@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|3|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|4|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|7|103.247.22.189|8080|Indonesia|Banyumas|PT wifian Solution|
-|8|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|9|183.88.214.84|8080|Thailand|Chon Buri|Triple T Broadband Public Company Limited|
-|10|103.19.59.1|3127|Indonesia|Madiun|BITSNET|
-|11|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|12|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|13|43.153.28.68|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|14|13.232.213.216|3128|India|Mumbai|Amazon Technologies Inc.|
-|15|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|16|103.151.236.69|8082|Pakistan|Lahore|LAHORE EXPRESS (PRIVATE) LIMTED|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|147.28.240.218|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|19|147.28.240.210|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|20|147.28.240.215|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|7|58.186.92.254|16000|Vietnam|Hanoi|FPT Telecom Company|
+|8|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|9|43.153.28.68|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|10|43.153.28.68|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|11|103.214.103.19|8083|Indonesia|Deli Tua|SMARTPLUS|
+|12|203.189.96.232|80|Japan|Chiyoda City|GMO Internet Group, Inc.|
+|13|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|15|182.93.75.162|8080|Nepal|Kathmandu|Subisu Cablenet|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|147.28.240.218|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|18|147.28.240.210|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|19|181.129.97.38|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
+|20|67.43.228.250|16637|Canada|Montreal|GloboTech Communications|
 
 
 
