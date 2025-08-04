@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|77.110.114.19|8118|United States|Charlotte|Aeza International LTD|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|11|147.28.240.214|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|12|101.255.69.26|8080|Indonesia|Jakarta|PT Remala Abadi|
-|13|147.28.240.218|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|14|147.28.240.215|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|15|147.28.240.216|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|16|147.28.240.216|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|17|103.189.249.204|1111|Indonesia|Krajan Dukuhseti|PT Berkah Media Kusuma Vision|
-|18|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|19|46.161.194.74|8085|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|20|185.200.38.53|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|1.52.196.1|16000|Vietnam|Ha Long|Vietnam Internet Network Information Center|
+|9|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|11|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|14|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|15|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|16|85.117.56.41|8080|Georgia|Marneuli|Caucasus Online Ltd.|
+|17|103.138.71.133|8085|Indonesia|Kurintji|PT Centronet Data Indonesia|
+|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|19|147.28.240.214|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
