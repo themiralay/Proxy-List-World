@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|3|120.89.91.222|8181|Indonesia|Cianjur|PT. Java Digital Nusantara|
-|4|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|5|157.173.101.217|3128|Germany|Düsseldorf|Contabo GmbH|
-|6|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|7|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|8|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|9|154.64.215.193|999|United States|Jacksonville|OSNET Wireless|
-|10|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|11|188.125.169.101|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|12|103.124.197.26|8090|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
-|13|37.120.162.180|42824|Germany|Nuremberg|netcup GmbH|
-|14|45.168.244.16|8080|Brazil|São João Batista do Glória|Maxima Internet Banda Larga|
-|15|115.72.4.69|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|16|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
-|17|8.208.94.223|3128|United Kingdom|London|Alibaba.com Singapore E-Commerce Private Limited|
-|18|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|19|160.187.191.3|8082|Bangladesh|Puthia|Race Online Limited|
-|20|140.227.81.191|3128|Japan|Chiyoda|InfoSphere|
+|3|23.94.236.141|8080|United States|Los Angeles|HostPapa|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|103.145.34.10|55443|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
+|6|157.173.101.217|3128|Germany|Düsseldorf|Contabo GmbH|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
+|9|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|10|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|11|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
+|12|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|13|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|15|45.168.244.16|8080|Brazil|São João Batista do Glória|Maxima Internet Banda Larga|
+|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|17|103.186.193.135|8080|Indonesia|Pacitan|PT Lentera Digital Nusantara|
+|18|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|19|180.180.151.12|8080|Thailand|Pattaya|TOT Public Company Limited|
+|20|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
 
 
 
