@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|202.232.52.162|8080|Japan|Ōita|Internet Initiative Japan Inc.|
-|3|115.72.4.69|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|2|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 |4|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|7|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|5|122.3.207.67|8086|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|6|157.173.101.217|3128|Germany|Düsseldorf|Contabo GmbH|
+|7|192.177.139.220|8000|United States|San Jose|EGIHosting|
 |8|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|9|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|10|91.229.78.250|8448|Ukraine|Kyiv|Zemlyaniy Dmitro Leonidovich|
-|11|147.75.101.247|10011|The Netherlands|Amsterdam|Packet Host, Inc.|
-|12|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|13|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|14|102.39.233.4|8080|South Africa|Cape Town|Vox Telecommunications (Pty) Limited|
-|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|58.186.92.254|16000|Vietnam|Hanoi|FPT Telecom Company|
-|18|147.28.240.217|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|19|149.86.142.84|8080|Türkiye|Istanbul|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|20|103.42.118.29|8080|Indonesia|Batam|PT Kusuma Dinatha Jaya Abadi|
+|9|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|10|124.105.180.29|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|11|41.249.136.65|39811|Morocco|Salé|ADSL Maroc telecom|
+|12|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
+|15|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|17|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|18|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|19|23.94.236.141|8080|United States|Los Angeles|HostPapa|
+|20|23.94.236.141|8080|United States|Los Angeles|HostPapa|
 
 
 
