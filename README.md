@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|192.177.139.214|8000|United States|San Jose|EGIHosting|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
 |7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|9|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|10|180.92.224.125|8080|Bangladesh|Dhaka|Information Services Network Ltd|
-|11|38.211.24.18|8080|Indonesia|West Java|PT Putra Garsel Interkoneksi|
-|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|13|191.101.190.207|8080|Singapore|Singapore|PT Perwira Media Solusi|
-|14|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|16|208.102.24.225|8888|United States|Harrison|Fuse Internet Access|
-|17|208.102.24.225|8888|United States|Harrison|Fuse Internet Access|
-|18|67.43.236.20|31951|Canada|Montreal|GloboTech Communications|
-|19|157.180.121.252|45040|Finland|Helsinki|Hetzner Online GmbH|
-|20|67.43.228.253|25591|Canada|Montreal|GloboTech Communications|
+|8|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|9|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|10|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|11|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|13|13.211.233.22|36619|Australia|Sydney|Amazon Technologies Inc.|
+|14|187.190.114.60|999|Mexico|Poza Rica|Total Play Telecomunicaciones SA De CV|
+|15|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|17|1.52.196.1|16000|Vietnam|Ha Long|Vietnam Internet Network Information Center|
+|18|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|19|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|20|45.173.7.10|999|Colombia|Bogotá|Columbus Networks Colombia|
 
 
 
