@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|112.211.43.239|8080|Philippines|Pasay|Philippine Long Distance Telephone Co.|
-|3|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|4|70.36.99.51|3128|United States|Los Angeles|Perfect International, Inc|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|103.238.232.182|1111|Indonesia|Bandung|PT Digital Netcom Solution|
+|4|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
 |5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|70.36.99.51|3128|United States|Los Angeles|Perfect International, Inc|
 |8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|192.177.139.220|8000|United States|San Jose|EGIHosting|
-|13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|14|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|15|13.211.233.22|36619|Australia|Sydney|Amazon Technologies Inc.|
-|16|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|18|41.249.136.65|39811|Morocco|Salé|ADSL Maroc telecom|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|45.4.0.18|999|Chile|Santiago|Tlink SPA|
+|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|10|115.72.160.205|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|11|115.72.4.69|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|12|152.231.29.135|999|Colombia|La Jagua de Ibirico|Ufinet Panama S.A.|
+|13|160.187.191.3|8082|Bangladesh|Puthia|Race Online Limited|
+|14|157.173.101.217|3128|Germany|Düsseldorf|Contabo GmbH|
+|15|103.156.86.76|8080|Indonesia|Palopo|PT Chacha Networking System|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|18|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|20|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
 
 
 
