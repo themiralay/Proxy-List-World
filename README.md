@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|5|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|38.183.146.77|8090|Indonesia|Weleri|PT Ikhlas Cipta Teknologi|
-|12|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|13|202.175.246.181|8080|Philippines|Makati City|Eastern Telecoms Philippines, Inc|
-|14|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|15|192.177.139.119|8000|United States|San Jose|EGIHosting|
-|16|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|17|103.81.194.167|8080|Indonesia|Ciampea|PT Rtiga Global Media|
-|18|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|20|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
+|2|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|3|70.36.99.51|3128|United States|Los Angeles|Perfect International, Inc|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|12|70.36.99.51|3128|United States|Los Angeles|Perfect International, Inc|
+|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|14|103.189.250.89|8090|Indonesia|Purwoharjo|PT Pandawa Lima Java Network|
+|15|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|16|12.218.209.130|53281|United States|San Jose|AT&T Enterprises, LLC|
+|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|20|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
 
 
 
