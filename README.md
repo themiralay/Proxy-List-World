@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|42.118.74.12|16000|Vietnam|Hanoi|FPT Telecom Company|
-|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|37.220.139.219|8080|Hungary|Budapest|ACE Telecom Kft|
-|14|58.187.70.32|16000|Vietnam|Hanoi|FPT Telecom Company|
-|15|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|16|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|17|77.83.246.56|3128|Poland|Mazovia|Global Connectivity Solutions LLP|
-|18|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|19|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|20|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|42.118.74.12|16000|Vietnam|Hanoi|FPT Telecom Company|
+|3|58.187.70.32|16000|Vietnam|Hanoi|FPT Telecom Company|
+|4|209.121.164.51|31147|Canada|Burnaby|TELUS Communications Inc.|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|7|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|13|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|15|37.220.139.219|8080|Hungary|Budapest|ACE Telecom Kft|
+|16|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|17|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
 
 
 
