@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|4|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|5|70.36.99.51|3128|United States|Los Angeles|Perfect International, Inc|
 |6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|9|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|70.36.99.51|3128|United States|Los Angeles|Perfect International, Inc|
-|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|14|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|17|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
-|18|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|19|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|20|200.111.232.94|8080|Chile|Santiago|Entel Chile S.A.|
+|11|222.127.206.145|8085|Philippines|Makati City|GLBB|
+|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|15|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|16|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|18|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 
 
 
