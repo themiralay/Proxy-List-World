@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|3|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|4|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|7|190.145.227.114|999|Colombia|Santiago de Cali|Telmex Colombia S.A.|
-|8|43.153.28.68|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|10|147.28.240.215|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|11|147.28.240.215|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|12|147.28.240.218|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|13|181.129.97.38|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
-|14|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|15|185.200.38.53|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|16|147.28.240.200|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|17|147.28.240.218|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|18|164.163.42.43|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|72.10.160.170|9059|Canada|Montreal|GloboTech Communications|
-|20|152.53.194.46|8051|United States|Manassas|netcup GmbH|
+|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|103.13.234.18|8080|Indonesia|Sintang|PT PT Disafa Cahaya Utama|
+|5|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|6|23.94.236.141|8080|United States|Los Angeles|HostPapa|
+|7|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|8|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|9|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|13|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|14|13.232.213.216|3128|India|Mumbai|Amazon Technologies Inc.|
+|15|43.153.28.68|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|16|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|98.154.21.253|4228|United States|Whittier|Charter Communications Inc|
+|19|201.65.173.179|8080|Brazil|Brasília|Claro S.A.|
+|20|147.28.240.215|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
