@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|58.186.92.254|16000|Vietnam|Hanoi|FPT Telecom Company|
-|5|27.71.136.68|16000|Vietnam|Bảo Lộc|Viettel Group|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|8|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|9|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|7|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|8|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |10|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|11|77.110.114.19|8118|United States|Charlotte|Aeza International LTD|
-|12|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
+|11|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
 |13|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|14|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|147.28.240.214|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|17|59.152.104.193|8080|Bangladesh|Chittagong|Earth Telecommunication ( pvt ) Limited|
-|18|157.180.121.252|37248|Finland|Helsinki|Hetzner Online GmbH|
-|19|147.28.240.216|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|20|147.28.240.200|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|14|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
+|15|103.245.109.57|39355|Bangladesh|Paltan|ACE IT Networks Limited|
+|16|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|17|185.172.214.59|8080|Iran|Tehran|Lesun communication furtherance engineers Co, Ltd.|
+|18|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|147.28.240.214|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
