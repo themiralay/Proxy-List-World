@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|27.71.136.68|16000|Vietnam|Bảo Lộc|Viettel Group|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|5|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
 |6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|7|27.79.183.250|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|10|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
 |11|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|12|182.253.143.46|8080|Indonesia|Semarang|Biznet Networks|
-|13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|14|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|18|80.78.30.182|3128|Sweden|Malmo|ab stract|
-|19|181.23.244.117|3128|Argentina|Buenos Aires|Telefonica de Argentina|
-|20|62.193.118.53|1981|Egypt|Sharm el Sheikh|Etisalat|
+|12|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|13|27.71.136.68|16000|Vietnam|Bảo Lộc|Viettel Group|
+|14|27.79.204.217|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|17|65.38.213.154|8881|Puerto Rico|San Juan|AT&T Mobility Puerto Rico|
+|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|19|208.102.24.225|8888|United States|Harrison|Fuse Internet Access|
+|20|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
 
 
 
