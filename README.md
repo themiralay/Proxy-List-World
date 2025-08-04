@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|139.59.228.95|8118|Singapore|Singapore|DIGITALOCEAN|
-|3|112.216.83.10|3128|South Korea|Siheung-si|LG DACOM Corporation|
-|4|160.22.192.42|8080|Indonesia|Bekasi|PT Elemen Jaringan Nusantara|
-|5|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|1.52.196.1|16000|Vietnam|Ha Long|Vietnam Internet Network Information Center|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|10|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|11|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|12|103.152.238.89|1080|Indonesia|Cikarang|APRIN|
-|13|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|14|181.129.97.38|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
-|15|58.186.92.254|16000|Vietnam|Hanoi|FPT Telecom Company|
-|16|176.208.101.50|8080|Russia|Surgut|PJSC Rostelecom|
-|17|190.128.195.58|999|Paraguay|Asunción|Telecel S.A.|
-|18|103.231.236.239|8182|Indonesia|Randudongkal|PT Level Indodata Teknologi|
-|19|181.119.83.245|999|Colombia|Puerto Salgar|IFX Networks Argentina S.R.L|
-|20|103.145.34.10|55443|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
+|2|112.216.83.10|3128|South Korea|Siheung-si|LG DACOM Corporation|
+|3|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|58.186.92.254|16000|Vietnam|Hanoi|FPT Telecom Company|
+|9|103.137.91.250|8080|Laos|Vientiane|SLT Network Co., LTD|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|12|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|92.58.181.171|7575|Spain|Madrid|UNI2|
+|15|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|16|91.186.97.212|3128|Russia|Noril'sk|MTS PJSC|
+|17|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|18|125.26.4.221|8080|Thailand|Bangkok|TOT Public Company Limited|
+|19|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|20|168.205.2.6|8089|Argentina|Villa Angelica|Alvarez Cable Hogar S.A.|
 
 
 
