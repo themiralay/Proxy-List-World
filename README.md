@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|56|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|37576|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|96.9.89.156|31231|Cambodia|Phnom Penh|SIGROUPS|
+|2|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 |6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|7|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
 |8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|10|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|11|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|12|58.186.92.254|16000|Vietnam|Hanoi|FPT Telecom Company|
-|13|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|15|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
-|19|177.200.80.6|11221|Brazil|Senador Pompeu|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
-|20|13.232.213.216|3128|India|Mumbai|Amazon Technologies Inc.|
+|9|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|10|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|11|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|12|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|13|177.200.80.6|11221|Brazil|Senador Pompeu|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
+|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|15|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|16|23.94.236.141|8080|United States|Los Angeles|HostPapa|
+|17|157.100.6.202|999|Ecuador|Quito|Telconet S.A|
+|18|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|19|182.253.109.5|8080|Indonesia|Semarang|Biznet Metronet|
+|20|156.67.214.169|9999|Singapore|Singapore|HOSTINGER SG|
 
 
 
