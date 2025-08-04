@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|5|157.66.16.36|5568|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|6|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|7|58.186.92.254|16000|Vietnam|Hanoi|FPT Telecom Company|
-|8|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|9|157.173.101.217|3128|Germany|Düsseldorf|Contabo GmbH|
-|10|80.78.30.182|3128|Sweden|Malmo|ab stract|
-|11|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|12|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|13|165.16.59.65|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|14|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|16|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|17|103.124.97.12|8080|Nepal|Kaski|Pokhara Internet Pvt. Ltd|
-|18|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|19|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|2|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|5|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|6|41.249.136.65|39811|Morocco|Salé|ADSL Maroc telecom|
+|7|103.137.218.113|83|India|Bhagalpur|Nandbalaji Connecting Zone Pvt. Ltd|
+|8|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|9|180.180.218.250|8080|Thailand|Chon Buri|TOT Public Company Limited|
+|10|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|11|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|12|91.229.78.250|8448|Ukraine|Kyiv|Zemlyaniy Dmitro Leonidovich|
+|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|14|113.160.99.26|8080|Vietnam|Haiphong|VietNam Post and Telecom Corporation|
+|15|157.173.101.217|3128|Germany|Düsseldorf|Contabo GmbH|
+|16|43.153.28.68|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|17|8.243.97.246|999|Peru|La Molina|Cirion Technologies Solutions|
+|18|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|19|149.86.142.84|8080|Türkiye|Istanbul|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|20|103.163.13.126|3128|Indonesia|Mersodo|PT Solusi Media Telekomunikasi|
 
 
 
