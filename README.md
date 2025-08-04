@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|5|202.232.52.162|8080|Japan|Ōita|Internet Initiative Japan Inc.|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|11|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|12|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|8|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
+|9|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|10|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|11|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|1.52.196.1|16000|Vietnam|Ha Long|Vietnam Internet Network Information Center|
+|13|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
 |14|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|15|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|16|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|17|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|18|13.232.213.216|3128|India|Mumbai|Amazon Technologies Inc.|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|15|147.28.240.214|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|16|147.28.240.215|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|17|147.28.240.200|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|18|147.28.240.215|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|19|147.28.240.215|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|147.28.240.218|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
