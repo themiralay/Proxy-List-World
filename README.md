@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|9|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
-|10|58.186.92.254|16000|Vietnam|Hanoi|FPT Telecom Company|
-|11|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|12|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|13|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|14|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|16|187.249.104.14|999|Mexico|Tehuacán|Transtelco Inc|
-|17|177.200.80.6|11221|Brazil|Senador Pompeu|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
-|18|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|19|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|20|152.32.67.107|65535|Philippines|Quezon City|Converge ICT Solution Inc|
+|7|103.165.157.79|8090|Indonesia|Mojokerto|MEGADATA-ISP|
+|8|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|9|207.244.254.27|7003|United States|St Louis|Nubes, LLC|
+|10|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
+|11|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|13|1.52.196.1|16000|Vietnam|Ha Long|Vietnam Internet Network Information Center|
+|14|187.190.114.60|999|Mexico|Poza Rica|Total Play Telecomunicaciones SA De CV|
+|15|167.99.79.71|8118|Singapore|Singapore|DigitalOcean, LLC|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|20|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 
 
 
