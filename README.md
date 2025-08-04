@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|7|103.210.22.17|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|9|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|10|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|47.236.37.129|18081|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|103.210.22.17|3128|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|9|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |12|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|14|13.232.213.216|3128|India|Mumbai|Amazon Technologies Inc.|
-|15|192.177.139.214|8000|United States|San Jose|EGIHosting|
-|16|85.117.56.41|8080|Georgia|Marneuli|Caucasus Online Ltd.|
-|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|18|152.53.194.46|8065|United States|Manassas|netcup GmbH|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|1.52.196.1|16000|Vietnam|Ha Long|Vietnam Internet Network Information Center|
+|13|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|14|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|15|58.186.92.254|16000|Vietnam|Hanoi|FPT Telecom Company|
+|16|190.93.191.19|999|Dominican Republic|Santiago de los Caballeros|Jose Digital Media Dominicana SRL|
+|17|1.52.196.1|16000|Vietnam|Ha Long|Vietnam Internet Network Information Center|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
