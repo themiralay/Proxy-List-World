@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |3|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|4|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|49.147.121.95|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
-|9|192.177.139.195|8000|United States|San Jose|EGIHosting|
-|10|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|11|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|12|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|103.153.135.90|8080|Indonesia|Curug|WMINET|
-|15|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|16|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
-|17|164.163.42.56|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|164.163.42.22|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|164.163.42.43|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|6|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|7|171.5.137.208|8080|Thailand|Kantharalak|Triple T Broadband Public Company Limited|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|1.52.196.1|16000|Vietnam|Ha Long|Vietnam Internet Network Information Center|
+|10|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|11|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|12|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|13|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|14|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
+|15|209.121.164.51|31147|Canada|Burnaby|TELUS Communications Inc.|
+|16|192.177.139.195|8000|United States|San Jose|EGIHosting|
+|17|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|18|181.79.83.79|999|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 
 
 
