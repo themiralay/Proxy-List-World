@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|3|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|3|27.71.136.68|16000|Vietnam|Bảo Lộc|Viettel Group|
+|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 |5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|6|42.112.189.8|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|7|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|13|217.160.221.48|3128|Germany|Frankfurt am Main|1&1 IONOS SE|
-|14|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|15|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|16|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|17|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|18|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|19|13.211.233.22|36619|Australia|Sydney|Amazon Technologies Inc.|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|11|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|12|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
+|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|14|41.249.136.65|39811|Morocco|Salé|ADSL Maroc telecom|
+|15|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|112.198.132.199|8082|Philippines|Nasugbu|Globe Telecom|
+|18|103.81.254.249|8080|Indonesia|Pameungpeuk|PT. Nusa Jaya Prasetyo|
+|19|212.108.144.67|8080|Cyprus|Nicosia|Lifecell Digital LTD|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
