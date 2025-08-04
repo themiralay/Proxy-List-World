@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|112.216.83.10|3128|South Korea|Siheung-si|LG DACOM Corporation|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 |6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|112.216.83.10|3128|South Korea|Siheung-si|LG DACOM Corporation|
-|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|152.53.194.46|8065|United States|Manassas|netcup GmbH|
-|10|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|11|80.78.30.182|3128|Sweden|Malmo|ab stract|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|9|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|10|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|11|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|12|103.81.194.17|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|13|188.72.42.18|47193|Iraq|Erbil|Pirmam For Information Technology Services Ltd|
 |14|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|15|77.110.114.19|8118|United States|Charlotte|Aeza International LTD|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|207.244.254.27|7003|United States|St Louis|Nubes, LLC|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|147.28.240.200|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|19|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|20|200.24.130.144|999|Ecuador|Cumandá|Ufinet Panama S.A.|
 
 
 
