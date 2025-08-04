@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|7|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|8|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|9|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|10|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|13|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|14|1.54.76.155|16000|Vietnam|Hanoi|FPT Telecom Company|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|27.79.204.217|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|18|190.94.213.80|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
-|19|147.28.240.218|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|20|190.102.233.100|999|Chile|Santiago|Pacifico Cable SPA.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|27.71.136.68|16000|Vietnam|Bảo Lộc|Viettel Group|
+|8|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|9|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|10|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|11|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
+|15|103.217.224.201|8080|Indonesia|Ungaran|PT Nesta Indo Media|
+|16|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|17|103.253.127.154|8080|Indonesia|Jombang|PT Media Akses Telematika|
+|18|58.186.92.254|16000|Vietnam|Hanoi|FPT Telecom Company|
+|19|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|20|208.102.24.225|8888|United States|Harrison|Fuse Internet Access|
 
 
 
