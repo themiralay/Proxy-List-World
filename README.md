@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|3|58.186.92.147|16000|Vietnam|Hanoi|FPT Telecom Company|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|58.186.92.147|16000|Vietnam|Hanoi|FPT Telecom Company|
+|3|171.228.181.175|2001|Vietnam|Hanoi|Viettel Corporation|
+|4|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |6|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|7|27.79.251.238|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|10|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|11|14.172.146.226|20399|Vietnam|Ho Chi Minh City|VNPT-VNNIC|
-|12|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|13|27.79.206.12|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|15|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|16|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|18|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|19|210.79.142.73|8080|Indonesia|Kediri|PT Gayatri Lintas Nusantara|
-|20|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|27.79.251.238|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|12|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|140.245.88.97|8118|Japan|Tokyo|Oracle Corporation|
+|15|135.181.193.128|3128|Finland|Helsinki|Hetzner Online GmbH|
+|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|17|42.118.74.84|16000|Vietnam|Hanoi|FPT Telecom Company|
+|18|96.9.89.156|31231|Cambodia|Phnom Penh|SIGROUPS|
+|19|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|20|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
 
 
 
