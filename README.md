@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
-|3|182.253.162.69|8080|Indonesia|Surabaya|BIZNET|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |5|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|180.211.161.110|8080|Bangladesh|Mirzāpur|Bangladesh Telegraph & Telephone Board|
-|10|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|27.79.251.238|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|8|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
 |11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
-|13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|15|89.208.107.112|1080|The Netherlands|Amsterdam|Aeza International LTD|
-|16|31.14.114.76|1081|Iran|Tehran|Afranet Co|
-|17|65.38.213.154|8881|Puerto Rico|San Juan|AT&T Mobility Puerto Rico|
-|18|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|19|80.78.30.182|3128|Sweden|Malmo|ab stract|
-|20|27.79.251.238|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|13|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|14|13.211.233.22|36619|Australia|Sydney|Amazon Technologies Inc.|
+|15|147.28.240.218|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|16|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|17|147.28.240.214|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|18|147.28.240.215|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|19|67.43.236.18|23751|Canada|Montreal|GloboTech Communications|
+|20|164.163.42.29|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
