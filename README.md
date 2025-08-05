@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|58.187.70.32|16000|Vietnam|Hanoi|FPT Telecom Company|
-|2|42.113.205.245|16000|Vietnam|Quận Hai|FPT Telecom Company|
-|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|10|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|11|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|12|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|13|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|191.101.190.175|3127|Singapore|Singapore|PT Perwira Media Solusi|
+|5|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|6|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|7|147.28.240.213|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|8|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|9|186.231.33.58|61804|Brazil|São Paulo|TIM S/A|
+|10|138.59.11.192|999|Venezuela|Valencia|Distribuidora Ofic Tech De Venezuela C.A.|
+|11|103.178.171.80|8080|Indonesia|Pacitan|PT Trisari Data Indonusa|
+|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|13|31.56.78.170|8181|Indonesia|Jakarta|PT Perwira Media Solusi|
 |14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|17|147.28.240.213|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|18|45.136.198.40|3128|Bulgaria|Sofia|Managed by IROKO Networks|
-|19|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|20|186.231.33.58|61804|Brazil|São Paulo|TIM S/A|
+|15|47.251.110.68|3128|United States|Minkler|Alibaba Cloud LLC|
+|16|103.156.17.32|8818|Indonesia|Jatibarang|RSTNET|
+|17|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|18|168.228.44.66|999|Honduras|Yoro|CABLE NACIONAL, S.A|
+|19|185.200.38.53|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|181.15.220.154|8080|Argentina|Puerto Iguazú|Telecom Argentina S.A|
 
 
 
