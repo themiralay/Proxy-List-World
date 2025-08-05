@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|5|103.247.14.139|8285|Indonesia|Temanggung|TERABIT|
-|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|10|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|11|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|12|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|13|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|14|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|15|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|16|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|19|43.246.200.73|8888|Bangladesh|Sonargaon|HelloTech Limited|
-|20|42.114.161.88|16000|Vietnam|Hanoi|FPT Telecom Company|
+|1|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|5|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|6|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|7|42.118.74.84|16000|Vietnam|Hanoi|FPT Telecom Company|
+|8|42.114.161.88|16000|Vietnam|Hanoi|FPT Telecom Company|
+|9|42.113.205.245|16000|Vietnam|Quận Hai|FPT Telecom Company|
+|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|13|58.187.70.32|16000|Vietnam|Hanoi|FPT Telecom Company|
+|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|1.54.172.194|16000|Vietnam|Hanoi|FPT Telecom Company|
+|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|19|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|89.208.107.112|1080|The Netherlands|Amsterdam|Aeza International LTD|
 
 
 
