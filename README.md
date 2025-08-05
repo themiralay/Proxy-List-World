@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|140.227.81.191|3128|Japan|Chiyoda|InfoSphere|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|6|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|11|89.208.107.112|1080|The Netherlands|Amsterdam|Aeza International LTD|
-|12|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|42.118.74.84|16000|Vietnam|Hanoi|FPT Telecom Company|
+|7|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|10|89.208.107.112|1080|The Netherlands|Amsterdam|Aeza International LTD|
+|11|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|58.186.92.187|16000|Vietnam|Hanoi|FPT Telecom Company|
 |14|80.78.30.182|3128|Sweden|Malmo|ab stract|
-|15|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|17|42.118.74.84|16000|Vietnam|Hanoi|FPT Telecom Company|
-|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|19|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|20|147.28.240.215|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|15|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|16|42.113.205.245|16000|Vietnam|Quận Hai|FPT Telecom Company|
+|17|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|18|58.187.70.32|16000|Vietnam|Hanoi|FPT Telecom Company|
+|19|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|20|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
