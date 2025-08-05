@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|5|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|6|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|80.78.30.182|3128|Sweden|Malmo|ab stract|
-|9|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|2|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|9|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
 |10|89.208.107.112|1080|The Netherlands|Amsterdam|Aeza International LTD|
-|11|58.187.70.32|16000|Vietnam|Hanoi|FPT Telecom Company|
-|12|58.186.92.187|16000|Vietnam|Hanoi|FPT Telecom Company|
-|13|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|14|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|15|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|18|147.28.240.214|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|20|103.179.218.14|1080|Indonesia|Pandeglang|PT Wistel Teknologi Solusi|
+|11|217.113.235.181|443|Poland|Lodz|Toya sp. z o.o.|
+|12|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|152.53.194.55|21609|United States|Manassas|netcup GmbH|
+|16|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|17|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|18|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
+|19|103.165.245.146|8082|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|20|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
 
 
 
