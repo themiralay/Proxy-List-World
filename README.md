@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|42.113.205.245|16000|Vietnam|Quận Hai|FPT Telecom Company|
 |5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|7|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
 |8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|42.113.205.245|16000|Vietnam|Quận Hai|FPT Telecom Company|
-|10|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|9|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
+|10|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
 |11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|13|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
+|12|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|13|147.75.49.154|80|United States|San Jose|Packet Host, Inc.|
 |14|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|15|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|16|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|27.67.54.178|8080|Vietnam|Hanoi|Viettel Group|
-|20|122.52.213.79|62102|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|15|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|16|187.245.214.11|999|Mexico|Matías Castellanos|Mega Cable, S.A. de C.V.|
+|17|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|19|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
