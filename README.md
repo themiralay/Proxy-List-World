@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|5|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|6|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
 |7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|11|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|12|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|14|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|15|38.58.170.11|999|Mexico|Nuevo Laredo|Terameg SA De CV|
-|16|85.119.120.55|8080|Malta|Birkirkara|Melita Ltd|
-|17|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|18|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|20|3.107.252.199|8099|Australia|Sydney|Amazon Technologies Inc.|
+|8|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|9|103.82.36.237|8888|Vietnam|Thanh Khê|Cloudfly Corporation|
+|10|204.199.202.133|999|Mexico|Teotihuacán|Cirion Technologies Solutions|
+|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|12|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|14|27.79.206.12|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|17|80.82.55.71|80|Russia|Voronezh|CenterTelecom Voronezh ISP|
+|18|162.254.131.254|8087|United States|Wellsville|Air Link Rural Broadband, LLC|
+|19|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|20|188.132.222.12|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
