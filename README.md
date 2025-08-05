@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **74602** proxies at the latest update. Usable proxies are below.
+> Scraper found **74930** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|381|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|381|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|381|
 
 ## Sources
 
@@ -32,7 +32,7 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35623|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|84|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|37669|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|37997|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|42.118.2.170|16000|Vietnam|Hanoi|FPT Telecom Company|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|9|103.157.117.226|81|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|12|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|13|31.14.114.76|1081|Iran|Tehran|Afranet Co|
-|14|192.177.139.23|8000|United States|San Jose|EGIHosting|
-|15|208.102.24.225|8888|United States|Harrison|Fuse Internet Access|
-|16|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|18|43.130.57.74|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|19|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|6|42.113.205.245|16000|Vietnam|Quận Hai|FPT Telecom Company|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|9|180.191.59.103|9995|Philippines|Tarlac City|Globe Telecom|
+|10|103.178.171.80|8080|Indonesia|Pacitan|PT Trisari Data Indonusa|
+|11|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|12|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|15|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|16|116.107.169.233|10001|Vietnam|Tuyên Quang|Viettel Corporation|
+|17|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|18|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|19|47.251.110.68|3128|United States|Minkler|Alibaba Cloud LLC|
+|20|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
 
 
 
