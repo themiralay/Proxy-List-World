@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.227.81.191|3128|Japan|Chiyoda|InfoSphere|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|103.124.137.150|20|Indonesia|Ungaran|Global Media Data Prima|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|89.208.107.112|1080|The Netherlands|Amsterdam|Aeza International LTD|
-|11|202.137.14.57|8085|Indonesia|Tangerang|customer in Corporate Access|
-|12|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|13|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|15|80.78.30.182|3128|Sweden|Malmo|ab stract|
-|16|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|17|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|18|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|19|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|140.227.81.191|3128|Japan|Chiyoda|InfoSphere|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|103.153.202.120|8080|Myanmar|Möng Pawk|Shwe Mahar MAE Khong Industrial Company Limited|
+|7|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|8|103.124.137.150|20|Indonesia|Ungaran|Global Media Data Prima|
+|9|180.180.175.11|8080|Thailand|Phra Nakhon Si Ayutthaya|TOT Public Company Limited|
+|10|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|11|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|12|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|13|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|14|89.208.107.112|1080|The Netherlands|Amsterdam|Aeza International LTD|
+|15|103.196.40.11|8080|Indonesia|Bangkinang|PT Sarana Working Akses Indonesia|
+|16|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|17|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|18|203.175.127.240|8080|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
+|19|61.216.156.222|60808|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
+|20|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
