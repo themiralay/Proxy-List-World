@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|4|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|58.187.70.32|16000|Vietnam|Hanoi|FPT Telecom Company|
-|11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|12|103.165.245.146|8082|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|13|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|14|42.118.74.84|16000|Vietnam|Hanoi|FPT Telecom Company|
-|15|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|16|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|17|103.156.75.213|8787|Indonesia|Gianyar|PT Trika Global Media|
-|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|20|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|8|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|9|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|10|103.82.36.237|8888|Vietnam|Thanh Khê|Cloudfly Corporation|
+|11|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|58.187.70.32|16000|Vietnam|Hanoi|FPT Telecom Company|
+|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|15|89.208.107.112|1080|The Netherlands|Amsterdam|Aeza International LTD|
+|16|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|19|103.94.250.151|8080|Indonesia|Kurintji|PT Centronet Data Indonesia|
+|20|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
 
 
 
