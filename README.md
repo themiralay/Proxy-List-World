@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
 |3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|7|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|8|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|9|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|10|27.79.206.12|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|139.59.228.95|8118|Singapore|Singapore|DIGITALOCEAN|
+|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|8|152.53.194.46|8065|United States|Manassas|netcup GmbH|
+|9|27.79.206.12|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
 |11|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|12|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|13|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|14|27.79.251.238|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|17|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|18|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|19|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|20|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|12|37.27.142.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|13|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|14|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|15|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|190.110.34.253|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|18|38.194.246.34|999|Mexico|León|Cogent Communications|
+|19|185.115.74.222|8080|Czechia|Ostrava|TeamCity s.r.o.|
+|20|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
 
 
 
