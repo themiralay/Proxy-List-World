@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|139.59.228.95|8118|Singapore|Singapore|DIGITALOCEAN|
 |3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|8|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|9|42.118.74.84|16000|Vietnam|Hanoi|FPT Telecom Company|
-|10|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|11|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|12|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|14|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|15|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|176.88.168.109|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
-|18|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|19|72.10.160.170|3409|Canada|Montreal|GloboTech Communications|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|89.208.107.112|1080|The Netherlands|Amsterdam|Aeza International LTD|
+|7|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|10|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|11|190.52.107.85|999|Venezuela|Caracas|Gold Data USA Inc|
+|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|14|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|15|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|16|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|17|190.52.101.148|999|Venezuela|Caracas|Gold Data USA Inc|
+|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|19|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
 |20|51.159.159.73|80|France|Paris|SCALEWAY|
 
 
