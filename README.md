@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|42.118.2.170|16000|Vietnam|Hanoi|FPT Telecom Company|
-|2|58.187.70.32|16000|Vietnam|Hanoi|FPT Telecom Company|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|8|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|9|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|10|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|1|58.187.70.32|16000|Vietnam|Hanoi|FPT Telecom Company|
+|2|42.113.205.245|16000|Vietnam|Quận Hai|FPT Telecom Company|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|147.28.240.213|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|10|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
 |11|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|12|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|14|147.28.240.213|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|15|37.152.183.29|3128|Iran|Nā’īn|AbrArvan|
-|16|43.130.57.74|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|18|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|20|206.189.140.195|3128|India|Bengaluru|DigitalOcean, LLC|
+|12|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|14|103.157.117.226|81|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
+|15|42.118.2.170|16000|Vietnam|Hanoi|FPT Telecom Company|
+|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|37.152.183.29|3128|Iran|Nā’īn|AbrArvan|
+|18|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
+|19|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
