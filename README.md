@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |3|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|6|13.211.233.22|36619|Australia|Sydney|Amazon Technologies Inc.|
-|7|89.208.107.112|1080|The Netherlands|Amsterdam|Aeza International LTD|
-|8|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|11|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|14|206.201.3.83|8095|Philippines|Pasig|Converge ICT Solution Inc|
-|15|181.78.51.157|999|Guatemala|La Máquina|Ufinet Panama S.A.|
-|16|147.28.240.217|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|17|67.43.228.253|28637|Canada|Montreal|GloboTech Communications|
-|18|147.28.240.218|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|19|157.180.121.252|43523|Finland|Helsinki|Hetzner Online GmbH|
-|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|8|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
+|13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|13.211.233.22|36619|Australia|Sydney|Amazon Technologies Inc.|
+|16|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|17|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|18|38.65.174.107|999|Mexico|Amealco|Wantelco SAS de CV|
+|19|190.94.213.23|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|20|27.79.251.238|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
