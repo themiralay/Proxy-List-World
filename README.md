@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|42.118.74.84|16000|Vietnam|Hanoi|FPT Telecom Company|
-|3|42.114.161.88|16000|Vietnam|Hanoi|FPT Telecom Company|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|1.54.172.194|16000|Vietnam|Hanoi|FPT Telecom Company|
+|3|42.113.205.245|16000|Vietnam|Quận Hai|FPT Telecom Company|
+|4|42.114.161.88|16000|Vietnam|Hanoi|FPT Telecom Company|
+|5|27.79.206.12|16000|Vietnam|Hanoi|Viettel Corporation|
 |6|58.187.70.32|16000|Vietnam|Hanoi|FPT Telecom Company|
-|7|27.79.206.12|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|42.113.205.245|16000|Vietnam|Quận Hai|FPT Telecom Company|
+|7|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |10|58.186.92.187|16000|Vietnam|Hanoi|FPT Telecom Company|
-|11|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|12|64.225.30.15|3128|United States|Clifton|DigitalOcean, LLC|
-|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|14|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|16|64.225.30.15|3128|United States|Clifton|DigitalOcean, LLC|
-|17|223.25.100.235|8080|Indonesia|Prapen|SINERGINET|
-|18|89.208.107.112|1080|The Netherlands|Amsterdam|Aeza International LTD|
-|19|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|20|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|11|116.103.129.201|1002|Vietnam|Buon Ma Thuot|Viettel Corporation|
+|12|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|16|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|18|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|19|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|20|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
 
 
 
