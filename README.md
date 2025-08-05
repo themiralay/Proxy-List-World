@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|42.118.173.169|16000|Vietnam|Hanoi|FPT Telecom Company|
-|3|42.113.21.13|16000|Vietnam|Hanoi|FPT Telecom Company|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|114.9.24.2|1452|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|8|27.79.183.77|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|10|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|42.113.20.0|16000|Vietnam|Hanoi|FPT Telecom Company|
-|13|1.54.73.223|16000|Vietnam|Hanoi|FPT Telecom Company|
-|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|15|42.113.21.213|16000|Vietnam|Hanoi|FPT Telecom Company|
-|16|115.72.170.19|10008|Vietnam|Ho Chi Minh City|VIETELmetro|
-|17|58.187.70.8|16000|Vietnam|Hanoi|FPT Telecom Company|
-|18|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|19|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|20|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|2|42.113.20.0|16000|Vietnam|Hanoi|FPT Telecom Company|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|58.186.92.147|16000|Vietnam|Hanoi|FPT Telecom Company|
+|5|1.55.59.246|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|1.54.73.223|16000|Vietnam|Hanoi|FPT Telecom Company|
+|7|27.79.183.77|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|42.118.173.169|16000|Vietnam|Hanoi|FPT Telecom Company|
+|9|114.9.24.2|1452|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|10|42.113.21.213|16000|Vietnam|Hanoi|FPT Telecom Company|
+|11|1.52.197.2|16000|Vietnam|Ha Long|Vietnam Internet Network Information Center|
+|12|42.113.21.13|16000|Vietnam|Hanoi|FPT Telecom Company|
+|13|58.187.70.8|16000|Vietnam|Hanoi|FPT Telecom Company|
+|14|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|15|103.189.250.117|1111|Indonesia|Pamedilan|PT Pandawa Lima Java Network|
+|16|203.175.103.89|1111|Indonesia|Kuningan|MITRAKITA|
+|17|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|18|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|19|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|20|23.237.210.82|80|United States|Dallas|FDCservers.net|
 
 
 
