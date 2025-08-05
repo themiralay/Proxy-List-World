@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|42.118.2.170|16000|Vietnam|Hanoi|FPT Telecom Company|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|4|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|45.136.49.130|8118|The Netherlands|Amsterdam|Scalaxy B.V.|
-|10|185.155.99.114|8118|Estonia|Narva|RJ Network OU|
-|11|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|12|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|13|147.28.240.213|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|14|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|15|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|17|43.130.57.74|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|18|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|19|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|20|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|1|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|58.187.70.32|16000|Vietnam|Hanoi|FPT Telecom Company|
+|5|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|6|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|9|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|10|147.28.240.213|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|11|177.200.80.6|11221|Brazil|Senador Pompeu|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
+|12|31.14.114.76|1081|Iran|Tehran|Afranet Co|
+|13|191.101.190.175|3127|Singapore|Singapore|PT Perwira Media Solusi|
+|14|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|16|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|17|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|18|179.48.80.9|8085|Brazil|Teresina|Fbnet Telecom|
+|19|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
