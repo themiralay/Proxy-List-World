@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|7|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|8|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|5.104.75.104|3128|Germany|Frankfurt am Main|International Hosting Company Limited|
-|11|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|12|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
-|13|51.81.6.158|31158|United States|Reston|OVH SAS|
-|14|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|15|51.81.6.158|31158|United States|Reston|OVH SAS|
+|2|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|3|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|4|38.95.88.126|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|5|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|6|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
+|7|5.104.75.104|3128|Germany|Frankfurt am Main|International Hosting Company Limited|
+|8|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|9|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|14|45.173.6.226|999|Colombia|Zipaquirá|Columbus Networks Colombia|
+|15|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
 |16|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|17|70.36.99.51|3128|United States|Los Angeles|Perfect International, Inc|
-|18|13.211.233.22|36619|Australia|Sydney|Amazon Technologies Inc.|
-|19|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|20|200.201.134.184|8787|Brazil|São Paulo|Telium Telecomunicações Ltda|
+|17|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|18|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|19|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|20|181.48.234.214|8080|Colombia|Bogotá|Telmex Colombia S.A.|
 
 
 
