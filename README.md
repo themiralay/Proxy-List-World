@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|4|66.228.47.125|110|United States|Cedar Knolls|Akamai Technologies, Inc.|
-|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|10|66.228.47.125|110|United States|Cedar Knolls|Akamai Technologies, Inc.|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|14|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|15|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|3|66.228.47.125|110|United States|Cedar Knolls|Akamai Technologies, Inc.|
+|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|5|103.242.104.221|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
+|6|192.177.139.220|8000|United States|San Jose|EGIHosting|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|66.228.47.125|110|United States|Cedar Knolls|Akamai Technologies, Inc.|
+|9|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|11|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
 |16|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|139.59.228.95|8118|Singapore|Singapore|DIGITALOCEAN|
-|19|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|20|103.184.50.146|8989|Indonesia|Sragen|PT Aktech Digital Solutions|
+|17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|18|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|19|131.72.69.209|8080|Brazil|Aracaju|TOP NET SERVIÇOS LTDA|
+|20|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
 
 
 
