@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|152.53.194.46|8070|United States|Manassas|netcup GmbH|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|11|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|12|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|14|139.59.228.95|8118|Singapore|Singapore|DIGITALOCEAN|
-|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|16|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|17|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|18|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|19|147.28.240.200|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|20|109.164.38.189|2306|Czechia|Prague|STARNET, s.r.o.|
+|2|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|4|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|6|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|7|152.53.194.46|8070|United States|Manassas|netcup GmbH|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|3.107.252.199|8099|Australia|Sydney|Amazon Technologies Inc.|
+|10|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|11|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|12|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|13|70.36.99.51|3128|United States|Los Angeles|Perfect International, Inc|
+|14|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|17|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|27.79.206.12|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
 
 
 
