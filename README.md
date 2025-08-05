@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|5|124.83.122.31|8082|Philippines|Taguig|Philippine Long Distance Telephone Co.|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
-|8|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|3|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|6|66.228.47.125|110|United States|Cedar Knolls|Akamai Technologies, Inc.|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
 |9|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|10|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|11|103.76.201.126|8080|Indonesia|Cileungsir|PT. Arjuna Global Teknologi Indonesia|
-|12|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|13|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|66.228.47.125|110|United States|Cedar Knolls|Akamai Technologies, Inc.|
+|13|89.249.62.8|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 |14|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|15|103.242.104.221|8080|Indonesia|Karawang|PT Lintas Jaringan Nusantara|
-|16|103.126.173.203|8880|Indonesia|Natar|MEGARAP|
-|17|66.210.33.34|8080|United States|Navarre|Cox Communications Inc.|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|17|103.174.237.66|3127|Indonesia|Wates|PT Global Erasiber Teknologi|
 |18|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|19|190.52.101.148|999|Venezuela|Caracas|Gold Data USA Inc|
-|20|51.159.159.73|80|France|Paris|SCALEWAY|
+|19|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|20|66.210.33.34|8080|United States|Navarre|Cox Communications Inc.|
 
 
 
