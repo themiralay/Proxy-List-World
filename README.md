@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|42.113.205.245|16000|Vietnam|Quận Hai|FPT Telecom Company|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|192.177.139.23|8000|United States|San Jose|EGIHosting|
-|4|115.187.30.171|1111|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|5|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|7|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|147.28.240.213|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|58.187.70.32|16000|Vietnam|Hanoi|FPT Telecom Company|
+|3|103.155.198.142|1080|Indonesia|Jakarta|PT Lintas Jaringan Nusantara|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|6|103.224.125.38|2024|Indonesia|Depok|PT Curug Lintas Indonesia|
+|7|192.177.139.168|8000|United States|San Jose|EGIHosting|
+|8|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|183.80.16.109|8080|Vietnam|Hanoi|Vietnam Internet Network Information Center|
 |11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|12|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|13|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|14|37.152.183.29|3128|Iran|Nā’īn|AbrArvan|
-|15|42.118.2.170|16000|Vietnam|Hanoi|FPT Telecom Company|
-|16|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|17|58.187.70.32|16000|Vietnam|Hanoi|FPT Telecom Company|
-|18|103.197.206.97|23654|Bangladesh|Dhaka|Cosmopolitan Communications Limited|
-|19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|20|103.155.198.142|1080|Indonesia|Jakarta|PT Lintas Jaringan Nusantara|
+|12|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|13|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
+|14|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|15|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|16|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|17|45.136.198.40|3128|Bulgaria|Sofia|Managed by IROKO Networks|
+|18|147.28.240.213|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|19|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|20|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
 
 
 
