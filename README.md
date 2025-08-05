@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|8|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|9|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|10|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|11|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
-|12|38.130.38.97|8080|United States|Smithboro|Wisper ISP, Inc.|
-|13|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|14|147.28.240.217|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|15|116.107.169.233|10007|Vietnam|Tuyên Quang|Viettel Corporation|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|208.102.24.225|8888|United States|Harrison|Fuse Internet Access|
-|20|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|7|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|8|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|9|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|10|42.118.74.84|16000|Vietnam|Hanoi|FPT Telecom Company|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|223.16.170.103|80|Hong Kong|Tsing Yi|HGC Global Communications Limited|
+|13|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|14|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|16|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|17|38.130.38.97|8080|United States|Smithboro|Wisper ISP, Inc.|
+|18|147.28.240.217|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|19|116.107.169.233|10001|Vietnam|Tuyên Quang|Viettel Corporation|
+|20|66.210.33.34|8080|United States|Navarre|Cox Communications Inc.|
 
 
 
