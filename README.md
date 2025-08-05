@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|140.227.81.191|3128|Japan|Chiyoda|InfoSphere|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|1.54.172.194|16000|Vietnam|Hanoi|FPT Telecom Company|
+|3|139.59.228.95|8118|Singapore|Singapore|DIGITALOCEAN|
+|4|42.118.74.84|16000|Vietnam|Hanoi|FPT Telecom Company|
+|5|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
 |6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|58.187.70.32|16000|Vietnam|Hanoi|FPT Telecom Company|
-|9|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|42.113.205.245|16000|Vietnam|Quận Hai|FPT Telecom Company|
-|12|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|13|89.208.107.112|1080|The Netherlands|Amsterdam|Aeza International LTD|
-|14|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|15|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|80.78.30.182|3128|Sweden|Malmo|ab stract|
-|17|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|18|58.186.92.187|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|183.80.22.142|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|20|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|7|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|202.137.14.57|8085|Indonesia|Tangerang|customer in Corporate Access|
+|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|183.80.22.142|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|14|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|115.147.8.120|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|18|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|19|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|20|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
 
 
 
