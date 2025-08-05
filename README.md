@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
 |3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |5|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|6|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|7|5.104.75.104|3128|Germany|Frankfurt am Main|International Hosting Company Limited|
-|8|14.172.146.226|20399|Vietnam|Ho Chi Minh City|VNPT-VNNIC|
-|9|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
-|10|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|13|139.59.228.95|8118|Singapore|Singapore|DIGITALOCEAN|
-|14|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|16|3.107.252.199|8099|Australia|Sydney|Amazon Technologies Inc.|
-|17|80.78.30.182|3128|Sweden|Malmo|ab stract|
-|18|66.228.47.125|110|United States|Cedar Knolls|Akamai Technologies, Inc.|
-|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|20|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|8|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|9|70.36.99.51|3128|United States|Los Angeles|Perfect International, Inc|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|14|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|15|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|16|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|17|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
+|18|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|19|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
+|20|13.211.233.22|36619|Australia|Sydney|Amazon Technologies Inc.|
 
 
 
