@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **39040** proxies at the latest update. Usable proxies are below.
+> Scraper found **74566** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35526|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|75|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|37739|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|7|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|78.47.126.220|8888|Germany|Nuremberg|Hetzner Online GmbH|
-|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|13|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|17|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|19|47.252.29.28|11222|United States|Richmond|Alibaba Cloud LLC|
-|20|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|3|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|8|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|9|103.68.214.108|8080|Indonesia|Sepatan|PT Media Grasi Internet|
+|10|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|11|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
+|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|14|3.107.252.199|8099|Australia|Sydney|Amazon Technologies Inc.|
+|15|154.57.15.155|8080|Greece|Athens|Novelcomm LP|
+|16|147.75.49.154|80|United States|San Jose|Packet Host, Inc.|
+|17|147.28.240.214|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|18|116.107.169.233|10002|Vietnam|Tuyên Quang|Viettel Corporation|
+|19|147.28.240.217|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
 
 
 
