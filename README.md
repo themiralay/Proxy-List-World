@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|2|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|182.253.162.69|8080|Indonesia|Surabaya|BIZNET|
-|8|103.165.155.67|1111|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
-|9|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|10|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|13|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|14|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|15|95.47.239.65|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
-|16|8.243.97.244|999|Peru|La Molina|Cirion Technologies Solutions|
-|17|147.28.240.214|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|19|147.28.240.216|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|20|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|9|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|12|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|89.208.107.112|1080|The Netherlands|Amsterdam|Aeza International LTD|
+|14|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|15|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|16|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|38.199.65.97|999|Colombia|Bogotá|TV COLOMBIA DIGITAL SAS|
+|18|27.79.206.12|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|182.253.21.26|46977|Indonesia|Batam|Biznet Networks|
+|20|200.188.112.146|999|Mexico|Huimanguillo|Alestra, S. de R.L. de C.V.|
 
 
 
