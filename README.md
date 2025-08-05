@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|2|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
 |3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|5|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|6|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|7|152.53.194.46|8051|United States|Manassas|netcup GmbH|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
-|10|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|11|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|12|27.79.206.12|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|191.37.66.225|8080|Brazil|Taboão da Serra|Yara Dos Santos Barreiro - ME|
-|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|17|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|18|70.36.99.51|3128|United States|Los Angeles|Perfect International, Inc|
-|19|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|20|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|103.203.234.210|8080|Indonesia|Weleri|PT Nesta Indo Media|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|8|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|11|152.53.194.46|8070|United States|Manassas|netcup GmbH|
+|12|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|13|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|14|116.107.169.233|10001|Vietnam|Tuyên Quang|Viettel Corporation|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|18|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|19|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|20|3.107.252.199|8099|Australia|Sydney|Amazon Technologies Inc.|
 
 
 
