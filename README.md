@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
 |3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
 |4|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|5|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|6|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|152.53.194.46|8051|United States|Manassas|netcup GmbH|
-|9|152.53.168.53|44887|United States|Manassas|netcup GmbH|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|191.37.66.225|8080|Brazil|Taboão da Serra|Yara Dos Santos Barreiro - ME|
-|12|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|5|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|6|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|7|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|8|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|10|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|11|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|12|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |14|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|15|116.107.169.233|10005|Vietnam|Tuyên Quang|Viettel Corporation|
+|15|154.57.15.155|8080|Greece|Athens|Novelcomm LP|
 |16|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|17|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
-|18|35.206.88.200|8888|United States|Council Bluffs|Google LLC|
-|19|3.107.252.199|8099|Australia|Sydney|Amazon Technologies Inc.|
-|20|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|20|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
