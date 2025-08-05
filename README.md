@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|2|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|58.187.70.32|16000|Vietnam|Hanoi|FPT Telecom Company|
-|4|42.113.205.245|16000|Vietnam|Quận Hai|FPT Telecom Company|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|8|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|9|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|10|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|11|147.28.240.213|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|13|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|14|37.152.183.29|3128|Iran|Nā’īn|AbrArvan|
-|15|42.118.2.170|16000|Vietnam|Hanoi|FPT Telecom Company|
-|16|113.11.183.199|8080|Indonesia|Purwokerto|BIZNET|
-|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|103.157.62.229|8080|Indonesia|Pangandaran|ADSNETWORK|
-|19|181.15.220.154|8080|Argentina|Puerto Iguazú|Telecom Argentina S.A|
-|20|209.141.54.136|5555|United States|Las Vegas|FranTech Solutions|
+|1|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|103.178.171.80|8080|Indonesia|Pacitan|PT Trisari Data Indonusa|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|7|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|8|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|9|47.90.205.231|33333|United States|Richmond|Alibaba.com LLC|
+|10|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|147.28.240.213|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|42.113.205.245|16000|Vietnam|Quận Hai|FPT Telecom Company|
+|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|16|58.187.70.32|16000|Vietnam|Hanoi|FPT Telecom Company|
+|17|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|18|192.177.139.168|8000|United States|San Jose|EGIHosting|
+|19|103.156.17.32|8818|Indonesia|Jatibarang|RSTNET|
+|20|157.180.121.252|41022|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
