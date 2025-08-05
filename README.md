@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|103.179.218.14|1080|Indonesia|Pandeglang|PT Wistel Teknologi Solusi|
-|4|42.118.74.84|16000|Vietnam|Hanoi|FPT Telecom Company|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|58.187.70.32|16000|Vietnam|Hanoi|FPT Telecom Company|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|4|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|5|113.160.132.195|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|10|103.94.250.151|8080|Indonesia|Kurintji|PT Centronet Data Indonesia|
-|11|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|15|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|16|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|80.78.30.182|3128|Sweden|Malmo|ab stract|
-|19|180.191.23.66|8082|Philippines|Cabanatuan City|Globe Telecom|
-|20|147.75.49.154|80|United States|San Jose|Packet Host, Inc.|
+|8|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|9|5.188.183.253|8080|Spain|Madrid|Melbikomas UAB|
+|10|89.208.107.112|1080|The Netherlands|Amsterdam|Aeza International LTD|
+|11|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|12|42.118.74.84|16000|Vietnam|Hanoi|FPT Telecom Company|
+|13|192.177.139.220|8000|United States|San Jose|EGIHosting|
+|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|15|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|16|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|17|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|19|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
+|20|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
 
 
 
