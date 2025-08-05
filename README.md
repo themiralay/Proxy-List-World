@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **74831** proxies at the latest update. Usable proxies are below.
+> Scraper found **74863** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35513|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35545|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|77|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38015|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|3|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|103.179.218.14|1080|Indonesia|Pandeglang|PT Wistel Teknologi Solusi|
+|4|42.118.74.84|16000|Vietnam|Hanoi|FPT Telecom Company|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|58.187.70.32|16000|Vietnam|Hanoi|FPT Telecom Company|
 |7|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
-|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|9|38.172.128.21|999|Peru|Lima region|Conex TV E.I.R.L.|
-|10|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|11|58.84.16.214|1231|Malaysia|Putrajaya|Extreme Broadband|
-|12|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|13|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|14|152.53.194.55|21609|United States|Manassas|netcup GmbH|
-|15|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|16|89.117.145.245|3128|United States|St Louis|Nubes, LLC|
-|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|18|147.75.49.154|80|United States|San Jose|Packet Host, Inc.|
-|19|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|20|8.208.94.223|3128|United Kingdom|London|Alibaba.com Singapore E-Commerce Private Limited|
+|8|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|9|23.237.210.82|80|United States|Farmers Branch|FDCservers.net|
+|10|103.94.250.151|8080|Indonesia|Kurintji|PT Centronet Data Indonesia|
+|11|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|15|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|16|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|80.78.30.182|3128|Sweden|Malmo|ab stract|
+|19|180.191.23.66|8082|Philippines|Cabanatuan City|Globe Telecom|
+|20|147.75.49.154|80|United States|San Jose|Packet Host, Inc.|
 
 
 
