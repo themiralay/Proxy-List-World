@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|458|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|458|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|458|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|391|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|391|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|391|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|23.94.236.141|8080|United States|Los Angeles|HostPapa|
-|3|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|2|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|3|42.117.243.39|16000|Vietnam|Hanoi|FPT Telecom Company|
+|4|116.103.143.179|1004|Vietnam|Buon Ma Thuot|Viettel Corporation|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
 |7|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|8|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|9|201.144.20.238|3128|Mexico|Mexico City|UNINET|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|12|118.70.16.27|8088|Vietnam|Hanoi|FPT Telecom Company|
-|13|115.72.160.205|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|16|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|17|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|201.144.20.238|3128|Mexico|Mexico City|UNINET|
+|11|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|12|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|14|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
+|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|18|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|19|171.5.137.208|8080|Thailand|Kantharalak|Triple T Broadband Public Company Limited|
+|20|164.163.42.56|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
