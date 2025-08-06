@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|27.79.183.77|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|9|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|10|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|12|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|14|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|15|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|16|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|17|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|18|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|19|152.53.168.53|44887|United States|Manassas|netcup GmbH|
-|20|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|2|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|3|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|4|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
+|5|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|6|171.228.154.82|4001|Vietnam|Hanoi|Viettel Corporation|
+|7|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|8|103.156.75.246|8181|Indonesia|Gianyar|PT Trika Global Media|
+|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|10|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|11|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|14|103.180.118.174|6789|Indonesia|Bilo|PT Persada Data Multimedia|
+|15|172.98.201.190|3128|United States|Dallas|Centrilogic|
+|16|202.137.14.57|8085|Indonesia|Tangerang|customer in Corporate Access|
+|17|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|19|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|20|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
