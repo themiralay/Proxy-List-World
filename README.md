@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|420|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|420|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|420|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|355|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|355|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|355|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|4|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|5|27.79.183.77|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|13|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|14|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|15|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|18|115.72.170.19|10008|Vietnam|Ho Chi Minh City|VIETELmetro|
-|19|184.82.137.239|8081|Thailand|Bang Lamung|AIS-Fibre|
-|20|42.118.173.169|16000|Vietnam|Hanoi|FPT Telecom Company|
+|2|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|5|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|6|118.70.13.38|41857|Vietnam|Hanoi|FPT Telecom Company|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|116.103.131.167|1011|Vietnam|Buon Ma Thuot|Viettel Corporation|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|11|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|15|164.90.205.31|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|16|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|18|109.120.133.3|1200|Sweden|Stockholm|Aeza International LTD|
+|19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
 
 
 
