@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|2|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|27.79.176.103|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|10|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|11|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|12|27.74.247.173|8080|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|13|27.79.169.252|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|15|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|16|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|17|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|18|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|19|185.200.37.114|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|7|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|10|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|12|27.79.236.43|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|27.79.183.77|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|15|47.236.37.129|18081|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|18|181.143.42.138|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|19|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|20|103.243.238.20|8080|Bangladesh|Dhaka|Circle Network|
 
 
 
