@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|3|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|6|116.98.188.155|1028|Vietnam|Buon Ma Thuot|Viettel Corporation|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|27.79.183.77|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|10|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|11|161.132.37.122|3128|Peru|Santa Anita - Los Ficus|Red Cientifica Peruana|
-|12|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|13|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|14|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
-|15|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|16|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|17|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|18|27.79.215.129|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|65.38.213.154|8881|Puerto Rico|San Juan|AT&T Mobility Puerto Rico|
-|20|27.79.193.16|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|5|158.101.157.64|8901|Japan|Tokyo|Oracle Corporation|
+|6|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|8|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|11|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|12|103.243.238.20|8080|Bangladesh|Dhaka|Circle Network|
+|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|14|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|17|27.79.175.79|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|19|212.175.88.208|8080|Türkiye|Çorlu|Turk Telekomunikasyon Anonim Sirketi|
+|20|85.117.61.74|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
 
 
 
