@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|8.219.233.135|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 |5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |6|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
 |7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|27.79.215.129|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|10|27.79.175.79|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|14|27.79.171.61|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|27.79.225.197|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|17|3.107.252.199|8099|Australia|Sydney|Amazon Technologies Inc.|
-|18|191.101.190.207|8080|Singapore|Singapore|PT Perwira Media Solusi|
-|19|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
-|20|36.95.173.90|8899|Indonesia|Bintaro|PT. Telekomunikasi Indonesia|
+|8|173.209.63.70|8192|Canada|Montreal|GloboTech Communications|
+|9|36.95.173.90|8899|Indonesia|Bintaro|PT. Telekomunikasi Indonesia|
+|10|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|11|27.79.175.79|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|3.107.252.199|8099|Australia|Sydney|Amazon Technologies Inc.|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
+|15|203.115.123.163|1452|India|Mumbai|PRIMENET|
+|16|103.165.156.186|8090|Indonesia|Jember|MEGADATA-ISP|
+|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|18|67.43.236.18|27541|Canada|Montreal|GloboTech Communications|
+|19|147.28.240.216|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|147.28.240.215|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
