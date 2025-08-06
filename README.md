@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|1.54.73.223|16000|Vietnam|Hanoi|FPT Telecom Company|
 |3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|5|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|8|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|1.54.73.223|16000|Vietnam|Hanoi|FPT Telecom Company|
-|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|12|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|13|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
-|14|27.79.215.129|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|58.187.71.211|16000|Vietnam|Hanoi|FPT Telecom Company|
-|16|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
-|17|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|18|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|177.253.224.58|8085|Colombia|Medellín|Colombia Móvil|
+|4|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|8|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|12|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|16|58.187.71.211|16000|Vietnam|Hanoi|FPT Telecom Company|
+|17|14.172.146.19|20399|Vietnam|Ho Chi Minh City|VNPT-VNNIC|
+|18|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|19|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|20|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
 
 
 
