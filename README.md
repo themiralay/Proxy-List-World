@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|9|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
-|10|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|11|37.27.142.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|13|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|14|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|27.79.183.77|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|27.79.175.79|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|20|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|5|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|8|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|9|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
+|10|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
+|11|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|192.177.33.17|8000|United States|San Jose|EGIHosting|
+|14|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|16|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|17|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|18|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|212.110.188.220|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
 
 
 
