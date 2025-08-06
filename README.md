@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|453|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|453|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|453|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|412|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|412|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|412|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|202.232.52.162|8080|Japan|Ōita|Internet Initiative Japan Inc.|
-|3|42.118.173.169|16000|Vietnam|Hanoi|FPT Telecom Company|
+|2|27.79.236.43|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|27.79.183.77|16000|Vietnam|Hanoi|Viettel Corporation|
 |4|27.79.170.65|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|6|27.79.236.43|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|8|1.52.197.2|16000|Vietnam|Ha Long|Vietnam Internet Network Information Center|
-|9|1.54.73.223|16000|Vietnam|Hanoi|FPT Telecom Company|
-|10|27.79.183.77|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|1.54.73.223|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|1.52.197.2|16000|Vietnam|Ha Long|Vietnam Internet Network Information Center|
+|7|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|8|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|42.118.173.169|16000|Vietnam|Hanoi|FPT Telecom Company|
 |11|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|12|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|15|113.23.195.9|1231|Malaysia|Setapak|Extreme Broadband|
+|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|13|160.19.19.114|8080|Indonesia|Jatiroto|PT Indo Telemedia Solusi|
+|14|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|15|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |16|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|17|202.169.51.45|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
-|18|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|19|152.53.194.55|21609|United States|Reston|netcup GmbH|
-|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|18|164.90.205.31|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|202.232.52.162|8080|Japan|Ōita|Internet Initiative Japan Inc.|
 
 
 
