@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|7|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
-|8|192.177.33.68|8000|United States|San Jose|EGIHosting|
-|9|152.53.168.53|44887|United States|Manassas|netcup GmbH|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|6|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
+|11|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
 |12|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|13|173.209.63.66|8232|Canada|Montreal|GloboTech Communications|
-|14|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
-|15|72.10.160.170|1707|Canada|Montreal|GloboTech Communications|
-|16|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|17|147.28.240.216|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|18|147.28.240.210|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|19|147.28.240.200|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|20|88.210.11.216|8989|The Netherlands|Amsterdam|Servers Tech Fzco|
+|13|190.119.90.114|8080|Peru|Cangallo|America Movil Peru S.A.C.|
+|14|14.172.146.19|20399|Vietnam|Ho Chi Minh City|VNPT-VNNIC|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|152.53.168.53|44887|United States|Manassas|netcup GmbH|
+|17|212.110.188.202|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|18|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|19|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|20|72.10.160.170|11593|Canada|Montreal|GloboTech Communications|
 
 
 
