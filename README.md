@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|2|23.237.210.82|80|United States|Dallas|FDCservers.net|
 |3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|7|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|8|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|12|58.187.71.211|16000|Vietnam|Hanoi|FPT Telecom Company|
-|13|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|14|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|15|3.107.252.199|8099|Australia|Sydney|Amazon Technologies Inc.|
-|16|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|17|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
-|18|114.9.24.2|1452|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|19|45.175.155.42|999|Argentina|Río Segundo|Albornoz Guido Ruben|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|5|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|6|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|7|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|58.187.71.211|16000|Vietnam|Hanoi|FPT Telecom Company|
+|10|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|27.79.171.61|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|14|103.81.194.123|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|173.209.63.70|8192|Canada|Montreal|GloboTech Communications|
+|18|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|19|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|20|114.9.24.2|1452|Indonesia|Jakarta|PT. INDOSAT Tbk|
 
 
 
