@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|395|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|395|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|395|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|474|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|474|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|474|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|103.38.102.142|8080|Indonesia|Cilacap|LAXONET|
 |3|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|4|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|5|116.103.128.165|1023|Vietnam|Buon Ma Thuot|Viettel Corporation|
-|6|171.228.176.205|4001|Vietnam|Hanoi|Viettel Corporation|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|9|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|12|23.94.236.141|8080|United States|Los Angeles|HostPapa|
-|13|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|15|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|17|123.18.234.145|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|6|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|7|123.18.234.145|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|9|23.236.65.231|38080|United States|Los Angeles|Zenlayer Inc|
+|10|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|13|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|14|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|15|58.187.70.8|16000|Vietnam|Hanoi|FPT Telecom Company|
+|16|42.113.20.0|16000|Vietnam|Hanoi|FPT Telecom Company|
+|17|42.119.154.222|16000|Vietnam|Hanoi|FPT Telecom Company|
+|18|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|19|80.78.30.182|3128|Sweden|Malmo|ab stract|
 |20|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
 
 
