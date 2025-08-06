@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|352|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|352|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|352|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|116.98.183.148|1010|Vietnam|Hanoi|Viettel Corporation|
-|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|103.180.126.82|8080|Indonesia|Jakarta|PT Alam Media Data|
+|2|27.79.175.79|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|4|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|70.36.99.51|3128|United States|Los Angeles|Perfect International, Inc|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |8|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|10|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|11|70.36.99.51|3128|United States|Los Angeles|Perfect International, Inc|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|15|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|16|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|17|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|18|103.147.163.196|7979|Bangladesh|Dhaka|Carnival Internet|
-|19|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|20|114.9.24.2|1452|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|9|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|10|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|11|103.172.70.140|1111|Indonesia|Sukabumi|AZNET|
+|12|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|13|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|15|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|16|27.79.169.252|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|27.79.236.43|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|19|102.213.179.194|8081|Kenya|Nairobi|NEXT THING NETWORKS Limited|
+|20|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
 
 
 
