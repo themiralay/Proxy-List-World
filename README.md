@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **74767** proxies at the latest update. Usable proxies are below.
+> Scraper found **74764** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|413|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|413|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|413|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|423|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|423|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|423|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35751|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35748|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|116|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|37674|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|116.98.183.148|1010|Vietnam|Hanoi|Viettel Corporation|
-|3|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|2|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|9|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|10|103.214.103.19|8083|Indonesia|Deli Tua|SMARTPLUS|
+|11|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 |12|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
 |14|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|15|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|16|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|17|88.210.11.216|8989|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
-|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|23.94.236.141|8080|United States|Los Angeles|HostPapa|
+|16|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|17|1.54.73.223|16000|Vietnam|Hanoi|FPT Telecom Company|
+|18|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|19|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
+|20|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
