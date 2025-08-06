@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|2|202.232.52.162|8080|Japan|Ōita|Internet Initiative Japan Inc.|
 |3|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
 |4|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|5|70.36.99.51|3128|United States|Los Angeles|Perfect International, Inc|
-|6|103.254.106.58|8080|Indonesia|Labuhanmaringgai|PT GIGA PATRA MULTIMEDIA|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|6|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|7|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
 |8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|10|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|11|191.101.190.207|8080|Singapore|Singapore|PT Perwira Media Solusi|
-|12|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|13|103.147.163.196|7979|Bangladesh|Dhaka|Carnival Internet|
-|14|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|15|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|16|45.175.155.42|999|Argentina|Río Segundo|Albornoz Guido Ruben|
-|17|94.136.143.92|8888|Slovakia|Michalovce|Minet-sk|
-|18|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
-|19|103.180.126.82|8080|Indonesia|Jakarta|PT Alam Media Data|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|10|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|11|103.172.70.140|1111|Indonesia|Sukabumi|AZNET|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|14|103.14.251.20|38080|Cambodia|Phnom Penh|SIGROUPS|
+|15|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|18|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|19|27.79.236.43|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|38.7.131.190|999|Dominican Republic|La Boca de Mao Abajo|SERVICIOS NUÑEZ EIRL|
 
 
 
