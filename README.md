@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|388|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|388|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|388|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|202.232.52.162|8080|Japan|Ōita|Internet Initiative Japan Inc.|
-|3|27.79.187.88|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|27.71.128.132|16000|Vietnam|Bảo Lộc|Viettel Group|
-|5|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|2|27.79.187.88|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 |9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|13|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|14|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|12|42.117.243.39|16000|Vietnam|Hanoi|FPT Telecom Company|
+|13|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|14|202.232.52.162|8080|Japan|Ōita|Internet Initiative Japan Inc.|
+|15|24.173.217.114|55443|United States|Mesquite|Spectrum|
 |16|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|17|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
-|20|195.85.250.61|3128|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|17|27.79.158.253|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|27.79.210.238|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
