@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **39263** proxies at the latest update. Usable proxies are below.
+> Scraper found **74953** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35690|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|92|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|37945|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|3|116.103.129.201|1002|Vietnam|Buon Ma Thuot|Viettel Corporation|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|70.36.99.51|3128|United States|Los Angeles|Perfect International, Inc|
-|6|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|115.72.160.205|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|9|103.147.163.196|7979|Bangladesh|Dhaka|Carnival Internet|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|12|38.7.131.190|999|Dominican Republic|La Boca de Mao Abajo|SERVICIOS NUÑEZ EIRL|
-|13|27.79.176.103|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|15|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|16|45.175.155.42|999|Argentina|Río Segundo|Albornoz Guido Ruben|
-|17|94.136.143.92|8888|Slovakia|Michalovce|Minet-sk|
-|18|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|19|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|20|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|5|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|6|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|27.79.193.16|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|10|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|11|27.79.236.43|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|13|191.101.190.207|8080|Singapore|Singapore|PT Perwira Media Solusi|
+|14|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|15|45.175.155.42|999|Argentina|Río Segundo|Albornoz Guido Ruben|
+|16|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
+|17|31.14.114.68|1081|Iran|Tehran|Afranet Co|
+|18|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|19|177.68.149.122|8080|Brazil|São Paulo|Vivo|
+|20|93.91.112.247|41258|Russia|Tver|Fast Link Ltd.|
 
 
 
