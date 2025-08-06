@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|409|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|409|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|409|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |4|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|12|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|13|27.79.187.88|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|202.137.14.57|8085|Indonesia|Tangerang|customer in Corporate Access|
-|15|27.71.128.132|16000|Vietnam|Bảo Lộc|Viettel Group|
-|16|27.79.158.253|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|42.117.243.39|16000|Vietnam|Hanoi|FPT Telecom Company|
-|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|20|191.101.190.175|3127|Singapore|Singapore|PT Perwira Media Solusi|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|7|202.232.52.162|8080|Japan|Ōita|Internet Initiative Japan Inc.|
+|8|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|9|103.144.103.161|8080|Indonesia|Bantarpanjang|PANDAWANET|
+|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|13|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|16|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|17|1.54.73.223|16000|Vietnam|Hanoi|FPT Telecom Company|
+|18|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|19|27.79.158.253|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|27.79.187.88|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
