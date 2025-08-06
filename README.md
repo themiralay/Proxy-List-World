@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|27.79.183.77|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|27.79.188.232|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|126.209.73.253|8082|Philippines|Mandaluyong|Infinivan Incorporated|
+|3|27.79.183.77|16000|Vietnam|Hanoi|Viettel Corporation|
 |4|27.79.169.67|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|27.79.215.129|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|171.228.181.175|2001|Vietnam|Hanoi|Viettel Corporation|
-|7|27.79.176.103|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|27.79.175.79|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|27.79.169.252|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|15|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|16|27.79.193.16|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|70.36.99.51|3128|United States|Los Angeles|Perfect International, Inc|
-|18|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|19|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|20|103.143.197.218|8000|Indonesia|Karanganom|JERNIHNETWORK|
+|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|6|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|27.79.175.79|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|14|27.79.169.252|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|16|27.79.236.43|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|18|70.36.99.51|3128|United States|Los Angeles|Perfect International, Inc|
+|19|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
