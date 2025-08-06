@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|3|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
 |5|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|6|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|7|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|8|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|9|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|10|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|11|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|12|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|173.209.63.66|8232|Canada|Montreal|GloboTech Communications|
-|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|18|103.249.201.50|60153|Vietnam|Ho Chi Minh City|Thuongcloud Company Limited|
-|19|190.104.37.36|999|Argentina|Buenos Aires|Jumpnet Soluciones de Internet S.R.L.|
-|20|147.28.240.210|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|11|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|12|173.209.63.70|8192|Canada|Montreal|GloboTech Communications|
+|13|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
+|14|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|27.79.169.67|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|17|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|18|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|20|27.79.215.129|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
