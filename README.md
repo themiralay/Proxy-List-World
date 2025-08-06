@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -42,22 +42,22 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
 |3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|7|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
-|10|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|11|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|12|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|27.79.169.67|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|16|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|17|173.209.63.66|8232|Canada|Montreal|GloboTech Communications|
-|18|212.110.188.220|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|19|147.75.49.154|80|United States|San Jose|Packet Host, Inc.|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|115.72.160.205|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|27.79.175.79|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
+|9|173.209.63.70|8192|Canada|Montreal|GloboTech Communications|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|13|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|14|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|15|212.110.188.189|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|16|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|18|83.222.184.91|3128|Bulgaria|Sofia|BGO Cloud Ltd|
+|19|212.110.188.220|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
 |20|147.28.240.217|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
