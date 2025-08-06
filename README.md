@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|3|103.155.168.160|8299|Indonesia|Karawang|PT Arozak Bima Yudho Sangkara|
-|4|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|5|27.79.159.88|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|10|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|12|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|13|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|14|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|15|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|16|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
-|18|200.121.48.195|999|Peru|Arequipa|Telefonica del Peru|
-|19|103.145.34.153|1111|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
-|20|103.155.197.103|8080|Indonesia|Bandung|JEMBATANDATA|
+|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|4|27.79.183.77|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.175.79|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|27.79.169.252|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|10|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|11|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|12|170.254.230.201|999|Colombia|Villavicencio|Media Commerce Partners S.A|
+|13|27.79.193.16|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|15|190.237.238.7|999|Peru|Lima|TDP-GRS|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|18|103.171.245.154|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
+|19|212.110.188.195|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
+|20|181.78.97.113|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
 
 
 
