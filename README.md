@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|58.187.71.211|16000|Vietnam|Hanoi|FPT Telecom Company|
-|3|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|7|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
-|12|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
-|13|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|14|202.232.52.162|8080|Japan|Ōita|Internet Initiative Japan Inc.|
-|15|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|16|173.209.63.70|8192|Canada|Montreal|GloboTech Communications|
-|17|173.209.63.66|8232|Canada|Montreal|GloboTech Communications|
-|18|190.104.37.36|999|Argentina|Buenos Aires|Jumpnet Soluciones de Internet S.R.L.|
-|19|45.175.155.42|999|Argentina|Río Segundo|Albornoz Guido Ruben|
-|20|3.107.252.199|8099|Australia|Sydney|Amazon Technologies Inc.|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|58.187.71.211|16000|Vietnam|Hanoi|FPT Telecom Company|
+|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|9|103.113.3.240|3128|Indonesia|Serpong|Diskominfo Tangerang Selatan|
+|10|27.79.169.67|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|13|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
+|14|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|15|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|16|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|18|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
+|19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
 
 
 
