@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|54.46.86.237|8080|Hong Kong|Hong Kong|Amazon.com|
 |3|43.198.114.229|8080|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|4|209.121.164.51|31147|Canada|Burnaby|TELUS Communications Inc.|
-|5|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
-|6|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|4|34.63.7.32|8080|United States|Council Bluffs|Google LLC|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|157.20.91.156|1111|Indonesia|Cempaka|PT Giga Global Network|
+|8|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|11|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
 |12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|13|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
 |15|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|16|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|17|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
-|20|103.81.194.120|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|16|34.63.7.32|8080|United States|Council Bluffs|Google LLC|
+|17|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|18|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|19|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|20|192.177.33.227|8000|United States|San Jose|EGIHosting|
 
 
 
