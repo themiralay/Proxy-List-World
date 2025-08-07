@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|9|31.14.114.73|1081|Iran|Tehran|Afranet Co|
-|10|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|14|223.25.100.235|8080|Indonesia|Prapen|PT Indonesia Comnets Plus|
-|15|3.107.252.199|8099|Australia|Sydney|Amazon Technologies Inc.|
-|16|154.73.28.145|8080|Libya|Tripoli|Rawafed|
-|17|200.125.168.222|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|18|42.117.243.39|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|177.234.217.42|999|Ecuador|Quito|Ufinet Panama S.A.|
-|20|147.28.240.216|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|4|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|5|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|12|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|16|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|17|42.117.243.39|16000|Vietnam|Hanoi|FPT Telecom Company|
+|18|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|20|45.174.205.91|999|Chile|Olmué|SERVICIOS INFORMÁTICOS IGNACIO LIZANA CARREÑO E.I.R.L(INALTEC).|
 
 
 
