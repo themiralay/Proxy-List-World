@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|363|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|363|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|363|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|402|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|402|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|402|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|54.46.86.237|8080|Hong Kong|Hong Kong|Amazon.com|
-|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|4|209.121.164.51|31147|Canada|Burnaby|TELUS Communications Inc.|
-|5|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
-|6|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|10|70.36.99.51|3128|United States|Los Angeles|Perfect International, Inc|
-|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|12|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|13|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|14|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
-|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|18|179.1.205.12|3150|Colombia|Bogotá|Internexa S.a. E.S.P|
-|19|1.54.73.223|16000|Vietnam|Hanoi|FPT Telecom Company|
-|20|38.211.24.18|8080|Indonesia|Bandung|PT Putra Garsel Interkoneksi|
+|2|43.198.114.229|8080|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|3|54.46.86.237|8080|Hong Kong|Hong Kong|Amazon.com|
+|4|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|7|110.136.83.63|1111|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|8|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|11|70.36.99.51|3128|United States|Los Angeles|Perfect International, Inc|
+|12|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|13|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|14|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|15|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|16|1.54.73.223|16000|Vietnam|Hanoi|FPT Telecom Company|
+|17|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|18|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|19|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
