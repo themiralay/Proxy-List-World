@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|139.59.228.95|8118|Singapore|Singapore|DIGITALOCEAN|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
 |4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|7|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|8|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
-|9|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|10|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|11|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
-|12|209.121.164.51|31147|Canada|Burnaby|TELUS Communications Inc.|
-|13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|14|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
-|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|16|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|8|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|9|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
+|10|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|13|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|15|27.79.237.228|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
 |17|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|18|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|19|36.64.162.194|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|20|103.165.157.122|8085|Indonesia|Mojokerto|MEGADATA-ISP|
+|18|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|19|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|20|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
 
 
 
