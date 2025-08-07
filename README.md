@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|3|92.58.181.171|7575|Spain|Madrid|UNI2|
-|4|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|5|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
-|6|173.209.63.70|8192|Canada|Montreal|GloboTech Communications|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|92.58.181.171|7575|Spain|Madrid|UNI2|
-|13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|14|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|15|72.10.160.91|6069|Canada|Montreal|GloboTech Communications|
-|16|147.28.240.218|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|17|147.28.240.216|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|18|152.53.194.46|8053|United States|Reston|netcup GmbH|
-|19|147.28.240.217|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|20|147.28.240.216|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|7|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
+|8|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|9|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|10|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|11|92.58.181.171|7575|Spain|Madrid|UNI2|
+|12|45.174.205.91|999|Chile|Olmué|SERVICIOS INFORMÁTICOS IGNACIO LIZANA CARREÑO E.I.R.L(INALTEC).|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|15|202.51.106.229|8080|Indonesia|Jakarta|PT Solusi Infostruktur Nusantara|
+|16|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|18|103.247.13.131|8080|Indonesia|Magelang|TERABIT|
+|19|92.58.181.171|7575|Spain|Madrid|UNI2|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
