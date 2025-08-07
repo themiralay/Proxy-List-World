@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|183.80.23.37|16000|Vietnam|Hanoi|FPT Telecom Company|
-|6|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|10|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|11|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|13|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|183.80.23.37|16000|Vietnam|Hanoi|FPT Telecom Company|
+|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|8|1.54.73.223|16000|Vietnam|Hanoi|FPT Telecom Company|
+|9|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |14|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|15|62.60.236.119|3128|Finland|Helsinki|Aeza International LTD|
-|16|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|18|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|19|31.14.114.76|1081|Iran|Tehran|Afranet Co|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|16|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|18|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|19|62.60.236.119|3128|Finland|Helsinki|Aeza International LTD|
+|20|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
 
 
 
