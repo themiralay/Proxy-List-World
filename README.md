@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
-|2|54.46.86.237|8080|Hong Kong|Hong Kong|Amazon.com|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|5|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|10|97.79.251.186|80|United States|Dallas|Spectrum|
-|11|23.94.236.141|8080|United States|Los Angeles|HostPapa|
-|12|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
-|13|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|14|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|15|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
-|16|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|17|1.54.73.223|16000|Vietnam|Hanoi|FPT Telecom Company|
-|18|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|19|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|20|38.147.75.252|999|Venezuela|La Concepción|NAVEGANTE NETWORK, C.A.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|43.198.114.229|8080|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|3|54.46.86.237|8080|Hong Kong|Hong Kong|Amazon.com|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|6|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|7|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|12|103.245.109.57|39355|Bangladesh|Paltan|ACE IT Networks Limited|
+|13|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|14|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|15|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
+|16|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|17|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
+|18|49.12.103.92|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|19|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|20|181.205.39.238|8080|Colombia|Medellín|Colombia Móvil|
 
 
 
