@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|140.227.81.191|3128|Japan|Chiyoda City|InfoSphere|
 |3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|5|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|6|103.171.255.188|8080|Indonesia|Sleman|ZKI|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|9|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
-|10|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
-|11|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|12|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|13|103.172.42.187|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|14|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
-|15|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|16|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|18|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|43.252.107.119|1111|Indonesia|Pepe|PT Lintas Data Prima|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|10|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|11|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|12|103.242.104.125|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|13|27.79.237.228|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|15|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
+|16|92.58.181.171|7575|Spain|Madrid|UNI2|
+|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|18|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|19|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|20|3.107.252.199|8099|Australia|Sydney|Amazon Technologies Inc.|
 
 
 
