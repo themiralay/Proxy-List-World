@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|171.228.154.82|4001|Vietnam|Hanoi|Viettel Corporation|
-|7|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|8|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|10|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
-|11|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|12|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|13|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|14|173.209.63.67|8173|Canada|Montreal|GloboTech Communications|
-|15|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|16|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|17|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|19|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|20|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|4|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|5|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|9|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|10|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|11|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
+|12|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|13|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|16|38.196.251.134|999|Dominican Republic|Santa Cruz de El Seibo|SDI DOMINICANA, S.R.L.|
+|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|18|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|19|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|20|212.110.188.222|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
 
 
 
