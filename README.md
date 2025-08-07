@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|5|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
-|6|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|41.33.252.209|80|Egypt|Cairo|TE Data|
-|12|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
-|13|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|4|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|116.103.143.179|1004|Vietnam|Buon Ma Thuot|Viettel Corporation|
+|10|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|11|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
+|12|192.177.33.197|8000|United States|San Jose|EGIHosting|
+|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
 |14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|18|157.15.82.197|8080|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
-|19|1.54.73.223|16000|Vietnam|Hanoi|FPT Telecom Company|
-|20|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|17|157.15.82.197|8080|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
+|18|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|19|173.209.63.67|8173|Canada|Montreal|GloboTech Communications|
+|20|198.23.236.47|1111|United States|Santa Clara|HostPapa|
 
 
 
