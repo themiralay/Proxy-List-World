@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|27.79.210.238|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|171.228.176.205|4001|Vietnam|Hanoi|Viettel Corporation|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|6|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|11|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|14|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|15|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|16|152.53.168.53|44887|United States|Manassas|netcup GmbH|
-|17|42.117.243.39|16000|Vietnam|Hanoi|FPT Telecom Company|
-|18|101.109.16.108|8080|Thailand|Laem Sing|TOT Public Company Limited|
-|19|23.94.236.141|8080|United States|Los Angeles|HostPapa|
-|20|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|3|27.79.210.238|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|27.79.187.88|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|13|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|14|42.117.243.39|16000|Vietnam|Hanoi|FPT Telecom Company|
+|15|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
+|16|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|18|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|19|101.109.16.108|8080|Thailand|Laem Sing|TOT Public Company Limited|
+|20|103.249.201.50|60153|Vietnam|Ho Chi Minh City|Thuongcloud Company Limited|
 
 
 
