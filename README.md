@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|5|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|158.69.185.37|3129|Canada|Montreal|OVH SAS|
 |6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|11|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|12|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|13|58.136.169.92|8080|Thailand|Bangkok|AIS-Fibre|
-|14|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|15|103.126.173.203|8880|Indonesia|Natar|MEGARAP|
-|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|17|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
-|18|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
-|19|170.64.149.240|3128|Australia|Sydney|DigitalOcean, LLC|
-|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|12|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|13|170.64.149.240|3128|Australia|Sydney|DigitalOcean, LLC|
+|14|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|15|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|16|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|17|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|18|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|19|27.79.187.88|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
 
 
 
