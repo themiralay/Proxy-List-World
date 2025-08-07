@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|36.93.163.219|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|170.64.149.240|3128|Australia|Sydney|DigitalOcean, LLC|
-|9|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
-|10|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|4|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|5|171.228.181.175|2001|Vietnam|Hanoi|Viettel Corporation|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|27.79.210.238|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
 |12|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|14|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|15|101.255.209.94|8070|Indonesia|Tangerang|PT Remala Abadi|
-|16|103.126.173.203|8880|Indonesia|Natar|MEGARAP|
-|17|103.156.74.186|8080|Indonesia|Negara|PT Trika Global Media|
-|18|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|19|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
-|20|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|13|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
+|14|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|15|103.193.144.234|8080|Indonesia|Pangkalan Brandan|PT Lintas Jaringan Nusantara|
+|16|101.255.209.94|8070|Indonesia|Tangerang|PT Remala Abadi|
+|17|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|18|42.117.243.39|16000|Vietnam|Hanoi|FPT Telecom Company|
+|19|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
+|20|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 
 
 
