@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|392|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|392|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|392|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|461|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|461|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|461|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|54.46.86.237|8080|Hong Kong|Hong Kong|Amazon.com|
-|3|209.121.164.51|31147|Canada|Burnaby|TELUS Communications Inc.|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|112.209.17.218|8081|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|4|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 |5|1.55.60.47|16000|Vietnam|Hanoi|FPT Telecom Company|
-|6|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|7|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
+|6|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|7|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
 |8|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|9|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|10|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|11|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|12|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|14|144.34.228.13|3128|United States|Los Angeles|IT7 Networks Inc|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|17|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|18|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|19|103.80.214.194|8080|Indonesia|Sidoarjo|PT Redi Revolusi Digital Solusi|
-|20|45.86.44.243|1080|Russia|Moscow|Lutacom LLC|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|103.145.34.153|1111|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
+|14|118.68.167.162|16000|Vietnam|Hanoi|FPT Telecom Company|
+|15|125.163.141.21|3128|Indonesia|Ponorogo|PT. Telekomunikasi Indonesia|
+|16|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|17|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 
 
 
