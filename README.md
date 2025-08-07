@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|364|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|364|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|364|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|342|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|342|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|342|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|43.198.114.229|8080|Hong Kong|Hong Kong|Amazon.com, Inc.|
 |3|54.46.86.237|8080|Hong Kong|Hong Kong|Amazon.com|
 |4|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|7|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|8|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|9|1.54.73.223|16000|Vietnam|Hanoi|FPT Telecom Company|
-|10|70.36.99.51|3128|United States|Los Angeles|Perfect International, Inc|
-|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|5|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|9|198.23.236.47|1111|United States|Santa Clara|HostPapa|
+|10|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|11|1.54.73.223|16000|Vietnam|Hanoi|FPT Telecom Company|
 |12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
-|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|20|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|13|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|186.96.67.85|999|Venezuela|Caracas|Gold Data USA Inc|
+|16|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
+|17|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|18|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|19|62.60.236.119|3128|Finland|Helsinki|Aeza International LTD|
+|20|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 
 
 
