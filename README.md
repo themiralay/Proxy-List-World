@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|6|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|7|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
-|8|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
-|9|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|10|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|11|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|12|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
-|13|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|14|147.28.240.217|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|15|67.43.228.250|6105|Canada|Montreal|GloboTech Communications|
-|16|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
-|17|147.28.240.215|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|18|147.28.240.214|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|19|147.28.240.215|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|20|103.242.104.191|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
+|7|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|8|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
+|11|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|12|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|13|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|14|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|103.174.122.203|8090|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
+|18|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
+|19|147.28.240.217|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|67.43.228.250|11941|Canada|Montreal|GloboTech Communications|
 
 
 
