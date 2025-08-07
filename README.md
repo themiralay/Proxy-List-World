@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|5|92.58.181.171|7575|Spain|Madrid|UNI2|
-|6|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
-|7|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|8|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|9|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
-|10|45.174.205.91|999|Chile|Olmué|SERVICIOS INFORMÁTICOS IGNACIO LIZANA CARREÑO E.I.R.L(INALTEC).|
-|11|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|12|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|13|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|14|147.28.240.216|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|15|144.76.159.121|8082|Germany|Falkenstein|Hetzner Online GmbH|
-|16|147.28.240.214|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|17|147.28.240.217|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|18|147.28.240.217|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|19|38.159.229.249|999|Ecuador|Vinces|Turbonet S.A.|
-|20|164.163.42.47|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|3|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|4|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|5|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|92.58.181.171|7575|Spain|Madrid|UNI2|
+|9|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|10|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
+|11|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|13|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|17|45.174.205.91|999|Chile|Olmué|SERVICIOS INFORMÁTICOS IGNACIO LIZANA CARREÑO E.I.R.L(INALTEC).|
+|18|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
