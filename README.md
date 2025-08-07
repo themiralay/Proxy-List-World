@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|373|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|373|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|373|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|54.46.86.237|8080|Hong Kong|Hong Kong|Amazon.com|
-|3|43.198.114.229|8080|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|4|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|202.137.14.57|8085|Indonesia|Tangerang|customer in Corporate Access|
-|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|8|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|9|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|2|43.198.114.229|8080|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|3|54.46.86.237|8080|Hong Kong|Hong Kong|Amazon.com|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|70.36.99.51|3128|United States|Los Angeles|Perfect International, Inc|
+|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|9|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
 |10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|12|103.194.175.174|7777|Indonesia|Padang Krajan|MYNET|
-|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|14|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
-|15|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|16|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|17|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|18|190.97.226.130|999|Venezuela|Caracas|Viginet C.A|
-|19|92.58.181.171|7575|Spain|Madrid|UNI2|
-|20|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
+|13|92.58.181.171|7575|Spain|Madrid|UNI2|
+|14|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|17|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|18|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|20|103.194.175.174|7777|Indonesia|Padang Krajan|MYNET|
 
 
 
