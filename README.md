@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|6|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|103.145.34.153|1111|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|27.71.128.132|16000|Vietnam|Bảo Lộc|Viettel Group|
+|8|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |9|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
-|10|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|11|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|12|31.14.114.73|1081|Iran|Tehran|Afranet Co|
-|13|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|14|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|15|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|16|103.172.121.52|8083|Indonesia|Purwodadi Grobogan|PT Digital Akses Nusantara|
-|17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|3.107.252.199|8099|Australia|Sydney|Amazon Technologies Inc.|
+|10|157.20.252.30|8080|Indonesia|Tanjung Pinang|PT.Global Media Data Prima|
+|11|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|12|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|13|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|14|42.117.243.39|16000|Vietnam|Hanoi|FPT Telecom Company|
+|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|16|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|17|103.81.195.94|2020|Indonesia|Utan|PT Rtiga Global Media|
+|18|23.94.236.141|8080|United States|Los Angeles|HostPapa|
+|19|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|20|31.14.114.73|1081|Iran|Tehran|Afranet Co|
 
 
 
