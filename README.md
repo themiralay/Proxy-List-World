@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75143** proxies at the latest update. Usable proxies are below.
+> Scraper found **75084** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35699|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35640|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|67|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38151|✅|
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |5|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|6|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|7|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
-|8|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|9|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
-|10|45.174.205.91|999|Chile|Olmué|SERVICIOS INFORMÁTICOS IGNACIO LIZANA CARREÑO E.I.R.L(INALTEC).|
-|11|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|12|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|13|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|14|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|15|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|16|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|17|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|19|109.120.133.3|1200|Sweden|Stockholm|Aeza International LTD|
-|20|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|9|45.174.205.91|999|Chile|Olmué|SERVICIOS INFORMÁTICOS IGNACIO LIZANA CARREÑO E.I.R.L(INALTEC).|
+|10|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|11|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
+|12|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|13|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|14|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|16|144.76.159.121|8082|Germany|Falkenstein|Hetzner Online GmbH|
+|17|147.28.240.218|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|18|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|19|147.28.240.216|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
 
 
 
