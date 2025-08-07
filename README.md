@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75629** proxies at the latest update. Usable proxies are below.
+> Scraper found **75577** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|390|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|390|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|390|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|392|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|392|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|392|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35853|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35801|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|133|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38417|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|54.46.86.237|8080|Hong Kong|Hong Kong|Amazon.com|
-|3|1.55.60.47|16000|Vietnam|Hanoi|FPT Telecom Company|
-|4|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|5|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|103.14.251.20|38080|Cambodia|Phnom Penh|SIGROUPS|
-|7|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|8|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|209.121.164.51|31147|Canada|Burnaby|TELUS Communications Inc.|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|1.55.60.47|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|7|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
+|8|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|9|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
 |10|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|11|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|12|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |14|144.34.228.13|3128|United States|Los Angeles|IT7 Networks Inc|
-|15|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|16|115.75.184.174|8080|Vietnam|Ho Chi Minh City|VIETELxdsl|
-|17|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|18|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|19|118.71.173.41|16000|Vietnam|Hanoi|FPT|
-|20|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|17|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|18|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|19|103.80.214.194|8080|Indonesia|Sidoarjo|PT Redi Revolusi Digital Solusi|
+|20|45.86.44.243|1080|Russia|Moscow|Lutacom LLC|
 
 
 
