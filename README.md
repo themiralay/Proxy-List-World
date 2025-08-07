@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|406|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|406|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|406|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|54.46.86.237|8080|Hong Kong|Hong Kong|Amazon.com|
 |3|43.198.114.229|8080|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|4|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|20.2.83.243|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|9|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|20.2.83.243|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
 |10|34.63.7.32|8080|United States|Council Bluffs|Google LLC|
 |11|34.63.7.32|8080|United States|Council Bluffs|Google LLC|
-|12|27.79.238.203|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|15|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|16|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|18|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|19|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|14|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|15|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|16|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|19|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|20|27.79.238.203|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
