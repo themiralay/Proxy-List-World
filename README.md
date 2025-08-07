@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|7|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|10|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|4|160.19.146.179|13|Indonesia|Tasikmalaya|PT Taska Sarana Nusantara|
+|5|103.172.42.187|1111|Indonesia|Karawang|PT Media Solusi Sukses|
+|6|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|7|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|8|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
+|9|103.249.201.50|60153|Vietnam|Ho Chi Minh City|Thuongcloud Company Limited|
+|10|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 |11|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|12|116.103.143.179|1004|Vietnam|Buon Ma Thuot|Viettel Corporation|
-|13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|14|152.53.168.53|44887|United States|Manassas|netcup GmbH|
-|15|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|14|192.177.139.148|8000|United States|Chicago|EGIHosting|
+|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
 |16|173.209.63.70|8192|Canada|Montreal|GloboTech Communications|
-|17|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|212.110.188.193|34409|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|20|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|17|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|18|45.59.117.2|8080|Switzerland|Bern|FranTech Solutions|
+|19|190.97.236.144|999|Venezuela|El Tigre|Viginet C.A|
+|20|144.48.162.101|8080|Bangladesh|Kāfrul|Cue Club Technology|
 
 
 
