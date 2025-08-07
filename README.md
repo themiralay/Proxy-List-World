@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|4|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|5|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|11|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|12|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
-|13|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|17|103.80.88.75|8080|Indonesia|Gorontalo|PT Jala Lintas Media|
-|18|49.49.199.16|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
-|19|81.162.242.127|8021|Ukraine|Vasylkiv|PP "TRC"City TV center"|
-|20|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|5|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|8|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|9|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|11|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|12|38.211.24.18|8080|Indonesia|Bandung|PT Putra Garsel Interkoneksi|
+|13|103.115.20.71|8181|Indonesia|Subang|PMYNET|
+|14|24.173.217.114|55443|United States|Mesquite|Spectrum|
+|15|101.255.211.42|1111|Indonesia|Tangerang|PT Remala Abadi|
+|16|141.11.37.220|8080|Italy|Roma|NForce Entertainment B.V.|
+|17|41.33.252.209|80|Egypt|Cairo|TE Data|
+|18|91.231.182.147|8080|Ukraine|Kyiv|South Park Networks LLC|
+|19|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|20|114.9.24.2|1452|Indonesia|Jakarta|PT. INDOSAT Tbk|
 
 
 
