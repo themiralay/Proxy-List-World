@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|54.46.86.237|8080|Hong Kong|Hong Kong|Amazon.com|
 |3|43.198.114.229|8080|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|4|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|7|20.2.83.243|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|15|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|16|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|18|157.20.91.156|1111|Indonesia|Cempaka|PT Giga Global Network|
-|19|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|20|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|4|20.2.83.243|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|5|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|6|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|34.63.7.32|8080|United States|Council Bluffs|Google LLC|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|27.79.238.203|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|34.63.7.32|8080|United States|Council Bluffs|Google LLC|
+|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|14|103.247.240.34|8080|Indonesia|Nipah Panjang|PT Media Kerinci Network|
+|15|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|16|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|17|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|20|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
