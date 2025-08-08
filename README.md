@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|400|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|400|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|400|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|396|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|396|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|396|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|54.46.86.237|8080|Hong Kong|Hong Kong|Amazon.com|
 |3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|5|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|27.71.130.147|16000|Vietnam|Bảo Lộc|Viettel Group|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|27.79.218.68|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|58.186.92.156|16000|Vietnam|Hanoi|FPT Telecom Company|
 |8|27.79.175.211|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|27.79.153.170|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|27.79.218.68|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|42.118.1.217|16000|Vietnam|Hanoi|FPT Telecom Company|
-|13|103.14.79.36|3128|Singapore|Singapore|NewMedia Express Pte Ltd|
-|14|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|15|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|16|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|17|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|18|27.79.195.29|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|27.79.208.76|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|27.79.237.178|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|11|58.186.53.22|16000|Vietnam|Hanoi|FPT Telecom Company|
+|12|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|13|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|16|27.79.153.170|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|42.118.1.217|16000|Vietnam|Hanoi|FPT Telecom Company|
+|18|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|19|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|20|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
