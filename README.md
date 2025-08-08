@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|387|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|387|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|387|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|54.46.86.237|8080|Hong Kong|Hong Kong|Amazon.com|
-|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|4|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|8|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|9|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|10|209.121.164.51|31147|Canada|Burnaby|TELUS Communications Inc.|
-|11|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|4|54.46.86.237|8080|Hong Kong|Hong Kong|Amazon.com|
+|5|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|6|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|8|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|13|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
-|14|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|15|27.71.130.147|16000|Vietnam|Bảo Lộc|Viettel Group|
-|16|27.79.251.6|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|42.119.98.236|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|18|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|19|58.187.71.97|16000|Vietnam|Hanoi|FPT Telecom Company|
-|20|51.159.159.73|80|France|Paris|SCALEWAY|
+|13|103.180.196.113|2024|Indonesia|Yogyakarta|PT Dekadata Lingkar Nusantara|
+|14|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
+|15|31.57.178.98|8080|Indonesia|Jakarta|PT Perwira Media Solusi|
+|16|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|18|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|19|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|20|161.49.87.222|8095|Philippines|Pasig|Converge ICT Solution Inc|
 
 
 
