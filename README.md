@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|3|77.110.114.19|8118|United States|Charlotte|Aeza International LTD|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|6|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|7|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|8|34.124.190.108|8090|Singapore|Singapore|Google LLC|
-|9|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|10|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|11|27.79.140.116|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|4|27.79.140.222|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|6|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|7|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|8|58.187.70.43|16000|Vietnam|Hanoi|FPT Telecom Company|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|49.12.103.92|8081|Germany|Falkenstein|Hetzner Online GmbH|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |12|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|13|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|14|200.92.201.126|999|Mexico|San José Iturbide|Mega Cable, S.A. de C.V.|
-|15|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|16|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|17|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|18|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|19|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|20|1.55.60.47|16000|Vietnam|Hanoi|FPT Telecom Company|
+|13|27.79.237.178|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|16|24.152.40.49|8080|Paraguay|Coronel Oviedo|TV MAX CABLE S.A.|
+|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|18|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|19|72.10.164.178|2441|Canada|Montreal|GloboTech Communications|
+|20|62.201.217.194|8080|Iraq|Sulaymaniyah|BAG|
 
 
 
