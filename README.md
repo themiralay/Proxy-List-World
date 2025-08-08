@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |3|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |5|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|6|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|9|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|10|37.120.162.180|42824|Germany|Nuremberg|netcup GmbH|
-|11|212.110.188.195|34411|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|12|77.110.114.19|8118|United States|Charlotte|Aeza International LTD|
-|13|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|66.94.113.79|3128|United States|Seattle|Contabo Inc.|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|20|58.187.70.96|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|34.124.190.108|8090|Singapore|Singapore|Google LLC|
+|8|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|9|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|11|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|13|38.52.222.246|999|Dominican Republic|Santo Domingo|TELECABLE DOMINICANO, S.A.|
+|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|15|31.14.114.67|1081|Iran|Tehran|Afranet Co|
+|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|17|72.10.160.172|28745|Canada|Montreal|GloboTech Communications|
+|18|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|19|103.167.31.155|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|20|144.76.159.121|8082|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
