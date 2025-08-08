@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75165** proxies at the latest update. Usable proxies are below.
+> Scraper found **75167** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35690|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35692|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|75|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38174|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|202.232.52.162|8080|Japan|Ōita|Internet Initiative Japan Inc.|
-|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|4|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|7|192.177.33.168|8000|United States|San Jose|EGIHosting|
-|8|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|9|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|10|27.79.153.170|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|42.118.1.217|16000|Vietnam|Hanoi|FPT Telecom Company|
-|12|58.187.70.166|16000|Vietnam|Hanoi|FPT Telecom Company|
-|13|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|14|58.187.70.96|16000|Vietnam|Hanoi|FPT Telecom Company|
-|15|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|16|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
-|17|45.86.44.243|1080|Russia|Moscow|Lutacom LLC|
-|18|27.79.175.211|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|58.186.92.156|16000|Vietnam|Hanoi|FPT Telecom Company|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|2|58.187.70.166|16000|Vietnam|Hanoi|FPT Telecom Company|
+|3|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
+|4|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|5|27.79.140.222|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|27.79.153.170|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|58.187.70.96|16000|Vietnam|Hanoi|FPT Telecom Company|
+|8|27.79.175.211|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|10|58.186.92.156|16000|Vietnam|Hanoi|FPT Telecom Company|
+|11|27.71.134.202|16000|Vietnam|Bảo Lộc|Viettel Group|
+|12|1.55.60.47|16000|Vietnam|Hanoi|FPT Telecom Company|
+|13|42.119.98.236|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|14|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|15|27.79.140.116|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|17|42.118.1.217|16000|Vietnam|Hanoi|FPT Telecom Company|
+|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|19|27.79.218.68|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
 
 
 
