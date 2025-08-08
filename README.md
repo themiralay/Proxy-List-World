@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |3|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|8|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|9|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|10|191.7.215.165|1452|Brazil|Santa Quitéria|HTM Serviços de Telecomunicações EIRELI|
-|11|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|12|49.48.202.196|8080|Thailand|Nakhon Pathom|Triple T Broadband Public Company Limited|
-|13|58.186.92.156|16000|Vietnam|Hanoi|FPT Telecom Company|
-|14|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|17|66.94.113.79|3128|United States|Seattle|Contabo Inc.|
-|18|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|20|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|4|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|5|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|6|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|24.173.217.114|55443|United States|Mesquite|Spectrum|
+|9|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|10|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|11|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|12|66.94.113.79|3128|United States|Seattle|Contabo Inc.|
+|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|14|192.177.33.227|8000|United States|San Jose|EGIHosting|
+|15|185.200.38.53|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|173.209.63.66|8176|Canada|Montreal|GloboTech Communications|
+|18|72.10.164.178|28447|Canada|Montreal|GloboTech Communications|
+|19|38.190.100.236|999|Peru|San Juan de Lurigancho|Conex TV E.I.R.L.|
+|20|157.66.50.147|8080|Indonesia|Karawang|PT BARAYA TELEKOMUNIKASI INDONESIA|
 
 
 
