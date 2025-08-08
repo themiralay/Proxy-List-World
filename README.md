@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|3|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|4|139.180.138.188|5555|Singapore|Singapore|SGP VULTR|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|7|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|8|171.237.94.173|1008|Vietnam|Hanoi|Viettel Corporation|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|58.187.70.96|16000|Vietnam|Hanoi|FPT Telecom Company|
-|11|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|12|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|13|103.195.65.162|8080|Indonesia|Tigaraksa|PT Perwira Media Solusi|
-|14|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|15|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
-|16|14.224.218.210|8080|Vietnam|Hanoi|VNPT|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|19|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|20|185.82.238.42|8888|Czechia|Ryžoviště|O2 Czech Republic, a.s.|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
