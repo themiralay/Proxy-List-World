@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|2|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|77.110.114.19|8118|United States|Charlotte|Aeza International LTD|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|9|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|10|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|11|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|12|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|13|72.10.160.90|32157|Canada|Montreal|GloboTech Communications|
-|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|147.28.240.218|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|16|147.28.240.216|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|17|72.10.160.93|1055|Canada|Montreal|GloboTech Communications|
-|18|27.79.249.209|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|147.28.240.214|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|20|147.28.240.217|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|1|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|2|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
+|8|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|11|72.10.160.90|32157|Canada|Montreal|GloboTech Communications|
+|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|13|147.28.240.218|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|14|49.12.103.92|8088|Germany|Falkenstein|Hetzner Online GmbH|
+|15|49.12.103.92|8088|Germany|Falkenstein|Hetzner Online GmbH|
+|16|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|17|147.28.240.216|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|18|57.128.188.167|8085|United Kingdom|Erith|OVH SAS|
+|19|72.10.160.93|1055|Canada|Montreal|GloboTech Communications|
+|20|58.187.70.96|16000|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
