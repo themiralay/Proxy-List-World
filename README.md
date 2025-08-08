@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75352** proxies at the latest update. Usable proxies are below.
+> Scraper found **75474** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|393|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|393|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|393|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|400|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|400|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|400|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35725|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35847|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|114|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38287|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|54.46.86.237|8080|Hong Kong|Hong Kong|Amazon.com|
-|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|4|27.79.170.33|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|58.186.53.22|16000|Vietnam|Hanoi|FPT Telecom Company|
-|6|27.79.243.7|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|27.79.195.29|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|27.79.159.236|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|27.79.237.178|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|27.79.170.100|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|5|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|27.71.130.147|16000|Vietnam|Bảo Lộc|Viettel Group|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|27.79.175.211|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|27.79.153.170|16000|Vietnam|Hanoi|Viettel Corporation|
 |11|27.79.218.68|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|27.79.208.76|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|42.118.1.217|16000|Vietnam|Hanoi|FPT Telecom Company|
-|14|27.79.175.211|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|27.71.134.202|16000|Vietnam|Bảo Lộc|Viettel Group|
-|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|17|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|19|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|20|27.79.140.116|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|42.118.1.217|16000|Vietnam|Hanoi|FPT Telecom Company|
+|13|103.14.79.36|3128|Singapore|Singapore|NewMedia Express Pte Ltd|
+|14|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|15|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|16|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|17|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|18|27.79.195.29|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|27.79.208.76|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|27.79.237.178|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
