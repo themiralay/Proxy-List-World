@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|3|58.187.70.96|16000|Vietnam|Hanoi|FPT Telecom Company|
-|4|27.79.131.88|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|27.79.240.177|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|27.79.240.177|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|27.79.131.88|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|5|58.187.70.96|16000|Vietnam|Hanoi|FPT Telecom Company|
 |6|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|7|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|8|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|9|58.186.92.156|16000|Vietnam|Hanoi|FPT Telecom Company|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|13|42.119.98.236|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|14|42.118.2.102|16000|Vietnam|Hanoi|FPT Telecom Company|
-|15|103.145.34.153|1111|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
-|16|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|17|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|18|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|19|115.72.42.187|10001|Vietnam|Hanoi|VIETELmetro|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|8|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|9|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|10|115.72.42.187|10001|Vietnam|Hanoi|VIETELmetro|
+|11|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|12|27.79.243.7|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|14|58.186.92.156|16000|Vietnam|Hanoi|FPT Telecom Company|
+|15|42.118.2.102|16000|Vietnam|Hanoi|FPT Telecom Company|
+|16|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|17|212.175.88.208|8080|Türkiye|Çorlu|Turk Telekomunikasyon Anonim Sirketi|
+|18|116.203.51.18|8118|Germany|Nuremberg|Hetzner Online GmbH|
+|19|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|20|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
