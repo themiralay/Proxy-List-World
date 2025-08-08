@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|9|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|10|185.155.99.114|8118|Estonia|Narva|RJ Network OU|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|58.187.70.43|16000|Vietnam|Hanoi|FPT Telecom Company|
+|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|9|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|10|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|11|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |13|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|14|27.79.140.116|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
-|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|17|77.110.114.19|8118|United States|Charlotte|Aeza International LTD|
-|18|170.245.132.86|999|Paraguay|Nueva Italia|MACHADO BAEZ, NERY JAVIER|
-|19|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|20|38.7.131.190|999|Dominican Republic|La Boca de Mao Abajo|SERVICIOS NUÑEZ EIRL|
+|14|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|15|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|16|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|17|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|18|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
