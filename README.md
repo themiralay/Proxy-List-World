@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|397|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|397|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|397|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
 |4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|5|202.232.52.162|8080|Japan|Ōita|Internet Initiative Japan Inc.|
-|6|54.46.86.237|8080|Hong Kong|Hong Kong|Amazon.com|
-|7|42.119.98.236|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|8|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|11|41.216.190.230|1111|Indonesia|Jakarta|Perwira|
-|12|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|13|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|5|54.46.86.237|8080|Hong Kong|Hong Kong|Amazon.com|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|8|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|9|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|10|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|11|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|13|119.93.164.163|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 |14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|15|27.79.251.6|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |16|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|17|144.34.228.13|3128|United States|Los Angeles|IT7 Networks Inc|
-|18|70.36.99.51|3128|United States|Los Angeles|Perfect International, Inc|
+|17|103.167.171.57|8080|Indonesia|Jakarta|PT Rajeg Media Telekomunikasi|
+|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |19|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|20|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|20|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
 
 
 
