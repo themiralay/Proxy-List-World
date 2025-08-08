@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|368|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|368|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|368|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|401|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|401|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|401|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|54.46.86.237|8080|Hong Kong|Hong Kong|Amazon.com|
-|3|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|9|34.101.71.166|3128|Indonesia|Jakarta|Google LLC|
-|10|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|11|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|14|27.79.195.29|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|18|49.0.33.133|27039|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
-|19|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|20|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|5|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|6|34.101.71.166|3128|Indonesia|Jakarta|Google LLC|
+|7|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|8|103.191.58.120|8080|Indonesia|Kediri|Panjalu Sarana Data Indonesia|
+|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|13|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|14|101.255.211.54|8082|Indonesia|Tangerang|PT Remala Abadi|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|103.151.226.133|8080|Indonesia|Pameungpeuk|URBANACCESS|
+|17|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|18|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|19|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|20|27.71.130.147|16000|Vietnam|Bảo Lộc|Viettel Group|
 
 
 
