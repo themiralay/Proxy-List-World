@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|42.119.98.236|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|2|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|3|27.79.219.168|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|1|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|2|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|4|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|5|27.79.219.168|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
 |7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|11|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|12|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|14|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|15|147.28.240.215|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|16|147.28.240.215|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|17|147.28.240.216|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|18|67.43.236.18|19173|Canada|Montreal|GloboTech Communications|
-|19|67.43.236.19|10301|Canada|Montreal|GloboTech Communications|
-|20|147.28.240.215|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|8|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|9|42.119.98.236|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|10|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|11|147.28.240.214|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|13|147.28.240.215|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|14|147.28.240.215|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|15|147.28.240.214|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|16|147.28.240.216|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|17|190.145.194.210|8080|Colombia|Santiago de Cali|Telmex Colombia S.A.|
+|18|147.28.240.214|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|19|147.28.240.215|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|27.79.221.16|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
