@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|2|103.18.79.185|8080|Indonesia|Gunungkalong|PT Usaha Adi Sanggoro|
 |3|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|4|42.118.0.5|16000|Vietnam|Hanoi|FPT Telecom Company|
+|5|58.186.92.203|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
 |7|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|8|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|9|42.118.0.5|16000|Vietnam|Hanoi|FPT Telecom Company|
-|10|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|11|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|14|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|15|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|16|115.72.172.71|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|17|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|18|97.79.251.186|80|United States|Dallas|Spectrum|
-|19|34.124.190.108|8090|Singapore|Singapore|Google LLC|
-|20|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|8|1.53.92.155|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|9|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|10|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|130.185.104.62|4128|Germany|Nuremberg|Xirra GmbH|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|103.56.206.77|8099|Indonesia|Jakarta|Argon Data Communication|
+|16|103.155.198.253|8006|Indonesia|Cileungsir|PT Lintas Jaringan Nusantara|
+|17|42.118.202.2|16000|Vietnam|Thu Dau Mot|FPT Telecom Company|
+|18|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|19|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|20|181.119.107.117|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
 
 
 
