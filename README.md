@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **39045** proxies at the latest update. Usable proxies are below.
+> Scraper found **74711** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35666|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|81|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|37738|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|202.232.52.162|8080|Japan|Ōita|Internet Initiative Japan Inc.|
+|2|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |3|64.176.225.91|3328|South Korea|Seoul|The Constant Company, LLC|
-|4|42.118.202.2|16000|Vietnam|Thu Dau Mot|FPT Telecom Company|
-|5|27.79.154.94|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|7|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|5|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|157.20.36.246|1111|Indonesia|Cikarang|PT Andalan Dinamika Informatika|
 |9|3.133.146.217|5050|United States|Dublin|Amazon.com, Inc.|
-|10|58.186.92.98|16000|Vietnam|Hanoi|FPT Telecom Company|
-|11|58.186.92.156|16000|Vietnam|Hanoi|FPT Telecom Company|
-|12|58.186.92.203|16000|Vietnam|Hanoi|FPT Telecom Company|
-|13|27.79.147.116|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|15|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|16|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|17|3.133.146.217|5050|United States|Dublin|Amazon.com, Inc.|
-|18|27.79.131.88|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|27.79.240.177|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|141.253.101.157|3206|France|Paris|Oracle Corporation|
+|10|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|11|3.133.146.217|5050|United States|Dublin|Amazon.com, Inc.|
+|12|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|13|115.72.161.103|10010|Vietnam|Ho Chi Minh City|VIETELmetro|
+|14|141.253.101.157|3206|France|Paris|Oracle Corporation|
+|15|158.178.211.45|3232|France|Paris|Oracle Corporation|
+|16|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|17|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|18|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
 
 
 
