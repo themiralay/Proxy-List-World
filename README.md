@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|2|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|5|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|9|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|10|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|197.218.16.16|3128|Mozambique|Maputo|Movitel's IP|
-|13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|14|115.87.213.12|80|Thailand|Bangkok|TRUEBB|
-|15|160.187.174.100|8080|Indonesia|Deli Serdang|PT Netindo Persada Nusantara|
-|16|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|6|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|11|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|12|116.98.187.95|1014|Vietnam|Buon Ma Thuot|Viettel Corporation|
+|13|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|15|27.79.240.177|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|58.186.92.98|16000|Vietnam|Hanoi|FPT Telecom Company|
 |17|23.94.236.141|8080|United States|Los Angeles|HostPapa|
-|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|19|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|18|58.186.92.203|16000|Vietnam|Hanoi|FPT Telecom Company|
+|19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 
 
 
