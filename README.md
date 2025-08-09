@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **74914** proxies at the latest update. Usable proxies are below.
+> Scraper found **74903** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35888|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35877|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|73|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|37727|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|2|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
 |3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|6|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|7|58.186.92.227|16000|Vietnam|Hanoi|FPT Telecom Company|
+|4|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|7|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
 |8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|10|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|11|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|13|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|15|34.124.190.108|8090|Singapore|Singapore|Google LLC|
-|16|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|17|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|18|3.133.146.217|5050|United States|Dublin|Amazon.com, Inc.|
-|19|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|20|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|11|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|12|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|13|45.175.155.41|999|Argentina|Río Segundo|Albornoz Guido Ruben|
+|14|1.53.92.155|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|15|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|16|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
+|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|18|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|19|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|20|34.124.190.108|8090|Singapore|Singapore|Google LLC|
 
 
 
