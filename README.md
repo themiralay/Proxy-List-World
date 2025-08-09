@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|2|157.20.98.63|1111|Indonesia|Jakarta|PT Konnek Jaya Bersama|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |4|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|5|27.79.248.75|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|27.79.199.43|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|8|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|42.119.102.244|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|9|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |11|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|12|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|12|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
 |13|51.161.197.172|6595|Australia|Sydney|OVH SAS|
 |14|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|15|38.172.156.64|999|Dominican Republic|Concepción de la Vega|Linares Technology SRL|
-|16|42.119.102.244|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|17|23.94.236.141|8080|United States|Los Angeles|HostPapa|
-|18|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|19|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|20|58.186.92.156|16000|Vietnam|Hanoi|FPT Telecom Company|
+|15|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|16|70.36.99.51|3128|United States|Los Angeles|Perfect International, Inc|
+|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|18|47.88.18.204|8023|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|19|23.94.236.141|8080|United States|Los Angeles|HostPapa|
+|20|173.209.63.70|8192|Canada|Montreal|GloboTech Communications|
 
 
 
