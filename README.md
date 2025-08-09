@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 |4|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|5|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |6|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|7|3.133.146.217|5050|United States|Dublin|Amazon.com, Inc.|
-|8|3.133.146.217|5050|United States|Dublin|Amazon.com, Inc.|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
 |9|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|12|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|15|141.253.101.157|3206|France|Paris|Oracle Corporation|
-|16|173.209.63.67|8173|Canada|Montreal|GloboTech Communications|
-|17|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
-|18|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|19|185.200.37.114|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|20|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|10|3.133.146.217|5050|United States|Dublin|Amazon.com, Inc.|
+|11|66.175.219.50|3228|United States|Fremont|Akamai Technologies, Inc.|
+|12|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|13|3.133.146.217|5050|United States|Dublin|Amazon.com, Inc.|
+|14|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
+|15|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|16|173.209.63.70|8192|Canada|Montreal|GloboTech Communications|
+|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|18|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|19|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
