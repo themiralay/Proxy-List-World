@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|376|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|376|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|376|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|1.53.92.155|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|1|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
+|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |3|58.186.92.227|16000|Vietnam|Hanoi|FPT Telecom Company|
-|4|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
-|5|58.186.92.156|16000|Vietnam|Hanoi|FPT Telecom Company|
-|6|42.118.202.2|16000|Vietnam|Thu Dau Mot|FPT Telecom Company|
-|7|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|42.113.20.200|16000|Vietnam|Hanoi|FPT Telecom Company|
-|9|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|12|183.80.23.37|16000|Vietnam|Hanoi|FPT Telecom Company|
-|13|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|14|58.186.248.240|16000|Vietnam|Hanoi|FPT Telecom Company|
-|15|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|16|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|17|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|18|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|19|27.79.131.88|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|42.118.202.2|16000|Vietnam|Thu Dau Mot|FPT Telecom Company|
+|5|42.113.20.200|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|1.53.92.155|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|7|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|8|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|10|171.228.154.82|4001|Vietnam|Hanoi|Viettel Corporation|
+|11|58.186.248.240|16000|Vietnam|Hanoi|FPT Telecom Company|
+|12|58.186.92.156|16000|Vietnam|Hanoi|FPT Telecom Company|
+|13|183.80.23.37|16000|Vietnam|Hanoi|FPT Telecom Company|
+|14|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|15|160.19.16.148|8181|Indonesia|Tanjungbalai|PT Media Balai Nusa|
+|16|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|17|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|18|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|19|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
