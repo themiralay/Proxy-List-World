@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|5|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|6|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|7|58.186.92.98|16000|Vietnam|Hanoi|FPT Telecom Company|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|12|109.120.133.3|1200|Sweden|Stockholm|Aeza International LTD|
-|13|103.81.194.167|8080|Indonesia|Ciampea|PT Rtiga Global Media|
-|14|42.118.202.2|16000|Vietnam|Thu Dau Mot|FPT Telecom Company|
-|15|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|16|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|17|66.175.219.50|3228|United States|Fremont|Akamai Technologies, Inc.|
-|18|42.118.0.5|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
-|20|103.126.87.203|8081|Indonesia|Trucuk|PT. Rasi Bintang Perkasa|
+|3|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|42.118.202.2|16000|Vietnam|Thu Dau Mot|FPT Telecom Company|
+|9|115.72.172.71|10009|Vietnam|Ho Chi Minh City|VIETELmetro|
+|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|11|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|13|27.79.147.116|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|45.86.44.243|1080|Russia|Moscow|Lutacom LLC|
+|15|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|16|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|17|207.141.78.26|8080|United States|Vero Beach|PDM NET, INC. - VERO BEACH|
+|18|66.175.219.50|3228|United States|Fremont|Akamai Technologies, Inc.|
+|19|58.186.92.98|16000|Vietnam|Hanoi|FPT Telecom Company|
+|20|147.28.240.214|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
