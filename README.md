@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|389|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|389|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|389|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|3|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|9|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|10|64.227.147.52|3128|India|Bengaluru|DigitalOcean, LLC|
-|11|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|12|42.118.202.2|16000|Vietnam|Thu Dau Mot|FPT Telecom Company|
+|2|58.186.92.98|16000|Vietnam|Hanoi|FPT Telecom Company|
+|3|42.118.202.2|16000|Vietnam|Thu Dau Mot|FPT Telecom Company|
+|4|116.103.130.125|1008|Vietnam|Buon Ma Thuot|Viettel Corporation|
+|5|58.186.92.156|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|58.186.248.240|16000|Vietnam|Hanoi|FPT Telecom Company|
+|7|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|10|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|11|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|12|1.53.92.155|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
 |13|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|14|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
-|15|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
-|16|27.79.147.116|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|58.186.248.240|16000|Vietnam|Hanoi|FPT Telecom Company|
-|18|2.50.45.120|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|130.185.104.62|4128|Germany|Nuremberg|Xirra GmbH|
+|14|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|15|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|17|202.232.52.162|8080|Japan|Ōita|Internet Initiative Japan Inc.|
+|18|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|19|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|20|2.50.45.120|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
 
 
 
