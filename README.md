@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|4|171.228.176.205|4001|Vietnam|Hanoi|Viettel Corporation|
+|5|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
 |6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|8|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|9|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|10|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|11|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|12|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|13|202.5.37.104|17382|Bangladesh|Comilla|BBTS-NEW|
-|14|147.28.240.214|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|15|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
-|16|147.28.240.215|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|17|72.10.160.90|23855|Canada|Montreal|GloboTech Communications|
-|18|147.28.240.218|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|19|147.28.240.217|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|20|164.163.42.43|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|8|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|27.79.242.24|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|14|101.255.209.94|8070|Indonesia|Tangerang|PT Remala Abadi|
+|15|8.215.31.146|1347|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|16|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|17|103.147.77.66|8082|Indonesia|Madiun|TRIDATA|
+|18|147.28.240.214|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|19|147.28.240.215|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|147.28.240.218|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
