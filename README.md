@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|6|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|7|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|8|34.101.51.45|3128|Indonesia|Jakarta|Google LLC|
+|9|103.24.212.250|8082|Indonesia|Semarang|PT. ADAU PUTRA NETWORK|
+|10|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|11|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|12|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|15|58.186.92.156|16000|Vietnam|Hanoi|FPT Telecom Company|
+|16|58.186.92.98|16000|Vietnam|Hanoi|FPT Telecom Company|
+|17|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|19|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|20|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+
 
 
 ## Contributing
