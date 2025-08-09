@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|124.121.2.236|8080|Thailand|Bangkok|TRUEBB|
-|10|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|11|173.209.63.66|8232|Canada|Montreal|GloboTech Communications|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|6|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|9|103.162.16.113|8080|Indonesia|Parenggan|PT Mega Data Perkasa|
+|10|124.121.2.236|8080|Thailand|Bangkok|TRUEBB|
+|11|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
 |12|51.161.197.172|6595|Australia|Sydney|OVH SAS|
 |13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|14|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|15|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|16|27.79.242.24|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|18|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
-|19|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|20|27.79.199.43|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|202.5.37.104|17382|Bangladesh|Comilla|BBTS-NEW|
+|15|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|16|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
+|17|160.187.191.3|8082|Bangladesh|Puthia|Race Online Limited|
+|18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|19|42.118.2.102|16000|Vietnam|Hanoi|FPT Telecom Company|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
