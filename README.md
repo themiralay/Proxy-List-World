@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|73|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|37727|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
-|2|42.118.0.5|16000|Vietnam|Hanoi|FPT Telecom Company|
-|3|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|116.98.178.182|1029|Vietnam|Hanoi|Viettel Corporation|
-|7|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|8|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|9|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|6|103.127.220.78|1111|Indonesia|Jakarta|PT Multi Guna Sinergi|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|9|58.186.92.98|16000|Vietnam|Hanoi|FPT Telecom Company|
+|10|58.186.92.156|16000|Vietnam|Hanoi|FPT Telecom Company|
 |11|58.186.248.240|16000|Vietnam|Hanoi|FPT Telecom Company|
-|12|24.173.217.114|55443|United States|Mesquite|Spectrum|
-|13|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|14|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|15|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|16|103.56.206.77|8099|Indonesia|Jakarta|Argon Data Communication|
-|17|120.28.218.160|5050|Philippines|Cagayan de Oro|Globe Telecom|
-|18|2.50.45.120|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
-|19|42.118.202.2|16000|Vietnam|Thu Dau Mot|FPT Telecom Company|
-|20|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|12|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|14|2.50.45.120|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
+|15|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|17|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|130.185.104.62|4128|Germany|Nuremberg|Xirra GmbH|
+|20|103.56.206.77|8099|Indonesia|Jakarta|Argon Data Communication|
 
 
 
