@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|34.124.190.108|8090|Singapore|Singapore|Google LLC|
-|7|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|8|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|9|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|10|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|13|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|14|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|15|128.140.113.110|5153|Germany|Falkenstein|Hetzner Online GmbH|
-|16|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|2|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|3|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|27.79.154.94|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|8|27.79.147.116|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|10|27.79.221.16|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|31.193.193.69|1488|Lithuania|Vilnius|Telia Lietuva|
+|12|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|13|23.94.236.141|8080|United States|Los Angeles|HostPapa|
+|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|15|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|16|31.173.247.205|8081|Russia|Novosibirsk|MegaFon|
+|17|103.158.252.197|8090|Indonesia|Jakarta|Rapid Network|
 |18|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|19|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|20|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|19|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|20|34.63.7.32|8080|United States|Council Bluffs|Google LLC|
 
 
 
