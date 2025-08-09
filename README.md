@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|2|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|5|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|6|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|12|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|13|49.49.93.226|8888|Thailand|Mukdahan|Triple T Broadband Public Company Limited|
-|14|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|17|204.157.250.16|999|Mexico|Ciudad Juárez|iCentral Sistemas y Comunicaciones, S.A. de C.V|
-|18|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|19|27.79.240.194|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|10|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|58.186.92.156|16000|Vietnam|Hanoi|FPT Telecom Company|
+|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|14|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|15|35.208.115.99|3128|United States|Council Bluffs|Google LLC|
+|16|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|17|27.79.249.209|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|19|58.186.92.98|16000|Vietnam|Hanoi|FPT Telecom Company|
+|20|27.79.147.116|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
