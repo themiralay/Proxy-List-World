@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|4|203.76.98.21|45958|Bangladesh|Dhaka|Link3 Technologies Limited|
-|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|6|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|27.79.147.116|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|10|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|11|152.53.168.53|44887|United States|Manassas|netcup GmbH|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|58.186.92.203|16000|Vietnam|Hanoi|FPT Telecom Company|
-|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|15|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|16|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|17|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|18|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|19|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|20|49.12.103.92|8081|Germany|Falkenstein|Hetzner Online GmbH|
+|2|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|6|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|7|3.133.146.217|5050|United States|Dublin|Amazon.com, Inc.|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|158.178.211.45|3232|France|Paris|Oracle Corporation|
+|10|141.253.101.157|3206|France|Paris|Oracle Corporation|
+|11|3.133.146.217|5050|United States|Dublin|Amazon.com, Inc.|
+|12|27.79.147.116|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|27.79.154.94|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|17|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|18|193.68.115.14|8080|Bulgaria|Ablanitsa|Sarnica-Net LTD|
+|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|20|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
 
 
 
