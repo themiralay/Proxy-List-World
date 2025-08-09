@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|2|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |3|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|4|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|6|1.53.92.155|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|7|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|8|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|9|49.0.34.194|8080|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|15|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|16|116.98.187.72|1022|Vietnam|Buon Ma Thuot|Viettel Corporation|
-|17|58.186.92.156|16000|Vietnam|Hanoi|FPT Telecom Company|
-|18|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|19|203.76.98.21|45958|Bangladesh|Dhaka|Link3 Technologies Limited|
-|20|27.79.165.151|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|58.186.92.156|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|8|58.186.92.203|16000|Vietnam|Hanoi|FPT Telecom Company|
+|9|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|10|27.79.212.244|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|42.118.0.5|16000|Vietnam|Hanoi|FPT Telecom Company|
+|12|27.72.244.228|8080|Vietnam|Hanoi|Newass2011xDSLHN|
+|13|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|14|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|15|1.53.92.155|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|19|103.97.140.29|8999|Indonesia|Bandung|PT Jembatan Data Pangrango|
+|20|3.107.252.199|8099|Australia|Sydney|Amazon Technologies Inc.|
 
 
 
