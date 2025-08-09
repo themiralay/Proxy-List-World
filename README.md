@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|4|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|58.186.92.98|16000|Vietnam|Hanoi|FPT Telecom Company|
-|9|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|58.186.92.203|16000|Vietnam|Hanoi|FPT Telecom Company|
-|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|13|27.79.154.94|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|113.192.31.162|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|16|103.247.22.33|4317|Indonesia|Cikarang|PT wifian Solution|
-|17|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|18|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|27.79.240.177|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|4|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|5|27.79.240.177|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|36.93.163.219|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|7|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|8|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|9|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|13|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|15|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
+|16|45.133.107.246|81|Armenia|Vedi|Art-net LLC|
+|17|109.120.133.3|1200|Sweden|Stockholm|Aeza International LTD|
+|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|19|58.186.92.203|16000|Vietnam|Hanoi|FPT Telecom Company|
+|20|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
 
 
 
