@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **74818** proxies at the latest update. Usable proxies are below.
+> Scraper found **74775** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35773|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35730|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|81|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|37738|✅|
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |3|23.237.210.82|80|United States|Dallas|FDCservers.net|
 |4|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|5|27.79.154.94|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|7|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|8|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|9|173.209.63.69|8111|Canada|Montreal|GloboTech Communications|
-|10|27.79.147.116|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|27.79.240.177|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|58.186.92.203|16000|Vietnam|Hanoi|FPT Telecom Company|
-|13|49.12.103.92|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|16|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|17|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|18|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|3.107.252.199|8099|Australia|Sydney|Amazon Technologies Inc.|
+|5|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|10|116.98.187.72|1022|Vietnam|Buon Ma Thuot|Viettel Corporation|
+|11|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|12|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|13|152.53.168.53|44887|United States|Manassas|netcup GmbH|
+|14|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|15|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|16|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|17|3.107.252.199|8099|Australia|Sydney|Amazon Technologies Inc.|
+|18|147.28.240.216|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|19|147.28.240.216|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|147.28.240.216|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
