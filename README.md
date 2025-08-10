@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|3|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|4|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|5|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|6|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|7|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|8|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|9|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|10|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|11|109.120.133.3|1200|Sweden|Stockholm|Aeza International LTD|
-|12|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|24.173.217.114|55443|United States|Mesquite|Spectrum|
-|15|24.173.217.114|55443|United States|Mesquite|Spectrum|
-|16|207.248.115.114|999|Mexico|San José del Rincón Centro|Ientc S De RL De CV|
-|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|18|113.176.118.255|7654|Vietnam|Da Nang|VNPT|
-|19|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|20|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|2|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|3|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|4|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|5|24.173.217.114|55443|United States|Mesquite|Spectrum|
+|6|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|7|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|8|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|9|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|10|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|11|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|12|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|13|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|14|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|15|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|16|85.117.56.41|8080|Georgia|Marneuli|Caucasus Online Ltd.|
+|17|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|18|109.120.133.3|1200|Sweden|Stockholm|Aeza International LTD|
+|19|103.97.140.177|8080|Indonesia|Bandung|PT Jembatan Data Pangrango|
+|20|200.125.171.254|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
 
 
 
