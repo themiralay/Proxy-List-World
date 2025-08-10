@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|3|42.118.74.104|16000|Vietnam|Hanoi|FPT Telecom Company|
-|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|5|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
 |6|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|9|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|10|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|11|42.118.3.231|16000|Vietnam|Hanoi|FPT Telecom Company|
-|12|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|13|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|16|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|17|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|18|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|19|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|20|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|7|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|8|58.186.92.98|16000|Vietnam|Hanoi|FPT Telecom Company|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|12|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|13|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|14|70.36.99.51|3128|United States|Los Angeles|Perfect International, Inc|
+|15|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|16|37.120.162.180|42824|Germany|Nuremberg|netcup GmbH|
+|17|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|18|115.72.45.0|10001|Vietnam|Hanoi|VIETELmetro|
+|19|197.243.27.122|3128|Rwanda|Kigali|BSC|
+|20|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
 
 
 
