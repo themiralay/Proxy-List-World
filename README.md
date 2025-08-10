@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|391|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|391|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|391|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|8|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|9|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
+|4|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|5|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|42.113.20.200|16000|Vietnam|Hanoi|FPT Telecom Company|
+|8|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
+|9|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|10|2.50.45.120|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
 |11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|13|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|15|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|16|45.86.44.243|1080|Russia|Moscow|Lutacom LLC|
+|12|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|13|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|14|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|15|58.186.248.240|16000|Vietnam|Hanoi|FPT Telecom Company|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|19|152.53.168.53|44887|United States|Manassas|netcup GmbH|
-|20|109.120.133.3|1200|Sweden|Stockholm|Aeza International LTD|
+|18|27.79.147.116|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|20|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
 
 
 
