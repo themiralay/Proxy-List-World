@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|2|112.209.17.218|8081|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|3|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|4|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|183.80.23.37|16000|Vietnam|Hanoi|FPT Telecom Company|
-|7|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|11|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|1|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|2|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|3|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|4|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|5|58.186.248.240|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|42.113.20.200|16000|Vietnam|Hanoi|FPT Telecom Company|
+|9|183.80.23.37|16000|Vietnam|Hanoi|FPT Telecom Company|
+|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|11|42.118.202.2|16000|Vietnam|Thu Dau Mot|FPT Telecom Company|
 |12|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|13|58.186.248.240|16000|Vietnam|Hanoi|FPT Telecom Company|
-|14|42.118.202.2|16000|Vietnam|Thu Dau Mot|FPT Telecom Company|
-|15|27.79.147.116|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|18|109.120.133.3|1200|Sweden|Stockholm|Aeza International LTD|
-|19|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|20|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|16|58.186.92.227|16000|Vietnam|Hanoi|FPT Telecom Company|
+|17|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|18|2.50.45.120|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
+|19|27.79.131.88|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
 
 
 
