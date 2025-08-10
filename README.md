@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|48.218.128.191|3128|Japan|Tokyo|Microsoft Corporation|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|2.50.45.120|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
-|7|172.98.201.190|3128|United States|Dallas|Centrilogic|
-|8|152.53.169.165|1080|United States|Manassas|netcup GmbH|
-|9|58.186.92.98|16000|Vietnam|Hanoi|FPT Telecom Company|
-|10|27.79.138.104|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|12|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|13|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|2|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|3|27.79.138.104|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|152.53.169.165|1080|United States|Manassas|netcup GmbH|
+|5|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|8|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|9|191.53.112.170|45619|Brazil|Betim|Rede Brasileira de Comunicacao S/A|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|12|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|14|112.198.138.14|8082|Philippines|General Trias|Globe Telecom|
+|15|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|18|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|19|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|20|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|18|95.53.246.137|3128|Russia|Vologda|Rostelecom networks|
+|19|45.235.200.32|4000|Brazil|Santa Bárbara|VIA ONDAS TELECOMUNICACOES LTDA|
+|20|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
