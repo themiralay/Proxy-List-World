@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|3|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|4|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|5|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|9|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|10|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
-|11|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|12|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|212.110.188.189|34405|United Kingdom|York|Bytemark Computer Consulting Ltd /19|
-|15|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|1|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
+|4|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|7|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
+|8|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|9|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|10|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|11|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
+|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|13|45.86.44.243|1080|Russia|Moscow|Lutacom LLC|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |16|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|18|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|19|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|20|147.28.240.217|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|17|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
+|18|46.99.222.167|8080|Kosovo|Pristina|IPKO Telecommunications LLC|
+|19|2.50.45.120|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
+|20|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
