@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|202.232.52.162|8080|Japan|Ōita|Internet Initiative Japan Inc.|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|4|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|5|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|8|152.53.169.165|1080|United States|Manassas|netcup GmbH|
-|9|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|12|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|13|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
-|14|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|15|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
-|16|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|19|42.118.3.231|16000|Vietnam|Hanoi|FPT Telecom Company|
-|20|70.36.99.51|3128|United States|Los Angeles|Perfect International, Inc|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|9|152.53.169.165|1080|United States|Manassas|netcup GmbH|
+|10|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|15|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|18|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
+|19|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|20|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
