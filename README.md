@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|139.59.228.95|8118|Singapore|Singapore|DIGITALOCEAN|
-|3|23.94.236.141|8080|United States|Los Angeles|HostPapa|
-|4|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|5|152.53.169.165|1080|United States|Manassas|netcup GmbH|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|8|27.79.138.104|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|10|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|13|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|14|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|15|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
+|3|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|4|152.53.169.165|1080|United States|Manassas|netcup GmbH|
+|5|2.50.45.120|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
+|6|58.186.92.98|16000|Vietnam|Hanoi|FPT Telecom Company|
+|7|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|9|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
+|12|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|13|27.79.138.104|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|15|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|16|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|18|64.225.70.191|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
 |19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|20|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|20|103.24.213.141|8090|Indonesia|Kendal|PT. ADAU PUTRA NETWORK|
 
 
 
