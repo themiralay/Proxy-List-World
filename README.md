@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |3|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
 |4|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
 |5|23.237.210.82|80|United States|Dallas|FDCservers.net|
 |6|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|51.159.159.73|80|France|Paris|SCALEWAY|
-|9|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|10|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|11|92.58.181.171|7575|Spain|Madrid|UNI2|
-|12|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|15|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|16|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|17|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|18|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|19|185.117.119.112|8080|Finland|Helsinki|First Server Limited|
-|20|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|8|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|9|51.159.159.73|80|France|Paris|SCALEWAY|
+|10|152.53.194.46|8065|United States|Reston|netcup GmbH|
+|11|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|12|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|13|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|14|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|15|185.117.119.112|8080|Finland|Helsinki|First Server Limited|
+|16|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|17|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|18|197.243.27.122|3128|Rwanda|Kigali|BSC|
+|19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 
 
 
