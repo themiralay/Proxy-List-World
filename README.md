@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|4|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|4|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
 |5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|7|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|8|192.177.139.220|8000|United States|Chicago|EGIHosting|
-|9|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|10|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|11|192.177.139.119|8000|United States|Chicago|EGIHosting|
-|12|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|13|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|14|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
-|15|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|16|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|17|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|18|3.133.146.217|5050|United States|Dublin|Amazon.com, Inc.|
-|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|20|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
+|6|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
+|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|8|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|9|47.79.19.26|8118|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|13|3.133.146.217|5050|United States|Dublin|Amazon.com, Inc.|
+|14|202.51.106.229|8080|Indonesia|Jakarta|PT Solusi Infostruktur Nusantara|
+|15|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|16|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|17|103.156.14.26|8080|Indonesia|Sungailiat|PT Lintas Jaringan Nusantara|
+|18|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|19|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|20|23.237.210.82|80|United States|Dallas|FDCservers.net|
 
 
 
