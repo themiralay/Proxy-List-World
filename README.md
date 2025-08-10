@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|2|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
 |3|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|4|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|5|51.159.159.73|80|France|Paris|SCALEWAY|
-|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|7|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|8|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|9|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|10|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|11|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|12|152.53.194.46|8029|United States|Reston|netcup GmbH|
-|13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|14|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|15|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|16|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|17|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|18|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|19|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|20|190.120.255.160|999|Venezuela|Cumaná|CORPORACION FIBEX TELECOM, C.A.|
+|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|6|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|7|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|9|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|10|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
+|11|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
+|12|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|13|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|14|51.159.159.73|80|France|Paris|SCALEWAY|
+|15|152.53.194.46|8065|United States|Reston|netcup GmbH|
+|16|92.58.181.171|7575|Spain|Madrid|UNI2|
+|17|42.118.3.231|16000|Vietnam|Hanoi|FPT Telecom Company|
+|18|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
 
 
 
