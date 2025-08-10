@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|2|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
 |3|152.53.169.165|1080|United States|Manassas|netcup GmbH|
-|4|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|5|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 |6|113.186.243.102|1001|Vietnam|Vĩnh Tường|VNPT-VNNIC|
-|7|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|8|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|11|42.118.74.104|16000|Vietnam|Hanoi|FPT Telecom Company|
-|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|13|103.242.104.209|8080|Indonesia|Cipedes|PT Lintas Jaringan Nusantara|
-|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|15|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|7|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|8|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
+|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|15|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |16|164.163.42.56|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|18|164.163.42.52|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|70.36.99.51|3128|United States|Los Angeles|Perfect International, Inc|
+|17|164.163.42.52|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
 |20|23.237.210.82|80|United States|Dallas|FDCservers.net|
 
 
