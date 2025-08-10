@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|373|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|373|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|373|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|390|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|390|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|390|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |4|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|8|2.50.45.120|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
-|9|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|12|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|13|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|5|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|9|172.98.201.190|3128|United States|Dallas|Centrilogic|
+|10|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
+|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|12|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|13|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |15|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|16|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|17|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|18|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|19|172.98.201.190|3128|United States|Dallas|Centrilogic|
-|20|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|16|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|17|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|18|42.113.20.200|16000|Vietnam|Hanoi|FPT Telecom Company|
+|19|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|20|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
 
 
 
