@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|355|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|355|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|355|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
-|2|42.113.20.200|16000|Vietnam|Hanoi|FPT Telecom Company|
-|3|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|7|58.186.248.240|16000|Vietnam|Hanoi|FPT Telecom Company|
-|8|183.80.23.37|16000|Vietnam|Hanoi|FPT Telecom Company|
-|9|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|10|2.50.45.120|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
-|11|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|12|116.98.187.95|1014|Vietnam|Buon Ma Thuot|Viettel Corporation|
-|13|1.53.92.155|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|16|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|20|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|1|42.113.20.200|16000|Vietnam|Hanoi|FPT Telecom Company|
+|2|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
+|3|202.232.52.162|8080|Japan|Ōita|Internet Initiative Japan Inc.|
+|4|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|5|58.186.248.240|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|183.80.23.37|16000|Vietnam|Hanoi|FPT Telecom Company|
+|8|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|9|58.186.92.98|16000|Vietnam|Hanoi|FPT Telecom Company|
+|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|11|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|12|5.188.183.253|8080|Spain|Madrid|Melbikomas UAB|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|15|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|18|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|19|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|20|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
 
 
 
