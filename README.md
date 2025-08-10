@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|4|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|5|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|6|139.59.228.95|8118|Singapore|Singapore|DIGITALOCEAN|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|9|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|10|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|11|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|12|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|13|109.120.133.3|1200|Sweden|Stockholm|Aeza International LTD|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|42.113.20.200|16000|Vietnam|Hanoi|FPT Telecom Company|
-|16|79.100.9.95|3128|Bulgaria|Sofia|BTC-BROADBAND|
-|17|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|19|116.98.187.72|1022|Vietnam|Buon Ma Thuot|Viettel Corporation|
-|20|45.189.252.57|999|Mexico|Tlalixcoyan|Tracered SA De CV|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|3|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|4|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|5|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|6|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|7|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|8|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|103.126.87.181|7777|Indonesia|Trucuk|PT. Rasi Bintang Perkasa|
+|13|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|14|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|15|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|16|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|17|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|18|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|19|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|20|15.204.151.148|31158|United States|Reston|OVH SAS|
 
 
 
