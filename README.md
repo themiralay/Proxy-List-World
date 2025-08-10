@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75043** proxies at the latest update. Usable proxies are below.
+> Scraper found **75147** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|411|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|411|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|411|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|386|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|386|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|386|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35792|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35896|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|81|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|37944|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|3|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|4|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
+|5|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
 |8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|10|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|12|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|13|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|9|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|10|42.113.20.200|16000|Vietnam|Hanoi|FPT Telecom Company|
+|11|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|12|2.50.45.120|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
+|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
 |14|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|15|2.50.45.120|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
-|16|3.133.146.217|5050|United States|Dublin|Amazon.com, Inc.|
-|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|18|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
-|19|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|20|3.133.146.217|5050|United States|Dublin|Amazon.com, Inc.|
+|15|3.133.146.217|5050|United States|Dublin|Amazon.com, Inc.|
+|16|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|18|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|19|45.86.44.243|1080|Russia|Moscow|Lutacom LLC|
+|20|58.186.248.240|16000|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
