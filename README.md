@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|3|152.53.169.165|1080|United States|Manassas|netcup GmbH|
-|4|2.50.45.120|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
-|5|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|6|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|7|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|8|58.186.92.98|16000|Vietnam|Hanoi|FPT Telecom Company|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|12|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
-|13|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|17|70.36.99.51|3128|United States|Los Angeles|Perfect International, Inc|
-|18|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|19|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|20|164.163.42.56|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|4|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|5|152.53.169.165|1080|United States|Manassas|netcup GmbH|
+|6|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
+|9|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|10|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|11|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|12|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|14|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|15|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|16|43.130.52.194|8118|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|17|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 
 
 
