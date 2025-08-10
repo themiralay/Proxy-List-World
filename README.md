@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|48.218.128.191|3128|Japan|Tokyo|Microsoft Corporation|
-|3|27.79.138.104|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|6|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|7|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|8|152.53.169.165|1080|United States|Manassas|netcup GmbH|
-|9|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|10|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|11|2.50.45.120|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
-|12|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|13|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|14|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|15|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|16|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|17|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
-|18|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|19|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
-|20|202.162.195.54|8080|Indonesia|Medan|PT. Media Antar Nusa|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|5|152.53.169.165|1080|United States|Manassas|netcup GmbH|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|171.231.175.71|7010|Vietnam|Hanoi|Viettel Corporation|
+|11|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|12|27.79.138.104|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|14|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|15|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
+|16|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|17|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
 
 
 
