@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
 |3|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|4|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|5|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|6|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|9|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|10|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|11|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|14|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|15|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
-|16|45.175.155.9|999|Argentina|Río Segundo|Albornoz Guido Ruben|
-|17|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|18|65.38.213.154|8881|Puerto Rico|San Juan|AT&T Mobility Puerto Rico|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|42.118.202.2|16000|Vietnam|Thu Dau Mot|FPT Telecom Company|
+|4|42.118.202.2|16000|Vietnam|Thu Dau Mot|FPT Telecom Company|
+|5|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|6|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|8|2.50.45.120|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
+|9|58.186.92.98|16000|Vietnam|Hanoi|FPT Telecom Company|
+|10|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|11|58.186.248.240|16000|Vietnam|Hanoi|FPT Telecom Company|
+|12|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|15|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|16|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|17|192.177.33.71|8000|United States|San Jose|EGIHosting|
+|18|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|19|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|20|109.120.133.3|1200|Sweden|Stockholm|Aeza International LTD|
 
 
 
