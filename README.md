@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|2.50.45.120|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
-|3|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|2|42.118.74.104|16000|Vietnam|Hanoi|FPT Telecom Company|
+|3|2.50.45.120|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
+|4|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |5|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|10|115.72.221.182|8080|Vietnam|Ho Chi Minh City|VIETELmetro|
-|11|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
-|12|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|13|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|14|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|15|45.86.44.243|1080|Russia|Moscow|Lutacom LLC|
-|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|18|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|10|157.20.253.195|1111|Indonesia|Jakarta|PT.Global Media Data Prima|
+|11|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|12|70.36.99.51|3128|United States|Los Angeles|Perfect International, Inc|
+|13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|15|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|16|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|19|103.107.84.191|8080|Indonesia|Colomadu|PT. Media Jaringan Indonesia|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
