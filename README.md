@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|3|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|4|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|7|171.237.59.49|10002|Vietnam|Lang Son|Viettel Corporation|
-|8|103.162.141.146|3128|Indonesia|Pancur Biru Lestari II|PT Filltech Antar Nusa|
-|9|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|10|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|11|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|12|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|13|103.172.42.61|8085|Indonesia|Karawang|PT Media Solusi Sukses|
+|2|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|4|47.236.163.74|8080|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|6|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|7|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|8|2.50.45.120|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
+|9|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|10|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
+|13|171.237.59.49|10001|Vietnam|Lang Son|Viettel Corporation|
 |14|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|15|103.82.22.5|10007|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
-|16|65.38.213.154|8881|Puerto Rico|San Juan|AT&T Mobility Puerto Rico|
-|17|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|18|42.118.202.2|16000|Vietnam|Thu Dau Mot|FPT Telecom Company|
-|19|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|15|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|16|116.98.187.95|1014|Vietnam|Buon Ma Thuot|Viettel Corporation|
+|17|109.120.133.3|1200|Sweden|Stockholm|Aeza International LTD|
+|18|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|19|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|20|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
