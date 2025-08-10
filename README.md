@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75026** proxies at the latest update. Usable proxies are below.
+> Scraper found **75010** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|421|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|421|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|421|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|437|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|437|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|437|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35897|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35881|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|87|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|37816|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|42.118.202.2|16000|Vietnam|Thu Dau Mot|FPT Telecom Company|
-|5|103.242.104.178|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|58.186.92.227|16000|Vietnam|Hanoi|FPT Telecom Company|
+|4|58.186.92.98|16000|Vietnam|Hanoi|FPT Telecom Company|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|7|112.216.83.10|3128|South Korea|Siheung-si|LG DACOM Corporation|
-|8|58.186.92.227|16000|Vietnam|Hanoi|FPT Telecom Company|
-|9|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|10|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|11|157.20.239.223|8082|Indonesia|Buduran|PT Era Network Indonesia|
-|12|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|13|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|15|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|16|103.247.23.76|8081|Indonesia|Cilacap|PT wifian Solution|
-|17|1.53.92.155|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|18|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|19|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|20|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
+|8|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|9|2.50.45.120|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
+|10|1.53.92.155|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|11|42.113.20.200|16000|Vietnam|Hanoi|FPT Telecom Company|
+|12|42.118.202.2|16000|Vietnam|Thu Dau Mot|FPT Telecom Company|
+|13|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|14|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
+|15|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|16|58.186.248.240|16000|Vietnam|Hanoi|FPT Telecom Company|
+|17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|18|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|19|112.216.83.10|3128|South Korea|Siheung-si|LG DACOM Corporation|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
