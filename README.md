@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|3|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|2|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
+|3|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|4|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
 |5|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|6|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
 |7|23.237.210.82|80|United States|Dallas|FDCservers.net|
 |8|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|9|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|10|152.53.194.46|8065|United States|Reston|netcup GmbH|
-|11|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|12|58.186.248.240|16000|Vietnam|Hanoi|FPT Telecom Company|
-|13|51.159.159.73|80|France|Paris|SCALEWAY|
-|14|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|15|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|16|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|42.113.20.200|16000|Vietnam|Hanoi|FPT Telecom Company|
-|20|185.117.119.112|8080|Finland|Helsinki|First Server Limited|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|42.113.20.200|16000|Vietnam|Hanoi|FPT Telecom Company|
+|11|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|12|51.159.159.73|80|France|Paris|SCALEWAY|
+|13|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|17|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|185.117.119.112|8080|Finland|Helsinki|First Server Limited|
+|20|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
 
 
 
