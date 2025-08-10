@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|365|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|365|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|365|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|42.118.202.2|16000|Vietnam|Thu Dau Mot|FPT Telecom Company|
-|3|58.186.92.98|16000|Vietnam|Hanoi|FPT Telecom Company|
-|4|42.113.20.200|16000|Vietnam|Hanoi|FPT Telecom Company|
+|2|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
+|3|103.156.17.39|8818|Indonesia|Jatibarang|RSTNET|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |5|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|6|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
-|7|58.186.92.227|16000|Vietnam|Hanoi|FPT Telecom Company|
-|8|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|9|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|2.50.45.120|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
-|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|6|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|9|58.186.92.227|16000|Vietnam|Hanoi|FPT Telecom Company|
+|10|2.50.45.120|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
+|11|58.186.248.240|16000|Vietnam|Hanoi|FPT Telecom Company|
+|12|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
 |13|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|14|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|16|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|17|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|19|190.60.45.79|999|Colombia|Cáceres|IFX NETWORKS COLOMBIA|
-|20|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|16|14.225.210.186|3129|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|17|192.177.33.71|8000|United States|San Jose|EGIHosting|
+|18|42.113.20.200|16000|Vietnam|Hanoi|FPT Telecom Company|
+|19|202.179.69.216|58080|India|Pune|Ankhnet|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
