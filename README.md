@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|3|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|4|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
-|5|103.82.126.202|8080|Indonesia|Kresek|PT.PLATINUM CITRA INDONESIA|
-|6|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|7|2.50.45.120|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
-|8|160.19.19.99|8989|Indonesia|Margasari|PT Indo Telemedia Solusi|
+|2|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|3|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|4|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|5|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|6|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|7|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
+|8|116.98.187.95|1014|Vietnam|Buon Ma Thuot|Viettel Corporation|
 |9|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|10|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|11|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|12|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|115.72.170.175|10004|Vietnam|Ho Chi Minh City|VIETELmetro|
-|15|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|16|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|17|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|18|103.82.22.5|10007|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
-|19|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|20|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|10|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|11|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|12|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|13|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|14|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|15|103.82.22.5|10007|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|45.136.49.130|8118|The Netherlands|Amsterdam|Scalaxy B.V.|
+|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|19|109.120.133.3|1200|Sweden|Stockholm|Aeza International LTD|
+|20|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
 
 
 
