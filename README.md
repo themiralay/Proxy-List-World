@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|3|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|4|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|5|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|6|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|7|109.120.133.3|1200|Sweden|Stockholm|Aeza International LTD|
-|8|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|9|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|12|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|3|116.98.187.95|1014|Vietnam|Buon Ma Thuot|Viettel Corporation|
+|4|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|5|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|6|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|7|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|8|116.98.187.72|1022|Vietnam|Buon Ma Thuot|Viettel Corporation|
+|9|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |13|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|14|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|15|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
-|16|42.118.202.2|16000|Vietnam|Thu Dau Mot|FPT Telecom Company|
-|17|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|18|103.82.22.5|10007|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|15|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|16|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|17|42.118.202.2|16000|Vietnam|Thu Dau Mot|FPT Telecom Company|
+|18|58.186.248.240|16000|Vietnam|Hanoi|FPT Telecom Company|
+|19|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|20|193.239.103.13|34415|Poland|Kobylnica|Netia SA|
 
 
 
