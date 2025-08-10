@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|2|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|6|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|7|103.247.23.140|4317|Indonesia|Wonosobo|PT wifian Solution|
-|8|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|3|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|4|41.216.190.230|1111|Indonesia|Jakarta|Perwira|
+|5|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|6|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|7|36.89.158.93|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
 |11|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|12|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|13|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|13|2.50.45.120|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
 |14|3.133.146.217|5050|United States|Dublin|Amazon.com, Inc.|
-|15|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|16|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|18|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|16|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|19|3.133.146.217|5050|United States|Dublin|Amazon.com, Inc.|
+|20|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
 
 
 
