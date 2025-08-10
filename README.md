@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|368|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|368|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|368|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|411|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|411|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|411|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
 |4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|6|3.133.146.217|5050|United States|Dublin|Amazon.com, Inc.|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|9|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|10|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|58.186.92.98|16000|Vietnam|Hanoi|FPT Telecom Company|
-|13|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|14|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|15|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|16|58.186.248.240|16000|Vietnam|Hanoi|FPT Telecom Company|
-|17|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|18|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|19|172.98.201.190|3128|United States|Dallas|Centrilogic|
-|20|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|5|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|10|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|12|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|13|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|14|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|15|2.50.45.120|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
+|16|3.133.146.217|5050|United States|Dublin|Amazon.com, Inc.|
+|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|18|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
+|19|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|20|3.133.146.217|5050|United States|Dublin|Amazon.com, Inc.|
 
 
 
