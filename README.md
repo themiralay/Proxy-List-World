@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|4|118.71.132.44|1002|Vietnam|Hanoi|FPT|
-|5|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|7|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|12|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|14|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|15|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|16|103.112.53.211|6314|Bangladesh|Dhaka|Carnival Internet|
-|17|58.186.92.98|16000|Vietnam|Hanoi|FPT Telecom Company|
-|18|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|19|118.175.174.58|8080|Thailand|Nakhon Pathom|TOT Public Company Limited|
+|2|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|4|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|5|202.188.226.21|8080|Malaysia|Seri Kembangan|TMnet|
+|6|202.6.224.20|8081|Indonesia|Jagirsidosermo|Padi Internet|
+|7|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|8|190.97.247.222|8080|Venezuela|La Fría|Viginet C.A|
+|9|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|10|118.175.174.58|8080|Thailand|Nakhon Pathom|TOT Public Company Limited|
+|11|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|15|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|16|122.144.7.137|7775|Indonesia|Jakarta|Maxindo|
+|17|2.50.45.120|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
+|18|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|19|70.36.99.51|3128|United States|Los Angeles|Perfect International, Inc|
 |20|23.237.210.82|80|United States|Dallas|FDCservers.net|
 
 
