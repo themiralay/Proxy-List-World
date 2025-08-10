@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|2|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|3|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|4|34.101.64.157|3128|Indonesia|Jakarta|Google LLC|
-|5|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|6|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|7|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|8|157.20.128.247|8080|Indonesia|Sagaranten|PT Citra Meta Data|
-|9|185.117.119.112|8080|Finland|Helsinki|First Server Limited|
-|10|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|11|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|12|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|13|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|14|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|15|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|16|92.58.181.171|7575|Spain|Madrid|UNI2|
-|17|197.243.27.122|3128|Rwanda|Kigali|BSC|
-|18|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|1|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|4|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|5|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|6|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|7|51.159.159.73|80|France|Paris|SCALEWAY|
+|8|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|9|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|12|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|13|185.117.119.112|8080|Finland|Helsinki|First Server Limited|
+|14|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|15|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|16|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|17|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|18|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|19|197.243.27.122|3128|Rwanda|Kigali|BSC|
+|20|92.58.181.171|7575|Spain|Madrid|UNI2|
 
 
 
