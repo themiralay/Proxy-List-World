@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|368|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|368|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|368|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|402|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|402|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|402|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|5|66.175.219.50|3228|United States|Fremont|Akamai Technologies, Inc.|
-|6|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|9|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|10|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|11|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|12|172.98.201.190|3128|United States|Dallas|Centrilogic|
-|13|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|14|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|15|103.153.39.37|8083|Pakistan|Burewala|Getlinks (SMC-Private) Limited|
-|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|17|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|18|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|19|38.65.174.107|999|Mexico|Amealco|Wantelco SAS de CV|
-|20|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|3|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|8|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|9|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|10|58.186.248.240|16000|Vietnam|Hanoi|FPT Telecom Company|
+|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|16|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
+|17|2.50.45.120|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
+|18|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|19|192.177.139.119|8000|United States|Chicago|EGIHosting|
+|20|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
