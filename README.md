@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **38990** proxies at the latest update. Usable proxies are below.
+> Scraper found **74810** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35820|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|85|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|37679|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|4|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|5|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|6|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|7|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|8|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|9|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
-|10|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|11|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|1|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|24.52.33.75|8080|United States|St. George|TDS TELECOM|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|9|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|10|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|11|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
 |12|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|14|42.118.202.2|16000|Vietnam|Thu Dau Mot|FPT Telecom Company|
-|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|16|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|17|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|18|58.186.248.240|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|42.113.20.200|16000|Vietnam|Hanoi|FPT Telecom Company|
-|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|14|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
+|15|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|16|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|18|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|19|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|20|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
 
 
 
