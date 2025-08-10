@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|4|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|6|157.20.128.247|8080|Indonesia|Sagaranten|PT Citra Meta Data|
-|7|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|8|185.117.119.112|8080|Finland|Helsinki|First Server Limited|
-|9|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|10|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|11|51.159.159.73|80|France|Paris|SCALEWAY|
-|12|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|13|42.118.3.231|16000|Vietnam|Hanoi|FPT Telecom Company|
+|1|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
+|2|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|3|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
+|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|5|51.159.159.73|80|France|Paris|SCALEWAY|
+|6|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|7|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|8|42.113.20.200|16000|Vietnam|Hanoi|FPT Telecom Company|
+|9|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|10|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|11|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|12|92.58.181.171|7575|Spain|Madrid|UNI2|
+|13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
 |14|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|15|92.58.181.171|7575|Spain|Madrid|UNI2|
-|16|197.243.27.122|3128|Rwanda|Kigali|BSC|
-|17|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|18|27.147.215.56|13457|Bangladesh|Dhaka|Link3 Technologies Limited|
-|19|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|20|103.165.155.50|1111|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
+|15|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|16|152.53.194.46|8065|United States|Reston|netcup GmbH|
+|17|197.243.27.122|3128|Rwanda|Kigali|BSC|
+|18|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|19|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
+|20|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
 
 
 
