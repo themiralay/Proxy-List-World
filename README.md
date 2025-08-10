@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|4|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|5|152.53.169.165|1080|United States|Manassas|netcup GmbH|
-|6|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|7|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|8|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|9|202.232.52.162|8080|Japan|Ōita|Internet Initiative Japan Inc.|
-|10|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|13|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
-|14|171.231.175.71|7010|Vietnam|Hanoi|Viettel Corporation|
-|15|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|16|51.195.200.115|31280|United Kingdom|Erith|OVH SAS|
+|2|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|3|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|4|152.53.169.165|1080|United States|Manassas|netcup GmbH|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|2.50.45.120|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|9|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|13|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
 |17|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
 |18|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|20|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
+|19|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
 
 
 
