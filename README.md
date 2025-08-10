@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|3|109.120.133.3|1200|Sweden|Stockholm|Aeza International LTD|
-|4|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|5|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
-|6|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|3|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|4|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|5|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|6|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
+|7|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
 |8|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|9|209.121.164.51|31147|Canada|Burnaby|TELUS Communications Inc.|
-|10|192.177.33.71|8000|United States|San Jose|EGIHosting|
-|11|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|12|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|13|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|15|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|16|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|17|103.141.67.50|51935|Bangladesh|Dhaka|Link3 Technologies Limited|
-|18|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|20|190.93.92.78|999|Dominican Republic|Santo Domingo|Airtime Technology SRL|
+|9|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|11|109.120.133.3|1200|Sweden|Stockholm|Aeza International LTD|
+|12|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|13|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|14|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|15|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|58.186.92.98|16000|Vietnam|Hanoi|FPT Telecom Company|
+|18|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|19|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|20|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 
 
 
