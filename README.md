@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|3|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|4|152.53.169.165|1080|United States|Manassas|netcup GmbH|
-|5|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|6|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|152.53.169.165|1080|United States|Manassas|netcup GmbH|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|113.186.243.102|1001|Vietnam|Vĩnh Tường|VNPT-VNNIC|
 |8|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|113.186.243.102|1001|Vietnam|Vĩnh Tường|VNPT-VNNIC|
-|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|12|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
+|9|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|10|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|11|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
+|12|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
 |13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
-|15|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
-|16|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|17|164.163.42.56|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|164.163.42.52|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|15|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|16|116.98.187.95|1014|Vietnam|Buon Ma Thuot|Viettel Corporation|
+|17|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|18|70.36.99.51|3128|United States|Los Angeles|Perfect International, Inc|
 |19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
 
 
 
