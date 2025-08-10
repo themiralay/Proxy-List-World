@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|3|209.121.164.51|31147|Canada|Burnaby|TELUS Communications Inc.|
-|4|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|5|58.186.248.240|16000|Vietnam|Hanoi|FPT Telecom Company|
-|6|42.113.20.200|16000|Vietnam|Hanoi|FPT Telecom Company|
-|7|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|8|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|9|217.144.187.208|1080|Germany|Frankfurt am Main|Aeza International LTD|
-|10|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|11|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|12|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|13|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|14|2.50.45.120|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|109.120.133.3|1200|Sweden|Stockholm|Aeza International LTD|
-|17|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|18|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|19|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
-|20|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|2|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|3|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|4|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|8|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|9|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|10|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|11|209.121.164.51|31147|Canada|Burnaby|TELUS Communications Inc.|
+|12|42.118.202.2|16000|Vietnam|Thu Dau Mot|FPT Telecom Company|
+|13|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|16|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|17|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|18|181.129.74.58|40667|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|19|109.120.133.3|1200|Sweden|Stockholm|Aeza International LTD|
+|20|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
 
 
 
