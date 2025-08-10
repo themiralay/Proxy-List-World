@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|400|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|400|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|400|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|436|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|436|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|436|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|43.252.237.111|1111|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|4|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|5|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|8|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|9|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|10|14.225.210.186|3129|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|11|163.61.55.135|8080|Indonesia|Probolinggo|PT INFINITY GLOBAL DATA NUSANTARA|
-|12|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|13|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|15|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
-|16|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|17|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|18|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|19|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|20|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|58.186.92.227|16000|Vietnam|Hanoi|FPT Telecom Company|
+|5|27.79.147.116|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
+|7|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|8|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|113.192.30.243|1111|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|11|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|12|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
+|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|14|1.53.92.155|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|15|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|16|2.50.45.120|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
+|17|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
+|18|58.186.92.98|16000|Vietnam|Hanoi|FPT Telecom Company|
+|19|42.113.20.200|16000|Vietnam|Hanoi|FPT Telecom Company|
+|20|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 
 
 
