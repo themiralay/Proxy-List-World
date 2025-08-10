@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|3|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|2|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|3|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 |4|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 |5|24.173.217.114|55443|United States|Mesquite|Spectrum|
-|6|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|7|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|8|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|9|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|10|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|11|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|12|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|13|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|14|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|15|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|16|85.117.56.41|8080|Georgia|Marneuli|Caucasus Online Ltd.|
-|17|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|18|109.120.133.3|1200|Sweden|Stockholm|Aeza International LTD|
-|19|103.97.140.177|8080|Indonesia|Bandung|PT Jembatan Data Pangrango|
-|20|200.125.171.254|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|157.66.16.38|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|8|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|9|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|10|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|11|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|13|45.174.191.135|8080|Brazil|Fortaleza|P3 Telecom LTDA|
+|14|103.25.192.126|8181|Indonesia|Karawang|UNINA|
+|15|196.216.132.43|8080|South Africa|Stellenbosch|HERO TELECOMS (PTY) LTD|
+|16|185.82.99.204|92|Lebanon|Baalbek|NET 360 S.A.R.L|
+|17|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|18|103.73.164.190|32650|Cambodia|Poipet|TPLC Holdings Ltd|
+|19|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|20|58.186.92.98|16000|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
