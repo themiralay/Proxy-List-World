@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|4|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|5|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|6|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|7|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
-|8|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|2|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|3|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
+|4|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|5|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
+|8|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
 |9|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|10|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|16|58.186.92.98|16000|Vietnam|Hanoi|FPT Telecom Company|
-|17|154.73.28.79|8080|Libya|Tripoli|Rawafed|
-|18|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|19|147.28.240.215|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|20|147.28.240.217|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|10|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|11|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|13|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|16|157.15.144.80|8080|Indonesia|Cilacap|PT. INDOTEK SOLUTION NETWORK|
+|17|42.113.20.200|16000|Vietnam|Hanoi|FPT Telecom Company|
+|18|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
+|19|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|20|103.82.22.5|10007|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
 
 
 
