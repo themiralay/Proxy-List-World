@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|6|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|7|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|8|103.82.22.5|10010|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
-|9|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
-|10|58.186.248.240|16000|Vietnam|Hanoi|FPT Telecom Company|
-|11|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|12|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|17|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|18|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|3|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|4|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|5|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|6|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|7|139.59.228.95|8118|Singapore|Singapore|DIGITALOCEAN|
+|8|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|9|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|10|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|13|115.72.32.248|10010|Vietnam|Hanoi|VIETELmetro|
+|14|45.86.44.243|1080|Russia|Moscow|Lutacom LLC|
+|15|157.15.66.105|8080|Indonesia|Tulungagung|PT Trimitra Aditama Koneksindo|
+|16|2.50.45.120|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
+|17|115.72.45.0|10001|Vietnam|Hanoi|VIETELmetro|
+|18|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|19|115.72.161.103|10004|Vietnam|Ho Chi Minh City|VIETELmetro|
+|20|115.72.170.175|10004|Vietnam|Ho Chi Minh City|VIETELmetro|
 
 
 
