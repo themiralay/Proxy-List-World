@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|375|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|375|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|375|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|8|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|12|42.118.202.2|16000|Vietnam|Thu Dau Mot|FPT Telecom Company|
-|13|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|14|2.50.45.120|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
-|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|16|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|18|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|19|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|20|103.82.22.5|10007|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|5|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|6|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
+|8|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|42.113.20.200|16000|Vietnam|Hanoi|FPT Telecom Company|
+|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|12|192.177.139.119|8000|United States|Chicago|EGIHosting|
+|13|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
+|14|191.101.190.175|3127|Singapore|Singapore|PT Perwira Media Solusi|
+|15|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|16|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|17|103.137.85.29|83|India|Jaipur|Bakliwal Telecom Services Pvt Ltd|
+|18|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|19|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|20|58.186.248.240|16000|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
