@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
-|4|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|9|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|2|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|115.72.162.120|10002|Vietnam|Ho Chi Minh City|VIETELmetro|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|8|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
+|9|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
 |10|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|11|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|12|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|14|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|15|42.118.0.67|16000|Vietnam|Hanoi|FPT Telecom Company|
+|11|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|103.81.194.120|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|14|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
 |16|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
-|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|18|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|19|152.69.229.220|3128|South Korea|Chuncheon|Oracle Corporation|
-|20|152.53.168.53|44887|United States|Manassas|netcup GmbH|
+|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|19|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|20|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
 
 
 
