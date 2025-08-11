@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
-|3|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|2|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|3|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
 |4|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|5|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|6|172.98.201.190|3128|United States|Dallas|Centrilogic|
-|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|8|42.118.74.204|16000|Vietnam|Hanoi|FPT Telecom Company|
-|9|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|2.50.45.120|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
-|13|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|14|103.53.77.179|8050|Indonesia|Gubengairlangga|INTI|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|17|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
-|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|19|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|20|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|5|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|6|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|7|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|8|115.72.172.64|10002|Vietnam|Ho Chi Minh City|VIETELmetro|
+|9|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|10|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|11|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|12|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|13|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|14|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
+|15|103.53.77.179|8050|Indonesia|Gubengairlangga|INTI|
+|16|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|17|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|20|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
 
 
 
