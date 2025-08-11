@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75448** proxies at the latest update. Usable proxies are below.
+> Scraper found **75328** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35780|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35660|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|68|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38374|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|3|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|5|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|2|138.2.64.185|8118|Singapore|Singapore|Oracle Corporation|
+|3|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
 |6|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|7|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
-|8|42.118.1.140|16000|Vietnam|Hanoi|FPT Telecom Company|
-|9|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|10|171.237.60.177|10003|Vietnam|Lang Son|Viettel Corporation|
-|11|186.97.138.69|999|Colombia|Medellín|Colombia Móvil|
-|12|115.72.162.120|10002|Vietnam|Ho Chi Minh City|VIETELmetro|
-|13|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|14|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|15|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
-|16|76.50.80.32|8182|United States|North Hollywood|Spectrum|
-|17|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|18|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|147.28.240.215|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|7|92.58.181.171|7575|Spain|Madrid|UNI2|
+|8|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|9|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|12|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|13|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
+|14|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|15|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|16|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|115.72.4.45|10002|Vietnam|Ho Chi Minh City|VIETELmetro|
+|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|19|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|20|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
 
 
 
