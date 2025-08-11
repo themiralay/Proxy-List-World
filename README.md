@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.2.64.185|8118|Singapore|Singapore|Oracle Corporation|
-|3|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|6|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|7|92.58.181.171|7575|Spain|Madrid|UNI2|
-|8|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|9|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|4|2.50.45.120|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
+|5|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|7|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|8|139.59.228.95|8118|Singapore|Singapore|DIGITALOCEAN|
+|9|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
 |10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|12|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|13|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
-|14|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|15|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|16|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|17|115.72.4.45|10002|Vietnam|Ho Chi Minh City|VIETELmetro|
-|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|19|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|20|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
+|13|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|14|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|15|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|16|92.58.181.171|7575|Spain|Madrid|UNI2|
+|17|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|18|115.72.162.120|10002|Vietnam|Ho Chi Minh City|VIETELmetro|
+|19|197.218.16.16|3128|Mozambique|Maputo|Movitel's IP|
+|20|209.14.98.6|8080|Colombia|Repelón|AGIS|
 
 
 
