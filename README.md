@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|3|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|4|152.53.169.165|1080|United States|Manassas|netcup GmbH|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|34.101.88.34|3128|Indonesia|Jakarta|Google LLC|
-|7|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|8|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|11|2.50.45.120|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
-|12|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|13|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|14|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|15|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|16|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
-|17|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|4|115.77.35.33|1001|Vietnam|Ho Chi Minh City|Viettel Group|
+|5|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|6|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|7|152.53.169.165|1080|United States|Manassas|netcup GmbH|
+|8|2.50.45.120|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
+|9|42.118.74.204|16000|Vietnam|Hanoi|FPT Telecom Company|
+|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|11|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|12|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|15|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|16|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|17|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 |18|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|19|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|20|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|19|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|20|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
 
 
 
