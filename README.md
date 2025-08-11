@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|3|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|4|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|5|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|6|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|7|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|8|163.223.78.87|3127|Indonesia|Jombang|PT Big Network Indonesia|
-|9|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|12|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|14|94.236.164.167|3333|Bulgaria|Burgas|Vivacom Bulgaria EAD|
-|15|23.94.236.141|8080|United States|Los Angeles|HostPapa|
-|16|103.134.220.145|8080|Indonesia|Melati|PT GLOBAL MEDIA PRATAMA SOLUSINDO|
-|17|36.94.30.238|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|18|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|19|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|20|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
