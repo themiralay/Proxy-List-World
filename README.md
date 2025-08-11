@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|3|103.184.167.66|8080|Indonesia|Sungguminasa|PT Pricom Media Solusi|
-|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|5|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|6|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|7|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|8|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|104.247.171.78|2071|Turkey|Istanbul|Nuh Ahmet Firat trading as TEKNET YAZLIM VE BILGISAYAR TEKNOLOJILERI|
-|11|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|12|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|13|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|16|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|17|171.237.60.177|10003|Vietnam|Lang Son|Viettel Corporation|
-|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|19|45.86.44.243|1080|Russia|Moscow|Lutacom LLC|
-|20|42.118.1.140|16000|Vietnam|Hanoi|FPT Telecom Company|
+|2|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
+|3|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|4|42.118.1.140|16000|Vietnam|Hanoi|FPT Telecom Company|
+|5|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|6|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|7|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|8|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|9|192.177.33.197|8000|United States|San Jose|EGIHosting|
+|10|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|11|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|12|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|13|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|14|104.247.171.77|2071|Turkey|Istanbul|Nuh Ahmet Firat trading as TEKNET YAZLIM VE BILGISAYAR TEKNOLOJILERI|
+|15|2.50.45.120|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
+|16|104.247.171.78|2071|Turkey|Istanbul|Nuh Ahmet Firat trading as TEKNET YAZLIM VE BILGISAYAR TEKNOLOJILERI|
+|17|202.154.19.7|8080|Indonesia|Jombang|DIGITNET|
+|18|184.82.16.247|8080|Thailand|Chiang Mai|AIS-Fibre|
+|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|20|103.143.197.218|8000|Indonesia|Karanganom|JERNIHNETWORK|
 
 
 
