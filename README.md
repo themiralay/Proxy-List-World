@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|3|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|4|103.176.96.185|8090|Indonesia|Purwakarta|PT Global Sarana Elektronika|
-|5|103.83.224.176|8080|Philippines|Mandaue City|Channel Information Technology Support and Leasing Services Inc.|
-|6|42.118.74.204|16000|Vietnam|Hanoi|FPT Telecom Company|
-|7|157.15.66.92|9290|Indonesia|Tulungagung|PT Trimitra Aditama Koneksindo|
-|8|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|9|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|10|152.53.169.165|1080|United States|Manassas|netcup GmbH|
-|11|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|14|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|15|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
-|16|103.55.224.175|7777|Indonesia|Kuningan|PT Gapura Era Digital|
-|17|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|18|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|20|103.151.247.246|8081|Indonesia|Polewali|MANAKARRANET|
+|2|42.118.74.204|16000|Vietnam|Hanoi|FPT Telecom Company|
+|3|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|4|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|5|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|6|152.53.169.165|1080|United States|Manassas|netcup GmbH|
+|7|2.50.45.120|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
+|8|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|9|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|10|103.176.96.185|8090|Indonesia|Purwakarta|PT Global Sarana Elektronika|
+|11|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|12|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
+|13|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|14|200.4.254.67|999|Peru|Lima region|Telefonica del Peru S.A.A.|
+|15|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|16|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|31.161.38.233|8090|The Netherlands|Amstelveen|KPN B.V|
+|19|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|20|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
