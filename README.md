@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
 |2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|140.227.81.191|3128|Japan|Chiyoda City|InfoSphere|
-|4|139.59.228.95|8118|Singapore|Singapore|DIGITALOCEAN|
-|5|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|6|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|7|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|8|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|11|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
-|16|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|17|112.203.207.119|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|18|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|20|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|4|103.158.253.23|8080|Indonesia|Margasari|Rapid Network|
+|5|103.158.253.22|8080|Indonesia|Margasari|Rapid Network|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|8|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|9|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
+|10|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|11|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|12|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|13|185.151.29.96|3128|United Kingdom|London|20i Limited|
+|14|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|15|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|17|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|19|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
+|20|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
