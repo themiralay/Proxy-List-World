@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|4|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|5|116.105.54.67|10002|Vietnam|Hanoi|Viettel Corporation|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|8|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|9|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|10|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
-|12|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|13|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|14|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|15|171.237.60.177|10001|Vietnam|Lang Son|Viettel Corporation|
-|16|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|18|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|19|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
-|20|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|2|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|3|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
+|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|5|103.238.232.34|1111|Indonesia|Banjaran|PT Digital Netcom Solution|
+|6|42.118.1.140|16000|Vietnam|Hanoi|FPT Telecom Company|
+|7|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|8|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|9|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|10|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|11|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|13|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|15|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|16|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|17|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|18|197.248.75.221|8105|Kenya|Nairobi|Safaricom Limited|
+|19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
 
 
 
