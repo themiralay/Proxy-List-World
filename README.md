@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|116.105.54.67|10002|Vietnam|Hanoi|Viettel Corporation|
-|3|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|4|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|5|172.98.201.190|3128|United States|Dallas|Centrilogic|
-|6|42.118.74.204|16000|Vietnam|Hanoi|FPT Telecom Company|
-|7|116.98.187.95|1014|Vietnam|Buon Ma Thuot|Viettel Corporation|
-|8|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
-|9|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|10|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|2|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
+|3|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|4|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|5|42.118.74.204|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
+|7|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|8|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|9|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
+|10|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|11|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|12|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
 |13|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|14|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|15|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|16|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|18|103.160.41.54|1080|Indonesia|Kadugadung|WISTEL|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|16|103.156.141.87|8080|Indonesia|Karangsumber|PT Tekling Media Telematika|
+|17|115.72.39.248|10001|Vietnam|Hanoi|VIETELmetro|
+|18|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
 |19|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|20|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|20|104.247.171.77|2071|Turkey|Istanbul|Nuh Ahmet Firat trading as TEKNET YAZLIM VE BILGISAYAR TEKNOLOJILERI|
 
 
 
