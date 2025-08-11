@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
 |5|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|6|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
-|7|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|8|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|9|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
-|10|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|11|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|12|45.86.44.243|1080|Russia|Moscow|Lutacom LLC|
-|13|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|17|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|20|147.28.240.217|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|6|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|7|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|8|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|11|152.53.169.165|1080|United States|Manassas|netcup GmbH|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|14|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|15|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|16|42.118.74.204|16000|Vietnam|Hanoi|FPT Telecom Company|
+|17|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|20|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
