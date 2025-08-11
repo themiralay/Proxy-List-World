@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
 |2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|140.227.81.191|3128|Japan|Chiyoda City|InfoSphere|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|8|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|9|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|10|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|12|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|13|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|14|61.19.145.66|8080|Thailand|Samphanthawong|CAT Telecom Public Company Limited|
-|15|172.98.201.190|3128|United States|Dallas|Centrilogic|
-|16|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|18|66.175.219.50|3228|United States|Fremont|Akamai Technologies, Inc.|
-|19|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|20|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|4|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|5|139.59.228.95|8118|Singapore|Singapore|DIGITALOCEAN|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|115.72.162.120|10002|Vietnam|Ho Chi Minh City|VIETELmetro|
+|11|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
+|12|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|13|171.237.60.177|10003|Vietnam|Lang Son|Viettel Corporation|
+|14|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|15|62.210.37.74|8012|France|Paris|Online S.A.S.|
+|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|18|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
 
 
 
