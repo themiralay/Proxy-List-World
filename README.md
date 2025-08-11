@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|116.105.54.67|10001|Vietnam|Hanoi|Viettel Corporation|
-|3|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|4|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|5|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|6|2.50.45.120|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
-|7|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|2|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|3|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|4|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|5|103.186.193.135|8080|Indonesia|Pacitan|PT Lentera Digital Nusantara|
+|6|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|7|42.118.74.204|16000|Vietnam|Hanoi|FPT Telecom Company|
 |8|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|9|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|10|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
-|13|160.191.180.202|8999|Indonesia|Purworejo|PT.Global Media Data Prima|
-|14|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|15|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|16|190.61.84.166|9812|Costa Rica|San José|Ufinet Costa Rica|
-|17|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|18|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|19|115.72.172.64|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|20|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|10|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|11|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
+|12|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|13|103.245.16.133|8080|Indonesia|Jakarta|PT Quantum Tera Network|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|16|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|18|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
+|19|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|20|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
 
 
 
