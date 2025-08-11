@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|152.53.169.165|1080|United States|Manassas|netcup GmbH|
-|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|4|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|6|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|7|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|8|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|9|2.50.45.120|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
-|10|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
-|11|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
-|12|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|2|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|3|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|5|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
+|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|7|152.53.169.165|1080|United States|Manassas|netcup GmbH|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|10|67.43.236.20|6231|Canada|Montreal|GloboTech Communications|
+|11|42.118.1.140|16000|Vietnam|Hanoi|FPT Telecom Company|
+|12|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|13|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
 |14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|51.159.159.73|80|France|Paris|SCALEWAY|
-|16|126.209.3.206|8080|Philippines|Manila|Infinivan Incorporated|
+|15|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|16|51.159.159.73|80|France|Paris|SCALEWAY|
 |17|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|18|42.118.1.140|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|20|42.118.74.204|16000|Vietnam|Hanoi|FPT Telecom Company|
+|18|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
 
 
 
