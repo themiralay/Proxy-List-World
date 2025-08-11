@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|354|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|354|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|354|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|360|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|360|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|360|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|49.150.56.0|8082|Philippines|Tarlac City|Philippine Long Distance Telephone Co.|
-|4|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|5|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|8|152.53.169.165|1080|United States|Manassas|netcup GmbH|
-|9|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|10|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|5.188.183.253|8080|Spain|Madrid|Melbikomas UAB|
-|12|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|5.104.174.199|23500|Bulgaria|Dobrich|DobrudjaCable Ltd.|
-|16|103.126.87.203|8081|Indonesia|Trucuk|PT. Rasi Bintang Perkasa|
+|2|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|3|152.53.169.165|1080|United States|Manassas|netcup GmbH|
+|4|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|5|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|6|5.188.183.253|8080|Spain|Madrid|Melbikomas UAB|
+|7|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|9|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|12|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|13|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|15|103.156.17.32|8818|Indonesia|Jatibarang|RSTNET|
+|16|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
 |17|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|18|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
-|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|18|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|19|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|20|147.78.169.80|800|Slovakia|Nitra|OSTV s.r.o.|
 
 
 
