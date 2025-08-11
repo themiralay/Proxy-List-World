@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|116.105.54.67|10002|Vietnam|Hanoi|Viettel Corporation|
 |3|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|4|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|5|42.118.74.204|16000|Vietnam|Hanoi|FPT Telecom Company|
-|6|42.118.1.140|16000|Vietnam|Hanoi|FPT Telecom Company|
-|7|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|8|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|10|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|11|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
-|12|31.14.114.68|1081|Iran|Tehran|Afranet Co|
-|13|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|5|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|6|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|7|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|8|104.247.171.77|2071|Turkey|Istanbul|Nuh Ahmet Firat trading as TEKNET YAZLIM VE BILGISAYAR TEKNOLOJILERI|
+|9|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|10|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|11|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|12|92.58.181.171|7575|Spain|Madrid|UNI2|
+|13|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
 |14|104.247.171.78|2071|Turkey|Istanbul|Nuh Ahmet Firat trading as TEKNET YAZLIM VE BILGISAYAR TEKNOLOJILERI|
-|15|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|16|104.247.171.77|2071|Turkey|Istanbul|Nuh Ahmet Firat trading as TEKNET YAZLIM VE BILGISAYAR TEKNOLOJILERI|
-|17|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|18|115.72.4.45|10002|Vietnam|Ho Chi Minh City|VIETELmetro|
-|19|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|20|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|116.105.103.148|1006|Vietnam|Hanoi|Viettel Corporation|
+|17|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|18|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|19|171.237.60.177|10003|Vietnam|Lang Son|Viettel Corporation|
+|20|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
 
 
 
