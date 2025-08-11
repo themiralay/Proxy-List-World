@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|2|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|5|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|6|113.172.120.175|1003|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|6|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
 |7|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
 |8|152.53.169.165|1080|United States|Manassas|netcup GmbH|
-|9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|12|42.118.1.140|16000|Vietnam|Hanoi|FPT Telecom Company|
+|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|10|173.209.63.67|8230|Canada|Montreal|GloboTech Communications|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |13|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|16|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|17|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|18|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|19|2.50.45.120|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
-|20|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|14|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|15|42.118.74.204|16000|Vietnam|Hanoi|FPT Telecom Company|
+|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|17|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|18|42.118.1.140|16000|Vietnam|Hanoi|FPT Telecom Company|
+|19|45.86.44.243|1080|Russia|Moscow|Lutacom LLC|
+|20|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
 
 
 
