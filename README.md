@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|42.118.74.204|16000|Vietnam|Hanoi|FPT Telecom Company|
-|3|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|4|42.118.1.140|16000|Vietnam|Hanoi|FPT Telecom Company|
-|5|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|9|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|10|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|11|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|92.58.181.171|7575|Spain|Madrid|UNI2|
-|14|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
-|15|2.50.45.120|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|115.72.40.239|10001|Vietnam|Hanoi|VIETELmetro|
-|18|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|19|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|20|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|2|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|4|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|5|42.118.1.140|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|7|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|8|42.118.74.204|16000|Vietnam|Hanoi|FPT Telecom Company|
+|9|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|10|76.50.80.32|8182|United States|North Hollywood|Spectrum|
+|11|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|12|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|13|115.77.129.20|10002|Vietnam|Ho Chi Minh City|Viettel Group|
+|14|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|15|104.247.171.78|2071|Turkey|Istanbul|Nuh Ahmet Firat trading as TEKNET YAZLIM VE BILGISAYAR TEKNOLOJILERI|
+|16|104.247.171.77|2071|Turkey|Istanbul|Nuh Ahmet Firat trading as TEKNET YAZLIM VE BILGISAYAR TEKNOLOJILERI|
+|17|115.72.172.64|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|19|197.218.16.16|3128|Mozambique|Maputo|Movitel's IP|
+|20|103.178.20.96|1080|Indonesia|Malang|PT Trisna Mega Abadi|
 
 
 
