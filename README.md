@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75371** proxies at the latest update. Usable proxies are below.
+> Scraper found **75477** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35707|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35813|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|61|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38377|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|4|103.172.42.163|8080|Indonesia|Tambangan|PT Media Solusi Sukses|
-|5|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|6|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|38.51.48.20|999|Dominican Republic|Santiago de los Caballeros|Telemarch S.R.L|
-|9|42.118.1.140|16000|Vietnam|Hanoi|FPT Telecom Company|
-|10|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|12|197.218.16.16|3128|Mozambique|Maputo|Movitel's IP|
-|13|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|14|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|15|103.68.214.136|8181|Indonesia|Sepatan|PT Media Grasi Internet|
-|16|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|17|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|18|181.78.49.177|999|Guatemala|San Marcos|Ufinet Panama S.A.|
-|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|20|46.175.148.17|2040|The Netherlands|Amsterdam|Serverius Holding B.V.|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|4|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|6|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
+|7|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|8|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|9|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|10|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|11|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
+|12|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|15|14.170.154.193|19132|Vietnam|Quảng Ninh|VNPT-VNNIC|
+|16|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
+|17|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
+|18|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|19|103.24.212.250|8082|Indonesia|Semarang|PT. ADAU PUTRA NETWORK|
+|20|51.20.192.194|3128|Sweden|Stockholm|Amazon.com, Inc.|
 
 
 
