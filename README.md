@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
-|3|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|4|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
-|5|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|6|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|7|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|8|152.53.169.165|1080|United States|Manassas|netcup GmbH|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|2|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|3|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|4|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|5|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|6|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|7|152.53.169.165|1080|United States|Manassas|netcup GmbH|
+|8|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|9|5.188.183.253|8080|Spain|Madrid|Melbikomas UAB|
 |10|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|11|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|11|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 |12|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|13|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|14|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|15|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|16|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|17|45.86.44.243|1080|Russia|Moscow|Lutacom LLC|
-|18|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|19|80.211.202.138|8118|Czechia|Prague|INTERNET CZ, a.s.|
-|20|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|15|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|16|49.150.56.0|8082|Philippines|Tarlac City|Philippine Long Distance Telephone Co.|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|103.165.234.46|8080|Indonesia|Palembang|PT iForte Global Internet|
+|19|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|20|45.86.44.243|1080|Russia|Moscow|Lutacom LLC|
 
 
 
