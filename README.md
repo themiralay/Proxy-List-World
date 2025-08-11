@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|7|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|8|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|9|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|2|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|3|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|4|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
+|5|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|6|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|7|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
+|9|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 |10|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|11|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|12|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|13|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
-|14|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|15|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|18|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|20|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|11|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|116.103.143.11|1009|Vietnam|Buon Ma Thuot|Viettel Corporation|
+|15|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|16|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|17|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|18|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|19|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|20|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
 
 
 
