@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|3|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|4|116.98.187.95|1014|Vietnam|Buon Ma Thuot|Viettel Corporation|
-|5|2.50.45.120|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|192.177.33.197|8000|United States|San Jose|EGIHosting|
-|10|210.79.142.73|8080|Indonesia|Tamanan|PT Gayatri Lintas Nusantara|
-|11|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|12|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
-|13|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|14|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|15|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|16|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|17|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|18|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|4|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|5|104.244.78.150|5555|Luxembourg|Roost|FranTech Solutions|
+|6|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|7|157.66.16.52|8080|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|11|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|12|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|13|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|14|186.65.106.90|2024|Brazil|Salvador|Bahiadados Telecom Ltda.|
+|15|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|18|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
 |19|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|20|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|20|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
 
 
 
