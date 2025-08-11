@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
 |2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|140.227.81.191|3128|Japan|Chiyoda City|InfoSphere|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
-|6|139.59.228.95|8118|Singapore|Singapore|DIGITALOCEAN|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|10|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|11|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|15|220.130.186.59|8080|Taiwan|Hsinchu|Chunghwa Telecom Co., Ltd.|
-|16|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|17|185.151.29.96|3128|United Kingdom|London|20i Limited|
-|18|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|19|172.98.201.190|3128|United States|Dallas|Centrilogic|
-|20|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|4|139.59.228.95|8118|Singapore|Singapore|DIGITALOCEAN|
+|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|6|103.158.253.22|8080|Indonesia|Margasari|Rapid Network|
+|7|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
+|8|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|12|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|13|112.109.19.117|80|Indonesia|Gubengairlangga|DATAUTAMANET|
+|14|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|15|185.151.29.96|3128|United Kingdom|London|20i Limited|
+|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|18|172.98.201.190|3128|United States|Dallas|Centrilogic|
+|19|161.49.210.196|10101|Philippines|Clark|Converge Information and Communications Technology Solutions|
+|20|103.158.253.23|8080|Indonesia|Margasari|Rapid Network|
 
 
 
