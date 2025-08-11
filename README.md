@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|3|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|4|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|5|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|7|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|8|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|9|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|10|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|11|41.59.115.217|80|Tanzania|Dar es Salaam|TTCL|
-|12|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|14|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|15|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
-|16|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|17|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|18|115.72.39.248|10001|Vietnam|Hanoi|VIETELmetro|
-|19|197.218.16.16|3128|Mozambique|Maputo|Movitel's IP|
-|20|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|5|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|6|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|7|103.193.145.5|8080|Indonesia|Pulerejo|PT Lintas Jaringan Nusantara|
+|8|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|9|104.247.171.78|2071|Turkey|Istanbul|Nuh Ahmet Firat trading as TEKNET YAZLIM VE BILGISAYAR TEKNOLOJILERI|
+|10|104.247.171.77|2071|Turkey|Istanbul|Nuh Ahmet Firat trading as TEKNET YAZLIM VE BILGISAYAR TEKNOLOJILERI|
+|11|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
+|12|103.178.20.96|1080|Indonesia|Malang|PT Trisna Mega Abadi|
+|13|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|14|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|15|103.242.105.99|8080|Indonesia|Karangampel|PT Lintas Jaringan Nusantara|
+|16|197.218.16.16|3128|Mozambique|Maputo|Movitel's IP|
+|17|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|18|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|19|115.72.41.61|10002|Vietnam|Hanoi|VIETELmetro|
+|20|115.72.39.248|10001|Vietnam|Hanoi|VIETELmetro|
 
 
 
