@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|3|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|4|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|3|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|4|172.98.201.190|3128|United States|Dallas|Centrilogic|
 |5|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
-|8|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|9|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|10|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|11|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|13|128.140.113.110|5153|Germany|Falkenstein|Hetzner Online GmbH|
-|14|181.78.48.255|999|Guatemala|San Martín Jilotepeque|Ufinet Panama S.A.|
-|15|2.50.45.120|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
-|16|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|17|191.7.215.165|1452|Brazil|Santa Quitéria|HTM Serviços de Telecomunicações EIRELI|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|20|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|7|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|8|42.118.74.204|16000|Vietnam|Hanoi|FPT Telecom Company|
+|9|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|10|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|11|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
+|12|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|13|42.118.1.140|16000|Vietnam|Hanoi|FPT Telecom Company|
+|14|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|15|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
+|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|17|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|19|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|20|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
 
 
 
