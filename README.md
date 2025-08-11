@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
 |2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|140.227.81.191|3128|Japan|Chiyoda City|InfoSphere|
-|4|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
-|5|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|8|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|9|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|11|157.66.16.38|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|12|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|13|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|14|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|15|38.7.131.190|999|Dominican Republic|La Boca de Mao Abajo|SERVICIOS NUÑEZ EIRL|
-|16|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|18|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
+|4|103.122.0.52|8181|Indonesia|Cempaka|PT. Java Digital Nusantara|
+|5|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
+|6|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|7|185.151.29.96|3128|United Kingdom|London|20i Limited|
+|8|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|11|95.47.239.65|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
+|12|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|13|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|14|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|17|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|18|112.203.207.119|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|19|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|20|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
 
 
 
