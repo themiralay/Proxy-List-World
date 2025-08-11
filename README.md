@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|3|116.105.103.148|1006|Vietnam|Hanoi|Viettel Corporation|
-|4|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|5|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|7|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|8|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|115.72.40.239|10002|Vietnam|Hanoi|VIETELmetro|
-|11|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|12|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
-|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|14|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|15|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|92.58.181.171|7575|Spain|Madrid|UNI2|
+|3|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|4|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|7|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|8|192.177.139.195|8000|United States|Chicago|EGIHosting|
+|9|76.50.80.32|8182|United States|North Hollywood|Spectrum|
+|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|11|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|12|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|13|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
+|14|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|15|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|16|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|17|115.72.172.64|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
 |18|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|19|192.177.139.195|8000|United States|Chicago|EGIHosting|
-|20|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
 
 
 
