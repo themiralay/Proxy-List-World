@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|4|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|5|152.53.169.165|1080|United States|Manassas|netcup GmbH|
-|6|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|7|34.101.71.166|3128|Indonesia|Jakarta|Google LLC|
-|8|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|9|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|10|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|11|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|12|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|14|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|15|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|197.218.16.16|3128|Mozambique|Maputo|Movitel's IP|
-|18|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|19|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|20|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|34.101.71.166|3128|Indonesia|Jakarta|Google LLC|
+|4|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|5|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|6|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
+|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|152.53.169.165|1080|United States|Manassas|netcup GmbH|
+|11|42.118.74.204|16000|Vietnam|Hanoi|FPT Telecom Company|
+|12|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|13|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|14|42.118.1.140|16000|Vietnam|Hanoi|FPT Telecom Company|
+|15|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|17|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
+|18|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|19|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
