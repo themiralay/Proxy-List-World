@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|4|152.53.169.165|1080|United States|Manassas|netcup GmbH|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
-|9|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|10|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|11|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|104.238.232.210|999|Puerto Rico|Fajardo|OSNET Wireless|
-|14|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|15|188.125.169.199|8080|Turkey|Istanbul|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|16|103.126.119.191|8080|Indonesia|Tangerang|PT. Media Tekno Nusantara|
-|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|18|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|19|122.3.41.154|8090|Philippines|Cainta|Philippine Long Distance Telephone Co.|
-|20|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|2|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|3|152.53.169.165|1080|United States|Manassas|netcup GmbH|
+|4|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|5|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|9|49.150.56.0|8082|Philippines|Tarlac City|Philippine Long Distance Telephone Co.|
+|10|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|11|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|12|210.79.146.246|8085|Indonesia|Situbondo|PT Petabyte Network Indonesia|
+|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|14|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|15|201.220.112.98|999|Chile|Coelemu|Telefonica del Sur S.A.|
+|16|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|17|149.86.146.222|8080|Turkey|Sille|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|18|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|19|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|20|103.126.119.191|8080|Indonesia|Tangerang|PT. Media Tekno Nusantara|
 
 
 
