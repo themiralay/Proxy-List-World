@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|4|152.53.169.165|1080|United States|Manassas|netcup GmbH|
+|2|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|3|152.53.169.165|1080|United States|Manassas|netcup GmbH|
+|4|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 |5|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
 |6|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|7|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|8|210.87.125.146|8090|Indonesia|Krajan Wetan Wonojoyo|CV Brawijaya Giga Network|
-|9|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|11|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|12|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|15|43.252.237.149|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|16|103.130.116.88|8080|Indonesia|Sentulan|Lintas Data Prima, PT|
-|17|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|18|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|7|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|8|5.188.183.253|8080|Spain|Madrid|Melbikomas UAB|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|11|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|12|171.231.175.71|7010|Vietnam|Hanoi|Viettel Corporation|
+|13|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|14|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|144.22.175.58|1080|Brazil|São Paulo|Oracle Corporation|
+|17|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
+|18|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|19|45.119.113.62|83|India|Hyderabad|Netrun Technologies PVT LTD|
+|20|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
 
 
 
