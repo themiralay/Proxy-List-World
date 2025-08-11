@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|3|116.105.54.67|10002|Vietnam|Hanoi|Viettel Corporation|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|7|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|9|171.237.60.177|10003|Vietnam|Lang Son|Viettel Corporation|
-|10|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
-|11|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|12|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|15|2.50.45.120|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
-|16|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|17|115.72.172.64|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|18|197.218.16.16|3128|Mozambique|Maputo|Movitel's IP|
-|19|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|20|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|4|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|115.72.4.45|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|7|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
+|8|171.237.60.177|10001|Vietnam|Lang Son|Viettel Corporation|
+|9|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|10|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|11|197.218.16.16|3128|Mozambique|Maputo|Movitel's IP|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|14|115.72.41.61|10002|Vietnam|Hanoi|VIETELmetro|
+|15|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|16|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|17|103.106.219.171|8081|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
+|18|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
