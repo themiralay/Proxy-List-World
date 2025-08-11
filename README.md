@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
-|3|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|4|152.53.169.165|1080|United States|Manassas|netcup GmbH|
-|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|2|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|3|14.239.189.73|8080|Vietnam|Việt Trì|VNPT|
+|4|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|5|152.53.169.165|1080|United States|Manassas|netcup GmbH|
 |6|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|5.188.183.253|8080|Spain|Madrid|Melbikomas UAB|
-|9|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|10|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|11|103.175.237.232|8080|Indonesia|Sepanjang|PT Marva Global Telekomunikasi|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|14|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
+|7|23.94.236.141|8080|United States|Los Angeles|HostPapa|
+|8|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|11|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
+|12|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|13|58.147.186.31|3125|Indonesia|Kuningan Barat|PT. Transhybrid Communication|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|16|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
 |17|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|18|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|19|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|20|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|18|103.172.196.131|2020|Indonesia|Kopen|PT Cahaya Solusindo Internusa|
+|19|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|20|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 
 
 
