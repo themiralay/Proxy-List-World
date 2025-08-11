@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|6|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|7|152.53.169.165|1080|United States|Manassas|netcup GmbH|
-|8|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|9|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|12|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|13|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|14|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|15|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
-|16|14.170.154.193|19132|Vietnam|Quảng Ninh|VNPT-VNNIC|
-|17|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|20|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
