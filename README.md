@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|3|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|4|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|5|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|6|42.118.74.204|16000|Vietnam|Hanoi|FPT Telecom Company|
-|7|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|10|103.87.170.81|32650|India|Jaipur|Tejays Industries Pvt Ltd|
-|11|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|12|114.198.245.51|8080|Indonesia|Jakarta|PT Sumber Data Indonesia|
-|13|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|14|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|15|42.118.1.140|16000|Vietnam|Hanoi|FPT Telecom Company|
-|16|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|17|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
-|18|209.121.164.51|31147|Canada|Burnaby|TELUS Communications Inc.|
-|19|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|20|183.88.220.245|8080|Thailand|Phuket|Triple T Broadband Public Company Limited|
+|3|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|5|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
+|6|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|7|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|8|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|9|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|10|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|11|171.237.60.177|10001|Vietnam|Lang Son|Viettel Corporation|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|14|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|15|2.50.45.120|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
+|16|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|17|115.72.40.239|10001|Vietnam|Hanoi|VIETELmetro|
+|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|19|147.28.240.217|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|147.28.240.217|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
