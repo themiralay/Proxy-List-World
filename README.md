@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|3|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|4|2.50.45.120|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
-|5|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|6|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|7|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|8|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|9|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|190.61.84.166|9812|Costa Rica|San José|Ufinet Costa Rica|
-|12|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
-|13|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|3|2.50.45.120|8080|United Arab Emirates|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|190.61.84.166|9812|Costa Rica|San José|Ufinet Costa Rica|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
+|8|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|9|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|10|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|11|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|12|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
 |14|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|15|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|16|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|15|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|16|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
+|17|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|19|104.247.171.78|2071|Turkey|Istanbul|Nuh Ahmet Firat trading as TEKNET YAZLIM VE BILGISAYAR TEKNOLOJILERI|
+|20|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
 
 
 
