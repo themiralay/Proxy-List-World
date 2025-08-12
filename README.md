@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|2|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|2|104.247.171.78|2071|Turkey|Istanbul|Nuh Ahmet Firat trading as TEKNET YAZLIM VE BILGISAYAR TEKNOLOJILERI|
 |3|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
 |4|147.28.240.216|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|5|72.10.160.90|4909|Canada|Montreal|GloboTech Communications|
-|6|27.79.178.140|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|8|147.28.240.215|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|5|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|6|147.28.240.215|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|7|72.10.164.178|19385|Canada|Montreal|GloboTech Communications|
+|8|147.28.240.218|80|Germany|Frankfurt am Main|Packet Host, Inc.|
 |9|72.10.164.178|19385|Canada|Montreal|GloboTech Communications|
-|10|72.10.164.178|19385|Canada|Montreal|GloboTech Communications|
-|11|147.28.240.218|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|117.161.170.163|9449|China|Guangzhou|China Mobile communications corporation|
-|14|147.28.240.218|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|15|152.53.194.46|8070|United States|Reston|netcup GmbH|
-|16|147.28.240.216|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|17|67.43.236.19|27677|Canada|Montreal|GloboTech Communications|
-|18|104.247.171.77|2071|Turkey|Istanbul|Nuh Ahmet Firat trading as TEKNET YAZLIM VE BILGISAYAR TEKNOLOJILERI|
-|19|103.161.31.249|83|India|Hyderabad|Venkata Sai Internet Pvt. Ltd|
-|20|117.161.170.163|9449|China|Guangzhou|China Mobile communications corporation|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|152.53.194.55|24712|United States|Reston|netcup GmbH|
+|12|104.247.171.77|2071|Turkey|Istanbul|Nuh Ahmet Firat trading as TEKNET YAZLIM VE BILGISAYAR TEKNOLOJILERI|
+|13|147.28.240.218|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|14|147.28.240.216|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|15|117.161.170.163|9073|China|Guangzhou|China Mobile communications corporation|
+|16|152.53.194.46|8070|United States|Reston|netcup GmbH|
+|17|103.133.27.143|8080|Indonesia|Purwakarta|PT PHATRIA INTI PERSADA|
+|18|103.227.243.73|8080|Indonesia|Jakarta|NIDS|
+|19|147.28.240.218|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|67.43.236.19|27677|Canada|Montreal|GloboTech Communications|
 
 
 
