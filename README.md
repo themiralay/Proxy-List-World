@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|58.186.175.62|16000|Vietnam|Hanoi|FPT Telecom Company|
-|4|27.79.206.140|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|103.122.0.105|8181|Indonesia|Cempaka|PT. Java Digital Nusantara|
-|6|36.72.144.243|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|7|147.28.240.216|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|8|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|9|147.28.240.216|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|10|104.247.171.78|2071|Turkey|Istanbul|Nuh Ahmet Firat trading as TEKNET YAZLIM VE BILGISAYAR TEKNOLOJILERI|
-|11|182.52.222.40|8080|Thailand|Nikhom Phattana|TOT Public Company Limited|
-|12|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|13|1.55.59.212|16000|Vietnam|Hanoi|FPT Telecom Company|
-|14|173.209.63.66|8185|Canada|Montreal|GloboTech Communications|
-|15|41.40.178.9|8080|Egypt|Cairo|TE Data|
+|1|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|2|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|3|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|4|104.247.171.78|2071|Turkey|Istanbul|Nuh Ahmet Firat trading as TEKNET YAZLIM VE BILGISAYAR TEKNOLOJILERI|
+|5|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|6|58.186.175.62|16000|Vietnam|Hanoi|FPT Telecom Company|
+|7|27.79.206.140|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|103.122.0.105|8181|Indonesia|Cempaka|PT. Java Digital Nusantara|
+|9|36.72.144.243|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|10|147.28.240.216|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|11|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|12|147.28.240.216|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|13|182.52.222.40|8080|Thailand|Nikhom Phattana|TOT Public Company Limited|
+|14|1.10.231.193|8080|Thailand|Nakhon Pathom|TOT Public Company Limited|
+|15|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
 |16|27.79.232.121|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|46.34.165.86|443|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|18|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|19|147.28.240.218|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|20|162.212.153.46|8888|United States|Chicago|tzulo, inc.|
+|17|41.40.178.9|8080|Egypt|Cairo|TE Data|
+|18|147.28.240.218|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|19|1.55.250.15|16000|Vietnam|Hanoi|FPT Telecom Company|
+|20|122.2.79.75|8082|Philippines|Cainta|Philippine Long Distance Telephone Co.|
 
 
 
