@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|116.105.220.194|10002|Vietnam|Da Nang|Viettel Corporation|
-|3|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
-|4|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|5|209.121.164.51|31147|Canada|Burnaby|TELUS Communications Inc.|
-|6|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|9|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|10|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|11|103.162.30.156|3452|Vietnam|Hanoi|BKNS|
-|12|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|13|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|15|97.79.251.186|80|United States|Dallas|Spectrum|
-|16|194.59.204.87|9080|Germany|Nuremberg|netcup GmbH|
-|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|18|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|19|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|3|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|103.162.30.156|3452|Vietnam|Hanoi|BKNS|
+|6|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
+|7|209.121.164.51|31147|Canada|Burnaby|TELUS Communications Inc.|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|11|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|12|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|15|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|16|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
+|17|152.53.168.53|44887|United States|Manassas|netcup GmbH|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|20|181.78.95.50|999|Paraguay|Asunción|Ufinet Paraguay S.A|
 
 
 
