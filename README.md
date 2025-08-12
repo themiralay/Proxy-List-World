@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|115.72.172.64|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|2|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|3|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|4|147.28.240.215|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|5|37.238.40.153|8080|Iraq|Baghdad|EarthLink Ltd. Communications&|
-|6|147.28.240.215|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|7|147.28.240.214|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|8|147.28.240.215|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|9|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|10|115.76.196.242|8080|Vietnam|Ho Chi Minh City|VIETELGPRS|
-|11|49.48.202.45|8080|Thailand|Nakhon Pathom|Triple T Broadband Public Company Limited|
-|12|45.86.6.156|8080|Iran|Bastak|Ayandeh Gostar Bastak Co. P. J. S|
+|2|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|6|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|147.28.240.215|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|147.28.240.215|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|10|147.28.240.214|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|11|147.28.240.215|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|12|115.76.196.242|8080|Vietnam|Ho Chi Minh City|VIETELGPRS|
 |13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|49.12.103.92|8031|Germany|Falkenstein|Hetzner Online GmbH|
-|15|67.43.236.20|12683|Canada|Montreal|GloboTech Communications|
-|16|147.28.240.214|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|17|42.118.74.240|16000|Vietnam|Hanoi|FPT Telecom Company|
-|18|188.132.249.253|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|19|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|20|49.12.103.92|8031|Germany|Falkenstein|Hetzner Online GmbH|
+|14|147.28.240.214|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|15|42.118.74.240|16000|Vietnam|Hanoi|FPT Telecom Company|
+|16|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|17|45.86.6.156|8080|Iran|Bastak|Ayandeh Gostar Bastak Co. P. J. S|
+|18|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|19|147.28.240.217|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|171.237.60.177|10003|Vietnam|Lang Son|Viettel Corporation|
 
 
 
