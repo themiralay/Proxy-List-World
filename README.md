@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|2|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|5|147.28.240.217|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|6|147.28.240.215|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|7|67.43.236.18|5157|Canada|Montreal|GloboTech Communications|
-|8|147.28.240.215|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|9|72.10.160.93|6375|Canada|Montreal|GloboTech Communications|
-|10|152.53.194.55|35463|United States|Reston|netcup GmbH|
-|11|147.28.240.215|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|12|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|1|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|4|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|5|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|6|147.28.240.217|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|7|147.28.240.215|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|9|27.79.185.40|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|147.28.240.215|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|11|72.10.160.93|6375|Canada|Montreal|GloboTech Communications|
+|12|147.28.240.215|80|Germany|Frankfurt am Main|Packet Host, Inc.|
 |13|152.53.194.46|8070|United States|Reston|netcup GmbH|
-|14|27.79.185.40|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|147.28.240.218|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|16|147.28.240.217|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|17|190.93.102.136|999|Dominican Republic|Santo Domingo Este|Airtime Technology SRL|
-|18|147.28.240.215|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|19|103.156.15.31|1111|Indonesia|Jakarta|PT Lintas Jaringan Nusantara|
-|20|49.12.103.92|8023|Germany|Falkenstein|Hetzner Online GmbH|
+|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|15|200.70.35.2|8080|Argentina|Buenos Aires|Telefonica de Argentina|
+|16|185.49.170.20|43626|Spain|Madrid|OLIVE|
+|17|147.28.240.218|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|18|147.28.240.217|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|19|147.28.240.215|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|27.79.134.136|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
