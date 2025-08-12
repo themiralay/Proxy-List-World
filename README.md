@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75097** proxies at the latest update. Usable proxies are below.
+> Scraper found **75039** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35838|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35780|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|55|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|37978|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 |4|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
 |5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|27.79.184.108|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
-|8|27.79.149.233|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|10|45.134.14.181|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|11|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|14|116.96.85.215|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|115.72.172.64|10003|Vietnam|Ho Chi Minh City|VIETELmetro|
-|16|202.138.241.102|9384|Indonesia|Bandung|Melsa-i-net|
-|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|18|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|19|27.79.178.10|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|119.2.45.105|8080|Indonesia|Jakarta|PT. Laxo Global Akses|
+|6|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|45.134.14.181|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|9|27.79.199.127|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|11|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|12|194.4.49.128|10808|France|Paris|PQ HOSTING PLUS S.R.L.|
+|13|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|14|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|15|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|16|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|17|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
+|18|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|19|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|20|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 
 
 
