@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|2|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|3|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|5|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|9|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|10|45.134.14.181|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|4|45.134.14.181|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|5|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|6|103.180.118.107|7100|Indonesia|Bilo|PT Persada Data Multimedia|
+|7|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|8|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
 |11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
 |13|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
-|14|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|15|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|16|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|18|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|19|27.71.130.52|16000|Vietnam|Bảo Lộc|Viettel Group|
-|20|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|45.224.23.235|999|Ecuador|Chone|Ufinet Panama S.A.|
+|16|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|18|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|19|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|20|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
