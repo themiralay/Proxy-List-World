@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|3|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|4|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|5|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|6|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|7|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|11|103.162.30.156|3452|Vietnam|Hanoi|BKNS|
-|12|182.253.109.132|8080|Indonesia|Semarang|Biznet Metronet|
-|13|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
-|14|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|15|171.237.60.177|10006|Vietnam|Lang Son|Viettel Corporation|
-|16|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|18|27.79.148.215|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|217.144.187.208|8118|Germany|Frankfurt am Main|Aeza International LTD|
-|20|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|3|27.79.184.108|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
+|6|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
+|7|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
+|8|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
+|9|116.96.85.215|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|27.79.199.127|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|27.71.140.43|16000|Vietnam|Bảo Lộc|Viettel Group|
+|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|13|27.79.232.121|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|27.79.185.40|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|16|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|17|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
+|18|45.134.14.181|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|19|38.159.62.32|999|Venezuela|Barquisimeto|Boom Solutions C.A.|
+|20|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
