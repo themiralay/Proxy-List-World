@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|3|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
+|8|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|27.79.232.227|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|27.79.253.85|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|13|103.126.173.203|8880|Indonesia|Natar|MEGARAP|
+|14|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|15|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
+|16|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|17|27.71.140.43|16000|Vietnam|Bảo Lộc|Viettel Group|
+|18|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+
 
 
 ## Contributing
