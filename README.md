@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|6|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|8|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|9|45.134.14.181|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|11|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|12|115.72.32.248|33025|Vietnam|Hanoi|VIETELmetro|
-|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|14|115.72.10.21|10006|Vietnam|Ho Chi Minh City|VIETELmetro|
-|15|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|103.46.8.103|8080|Indonesia|Denpasar|PT JARINGANKU SARANA NUSANTARA|
-|18|103.13.215.31|8083|Thailand|Ratchathewi|Bunny Communications|
-|19|115.72.15.14|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|20|115.72.44.82|10010|Vietnam|Hanoi|VIETELmetro|
+|2|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|106.251.66.243|51034|South Korea|Yangp'yŏng|LG DACOM Corporation|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|8|198.23.236.47|1111|United States|Santa Clara|HostPapa|
+|9|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|12|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|14|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|15|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|16|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
+|17|77.110.114.19|8118|United States|Charlotte|Aeza International LTD|
+|18|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|116.103.139.154|1001|Vietnam|Buon Ma Thuot|Viettel Corporation|
 
 
 
