@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|5|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|2|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|3|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
+|4|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|5|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
 |6|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|7|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|10|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|11|35.206.88.200|8888|United States|Council Bluffs|Google LLC|
+|7|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|8|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|9|27.79.185.40|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|11|45.134.14.181|1080|Russia|Moscow|Smart Digital Ideas DOO|
 |12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|13|45.134.14.181|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|15|195.201.29.198|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|16|115.72.172.64|10009|Vietnam|Ho Chi Minh City|VIETELmetro|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
+|13|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|14|27.71.140.43|16000|Vietnam|Bảo Lộc|Viettel Group|
+|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|16|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|27.79.199.127|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
 
 
 
