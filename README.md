@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
-|3|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|4|103.226.232.205|8099|Indonesia|Sumberketangi|PT Jaringan Multimedia Indonesia|
-|5|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|6|45.134.14.181|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|7|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|8|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|9|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|10|115.72.172.64|10003|Vietnam|Ho Chi Minh City|VIETELmetro|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|77.110.124.36|3128|United States|Charlotte|Aeza International LTD|
-|13|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|14|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|15|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|16|58.186.92.84|16000|Vietnam|Hanoi|FPT Telecom Company|
-|17|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
-|18|58.186.175.62|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|20|1.55.59.212|16000|Vietnam|Hanoi|FPT Telecom Company|
+|2|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|27.71.140.43|16000|Vietnam|Bảo Lộc|Viettel Group|
+|5|27.79.149.233|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|42.113.20.127|16000|Vietnam|Hanoi|FPT Telecom Company|
+|7|27.71.130.52|16000|Vietnam|Bảo Lộc|Viettel Group|
+|8|27.79.184.108|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|27.79.185.40|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|27.79.232.121|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|116.96.85.215|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|14|27.79.199.127|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
+|16|194.4.49.128|10808|France|Paris|PQ HOSTING PLUS S.R.L.|
+|17|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|19|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|20|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
