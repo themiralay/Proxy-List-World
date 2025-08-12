@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
+|4|27.71.130.52|16000|Vietnam|Bảo Lộc|Viettel Group|
 |5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|7|42.119.167.47|16000|Vietnam|Hanoi|FPT Telecom Company|
-|8|27.79.178.10|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|67.211.219.122|8888|United States|Secaucus|Interserver, Inc|
-|10|27.79.148.215|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|12|67.211.219.122|8888|United States|Secaucus|Interserver, Inc|
-|13|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
-|14|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|17|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|20|103.188.169.95|8080|Indonesia|Kelodan|PT Lintas Jaringan Nusantara|
+|6|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|7|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|10|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|11|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|13|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|14|45.134.14.181|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|15|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|17|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
 
 
 
