@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
-|3|27.71.140.43|16000|Vietnam|Bảo Lộc|Viettel Group|
+|2|27.71.140.43|16000|Vietnam|Bảo Lộc|Viettel Group|
+|3|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
 |4|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
 |5|27.79.148.215|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|7|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |8|27.79.232.227|16000|Vietnam|Hanoi|Viettel Corporation|
 |9|27.79.149.233|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|11|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
-|12|103.13.215.31|8083|Thailand|Ratchathewi|Bunny Communications|
-|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|14|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|15|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|19|115.74.5.48|10005|Vietnam|Vũng Tàu|VIETELxdsl|
-|20|1.55.250.15|16000|Vietnam|Hanoi|FPT Telecom Company|
+|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|13|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|14|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|16|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|18|45.134.14.181|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|19|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|20|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
 
 
 
