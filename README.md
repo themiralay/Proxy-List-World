@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
+|6|27.79.199.127|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|27.79.232.227|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|27.79.185.40|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
+|11|27.79.149.233|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|15|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
+|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|115.72.172.64|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|19|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|27.79.178.140|16000|Vietnam|Hanoi|Viettel Corporation|
+
 
 
 ## Contributing
