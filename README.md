@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|5|27.79.253.85|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|8|27.79.232.227|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|27.79.178.140|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|15|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|18|171.237.60.177|10005|Vietnam|Lang Son|Viettel Corporation|
-|19|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|20|103.162.30.156|3452|Vietnam|Hanoi|BKNS|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|9|27.79.149.233|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|12|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|13|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
+|14|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
+|15|27.79.178.140|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|172.98.201.190|3128|United States|Dallas|Centrilogic|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
+|19|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|20|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
 
 
 
