@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|27.79.199.127|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|5|162.212.153.46|8888|United States|Chicago|tzulo, inc.|
-|6|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
-|7|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|8|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|9|116.98.181.51|1009|Vietnam|Hanoi|Viettel Corporation|
-|10|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|11|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|12|27.79.185.40|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|172.98.201.190|3128|United States|Dallas|Centrilogic|
-|14|162.212.153.46|8888|United States|Chicago|tzulo, inc.|
-|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|45.134.14.181|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|18|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|19|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|20|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|2|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|6|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|27.79.185.40|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
+|10|162.212.153.46|8888|United States|Chicago|tzulo, inc.|
+|11|162.212.153.46|8888|United States|Chicago|tzulo, inc.|
+|12|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
+|13|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
+|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|15|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|16|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|18|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|19|116.96.110.47|5108|Vietnam|Hanoi|Viettel Corporation|
+|20|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
 
 
 
