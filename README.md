@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|4|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|5|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
-|6|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|7|27.79.185.40|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|27.79.232.121|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|27.79.199.127|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|14|45.134.14.181|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|16|119.93.9.125|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|17|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|2|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
+|3|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|172.98.201.190|3128|United States|Dallas|Centrilogic|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|8|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|9|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|11|45.134.14.181|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|12|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|13|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
+|14|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|16|27.71.130.52|16000|Vietnam|Bảo Lộc|Viettel Group|
+|17|147.28.240.216|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|18|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|19|190.97.247.222|8080|Venezuela|La Fría|Viginet C.A|
+|20|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
 
 
 
