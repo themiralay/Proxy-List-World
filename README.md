@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|2|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|3|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|104.247.171.78|2071|Turkey|Istanbul|Nuh Ahmet Firat trading as TEKNET YAZLIM VE BILGISAYAR TEKNOLOJILERI|
-|6|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|9|61.216.156.222|60808|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
-|10|182.253.109.29|8080|Indonesia|Semarang|Biznet Metronet|
-|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|12|34.101.64.157|3128|Indonesia|Jakarta|Google LLC|
-|13|147.28.240.215|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|14|147.28.240.218|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|15|147.28.240.217|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|16|147.28.240.218|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|17|147.28.240.218|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|18|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|19|147.28.240.216|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|20|147.28.240.214|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|1|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|2|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|3|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|4|182.253.109.29|8080|Indonesia|Semarang|Biznet Metronet|
+|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|6|152.53.194.46|8070|United States|Reston|netcup GmbH|
+|7|152.53.194.46|8070|United States|Reston|netcup GmbH|
+|8|27.79.134.136|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|147.28.240.216|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|10|147.28.240.216|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|11|147.28.240.218|80|Germany|Frankfurt am Main|Packet Host, Inc.|
+|12|147.28.240.215|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|13|147.28.240.216|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|14|147.28.240.214|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|15|147.28.240.215|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|16|147.28.240.214|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|17|147.28.240.216|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|18|147.28.240.214|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|19|147.28.240.215|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|152.53.194.46|8070|United States|Reston|netcup GmbH|
 
 
 
