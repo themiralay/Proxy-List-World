@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|3|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|4|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|5|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|2|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
+|3|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|4|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
+|5|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
 |6|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|7|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|8|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|9|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|10|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|7|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|10|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|11|45.134.14.181|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|12|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|13|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|14|172.98.201.190|3128|United States|Dallas|Centrilogic|
 |15|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
-|16|147.28.240.217|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|17|152.53.168.53|52679|United States|Manassas|netcup GmbH|
-|18|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|19|152.53.168.53|52679|United States|Manassas|netcup GmbH|
-|20|147.28.240.218|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|17|223.204.80.116|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|18|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
 
 
 
