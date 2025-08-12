@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|2|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|115.72.172.64|10017|Vietnam|Ho Chi Minh City|VIETELmetro|
-|5|104.247.171.78|2071|Turkey|Istanbul|Nuh Ahmet Firat trading as TEKNET YAZLIM VE BILGISAYAR TEKNOLOJILERI|
-|6|209.121.164.51|31147|Canada|Burnaby|TELUS Communications Inc.|
-|7|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|8|171.237.60.177|10007|Vietnam|Lang Son|Viettel Corporation|
-|9|147.28.240.216|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|10|67.43.228.254|25897|Canada|Montreal|GloboTech Communications|
-|11|147.28.240.215|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|12|186.210.20.95|8080|Brazil|São Joaquim da Barra|ALGAR TELECOM S/A|
-|13|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|14|152.53.168.53|32271|United States|Manassas|netcup GmbH|
-|15|147.28.240.218|80|Germany|Frankfurt am Main|Packet Host, Inc.|
-|16|223.204.67.16|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|17|152.53.194.55|24773|United States|Reston|netcup GmbH|
-|18|189.168.171.74|8080|Mexico|Gómez Palacio|UNINET|
-|19|223.206.32.219|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|20|116.96.85.215|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|2|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|4|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|5|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|6|112.216.83.10|3128|South Korea|Siheung-si|LG DACOM Corporation|
+|7|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|8|104.247.171.78|2071|Turkey|Istanbul|Nuh Ahmet Firat trading as TEKNET YAZLIM VE BILGISAYAR TEKNOLOJILERI|
+|9|76.169.128.104|8080|United States|Santa Ana|Charter Communications|
+|10|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|13|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|14|171.237.60.177|10007|Vietnam|Lang Son|Viettel Corporation|
+|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|16|147.28.240.216|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|17|67.43.228.254|25897|Canada|Montreal|GloboTech Communications|
+|18|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|19|147.28.240.215|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|186.210.20.95|8080|Brazil|São Joaquim da Barra|ALGAR TELECOM S/A|
 
 
 
