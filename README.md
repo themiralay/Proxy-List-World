@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|27.79.199.127|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|27.71.140.43|16000|Vietnam|Bảo Lộc|Viettel Group|
-|4|27.71.130.52|16000|Vietnam|Bảo Lộc|Viettel Group|
-|5|116.96.85.215|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
-|7|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|34.101.192.184|3128|Indonesia|Jakarta|Google LLC|
-|10|42.113.20.127|16000|Vietnam|Hanoi|FPT Telecom Company|
-|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|13|42.118.1.34|16000|Vietnam|Hanoi|FPT Telecom Company|
-|14|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|15|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|16|172.98.201.190|3128|United States|Dallas|Centrilogic|
-|17|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|19|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
-|20|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
