@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|3|27.71.130.52|16000|Vietnam|Bảo Lộc|Viettel Group|
-|4|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|5|27.79.184.108|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|58.186.92.84|16000|Vietnam|Hanoi|FPT Telecom Company|
-|7|27.79.185.40|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|27.71.140.43|16000|Vietnam|Bảo Lộc|Viettel Group|
-|9|103.162.30.156|3452|Vietnam|Hanoi|BKNS|
-|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|11|42.113.20.127|16000|Vietnam|Hanoi|FPT Telecom Company|
+|3|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|4|27.71.130.52|16000|Vietnam|Bảo Lộc|Viettel Group|
+|5|27.79.185.40|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|42.113.20.127|16000|Vietnam|Hanoi|FPT Telecom Company|
+|7|58.186.92.84|16000|Vietnam|Hanoi|FPT Telecom Company|
+|8|27.79.199.127|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
+|10|27.79.232.121|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
 |12|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|13|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|14|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|15|27.79.232.121|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|42.118.74.240|16000|Vietnam|Hanoi|FPT Telecom Company|
-|17|27.79.199.127|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
-|19|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
-|20|45.134.14.181|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|13|27.79.184.108|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
+|15|42.118.74.240|16000|Vietnam|Hanoi|FPT Telecom Company|
+|16|103.162.30.156|3452|Vietnam|Hanoi|BKNS|
+|17|45.134.14.181|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|18|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|19|27.71.140.43|16000|Vietnam|Bảo Lộc|Viettel Group|
+|20|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
