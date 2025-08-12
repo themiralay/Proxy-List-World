@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|27.79.232.121|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|4|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
-|5|27.79.184.108|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|27.71.140.43|16000|Vietnam|Bảo Lộc|Viettel Group|
-|7|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|8|27.79.185.40|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|27.79.199.127|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|27.71.130.52|16000|Vietnam|Bảo Lộc|Viettel Group|
-|11|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|12|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
-|13|103.162.30.156|3452|Vietnam|Hanoi|BKNS|
-|14|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|16|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
-|17|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|18|27.79.206.140|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
