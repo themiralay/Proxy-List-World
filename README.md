@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
-|3|27.71.140.43|16000|Vietnam|Bảo Lộc|Viettel Group|
-|4|27.79.185.40|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|116.96.85.215|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|9|103.162.30.156|3452|Vietnam|Hanoi|BKNS|
-|10|42.118.1.34|16000|Vietnam|Hanoi|FPT Telecom Company|
-|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|14|42.113.20.127|16000|Vietnam|Hanoi|FPT Telecom Company|
-|15|115.72.4.186|10002|Vietnam|Ho Chi Minh City|VIETELmetro|
-|16|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|17|112.204.118.221|8080|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|18|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|19|198.23.189.151|8118|United States|Buffalo|Electro Nebula LLC|
-|20|115.74.5.48|10005|Vietnam|Vũng Tàu|VIETELxdsl|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
