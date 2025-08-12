@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|325|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|325|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|325|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|5|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|58.69.78.115|8081|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|8|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
+|6|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|7|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|8|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
 |9|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
-|10|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |11|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|13|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|14|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
-|15|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|16|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|17|116.203.139.209|4145|Germany|Nuremberg|Hetzner Online GmbH|
-|18|157.66.16.52|8080|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|19|171.237.60.177|10002|Vietnam|Lang Son|Viettel Corporation|
-|20|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|12|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|13|171.231.175.71|7010|Vietnam|Hanoi|Viettel Corporation|
+|14|145.40.96.156|443|The Netherlands|Amsterdam|Packet Host, Inc.|
+|15|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
+|16|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|17|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|18|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
+|19|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
 
 
 
