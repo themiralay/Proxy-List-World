@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|4|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
-|5|27.79.199.127|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|27.71.130.52|16000|Vietnam|Bảo Lộc|Viettel Group|
-|7|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|8|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|162.212.153.46|8888|United States|Chicago|tzulo, inc.|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|162.212.153.46|8888|United States|Chicago|tzulo, inc.|
-|13|116.96.85.215|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|27.71.140.43|16000|Vietnam|Bảo Lộc|Viettel Group|
-|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|16|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|17|27.79.185.40|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|19|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
-|20|45.134.14.181|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|2|27.71.140.43|16000|Vietnam|Bảo Lộc|Viettel Group|
+|3|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|4|103.162.30.156|3452|Vietnam|Hanoi|BKNS|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|34.101.192.184|3128|Indonesia|Jakarta|Google LLC|
+|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|11|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|12|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
+|13|27.79.199.127|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|15|162.212.153.46|8888|United States|Chicago|tzulo, inc.|
+|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|18|162.212.153.46|8888|United States|Chicago|tzulo, inc.|
+|19|45.134.14.181|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|20|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
 
 
 
