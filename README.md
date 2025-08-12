@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|58.186.92.84|16000|Vietnam|Hanoi|FPT Telecom Company|
 |3|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
 |4|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
-|5|27.71.140.43|16000|Vietnam|Bảo Lộc|Viettel Group|
-|6|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|7|42.118.1.34|16000|Vietnam|Hanoi|FPT Telecom Company|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|11|27.79.255.99|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|13|171.228.181.239|4001|Vietnam|Hanoi|Viettel Corporation|
-|14|14.224.76.32|8080|Vietnam|Vinh|VNPT|
-|15|103.13.215.31|8083|Thailand|Ratchathewi|Bunny Communications|
-|16|67.211.219.122|8888|United States|Secaucus|Interserver, Inc|
-|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|5|42.118.1.34|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|27.79.255.99|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|14.224.76.32|8080|Vietnam|Vinh|VNPT|
+|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|10|27.71.140.43|16000|Vietnam|Bảo Lộc|Viettel Group|
+|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|13|115.72.32.248|33025|Vietnam|Hanoi|VIETELmetro|
+|14|45.134.14.181|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|16|115.74.5.48|10002|Vietnam|Vũng Tàu|VIETELxdsl|
+|17|5.188.183.253|8080|Spain|Madrid|Melbikomas UAB|
+|18|115.72.10.21|10004|Vietnam|Ho Chi Minh City|VIETELmetro|
+|19|212.34.145.44|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
+|20|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
