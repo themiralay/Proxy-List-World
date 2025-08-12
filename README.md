@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|27.79.185.40|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
+|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|5|27.71.130.52|16000|Vietnam|Bảo Lộc|Viettel Group|
+|6|27.71.140.43|16000|Vietnam|Bảo Lộc|Viettel Group|
+|7|42.113.20.127|16000|Vietnam|Hanoi|FPT Telecom Company|
+|8|171.228.181.239|4001|Vietnam|Hanoi|Viettel Corporation|
+|9|27.79.199.127|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|12|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
+|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|14|171.231.115.81|7010|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|16|103.162.30.156|3452|Vietnam|Hanoi|BKNS|
+|17|207.180.192.43|8118|France|Lauterbourg|Contabo GmbH|
+|18|58.186.92.84|16000|Vietnam|Hanoi|FPT Telecom Company|
+|19|8.215.31.146|1347|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
+|20|115.74.5.48|10005|Vietnam|Vũng Tàu|VIETELxdsl|
+
 
 
 ## Contributing
