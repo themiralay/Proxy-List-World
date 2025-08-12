@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|4|27.79.185.40|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|6|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|7|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
-|8|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|121.101.132.30|8999|Indonesia|Godean|PT SELARAS CITRA TERABIT|
-|11|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|12|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|13|1.55.250.15|16000|Vietnam|Hanoi|FPT Telecom Company|
-|14|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|15|27.79.232.121|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|17|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|18|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|19|34.101.88.34|3128|Indonesia|Jakarta|Google LLC|
-|20|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|2|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|3|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|4|103.162.30.156|3452|Vietnam|Hanoi|BKNS|
+|5|45.134.14.181|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|6|27.79.184.108|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|27.79.185.40|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|10|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
+|13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|14|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|15|45.10.43.65|1080|Russia|Moscow|TimeWeb LLC|
+|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|17|103.42.118.29|8080|Indonesia|Batam|PT Kusuma Dinatha Jaya Abadi|
+|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|19|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|20|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
 
 
 
