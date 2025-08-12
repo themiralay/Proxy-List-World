@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|2|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|3|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|35.238.111.20|3128|United States|Council Bluffs|Google LLC|
-|6|104.247.171.78|2071|Turkey|Istanbul|Nuh Ahmet Firat trading as TEKNET YAZLIM VE BILGISAYAR TEKNOLOJILERI|
+|1|44.242.115.206|80|United States|Portland|Amazon.com, Inc.|
+|2|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|3|115.72.172.64|10006|Vietnam|Ho Chi Minh City|VIETELmetro|
+|4|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|5|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |8|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|9|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|10|72.10.160.174|20703|Canada|Montreal|GloboTech Communications|
+|9|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|10|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
 |11|27.79.253.85|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
-|13|67.43.236.20|1857|Canada|Montreal|GloboTech Communications|
-|14|147.28.240.214|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|12|147.28.240.214|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|13|67.43.236.20|30001|Canada|Montreal|GloboTech Communications|
+|14|72.10.160.174|20703|Canada|Montreal|GloboTech Communications|
 |15|147.28.240.214|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|16|72.10.164.178|1735|Canada|Montreal|GloboTech Communications|
-|17|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|16|189.168.171.74|8080|Mexico|Gómez Palacio|UNINET|
+|17|72.10.164.178|8175|Canada|Montreal|GloboTech Communications|
 |18|152.53.194.46|8070|United States|Reston|netcup GmbH|
-|19|189.168.171.74|8080|Mexico|Gómez Palacio|UNINET|
-|20|27.79.148.215|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|27.79.148.215|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
 
 
 
