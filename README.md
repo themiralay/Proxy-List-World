@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|3|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|8|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|9|106.251.66.243|51034|South Korea|Yangp'yŏng|LG DACOM Corporation|
-|10|115.72.32.248|33025|Vietnam|Hanoi|VIETELmetro|
-|11|103.13.215.31|8083|Thailand|Ratchathewi|Bunny Communications|
-|12|45.134.14.181|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|14|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|15|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|16|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|17|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|94.182.146.250|8080|Iran|Tehran|SHATEL Network|
-|20|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|3|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
+|4|42.113.20.127|16000|Vietnam|Hanoi|FPT Telecom Company|
+|5|42.118.1.34|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|7|27.71.140.43|16000|Vietnam|Bảo Lộc|Viettel Group|
+|8|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
+|9|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|11|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
+|12|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|13|45.134.14.181|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|15|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|16|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|19|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|20|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
 
 
 
