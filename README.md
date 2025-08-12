@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|42.118.1.34|16000|Vietnam|Hanoi|FPT Telecom Company|
-|4|58.186.92.84|16000|Vietnam|Hanoi|FPT Telecom Company|
-|5|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
-|6|27.71.140.43|16000|Vietnam|Bảo Lộc|Viettel Group|
-|7|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|8|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
-|9|27.79.255.99|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|11|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|14|45.134.14.181|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|15|103.162.54.74|8888|Indonesia|Pamanukan|PT Pratama Asia Globalindo|
-|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|17|95.47.239.65|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
-|18|74.207.235.213|1221|United States|Atlanta|Akamai Technologies, Inc.|
-|19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|20|115.72.44.82|10007|Vietnam|Hanoi|VIETELmetro|
+|2|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|6|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|67.211.219.122|8888|United States|Secaucus|Interserver, Inc|
+|9|45.134.14.181|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|10|5.188.183.253|8080|Spain|Madrid|Melbikomas UAB|
+|11|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|12|58.186.92.84|16000|Vietnam|Hanoi|FPT Telecom Company|
+|13|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|16|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|18|67.211.219.122|8888|United States|Secaucus|Interserver, Inc|
+|19|152.67.199.163|3128|South Korea|Chuncheon|Oracle Corporation|
+|20|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
 
 
 
