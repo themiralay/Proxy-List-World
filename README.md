@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **39814** proxies at the latest update. Usable proxies are below.
+> Scraper found **74985** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -32,7 +32,7 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35726|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|55|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2807|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|37978|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|116.98.239.20|1001|Vietnam|Buon Ma Thuot|Viettel Corporation|
+|3|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
 |4|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|5|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|6|27.79.178.140|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|6|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
 |7|27.79.185.40|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|9|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|11|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|12|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
-|13|115.72.172.64|10006|Vietnam|Ho Chi Minh City|VIETELmetro|
-|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|15|27.79.253.85|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|17|42.113.20.127|16000|Vietnam|Hanoi|FPT Telecom Company|
-|18|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|19|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|20|1.55.250.15|16000|Vietnam|Hanoi|FPT Telecom Company|
+|8|58.186.92.84|16000|Vietnam|Hanoi|FPT Telecom Company|
+|9|45.134.15.205|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|10|50.112.100.138|80|United States|Portland|Amazon.com, Inc.|
+|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|12|103.162.30.156|3452|Vietnam|Hanoi|BKNS|
+|13|103.112.53.211|6314|Bangladesh|Dhaka|Carnival Internet|
+|14|43.153.43.58|31280|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|16|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|17|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
+|18|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|19|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
+|20|27.79.253.85|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
