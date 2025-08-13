@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **74968** proxies at the latest update. Usable proxies are below.
+> Scraper found **75077** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35842|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35951|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|13|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|37887|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|27.79.209.240|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|27.79.242.112|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
-|5|14.224.76.32|8080|Vietnam|Vinh|VNPT|
-|6|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|7|27.79.167.97|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|45.134.14.181|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|9|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|10|27.79.164.103|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|12|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
-|13|27.71.140.43|16000|Vietnam|Bảo Lộc|Viettel Group|
-|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|15|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|18|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|19|58.186.92.144|16000|Vietnam|Hanoi|FPT Telecom Company|
-|20|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|1|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|14.224.76.32|8080|Vietnam|Vinh|VNPT|
+|4|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|5|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|6|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|7|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|8|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|45.134.14.181|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|12|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|13|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|27.79.167.97|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|17|143.44.191.233|6789|Philippines|Pasig|Converge ICT Network|
+|18|27.79.209.240|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
+|20|58.186.92.84|16000|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
