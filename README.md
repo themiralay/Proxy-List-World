@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|118.194.249.77|8080|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|3|27.79.226.36|8080|Vietnam|Hanoi|Viettel Corporation|
-|4|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|5|115.72.170.42|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|6|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|27.79.255.99|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|103.156.17.39|8818|Indonesia|Jatibarang|RSTNET|
-|11|42.118.24.239|16000|Vietnam|Hanoi|FPT Telecom Company|
-|12|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|13|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|14|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|15|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|16|27.79.164.103|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|27.79.129.170|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|19|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|20|45.134.14.181|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|118.194.249.77|8080|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|27.71.140.43|16000|Vietnam|Bảo Lộc|Viettel Group|
+|4|27.79.167.97|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.242.112|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|27.79.153.234|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|27.79.209.240|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|9|27.79.164.103|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
+|11|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|13|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|14|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|15|27.79.255.99|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|113.22.250.24|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|19|45.134.14.181|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|20|58.186.92.144|16000|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
