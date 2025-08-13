@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|3|118.194.249.77|8080|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|10|14.224.76.32|8080|Vietnam|Vinh|VNPT|
-|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|2|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
+|4|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
+|5|118.194.249.77|8080|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
+|7|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|8|27.71.140.43|16000|Vietnam|Bảo Lộc|Viettel Group|
+|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|10|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|13|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|14|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|15|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|18|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|19|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
-|20|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|13|27.79.255.99|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|27.79.242.112|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|27.79.193.204|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|14.224.76.32|8080|Vietnam|Vinh|VNPT|
+|17|27.79.186.173|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|19|27.79.142.201|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|27.79.183.209|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
