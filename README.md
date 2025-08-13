@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|3|34.101.192.184|3128|Indonesia|Jakarta|Google LLC|
+|4|147.75.92.249|10020|Japan|Koto-ku|Packet Host, Inc.|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|7|182.253.109.29|8080|Indonesia|Semarang|Biznet Metronet|
+|8|27.79.197.95|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|10|103.153.62.242|8181|Indonesia|Wonoharjo|PT Ikhlas Cipta Teknologi|
+|11|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|12|14.224.76.32|8080|Vietnam|Vinh|VNPT|
+|13|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|15|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|17|78.47.126.220|8888|Germany|Nuremberg|Hetzner Online GmbH|
+|18|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|19|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|20|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+
 
 
 ## Contributing
