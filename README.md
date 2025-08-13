@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|42.119.98.64|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|4|67.211.219.122|8888|United States|Secaucus|Interserver, Inc|
-|5|14.224.76.32|8080|Vietnam|Vinh|VNPT|
-|6|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
-|7|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|8|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|12|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|13|67.211.219.122|8888|United States|Secaucus|Interserver, Inc|
+|3|118.68.172.205|16000|Vietnam|Hanoi|FPT Telecom Company|
+|4|14.224.76.32|8080|Vietnam|Vinh|VNPT|
+|5|67.211.219.122|8888|United States|Secaucus|Interserver, Inc|
+|6|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|9|58.186.92.84|16000|Vietnam|Hanoi|FPT Telecom Company|
+|10|103.156.16.45|8080|Indonesia|Indramayu|RSTNET|
+|11|45.134.14.181|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|12|67.211.219.122|8888|United States|Secaucus|Interserver, Inc|
+|13|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|15|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|17|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|18|58.186.92.84|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|222.127.76.184|8082|Philippines|Lahug|INNOVE|
-|20|36.64.181.82|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|15|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|16|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|17|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|42.119.2.21|16000|Vietnam|Hanoi|FPT Telecom Company|
+|20|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
