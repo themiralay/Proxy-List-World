@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|118.194.249.77|8080|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|5|14.224.76.32|8080|Vietnam|Vinh|VNPT|
-|6|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|7|67.211.219.122|8888|United States|Secaucus|Interserver, Inc|
-|8|67.211.219.122|8888|United States|Secaucus|Interserver, Inc|
-|9|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|10|27.79.242.112|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|12|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|14|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|15|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
-|16|222.127.241.158|5050|Philippines|Iloilo City|GLBB|
-|17|27.79.186.173|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|19|103.165.155.238|2016|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
-|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
