@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.13.234.18|8080|Indonesia|Sintang|PT PT Disafa Cahaya Utama|
-|2|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|1|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
+|2|36.95.61.186|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |4|67.211.219.122|8888|United States|Secaucus|Interserver, Inc|
-|5|103.19.58.151|8080|Indonesia|Jatibarang|BITSNET|
-|6|41.33.203.238|1981|Egypt|Cairo|TE Data|
-|7|164.163.42.47|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|116.98.187.95|1005|Vietnam|Buon Ma Thuot|Viettel Corporation|
-|9|164.163.42.41|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|182.253.109.29|8080|Indonesia|Semarang|Biznet Metronet|
-|11|171.237.113.164|10017|Vietnam|Hanoi|Viettel Corporation|
-|12|103.164.171.210|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|13|72.10.160.93|26637|Canada|Montreal|GloboTech Communications|
-|14|67.43.236.20|4015|Canada|Montreal|GloboTech Communications|
-|15|147.28.240.214|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|16|103.75.52.193|8989|Indonesia|Curug|PT Quantum Tera Network|
-|17|58.186.92.144|16000|Vietnam|Hanoi|FPT Telecom Company|
-|18|160.30.137.95|7005|Vietnam|Trôi|DATAZ|
-|19|115.72.15.14|10019|Vietnam|Ho Chi Minh City|VIETELmetro|
-|20|115.72.15.14|10019|Vietnam|Ho Chi Minh City|VIETELmetro|
+|5|76.169.128.104|8080|United States|Santa Ana|Charter Communications|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|103.19.58.151|8080|Indonesia|Jatibarang|BITSNET|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|164.163.42.47|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|66.175.219.50|3228|United States|Fremont|Akamai Technologies, Inc.|
+|11|72.10.160.93|26637|Canada|Montreal|GloboTech Communications|
+|12|182.253.109.29|8080|Indonesia|Semarang|Biznet Metronet|
+|13|171.237.60.177|10006|Vietnam|Lang Son|Viettel Corporation|
+|14|147.28.240.214|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|15|160.30.137.95|7005|Vietnam|Trôi|DATAZ|
+|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|17|115.72.15.14|10012|Vietnam|Ho Chi Minh City|VIETELmetro|
+|18|171.237.113.164|10013|Vietnam|Hanoi|Viettel Corporation|
+|19|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|20|23.237.210.82|80|United States|Dallas|FDCservers.net|
 
 
 
