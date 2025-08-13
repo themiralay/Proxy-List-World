@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75188** proxies at the latest update. Usable proxies are below.
+> Scraper found **74565** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35707|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|20|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38235|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|37612|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|164.163.42.41|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|4|164.163.42.47|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|8|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|9|66.175.219.50|3228|United States|Fremont|Akamai Technologies, Inc.|
-|10|191.97.20.83|999|Peru|Chiclayo|Integra Network Del Peru E.I.R.L.|
-|11|115.72.15.14|10005|Vietnam|Ho Chi Minh City|VIETELmetro|
-|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|14|67.43.236.18|29421|Canada|Montreal|GloboTech Communications|
-|15|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|16|72.10.164.178|9113|Canada|Montreal|GloboTech Communications|
-|17|160.30.137.95|7005|Vietnam|Trôi|DATAZ|
-|18|124.83.119.87|8082|Philippines|Taguig|Philippine Long Distance Telephone Co.|
-|19|103.184.62.113|8080|Indonesia|Bajo|PT NKNET Data Media|
-|20|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|1|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|67.211.219.122|8888|United States|Secaucus|Interserver, Inc|
+|5|164.163.42.41|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|164.163.42.47|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|9|103.164.171.210|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|10|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
+|11|72.10.164.178|21279|Canada|Montreal|GloboTech Communications|
+|12|160.30.137.95|7005|Vietnam|Trôi|DATAZ|
+|13|67.43.236.18|13045|Canada|Montreal|GloboTech Communications|
+|14|147.28.240.214|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|15|58.186.92.84|16000|Vietnam|Hanoi|FPT Telecom Company|
+|16|27.79.153.234|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|171.237.113.164|10017|Vietnam|Hanoi|Viettel Corporation|
+|18|49.49.61.230|8080|Thailand|Lampang|Triple T Broadband Public Company Limited|
+|19|72.10.160.170|4783|Canada|Montreal|GloboTech Communications|
+|20|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
 
 
 
