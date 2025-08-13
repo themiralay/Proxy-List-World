@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|3|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|4|115.247.115.38|8080|India|Surat|Reliance Jio Infocomm Limited|
-|5|164.163.42.41|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|191.97.20.83|999|Peru|Chiclayo|Integra Network Del Peru E.I.R.L.|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|27.79.242.112|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|27.79.164.103|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|11|27.79.209.240|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
-|13|1.54.54.245|16000|Vietnam|Hanoi|FPT Telecom Company|
-|14|34.101.127.208|3128|Indonesia|Jakarta|Google LLC|
-|15|147.28.240.214|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|16|147.28.240.214|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|17|27.79.234.240|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|147.28.240.214|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|19|171.237.60.177|10001|Vietnam|Lang Son|Viettel Corporation|
-|20|27.79.186.173|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|164.163.42.41|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|4|76.169.128.104|8080|United States|Santa Ana|Charter Communications|
+|5|164.163.42.47|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|76.169.128.104|8080|United States|Santa Ana|Charter Communications|
+|8|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
+|9|67.211.219.122|8888|United States|Secaucus|Interserver, Inc|
+|10|103.164.171.210|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|11|92.113.43.110|8080|Türkiye|Istanbul|Netbone Telekomunikasyon A.S.|
+|12|41.33.203.238|1981|Egypt|Cairo|TE Data|
+|13|80.194.38.106|3333|United Kingdom|Hyde|Virgin Media Limited|
+|14|27.79.209.240|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|27.79.164.103|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|27.79.242.112|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|18|34.101.127.208|3128|Indonesia|Jakarta|Google LLC|
+|19|147.28.240.214|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|147.28.240.214|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
