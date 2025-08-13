@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|2|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|3|67.211.219.122|8888|United States|Secaucus|Interserver, Inc|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|103.19.58.151|8080|Indonesia|Jatibarang|BITSNET|
-|7|103.157.62.229|8080|Indonesia|Pangandaran|ADSNETWORK|
-|8|76.169.128.104|8080|United States|Santa Ana|Charter Communications|
-|9|27.79.164.103|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
-|12|66.175.219.50|3228|United States|Fremont|Akamai Technologies, Inc.|
-|13|113.22.250.24|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|14|115.72.15.14|10003|Vietnam|Ho Chi Minh City|VIETELmetro|
-|15|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|16|147.28.240.214|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|17|42.113.21.62|16000|Vietnam|Hanoi|FPT Telecom Company|
-|18|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
-|19|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|20|67.43.236.18|11731|Canada|Montreal|GloboTech Communications|
+|1|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
+|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|62.33.53.248|3128|Russia|Furmanov|TRANS-TELECOM|
+|5|149.86.146.231|8080|Turkey|Sille|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|6|103.55.224.175|7777|Indonesia|Kuningan|PT Gapura Era Digital|
+|7|164.163.42.47|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|8|115.72.15.14|10013|Vietnam|Ho Chi Minh City|VIETELmetro|
+|9|176.88.168.105|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
+|10|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|11|147.28.240.214|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|12|164.163.42.22|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|13|67.43.236.18|11731|Canada|Montreal|GloboTech Communications|
+|14|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|15|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|16|137.59.48.20|8080|Bangladesh|Dhaka|Bijoy Online Ltd|
+|17|72.10.160.90|22041|Canada|Montreal|GloboTech Communications|
+|18|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|19|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|20|115.72.15.14|10013|Vietnam|Ho Chi Minh City|VIETELmetro|
 
 
 
