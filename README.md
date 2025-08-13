@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.197.95|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|4|14.224.76.32|8080|Vietnam|Vinh|VNPT|
-|5|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|6|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|8|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|9|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|10|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
-|11|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|12|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|15|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
-|16|27.79.255.99|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|19|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|20|42.117.168.83|16000|Vietnam|Hanoi|FPT Telecom Company|
+|1|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|2|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|27.79.197.95|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|7|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|8|42.119.98.64|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|9|45.134.14.181|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|10|14.224.76.32|8080|Vietnam|Vinh|VNPT|
+|11|58.186.248.95|16000|Vietnam|Hanoi|FPT Telecom Company|
+|12|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|13|27.79.167.97|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|15|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|16|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|17|27.79.209.240|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|19|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
 
 
 
