@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
 |4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
 |5|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
 |6|118.194.249.77|8080|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |7|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
 |8|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|9|27.79.142.201|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|13|27.79.242.112|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
+|10|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
+|11|42.117.168.83|16000|Vietnam|Hanoi|FPT Telecom Company|
+|12|27.71.140.43|16000|Vietnam|Bảo Lộc|Viettel Group|
+|13|58.186.92.144|16000|Vietnam|Hanoi|FPT Telecom Company|
+|14|27.79.167.97|16000|Vietnam|Hanoi|Viettel Corporation|
 |15|27.79.186.173|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|17|27.79.255.99|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|27.79.164.103|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|27.79.242.112|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|18|1.54.54.245|16000|Vietnam|Hanoi|FPT Telecom Company|
+|19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|20|113.22.250.24|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
 
 
 
