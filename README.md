@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|23.237.210.82|80|United States|Dallas|FDCservers.net|
 |3|34.101.192.184|3128|Indonesia|Jakarta|Google LLC|
-|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|5|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|8|103.172.42.113|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|10|182.253.109.29|8080|Indonesia|Semarang|Biznet Metronet|
+|4|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|6|182.253.109.29|8080|Indonesia|Semarang|Biznet Metronet|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|14.224.76.32|8080|Vietnam|Vinh|VNPT|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
 |11|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|12|103.162.66.10|8080|India|Pune|Imperium Digital Network|
-|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|14|14.224.76.32|8080|Vietnam|Vinh|VNPT|
-|15|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|16|118.68.172.205|16000|Vietnam|Hanoi|FPT Telecom Company|
-|17|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|18|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|19|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|20|103.173.141.10|8080|Indonesia|Ngawi|DIAZANETWORKS|
+|12|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|13|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|14|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|103.153.62.242|8181|Indonesia|Wonoharjo|PT Ikhlas Cipta Teknologi|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|27.79.255.99|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
 
 
 
