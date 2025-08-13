@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|58.186.92.84|16000|Vietnam|Hanoi|FPT Telecom Company|
-|3|42.119.2.21|16000|Vietnam|Hanoi|FPT Telecom Company|
-|4|118.68.172.205|16000|Vietnam|Hanoi|FPT Telecom Company|
-|5|67.211.219.122|8888|United States|Secaucus|Interserver, Inc|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|14.224.76.32|8080|Vietnam|Vinh|VNPT|
-|8|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|9|67.211.219.122|8888|United States|Secaucus|Interserver, Inc|
-|10|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|12|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|14|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|15|103.153.134.27|8090|Indonesia|Cikupa|WMINET|
-|16|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|17|31.14.114.72|1081|Iran|Tehran|Afranet Co|
-|18|45.134.14.181|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|19|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|20|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|2|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|3|14.224.76.32|8080|Vietnam|Vinh|VNPT|
+|4|58.186.92.84|16000|Vietnam|Hanoi|FPT Telecom Company|
+|5|20.2.83.243|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|6|67.211.219.122|8888|United States|Secaucus|Interserver, Inc|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|67.211.219.122|8888|United States|Secaucus|Interserver, Inc|
+|9|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|10|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|11|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|45.134.14.181|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|103.171.245.184|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
+|16|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|17|42.119.2.21|16000|Vietnam|Hanoi|FPT Telecom Company|
+|18|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|103.173.140.144|7777|Indonesia|Rawaseser|WIFIAN ID|
 
 
 
