@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|7|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|14.224.76.32|8080|Vietnam|Vinh|VNPT|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|12|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|13|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|14|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|58.186.92.84|16000|Vietnam|Hanoi|FPT Telecom Company|
-|17|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
-|18|45.134.14.181|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|20|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|3|27.79.242.112|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|27.79.255.99|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|181.119.107.117|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|8|45.189.252.246|999|Mexico|Tlalixcoyan|Tracered SA De CV|
+|9|27.79.167.97|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|45.134.14.181|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|38.156.75.183|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|13|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|15|37.182.79.112|8080|Italy|Pietrasanta|VODAFONE|
+|16|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|17|27.79.197.95|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|14.224.76.32|8080|Vietnam|Vinh|VNPT|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|38.41.12.89|999|Venezuela|Caracas|MDS TELECOM C.A.|
 
 
 
