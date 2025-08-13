@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|20.2.83.243|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|2|20.2.83.243|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|3|67.211.219.122|8888|United States|Secaucus|Interserver, Inc|
+|4|51.79.99.237|4502|Canada|Montreal|OVH SAS|
 |5|14.224.76.32|8080|Vietnam|Vinh|VNPT|
-|6|118.68.172.205|16000|Vietnam|Hanoi|FPT Telecom Company|
-|7|45.134.14.181|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|8|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|10|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|11|67.211.219.122|8888|United States|Secaucus|Interserver, Inc|
+|6|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|7|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|9|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|11|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
 |12|67.211.219.122|8888|United States|Secaucus|Interserver, Inc|
-|13|103.240.108.198|8090|Indonesia|Sukorejo|PT.ArseNET Global Solusi|
-|14|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|15|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|16|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|18|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|19|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|20|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|13|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|58.186.92.84|16000|Vietnam|Hanoi|FPT Telecom Company|
+|15|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|16|45.134.14.181|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|17|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|19|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|20|162.212.153.46|8888|United States|Chicago|tzulo, inc.|
 
 
 
