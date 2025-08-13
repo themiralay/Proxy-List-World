@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|3|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
 |4|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|5|14.224.76.32|8080|Vietnam|Vinh|VNPT|
-|6|34.101.71.166|3128|Indonesia|Jakarta|Google LLC|
-|7|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|8|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|9|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|10|45.134.14.181|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|11|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|13|78.47.126.220|8888|Germany|Nuremberg|Hetzner Online GmbH|
-|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|15|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|16|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|5|34.101.71.166|3128|Indonesia|Jakarta|Google LLC|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|103.247.23.76|8081|Indonesia|Cilacap|PT wifian Solution|
+|9|14.224.76.32|8080|Vietnam|Vinh|VNPT|
+|10|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|11|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|12|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|13|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
+|14|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|15|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|27.79.254.228|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|78.47.126.220|8888|Germany|Nuremberg|Hetzner Online GmbH|
+|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|19|45.134.14.181|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|20|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
 
 
 
