@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|34.101.192.184|3128|Indonesia|Jakarta|Google LLC|
-|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|6|34.101.127.208|3128|Indonesia|Jakarta|Google LLC|
-|7|182.253.109.29|8080|Indonesia|Semarang|Biznet Metronet|
-|8|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|11|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|12|14.224.76.32|8080|Vietnam|Vinh|VNPT|
-|13|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|14|78.47.126.220|8888|Germany|Nuremberg|Hetzner Online GmbH|
-|15|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|2|27.79.242.112|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|4|118.68.172.205|16000|Vietnam|Hanoi|FPT Telecom Company|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|182.253.109.29|8080|Indonesia|Semarang|Biznet Metronet|
+|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|8|27.79.255.99|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|10|34.101.192.184|3128|Indonesia|Jakarta|Google LLC|
+|11|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|12|42.119.98.64|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|13|14.224.76.32|8080|Vietnam|Vinh|VNPT|
+|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|15|78.47.126.220|8888|Germany|Nuremberg|Hetzner Online GmbH|
 |16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|19|45.134.14.181|1080|Russia|Moscow|Smart Digital Ideas DOO|
-|20|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|18|67.211.219.122|8888|United States|Secaucus|Interserver, Inc|
+|19|67.211.219.122|8888|United States|Secaucus|Interserver, Inc|
+|20|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
 
 
 
