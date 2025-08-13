@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|182.253.109.29|8080|Indonesia|Semarang|Biznet Metronet|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|5|34.101.51.45|3128|Indonesia|Jakarta|Google LLC|
-|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|7|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
-|10|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|11|152.53.194.46|8051|United States|Reston|netcup GmbH|
-|12|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|13|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|14|192.140.93.6|3128|Ecuador|Esmeraldas|Kolvech S.A.|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|18|45.5.119.222|999|Guatemala|Guatemala City|Infinitum S.A.|
-|19|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|20|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
