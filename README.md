@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|67.211.219.122|8888|United States|Secaucus|Interserver, Inc|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|103.19.58.151|8080|Indonesia|Jatibarang|BITSNET|
-|7|164.163.42.47|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|164.163.42.41|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|10|201.182.242.212|999|Ecuador|Saraguro|Gualan Japon Luis Joaquin|
-|11|164.163.42.41|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|182.253.109.29|8080|Indonesia|Semarang|Biznet Metronet|
-|13|27.79.234.240|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|42.118.1.34|16000|Vietnam|Hanoi|FPT Telecom Company|
-|15|72.10.160.90|9415|Canada|Montreal|GloboTech Communications|
-|16|27.79.183.209|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|18|67.43.228.250|2587|Canada|Montreal|GloboTech Communications|
-|19|27.74.199.230|5107|Vietnam|Quận Ba|Viettel Group|
-|20|147.28.240.214|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
