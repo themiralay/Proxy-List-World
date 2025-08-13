@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|27.79.167.97|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|27.79.242.112|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|5|27.79.209.240|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|58.186.248.95|16000|Vietnam|Hanoi|FPT Telecom Company|
-|7|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
-|8|42.119.98.64|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|9|27.71.140.43|16000|Vietnam|Bảo Lộc|Viettel Group|
-|10|58.186.92.84|16000|Vietnam|Hanoi|FPT Telecom Company|
-|11|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|12|27.79.255.99|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|14|14.224.76.32|8080|Vietnam|Vinh|VNPT|
-|15|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
-|16|172.98.201.190|3128|United States|Dallas|Centrilogic|
-|17|27.79.197.95|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|19|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|14.224.76.32|8080|Vietnam|Vinh|VNPT|
+|5|136.47.167.209|8118|United States|Durham|Google Fiber Inc.|
+|6|202.137.14.57|8085|Indonesia|Tangerang|customer in Corporate Access|
+|7|27.79.255.99|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|11|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|12|13.212.216.15|52638|Singapore|Singapore|Amazon Technologies Inc.|
+|13|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|14|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|15|24.176.35.228|8080|United States|Portage|Charter Communications|
+|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|17|5.134.48.59|8080|Azerbaijan|Baku|SUPERONLAYN|
+|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|19|202.140.62.212|8080|India|Bengaluru|Karuturi Telecom Pvt Ltd|
+|20|124.108.19.6|9292|India|Navi Mumbai|Advantus Corporate Infoserv Private Ltd|
 
 
 
