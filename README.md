@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|76.169.128.104|8080|United States|Santa Ana|Charter Communications|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|103.55.224.175|7777|Indonesia|Kuningan|PT Gapura Era Digital|
-|5|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|6|164.163.42.47|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|115.247.115.38|8080|India|Surat|Reliance Jio Infocomm Limited|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|164.163.42.41|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|11|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|188.132.221.21|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|14|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|15|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|17|67.211.219.122|8888|United States|Secaucus|Interserver, Inc|
-|18|223.205.127.27|8888|Thailand|Sakon Nakhon|Triple T Broadband Public Company Limited|
-|19|72.10.160.90|26945|Canada|Montreal|GloboTech Communications|
-|20|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
+|1|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|2|141.145.206.230|3161|France|Paris|Oracle Corporation|
+|3|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|4|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|164.163.42.41|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|7|101.255.209.94|8070|Indonesia|Tangerang|PT Remala Abadi|
+|8|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|9|103.60.181.46|8080|Indonesia|Cibinong|PT. Jala Lintas Media|
+|10|72.10.160.90|26945|Canada|Montreal|GloboTech Communications|
+|11|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|12|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|13|79.121.102.227|8080|Hungary|Esztergom|Magyar Telekom plc.|
+|14|181.174.231.45|8080|Colombia|Pitalito|Sinergy Soluciones Integrales|
+|15|223.205.127.27|8888|Thailand|Sakon Nakhon|Triple T Broadband Public Company Limited|
+|16|23.171.9.140|8888|United States|Pierron|BitaByte LLC|
+|17|27.79.209.240|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|49.48.104.67|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
+|19|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|183.80.22.67|16000|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
 
 
 
