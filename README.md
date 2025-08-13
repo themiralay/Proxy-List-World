@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|3|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|4|182.253.109.29|8080|Indonesia|Semarang|Biznet Metronet|
-|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|8|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|9|14.224.76.32|8080|Vietnam|Vinh|VNPT|
-|10|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|11|190.97.228.46|465|Venezuela|Caracas|Viginet C.A|
-|12|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|13|152.53.194.46|8065|United States|Reston|netcup GmbH|
-|14|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|15|45.5.119.222|999|Guatemala|Guatemala City|Infinitum S.A.|
-|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|17|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|19|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|20|42.119.98.64|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
