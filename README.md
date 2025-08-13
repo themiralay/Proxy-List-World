@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|67.211.219.122|8888|United States|Secaucus|Interserver, Inc|
-|2|141.145.206.230|3161|France|Paris|Oracle Corporation|
-|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|164.163.42.41|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|6|164.163.42.47|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|7|66.175.219.50|3228|United States|Fremont|Akamai Technologies, Inc.|
-|8|113.22.250.24|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|9|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|10|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|11|202.35.251.72|8080|Japan|Yamagata|Research Organization of Information and Systems, National Institute of Informa|
-|12|103.117.194.234|8080|Bangladesh|Dhaka|DigiCon Telecommunication Ltd|
-|13|103.254.106.58|8080|Indonesia|Labuhanmaringgai|PT GIGA PATRA MULTIMEDIA|
-|14|160.30.137.95|7006|Vietnam|Trôi|DATAZ|
-|15|27.79.153.234|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|182.53.28.62|8080|Thailand|Chachoengsao|TOT Public Company Limited|
-|17|27.79.242.112|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|72.10.160.91|5071|Canada|Montreal|GloboTech Communications|
-|19|160.30.137.95|7006|Vietnam|Trôi|DATAZ|
-|20|27.79.167.97|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|103.55.224.175|7777|Indonesia|Kuningan|PT Gapura Era Digital|
+|2|164.163.42.47|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|4|164.163.42.41|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|67.211.219.122|8888|United States|Secaucus|Interserver, Inc|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|9|66.175.219.50|3228|United States|Fremont|Akamai Technologies, Inc.|
+|10|92.113.43.110|8080|Türkiye|Istanbul|Netbone Telekomunikasyon A.S.|
+|11|113.22.250.24|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|12|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|13|27.79.242.112|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|15|160.30.137.95|7005|Vietnam|Trôi|DATAZ|
+|16|27.79.167.97|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|149.86.146.222|8080|Turkey|Sille|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
+|18|27.79.153.234|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|20|171.237.113.164|10009|Vietnam|Hanoi|Viettel Corporation|
 
 
 
