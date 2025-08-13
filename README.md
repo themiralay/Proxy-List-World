@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|7|14.224.76.32|8080|Vietnam|Vinh|VNPT|
-|8|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|9|34.101.192.184|3128|Indonesia|Jakarta|Google LLC|
-|10|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|12|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|27.79.167.97|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|3|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|4|14.224.76.32|8080|Vietnam|Vinh|VNPT|
+|5|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|6|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|8|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|9|27.79.167.97|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|14|103.167.30.238|64999|Indonesia|Jakarta|PT iForte Global Internet|
 |15|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|16|78.47.126.220|8888|Germany|Nuremberg|Hetzner Online GmbH|
-|17|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|18|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|19|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|20|27.79.164.103|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
+|17|68.225.17.237|4228|United States|Santa Ana|Cox Communications Inc.|
+|18|41.65.236.34|1976|Egypt|Giza|Nile Online|
+|19|27.79.164.103|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
 
 
 
