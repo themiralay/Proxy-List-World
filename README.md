@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|118.194.249.77|8080|South Korea|Seoul|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|3|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
+|4|27.71.140.43|16000|Vietnam|Bảo Lộc|Viettel Group|
+|5|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
+|6|170.130.202.134|3128|United States|Dallas|Eonix Corporation|
+|7|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|58.186.92.144|16000|Vietnam|Hanoi|FPT Telecom Company|
+|10|27.79.242.112|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|27.79.255.99|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|13|42.117.168.83|16000|Vietnam|Hanoi|FPT Telecom Company|
+|14|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
+|15|27.79.164.103|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|14.224.76.32|8080|Vietnam|Vinh|VNPT|
+|17|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|18|27.71.132.134|16000|Vietnam|Bảo Lộc|Viettel Group|
+|19|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|20|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+
 
 
 ## Contributing
