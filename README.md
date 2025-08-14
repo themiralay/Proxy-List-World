@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|27.79.255.136|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|27.79.197.243|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|27.79.252.212|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.219.89|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|27.79.145.194|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|27.79.191.125|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|27.79.213.181|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|42.113.21.111|16000|Vietnam|Hanoi|FPT Telecom Company|
+|11|27.79.153.152|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|42.118.74.180|16000|Vietnam|Hanoi|FPT Telecom Company|
+|13|27.79.166.224|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|27.79.187.64|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|27.79.199.117|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|27.79.164.54|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|27.79.166.139|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|19|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|20|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+
 
 
 ## Contributing
