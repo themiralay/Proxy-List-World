@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|27.79.187.64|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|4|27.79.145.194|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|27.79.191.125|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|27.79.213.181|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|27.79.153.152|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|27.79.166.224|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|27.79.197.243|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|27.79.219.89|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|27.79.199.117|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|27.71.140.43|16000|Vietnam|Bảo Lộc|Viettel Group|
+|2|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
+|3|27.79.199.117|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|27.79.166.224|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|27.79.219.89|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|27.79.191.125|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
+|9|27.79.164.54|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|11|14.224.76.32|8080|Vietnam|Vinh|VNPT|
+|12|14.162.194.58|10001|Vietnam|Hanoi|VNPT-VNNIC|
 |13|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|14|27.79.164.54|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|27.79.166.139|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|17|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
-|18|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|19|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|20|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|15|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|16|45.134.14.181|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|17|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|18|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|19|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|20|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 
 
 
