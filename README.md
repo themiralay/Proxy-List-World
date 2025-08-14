@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|390|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|390|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|390|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|8|27.79.255.136|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|27.79.197.243|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|11|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|14|27.79.166.139|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|17|27.79.153.152|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|27.79.166.224|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|27.79.164.54|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+
 
 
 ## Contributing
