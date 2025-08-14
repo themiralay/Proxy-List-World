@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|24.199.124.152|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|27.71.140.43|16000|Vietnam|Bảo Lộc|Viettel Group|
-|4|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
-|5|42.118.1.127|16000|Vietnam|Hanoi|FPT Telecom Company|
-|6|42.113.21.111|16000|Vietnam|Hanoi|FPT Telecom Company|
-|7|27.79.187.64|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|27.79.213.181|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|27.79.255.136|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|27.79.191.125|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|12|27.79.145.194|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|27.79.166.139|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|15|42.117.168.250|16000|Vietnam|Hanoi|FPT Telecom Company|
-|16|27.79.252.212|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|27.79.166.224|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|27.79.237.198|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|27.79.199.117|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|27.79.164.54|16000|Vietnam|Hanoi|Viettel Corporation|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
