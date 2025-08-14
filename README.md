@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|5|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|6|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|8|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|9|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|10|157.66.51.134|8080|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|11|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|12|27.79.166.224|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|15|23.239.111.194|8080|United States|Salt Lake City|GorillaServers, Inc.|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|18|23.239.111.194|8080|United States|Salt Lake City|GorillaServers, Inc.|
-|19|14.224.76.32|8080|Vietnam|Vinh|VNPT|
-|20|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|42.118.74.180|16000|Vietnam|Hanoi|FPT Telecom Company|
+|4|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
+|5|1.54.69.219|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|6|27.79.255.136|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|14.224.76.32|8080|Vietnam|Vinh|VNPT|
+|8|42.113.21.111|16000|Vietnam|Hanoi|FPT Telecom Company|
+|9|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
+|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|12|42.118.0.155|16000|Vietnam|Hanoi|FPT Telecom Company|
+|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|14|27.79.164.54|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|17|27.79.166.224|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
+|19|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|20|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 
 
 
