@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|333|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|333|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|333|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.71.140.43|16000|Vietnam|Bảo Lộc|Viettel Group|
-|2|27.79.219.89|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|27.79.166.139|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|27.79.164.54|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|42.118.0.155|16000|Vietnam|Hanoi|FPT Telecom Company|
-|6|27.79.191.125|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|8|27.79.166.224|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|10|27.79.255.136|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|27.79.145.194|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|27.79.197.243|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|27.79.187.64|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
-|15|27.79.199.117|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|17|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|18|27.79.237.198|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|103.143.105.138|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|6|45.134.14.181|1080|Russia|Moscow|Smart Digital Ideas DOO|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|14.224.76.32|8080|Vietnam|Vinh|VNPT|
+|11|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|12|173.44.175.230|3128|United States|Sarasota|Eonix Corporation|
+|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|14|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|15|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|18|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|19|110.76.145.59|89|Indonesia|Krajan|PT Pika Media Komunika|
+|20|45.167.125.21|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
 
 
 
