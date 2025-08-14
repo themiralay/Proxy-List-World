@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|376|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|376|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|8|66.201.40.43|8888|United States|Oakland|Fiber Internet Center|
+|9|27.79.166.224|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|13|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|14|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|15|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|16|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|17|27.79.255.136|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|19|14.224.76.32|8080|Vietnam|Vinh|VNPT|
+|20|66.201.40.43|8888|United States|Oakland|Fiber Internet Center|
+
 
 
 ## Contributing
