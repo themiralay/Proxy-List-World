@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|42.118.74.180|16000|Vietnam|Hanoi|FPT Telecom Company|
-|4|27.79.164.54|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|42.118.1.127|16000|Vietnam|Hanoi|FPT Telecom Company|
-|6|27.79.219.89|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|27.79.255.136|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|42.117.168.250|16000|Vietnam|Hanoi|FPT Telecom Company|
-|9|27.79.191.125|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|27.79.166.224|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|27.79.235.78|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|27.79.199.117|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|16|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|17|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|18|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|19|14.224.76.32|8080|Vietnam|Vinh|VNPT|
-|20|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
