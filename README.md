@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|2|8.209.249.89|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|8|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|9|116.203.56.216|2212|Germany|Nuremberg|Hetzner Online GmbH|
-|10|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|11|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|103.227.187.13|6080|Indonesia|Purwoharjo|PT Master Star Network|
-|14|115.72.160.205|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|15|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
-|16|103.165.157.107|8080|Indonesia|Mojokerto|MEGADATA-ISP|
-|17|194.44.177.225|8080|Ukraine|Lviv|LLC EKSINTECH|
-|18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|72.10.164.178|29873|Canada|Montreal|GloboTech Communications|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|10|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|16|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|17|36.69.162.40|8080|Indonesia|South Tangerang|PT. TELKOM INDONESIA|
+|18|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|19|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|20|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
 
 
 
