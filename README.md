@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|202.232.52.162|8080|Japan|Ōita|Internet Initiative Japan Inc.|
-|3|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|11|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|2|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|9|157.66.50.125|1111|Indonesia|Karawang|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|10|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|13|8.209.249.89|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|18.188.141.177|8834|United States|Dublin|Amazon.com, Inc.|
-|18|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|13|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|14|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|15|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
 |19|18.188.141.177|8834|United States|Dublin|Amazon.com, Inc.|
-|20|23.239.111.194|8080|United States|Salt Lake City|GorillaServers, Inc.|
+|20|42.118.0.155|16000|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
