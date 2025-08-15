@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|111.111.108.141|3128|Japan|Yokohama|Kddi Corporation|
-|3|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|8.209.249.89|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|8.209.249.89|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|4|27.71.130.8|16000|Vietnam|Bảo Lộc|Viettel Group|
+|5|42.118.0.155|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|27.71.140.43|16000|Vietnam|Bảo Lộc|Viettel Group|
 |7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|9|8.217.250.141|33333|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|8|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
+|9|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|11|192.177.139.214|8000|United States|Chicago|EGIHosting|
+|12|103.155.197.103|8080|Indonesia|Bandung|JEMBATANDATA|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |14|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
-|15|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|16|123.30.234.153|1315|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|15|111.111.108.141|3128|Japan|Yokohama|Kddi Corporation|
+|16|38.7.18.149|999|Mexico|Nocupétaro|Internet Telefonia Y TV De Michoacan SA De CV|
+|17|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |18|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|19|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|20|182.93.75.162|8080|Nepal|Kathmandu|Subisu Cablenet|
+|19|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|20|159.89.98.131|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
