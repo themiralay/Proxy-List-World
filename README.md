@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|8.209.249.89|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|198.23.236.47|1111|United States|Santa Clara|HostPapa|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|7|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|77.110.114.116|8080|United States|Charlotte|Aeza International LTD|
+|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|113.192.12.102|8080|Indonesia|Cikarang|PT Parsaoran Global Datatrans|
+|14|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|15|198.23.236.47|1111|United States|Santa Clara|HostPapa|
+|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|19|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|20|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+
 
 
 ## Contributing
