@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.209.249.89|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|5|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|12|103.131.19.44|8080|Indonesia|Batang|PT Global Media Data Prima|
-|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|15|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|16|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|17|18.188.141.177|8834|United States|Dublin|Amazon.com, Inc.|
-|18|202.232.52.162|8080|Japan|Ōita|Internet Initiative Japan Inc.|
-|19|24.199.124.152|3128|United States|Santa Clara|DigitalOcean, LLC|
-|20|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|7|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|15|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|16|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|17|156.254.6.229|3128|Hong Kong|Chai Wan|Cloudie Limited|
+|18|14.225.210.186|3129|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|19|91.121.208.196|5062|France|Roubaix|OVH SAS|
+|20|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 
 
 
