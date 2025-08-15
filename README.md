@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|8.209.249.89|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|4|42.118.0.155|16000|Vietnam|Hanoi|FPT Telecom Company|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|7|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|10|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|11|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|12|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|13|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|14|171.254.192.216|7000|Vietnam|Hanoi|Viettel Corporation|
-|15|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|19|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|20|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|9|103.157.117.226|81|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
+|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|13|103.101.193.46|1111|Indonesia|Pancur Biru Lestari II|PT Bintang Teknologi Sejahtera|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|17|103.154.230.179|8080|Indonesia|Bilo|DIGITNET|
+|18|190.186.1.126|999|Bolivia|Santa Cruz|Cotas Ltda.|
+|19|46.60.15.42|8082|Palestinian Territory|Salfīt|AL Zaytona Company For Communication Ltd.|
+|20|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
 
 
 
