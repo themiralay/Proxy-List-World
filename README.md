@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|112.216.83.10|3128|South Korea|Siheung-si|LG DACOM Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|5|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|6|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|7|34.101.88.34|3128|Indonesia|Jakarta|Google LLC|
-|8|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|9|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|12|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|13|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|15|27.71.130.8|16000|Vietnam|Bảo Lộc|Viettel Group|
-|16|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|17|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|20|85.214.190.195|3128|Germany|Berlin|Strato AG|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
+|5|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|6|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|7|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|34.101.88.34|3128|Indonesia|Jakarta|Google LLC|
+|10|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|11|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|14|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|16|34.101.64.157|3128|Indonesia|Jakarta|Google LLC|
+|17|158.178.203.189|3229|France|Paris|Oracle Corporation|
+|18|112.216.83.10|3128|South Korea|Siheung-si|LG DACOM Corporation|
+|19|212.113.112.84|1080|Germany|Frankfurt am Main|DpkgSoft International Limited|
+|20|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
