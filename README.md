@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
 |3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|5|42.118.3.68|16000|Vietnam|Hanoi|FPT Telecom Company|
-|6|103.19.58.174|8080|Indonesia|Kertosono|BITSNET|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|10|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|13|124.83.43.145|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|14|182.253.159.191|8080|Indonesia|Jakarta|BIZNET|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|17|27.79.240.48|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|181.174.228.157|8080|Colombia|Pitalito|Sinergy Soluciones Integrales|
-|19|45.175.155.20|999|Argentina|Río Segundo|Albornoz Guido Ruben|
-|20|27.71.130.8|16000|Vietnam|Bảo Lộc|Viettel Group|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|6|141.11.25.188|3128|Indonesia|Jakarta|PT Industri Kreatif Digital|
+|7|139.59.228.95|8118|Singapore|Singapore|DIGITALOCEAN|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|14|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|15|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|16|124.83.43.145|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|163.227.244.251|8080|Philippines|Rodriguez|Rdnaks Network and Data Solution|
+|20|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
 
 
 
