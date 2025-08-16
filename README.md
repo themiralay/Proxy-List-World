@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|77|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|77|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|77|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|59|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|59|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|59|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|139.59.228.95|8118|Singapore|Singapore|DIGITALOCEAN|
-|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|9|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|10|27.71.139.208|16000|Vietnam|Bảo Lộc|Viettel Group|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|27.79.180.22|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|14|45.174.95.142|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|15|27.79.178.166|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|177.70.77.201|20183|Brazil|Catuípe|RazaoInfo Internet Ltda|
-|17|110.44.115.83|8080|Nepal|Ki̇̄rtipur|VIA NET COMMUNICATION PUBLIC LIMITED|
-|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|19|103.162.153.158|7070|Indonesia|Pangkalan Bunut|AKSIRIAU|
-|20|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
+|6|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|7|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|8|139.59.228.95|8118|Singapore|Singapore|DIGITALOCEAN|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|45.174.95.142|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|11|66.201.40.43|8888|United States|Oakland|Fiber Internet Center|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|14|116.203.56.216|2212|Germany|Nuremberg|Hetzner Online GmbH|
+|15|181.212.45.226|8080|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|16|147.28.240.215|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|17|78.13.104.52|1047|Mexico|Querétaro City|Amazon.com|
+|18|147.28.240.214|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|19|147.28.240.214|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
+|20|66.201.40.43|8888|United States|Oakland|Fiber Internet Center|
 
 
 
