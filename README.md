@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|8.209.249.89|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|27.79.139.183|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|27.71.139.208|16000|Vietnam|Bảo Lộc|Viettel Group|
-|6|27.79.180.22|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|11|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|13|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|14|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|16|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|17|27.71.130.8|16000|Vietnam|Bảo Lộc|Viettel Group|
-|18|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|20|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|9|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|10|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|13|27.79.180.22|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|17|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|18|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|27.71.130.8|16000|Vietnam|Bảo Lộc|Viettel Group|
 
 
 
