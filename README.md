@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|3|45.174.95.142|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|8|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|54.180.143.12|1267|South Korea|Seoul|Amazon Technologies Inc.|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|14|18.188.141.177|8834|United States|Dublin|Amazon.com, Inc.|
-|15|27.71.130.8|16000|Vietnam|Bảo Lộc|Viettel Group|
-|16|190.102.233.100|999|Chile|Santiago|Pacifico Cable SPA.|
-|17|27.79.178.166|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|103.122.0.52|8181|Indonesia|Cempaka|PT. Java Digital Nusantara|
-|20|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
+|2|27.79.180.22|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|27.79.222.84|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|42.118.3.68|16000|Vietnam|Hanoi|FPT Telecom Company|
+|5|27.79.240.48|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|27.71.130.8|16000|Vietnam|Bảo Lộc|Viettel Group|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|11|27.71.139.208|16000|Vietnam|Bảo Lộc|Viettel Group|
+|12|45.174.95.142|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|13|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
+|14|27.71.140.43|16000|Vietnam|Bảo Lộc|Viettel Group|
+|15|27.79.220.146|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|27.79.255.25|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|18|18.188.141.177|8834|United States|Dublin|Amazon.com, Inc.|
+|19|54.180.143.12|1267|South Korea|Seoul|Amazon Technologies Inc.|
+|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
