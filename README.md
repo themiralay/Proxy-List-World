@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.209.249.89|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|27.79.139.183|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|27.79.213.13|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|27.79.180.22|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|27.79.180.74|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|10|27.79.240.48|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|14|27.79.222.84|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|27.79.226.40|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|17|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|18|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|19|27.71.139.208|16000|Vietnam|Bảo Lộc|Viettel Group|
-|20|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|202.232.52.162|8080|Japan|Ōita|Internet Initiative Japan Inc.|
+|3|8.209.249.89|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|4|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|5|27.79.222.84|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|27.79.240.48|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|27.71.140.43|16000|Vietnam|Bảo Lộc|Viettel Group|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|27.71.130.8|16000|Vietnam|Bảo Lộc|Viettel Group|
+|10|27.79.180.74|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|27.79.139.183|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|27.71.139.208|16000|Vietnam|Bảo Lộc|Viettel Group|
+|13|27.79.180.22|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|27.79.213.13|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|16|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|17|27.79.220.146|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
+|19|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|20|23.237.210.82|80|United States|Dallas|FDCservers.net|
 
 
 
