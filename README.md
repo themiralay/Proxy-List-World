@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|4|142.93.252.198|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|27.79.139.183|16000|Vietnam|Hanoi|Viettel Corporation|
+|1|8.209.249.89|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|27.79.139.183|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|27.79.174.20|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.213.13|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
 |9|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|10|27.79.222.84|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|13|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|27.79.223.199|16000|Vietnam|Hanoi|Viettel Corporation|
 |14|27.79.255.25|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|16|8.209.249.89|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|19|185.155.99.114|8118|Estonia|Narva|RJ Network OU|
-|20|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
+|15|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|16|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|17|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|18|27.79.128.211|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|20|27.71.139.208|16000|Vietnam|Bảo Lộc|Viettel Group|
 
 
 
