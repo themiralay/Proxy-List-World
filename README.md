@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **38889** proxies at the latest update. Usable proxies are below.
+> Scraper found **74562** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35671|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|11|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|13|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|37652|✅|
 
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.209.249.89|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|42.118.3.68|16000|Vietnam|Hanoi|FPT Telecom Company|
-|4|27.79.240.48|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|27.79.223.199|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|27.79.222.84|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|27.79.220.146|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|27.79.178.166|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|27.79.222.9|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|27.79.180.74|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|27.79.255.25|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|13|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|14|27.79.174.20|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|27.79.238.173|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|49.147.130.30|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|17|27.79.128.111|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|19|23.239.111.194|8080|United States|Salt Lake City|GorillaServers, Inc.|
+|2|207.254.38.169|8888|United States|Las Vegas|MacStadium, Inc.|
+|3|139.59.228.95|8118|Singapore|Singapore|DIGITALOCEAN|
+|4|27.79.222.84|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|6|168.220.89.95|3128|United States|Chicago|Fly.io, Inc.|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|10|134.236.231.19|8080|Thailand|Bang Lamung|CAT Telecom Public Company Limited|
+|11|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|12|110.232.80.183|8080|Indonesia|Medan|PT. Media Antar Nusa|
+|13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|14|112.210.249.131|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|16|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|17|45.166.93.24|999|Honduras|Gracias|Multicable De Honduras|
+|18|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|19|42.118.3.68|16000|Vietnam|Hanoi|FPT Telecom Company|
 |20|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 
 
