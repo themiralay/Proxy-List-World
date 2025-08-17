@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|8|42.118.2.212|16000|Vietnam|Hanoi|FPT Telecom Company|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|11|42.117.240.3|16000|Vietnam|Hanoi|FPT Telecom Company|
+|2|112.216.83.10|3128|South Korea|Siheung-si|LG DACOM Corporation|
+|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|8|23.171.9.140|8888|United States|Pierron|BitaByte LLC|
+|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|10|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|13|27.79.229.182|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|119.47.93.126|8085|Indonesia|Bagan Si Api-api|FASTLINKONEKSI|
-|17|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|18|42.118.24.188|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|20|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
+|13|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|14|42.117.240.3|16000|Vietnam|Hanoi|FPT Telecom Company|
+|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|16|23.171.9.140|8888|United States|Pierron|BitaByte LLC|
+|17|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|18|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|19|181.176.18.213|999|Peru|Iquitos|VIETTEL PERÚ S.A.C.|
+|20|40.192.110.77|51773|India|Hyderabad|Amazon.com, Inc.|
 
 
 
