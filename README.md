@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|27.79.193.128|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|27.79.176.68|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|42.118.17.214|16000|Vietnam|Hanoi|FPT Telecom Company|
-|5|42.119.154.236|16000|Vietnam|Hanoi|FPT Telecom Company|
-|6|42.118.1.72|16000|Vietnam|Hanoi|FPT Telecom Company|
-|7|27.79.132.13|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|27.79.178.6|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|42.118.17.60|16000|Vietnam|Hanoi|FPT Telecom Company|
+|2|42.117.240.3|16000|Vietnam|Hanoi|FPT Telecom Company|
+|3|42.119.154.236|16000|Vietnam|Hanoi|FPT Telecom Company|
+|4|42.118.1.72|16000|Vietnam|Hanoi|FPT Telecom Company|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|42.118.17.214|16000|Vietnam|Hanoi|FPT Telecom Company|
+|7|27.79.193.128|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|42.118.17.60|16000|Vietnam|Hanoi|FPT Telecom Company|
+|9|27.79.178.6|16000|Vietnam|Hanoi|Viettel Corporation|
 |10|27.79.204.37|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|42.117.240.3|16000|Vietnam|Hanoi|FPT Telecom Company|
+|11|154.18.255.50|8080|Indonesia|Karawang|PT Media Solusi Sukses|
 |12|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|13|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|27.79.132.13|16000|Vietnam|Hanoi|Viettel Corporation|
 |15|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|16|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|17|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|18|42.119.2.245|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|20|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|16|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|17|27.79.176.68|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|19|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|20|115.72.3.228|10009|Vietnam|Ho Chi Minh City|VIETELmetro|
 
 
 
