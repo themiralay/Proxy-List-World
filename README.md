@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|11|51.159.159.73|80|France|Paris|SCALEWAY|
-|12|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|8.209.249.89|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|103.124.138.76|1111|Indonesia|Tarub|Global Media Data Prima|
-|17|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|19|103.232.20.130|8080|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
-|20|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|24.72.215.236|8246|United States|Columbus|Vyve Broadband|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|11|103.131.19.44|8080|Indonesia|Batang|PT Global Media Data Prima|
+|12|103.170.22.137|8089|Indonesia|Purbalingga|PT Puskomedia Indonesia Kreatif|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|16|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|17|202.137.14.57|8085|Indonesia|Tangerang|customer in Corporate Access|
+|18|51.159.159.73|80|France|Paris|SCALEWAY|
+|19|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|200.116.198.222|9812|Colombia|Santiago de Cali|UNE EPM TELECOMUNICACIONES S.A|
 
 
 
