@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|23.171.9.140|8888|United States|Pierron|BitaByte LLC|
-|6|27.79.204.37|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|42.117.240.3|16000|Vietnam|Hanoi|FPT Telecom Company|
+|2|42.117.240.3|16000|Vietnam|Hanoi|FPT Telecom Company|
+|3|27.79.184.207|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|27.79.204.37|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.229.182|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|7|42.118.2.212|16000|Vietnam|Hanoi|FPT Telecom Company|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|27.79.158.128|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|42.119.2.245|16000|Vietnam|Hanoi|FPT Telecom Company|
 |12|27.79.156.0|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|14|23.171.9.140|8888|United States|Pierron|BitaByte LLC|
-|15|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|17|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|18|18.188.141.177|8834|United States|Dublin|Amazon.com, Inc.|
-|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|20|27.79.229.182|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|14|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|15|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|16|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|17|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|20|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
