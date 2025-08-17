@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|42.119.2.245|16000|Vietnam|Hanoi|FPT Telecom Company|
-|6|42.117.240.3|16000|Vietnam|Hanoi|FPT Telecom Company|
+|2|27.79.184.207|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|42.117.240.3|16000|Vietnam|Hanoi|FPT Telecom Company|
+|4|42.118.2.212|16000|Vietnam|Hanoi|FPT Telecom Company|
+|5|27.79.156.0|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
 |7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|27.79.184.207|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|23.171.9.140|8888|United States|Pierron|BitaByte LLC|
-|11|42.118.2.212|16000|Vietnam|Hanoi|FPT Telecom Company|
-|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|15|23.171.9.140|8888|United States|Pierron|BitaByte LLC|
-|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|18|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|19|115.72.3.228|10009|Vietnam|Ho Chi Minh City|VIETELmetro|
-|20|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|14|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|15|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|27.79.192.226|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|20|51.159.159.73|80|France|Paris|SCALEWAY|
 
 
 
