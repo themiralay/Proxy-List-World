@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|8|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|11|42.118.2.212|16000|Vietnam|Hanoi|FPT Telecom Company|
-|12|42.117.240.3|16000|Vietnam|Hanoi|FPT Telecom Company|
-|13|27.79.184.207|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|40.192.110.77|51773|India|Hyderabad|Amazon.com, Inc.|
-|15|42.119.2.245|16000|Vietnam|Hanoi|FPT Telecom Company|
-|16|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|17|116.203.56.216|2212|Germany|Nuremberg|Hetzner Online GmbH|
-|18|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|19|112.203.207.119|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|10|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|15|89.19.175.122|8008|Russia|Moscow|OJSC Comcor|
+|16|116.203.56.216|2212|Germany|Nuremberg|Hetzner Online GmbH|
+|17|54.180.143.12|1267|South Korea|Seoul|Amazon Technologies Inc.|
+|18|40.192.110.77|51773|India|Hyderabad|Amazon.com, Inc.|
+|19|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|20|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
 
 
 
