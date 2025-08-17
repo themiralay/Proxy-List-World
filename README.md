@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|42.119.152.212|16000|Vietnam|Hanoi|FPT Telecom Company|
-|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|4|42.118.2.212|16000|Vietnam|Hanoi|FPT Telecom Company|
-|5|42.119.2.245|16000|Vietnam|Hanoi|FPT Telecom Company|
-|6|42.117.240.3|16000|Vietnam|Hanoi|FPT Telecom Company|
-|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|8|27.79.158.128|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|10|27.79.156.0|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|27.79.204.37|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|42.118.2.212|16000|Vietnam|Hanoi|FPT Telecom Company|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|42.119.2.245|16000|Vietnam|Hanoi|FPT Telecom Company|
+|9|27.79.156.0|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|42.119.152.212|16000|Vietnam|Hanoi|FPT Telecom Company|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |12|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
-|13|27.71.140.43|16000|Vietnam|Bảo Lộc|Viettel Group|
-|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|27.79.184.207|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|27.79.229.182|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|18|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|20|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|13|27.79.158.128|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|27.79.229.182|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|16|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|17|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|19|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|20|38.52.155.164|999|Colombia|Bogotá|Giga Fibra SAS|
 
 
 
