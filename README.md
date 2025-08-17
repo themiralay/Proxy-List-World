@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|8.209.249.89|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|4|182.52.66.16|8080|Thailand|Bangkok|TOT Public Company Limited|
-|5|23.239.111.194|8080|United States|Salt Lake City|GorillaServers, Inc.|
+|2|103.16.118.78|1080|Indonesia|Madiun|CV Trustnet Media|
+|3|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|8.209.249.89|3128|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|12|157.10.89.203|8880|Indonesia|Depok|PT Infonusa Teknologi Telekomunikasi Nusantara|
-|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|14|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|19|23.239.111.194|8080|United States|Salt Lake City|GorillaServers, Inc.|
-|20|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|23.239.111.194|8080|United States|Salt Lake City|GorillaServers, Inc.|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|12|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|16|23.239.111.194|8080|United States|Salt Lake City|GorillaServers, Inc.|
+|17|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
+|18|173.209.63.68|8216|Canada|Montreal|GloboTech Communications|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|103.211.26.94|80|Indonesia|Madiun|PT Olean Permata Telematika|
 
 
 
