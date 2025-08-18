@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|27.79.208.40|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|27.79.132.241|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|112.204.118.221|8080|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|5|42.119.167.41|16000|Vietnam|Hanoi|FPT Telecom Company|
-|6|42.119.167.40|16000|Vietnam|Hanoi|FPT Telecom Company|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|27.79.141.87|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|27.79.147.131|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|14|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|15|202.232.52.162|8080|Japan|Ōita|Internet Initiative Japan Inc.|
-|16|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|17|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|19|27.79.211.140|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|23.239.111.194|8080|United States|Salt Lake City|GorillaServers, Inc.|
+|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|5|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|6|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|7|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|8|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|9|27.79.176.68|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|42.118.1.72|16000|Vietnam|Hanoi|FPT Telecom Company|
+|11|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|38.194.246.34|999|Mexico|León|Cogent Communications|
+|14|45.174.95.142|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|15|167.172.49.33|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|18.188.141.177|8834|United States|Dublin|Amazon.com, Inc.|
+|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|19|18.188.141.177|8834|United States|Dublin|Amazon.com, Inc.|
+|20|23.239.111.194|8080|United States|Salt Lake City|GorillaServers, Inc.|
 
 
 
