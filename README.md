@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|3|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|11|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|13|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|14|51.159.159.73|80|France|Paris|SCALEWAY|
-|15|164.163.42.52|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|164.163.42.56|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|164.163.42.22|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|164.163.42.43|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|20|164.163.42.29|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|2|27.79.178.6|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|27.71.139.208|16000|Vietnam|Bảo Lộc|Viettel Group|
+|4|27.79.132.13|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|8|27.79.176.68|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|10|27.79.193.128|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|14|42.118.24.188|16000|Vietnam|Hanoi|FPT Telecom Company|
+|15|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|16|49.156.44.115|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|18|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|19|38.41.1.160|999|Venezuela|Caracas|MDS TELECOM C.A.|
+|20|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
 
 
 
