@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|27.79.141.87|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|42.119.98.66|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
 |4|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|5|42.119.98.66|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|58.186.162.58|16000|Vietnam|Hanoi|FPT Telecom Company|
-|10|118.68.159.131|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|17|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|10|47.252.81.108|8118|United States|Charlottesville|Alibaba Cloud LLC|
+|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|14|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|15|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|16|52.193.148.177|9551|Japan|Tokyo|Amazon Technologies Inc.|
+|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
 |18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|20|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|19|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
