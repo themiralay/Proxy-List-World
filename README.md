@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|27.79.178.6|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|27.71.139.208|16000|Vietnam|Bảo Lộc|Viettel Group|
-|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|45.174.95.142|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|12|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|13|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|14|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|1|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|7|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|8|51.159.159.73|80|France|Paris|SCALEWAY|
+|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|10|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|11|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|45.174.95.142|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|14|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
 |15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|17|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|18|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|19|27.79.193.128|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|27.71.129.110|16000|Vietnam|Bảo Lộc|Viettel Group|
+|16|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|17|27.71.129.110|16000|Vietnam|Bảo Lộc|Viettel Group|
+|18|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|19|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|20|95.47.239.75|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
 
 
 
