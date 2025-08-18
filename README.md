@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|222.108.89.158|3128|South Korea|Guro-gu|Korea Telecom|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|27.71.139.208|16000|Vietnam|Bảo Lộc|Viettel Group|
-|8|157.20.239.223|8080|Indonesia|Buduran|PT Era Network Indonesia|
-|9|49.49.26.153|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|11|27.79.141.87|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|13|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|14|213.176.66.76|8080|France|Paris|Aeza International LTD|
-|15|103.18.232.85|8080|Indonesia|Demak|PT JARINGANKU SARANA NUSANTARA|
-|16|125.24.202.147|8080|Thailand|Bangkok|TOT Public Company Limited|
-|17|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|18|160.20.128.19|1080|Indonesia|Cirebon|PT ASTI DIGITAL INDONESIA|
-|19|103.50.25.37|8080|Indonesia|Bandar Lampung|PT. MERAH PUTIH TELEMATIKA|
+|3|42.118.1.72|16000|Vietnam|Hanoi|FPT Telecom Company|
+|4|42.113.20.12|16000|Vietnam|Hanoi|FPT Telecom Company|
+|5|58.186.162.58|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|27.79.202.13|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|27.79.141.87|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|10|27.71.139.208|16000|Vietnam|Bảo Lộc|Viettel Group|
+|11|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|213.176.66.76|8080|France|Paris|Aeza International LTD|
+|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|18|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|19|52.193.148.177|9551|Japan|Tokyo|Amazon Technologies Inc.|
 |20|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
 
 
