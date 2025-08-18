@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.71.139.208|16000|Vietnam|Bảo Lộc|Viettel Group|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|27.79.132.13|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|6|27.79.193.128|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
-|10|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|11|171.247.151.218|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|16|45.175.155.15|999|Argentina|Río Segundo|Albornoz Guido Ruben|
-|17|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|1|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|2|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|13|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|17|40.192.27.104|8080|India|Hyderabad|Amazon.com, Inc.|
 |18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|152.53.194.55|21609|United States|Reston|netcup GmbH|
-|20|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
+|19|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|20|152.53.194.55|21609|United States|Reston|netcup GmbH|
 
 
 
