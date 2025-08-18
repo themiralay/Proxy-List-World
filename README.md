@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|62.72.43.5|8118|India|Mumbai|Contabo Asia Private Limited|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|11|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|13|42.118.1.72|16000|Vietnam|Hanoi|FPT Telecom Company|
-|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|15|50.200.166.130|8080|United States|Cranbury|Comcast Cable Communications|
-|16|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|17|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|18|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|19|27.79.176.68|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|27.79.132.241|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|3|27.71.143.244|16000|Vietnam|Bảo Lộc|Viettel Group|
+|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|6|42.119.167.40|16000|Vietnam|Hanoi|FPT Telecom Company|
+|7|27.79.176.68|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|9|42.118.2.137|16000|Vietnam|Hanoi|FPT Telecom Company|
+|10|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|11|42.119.167.41|16000|Vietnam|Hanoi|FPT Telecom Company|
+|12|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|13|40.192.27.104|8080|India|Hyderabad|Amazon.com, Inc.|
+|14|42.118.24.188|16000|Vietnam|Hanoi|FPT Telecom Company|
+|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|27.71.139.208|16000|Vietnam|Bảo Lộc|Viettel Group|
+|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|42.118.1.72|16000|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
