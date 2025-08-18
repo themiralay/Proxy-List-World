@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|12|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|9|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|10|51.159.159.73|80|France|Paris|SCALEWAY|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|13|103.179.252.74|8181|Indonesia|Bandilan Krajan|PT Pusaka Kreasi Mandiri|
+|14|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |16|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|18|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|19|186.96.70.5|999|Venezuela|Caracas|Gold Data USA Inc|
-|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|17|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|18|40.192.110.77|51773|India|Hyderabad|Amazon.com, Inc.|
+|19|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|20|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
 
 
 
