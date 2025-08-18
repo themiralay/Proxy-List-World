@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|3|216.195.100.56|3129|United States|Fort Worth|Belwave Communications|
-|4|216.195.100.57|3129|United States|Fort Worth|Belwave Communications|
-|5|216.195.100.58|3129|United States|Fort Worth|Belwave Communications|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|8|216.195.100.57|3129|United States|Fort Worth|Belwave Communications|
-|9|216.195.100.58|3129|United States|Fort Worth|Belwave Communications|
-|10|216.195.100.56|3129|United States|Fort Worth|Belwave Communications|
-|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|6|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|27.79.178.6|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|11|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|12|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
 |13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|15|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|17|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|18|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|20|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|15|216.195.100.58|3129|United States|Fort Worth|Belwave Communications|
+|16|216.195.100.56|3129|United States|Fort Worth|Belwave Communications|
+|17|216.195.100.58|3129|United States|Fort Worth|Belwave Communications|
+|18|216.195.100.57|3129|United States|Fort Worth|Belwave Communications|
+|19|216.195.100.56|3129|United States|Fort Worth|Belwave Communications|
+|20|185.142.131.113|8080|Portugal|Caldas da Rainha|LigaT Telecom Sociedade Unipessoal LDA|
 
 
 
