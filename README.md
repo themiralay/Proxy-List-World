@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|4|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|5|52.193.148.177|9551|Japan|Tokyo|Amazon Technologies Inc.|
-|6|42.118.2.137|16000|Vietnam|Hanoi|FPT Telecom Company|
-|7|27.79.211.140|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|9|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|10|27.79.163.45|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|12|139.59.228.95|8118|Singapore|Singapore|DIGITALOCEAN|
-|13|27.79.176.68|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|27.71.143.244|16000|Vietnam|Bảo Lộc|Viettel Group|
-|16|18.188.141.177|8834|United States|Dublin|Amazon.com, Inc.|
-|17|37.187.109.70|10111|France|Roubaix|OVH SAS|
-|18|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
-|19|173.209.63.68|8174|Canada|Montreal|GloboTech Communications|
-|20|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|2|27.79.208.40|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|27.79.141.87|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|27.79.132.241|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.211.140|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|42.119.167.40|16000|Vietnam|Hanoi|FPT Telecom Company|
+|7|42.118.1.72|16000|Vietnam|Hanoi|FPT Telecom Company|
+|8|42.118.2.137|16000|Vietnam|Hanoi|FPT Telecom Company|
+|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|10|27.79.176.68|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|14|42.118.24.188|16000|Vietnam|Hanoi|FPT Telecom Company|
+|15|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|16|40.192.27.104|8080|India|Hyderabad|Amazon.com, Inc.|
+|17|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|18|27.79.206.211|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|20|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
 
 
 
