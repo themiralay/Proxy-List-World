@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|27.79.178.6|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|27.71.139.208|16000|Vietnam|Bảo Lộc|Viettel Group|
-|5|27.79.176.68|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|27.79.132.13|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|42.118.24.188|16000|Vietnam|Hanoi|FPT Telecom Company|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|13|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|15|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|16|51.159.159.73|80|France|Paris|SCALEWAY|
-|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|19|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
-|20|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|8|216.195.100.57|3129|United States|Fort Worth|Belwave Communications|
+|9|216.195.100.56|3129|United States|Fort Worth|Belwave Communications|
+|10|216.195.100.57|3129|United States|Fort Worth|Belwave Communications|
+|11|216.195.100.58|3129|United States|Fort Worth|Belwave Communications|
+|12|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|13|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|17|216.195.100.56|3129|United States|Fort Worth|Belwave Communications|
+|18|216.195.100.58|3129|United States|Fort Worth|Belwave Communications|
+|19|27.79.176.68|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
