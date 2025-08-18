@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|12|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|16|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|11|184.105.182.254|3128|United States|Gilroy|Hurricane Electric LLC|
+|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|15|27.79.193.128|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
 |17|95.164.113.232|2828|Finland|Helsinki|PQ HOSTING PLUS S.R.L.|
-|18|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|20|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
 
 
 
