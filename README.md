@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
-|11|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|14|45.136.49.130|8118|The Netherlands|Amsterdam|Scalaxy B.V.|
-|15|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|16|65.38.213.154|8881|Puerto Rico|San Juan|AT&T Mobility Puerto Rico|
-|17|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|19|31.193.193.69|1488|Lithuania|Vilnius|Telia Lietuva|
-|20|181.119.103.237|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|6|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|7|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|12|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|16|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|17|27.71.139.208|16000|Vietnam|Bảo Lộc|Viettel Group|
+|18|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|19|43.153.28.68|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|20|43.153.28.68|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
