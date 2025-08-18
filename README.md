@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|27.79.176.68|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|27.79.193.128|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|27.79.178.6|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|27.79.132.13|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|13|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|190.93.102.136|999|Dominican Republic|Santo Domingo Este|Airtime Technology SRL|
-|17|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|168.220.89.95|3128|United States|Chicago|Fly.io, Inc.|
-|20|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|141.11.25.188|3128|Indonesia|Jakarta|PT Industri Kreatif Digital|
+|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|12|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|13|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|17|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
+|18|27.79.132.13|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|20|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
