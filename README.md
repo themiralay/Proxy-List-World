@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|3|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |8|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|9|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|27.71.143.244|16000|Vietnam|Bảo Lộc|Viettel Group|
-|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|103.138.71.133|8085|Indonesia|Rokan|PT Centronet Data Indonesia|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|113.53.61.32|8080|Thailand|Chon Buri|TOT Public Company Limited|
-|20|190.94.212.82|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|27.71.139.208|16000|Vietnam|Bảo Lộc|Viettel Group|
+|13|52.193.148.177|9551|Japan|Tokyo|Amazon Technologies Inc.|
+|14|45.189.252.57|999|Mexico|Tlalixcoyan|Tracered SA De CV|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|19|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
+|20|165.154.36.27|10080|United States|Los Angeles|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 
 
 
