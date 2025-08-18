@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|142.93.252.198|3128|United States|North Bergen|DigitalOcean, LLC|
+|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |5|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|6|112.216.83.10|3128|South Korea|Siheung-si|LG DACOM Corporation|
-|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|8|142.93.252.198|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|12|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|13|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|14|185.41.152.110|3128|France|Valenciennes|global|
-|15|40.192.27.104|8080|India|Hyderabad|Amazon.com, Inc.|
-|16|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|18|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|6|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|185.41.152.110|3128|France|Valenciennes|global|
+|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|11|18.188.141.177|8834|United States|Dublin|Amazon.com, Inc.|
+|12|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|13|40.192.110.77|51773|India|Hyderabad|Amazon.com, Inc.|
+|14|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|15|38.52.135.65|8080|Paraguay|Ciudad del Este|GIG@NET SOCIEDAD ANONIMA|
+|16|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
+|17|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
 
 
 
