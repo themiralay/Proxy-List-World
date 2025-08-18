@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|10|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|11|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|9|42.118.1.72|16000|Vietnam|Hanoi|FPT Telecom Company|
+|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |12|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|13|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|14|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|15|42.118.2.137|16000|Vietnam|Hanoi|FPT Telecom Company|
-|16|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|18|157.20.253.43|8989|Indonesia|Jakarta|PT.Global Media Data Prima|
-|19|43.153.28.68|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|20|200.125.168.57|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|13|103.171.31.11|8080|Indonesia|Bekasi|MORATELINDONAP|
+|14|157.100.56.46|999|Ecuador|Cumbaratza|Ufinet Panama S.A.|
+|15|27.79.176.68|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|18|103.132.52.32|8080|Indonesia|Wiradesa|PT Adeaksa Indo Jayatama|
+|19|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|20|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
