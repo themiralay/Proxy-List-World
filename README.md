@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|42.118.24.188|16000|Vietnam|Hanoi|FPT Telecom Company|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
 |5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |7|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|112.216.83.10|3128|South Korea|Siheung-si|LG DACOM Corporation|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|12|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|13|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|10|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|11|27.79.176.68|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|13|18.188.141.177|8834|United States|Dublin|Amazon.com, Inc.|
 |14|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|15|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|16|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
-|17|152.53.194.46|8065|United States|Reston|netcup GmbH|
-|18|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|19|27.71.129.110|16000|Vietnam|Bảo Lộc|Viettel Group|
+|15|27.79.178.6|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|17|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|18|103.178.42.23|8181|Indonesia|Jakarta Pusat|PT Jaring Solusi Persada|
+|19|186.159.125.34|8080|Argentina|San Juan|XF Comunicaciones S.A.|
 |20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
