@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|42.118.2.137|16000|Vietnam|Hanoi|FPT Telecom Company|
-|5|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|42.118.2.137|16000|Vietnam|Hanoi|FPT Telecom Company|
 |6|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|7|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|9|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |10|42.118.1.72|16000|Vietnam|Hanoi|FPT Telecom Company|
-|11|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|12|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|13|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|11|27.71.139.208|16000|Vietnam|Bảo Lộc|Viettel Group|
+|12|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |14|52.193.148.177|9551|Japan|Tokyo|Amazon Technologies Inc.|
-|15|42.118.24.188|16000|Vietnam|Hanoi|FPT Telecom Company|
-|16|40.192.27.104|8080|India|Hyderabad|Amazon.com, Inc.|
-|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|202.93.245.54|8080|Indonesia|Medokanayu|DWPNAP|
-|20|45.163.238.254|8080|Brazil|Itaipava do Grajaú|Intercol Serv de Aux a Internet eireli Me|
+|15|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|18|72.10.160.172|23235|Canada|Montreal|GloboTech Communications|
+|19|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
+|20|147.28.240.214|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
