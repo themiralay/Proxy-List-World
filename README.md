@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75016** proxies at the latest update. Usable proxies are below.
+> Scraper found **75036** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35600|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35620|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|8|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38182|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|5|27.71.143.244|16000|Vietnam|Bảo Lộc|Viettel Group|
-|6|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|7|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|9|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|27.79.176.68|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|13|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
-|16|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|2|27.79.141.87|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|27.71.139.208|16000|Vietnam|Bảo Lộc|Viettel Group|
+|4|27.71.143.244|16000|Vietnam|Bảo Lộc|Viettel Group|
+|5|27.79.176.68|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|42.118.2.137|16000|Vietnam|Hanoi|FPT Telecom Company|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|11|27.79.225.155|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|13|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
+|14|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
 |17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|18.188.141.177|8834|United States|Dublin|Amazon.com, Inc.|
-|19|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|20|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|19|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|20|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
 
 
 
