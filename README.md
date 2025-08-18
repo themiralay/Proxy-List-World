@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|125.24.202.147|8080|Thailand|Bangkok|TOT Public Company Limited|
-|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|10|27.79.202.13|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|222.108.89.158|3128|South Korea|Guro-gu|Korea Telecom|
+|3|42.113.20.12|16000|Vietnam|Hanoi|FPT Telecom Company|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|58.186.162.58|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|118.68.159.131|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |11|213.176.66.76|8080|France|Paris|Aeza International LTD|
-|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|13|202.5.60.205|8080|Bangladesh|Sonargaon|BBTS-NEW|
-|14|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
-|15|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|16|177.12.91.194|999|Chile|San Carlos|AKY TELECOM SPA|
-|17|194.62.54.253|3128|Turkey|Istanbul|VERA BYTE Telekomunikasyon Anonim Sirketi|
-|18|117.6.61.12|16000|Vietnam|Hanoi|VIETTEL|
-|19|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|20|125.25.31.226|8080|Thailand|Bangkok|TOT Public Company Limited|
+|12|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
+|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|15|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|16|194.62.54.253|3128|Turkey|Istanbul|VERA BYTE Telekomunikasyon Anonim Sirketi|
+|17|27.71.143.244|16000|Vietnam|Bảo Lộc|Viettel Group|
+|18|160.20.128.7|1080|Indonesia|Cirebon|PT ASTI DIGITAL INDONESIA|
+|19|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|20|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
 
 
 
