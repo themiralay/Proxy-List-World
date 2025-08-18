@@ -42,22 +42,22 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|141.11.25.188|3128|Indonesia|Jakarta|PT Industri Kreatif Digital|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 |9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|11|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|12|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|14|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|18|88.210.38.50|3128|The Netherlands|Amsterdam|Melbikomas UAB|
-|19|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|14|88.210.38.50|3128|The Netherlands|Amsterdam|Melbikomas UAB|
+|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|95.164.113.232|2828|Finland|Helsinki|PQ HOSTING PLUS S.R.L.|
+|17|27.79.178.6|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|19|45.10.161.161|8118|Germany|Karlsruhe|Contabo GmbH|
 |20|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
 
 
