@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|27.79.202.12|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|158.69.185.37|3129|Canada|Montreal|OVH SAS|
 |3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|152.53.194.46|8065|United States|Reston|netcup GmbH|
-|8|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|9|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|10|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|12|42.118.225.233|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|42.117.243.72|16000|Vietnam|Hanoi|FPT Telecom Company|
-|18|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|19|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|20|61.91.202.211|8080|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
+|4|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|7|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|10|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|11|18.188.141.177|8834|United States|Dublin|Amazon.com, Inc.|
+|12|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|13|186.31.197.103|8080|Colombia|Bogotá|ETB - Colombia|
+|14|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|16|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
+|17|58.186.92.112|16000|Vietnam|Hanoi|FPT Telecom Company|
+|18|16.51.157.105|57998|Australia|Melbourne|Amazon.com|
+|19|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|20|147.28.240.214|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
