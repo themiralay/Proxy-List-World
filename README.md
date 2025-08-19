@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|139.59.228.95|8118|Singapore|Singapore|DIGITALOCEAN|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|7|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|113.22.78.41|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|23.239.111.194|8080|United States|Salt Lake City|GorillaServers, Inc.|
-|12|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|13|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|14|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|16|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|17|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
-|18|58.186.92.92|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|2|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|23.239.111.194|8080|United States|Salt Lake City|GorillaServers, Inc.|
+|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|9|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|11|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
+|14|42.113.21.188|16000|Vietnam|Hanoi|FPT Telecom Company|
+|15|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|16|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |20|51.79.99.237|4502|Canada|Montreal|OVH SAS|
 
 
