@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|14|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|16|103.81.175.218|28022|Bangladesh|Chittagong|ADN Telecom Ltd.|
-|17|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
-|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|16.51.157.105|57998|Australia|Melbourne|Amazon.com|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|103.70.93.70|8080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
+|7|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|8|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|40.192.27.104|8080|India|Hyderabad|Amazon.com, Inc.|
+|14|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|15|18.188.141.177|8834|United States|Dublin|Amazon.com, Inc.|
+|16|89.109.23.80|3128|Russia|Kstovo|PJSC Rostelecom|
+|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|18|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|19|65.38.213.154|8881|Puerto Rico|San Juan|AT&T Mobility Puerto Rico|
 |20|194.62.54.253|3128|Turkey|Istanbul|VERA BYTE Telekomunikasyon Anonim Sirketi|
 
 
