@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|3|209.121.164.50|31147|Canada|Burnaby|TELUS Communications Inc.|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|209.121.164.51|31147|Canada|Burnaby|TELUS Communications Inc.|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|43.128.73.75|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|23.239.111.194|8080|United States|Salt Lake City|GorillaServers, Inc.|
-|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|11|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|13|42.119.98.66|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|14|58.186.162.58|16000|Vietnam|Hanoi|FPT Telecom Company|
-|15|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|16|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
-|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|19|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|20|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|2|27.71.139.208|16000|Vietnam|Bảo Lộc|Viettel Group|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|117.6.61.12|16000|Vietnam|Hanoi|VIETTEL|
+|5|118.68.159.131|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|6|27.71.143.244|16000|Vietnam|Bảo Lộc|Viettel Group|
+|7|42.119.98.66|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|8|58.186.162.58|16000|Vietnam|Hanoi|FPT Telecom Company|
+|9|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
+|10|42.113.20.12|16000|Vietnam|Hanoi|FPT Telecom Company|
+|11|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|12|118.71.173.241|16000|Vietnam|Hanoi|FPT|
+|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|14|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|15|27.79.141.87|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|18|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|19|42.118.1.72|16000|Vietnam|Hanoi|FPT Telecom Company|
+|20|23.239.111.194|8080|United States|Salt Lake City|GorillaServers, Inc.|
 
 
 
