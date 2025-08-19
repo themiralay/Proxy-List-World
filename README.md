@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|4|27.79.202.12|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|8|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|9|118.71.172.48|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|10|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|11|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|14|152.53.194.46|8065|United States|Reston|netcup GmbH|
-|15|58.186.92.92|16000|Vietnam|Hanoi|FPT Telecom Company|
-|16|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|17|113.22.78.41|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|18|42.117.243.72|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|38.54.93.178|1194|Cambodia|Phnom Penh|Kaopu Cloud HK Limited|
-|20|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|27.79.202.12|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|7|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|8|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|15|152.53.194.46|8065|United States|Reston|netcup GmbH|
+|16|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|17|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|18|38.54.93.178|1194|Cambodia|Phnom Penh|Kaopu Cloud HK Limited|
+|19|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|20|128.140.113.110|5153|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
