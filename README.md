@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|42.119.98.66|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|160.191.180.202|8999|Indonesia|Purworejo|PT.Global Media Data Prima|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|9|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|15|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|17|118.68.159.131|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|20|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|2|171.237.89.134|10027|Vietnam|Hanoi|Viettel Corporation|
+|3|42.113.21.89|16000|Vietnam|Hanoi|FPT Telecom Company|
+|4|1.53.31.51|1452|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|5|171.237.85.9|1452|Vietnam|Hanoi|Viettel Corporation|
+|6|42.113.21.188|16000|Vietnam|Hanoi|FPT Telecom Company|
+|7|58.186.92.92|16000|Vietnam|Hanoi|FPT Telecom Company|
+|8|42.117.243.72|16000|Vietnam|Hanoi|FPT Telecom Company|
+|9|1.54.82.69|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|10|27.79.236.217|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|103.55.224.12|8181|Indonesia|Karawang|PT Gapura Era Digital|
+|12|103.55.224.18|8181|Indonesia|Karawang|PT Gapura Era Digital|
+|13|42.118.225.233|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|14|113.160.224.236|1452|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|58.186.92.112|16000|Vietnam|Hanoi|FPT Telecom Company|
+|16|202.93.247.50|8082|Indonesia|Wedoro|PT. Dutakom Wibawa Putra|
+|17|203.205.33.131|1452|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|18|113.22.78.41|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|19|103.145.34.178|1111|Indonesia|Umbulan Tebingsuluh|PT Lintas Data Multimedia|
+|20|115.72.166.107|10019|Vietnam|Ho Chi Minh City|VIETELmetro|
 
 
 
