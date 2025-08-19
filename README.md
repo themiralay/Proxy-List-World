@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|42.118.1.72|16000|Vietnam|Hanoi|FPT Telecom Company|
+|2|42.113.20.12|16000|Vietnam|Hanoi|FPT Telecom Company|
 |3|42.119.98.66|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
 |4|118.68.159.131|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|5|117.6.61.12|16000|Vietnam|Hanoi|VIETTEL|
-|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|27.71.143.244|16000|Vietnam|Bảo Lộc|Viettel Group|
-|9|202.154.18.172|8082|Indonesia|Babat|DIGITNET|
-|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|11|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|139.59.228.95|8118|Singapore|Singapore|DIGITALOCEAN|
-|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|15|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|16|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
-|17|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|19|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|20|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|8|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|9|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|10|27.71.139.208|16000|Vietnam|Bảo Lộc|Viettel Group|
+|11|223.205.83.172|8081|Thailand|Ko Samui|Triple T Broadband Public Company Limited|
+|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|13|113.160.132.195|8080|Vietnam|Vĩnh Yên|VietNam Post and Telecom Corporation|
+|14|14.225.3.194|3128|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|17|38.199.65.97|999|Colombia|Bogotá|TV COLOMBIA DIGITAL SAS|
+|18|194.62.54.253|3128|Turkey|Istanbul|VERA BYTE Telekomunikasyon Anonim Sirketi|
+|19|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|20|200.174.198.86|8888|Brazil|São Paulo|Claro S.A|
 
 
 
