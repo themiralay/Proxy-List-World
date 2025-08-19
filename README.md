@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|58.186.92.92|16000|Vietnam|Hanoi|FPT Telecom Company|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|171.228.160.103|1001|Vietnam|Hanoi|Viettel Corporation|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|42.118.0.37|16000|Vietnam|Hanoi|FPT Telecom Company|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|34.172.108.175|3128|United States|Council Bluffs|Google LLC|
 |11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|14|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|12|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|13|20.13.34.208|8118|Netherlands|Amsterdam|Microsoft Corporation|
+|14|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|195.154.113.159|3128|France|Paris|Online S.A.S.|
+|20|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
 
 
 
