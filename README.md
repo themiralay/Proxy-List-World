@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|113.22.78.41|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|8|42.113.21.188|16000|Vietnam|Hanoi|FPT Telecom Company|
-|9|42.118.0.37|16000|Vietnam|Hanoi|FPT Telecom Company|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|58.186.92.92|16000|Vietnam|Hanoi|FPT Telecom Company|
-|12|42.113.21.89|16000|Vietnam|Hanoi|FPT Telecom Company|
-|13|42.118.1.126|16000|Vietnam|Hanoi|FPT Telecom Company|
-|14|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
-|15|42.119.98.66|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|17|58.186.92.112|16000|Vietnam|Hanoi|FPT Telecom Company|
-|18|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|19|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|20|23.239.111.194|8080|United States|Salt Lake City|GorillaServers, Inc.|
+|2|42.119.98.66|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|3|42.113.21.89|16000|Vietnam|Hanoi|FPT Telecom Company|
+|4|42.113.21.188|16000|Vietnam|Hanoi|FPT Telecom Company|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|7|58.186.92.112|16000|Vietnam|Hanoi|FPT Telecom Company|
+|8|23.239.111.194|8080|United States|Salt Lake City|GorillaServers, Inc.|
+|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|10|42.118.1.126|16000|Vietnam|Hanoi|FPT Telecom Company|
+|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|13|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
+|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|16|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|18|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|19|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|20|42.118.0.37|16000|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
