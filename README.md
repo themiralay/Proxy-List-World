@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75051** proxies at the latest update. Usable proxies are below.
+> Scraper found **75079** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35687|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35715|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|22|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38116|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.121.164.51|31147|Canada|Vancouver|TELUS Communications Inc.|
-|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|116.97.6.130|1001|Vietnam|Hanoi|Viettel Corporation|
-|8|23.239.111.194|8080|United States|Salt Lake City|GorillaServers, Inc.|
-|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|14|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|16|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|113.22.78.41|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|3|42.113.21.89|16000|Vietnam|Hanoi|FPT Telecom Company|
+|4|58.186.92.112|16000|Vietnam|Hanoi|FPT Telecom Company|
+|5|42.117.243.72|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|42.119.98.66|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|7|42.113.21.188|16000|Vietnam|Hanoi|FPT Telecom Company|
+|8|42.118.0.37|16000|Vietnam|Hanoi|FPT Telecom Company|
+|9|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|10|42.118.1.126|16000|Vietnam|Hanoi|FPT Telecom Company|
+|11|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|16|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|17|23.239.111.194|8080|United States|Salt Lake City|GorillaServers, Inc.|
 |18|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
-|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|43.128.73.75|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
