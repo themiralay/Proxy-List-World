@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|202.154.18.172|8082|Indonesia|Babat|DIGITNET|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|11|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|14|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|15|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|16|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
-|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|18|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
-|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|20|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|2|47.79.94.34|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|42.119.98.66|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|9|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|10|23.239.111.194|8080|United States|Salt Lake City|GorillaServers, Inc.|
+|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
+|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|15|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|18|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|19|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|20|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
