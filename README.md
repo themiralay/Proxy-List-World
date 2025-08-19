@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|43.128.73.75|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|6|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|9|42.118.1.126|16000|Vietnam|Hanoi|FPT Telecom Company|
-|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|14|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|15|173.209.63.68|8216|Canada|Montreal|GloboTech Communications|
-|16|42.118.1.126|16000|Vietnam|Hanoi|FPT Telecom Company|
-|17|200.70.35.2|8080|Argentina|Lomas de Zamora|Telefonica de Argentina|
-|18|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|19|173.209.63.66|8121|Canada|Montreal|GloboTech Communications|
-|20|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|5|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|6|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|7|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|8|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|10|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|11|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|12|51.195.200.115|31280|United Kingdom|Erith|OVH SAS|
+|13|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|14|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|15|103.81.194.17|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|16|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|17|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|18|103.48.68.67|83|India|Hyderabad|Country Online Services PVT LTD|
+|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
