@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|129.154.227.46|25565|India|Mumbai|Oracle Corporation|
-|5|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|6|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|7|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|8|113.22.78.41|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|9|103.70.93.70|8080|Indonesia|Gianyar|PT. Jinom Network Indonesia|
-|10|194.62.54.253|3128|Turkey|Istanbul|VERA BYTE Telekomunikasyon Anonim Sirketi|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|52.193.148.177|9551|Japan|Tokyo|Amazon Technologies Inc.|
-|13|58.186.92.92|16000|Vietnam|Hanoi|FPT Telecom Company|
-|14|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
-|15|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
-|18|103.158.11.9|32650|Bangladesh|Shariatpur|Ka Kha Computer|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|18.188.141.177|8834|United States|Dublin|Amazon.com, Inc.|
+|2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|42.118.0.37|16000|Vietnam|Hanoi|FPT Telecom Company|
+|4|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|5|42.118.1.126|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|58.186.92.92|16000|Vietnam|Hanoi|FPT Telecom Company|
+|7|42.117.243.72|16000|Vietnam|Hanoi|FPT Telecom Company|
+|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|10|42.113.21.89|16000|Vietnam|Hanoi|FPT Telecom Company|
+|11|42.113.21.188|16000|Vietnam|Hanoi|FPT Telecom Company|
+|12|113.22.78.41|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|15|129.154.227.46|25565|India|Mumbai|Oracle Corporation|
+|16|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|18|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|19|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
