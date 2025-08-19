@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|42.117.243.72|16000|Vietnam|Hanoi|FPT Telecom Company|
-|5|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|103.152.238.53|1080|Indonesia|Cikarang|APRIN|
 |9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|14|65.38.213.154|8881|Puerto Rico|San Juan|AT&T Mobility Puerto Rico|
-|15|47.76.96.202|11112|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|15|52.193.148.177|9551|Japan|Tokyo|Amazon Technologies Inc.|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|160.191.180.236|8080|Indonesia|Purworejo|PT.Global Media Data Prima|
+|18|194.62.54.253|3128|Turkey|Istanbul|VERA BYTE Telekomunikasyon Anonim Sirketi|
 |19|47.251.11.225|3366|United States|Santa Clara|Alibaba Cloud LLC|
-|20|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
