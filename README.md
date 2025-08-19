@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|47.79.94.34|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|180.194.152.136|8888|Philippines|Malaybalay|Philippine Long Distance Telephone Co.|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|9|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
-|10|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|12|42.119.98.66|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|13|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|14|58.186.162.58|16000|Vietnam|Hanoi|FPT Telecom Company|
-|15|42.113.20.12|16000|Vietnam|Hanoi|FPT Telecom Company|
-|16|103.154.146.58|8080|Indonesia|Jakarta|MORATELINDONAP|
-|17|88.210.38.50|3128|The Netherlands|Amsterdam|Melbikomas UAB|
-|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|20|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|42.119.98.66|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|3|58.186.162.58|16000|Vietnam|Hanoi|FPT Telecom Company|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|42.113.20.12|16000|Vietnam|Hanoi|FPT Telecom Company|
+|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|14|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|15|118.68.159.131|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|16|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|17|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|18|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
