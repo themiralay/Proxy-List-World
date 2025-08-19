@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|209.121.164.51|31147|Canada|Vancouver|TELUS Communications Inc.|
 |5|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
-|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|11|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|12|58.186.92.112|16000|Vietnam|Hanoi|FPT Telecom Company|
-|13|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|15|18.188.141.177|8834|United States|Dublin|Amazon.com, Inc.|
-|16|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|58.186.92.92|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|194.62.54.253|3128|Turkey|Istanbul|VERA BYTE Telekomunikasyon Anonim Sirketi|
-|20|190.93.92.134|999|Dominican Republic|Santo Domingo|Airtime Technology SRL|
+|6|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|11|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|13|18.188.141.177|8834|United States|Dublin|Amazon.com, Inc.|
+|14|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|15|42.119.98.66|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|16|194.62.54.253|3128|Turkey|Istanbul|VERA BYTE Telekomunikasyon Anonim Sirketi|
+|17|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
+|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|19|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
