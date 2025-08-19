@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|23.239.111.194|8080|United States|Salt Lake City|GorillaServers, Inc.|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|20.54.244.246|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|8|27.71.139.208|16000|Vietnam|Bảo Lộc|Viettel Group|
-|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|10|118.71.173.241|16000|Vietnam|Hanoi|FPT|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|9|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|10|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|13|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |14|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|15|171.231.175.71|7010|Vietnam|Hanoi|Viettel Corporation|
-|16|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|16|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |17|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
-|18|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|19|58.186.162.58|16000|Vietnam|Hanoi|FPT Telecom Company|
-|20|42.119.98.66|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|18|23.239.111.194|8080|United States|Salt Lake City|GorillaServers, Inc.|
+|19|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|20|51.158.61.240|13128|France|Paris|SCALEWAY|
 
 
 
