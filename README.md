@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.153.80|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|1.52.199.213|16000|Vietnam|Ha Long|FPT Telecom Company|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|160.19.19.122|8090|Indonesia|Kediri|PT Indo Telemedia Solusi|
-|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|8|182.253.109.227|8080|Indonesia|Semarang|Biznet Metronet|
-|9|103.151.226.242|8088|Indonesia|Bandung|URBANACCESS|
-|10|42.112.189.87|16000|Vietnam|Hanoi|FPT Telecom Company|
-|11|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|1|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|2|42.112.189.87|16000|Vietnam|Hanoi|FPT Telecom Company|
+|3|1.52.199.213|16000|Vietnam|Ha Long|FPT Telecom Company|
+|4|157.15.63.37|8080|Indonesia|Malang|PT Anugerah Media Data Nusantara|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|157.15.144.82|8080|Indonesia|Cilacap|PT. INDOTEK SOLUTION NETWORK|
+|7|27.79.153.80|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|27.79.156.79|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|10|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|11|27.79.133.67|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |13|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|14|27.79.133.67|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|27.79.153.46|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|131.72.71.5|40033|Brazil|Euclides da Cunha|TOP NET SERVIÇOS LTDA|
-|20|42.118.0.182|16000|Vietnam|Hanoi|FPT Telecom Company|
+|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|17|27.79.153.46|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|160.19.19.122|8090|Indonesia|Kediri|PT Indo Telemedia Solusi|
+|19|103.151.226.242|8088|Indonesia|Bandung|URBANACCESS|
+|20|160.19.19.113|3125|Indonesia|Jatiroto|PT Indo Telemedia Solusi|
 
 
 
