@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|42.113.20.121|16000|Vietnam|Hanoi|FPT Telecom Company|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
-|5|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
+|2|1.52.199.213|16000|Vietnam|Ha Long|FPT Telecom Company|
+|3|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|42.113.20.121|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|27.71.143.244|16000|Vietnam|Bảo Lộc|Viettel Group|
 |7|68.183.177.167|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|125.103.83.163|8118|Japan|Kasama|UCOM Corp.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|13|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|15|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|16|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
-|17|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|18|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|27.79.205.37|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|42.113.20.12|16000|Vietnam|Hanoi|FPT Telecom Company|
+|10|42.113.21.212|16000|Vietnam|Hanoi|FPT Telecom Company|
+|11|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
+|12|42.118.1.122|16000|Vietnam|Hanoi|FPT Telecom Company|
+|13|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
+|14|27.79.183.224|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|17|103.250.128.8|8082|Indonesia|Cikarang|PT Asri Global Investama|
+|18|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|19|170.78.208.249|999|Mexico|San Juan del Río|Wantelco SAS de CV|
+|20|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 
 
 
