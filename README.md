@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.59.228.95|8118|Singapore|Singapore|DIGITALOCEAN|
-|2|1.52.199.213|16000|Vietnam|Ha Long|FPT Telecom Company|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|27.79.153.80|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|42.118.0.182|16000|Vietnam|Hanoi|FPT Telecom Company|
-|9|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|12|42.112.189.87|16000|Vietnam|Hanoi|FPT Telecom Company|
-|13|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
-|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|103.151.226.242|8088|Indonesia|Bandung|URBANACCESS|
-|18|103.217.224.95|80|Indonesia|Ungaran|PT Nesta Indo Media|
-|19|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|20|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
+|1|42.118.0.182|16000|Vietnam|Hanoi|FPT Telecom Company|
+|2|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
+|3|42.118.1.122|16000|Vietnam|Hanoi|FPT Telecom Company|
+|4|27.79.156.79|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|1.52.199.213|16000|Vietnam|Ha Long|FPT Telecom Company|
+|6|42.112.189.87|16000|Vietnam|Hanoi|FPT Telecom Company|
+|7|42.113.21.212|16000|Vietnam|Hanoi|FPT Telecom Company|
+|8|27.79.153.80|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|42.113.20.19|16000|Vietnam|Hanoi|FPT Telecom Company|
+|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|13|106.0.168.138|8080|Thailand|Pom Prap Sattru Phai|Ministry of Education - EMISC|
+|14|27.79.133.67|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|103.13.234.18|8080|Indonesia|Sintang|PT PT Disafa Cahaya Utama|
+|16|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|17|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|18|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|24.52.33.75|8080|United States|St. George|TDS TELECOM|
+|20|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
 
 
 
