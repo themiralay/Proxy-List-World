@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|42.118.1.122|16000|Vietnam|Hanoi|FPT Telecom Company|
-|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|3|42.113.21.188|16000|Vietnam|Hanoi|FPT Telecom Company|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|42.118.1.122|16000|Vietnam|Hanoi|FPT Telecom Company|
+|3|139.59.228.95|8118|Singapore|Singapore|DIGITALOCEAN|
 |4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|8|23.239.111.194|8080|United States|Salt Lake City|GorillaServers, Inc.|
-|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|14|23.239.111.194|8080|United States|Salt Lake City|GorillaServers, Inc.|
-|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|16|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|17|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
-|18|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
-|19|63.250.32.220|3128|United States|Los Angeles|Namecheap, Inc.|
-|20|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|6|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|11|23.239.111.194|8080|United States|Salt Lake City|GorillaServers, Inc.|
+|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|13|23.239.111.194|8080|United States|Salt Lake City|GorillaServers, Inc.|
+|14|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
+|15|63.250.32.220|3128|United States|Los Angeles|Namecheap, Inc.|
+|16|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|17|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
