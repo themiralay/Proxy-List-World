@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
 |3|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|5|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
-|8|139.162.18.150|3128|Singapore|Singapore|LINODE|
+|4|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|7|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|8|34.124.254.47|8888|Singapore|Singapore|Google LLC|
 |9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|10|42.113.20.12|16000|Vietnam|Hanoi|FPT Telecom Company|
-|11|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|13|42.118.1.122|16000|Vietnam|Hanoi|FPT Telecom Company|
-|14|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
-|15|158.160.134.78|3128|Russia|Moscow|Yandex.Cloud LLC|
-|16|27.79.205.37|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|42.118.0.182|16000|Vietnam|Hanoi|FPT Telecom Company|
-|20|103.191.171.130|1452|Indonesia|Cianjur|PT Sahabat Manjur Grup|
+|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|42.115.74.245|1452|Vietnam|Hanoi|FPT Telecom Company|
+|13|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|14|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
+|15|27.79.153.80|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|103.112.53.211|6314|Bangladesh|Dhaka|Carnival Internet|
+|19|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
