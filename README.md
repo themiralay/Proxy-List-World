@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|9|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
-|10|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|11|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|14|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|4|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|5|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|6|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
+|7|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
+|8|63.250.32.220|3128|United States|Los Angeles|Namecheap, Inc.|
+|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|11|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|12|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
 |16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|18|40.192.110.77|51773|India|Hyderabad|Amazon.com, Inc.|
-|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|63.250.32.220|3128|United States|Los Angeles|Namecheap, Inc.|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|27.79.172.21|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
