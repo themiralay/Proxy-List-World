@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75294** proxies at the latest update. Usable proxies are below.
+> Scraper found **75243** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -29,36 +29,36 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35747|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35769|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|61|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38260|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38187|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|1.52.199.213|16000|Vietnam|Ha Long|FPT Telecom Company|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|139.180.138.188|5555|Singapore|Singapore|SGP VULTR|
 |3|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
 |4|42.113.20.121|16000|Vietnam|Hanoi|FPT Telecom Company|
-|5|42.118.1.122|16000|Vietnam|Hanoi|FPT Telecom Company|
-|6|27.71.143.244|16000|Vietnam|Bảo Lộc|Viettel Group|
-|7|42.113.21.212|16000|Vietnam|Hanoi|FPT Telecom Company|
-|8|42.113.20.12|16000|Vietnam|Hanoi|FPT Telecom Company|
-|9|68.183.177.167|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
-|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|13|27.79.205.37|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|15|103.159.96.73|8080|Indonesia|Kertosono|PT Jinde Grup Indonesia|
-|16|27.79.183.224|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
-|18|103.191.171.130|1452|Indonesia|Cianjur|PT Sahabat Manjur Grup|
-|19|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|20|170.78.208.249|999|Mexico|San Juan del Río|Wantelco SAS de CV|
+|5|68.183.177.167|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|7|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
+|8|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|11|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|13|42.113.21.212|16000|Vietnam|Hanoi|FPT Telecom Company|
+|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|16|42.113.20.12|16000|Vietnam|Hanoi|FPT Telecom Company|
+|17|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|19|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
