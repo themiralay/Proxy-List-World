@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75343** proxies at the latest update. Usable proxies are below.
+> Scraper found **75340** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35817|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35814|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|40|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38260|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|42.113.20.12|16000|Vietnam|Hanoi|FPT Telecom Company|
-|3|42.118.0.182|16000|Vietnam|Hanoi|FPT Telecom Company|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|42.113.21.212|16000|Vietnam|Hanoi|FPT Telecom Company|
-|7|42.113.20.19|16000|Vietnam|Hanoi|FPT Telecom Company|
-|8|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|9|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
-|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|12|42.118.1.122|16000|Vietnam|Hanoi|FPT Telecom Company|
-|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|14|139.59.228.95|8118|Singapore|Singapore|DIGITALOCEAN|
-|15|27.79.174.250|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
-|17|63.250.32.220|3128|United States|Los Angeles|Namecheap, Inc.|
-|18|97.79.251.186|80|United States|Dallas|Spectrum|
-|19|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
-|20|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
+|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|10|63.250.32.220|3128|United States|Los Angeles|Namecheap, Inc.|
+|11|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|13|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|14|27.79.183.224|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
+|16|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|17|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|18|103.39.51.89|8080|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
+|19|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
