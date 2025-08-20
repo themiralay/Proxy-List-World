@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.94.34|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|182.253.109.227|8080|Indonesia|Semarang|Biznet Metronet|
-|4|103.76.148.42|8181|Indonesia|Jakarta|PT. Java Digital Nusantara|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|14|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|15|103.176.96.135|1565|Indonesia|Purwakarta|PT Global Sarana Elektronika|
-|16|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|17|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|18|42.118.1.122|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|11|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|12|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|13|42.118.1.122|16000|Vietnam|Hanoi|FPT Telecom Company|
+|14|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|15|103.191.155.70|8080|Indonesia|Cikampek|PT Ilham Wifi Solution|
+|16|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|17|40.192.27.104|8080|India|Hyderabad|Amazon.com, Inc.|
+|18|179.96.28.58|80|Brazil|Caldas Novas|Megatelecom Telecomunicacoes Ltda|
+|19|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
+|20|38.194.246.34|999|Mexico|Reynosa|Cogent Communications|
 
 
 
