@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|42.112.189.87|16000|Vietnam|Hanoi|FPT Telecom Company|
-|3|42.113.21.212|16000|Vietnam|Hanoi|FPT Telecom Company|
-|4|42.118.0.182|16000|Vietnam|Hanoi|FPT Telecom Company|
-|5|42.118.1.122|16000|Vietnam|Hanoi|FPT Telecom Company|
-|6|42.113.20.19|16000|Vietnam|Hanoi|FPT Telecom Company|
-|7|113.22.250.182|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|8|27.79.133.67|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|1.52.199.213|16000|Vietnam|Ha Long|FPT Telecom Company|
-|10|27.79.207.148|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|27.79.156.79|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|27.79.171.41|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|14|27.79.172.21|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|27.79.177.65|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|17|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|18|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|19|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|20|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|3|113.22.250.182|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|4|42.113.20.19|16000|Vietnam|Hanoi|FPT Telecom Company|
+|5|1.52.199.213|16000|Vietnam|Ha Long|FPT Telecom Company|
+|6|42.113.21.212|16000|Vietnam|Hanoi|FPT Telecom Company|
+|7|27.79.177.65|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|9|42.118.0.182|16000|Vietnam|Hanoi|FPT Telecom Company|
+|10|27.79.133.67|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|27.79.207.148|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|103.39.51.233|8085|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
+|13|42.118.1.122|16000|Vietnam|Hanoi|FPT Telecom Company|
+|14|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|15|181.204.123.70|999|Colombia|Barranquilla|EPM Telecomunicaciones S.A. E.S.P.|
+|16|42.118.178.152|1452|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|17|27.79.156.79|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|27.79.212.136|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|20|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
 
 
 
