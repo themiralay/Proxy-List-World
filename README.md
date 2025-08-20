@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|42.113.20.12|16000|Vietnam|Hanoi|FPT Telecom Company|
-|3|27.79.138.216|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|27.79.205.37|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|27.79.183.224|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|27.79.177.65|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|27.79.190.225|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|10|63.250.32.220|3128|United States|Los Angeles|Namecheap, Inc.|
-|11|27.79.208.57|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|27.79.239.219|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
-|14|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
+|2|27.79.138.216|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|27.79.205.24|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|8|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|9|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|11|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|12|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|13|63.250.32.220|3128|United States|Los Angeles|Namecheap, Inc.|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |15|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
-|16|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|17|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|16|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|17|27.79.239.219|16000|Vietnam|Hanoi|Viettel Corporation|
 |18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|27.79.172.21|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
