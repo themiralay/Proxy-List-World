@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|42.118.1.122|16000|Vietnam|Hanoi|FPT Telecom Company|
-|3|42.118.0.37|16000|Vietnam|Hanoi|FPT Telecom Company|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|42.113.21.188|16000|Vietnam|Hanoi|FPT Telecom Company|
-|7|23.239.111.194|8080|United States|Salt Lake City|GorillaServers, Inc.|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
-|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|14|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
-|15|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|16|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|17|63.250.32.220|3128|United States|Los Angeles|Namecheap, Inc.|
-|18|23.239.111.194|8080|United States|Salt Lake City|GorillaServers, Inc.|
-|19|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|20|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|2|42.118.0.37|16000|Vietnam|Hanoi|FPT Telecom Company|
+|3|42.118.1.122|16000|Vietnam|Hanoi|FPT Telecom Company|
+|4|42.113.21.188|16000|Vietnam|Hanoi|FPT Telecom Company|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|9|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|10|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|11|23.239.111.194|8080|United States|Salt Lake City|GorillaServers, Inc.|
+|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|13|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|14|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|15|23.239.111.194|8080|United States|Salt Lake City|GorillaServers, Inc.|
+|16|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|17|103.19.58.151|8080|Indonesia|Jatibarang|BITSNET|
+|18|63.250.32.220|3128|United States|Los Angeles|Namecheap, Inc.|
+|19|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|20|63.250.32.221|3128|United States|Los Angeles|Namecheap, Inc.|
 
 
 
