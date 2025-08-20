@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|27.79.171.41|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|110.136.52.19|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|5|103.76.148.42|8181|Indonesia|Jakarta|PT. Java Digital Nusantara|
-|6|160.22.206.73|8181|Indonesia|Kalenpring|PT Teradata Bintang Selaras|
-|7|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|2|42.118.0.182|16000|Vietnam|Hanoi|FPT Telecom Company|
+|3|27.79.153.80|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|27.79.156.79|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|1.52.199.213|16000|Vietnam|Ha Long|FPT Telecom Company|
+|6|103.9.190.130|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|7|42.113.21.212|16000|Vietnam|Hanoi|FPT Telecom Company|
 |8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|182.253.109.227|8080|Indonesia|Semarang|Biznet Metronet|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|12|103.9.190.130|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
-|13|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|14|103.158.121.245|8090|Indonesia|Majalengka|CDN|
-|15|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|16|103.184.50.234|4040|Indonesia|Sragen|PT Aktech Digital Solutions|
-|17|103.176.96.135|1565|Indonesia|Purwakarta|PT Global Sarana Elektronika|
-|18|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|19|27.79.149.238|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|9|27.79.133.67|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|11|42.113.20.19|16000|Vietnam|Hanoi|FPT Telecom Company|
+|12|182.253.109.227|8080|Indonesia|Semarang|Biznet Metronet|
+|13|42.118.1.122|16000|Vietnam|Hanoi|FPT Telecom Company|
+|14|42.112.189.87|16000|Vietnam|Hanoi|FPT Telecom Company|
+|15|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|16|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|18|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
 
 
 
