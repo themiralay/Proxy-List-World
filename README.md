@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
 |6|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|7|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|9|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
-|10|27.79.138.216|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|14|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|15|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|16|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|17|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|18|42.113.20.12|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|7|42.113.20.12|16000|Vietnam|Hanoi|FPT Telecom Company|
+|8|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|9|27.79.138.216|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|11|27.79.205.37|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
+|13|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|15|42.118.1.122|16000|Vietnam|Hanoi|FPT Telecom Company|
+|16|42.113.21.212|16000|Vietnam|Hanoi|FPT Telecom Company|
+|17|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|18|171.241.65.86|30027|Vietnam|Hanoi|Viettel Corporation|
+|19|27.79.169.7|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|23.237.210.82|80|United States|Dallas|FDCservers.net|
 
 
 
