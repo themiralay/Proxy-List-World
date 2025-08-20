@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|27.71.143.244|16000|Vietnam|Bảo Lộc|Viettel Group|
-|4|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
-|5|42.113.20.121|16000|Vietnam|Hanoi|FPT Telecom Company|
-|6|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|7|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|42.113.20.12|16000|Vietnam|Hanoi|FPT Telecom Company|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|12|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
-|15|42.113.21.212|16000|Vietnam|Hanoi|FPT Telecom Company|
-|16|52.193.148.177|9551|Japan|Tokyo|Amazon Technologies Inc.|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|42.119.115.86|30072|Vietnam|Hanoi|FPT Telecom Company|
-|20|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|2|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|3|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|10|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|42.113.20.121|16000|Vietnam|Hanoi|FPT Telecom Company|
+|14|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|15|42.113.20.12|16000|Vietnam|Hanoi|FPT Telecom Company|
+|16|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|18|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|19|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|20|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
 
 
 
