@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|9|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|66.228.47.125|110|United States|Cedar Knolls|Akamai Technologies, Inc.|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|66.228.47.125|110|United States|Cedar Knolls|Akamai Technologies, Inc.|
-|15|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|94.68.245.147|8080|Greece|Larissa|OTEnet|
+|14|1.55.197.91|16000|Vietnam|Hanoi|FPT Telecom Company|
+|15|27.76.179.148|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|16|171.252.196.21|8002|Vietnam|Ho Chi Minh City|Viettel Corporation|
 |17|91.236.238.103|8080|Russia|Zelenogorsk|TERICOM Ltd|
 |18|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|19|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|20|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
 
 
 
