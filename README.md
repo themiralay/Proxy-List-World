@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75227** proxies at the latest update. Usable proxies are below.
+> Scraper found **75514** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
 
 ## Sources
 
@@ -32,32 +32,32 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36096|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|38|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|37867|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38154|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|1.52.197.193|16000|Vietnam|Ha Long|Vietnam Internet Network Information Center|
-|4|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|1.52.197.193|16000|Vietnam|Ha Long|Vietnam Internet Network Information Center|
 |5|58.187.70.24|16000|Vietnam|Hanoi|FPT Telecom Company|
-|6|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
-|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|9|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|193.122.197.154|80|United States|Ashburn|Oracle Corporation|
-|13|193.122.197.154|80|United States|Ashburn|Oracle Corporation|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|18|209.121.164.50|31147|Canada|Vancouver|TELUS Communications Inc.|
-|19|209.121.164.51|31147|Canada|Vancouver|TELUS Communications Inc.|
+|6|27.71.140.43|16000|Vietnam|Bảo Lộc|Viettel Group|
+|7|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
+|8|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
+|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|14|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|15|182.160.105.46|14157|Bangladesh|Dhaka|Aamra Networks Limited|
+|16|103.190.120.98|30027|Vietnam|Da Nang|KINGBOND|
+|17|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
 |20|95.47.239.75|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
 
 
