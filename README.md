@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
-|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|103.87.202.18|8181|Indonesia|Lamongan|PT MULTI GUNA SINERGI|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|182.253.109.68|8080|Indonesia|Semarang|Biznet Metronet|
-|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|12|181.78.19.142|999|Colombia|Chivolo|IFX Networks Argentina S.R.L|
-|13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|152.53.194.46|8065|United States|Reston|netcup GmbH|
-|17|27.50.29.166|8085|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|45.174.95.142|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|2|42.119.2.83|16000|Vietnam|Hanoi|FPT Telecom Company|
+|3|1.52.197.193|16000|Vietnam|Ha Long|Vietnam Internet Network Information Center|
+|4|42.117.243.122|16000|Vietnam|Hanoi|FPT Telecom Company|
+|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|6|27.71.143.244|16000|Vietnam|Bảo Lộc|Viettel Group|
+|7|27.79.192.214|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|1.55.197.91|16000|Vietnam|Hanoi|FPT Telecom Company|
+|9|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
+|10|27.79.185.129|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|1.54.77.39|16000|Vietnam|Hải Dương|FPT Telecom Company|
+|12|182.253.109.68|8080|Indonesia|Semarang|Biznet Metronet|
+|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|58.187.70.24|16000|Vietnam|Hanoi|FPT Telecom Company|
+|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|16|27.79.185.79|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|19|45.174.95.142|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|20|152.53.194.46|8065|United States|Reston|netcup GmbH|
 
 
 
