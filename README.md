@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
+|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|182.253.109.68|8080|Indonesia|Semarang|Biznet Metronet|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|15|152.53.194.46|8065|United States|Reston|netcup GmbH|
-|16|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|20|202.93.247.51|8090|Indonesia|Wedoro|PT. Dutakom Wibawa Putra|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|182.253.109.68|8080|Indonesia|Semarang|Biznet Metronet|
+|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|7|152.53.194.46|8065|United States|Reston|netcup GmbH|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|45.174.95.142|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|1.55.197.91|16000|Vietnam|Hanoi|FPT Telecom Company|
+|12|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|13|181.78.19.142|999|Colombia|Chivolo|IFX Networks Argentina S.R.L|
+|14|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
+|15|103.87.202.18|8181|Indonesia|Lamongan|PT MULTI GUNA SINERGI|
+|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|19|181.205.39.235|8080|Colombia|Medellín|Colombia Móvil|
+|20|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
 
 
 
