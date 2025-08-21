@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|12|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|13|115.72.174.93|10024|Vietnam|Ho Chi Minh City|VIETELmetro|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|16|42.117.243.122|16000|Vietnam|Hanoi|FPT Telecom Company|
-|17|1.54.77.39|16000|Vietnam|Hải Dương|FPT Telecom Company|
-|18|42.119.2.83|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|58.187.70.24|16000|Vietnam|Hanoi|FPT Telecom Company|
-|20|27.76.179.148|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|42.119.2.83|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
+|7|1.55.197.91|16000|Vietnam|Hanoi|FPT Telecom Company|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|103.126.87.181|7777|Indonesia|Trucuk|PT. Rasi Bintang Perkasa|
+|12|103.85.53.62|8080|Indonesia|Krajan Ngagel|PT Binerkahan Digital Telco|
+|13|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
+|14|27.79.185.79|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|16|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|17|1.52.197.193|16000|Vietnam|Ha Long|Vietnam Internet Network Information Center|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|18.188.141.177|8834|United States|Dublin|Amazon.com, Inc.|
+|20|27.79.185.129|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
