@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75083** proxies at the latest update. Usable proxies are below.
+> Scraper found **75047** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35894|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35858|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|62|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|37901|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|42.118.3.129|16000|Vietnam|Hanoi|FPT Telecom Company|
-|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|3|27.79.192.214|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|27.79.128.157|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|27.79.185.129|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|118.97.69.163|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|7|157.20.98.63|1111|Indonesia|Jakarta|PT Konnek Jaya Bersama|
-|8|103.187.226.52|8082|Indonesia|Ponorogo|PT Arsya Bintang Nusantara|
-|9|27.71.143.244|16000|Vietnam|Bảo Lộc|Viettel Group|
-|10|42.113.20.12|16000|Vietnam|Hanoi|FPT Telecom Company|
-|11|27.79.228.60|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|13|103.68.214.108|8080|Indonesia|Sepatan|PT Media Grasi Internet|
-|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|15|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|16|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|17|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|19|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|20|1.52.199.213|16000|Vietnam|Ha Long|FPT Telecom Company|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|42.113.20.12|16000|Vietnam|Hanoi|FPT Telecom Company|
+|3|42.118.3.129|16000|Vietnam|Hanoi|FPT Telecom Company|
+|4|27.79.185.129|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.76.179.148|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|6|27.79.192.214|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|27.79.128.157|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|11|27.71.143.244|16000|Vietnam|Bảo Lộc|Viettel Group|
+|12|27.79.174.58|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|14|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|15|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|17|27.79.223.40|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|19|187.190.114.60|999|Mexico|Poza Rica|Total Play Telecomunicaciones SA De CV|
+|20|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
