@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|113.192.31.102|3127|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|8|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|12|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
-|13|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|16|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|17|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|18|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|20|202.57.25.42|8080|Indonesia|Semarang|announced of WINET|
+|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|4|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
+|5|14.185.115.27|10004|Vietnam|Ho Chi Minh City|VNPT|
+|6|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|12|65.38.213.154|8881|Puerto Rico|San Juan|AT&T Mobility Puerto Rico|
+|13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|14|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
+|15|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|16|180.149.232.201|2024|Bangladesh|Gazipur|Digi Jadoo Broadband Ltd|
+|17|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|18|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|19|27.71.140.43|16000|Vietnam|Bảo Lộc|Viettel Group|
+|20|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
 
 
 
