@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
-|4|1.54.77.39|16000|Vietnam|Hải Dương|FPT Telecom Company|
-|5|42.117.243.122|16000|Vietnam|Hanoi|FPT Telecom Company|
-|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|181.78.19.142|999|Colombia|Chivolo|IFX Networks Argentina S.R.L|
-|8|18.188.141.177|8834|United States|Dublin|Amazon.com, Inc.|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|11|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|12|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|13|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|14|8.219.188.145|8118|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|18|58.187.70.24|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|20|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
+|3|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|9|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
+|10|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|13|181.78.19.142|999|Colombia|Chivolo|IFX Networks Argentina S.R.L|
+|14|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|16|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|17|1.54.77.39|16000|Vietnam|Hải Dương|FPT Telecom Company|
+|18|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|19|58.187.70.24|16000|Vietnam|Hanoi|FPT Telecom Company|
+|20|42.119.2.83|16000|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
