@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
-|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|3|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|61.91.251.235|8080|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
-|8|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
-|9|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|10|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|11|171.241.16.98|20056|Vietnam|Hanoi|Viettel Corporation|
-|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|13|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|14|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|15|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|16|27.79.174.58|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
-|18|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|19|27.71.143.244|16000|Vietnam|Bảo Lộc|Viettel Group|
-|20|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|1|182.253.109.68|8080|Indonesia|Semarang|Biznet Metronet|
+|2|123.21.109.173|6591|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|3|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|103.187.86.3|8182|Indonesia|Pinrang|PT Satunol Digital Teknologi|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|1.55.197.91|16000|Vietnam|Hanoi|FPT Telecom Company|
+|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|164.163.42.33|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|1.52.199.213|16000|Vietnam|Ha Long|FPT Telecom Company|
+|16|58.187.70.24|16000|Vietnam|Hanoi|FPT Telecom Company|
+|17|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|19|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|20|1.54.77.39|16000|Vietnam|Hải Dương|FPT Telecom Company|
 
 
 
