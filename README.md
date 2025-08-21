@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|181.78.19.142|999|Colombia|Chivolo|IFX Networks Argentina S.R.L|
-|5|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|7|42.117.243.122|16000|Vietnam|Hanoi|FPT Telecom Company|
-|8|65.38.213.154|8881|Puerto Rico|San Juan|AT&T Mobility Puerto Rico|
-|9|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|10|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
-|11|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|15|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|16|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|17|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|18|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|19|1.55.197.91|16000|Vietnam|Hanoi|FPT Telecom Company|
-|20|102.209.79.230|8080|Kenya|Nairobi|Safhome Fibre Limited|
+|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|3|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|9|181.78.19.142|999|Colombia|Chivolo|IFX Networks Argentina S.R.L|
+|10|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|14|42.119.2.83|16000|Vietnam|Hanoi|FPT Telecom Company|
+|15|103.171.255.60|8080|Indonesia|Sleman|ZKI|
+|16|182.253.40.149|8080|Indonesia|Telengsari|BIZNET|
+|17|157.66.16.36|5568|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|19|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|20|1.55.197.91|16000|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
