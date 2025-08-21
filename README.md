@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|103.156.74.154|1111|Indonesia|Banjar Tengah|PT Trika Global Media|
-|5|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|2|42.119.2.83|16000|Vietnam|Hanoi|FPT Telecom Company|
+|3|58.187.70.24|16000|Vietnam|Hanoi|FPT Telecom Company|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|1.52.197.193|16000|Vietnam|Ha Long|Vietnam Internet Network Information Center|
+|6|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
 |7|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|10|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|11|58.187.70.24|16000|Vietnam|Hanoi|FPT Telecom Company|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|14|42.117.243.122|16000|Vietnam|Hanoi|FPT Telecom Company|
-|15|18.188.141.177|8834|United States|Dublin|Amazon.com, Inc.|
-|16|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|17|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|18|1.52.197.193|16000|Vietnam|Ha Long|Vietnam Internet Network Information Center|
-|19|181.205.39.236|8080|Colombia|Medellín|Colombia Móvil|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
+|9|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|12|181.205.39.236|8080|Colombia|Medellín|Colombia Móvil|
+|13|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|14|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|15|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|16|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|17|49.49.26.153|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|18|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|103.191.196.205|1111|Indonesia|Pamanukan|PT Pangkalan Lintas Data|
 
 
 
