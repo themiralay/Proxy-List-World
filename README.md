@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|11|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|18.188.141.177|8834|United States|Dublin|Amazon.com, Inc.|
-|14|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|66.228.47.125|110|United States|Cedar Knolls|Akamai Technologies, Inc.|
+|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|10|115.72.174.93|10024|Vietnam|Ho Chi Minh City|VIETELmetro|
+|11|66.228.47.125|110|United States|Cedar Knolls|Akamai Technologies, Inc.|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |15|103.112.53.211|6314|Bangladesh|Dhaka|Carnival Internet|
-|16|85.192.63.38|8118|Germany|Frankfurt am Main|Aeza International LTD|
-|17|103.242.105.70|8080|Indonesia|Karangampel|PT Lintas Jaringan Nusantara|
-|18|27.71.143.244|16000|Vietnam|Bảo Lộc|Viettel Group|
-|19|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|27.71.143.244|16000|Vietnam|Bảo Lộc|Viettel Group|
+|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|18|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|19|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|20|27.76.179.148|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
 
 
 
