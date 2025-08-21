@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
-|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|11|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|12|1.52.197.193|16000|Vietnam|Ha Long|Vietnam Internet Network Information Center|
-|13|118.34.4.196|80|South Korea|Nonsan|Korea Telecom|
-|14|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|15|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|16|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|3|47.79.94.34|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|181.205.39.236|8080|Colombia|Medellín|Colombia Móvil|
+|11|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|13|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |17|42.119.2.83|16000|Vietnam|Hanoi|FPT Telecom Company|
-|18|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|19|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|20|58.187.70.24|16000|Vietnam|Hanoi|FPT Telecom Company|
+|18|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|19|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|20|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
 
 
 
