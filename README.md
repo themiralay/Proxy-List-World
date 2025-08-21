@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|58.187.70.24|16000|Vietnam|Hanoi|FPT Telecom Company|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|1.52.197.193|16000|Vietnam|Ha Long|Vietnam Internet Network Information Center|
+|3|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
+|4|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
 |6|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|7|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
-|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|11|27.71.140.43|16000|Vietnam|Bảo Lộc|Viettel Group|
-|12|38.66.206.33|999|Venezuela|Valencia|Wifi-prado C.A|
-|13|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|85.192.63.38|8118|Germany|Frankfurt am Main|Aeza International LTD|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|18|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|19|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|20|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|7|58.187.70.24|16000|Vietnam|Hanoi|FPT Telecom Company|
+|8|1.52.197.193|16000|Vietnam|Ha Long|Vietnam Internet Network Information Center|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|13|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|14|113.192.12.79|3030|Indonesia|Cikarang|PT Parsaoran Global Datatrans|
+|15|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|16|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|17|94.182.146.250|8080|Iran|Tehran|Aria Shatel PJSC|
+|18|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|19|40.192.110.77|51773|India|Hyderabad|Amazon.com, Inc.|
+|20|202.58.77.77|1111|Indonesia|Tawangrejo|PT Data Buana Nusantara|
 
 
 
