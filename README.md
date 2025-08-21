@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|202.137.14.57|8085|Indonesia|Tangerang|customer in Corporate Access|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|103.189.197.179|3030|Indonesia|Cirebon|PT Graha Sumber Teknologi|
-|13|180.149.232.201|2024|Bangladesh|Gazipur|Digi Jadoo Broadband Ltd|
-|14|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|15|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|16|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|17|58.187.70.24|16000|Vietnam|Hanoi|FPT Telecom Company|
-|18|203.128.78.107|1452|Indonesia|Jakarta|Neuviz|
-|19|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|20|129.146.169.173|3128|United States|Phoenix|Oracle Corporation|
+|2|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
+|4|116.98.40.45|1452|Vietnam|Hanoi|Viettel Corporation|
+|5|113.160.224.236|1452|Vietnam|Nha Trang|VietNam Post and Telecom Corporation|
+|6|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|7|103.68.214.32|8181|Indonesia|Sepatan|PT Media Grasi Internet|
+|8|36.50.92.147|8080|Indonesia|Sukamulya|PT Ring Media Nusantara|
+|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|58.187.70.24|16000|Vietnam|Hanoi|FPT Telecom Company|
+|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|13|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|16|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|20|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
 
 
 
