@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|42.118.3.129|16000|Vietnam|Hanoi|FPT Telecom Company|
-|3|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
-|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|103.126.119.142|8181|Indonesia|Tangerang|PT. Media Tekno Nusantara|
-|8|1.52.199.213|16000|Vietnam|Ha Long|FPT Telecom Company|
-|9|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|7|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|8|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|9|27.76.179.148|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|11|187.190.114.60|999|Mexico|Poza Rica|Total Play Telecomunicaciones SA De CV|
 |12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|14|27.79.185.129|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|27.79.228.60|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|17|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|18|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
-|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|20|27.76.179.148|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|14|35.207.235.121|80|India|Mumbai|Google LLC|
+|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|16|190.8.164.245|999|Venezuela|Porlamar|CORPORACION FIBEX TELECOM, C.A.|
+|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|34.0.1.196|80|India|New Delhi|Google LLC|
+|19|157.15.172.30|8080|Indonesia|Kendari|PT Mitra Telekomunikasi Nusantara|
+|20|190.94.213.6|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
 
 
 
