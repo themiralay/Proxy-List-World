@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
-|3|49.147.121.151|8080|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|4|66.175.219.50|3228|United States|Fremont|Akamai Technologies, Inc.|
-|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|6|103.202.226.69|8080|Indonesia|Surabaya|PT Ring Media Nusantara|
-|7|182.253.109.68|8080|Indonesia|Semarang|Biznet Metronet|
-|8|181.78.19.142|999|Colombia|Chivolo|IFX Networks Argentina S.R.L|
-|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|10|103.156.86.130|1080|Indonesia|Watampone|PT Chacha Networking System|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|40.192.110.77|51773|India|Hyderabad|Amazon.com, Inc.|
-|13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|15|45.174.95.142|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|16|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|17|27.79.185.79|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|27.79.185.129|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|12|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|13|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|14|1.52.197.193|16000|Vietnam|Ha Long|Vietnam Internet Network Information Center|
+|15|58.187.70.24|16000|Vietnam|Hanoi|FPT Telecom Company|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|45.175.155.12|999|Argentina|Río Segundo|Albornoz Guido Ruben|
+|18|203.115.123.163|1452|India|Mumbai|PRIMENET|
+|19|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
+|20|67.43.228.253|1025|Canada|Montreal|GloboTech Communications|
 
 
 
