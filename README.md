@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75030** proxies at the latest update. Usable proxies are below.
+> Scraper found **74943** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35799|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|51|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|37954|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|37867|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|3|42.119.2.83|16000|Vietnam|Hanoi|FPT Telecom Company|
-|4|1.55.197.91|16000|Vietnam|Hanoi|FPT Telecom Company|
-|5|58.187.70.24|16000|Vietnam|Hanoi|FPT Telecom Company|
-|6|42.117.243.122|16000|Vietnam|Hanoi|FPT Telecom Company|
-|7|1.52.197.193|16000|Vietnam|Ha Long|Vietnam Internet Network Information Center|
-|8|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
-|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|10|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|1.55.197.91|16000|Vietnam|Hanoi|FPT Telecom Company|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|9|58.187.70.24|16000|Vietnam|Hanoi|FPT Telecom Company|
+|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|15|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
-|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|17|181.78.19.142|999|Colombia|Chivolo|IFX Networks Argentina S.R.L|
-|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|19|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|42.119.2.83|16000|Vietnam|Hanoi|FPT Telecom Company|
+|13|1.52.197.193|16000|Vietnam|Ha Long|Vietnam Internet Network Information Center|
+|14|181.78.19.142|999|Colombia|Chivolo|IFX Networks Argentina S.R.L|
+|15|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|18|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|19|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
+|20|95.47.239.65|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
 
 
 
