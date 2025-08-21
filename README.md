@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|2|171.228.103.194|1007|Vietnam|Hòa Bình|Viettel Corporation|
+|3|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |6|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|7|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
-|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|9|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|11|103.68.214.159|8787|Indonesia|Sepatan|PT Media Grasi Internet|
-|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|16|202.137.14.57|8085|Indonesia|Tangerang|customer in Corporate Access|
-|17|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|18|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|19|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|20|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
+|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|8|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|9|1.52.199.213|16000|Vietnam|Ha Long|FPT Telecom Company|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|190.97.226.130|999|Venezuela|Caracas|Viginet C.A|
+|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|13|27.79.185.129|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|27.79.128.157|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|27.79.174.58|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|103.115.156.142|1452|Bangladesh|Bhātāra|Md. Mamun|
+|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|18|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
