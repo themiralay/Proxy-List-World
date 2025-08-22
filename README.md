@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |4|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
-|5|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|103.124.197.26|8090|Indonesia|Batam|PT INFORMASI NUSANTARA TEKNOLOGI|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|7|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|8|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
+|9|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|31.14.114.72|1081|Iran|Tehran|Afranet Co|
+|14|58.187.70.24|16000|Vietnam|Hanoi|FPT Telecom Company|
 |15|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|16|113.192.12.79|3030|Indonesia|Cikarang|PT Parsaoran Global Datatrans|
-|17|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|18|103.185.250.142|1452|Bangladesh|Sonargaon|L.J Broadband Network|
-|19|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|16|113.23.200.85|8081|Malaysia|Setapak|Extreme Broadband|
+|17|36.50.92.147|8080|Indonesia|Sukamulya|PT Ring Media Nusantara|
+|18|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|19|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|20|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 
 
 
