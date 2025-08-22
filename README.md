@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75413** proxies at the latest update. Usable proxies are below.
+> Scraper found **75522** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35833|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35942|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|45|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38309|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|27.79.166.221|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
-|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|1.55.199.170|16000|Vietnam|Hanoi|FPT Telecom Company|
-|6|27.79.166.50|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|27.79.149.90|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|10|27.71.140.43|16000|Vietnam|Bảo Lộc|Viettel Group|
-|11|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
-|12|27.79.148.130|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|11|103.149.194.30|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
+|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
 |13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|15|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|16|27.79.232.2|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|18|27.79.163.247|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|20|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|14|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|104.238.30.14|63233|Italy|Rome|AkhaliNet LLC|
+|18|104.238.30.16|63231|Italy|Rome|AkhaliNet LLC|
+|19|104.238.30.12|63232|Italy|Rome|AkhaliNet LLC|
+|20|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
 
 
 
