@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|5.188.39.161|1080|Russia|Khabarovsk|EdgeCenter LLC|
-|3|167.179.85.151|80|Japan|Minamishinagawa|The Constant Company, LLC|
-|4|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
-|5|118.68.28.117|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|6|42.118.173.27|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|8|58.186.92.188|16000|Vietnam|Hanoi|FPT Telecom Company|
+|1|5.188.39.161|1080|Russia|Khabarovsk|EdgeCenter LLC|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|118.68.28.117|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|4|42.118.173.27|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
+|7|58.186.92.188|16000|Vietnam|Hanoi|FPT Telecom Company|
+|8|42.113.54.227|16000|Vietnam|Hanoi|FPT Telecom Company|
 |9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|103.122.1.130|8181|Indonesia|Kabupaten Ogan Komering Ilir|PT. Java Digital Nusantara|
-|11|139.59.193.81|8080|Singapore|Singapore|DIGITALOCEAN|
-|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|13|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
-|14|42.113.54.227|16000|Vietnam|Hanoi|FPT Telecom Company|
-|15|103.81.222.219|8080|Indonesia|Bandung|STARNET|
-|16|101.51.76.129|8080|Thailand|Bangkok|TOT Public Company Limited|
-|17|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|18|124.13.224.87|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|19|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
-|20|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|10|116.97.163.181|1001|Vietnam|Tiền Hải|Viettel Corporation|
+|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|12|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
+|13|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|14|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|16|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|17|223.206.57.154|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|18|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
+|19|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
