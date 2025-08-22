@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|7|181.78.19.142|999|Colombia|Chivolo|IFX Networks Argentina S.R.L|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|113.23.157.39|1231|Malaysia|Putrajaya|Extreme Broadband|
-|13|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|14|27.79.216.190|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|103.243.82.26|100|Bangladesh|Cox's Bazar|Aamra Outsourcing Ltd.|
-|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|17|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|27.79.224.213|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|104.238.30.14|63233|Italy|Rome|AkhaliNet LLC|
-|20|104.238.30.12|63232|Italy|Rome|AkhaliNet LLC|
+|3|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|7|27.76.191.154|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|8|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|14|181.143.126.74|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|15|103.82.22.129|10012|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
+|16|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|17|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|18|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|19|27.79.224.213|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|181.78.19.142|999|Colombia|Chivolo|IFX Networks Argentina S.R.L|
 
 
 
