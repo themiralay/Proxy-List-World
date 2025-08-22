@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
-|3|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|2|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|3|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
 |4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|6|42.117.243.76|16000|Vietnam|Hanoi|FPT Telecom Company|
-|7|27.79.216.190|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|9|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|10|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|11|1.52.197.91|16000|Vietnam|Ha Long|Vietnam Internet Network Information Center|
-|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|13|27.76.191.154|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|14|91.121.208.196|5062|France|Roubaix|OVH SAS|
-|15|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|18.188.141.177|8834|United States|Dublin|Amazon.com, Inc.|
-|18|179.96.28.58|80|Brazil|Caldas Novas|Megatelecom Telecomunicacoes Ltda|
-|19|27.71.140.43|16000|Vietnam|Bảo Lộc|Viettel Group|
-|20|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|7|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|8|27.79.166.221|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|12|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|13|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
+|14|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|1.52.197.91|16000|Vietnam|Ha Long|Vietnam Internet Network Information Center|
+|16|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|17|27.79.243.89|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|27.79.216.190|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|20|179.96.28.58|80|Brazil|Caldas Novas|Megatelecom Telecomunicacoes Ltda|
 
 
 
