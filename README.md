@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|171.252.194.235|8002|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
-|8|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|12|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|13|27.147.129.26|5050|Bangladesh|Dhaka|Link3 Technologies Limited|
-|14|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|15|139.162.18.150|3128|Singapore|Singapore|LINODE|
-|16|158.160.134.78|3128|Russia|Moscow|Yandex.Cloud LLC|
-|17|160.22.217.49|8181|Indonesia|Malang|PT Lintas Media Solusindo|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|20|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
+|4|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|5|180.149.232.201|2024|Bangladesh|Gazipur|Digi Jadoo Broadband Ltd|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|27.79.149.90|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|27.79.224.213|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|11|27.79.166.221|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|103.176.96.135|1565|Indonesia|Purwakarta|PT Global Sarana Elektronika|
+|13|103.169.128.158|80|Indonesia|Cirebon|PT Media Akses Data|
+|14|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|27.79.211.97|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|103.245.109.57|39355|Bangladesh|Paltan|ACE IT Networks Limited|
+|17|27.79.244.232|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|27.76.191.154|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|19|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|20|171.228.181.239|1001|Vietnam|Hanoi|Viettel Corporation|
 
 
 
