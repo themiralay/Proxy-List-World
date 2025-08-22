@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75767** proxies at the latest update. Usable proxies are below.
+> Scraper found **75875** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|401|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|401|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|401|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|421|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|421|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|421|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36160|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36268|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|54|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38327|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|3|1.55.193.211|16000|Vietnam|Hanoi|FPT Telecom Company|
-|4|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
-|11|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|12|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
-|13|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|15|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|18|182.253.21.26|46977|Indonesia|Jakarta|Biznet Networks|
-|19|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
-|20|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|2|42.118.173.27|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|3|103.46.186.141|10001|Indonesia|Utan|PT Air Lintas Komunikasi|
+|4|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|5|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|11|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|13|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
+|14|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
+|15|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|16|49.48.144.47|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
+|17|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|18|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|19|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|20|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
 
 
 
