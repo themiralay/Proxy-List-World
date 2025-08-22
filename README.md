@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75714** proxies at the latest update. Usable proxies are below.
+> Scraper found **75709** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36051|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|60|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|55|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38377|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
-|4|27.79.211.97|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|2|27.79.216.190|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|42.117.243.76|16000|Vietnam|Hanoi|FPT Telecom Company|
+|4|27.71.140.43|16000|Vietnam|Bảo Lộc|Viettel Group|
+|5|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
+|6|27.76.191.154|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|7|27.79.245.198|16000|Vietnam|Hanoi|Viettel Corporation|
 |8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|11|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|113.192.12.79|3030|Indonesia|Cikarang|PT Parsaoran Global Datatrans|
-|15|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|16|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|17|27.79.232.2|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|42.117.243.76|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|20|27.79.213.198|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|1.55.199.170|16000|Vietnam|Hanoi|FPT Telecom Company|
+|10|27.79.166.221|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|12|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
+|13|27.79.232.2|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|1.52.197.91|16000|Vietnam|Ha Long|Vietnam Internet Network Information Center|
+|15|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|16|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|17|160.19.18.55|7777|Indonesia|Singosari|PT Indo Telemedia Solusi|
+|18|27.79.149.90|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|20|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
 
 
 
