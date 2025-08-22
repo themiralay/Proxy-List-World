@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|27.79.224.213|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|202.58.77.173|3127|Indonesia|Tawangrejo|PT Data Buana Nusantara|
-|5|27.71.140.43|16000|Vietnam|Bảo Lộc|Viettel Group|
-|6|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
-|7|27.79.213.198|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|27.79.211.97|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|10|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|14|1.52.198.177|16000|Vietnam|Ha Long|Vietnam Internet Network Information Center|
-|15|103.189.251.81|1111|Indonesia|Pasinan Barat|PT Pandawa Lima Java Network|
-|16|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|17|27.79.245.198|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|124.217.42.220|8080|Philippines|Calamba|Philippine Long Distance Telephone Co.|
-|19|14.225.3.194|3128|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|20|42.117.243.76|16000|Vietnam|Hanoi|FPT Telecom Company|
+|2|103.169.128.158|80|Indonesia|Cirebon|PT Media Akses Data|
+|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
+|5|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|157.66.50.147|8080|Indonesia|Karawang|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|10|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|11|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|12|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|13|27.79.243.89|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|1.55.199.170|16000|Vietnam|Hanoi|FPT Telecom Company|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|27.79.149.90|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|203.175.102.162|1111|Indonesia|Kuningan|MITRAKITA|
+|20|103.126.87.220|8082|Indonesia|Trucuk|PT. Rasi Bintang Perkasa|
 
 
 
