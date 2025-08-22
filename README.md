@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75311** proxies at the latest update. Usable proxies are below.
+> Scraper found **75393** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -29,10 +29,10 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35802|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35813|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|47|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38236|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|45|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38309|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|2|27.79.166.221|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|27.79.166.50|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|27.79.148.130|16000|Vietnam|Hanoi|Viettel Corporation|
 |5|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|14|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|15|27.79.166.50|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|17|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|18|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|157.10.97.141|8181|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
+|6|1.55.199.170|16000|Vietnam|Hanoi|FPT Telecom Company|
+|7|27.79.232.2|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|27.79.149.90|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|10|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|13|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|14|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|17|27.71.140.43|16000|Vietnam|Bảo Lộc|Viettel Group|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
 
 
 
