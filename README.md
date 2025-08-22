@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75371** proxies at the latest update. Usable proxies are below.
+> Scraper found **75477** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|340|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|340|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|340|
 
 ## Sources
 
@@ -32,33 +32,33 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35950|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|41|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38154|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38260|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|27.79.149.90|16000|Vietnam|Hanoi|Viettel Corporation|
 |3|1.52.198.177|16000|Vietnam|Ha Long|Vietnam Internet Network Information Center|
-|4|27.79.244.232|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|42.117.243.76|16000|Vietnam|Hanoi|FPT Telecom Company|
-|6|27.79.166.221|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|27.79.149.90|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|1.52.197.91|16000|Vietnam|Ha Long|Vietnam Internet Network Information Center|
-|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|10|27.79.216.190|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|27.79.245.198|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|14|27.76.191.154|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|15|1.55.199.170|16000|Vietnam|Hanoi|FPT Telecom Company|
-|16|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
-|17|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|18|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|19|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|20|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|4|27.79.243.89|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.76.191.154|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|6|27.79.244.232|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|27.79.166.221|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|27.79.224.213|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|27.79.213.198|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
+|12|171.252.194.235|8002|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|14|103.31.235.197|1111|Indonesia|Ciampea|PT Usaha Adi Sanggoro|
+|15|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|16|27.79.216.190|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|1.55.199.170|16000|Vietnam|Hanoi|FPT Telecom Company|
+|18|1.52.197.91|16000|Vietnam|Ha Long|Vietnam Internet Network Information Center|
+|19|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|20|42.117.243.76|16000|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
