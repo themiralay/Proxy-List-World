@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|421|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|421|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|421|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|399|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|399|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|399|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|42.118.173.27|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|3|103.46.186.141|10001|Indonesia|Utan|PT Air Lintas Komunikasi|
-|4|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|5|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|11|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|13|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
-|14|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
-|15|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|16|49.48.144.47|8080|Thailand|Khon Kaen|Triple T Broadband Public Company Limited|
-|17|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|18|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|19|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|20|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|3|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
+|9|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|10|103.191.196.206|8080|Indonesia|Pamanukan|PT Pangkalan Lintas Data|
+|11|103.73.193.133|8080|Indonesia|Serang|Fot PT Kihnabil.net|
+|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|14|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|15|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|17|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|19|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|20|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
 
 
 
