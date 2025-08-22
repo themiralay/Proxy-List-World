@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
+|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|11|103.149.194.30|32650|India|Delhi|Kavya Internet Services Pvt Ltd|
-|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|14|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|104.238.30.14|63233|Italy|Rome|AkhaliNet LLC|
-|18|104.238.30.16|63231|Italy|Rome|AkhaliNet LLC|
-|19|104.238.30.12|63232|Italy|Rome|AkhaliNet LLC|
-|20|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|11|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|12|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|13|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|16|62.201.217.243|40010|Iraq|Sulaymaniyah|BAG|
+|17|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|18|91.187.113.68|8080|Kosovo|Pristina|IPKO Telecommunications LLC|
+|19|103.75.54.230|8080|Indonesia|Cikarang|PT Quantum Tera Network|
+|20|38.156.13.74|999|Colombia|Bogotá|Web Master Colombia|
 
 
 
