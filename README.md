@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|9|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|2|1.55.199.170|16000|Vietnam|Hanoi|FPT Telecom Company|
+|3|42.117.243.76|16000|Vietnam|Hanoi|FPT Telecom Company|
+|4|27.79.149.90|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.232.2|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|27.79.216.190|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|1.52.197.91|16000|Vietnam|Ha Long|Vietnam Internet Network Information Center|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
 |10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|14|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|15|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|16|36.64.214.203|6969|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|17|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|19|45.173.7.10|999|Colombia|Guasca|Liberty Networks De Colombia S.A.S|
-|20|49.12.103.92|8022|Germany|Falkenstein|Hetzner Online GmbH|
+|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|27.76.191.154|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|14|27.79.166.221|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|17|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|18|103.242.105.99|8080|Indonesia|Karangampel|PT Lintas Jaringan Nusantara|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
