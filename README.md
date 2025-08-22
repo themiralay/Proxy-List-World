@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|3|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|4|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|6|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
-|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|8|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|9|154.18.255.55|1080|Indonesia|Karawang|PT Media Solusi Sukses|
-|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|11|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|104.238.30.14|63233|Italy|Rome|AkhaliNet LLC|
-|14|104.238.30.12|63232|Italy|Rome|AkhaliNet LLC|
-|15|104.238.30.16|63231|Italy|Rome|AkhaliNet LLC|
-|16|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|19|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|20|190.217.19.185|999|Colombia|Santiago de Cali|Level 3 Communications, Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|27.79.148.130|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|27.79.166.221|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|7|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|10|1.55.199.170|16000|Vietnam|Hanoi|FPT Telecom Company|
+|11|27.79.245.198|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
+|13|27.79.232.2|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|16|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|27.79.149.90|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|20|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
 
 
 
