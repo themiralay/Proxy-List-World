@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|5|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|11|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|14|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|208.102.24.225|80|United States|Harrison|Fuse Internet Access|
-|18|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|19|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|20|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|8|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|9|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|10|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|18.188.141.177|8834|United States|Dublin|Amazon.com, Inc.|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|15|202.137.14.57|8085|Indonesia|Tangerang|customer in Corporate Access|
+|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|17|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|20|103.144.90.72|8082|Indonesia|Krajan Tengah|BEAT|
 
 
 
