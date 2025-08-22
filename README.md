@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
 |4|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
-|7|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|9|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|10|181.78.19.142|999|Colombia|Chivolo|IFX Networks Argentina S.R.L|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|13|103.214.103.21|8083|Indonesia|Deli Tua|SMARTPLUS|
-|14|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|15|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|16|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|18|18.188.141.177|8834|United States|Dublin|Amazon.com, Inc.|
-|19|27.79.176.107|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
+|5|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
+|6|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|202.58.77.173|3127|Indonesia|Tawangrejo|PT Data Buana Nusantara|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|10|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|11|1.52.197.91|16000|Vietnam|Ha Long|Vietnam Internet Network Information Center|
+|12|181.78.19.142|999|Colombia|Chivolo|IFX Networks Argentina S.R.L|
+|13|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|14|103.169.128.158|80|Indonesia|Cirebon|PT Media Akses Data|
+|15|103.156.140.239|8080|Indonesia|Curahtakir|PT Tekling Media Telematika|
+|16|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|27.79.245.198|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|20|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 
 
 
