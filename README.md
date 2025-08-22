@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|27.79.232.2|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|1.52.197.91|16000|Vietnam|Ha Long|Vietnam Internet Network Information Center|
-|4|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
-|5|27.76.191.154|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|6|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|7|27.71.140.43|16000|Vietnam|Bảo Lộc|Viettel Group|
-|8|27.79.166.221|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|27.79.245.198|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|1.55.199.170|16000|Vietnam|Hanoi|FPT Telecom Company|
-|11|42.117.243.76|16000|Vietnam|Hanoi|FPT Telecom Company|
-|12|27.79.216.190|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|27.79.244.232|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|17|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|18|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
-|19|112.201.237.191|8080|Philippines|Malabon|Philippine Long Distance Telephone Co.|
-|20|27.79.149.90|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
+|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|148.244.178.77|999|Mexico|Jalapa|Alestra, S. de R.L. de C.V.|
+|8|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|9|27.79.211.97|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|11|181.78.19.142|999|Colombia|Chivolo|IFX Networks Argentina S.R.L|
+|12|27.79.232.2|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|14|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|17|27.79.245.198|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|19|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|20|179.96.28.58|80|Brazil|Caldas Novas|Megatelecom Telecomunicacoes Ltda|
 
 
 
