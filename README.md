@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|103.232.20.174|8080|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|5|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|8|103.152.238.89|1080|Indonesia|Cikarang|APRIN|
-|9|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|10|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|11|27.79.245.198|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|13|5.190.36.2|3128|Iran|Bavānāt|Iran Telecommunication Company PJS|
-|14|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|15|65.38.213.154|8881|Puerto Rico|San Juan|AT&T Mobility Puerto Rico|
-|16|27.79.166.221|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|18.188.141.177|8834|United States|Dublin|Amazon.com, Inc.|
-|18|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|19|181.78.19.142|999|Colombia|Chivolo|IFX Networks Argentina S.R.L|
-|20|216.195.100.60|3129|United States|Fort Worth|Belwave Communications|
+|4|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
+|5|181.78.19.142|999|Colombia|Chivolo|IFX Networks Argentina S.R.L|
+|6|42.117.243.76|16000|Vietnam|Hanoi|FPT Telecom Company|
+|7|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|8|169.63.230.181|8081|United States|Dallas|SoftLayer|
+|9|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|10|18.188.141.177|8834|United States|Dublin|Amazon.com, Inc.|
+|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|31.14.114.67|1081|Iran|Tehran|Afranet Co|
+|14|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|15|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|16|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|17|154.73.28.79|8080|Libya|Tripoli|Rawafed|
+|18|18.188.141.177|8834|United States|Dublin|Amazon.com, Inc.|
+|19|27.79.166.221|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 
 
 
