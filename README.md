@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|171.228.181.239|1001|Vietnam|Hanoi|Viettel Corporation|
-|3|171.252.194.235|8002|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|4|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
-|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|6|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|10|157.20.236.8|3128|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|11|27.147.129.26|5050|Bangladesh|Dhaka|Link3 Technologies Limited|
-|12|202.137.14.57|8085|Indonesia|Tangerang|customer in Corporate Access|
-|13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|14|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|17|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|18|103.176.97.228|7777|Indonesia|Gombong|PT Global Sarana Elektronika|
-|19|103.189.251.81|1111|Indonesia|Pasinan Barat|PT Pandawa Lima Java Network|
-|20|190.14.230.169|999|Colombia|Medellín|Media Commerce Partners S.A|
+|2|42.117.243.76|16000|Vietnam|Hanoi|FPT Telecom Company|
+|3|1.52.197.91|16000|Vietnam|Ha Long|Vietnam Internet Network Information Center|
+|4|1.55.199.170|16000|Vietnam|Hanoi|FPT Telecom Company|
+|5|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
+|6|27.71.140.43|16000|Vietnam|Bảo Lộc|Viettel Group|
+|7|27.79.172.247|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|27.76.191.154|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|9|27.79.216.190|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
+|11|27.79.166.221|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|27.79.244.232|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|27.79.243.89|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|27.79.149.90|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|16|27.79.224.213|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|27.79.211.97|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|27.79.163.247|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|20|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 
 
 
