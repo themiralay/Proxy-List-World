@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
 |4|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
-|7|27.79.166.50|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|9|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|27.79.166.50|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|1.55.199.170|16000|Vietnam|Hanoi|FPT Telecom Company|
+|7|27.71.140.43|16000|Vietnam|Bảo Lộc|Viettel Group|
+|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|9|27.79.148.130|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|11|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
 |12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|13|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|16|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|17|27.79.213.198|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|19|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|20|27.79.224.213|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|27.79.166.221|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|16|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|18|43.130.52.194|8118|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|19|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|20|27.79.163.247|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
