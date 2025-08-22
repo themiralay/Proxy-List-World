@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|5|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|6|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|10|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|12|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|13|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|14|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|18|128.140.113.110|5153|Germany|Falkenstein|Hetzner Online GmbH|
-|19|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|20|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
+|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|8|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|9|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|10|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|11|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|12|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|13|27.71.139.254|16000|Vietnam|Bảo Lộc|Viettel Group|
+|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|15|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|17|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
+|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|19|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|20|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
 
 
 
