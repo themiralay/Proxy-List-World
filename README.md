@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
-|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|38.147.98.190|8080|United States|Corsicana|Corsicana ISD|
-|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|5|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|6|27.71.140.43|16000|Vietnam|Bảo Lộc|Viettel Group|
-|7|27.79.245.198|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|9|123.25.25.180|1452|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|1.55.199.170|16000|Vietnam|Hanoi|FPT Telecom Company|
-|11|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|12|104.238.30.12|63232|Italy|Rome|AkhaliNet LLC|
-|13|104.238.30.16|63231|Italy|Rome|AkhaliNet LLC|
-|14|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|15|104.238.30.14|63233|Italy|Rome|AkhaliNet LLC|
-|16|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|17|27.79.149.90|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|87.126.65.11|1388|Bulgaria|Kazanlak|Vivacom Bulgaria EAD|
+|2|116.103.129.41|1526|Vietnam|Buon Ma Thuot|Viettel Corporation|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|1.55.199.170|16000|Vietnam|Hanoi|FPT Telecom Company|
+|5|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|6|1.52.197.91|16000|Vietnam|Ha Long|Vietnam Internet Network Information Center|
+|7|27.79.166.221|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|123.25.25.180|1452|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|27.76.191.154|16000|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|10|104.238.30.16|63231|Italy|Rome|AkhaliNet LLC|
+|11|104.238.30.12|63232|Italy|Rome|AkhaliNet LLC|
+|12|104.238.30.14|63233|Italy|Rome|AkhaliNet LLC|
+|13|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|14|91.121.208.196|5062|France|Roubaix|OVH SAS|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|17|124.106.151.205|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|18|27.71.140.43|16000|Vietnam|Bảo Lộc|Viettel Group|
+|19|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
