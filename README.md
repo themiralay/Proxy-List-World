@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|27.79.204.66|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|27.79.138.40|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|27.79.153.6|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|27.79.168.104|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|8|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|9|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|2|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|4|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|27.79.204.66|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|18.188.141.177|8834|United States|Dublin|Amazon.com, Inc.|
+|11|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
 |12|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
-|16|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|17|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
-|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|19|5.160.48.58|8080|Iran|Tehran|RSPN|
-|20|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
+|13|27.79.168.104|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|15|104.238.30.12|63232|Italy|Rome|AkhaliNet LLC|
+|16|104.238.30.16|63231|Italy|Rome|AkhaliNet LLC|
+|17|104.238.30.14|63233|Italy|Rome|AkhaliNet LLC|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
+|20|51.195.200.115|31280|United Kingdom|Erith|OVH SAS|
 
 
 
