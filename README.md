@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|7|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|8|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|11|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
-|12|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
-|13|106.0.158.114|8080|Thailand|Khwao Sinarin|Ministry of Education - EMISC|
-|14|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
-|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|16|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|18|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|19|43.228.86.26|3128|Thailand|Bangkok|Siamdata Communication Co., ltd.|
-|20|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|67.43.236.20|15365|Canada|Montreal|GloboTech Communications|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|185.200.38.53|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|12|145.40.96.156|9401|The Netherlands|Amsterdam|Packet Host, Inc.|
+|13|104.238.30.16|63231|Italy|Rome|AkhaliNet LLC|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
+|16|51.159.159.73|80|France|Paris|SCALEWAY|
+|17|104.238.30.14|63233|Italy|Rome|AkhaliNet LLC|
+|18|72.10.160.91|31037|Canada|Montreal|GloboTech Communications|
+|19|61.91.251.235|8080|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
+|20|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 
 
 
