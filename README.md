@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|175.118.246.102|3128|South Korea|Gwangsan-gu|broadNnet|
-|4|47.79.16.186|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|42.118.0.233|16000|Vietnam|Hanoi|FPT Telecom Company|
-|6|27.79.153.6|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|27.79.138.40|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
-|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|10|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
-|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|12|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
-|13|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|15|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|16|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|17|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|18|103.189.116.138|1220|Indonesia|Wonosobo|PT Callysta Total Solusindo|
-|19|103.172.42.163|8080|Indonesia|Tambangan|PT Media Solusi Sukses|
-|20|181.57.229.2|8080|Colombia|Barrio San Luis|Telmex Colombia S.A.|
+|2|42.118.0.233|16000|Vietnam|Hanoi|FPT Telecom Company|
+|3|47.79.16.186|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
+|5|27.79.153.6|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|160.20.128.9|1080|Indonesia|Cirebon|PT ASTI DIGITAL INDONESIA|
+|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|11|175.118.246.102|3128|South Korea|Gwangsan-gu|broadNnet|
+|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|13|112.204.118.221|8080|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
+|14|113.192.31.19|8090|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|15|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|16|103.184.167.66|8080|Indonesia|Sungguminasa|PT Pricom Media Solusi|
+|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|18|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|19|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|20|27.79.138.40|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
