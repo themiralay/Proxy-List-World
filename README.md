@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.153.6|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
-|4|27.79.204.66|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|27.79.138.40|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|115.79.198.94|1452|Vietnam|Ho Chi Minh City|VIETELftth|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|10|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|11|27.79.151.214|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|13|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|14|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|15|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|9|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
+|10|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|11|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|18.188.141.177|8834|United States|Dublin|Amazon.com, Inc.|
+|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|15|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
 |16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|18|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|19|31.14.114.67|1081|Iran|Tehran|Afranet Co|
-|20|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|17|27.79.153.6|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
+|19|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|20|190.111.218.141|999|Argentina|Buenos Aires|CPS|
 
 
 
