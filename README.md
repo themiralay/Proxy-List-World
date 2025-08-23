@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|2|27.79.204.66|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|27.79.153.6|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
 |6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|8|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|9|14.225.210.186|3129|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|10|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|11|194.54.158.205|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|14|103.82.0.42|31280|United Kingdom|Lytham St Annes|Netwise Hosting Ltd|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|19|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
-|20|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|7|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|10|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|12|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|13|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|14|194.54.158.205|1080|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|15|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|16|103.82.0.42|31280|United Kingdom|Lytham St Annes|Netwise Hosting Ltd|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|223.205.59.163|8080|Thailand|Pattani|Triple T Broadband Public Company Limited|
+|19|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|118.136.37.139|8080|Indonesia|Jakarta|Linknet-Fastnet ASN|
 
 
 
