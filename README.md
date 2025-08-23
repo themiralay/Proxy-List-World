@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|4|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
-|5|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|8|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|9|27.79.204.66|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|18.143.167.190|25965|Singapore|Singapore|Amazon Technologies Inc.|
-|13|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|104.238.30.12|63232|Italy|Rome|AkhaliNet LLC|
-|17|104.238.30.16|63231|Italy|Rome|AkhaliNet LLC|
-|18|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
-|19|104.238.30.14|63233|Italy|Rome|AkhaliNet LLC|
-|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|6|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|7|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|8|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|9|18.143.167.190|25965|Singapore|Singapore|Amazon Technologies Inc.|
+|10|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|104.238.30.14|63233|Italy|Rome|AkhaliNet LLC|
+|13|104.238.30.16|63231|Italy|Rome|AkhaliNet LLC|
+|14|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
+|15|104.238.30.12|63232|Italy|Rome|AkhaliNet LLC|
+|16|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|17|27.79.204.66|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|202.154.19.165|8080|Indonesia|Ngoro|DIGITNET|
+|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
 
 
 
