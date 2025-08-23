@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75851** proxies at the latest update. Usable proxies are below.
+> Scraper found **75895** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36125|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36169|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|51|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38449|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
-|9|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|10|116.97.163.181|1001|Vietnam|Tiền Hải|Viettel Corporation|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|103.73.193.133|8080|Indonesia|Serang|Fot PT Kihnabil.net|
+|9|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|10|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
 |11|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
 |12|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|13|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|14|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|13|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|14|110.164.128.124|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
 |15|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
 |16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|18|110.164.128.124|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|19|183.88.214.44|8080|Thailand|Huai Thalaeng|Triple T Broadband Public Company Limited|
-|20|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|18|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|19|202.62.62.29|8080|Cambodia|Phnom Penh|COGETEL Co., Ltd|
+|20|191.7.215.165|1452|Brazil|Santa Quitéria|HTM Serviços de Telecomunicações EIRELI|
 
 
 
