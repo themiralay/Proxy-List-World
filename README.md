@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.151.214|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|27.79.153.6|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|27.79.155.77|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|27.79.204.66|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|27.79.138.40|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
-|8|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|5|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|27.79.204.66|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|9|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
 |10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|15|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|17|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|18|104.238.30.14|63233|Italy|Rome|AkhaliNet LLC|
-|19|104.238.30.12|63232|Italy|Rome|AkhaliNet LLC|
-|20|104.238.30.16|63231|Italy|Rome|AkhaliNet LLC|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|104.238.30.12|63232|Italy|Rome|AkhaliNet LLC|
+|13|104.238.30.16|63231|Italy|Rome|AkhaliNet LLC|
+|14|104.238.30.14|63233|Italy|Rome|AkhaliNet LLC|
+|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|16|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
+|17|18.143.167.190|25965|Singapore|Singapore|Amazon Technologies Inc.|
+|18|116.203.139.209|4145|Germany|Nuremberg|Hetzner Online GmbH|
+|19|223.206.57.154|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|20|147.28.240.214|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
