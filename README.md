@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75086** proxies at the latest update. Usable proxies are below.
+> Scraper found **75021** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35850|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35785|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|16|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|37994|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|27.79.153.6|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|158.69.185.37|3129|Canada|Montreal|OVH SAS|
 |3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|5|103.141.150.147|8080|Indonesia|Margahayukencana|PRIMACOM|
-|6|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
-|7|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|8|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|11|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|14|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
-|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|16|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|17|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|18|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|19|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|20|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
+|4|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|7|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|8|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|9|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|10|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|27.79.168.104|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
+|14|27.79.153.6|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|27.79.204.66|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|17|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
+|18|27.79.155.77|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|104.238.30.16|63231|Italy|Rome|AkhaliNet LLC|
+|20|104.238.30.14|63233|Italy|Rome|AkhaliNet LLC|
 
 
 
