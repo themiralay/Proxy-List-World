@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|175.118.246.102|3128|South Korea|Gwangsan-gu|broadNnet|
-|3|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
 |4|47.79.16.186|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|42.118.0.233|16000|Vietnam|Hanoi|FPT Telecom Company|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|8|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|9|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
-|10|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|11|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
-|12|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|13|195.90.211.14|3128|Germany|Berlin|EVANZO e-commerce GmbH|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|7|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|12|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|15|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |16|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|18|77.52.187.196|18080|Ukraine|Rokytne|PrJSC "VF UKRAINE"|
-|19|103.184.167.66|8080|Indonesia|Sungguminasa|PT Pricom Media Solusi|
-|20|103.190.120.98|30016|Vietnam|Da Nang|KINGBOND|
+|17|195.90.211.14|3128|Germany|Berlin|EVANZO e-commerce GmbH|
+|18|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|19|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|20|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
 
 
 
