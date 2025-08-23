@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|47.79.16.186|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|27.79.153.6|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|42.118.0.233|16000|Vietnam|Hanoi|FPT Telecom Company|
-|5|175.118.246.102|3128|South Korea|Gwangsan-gu|broadNnet|
-|6|27.79.138.40|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|27.79.138.40|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.153.6|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|9|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
-|10|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|11|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|13|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|15|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|16|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|17|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|9|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|10|42.118.0.233|16000|Vietnam|Hanoi|FPT Telecom Company|
+|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|12|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
+|13|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|14|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
+|15|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|16|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |18|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|19|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
-|20|45.167.126.1|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|19|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|20|195.90.211.14|3128|Germany|Berlin|EVANZO e-commerce GmbH|
 
 
 
