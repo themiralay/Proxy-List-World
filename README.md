@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|362|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|362|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|362|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|368|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|368|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|368|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|103.169.128.158|8080|Indonesia|Cirebon|PT Media Akses Data|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|8|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|9|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|13|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|14|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|12.0.53.59|8080|United States|Cambridge|AT&T Enterprises, LLC|
-|16|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|17|185.126.202.76|4005|Iran|Tehran|DPMobinIDC|
+|3|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|4|103.93.93.66|8080|Indonesia|Madiun|MYRISE|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|9|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|14|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|193.122.197.154|80|United States|Ashburn|Oracle Corporation|
+|17|8.215.31.146|1347|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
 |18|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|19|12.0.53.59|8080|United States|Cambridge|AT&T Enterprises, LLC|
+|20|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
 
 
 
