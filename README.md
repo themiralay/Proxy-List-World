@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|8.222.175.80|6128|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|6|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|7|124.158.153.218|8180|Indonesia|Jakarta|PT iForte Global Internet|
-|8|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|9|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|11|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|27.79.151.214|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|16|103.159.96.52|8080|Indonesia|Kebomas|PT Jinde Grup Indonesia|
+|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|4|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|12|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|13|27.79.151.214|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|15|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|16|27.79.204.66|16000|Vietnam|Hanoi|Viettel Corporation|
 |17|27.79.153.6|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|31.14.114.70|1081|Iran|Tehran|Afranet Co|
-|19|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|20|38.183.146.25|3333|Indonesia|Weleri|PT Ikhlas Cipta Teknologi|
+|18|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
