@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|310|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|310|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|310|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|27.79.153.6|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|42.118.0.233|16000|Vietnam|Hanoi|FPT Telecom Company|
-|5|175.118.246.102|3128|South Korea|Gwangsan-gu|broadNnet|
-|6|27.79.138.40|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
-|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|9|103.247.23.248|8081|Indonesia|Wonosobo|PT wifian Solution|
-|10|116.97.163.181|1001|Vietnam|Tiền Hải|Viettel Corporation|
-|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|13|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|14|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|15|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
-|16|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|20|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|2|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
+|3|42.118.0.233|16000|Vietnam|Hanoi|FPT Telecom Company|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|10|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|13|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|16|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|17|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|195.90.211.14|3128|Germany|Berlin|EVANZO e-commerce GmbH|
 
 
 
