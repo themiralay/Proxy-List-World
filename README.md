@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|27.79.204.66|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
-|4|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|2|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
-|8|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|9|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|10|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|11|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|12|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|13|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|14|104.238.30.12|63232|Italy|Rome|AkhaliNet LLC|
-|15|104.238.30.14|63233|Italy|Rome|AkhaliNet LLC|
-|16|104.238.30.16|63231|Italy|Rome|AkhaliNet LLC|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|49.236.212.134|8888|Nepal|Kathmandu|Classic Tech Pvt. Ltd|
-|19|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
-|20|94.182.146.250|8080|Iran|Tehran|Aria Shatel PJSC|
+|6|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|9|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|10|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
+|13|18.143.167.190|25965|Singapore|Singapore|Amazon Technologies Inc.|
+|14|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|15|104.238.30.16|63231|Italy|Rome|AkhaliNet LLC|
+|16|104.238.30.12|63232|Italy|Rome|AkhaliNet LLC|
+|17|104.238.30.14|63233|Italy|Rome|AkhaliNet LLC|
+|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
 
 
 
