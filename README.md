@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75449** proxies at the latest update. Usable proxies are below.
+> Scraper found **75335** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35993|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35879|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|31|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38199|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|27.79.138.40|16000|Vietnam|Hanoi|Viettel Corporation|
 |2|27.79.204.66|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|27.79.138.40|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|27.79.153.6|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
-|7|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|10|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
+|5|27.79.155.77|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|7|24.199.124.152|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|9|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |11|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|12|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|13|24.199.124.152|3128|United States|Santa Clara|DigitalOcean, LLC|
-|14|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|19|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|20|18.188.141.177|8834|United States|Dublin|Amazon.com, Inc.|
+|12|24.199.124.152|3128|United States|Santa Clara|DigitalOcean, LLC|
+|13|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|17|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|18|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|19|45.226.225.96|999|Argentina|San Juan|CORTEZ RAUL OMAR (ZETRO INTERNET)|
+|20|104.238.30.16|63231|Italy|Rome|AkhaliNet LLC|
 
 
 
