@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|27.79.138.40|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|27.79.204.66|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|7|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|8|27.79.168.104|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|11|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|14|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
-|15|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|16|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
-|17|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|18|144.172.95.164|8080|United States|Ogden|RouterHosting LLC|
-|19|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|20|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
+|2|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|7|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|11|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
+|12|201.190.178.205|8080|Argentina|Mendoza|Arlink S.A.|
+|13|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|14|144.172.95.164|8080|United States|Ogden|RouterHosting LLC|
+|15|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|16|27.79.138.40|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|123.25.25.180|1452|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|19|104.238.30.14|63233|Italy|Rome|AkhaliNet LLC|
+|20|104.238.30.16|63231|Italy|Rome|AkhaliNet LLC|
 
 
 
