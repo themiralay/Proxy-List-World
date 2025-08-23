@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|27.79.204.66|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
-|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|2|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
 |5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|8|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|11|66.228.47.125|110|United States|Cedar Knolls|Akamai Technologies, Inc.|
-|12|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|15|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|16|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|17|18.143.167.190|25965|Singapore|Singapore|Amazon Technologies Inc.|
-|18|93.91.112.247|41258|Russia|Tver|Fast Link Ltd.|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|6|66.228.47.125|110|United States|Cedar Knolls|Akamai Technologies, Inc.|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|9|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|10|18.143.167.190|25965|Singapore|Singapore|Amazon Technologies Inc.|
+|11|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|12|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|14|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|17|74.89.123.49|80|United States|The Bronx|Cablevision Systems Corp.|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|45.167.126.1|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|20|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 
 
 
