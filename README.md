@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|118.68.28.117|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
-|5|216.195.100.61|3129|United States|Fort Worth|Belwave Communications|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
 |6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|216.195.100.56|3129|United States|Fort Worth|Belwave Communications|
-|10|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|11|164.163.40.14|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|216.195.100.57|3129|United States|Fort Worth|Belwave Communications|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|9|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|10|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|11|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|14|147.28.240.214|9400|Germany|Frankfurt am Main|Packet Host, Inc.|
-|15|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|16|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|18|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
-|19|51.159.159.73|80|France|Paris|SCALEWAY|
-|20|72.10.164.178|21961|Canada|Montreal|GloboTech Communications|
+|14|122.52.185.72|8080|Philippines|Lañgub|Philippine Long Distance Telephone Co.|
+|15|103.191.165.146|8090|Indonesia|Subang|PT Sakti Wijaya Network|
+|16|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|17|45.182.21.150|999|Honduras|Azacualpa|Multicable De Honduras|
+|18|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|19|103.81.194.162|8080|Indonesia|Ciampea|PT Rtiga Global Media|
+|20|103.133.27.159|8085|Indonesia|Purwakarta|PT PHATRIA INTI PERSADA|
 
 
 
