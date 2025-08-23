@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|27.79.204.66|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|27.79.151.214|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
-|5|27.79.153.6|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|27.79.175.137|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
-|8|42.118.0.233|16000|Vietnam|Hanoi|FPT Telecom Company|
-|9|183.80.22.123|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|10|27.79.168.104|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
-|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|15|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
-|16|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|17|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|18|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|19|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|20|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|2|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|9|47.79.16.186|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|11|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|12|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|15|42.118.0.233|16000|Vietnam|Hanoi|FPT Telecom Company|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|18|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|19|31.14.114.69|1081|Iran|Tehran|Afranet Co|
+|20|5.181.178.69|8080|Japan|Koto City|Lain.sh|
 
 
 
