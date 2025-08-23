@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|208.109.234.211|8700|United States|Tempe|GoDaddy.com, LLC|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|103.242.105.65|7200|Indonesia|Karangampel|PT Lintas Jaringan Nusantara|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|10|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
-|11|183.80.22.123|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|15|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|16|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|19|103.97.140.177|8080|Indonesia|Bandung|PT Jembatan Data Pangrango|
-|20|5.202.104.142|3128|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|27.79.138.40|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|42.118.0.233|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|27.79.204.66|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|27.79.155.77|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|9|27.79.153.6|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|11|27.79.168.104|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|13|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|14|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|15|115.127.188.250|1452|Bangladesh|Dhaka|BRACNet Limited|
+|16|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|18|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|19|208.109.234.211|8700|United States|Tempe|GoDaddy.com, LLC|
+|20|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
 
 
 
