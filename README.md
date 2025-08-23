@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|4|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|5|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|38.54.25.61|8080|United States|Minkler|Kaopu Cloud HK Limited|
-|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |10|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|11|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|12|14.235.22.8|8080|Vietnam|Bắc Giang|VNPT|
-|13|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|16|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|17|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|18|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|19|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|11|183.80.22.123|16000|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|15|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|16|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|17|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|18|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|19|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|20|179.96.28.58|80|Brazil|Caldas Novas|Megatelecom Telecomunicacoes Ltda|
 
 
 
