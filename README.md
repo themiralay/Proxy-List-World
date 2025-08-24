@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|42.118.0.194|16000|Vietnam|Hanoi|FPT Telecom Company|
 |3|157.20.82.10|3128|Vietnam|Trâu Quỳ|Interdigi Joint Stock Company|
-|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|5|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|6|103.122.0.151|8181|Indonesia|Cempaka|PT. Java Digital Nusantara|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |7|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|8|45.174.95.142|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|11|118.97.69.163|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|13|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|14|88.210.38.50|3128|The Netherlands|Amsterdam|Melbikomas UAB|
-|15|51.159.159.73|80|France|Paris|SCALEWAY|
-|16|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|17|179.96.28.58|80|Brazil|Caldas Novas|Megatelecom Telecomunicacoes Ltda|
-|18|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|19|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|8|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|9|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|12|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|15|190.110.34.253|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|16|110.164.128.124|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|88.210.38.50|3128|The Netherlands|Amsterdam|Melbikomas UAB|
+|19|45.174.95.142|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|20|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
 
 
 
