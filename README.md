@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|194.233.76.162|8000|Singapore|Singapore|Contabo Asia Private Limited|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|11|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|12|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|13|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|101.255.208.62|8080|Indonesia|Cileungsir|PT Remala Abadi|
-|16|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|17|114.9.52.2|1452|Indonesia|Wonorejo|PT. INDOSAT Tbk|
-|18|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|19|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|20|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|2|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|3|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|7|103.35.111.233|19753|Bangladesh|Azimpur|Ranks ITT|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|10|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|14|45.174.95.137|8080|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|15|179.96.28.58|80|Brazil|Caldas Novas|Megatelecom Telecomunicacoes Ltda|
+|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|17|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|18|45.175.155.8|999|Argentina|Río Segundo|Albornoz Guido Ruben|
+|19|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|20|200.116.230.213|8080|Colombia|Barranquilla|UNE EPM TELECOMUNICACIONES S.A|
 
 
 
