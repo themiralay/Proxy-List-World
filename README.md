@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|314|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|314|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|314|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|42.118.0.194|16000|Vietnam|Hanoi|FPT Telecom Company|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|7|157.20.82.10|3128|Vietnam|Trâu Quỳ|Interdigi Joint Stock Company|
-|8|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|13|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|14|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|15|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|16|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|17|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|18|216.195.100.62|3129|United States|Fort Worth|Belwave Communications|
-|19|51.159.159.73|80|France|Paris|SCALEWAY|
-|20|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|8|157.20.82.10|3128|Vietnam|Trâu Quỳ|Interdigi Joint Stock Company|
+|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|10|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|13|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|14|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|19|42.118.0.194|16000|Vietnam|Hanoi|FPT Telecom Company|
+|20|216.195.100.62|3129|United States|Fort Worth|Belwave Communications|
 
 
 
