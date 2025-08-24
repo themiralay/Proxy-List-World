@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
 |3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |6|51.79.99.237|4502|Canada|Montreal|OVH SAS|
 |7|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|12|103.247.14.51|9285|Indonesia|Temanggung|TERABIT|
-|13|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|14|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|15|104.238.30.16|63231|Italy|Rome|AkhaliNet LLC|
+|8|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|11|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|12|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|14|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|15|103.72.137.241|8080|Bangladesh|Dhaka|Spectra Technologies Limited|
 |16|104.238.30.12|63232|Italy|Rome|AkhaliNet LLC|
 |17|104.238.30.14|63233|Italy|Rome|AkhaliNet LLC|
-|18|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|19|147.28.240.214|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|20|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|18|104.238.30.16|63231|Italy|Rome|AkhaliNet LLC|
+|19|113.160.241.196|19132|Vietnam|Nha Trang|VietNam Post and Telecom Corporation|
+|20|147.28.240.214|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
 
