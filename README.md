@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|1|23.237.210.82|80|United States|Dallas|FDCservers.net|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |5|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|6|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|7|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|10|45.236.112.9|60399|Brazil|Salvador|Valeria NET Provedor Internet Ltda|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|15|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|16|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|17|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|7|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|8|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|9|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|10|42.118.0.194|16000|Vietnam|Hanoi|FPT Telecom Company|
+|11|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|12|45.167.126.1|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|14|14.225.210.186|3129|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
 |18|185.126.202.76|4005|Iran|Tehran|DPMobinIDC|
-|19|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|19|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|20|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
 
 
 
