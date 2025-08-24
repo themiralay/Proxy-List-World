@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|13|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|14|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|16|222.92.185.43|12389|China|Taicang|Chinanet|
-|17|104.238.30.14|63233|Italy|Rome|AkhaliNet LLC|
-|18|104.238.30.16|63231|Italy|Rome|AkhaliNet LLC|
-|19|104.238.30.12|63232|Italy|Rome|AkhaliNet LLC|
-|20|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|2|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|8|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|11|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|15|209.121.164.50|31147|Canada|Vancouver|TELUS Communications Inc.|
+|16|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|17|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|18|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|20|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
 
 
 
