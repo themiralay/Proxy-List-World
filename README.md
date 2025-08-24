@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **39454** proxies at the latest update. Usable proxies are below.
+> Scraper found **75197** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|9|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35743|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|31|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38488|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|6|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|2|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|4|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|6|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
 |7|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|8|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|9|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|164.163.42.36|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|164.163.42.16|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|13|104.238.30.16|63231|Italy|Rome|AkhaliNet LLC|
-|14|104.238.30.14|63233|Italy|Rome|AkhaliNet LLC|
+|8|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|11|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|12|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|13|104.238.30.14|63233|Italy|Rome|AkhaliNet LLC|
+|14|104.238.30.16|63231|Italy|Rome|AkhaliNet LLC|
 |15|104.238.30.12|63232|Italy|Rome|AkhaliNet LLC|
-|16|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|17|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
-|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|19|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|20|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|16|147.28.240.214|9443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|17|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|164.163.42.42|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|164.163.42.49|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
 
 
 
