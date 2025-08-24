@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.121.164.51|31147|Canada|Vancouver|TELUS Communications Inc.|
-|2|209.121.164.50|31147|Canada|Vancouver|TELUS Communications Inc.|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|6|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|7|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|42.118.0.194|16000|Vietnam|Hanoi|FPT Telecom Company|
+|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|8|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |10|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|11|51.159.159.73|80|France|Paris|SCALEWAY|
-|12|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|12|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|13|88.210.38.50|3128|The Netherlands|Amsterdam|Melbikomas UAB|
+|14|51.159.159.73|80|France|Paris|SCALEWAY|
 |15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|17|185.126.202.76|4005|Iran|Tehran|DPMobinIDC|
-|18|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|19|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|20|13.211.233.22|36619|Australia|Sydney|Amazon Technologies Inc.|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|31.14.114.68|1081|Iran|Tehran|Afranet Co|
+|18|13.211.233.22|36619|Australia|Sydney|Amazon Technologies Inc.|
+|19|152.53.194.55|21609|United States|Reston|netcup GmbH|
+|20|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 
 
 
