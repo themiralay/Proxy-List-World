@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |3|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
 |4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|6|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|7|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|7|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
 |8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|15|95.216.181.107|8128|Finland|Helsinki|Hetzner Online GmbH|
-|16|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
-|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|18|103.191.155.70|8080|Indonesia|Cikampek|PT Ilham Wifi Solution|
-|19|114.198.244.57|3128|Indonesia|Kediri|PT Sumber Data Indonesia|
-|20|104.238.30.16|63231|Italy|Rome|AkhaliNet LLC|
+|9|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|10|113.160.122.69|1452|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|13|203.76.98.21|45958|Bangladesh|Dhaka|Link3 Technologies Limited|
+|14|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|15|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|18|104.238.30.12|63232|Italy|Rome|AkhaliNet LLC|
+|19|104.238.30.16|63231|Italy|Rome|AkhaliNet LLC|
+|20|104.238.30.14|63233|Italy|Rome|AkhaliNet LLC|
 
 
 
