@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|5|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
 |6|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|7|103.165.157.107|8080|Indonesia|Mojokerto|MEGADATA-ISP|
-|8|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|11|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|18|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|19|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|13|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|14|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|15|104.238.30.14|63233|Italy|Rome|AkhaliNet LLC|
+|16|104.238.30.12|63232|Italy|Rome|AkhaliNet LLC|
+|17|104.238.30.16|63231|Italy|Rome|AkhaliNet LLC|
+|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|19|164.163.42.6|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|164.163.42.27|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
