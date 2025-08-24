@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|158.69.185.37|3129|Canada|Montreal|OVH SAS|
 |6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|9|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|10|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|11|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|24.152.40.49|8080|Paraguay|Coronel Oviedo|TV MAX CABLE S.A.|
-|14|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|15|202.51.196.230|8080|Indonesia|Gunung|PT. Sejahtera Globalindo|
-|16|104.238.30.16|63231|Italy|Rome|AkhaliNet LLC|
-|17|38.172.128.21|999|Peru|Lima|Conex TV E.I.R.L.|
-|18|104.238.30.12|63232|Italy|Rome|AkhaliNet LLC|
-|19|104.238.30.14|63233|Italy|Rome|AkhaliNet LLC|
-|20|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|11|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|15|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|16|157.66.16.40|8787|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|18|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|19|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|20|104.238.30.12|63232|Italy|Rome|AkhaliNet LLC|
 
 
 
