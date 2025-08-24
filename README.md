@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|42.118.0.194|16000|Vietnam|Hanoi|FPT Telecom Company|
-|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|157.20.128.247|8080|Indonesia|Sagaranten|PT Citra Meta Data|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|7|157.20.82.10|3128|Vietnam|Trâu Quỳ|Interdigi Joint Stock Company|
-|8|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|11|47.251.11.225|3366|United States|Santa Clara|Alibaba Cloud LLC|
-|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|13|47.251.11.225|3366|United States|Santa Clara|Alibaba Cloud LLC|
-|14|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|17|24.52.33.75|8080|United States|St. George|TDS TELECOM|
-|18|47.176.240.250|4228|United States|Goleta|Frontier Communications of America, Inc.|
-|19|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|20|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|157.20.82.10|3128|Vietnam|Trâu Quỳ|Interdigi Joint Stock Company|
+|6|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|8|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|14|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|15|103.190.120.98|30027|Vietnam|Da Nang|KINGBOND|
+|16|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|17|128.140.113.110|5153|Germany|Falkenstein|Hetzner Online GmbH|
+|18|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|19|103.51.21.165|8080|India|Chāmpa|Foxtel Telecommunications Pvt. Ltd.|
+|20|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
 
 
 
