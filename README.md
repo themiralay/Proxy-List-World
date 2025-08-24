@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
 |3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|5|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|6|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|45.167.126.1|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|194.5.212.186|443|Germany|Frankfurt am Main|M247 Europe SRL|
-|13|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|14|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|15|103.52.115.171|3128|Indonesia|Cicurug|PT. Cloud Hosting Indonesia|
-|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|17|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|18|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|19|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|20|203.150.128.197|8080|Thailand|Bangkok|Internet Thailand Company Ltd|
+|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|7|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|9|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|12|103.190.120.98|30026|Vietnam|Da Nang|KINGBOND|
+|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|16|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|17|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|18|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|20|23.237.210.82|80|United States|Dallas|FDCservers.net|
 
 
 
