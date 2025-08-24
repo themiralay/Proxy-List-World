@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|4|51.79.99.237|4502|Canada|Montreal|OVH SAS|
 |5|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|6|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|7|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|12|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|13|104.238.30.12|63232|Italy|Rome|AkhaliNet LLC|
-|14|104.238.30.16|63231|Italy|Rome|AkhaliNet LLC|
-|15|104.238.30.14|63233|Italy|Rome|AkhaliNet LLC|
-|16|164.163.42.38|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|164.163.42.55|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|164.163.40.16|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|10|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|15|104.238.30.16|63231|Italy|Rome|AkhaliNet LLC|
+|16|104.238.30.14|63233|Italy|Rome|AkhaliNet LLC|
+|17|104.238.30.12|63232|Italy|Rome|AkhaliNet LLC|
+|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|19|38.41.0.60|11201|Venezuela|Caracas|MDS TELECOM C.A.|
+|20|104.238.30.12|63232|Italy|Rome|AkhaliNet LLC|
 
 
 
