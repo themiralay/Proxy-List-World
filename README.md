@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|380|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|380|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|380|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|121.132.61.211|3128|South Korea|Paju-si|Korea Telecom|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|157.66.84.29|7777|Indonesia|Madiun|Menaksopal Lintas Nusantara|
-|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|15|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|16|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|17|160.187.174.186|8080|Indonesia|Deli Serdang|PT Netindo Persada Nusantara|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|5|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|6|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|7|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|11|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|65.38.213.154|8881|Puerto Rico|San Juan|AT&T Mobility Puerto Rico|
+|15|160.19.19.43|8080|Indonesia|Kediri|PT Indo Telemedia Solusi|
+|16|193.43.145.200|8080|Syria|Tallbīsah|Syrian Telecom|
+|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|18|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|19|61.29.96.146|80|Australia|Albury|AAPT Limited|
+|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
 
 
 
