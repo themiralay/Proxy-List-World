@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
 |3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|4|183.178.50.58|8080|Hong Kong|Kwai Chung|Hong Kong Broadband Network Ltd|
+|5|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|103.191.254.245|1024|Indonesia|Jadi|PT Ayodya Data Internusa|
-|12|103.46.186.196|8080|Indonesia|Utan|PT Air Lintas Komunikasi|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|88.210.38.50|3128|The Netherlands|Amsterdam|Melbikomas UAB|
-|15|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|16|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|11|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|13|180.149.232.201|2024|Bangladesh|Gazipur|Digi Jadoo Broadband Ltd|
+|14|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|15|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|16|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
 |17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|19|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
-|20|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|88.210.38.50|3128|The Netherlands|Amsterdam|Melbikomas UAB|
+|20|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
 
 
 
