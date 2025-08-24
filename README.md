@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|2|42.118.0.194|16000|Vietnam|Hanoi|FPT Telecom Company|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|7|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|8|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|103.82.0.42|31280|United Kingdom|Lytham St Annes|Netwise Hosting Ltd|
-|11|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|13|164.163.42.42|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|164.163.42.44|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|164.163.42.48|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|164.163.42.27|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|164.163.42.6|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|164.163.42.16|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|164.163.42.49|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|164.163.42.3|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|12|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|13|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|18|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
