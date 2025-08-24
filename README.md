@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75181** proxies at the latest update. Usable proxies are below.
+> Scraper found **75096** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|12|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35724|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35639|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|31|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38488|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|4|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|5|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|8|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|104.238.30.16|63231|Italy|Rome|AkhaliNet LLC|
-|13|104.238.30.12|63232|Italy|Rome|AkhaliNet LLC|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|5|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|11|88.210.38.50|3128|The Netherlands|Amsterdam|Melbikomas UAB|
+|12|104.238.30.12|63232|Italy|Rome|AkhaliNet LLC|
+|13|104.238.30.16|63231|Italy|Rome|AkhaliNet LLC|
 |14|104.238.30.14|63233|Italy|Rome|AkhaliNet LLC|
-|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|16|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
-|17|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|20|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|15|164.163.42.27|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|164.163.42.44|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|19|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
+|20|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
 
 
 
