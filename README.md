@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
 |2|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|8|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|10|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|11|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|12|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|13|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|14|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|15|103.82.0.42|31280|United Kingdom|Lytham St Annes|Netwise Hosting Ltd|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|164.163.42.16|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|7|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|12|152.53.194.46|8065|United States|Reston|netcup GmbH|
+|13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|14|103.82.0.42|31280|United Kingdom|Lytham St Annes|Netwise Hosting Ltd|
+|15|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|16|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|17|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
 |18|164.163.42.3|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|164.163.42.42|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|164.163.42.27|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|164.163.42.6|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|164.163.42.16|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
