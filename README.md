@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|5|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|9|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|10|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|11|152.53.194.46|8065|United States|Reston|netcup GmbH|
-|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|13|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|15|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|16|103.82.0.42|31280|United Kingdom|Lytham St Annes|Netwise Hosting Ltd|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|6|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|8|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|10|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|11|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|12|103.82.0.42|31280|United Kingdom|Lytham St Annes|Netwise Hosting Ltd|
+|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|14|182.93.75.162|8080|Nepal|Kathmandu|Subisu Cablenet|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|17|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
+|18|152.53.194.46|8065|United States|Reston|netcup GmbH|
+|19|42.118.0.194|16000|Vietnam|Hanoi|FPT Telecom Company|
+|20|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 
 
 
