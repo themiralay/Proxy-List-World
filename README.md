@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|3|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|5|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|7|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|8|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|2|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|3|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|4|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|5|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
 |10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|12|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|13|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|14|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|15|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|103.182.79.137|8085|Indonesia|Dlemmer|PT Cybernet Data Multimedia|
-|17|103.82.0.42|31280|United Kingdom|Lytham St Annes|Netwise Hosting Ltd|
-|18|104.238.30.14|63233|Italy|Rome|AkhaliNet LLC|
-|19|104.238.30.16|63231|Italy|Rome|AkhaliNet LLC|
-|20|104.238.30.12|63232|Italy|Rome|AkhaliNet LLC|
+|11|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|12|103.82.0.42|31280|United Kingdom|Lytham St Annes|Netwise Hosting Ltd|
+|13|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
+|14|104.238.30.12|63232|Italy|Rome|AkhaliNet LLC|
+|15|104.238.30.16|63231|Italy|Rome|AkhaliNet LLC|
+|16|104.238.30.14|63233|Italy|Rome|AkhaliNet LLC|
+|17|88.210.38.50|3128|The Netherlands|Amsterdam|Melbikomas UAB|
+|18|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|19|164.163.42.56|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
