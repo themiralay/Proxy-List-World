@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |4|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
 |6|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|10|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|11|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|12|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|16|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|17|103.55.22.236|8080|Indonesia|Kisaran|PT General Media Network|
-|18|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|19|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
-|20|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|7|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|8|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|11|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|12|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|14|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
+|15|104.238.30.14|63233|Italy|Rome|AkhaliNet LLC|
+|16|104.238.30.12|63232|Italy|Rome|AkhaliNet LLC|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|104.238.30.16|63231|Italy|Rome|AkhaliNet LLC|
+|19|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|20|185.126.202.76|4005|Iran|Tehran|DPMobinIDC|
 
 
 
