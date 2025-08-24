@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|23.237.210.82|80|United States|Dallas|FDCservers.net|
 |2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|42.118.0.194|16000|Vietnam|Hanoi|FPT Telecom Company|
-|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|5|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |8|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|9|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|11|51.159.159.73|80|France|Paris|SCALEWAY|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|51.159.159.73|80|France|Paris|SCALEWAY|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|209.14.98.5|8080|Colombia|Repelón|AGIS|
+|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
 |13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|15|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|17|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|19|185.126.202.76|4005|Iran|Tehran|DPMobinIDC|
-|20|209.14.98.5|8080|Colombia|Repelón|AGIS|
+|14|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|15|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|16|152.53.168.53|17975|United States|Manassas|netcup GmbH|
+|17|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|18|185.126.202.76|4005|Iran|Tehran|DPMobinIDC|
+|19|104.238.30.12|63232|Italy|Rome|AkhaliNet LLC|
+|20|104.238.30.16|63231|Italy|Rome|AkhaliNet LLC|
 
 
 
