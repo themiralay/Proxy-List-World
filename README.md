@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -40,21 +40,21 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|2|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|3|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
 |6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |7|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|10|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|11|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|14|88.210.38.50|3128|The Netherlands|Amsterdam|Melbikomas UAB|
-|15|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|16|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|12|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|13|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|14|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|15|88.210.38.50|3128|The Netherlands|Amsterdam|Melbikomas UAB|
+|16|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
 |17|104.238.30.16|63231|Italy|Rome|AkhaliNet LLC|
 |18|104.238.30.14|63233|Italy|Rome|AkhaliNet LLC|
 |19|104.238.30.12|63232|Italy|Rome|AkhaliNet LLC|
