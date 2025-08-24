@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|2|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
 |3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|11|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|13|128.140.113.110|5153|Germany|Falkenstein|Hetzner Online GmbH|
-|14|223.25.100.235|8080|Indonesia|Prapen|PT Indonesia Comnets Plus|
-|15|104.238.30.16|63231|Italy|Rome|AkhaliNet LLC|
-|16|104.238.30.12|63232|Italy|Rome|AkhaliNet LLC|
-|17|104.238.30.14|63233|Italy|Rome|AkhaliNet LLC|
-|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|20|49.254.107.191|22685|South Korea|Seoul|Korea Telecom|
+|4|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|103.154.118.245|8080|Indonesia|Jakarta|MORATELINDONAP|
+|7|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|11|128.140.113.110|5153|Germany|Falkenstein|Hetzner Online GmbH|
+|12|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|13|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|14|104.238.30.14|63233|Italy|Rome|AkhaliNet LLC|
+|15|104.238.30.12|63232|Italy|Rome|AkhaliNet LLC|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|104.238.30.16|63231|Italy|Rome|AkhaliNet LLC|
+|18|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|19|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
