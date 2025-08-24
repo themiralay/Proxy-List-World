@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|42.118.0.194|16000|Vietnam|Hanoi|FPT Telecom Company|
+|2|157.20.82.10|3128|Vietnam|Trâu Quỳ|Interdigi Joint Stock Company|
 |3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|4|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|5|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|6|157.20.82.10|3128|Vietnam|Trâu Quỳ|Interdigi Joint Stock Company|
-|7|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|13|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|14|38.183.183.114|999|Peru|Huaura|Forza Bussines S.A.C.|
-|15|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|17|157.66.16.38|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|18|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|19|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|20|49.156.38.226|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|4|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|5|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|6|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|14|103.112.53.211|6314|Bangladesh|Dhaka|Carnival Internet|
+|15|119.18.149.9|5020|Bangladesh|Chittagong|BBTS Network|
+|16|103.166.158.107|8080|Indonesia|Caringin Lor|PT Timor Lintas Nusantara|
+|17|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|18|103.172.42.81|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
 
 
 
