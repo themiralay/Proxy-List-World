@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|1|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |5|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|6|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|7|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|10|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|11|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|12|208.102.24.225|80|United States|Harrison|Fuse Internet Access|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|14|179.49.162.33|999|Colombia|Bogotá|Integra Multisolutions|
-|15|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|16|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|17|164.163.42.16|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|164.163.42.36|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|104.238.30.14|63233|Italy|Rome|AkhaliNet LLC|
-|20|104.238.30.16|63231|Italy|Rome|AkhaliNet LLC|
+|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
+|8|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|11|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|12|104.238.30.12|63232|Italy|Rome|AkhaliNet LLC|
+|13|164.163.42.16|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|14|104.238.30.14|63233|Italy|Rome|AkhaliNet LLC|
+|15|164.163.42.36|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|16|104.238.30.16|63231|Italy|Rome|AkhaliNet LLC|
+|17|46.100.251.156|8080|Iran|Yazd|Iran Telecommunication Company PJS|
+|18|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|19|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
+|20|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
 
 
 
