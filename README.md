@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|407|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|407|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|407|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|8|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|9|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|10|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|2|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|20.13.34.208|8118|Netherlands|Amsterdam|Microsoft Corporation|
+|11|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
 |12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|103.16.118.78|1080|Indonesia|Madiun|CV Trustnet Media|
-|18|185.82.99.101|92|Lebanon|Baalbek|NET 360 S.A.R.L|
-|19|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|20|110.44.115.83|8080|Nepal|Kathmandu|VIA NET COMMUNICATION PUBLIC LIMITED|
+|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|115.79.70.69|8470|Vietnam|Ho Chi Minh City|VIETELftth|
+|15|103.178.87.42|8080|Indonesia|Parung|PT Adhi Pradana Makayasa|
+|16|8.219.1.139|8090|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|202.51.196.226|8080|Indonesia|Gunung|PT. Sejahtera Globalindo|
+|18|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|19|121.132.61.211|3128|South Korea|Paju-si|Korea Telecom|
+|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
 
 
 
