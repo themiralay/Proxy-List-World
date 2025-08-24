@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75243** proxies at the latest update. Usable proxies are below.
+> Scraper found **75384** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|5|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35780|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35921|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|23|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38509|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|2|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|3|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|1|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|42.118.0.194|16000|Vietnam|Hanoi|FPT Telecom Company|
 |4|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|5|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|12|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|13|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|14|103.172.35.64|8080|Indonesia|Ketanggungan|PT Lintas Jaringan Nusantara|
-|15|125.26.4.221|8080|Thailand|Bangkok|TOT Public Company Limited|
-|16|181.205.161.187|999|Colombia|Medellín|Colombia Móvil|
-|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|103.156.86.130|1080|Indonesia|Watampone|PT Chacha Networking System|
-|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|8|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|9|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|51.159.159.73|80|France|Paris|SCALEWAY|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|15|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|17|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|19|185.126.202.76|4005|Iran|Tehran|DPMobinIDC|
+|20|209.14.98.5|8080|Colombia|Repelón|AGIS|
 
 
 
