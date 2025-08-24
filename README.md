@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
-|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|3|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |5|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|51.79.99.237|4502|Canada|Montreal|OVH SAS|
 |7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|11|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|12|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|13|103.190.120.98|30031|Vietnam|Da Nang|KINGBOND|
-|14|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|16|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|17|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|18|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|19|45.167.126.1|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|20|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|8|45.167.126.1|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|14|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|15|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|17|104.238.30.16|63231|Italy|Rome|AkhaliNet LLC|
+|18|104.238.30.12|63232|Italy|Rome|AkhaliNet LLC|
+|19|104.238.30.14|63233|Italy|Rome|AkhaliNet LLC|
+|20|164.163.42.36|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
