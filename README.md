@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|5|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|6|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|2|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|4|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|5|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 |7|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|11|103.191.218.115|8080|Indonesia|Sumber|PT Replay Inti Media|
-|12|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|13|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|14|190.52.100.170|999|Venezuela|Caracas|Gold Data USA Inc|
-|15|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|16|13.211.233.22|36619|Australia|Sydney|Amazon Technologies Inc.|
-|17|103.82.0.42|31280|United Kingdom|Lytham St Annes|Netwise Hosting Ltd|
-|18|104.238.30.12|63232|Italy|Rome|AkhaliNet LLC|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|9|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|10|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|11|104.238.30.16|63231|Italy|Rome|AkhaliNet LLC|
+|12|104.238.30.12|63232|Italy|Rome|AkhaliNet LLC|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|164.163.42.16|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|104.238.30.14|63233|Italy|Rome|AkhaliNet LLC|
+|16|164.163.42.29|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|164.163.41.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|18|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
+|19|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
