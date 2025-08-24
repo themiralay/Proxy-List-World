@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|2|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|3|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|8|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|1|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|4|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|5|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|6|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
 |9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|11|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|12|157.175.42.134|20183|Bahrain|Manama|Amazon.com, Inc.|
-|13|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|14|103.82.0.42|31280|United Kingdom|Lytham St Annes|Netwise Hosting Ltd|
-|15|164.163.40.110|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|104.238.30.12|63232|Italy|Rome|AkhaliNet LLC|
-|17|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|18|191.97.20.79|999|Peru|José Leonardo Ortiz|Integra Network Del Peru E.I.R.L.|
-|19|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
-|20|104.238.30.16|63231|Italy|Rome|AkhaliNet LLC|
+|10|157.175.42.134|20183|Bahrain|Manama|Amazon.com, Inc.|
+|11|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|12|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|13|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|14|164.163.42.36|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|16|208.102.24.225|80|United States|Harrison|Fuse Internet Access|
+|17|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|18|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
+|19|104.238.30.12|63232|Italy|Rome|AkhaliNet LLC|
+|20|185.126.202.76|4005|Iran|Tehran|DPMobinIDC|
 
 
 
