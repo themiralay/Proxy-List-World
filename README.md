@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|216.195.100.56|3129|United States|Fort Worth|Belwave Communications|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|65.38.213.154|8881|Puerto Rico|San Juan|AT&T Mobility Puerto Rico|
-|7|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|9|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|10|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|6|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|7|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|8|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|10|103.16.118.78|1080|Indonesia|Madiun|CV Trustnet Media|
+|11|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
 |12|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
 |13|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|14|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|15|58.11.81.224|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|17|115.72.173.86|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|18|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|19|104.238.30.12|63232|Italy|Rome|AkhaliNet LLC|
-|20|104.238.30.16|63231|Italy|Rome|AkhaliNet LLC|
+|14|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|15|103.153.96.153|8181|Indonesia|Serang|NITNET|
+|16|216.195.100.56|3129|United States|Fort Worth|Belwave Communications|
+|17|128.140.113.110|5153|Germany|Falkenstein|Hetzner Online GmbH|
+|18|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|19|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|20|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
 
 
 
