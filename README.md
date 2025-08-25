@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|183.78.143.137|29554|South Korea|Gwangmyeong|Korea Telecom|
-|3|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
 |4|23.237.210.82|80|United States|Dallas|FDCservers.net|
 |5|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
-|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|8|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|9|115.144.67.215|12925|South Korea|Seongnam-si|HAIonNet|
-|10|27.79.187.192|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|45.167.126.1|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|12|45.167.126.1|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|13|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|14|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
-|15|104.238.30.16|63231|Italy|Rome|AkhaliNet LLC|
-|16|104.238.30.12|63232|Italy|Rome|AkhaliNet LLC|
-|17|190.145.194.210|8080|Colombia|Santiago de Cali|Telmex Colombia S.A.|
-|18|104.238.30.14|63233|Italy|Rome|AkhaliNet LLC|
-|19|164.163.42.4|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|49.254.17.113|18967|South Korea|Gangseo-gu|Korea Telecom|
+|8|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|9|45.167.126.1|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|10|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|11|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|15|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|104.238.30.12|63232|Italy|Rome|AkhaliNet LLC|
+|18|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|19|104.238.30.16|63231|Italy|Rome|AkhaliNet LLC|
+|20|104.238.30.14|63233|Italy|Rome|AkhaliNet LLC|
 
 
 
