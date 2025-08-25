@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|2|103.16.118.78|1080|Indonesia|Madiun|CV Trustnet Media|
+|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|4|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
 |5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|7|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|7|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |9|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|10|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|12|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
 |13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
 |14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|65.38.213.154|8881|Puerto Rico|San Juan|AT&T Mobility Puerto Rico|
-|16|91.121.208.196|5062|France|Roubaix|OVH SAS|
-|17|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|15|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |18|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|19|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|20|38.172.128.120|999|Peru|Lima|Conex TV E.I.R.L.|
+|19|65.38.213.154|8881|Puerto Rico|San Juan|AT&T Mobility Puerto Rico|
+|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 
 
 
