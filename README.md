@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|384|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|384|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|384|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|365|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|365|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|365|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|183.78.143.137|29554|South Korea|Gwangmyeong|Korea Telecom|
+|2|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
 |3|175.118.246.102|3128|South Korea|Gwangsan-gu|broadNnet|
-|4|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
+|4|183.78.143.137|29554|South Korea|Gwangmyeong|Korea Telecom|
 |5|49.254.17.113|18967|South Korea|Gangseo-gu|Korea Telecom|
-|6|209.121.164.50|31147|Canada|Vancouver|TELUS Communications Inc.|
-|7|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|8|27.79.242.226|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|27.50.29.180|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
-|10|27.79.211.97|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|27.79.211.97|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|216.195.100.61|3129|United States|Fort Worth|Belwave Communications|
+|9|216.195.100.57|3129|United States|Fort Worth|Belwave Communications|
+|10|1.2.208.253|8080|Thailand|Bangkok|TOT Public Company Limited|
 |11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|13|209.121.164.51|31147|Canada|Vancouver|TELUS Communications Inc.|
-|14|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|15|66.228.47.125|110|United States|Cedar Knolls|Akamai Technologies, Inc.|
+|12|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|13|27.79.242.226|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|15|58.11.81.224|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
 |16|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|17|45.174.95.142|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
 |18|14.225.3.194|3128|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|19|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|20|103.132.54.18|8080|Indonesia|Kajen|PT. ADEAKSA INDO JAYATAMA|
+|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|20|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
 
 
 
