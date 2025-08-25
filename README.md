@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
 |2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|3|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|4|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|5|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|6|38.52.155.165|999|Colombia|Bogotá|Giga Fibra SAS|
-|7|176.100.216.164|8282|Russia|Orekhovo-Zuyevo|Telecom-Uslugi|
-|8|104.238.30.16|63231|Italy|Rome|AkhaliNet LLC|
-|9|200.39.120.44|999|Mexico|Villa García|COORDINADORA DE CARRIER'S, S.A. DE C.V.|
-|10|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|11|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|12|72.10.160.173|17777|Canada|Montreal|GloboTech Communications|
-|13|91.121.208.196|5062|France|Roubaix|OVH SAS|
-|14|141.147.191.6|16718|Japan|Tokyo|Oracle Corporation|
-|15|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|185.138.120.109|8080|Iraq|Abu Ghraib|Horizon Scope Mobile Telecom WLL|
-|18|182.53.29.62|8080|Thailand|Bangkok|TOT Public Company Limited|
-|19|147.75.66.235|9401|United States|Secaucus|Equinix (EMEA) Acquisition Enterprises B.V.|
-|20|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|3|38.52.155.165|999|Colombia|Bogotá|Giga Fibra SAS|
+|4|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|5|104.238.30.16|63231|Italy|Rome|AkhaliNet LLC|
+|6|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|7|103.190.120.153|30031|Vietnam|Da Nang|KINGBOND|
+|8|182.53.29.62|8080|Thailand|Bangkok|TOT Public Company Limited|
+|9|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|10|91.121.208.196|5062|France|Roubaix|OVH SAS|
+|11|103.153.62.155|8080|Indonesia|Cikarang|PT Ikhlas Cipta Teknologi|
+|12|103.167.170.244|1111|Indonesia|Jakarta|PT Rajeg Media Telekomunikasi|
+|13|72.10.160.173|17777|Canada|Montreal|GloboTech Communications|
+|14|152.53.194.55|59060|United States|Reston|netcup GmbH|
+|15|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|16|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|18|103.172.42.183|2525|Indonesia|Kemantren Satu|PT Media Solusi Sukses|
+|19|45.175.155.38|999|Argentina|Río Segundo|Albornoz Guido Ruben|
+|20|103.172.42.175|8085|Indonesia|Karawang|PT Media Solusi Sukses|
 
 
 
