@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|413|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|413|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|413|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|377|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|377|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|377|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|4|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|10|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|11|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|12|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|14|88.210.38.50|3128|The Netherlands|Amsterdam|Melbikomas UAB|
-|15|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|17|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|18|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|157.175.42.134|20183|Bahrain|Manama|Amazon.com, Inc.|
+|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|36.95.169.154|8080|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
+|5|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|6|216.195.100.56|3129|United States|Fort Worth|Belwave Communications|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|9|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|10|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|15|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|16|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|17|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|18|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|20|91.121.208.196|5062|France|Roubaix|OVH SAS|
 
 
 
