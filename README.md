@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75514** proxies at the latest update. Usable proxies are below.
+> Scraper found **75531** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|49|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35911|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35928|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|41|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38587|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|103.234.27.194|8080|Bangladesh|Dhaka|BTS Communications (BD) Ltd|
-|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|9|103.13.234.18|8080|Indonesia|Sintang|PT PT Disafa Cahaya Utama|
-|10|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|11|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|103.82.246.23|6080|Indonesia|Segorotambak|PT Master Star Network|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|16|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|19|179.96.28.58|80|Brazil|Caldas Novas|Megatelecom Telecomunicacoes Ltda|
-|20|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|4|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|10|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|11|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|12|103.190.120.98|30027|Vietnam|Da Nang|KINGBOND|
+|13|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|14|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|15|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|16|179.96.28.58|80|Brazil|Caldas Novas|Megatelecom Telecomunicacoes Ltda|
+|17|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|18|177.93.48.137|999|Colombia|Granada|TV AZTECA SUCURSAL COLOMBIA|
+|19|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
+|20|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
