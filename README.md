@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|103.126.87.76|8081|Indonesia|Trucuk|PT. Rasi Bintang Perkasa|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|2|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|6|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
+|7|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|8|103.17.246.60|1080|Indonesia|Banjar Medura|PT Media Sarana Data|
 |9|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|10|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|11|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|14|103.41.88.6|83|India|Hyderabad|Iqtera Communication Pvt Ltd|
-|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|16|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|17|115.72.173.86|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|18|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
-|19|103.169.38.240|8080|Indonesia|Jogonalan|PT Boombas Carlo Medianet|
-|20|151.236.216.49|34128|United Kingdom|London|Akamai Technologies, Inc.|
+|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|11|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|14|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|15|103.169.128.158|80|Indonesia|Cirebon|PT Media Akses Data|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|18|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
+|19|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
