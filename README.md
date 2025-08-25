@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|4|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|5|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|6|67.43.236.20|11983|Canada|Montreal|GloboTech Communications|
-|7|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|8|38.41.0.60|11201|Venezuela|Caracas|MDS TELECOM C.A.|
-|9|147.28.240.218|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|10|104.238.30.16|63231|Italy|Rome|AkhaliNet LLC|
-|11|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|12|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|13|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|14|103.190.120.98|30000|Vietnam|Da Nang|KINGBOND|
-|15|67.43.228.254|4421|Canada|Montreal|GloboTech Communications|
-|16|37.120.162.180|44720|Germany|Nuremberg|netcup GmbH|
-|17|103.189.249.140|1111|Indonesia|Bancak Wetan|PT Berkah Media Kusuma Vision|
-|18|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|19|38.194.246.34|999|Mexico|Reynosa|Cogent Communications|
+|1|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|2|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
+|5|152.53.194.46|8065|United States|Reston|netcup GmbH|
+|6|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|7|38.199.65.97|999|Colombia|Bogotá|TV COLOMBIA DIGITAL SAS|
+|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|9|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|10|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|38.52.155.165|999|Colombia|Bogotá|Giga Fibra SAS|
+|12|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|13|222.59.173.105|45148|China|Qinnan|China Mobile Communications Corporation|
+|14|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|15|222.59.173.105|45148|China|Qinnan|China Mobile Communications Corporation|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|67.43.236.20|11983|Canada|Montreal|GloboTech Communications|
+|18|147.28.240.218|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|19|104.238.30.16|63231|Italy|Rome|AkhaliNet LLC|
 |20|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
 
 
