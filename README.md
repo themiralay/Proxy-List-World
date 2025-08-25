@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|49.150.58.141|8082|Philippines|Guimba|Philippine Long Distance Telephone Co.|
-|3|45.126.125.206|8194|Hong Kong|Hong Kong|Kamatera|
-|4|121.132.61.211|3128|South Korea|Paju-si|Korea Telecom|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|2|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
 |6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|103.193.144.42|8085|Indonesia|Pangkalan Brandan|PT Lintas Jaringan Nusantara|
+|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
 |9|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|11|115.72.173.86|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|10|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|11|51.79.99.237|4502|Canada|Montreal|OVH SAS|
 |12|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|13|49.156.44.115|8080|Cambodia|Phnom Penh|WiCAM Corporation|
-|14|103.162.17.203|8080|Indonesia|Pajeksan|PT Mega Data Perkasa|
-|15|195.90.211.14|3128|Germany|Berlin|EVANZO e-commerce GmbH|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|186.116.148.52|8080|Colombia|Soacha|Colombia Telecomunicaciones S.a. ESP BIC|
-|20|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|13|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|14|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|195.90.211.14|3128|Germany|Berlin|EVANZO e-commerce GmbH|
+|17|157.66.16.36|5568|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|18|103.122.0.151|8181|Indonesia|Cempaka|PT. Java Digital Nusantara|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|36.37.180.40|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE|
 
 
 
