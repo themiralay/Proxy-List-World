@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|45.126.125.206|8194|Hong Kong|Hong Kong|Kamatera|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|7|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|8|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|10|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|11|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|103.217.224.36|3127|Indonesia|Ungaran|PT Nesta Indo Media|
-|16|202.47.188.193|7777|Indonesia|Ponorogo|Lintas Data Prima, PT|
-|17|27.147.215.56|13457|Bangladesh|Dhaka|Link3 Technologies Limited|
+|2|209.121.164.50|31147|Canada|Vancouver|TELUS Communications Inc.|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|209.121.164.51|31147|Canada|Vancouver|TELUS Communications Inc.|
+|5|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|8|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|9|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|10|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|11|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|14|179.96.28.58|80|Brazil|Caldas Novas|Megatelecom Telecomunicacoes Ltda|
+|15|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|16|103.126.86.29|9090|Indonesia|Karanganyar|PT. Rasi Bintang Perkasa|
+|17|41.65.103.29|1976|Egypt|Helwan|Etisalat Misr Mobile BB|
 |18|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|19|179.96.28.58|80|Brazil|Caldas Novas|Megatelecom Telecomunicacoes Ltda|
-|20|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|19|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|20|36.50.92.109|1111|Indonesia|Sukamulya|PT Ring Media Nusantara|
 
 
 
