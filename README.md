@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|49.156.44.115|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|49.156.44.115|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|6|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
 |7|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|8|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|10|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|11|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|14|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
-|15|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|8|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|9|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|195.90.211.14|3128|Germany|Berlin|EVANZO e-commerce GmbH|
+|12|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|13|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|14|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|15|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|16|45.126.125.206|8194|Hong Kong|Hong Kong|Kamatera|
 |17|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|18|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|19|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|20|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|18|91.121.208.196|5062|France|Roubaix|OVH SAS|
+|19|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|104.238.30.14|63233|Italy|Rome|AkhaliNet LLC|
 
 
 
