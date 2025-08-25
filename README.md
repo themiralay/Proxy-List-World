@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|183.78.143.137|29554|South Korea|Gwangmyeong|Korea Telecom|
-|3|27.79.211.97|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|27.79.230.37|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|27.79.187.192|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|8|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|10|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
-|11|45.167.126.1|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|14|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
-|17|45.115.136.32|8080|Indonesia|Satui|PT Mitra Akses Globalindo|
-|18|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|19|103.156.17.175|8818|Indonesia|Jatibarang|RSTNET|
+|3|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|4|27.79.211.97|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.187.192|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|7|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
+|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|9|27.79.230.37|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|11|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|15|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|16|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|17|49.254.17.113|18967|South Korea|Gangseo-gu|Korea Telecom|
+|18|27.79.242.226|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
 |20|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
 
 
