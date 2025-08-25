@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|45.126.125.206|8194|Hong Kong|Hong Kong|Kamatera|
-|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|8|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|13|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|16|91.121.208.196|5062|France|Roubaix|OVH SAS|
-|17|88.210.38.50|3128|The Netherlands|Amsterdam|Melbikomas UAB|
-|18|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|19|195.90.211.14|3128|Germany|Berlin|EVANZO e-commerce GmbH|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|2|45.126.125.206|8194|Hong Kong|Hong Kong|Kamatera|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|103.63.26.119|8080|Indonesia|Probolinggo|PT Global Media Data Prima|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|9|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|10|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|11|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|13|27.147.28.73|8080|Taiwan|New Taipei City|Extra-Lan Technologies Co., LTD|
+|14|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|17|103.39.51.20|8090|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
+|18|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|19|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|20|112.204.118.221|8080|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
 
 
 
