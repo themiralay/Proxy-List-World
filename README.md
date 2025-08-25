@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|115.72.173.86|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|7|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|8|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|11|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|12|157.66.16.36|5568|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|13|103.126.87.76|8081|Indonesia|Trucuk|PT. Rasi Bintang Perkasa|
-|14|179.96.28.58|80|Brazil|Caldas Novas|Megatelecom Telecomunicacoes Ltda|
-|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|16|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|17|103.247.23.53|4317|Indonesia|Wonosobo|PT wifian Solution|
-|18|157.10.97.101|8181|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
-|19|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
+|3|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|4|103.18.79.82|8080|Indonesia|Cibinong|PT Usaha Adi Sanggoro|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|8|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|9|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|10|103.190.120.153|30028|Vietnam|Da Nang|KINGBOND|
+|11|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|14|163.223.78.89|8080|Indonesia|Jombang|PT Big Network Indonesia|
+|15|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|16|179.96.28.58|80|Brazil|Caldas Novas|Megatelecom Telecomunicacoes Ltda|
+|17|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|18|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|19|115.72.173.86|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|20|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
