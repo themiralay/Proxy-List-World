@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75346** proxies at the latest update. Usable proxies are below.
+> Scraper found **75298** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|78|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35777|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35723|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|34|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|40|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38531|✅|
 
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
 |5|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
 |7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|183.78.143.137|29554|South Korea|Gwangmyeong|Korea Telecom|
-|10|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|11|36.95.173.90|8899|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|9|206.42.55.99|3128|Brazil|Teresina|Brisanet Servicos De Telecomunicacoes Ltda|
+|10|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|11|104.238.30.16|63231|Italy|Rome|AkhaliNet LLC|
+|12|104.238.30.12|63232|Italy|Rome|AkhaliNet LLC|
+|13|104.238.30.14|63233|Italy|Rome|AkhaliNet LLC|
 |14|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|15|65.38.213.154|8881|Puerto Rico|San Juan|AT&T Mobility Puerto Rico|
-|16|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|18|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
-|19|104.238.30.12|63232|Italy|Rome|AkhaliNet LLC|
-|20|104.238.30.14|63233|Italy|Rome|AkhaliNet LLC|
+|15|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
+|16|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|17|65.38.213.154|8881|Puerto Rico|San Juan|AT&T Mobility Puerto Rico|
+|18|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|19|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|20|38.52.155.165|999|Colombia|Bogotá|Giga Fibra SAS|
 
 
 
