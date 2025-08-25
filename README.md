@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|4|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|7|38.52.155.165|999|Colombia|Bogotá|Giga Fibra SAS|
-|8|151.236.216.49|34128|United Kingdom|London|Akamai Technologies, Inc.|
-|9|175.118.246.102|3128|South Korea|Gwangsan-gu|broadNnet|
-|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|11|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|12|147.28.240.218|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|13|88.210.38.50|3128|The Netherlands|Amsterdam|Melbikomas UAB|
-|14|147.28.240.215|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|15|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|16|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|17|147.28.240.218|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|18|147.28.240.216|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
-|19|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|45.126.125.206|8194|Hong Kong|Hong Kong|Kamatera|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|14.225.3.194|3128|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|7|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|8|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|10|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|14|113.160.224.236|1452|Vietnam|Nha Trang|VietNam Post and Telecom Corporation|
+|15|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|19|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
 |20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
