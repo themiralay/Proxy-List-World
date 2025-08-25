@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|4|27.79.211.97|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|8|27.79.230.37|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|183.78.143.137|29554|South Korea|Gwangmyeong|Korea Telecom|
+|3|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|5|27.79.211.97|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|27.79.187.192|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|27.79.230.37|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
 |9|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
-|10|27.79.187.192|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|183.78.143.137|29554|South Korea|Gwangmyeong|Korea Telecom|
+|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|11|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|13|45.167.126.1|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
 |14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 |15|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|16|49.254.17.113|18967|South Korea|Gangseo-gu|Korea Telecom|
-|17|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|18|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|19|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|20|27.79.187.192|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|65.38.213.154|8881|Puerto Rico|San Juan|AT&T Mobility Puerto Rico|
+|19|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|20|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
