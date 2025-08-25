@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|121.132.61.211|3128|South Korea|Paju-si|Korea Telecom|
+|2|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
 |3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
 |4|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|5|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|6|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|9|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|7|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |10|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|11|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|12|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|15|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|16|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|19|45.167.126.1|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|20|177.19.167.242|80|Brazil|Porto Alegre|Vivo|
+|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|14|216.195.100.56|3129|United States|Fort Worth|Belwave Communications|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|19|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|20|51.79.99.237|4502|Canada|Montreal|OVH SAS|
 
 
 
