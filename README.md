@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|183.78.143.137|29554|South Korea|Gwangmyeong|Korea Telecom|
 |4|124.198.86.96|14448|South Korea|Gwangmyeong|Korea Telecom|
 |5|183.78.143.138|22780|South Korea|Gwangmyeong|Korea Telecom|
-|6|27.79.211.97|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|115.79.198.94|1452|Vietnam|Ho Chi Minh City|VIETELftth|
-|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|10|103.122.0.52|8181|Indonesia|Cempaka|PT. Java Digital Nusantara|
-|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|13|27.79.242.226|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|103.187.86.24|8183|Indonesia|Pinrang|PT Satunol Digital Teknologi|
-|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|16|103.143.197.218|8000|Indonesia|Karanganom|JERNIHNETWORK|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|103.171.182.229|8080|Indonesia|Cianjur|PT Hayat Teknologi Informatika|
-|19|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|20|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|209.121.164.51|31147|Canada|Vancouver|TELUS Communications Inc.|
+|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|171.251.22.140|10002|Vietnam|Da Nang|Viettel Corporation|
+|13|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|14|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|15|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|182.52.155.135|8080|Thailand|Bangkok|TOT Public Company Limited|
 
 
 
