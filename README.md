@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|7|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|11|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|223.205.59.163|8080|Thailand|Pattani|Triple T Broadband Public Company Limited|
-|18|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|19|179.96.28.58|80|Brazil|Caldas Novas|Megatelecom Telecomunicacoes Ltda|
-|20|103.167.15.135|8080|Bangladesh|Rāipur|Sajid Trading Limited|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|103.13.204.105|1111|Indonesia|Ngulaan|PT JARINGANKU SARANA NUSANTARA|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|7|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|8|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|9|151.236.216.49|34128|United Kingdom|London|Akamai Technologies, Inc.|
+|10|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|11|103.126.87.76|8081|Indonesia|Trucuk|PT. Rasi Bintang Perkasa|
+|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|13|103.179.252.74|8181|Indonesia|Bandilan Krajan|PT Pusaka Kreasi Mandiri|
+|14|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|223.205.59.163|8080|Thailand|Pattani|Triple T Broadband Public Company Limited|
+|19|89.58.35.180|3128|Germany|Nuremberg|netcup GmbH|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
