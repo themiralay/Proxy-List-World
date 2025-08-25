@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|183.78.143.137|29554|South Korea|Gwangmyeong|Korea Telecom|
-|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|4|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|2|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|3|27.79.187.192|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|27.79.211.97|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.230.37|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |10|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|11|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|14|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|15|45.167.126.1|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|16|45.115.136.32|8080|Indonesia|Satui|PT Mitra Akses Globalindo|
-|17|103.82.0.42|31280|United Kingdom|Lytham St Annes|Netwise Hosting Ltd|
-|18|104.238.30.12|63232|Italy|Rome|AkhaliNet LLC|
-|19|104.238.30.16|63231|Italy|Rome|AkhaliNet LLC|
-|20|104.238.30.14|63233|Italy|Rome|AkhaliNet LLC|
+|11|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|183.78.143.137|29554|South Korea|Gwangmyeong|Korea Telecom|
+|14|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|15|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|18|27.79.164.187|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|20|103.82.0.42|31280|United Kingdom|Lytham St Annes|Netwise Hosting Ltd|
 
 
 
