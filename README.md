@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|175.118.246.102|3128|South Korea|Gwangsan-gu|broadNnet|
-|3|183.78.143.137|29554|South Korea|Gwangmyeong|Korea Telecom|
+|3|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
 |4|49.254.17.113|18967|South Korea|Gangseo-gu|Korea Telecom|
-|5|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
+|5|183.78.143.137|29554|South Korea|Gwangmyeong|Korea Telecom|
 |6|27.79.211.97|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |8|27.79.242.226|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|12|66.228.47.125|110|United States|Cedar Knolls|Akamai Technologies, Inc.|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|14|27.79.230.37|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|14.225.3.194|3128|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|17|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|19|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|20|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|11|27.79.230.37|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|13|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|14|14.225.3.194|3128|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|15|66.228.47.125|110|United States|Cedar Knolls|Akamai Technologies, Inc.|
+|16|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|17|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|18|35.206.88.200|8888|United States|Council Bluffs|Google LLC|
+|19|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|20|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 
 
 
