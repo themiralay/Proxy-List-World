@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|2|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|3|151.236.216.49|34128|United Kingdom|London|Akamai Technologies, Inc.|
-|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|7|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|8|176.100.216.164|8282|Russia|Orekhovo-Zuyevo|Telecom-Uslugi|
-|9|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|11|190.61.55.19|999|Colombia|Bosconia|Ufinet Panama S.A.|
-|12|152.53.194.46|8065|United States|Reston|netcup GmbH|
-|13|120.28.214.157|8080|Philippines|Davao City|Globe Telecom|
-|14|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|15|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|16|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|17|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|19|222.59.173.105|45069|China|Qinnan|China Mobile Communications Corporation|
-|20|38.9.141.63|8080|Indonesia|Medan|PT. Media Antar Nusa|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|4|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|5|151.236.216.49|34128|United Kingdom|London|Akamai Technologies, Inc.|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|38.52.155.165|999|Colombia|Bogotá|Giga Fibra SAS|
+|8|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|9|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|10|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|12|103.138.185.81|83|India|Rāwatbhāta|Mahrth Internet Service Private Limited|
+|13|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|14|157.66.16.38|8070|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|15|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|16|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|17|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
+|18|103.190.120.153|30001|Vietnam|Da Nang|KINGBOND|
+|19|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|20|222.59.173.105|45248|China|Qinnan|China Mobile Communications Corporation|
 
 
 
