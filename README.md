@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|4|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|3|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|4|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 |5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|7|45.167.126.1|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|6|45.167.126.1|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |8|67.43.236.18|9903|Canada|Montreal|GloboTech Communications|
-|9|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|10|180.190.187.41|5050|Philippines|Lahug|Globe Telecom|
-|11|45.174.95.142|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|12|103.153.39.35|8083|Pakistan|Burewala|Getlinks (SMC-Private) Limited|
-|13|147.28.240.214|443|Germany|Frankfurt am Main|Packet Host, Inc.|
-|14|72.10.160.170|30725|Canada|Montreal|GloboTech Communications|
-|15|103.97.140.23|8080|Indonesia|Bandung|PT Jembatan Data Pangrango|
-|16|193.43.140.228|8080|Syria|Damascus|Syrian Telecom|
-|17|67.43.236.20|23069|Canada|Montreal|GloboTech Communications|
-|18|115.72.173.86|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|19|38.194.246.34|999|Mexico|Reynosa|Cogent Communications|
-|20|37.120.162.180|30661|Germany|Nuremberg|netcup GmbH|
+|9|51.161.197.172|6541|Australia|Sydney|OVH SAS|
+|10|222.59.173.105|45248|China|Qinnan|China Mobile Communications Corporation|
+|11|222.59.173.105|45248|China|Qinnan|China Mobile Communications Corporation|
+|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|13|186.235.201.10|8080|Brazil|Conselheiro Lafaiete|Vero S.A|
+|14|180.190.187.41|5050|Philippines|Lahug|Globe Telecom|
+|15|45.225.105.172|8080|Ecuador|Las Balsas|Ufinet Panama S.A.|
+|16|37.238.63.53|8080|Iraq|Baghdad|Hulum|
+|17|222.59.173.105|45248|China|Qinnan|China Mobile Communications Corporation|
+|18|200.37.252.122|8080|Peru|Tarma|Telefonica del Peru S.A.A.|
+|19|222.59.173.105|45248|China|Qinnan|China Mobile Communications Corporation|
+|20|157.15.41.138|8082|Indonesia|Madiun|PT Trisari Data Indonusa|
 
 
 
