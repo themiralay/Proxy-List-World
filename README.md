@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
 |3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
 |5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|160.22.74.110|39106|Vietnam|Quận Phú Nhuận|PHANHUUBAOSOLUTIONS|
-|11|151.236.216.49|34128|United Kingdom|London|Akamai Technologies, Inc.|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|115.79.70.69|8470|Vietnam|Ho Chi Minh City|VIETELftth|
+|9|202.58.206.15|8080|Indonesia|Denpasar|Internet Madju Abad Millenindo, PT|
+|10|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
 |13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|14|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|15|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
-|17|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|18|179.96.28.58|80|Brazil|Caldas Novas|Megatelecom Telecomunicacoes Ltda|
-|19|202.58.206.15|8080|Indonesia|Denpasar|Internet Madju Abad Millenindo, PT|
-|20|115.72.173.86|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|14|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
+|16|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|17|36.50.92.109|1111|Indonesia|Sukamulya|PT Ring Media Nusantara|
+|18|103.160.202.198|8080|Indonesia|Ponorogo|PT Sembilan Mediadata Nusaraya|
+|19|122.52.213.79|62102|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|20|179.96.28.58|80|Brazil|Caldas Novas|Megatelecom Telecomunicacoes Ltda|
 
 
 
