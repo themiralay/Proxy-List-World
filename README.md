@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|3|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|10|58.11.81.224|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|2|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
+|5|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|8|119.93.82.171|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |11|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|172.98.201.190|3128|United States|Dallas|Centrilogic|
-|17|91.121.208.196|5062|France|Roubaix|OVH SAS|
-|18|202.58.77.173|3127|Indonesia|Tawangrejo|PT Data Buana Nusantara|
-|19|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|20|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|12|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|15|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|16|113.192.12.84|3030|Indonesia|Cikarang|PT Parsaoran Global Datatrans|
+|17|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|18|180.149.232.201|2024|Bangladesh|Gazipur|Digi Jadoo Broadband Ltd|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|45.115.113.182|4334|Bangladesh|Kāfrul|Drik ICT Ltd|
 
 
 
