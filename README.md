@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|49.156.44.115|8080|Cambodia|Phnom Penh|WiCAM Corporation|
-|6|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|8|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|5|45.126.125.206|8194|Hong Kong|Hong Kong|Kamatera|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|49.156.44.115|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|8|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|10|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|11|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|195.90.211.14|3128|Germany|Berlin|EVANZO e-commerce GmbH|
-|16|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|14|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|195.90.211.14|3128|Germany|Berlin|EVANZO e-commerce GmbH|
 |17|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|18|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|19|103.163.231.106|3127|Indonesia|Jakarta|PT Metrosolusi Teknologi Indonesia|
-|20|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 
 
 
