@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|115.72.173.86|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|4|103.126.87.181|7777|Indonesia|Trucuk|PT. Rasi Bintang Perkasa|
-|5|43.252.237.107|8090|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|6|49.156.44.115|8080|Cambodia|Phnom Penh|WiCAM Corporation|
-|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|7|51.79.99.237|4502|Canada|Montreal|OVH SAS|
 |8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|9|157.66.16.36|5568|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|10|36.37.180.40|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE|
-|11|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|12|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|14|186.116.148.52|8080|Colombia|Soacha|Colombia Telecomunicaciones S.a. ESP BIC|
-|15|27.124.80.58|82|Indonesia|Sleman|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
-|16|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|17|195.90.211.14|3128|Germany|Berlin|EVANZO e-commerce GmbH|
-|18|204.199.140.27|999|Chile|Villa Alegre|Ingbell Chile SPA|
-|19|103.132.40.58|7777|Indonesia|Banjarnegara|PT Kalimasada Inti Sarana|
-|20|103.156.17.35|8181|Indonesia|Jatibarang|RSTNET|
+|9|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|12|49.156.44.115|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|189.141.97.62|8118|Mexico|Querétaro City|UNINET|
+|17|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|18|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
+|19|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|20|157.20.219.189|8080|Indonesia|Wonosobo|PT Sindoro Sumbing Network Solution|
 
 
 
