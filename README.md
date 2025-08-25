@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|377|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|377|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|377|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|317|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|317|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|317|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|3|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
-|4|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|10|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|11|216.195.100.56|3129|United States|Fort Worth|Belwave Communications|
-|12|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|13|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|16|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|17|65.38.213.154|8881|Puerto Rico|San Juan|AT&T Mobility Puerto Rico|
-|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|6|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|7|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|9|115.72.173.86|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|13|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
+|14|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|16|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|17|103.190.120.153|30028|Vietnam|Da Nang|KINGBOND|
+|18|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
 |19|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|20|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|20|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
 
 
 
