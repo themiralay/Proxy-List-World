@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|377|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|377|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|377|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|183.78.143.137|29554|South Korea|Gwangmyeong|Korea Telecom|
 |3|175.118.246.102|3128|South Korea|Gwangsan-gu|broadNnet|
 |4|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
-|5|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|6|49.254.17.113|18967|South Korea|Gangseo-gu|Korea Telecom|
-|7|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
-|11|27.79.211.97|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|13|27.79.230.37|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|1.2.208.253|8080|Thailand|Bangkok|TOT Public Company Limited|
-|15|216.195.100.61|3129|United States|Fort Worth|Belwave Communications|
-|16|216.195.100.57|3129|United States|Fort Worth|Belwave Communications|
+|5|49.254.17.113|18967|South Korea|Gangseo-gu|Korea Telecom|
+|6|27.79.230.37|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|27.79.211.97|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|9|58.11.81.224|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|10|1.2.208.253|8080|Thailand|Bangkok|TOT Public Company Limited|
+|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|66.228.47.125|110|United States|Cedar Knolls|Akamai Technologies, Inc.|
+|13|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|14|103.171.182.229|8080|Indonesia|Cianjur|PT Hayat Teknologi Informatika|
+|15|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |17|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|19|66.228.47.125|110|United States|Cedar Knolls|Akamai Technologies, Inc.|
-|20|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|18|35.206.88.200|8888|United States|Council Bluffs|Google LLC|
+|19|27.79.242.226|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 
 
 
