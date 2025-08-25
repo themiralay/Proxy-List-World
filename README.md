@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|45.126.125.206|8194|Hong Kong|Hong Kong|Kamatera|
-|3|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|4|49.156.44.115|8080|Cambodia|Phnom Penh|WiCAM Corporation|
-|5|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|6|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|45.126.125.206|8194|Hong Kong|Hong Kong|Kamatera|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|121.132.61.211|3128|South Korea|Paju-si|Korea Telecom|
+|6|51.79.99.237|4502|Canada|Montreal|OVH SAS|
 |7|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|8|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|195.90.211.14|3128|Germany|Berlin|EVANZO e-commerce GmbH|
-|12|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|13|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|103.227.186.61|6080|Indonesia|Banyuwangi|PT Master Star Network|
-|16|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|17|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|18|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|19|93.91.112.247|41258|Russia|Tver|Fast Link Ltd.|
-|20|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|9|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|10|49.156.44.115|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|11|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|13|170.64.149.240|3128|Australia|Sydney|DigitalOcean, LLC|
+|14|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|195.90.211.14|3128|Germany|Berlin|EVANZO e-commerce GmbH|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|20|128.140.113.110|5153|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
