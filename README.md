@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|183.78.143.137|29554|South Korea|Gwangmyeong|Korea Telecom|
 |3|49.254.17.113|18967|South Korea|Gangseo-gu|Korea Telecom|
-|4|27.79.230.37|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|27.79.211.97|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |6|27.79.242.226|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|8|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|9|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|14|109.135.16.145|8789|Belgium|Machelen|Proximus NV|
-|15|116.193.220.171|8080|Bangladesh|Dhaka|MetroNet Bangladesh Limited|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|191.13.221.231|8888|Brazil|Americana|Vivo|
-|18|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|19|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|20|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|7|171.231.50.86|1452|Vietnam|Pleiku|Viettel Corporation|
+|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|9|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|10|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|191.13.221.231|8888|Brazil|Americana|Vivo|
+|13|103.167.156.25|8083|Indonesia|Pemalang|PT Jaringan Tiang Indonesia Group|
+|14|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|15|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|16|103.87.148.17|8085|Indonesia|Pundong|Lintas Data Prima, PT|
+|17|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|20|181.117.205.216|8080|Argentina|Rosario|Techtel LMDS Comunicaciones Interactivas S.A.|
 
 
 
