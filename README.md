@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|49.156.44.115|8080|Cambodia|Phnom Penh|WiCAM Corporation|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|14|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|15|195.90.211.14|3128|Germany|Berlin|EVANZO e-commerce GmbH|
-|16|103.145.149.36|8080|Indonesia|Gandul|PT. Indonesia Comnets Plus|
-|17|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|18|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|19|209.121.164.50|31147|Canada|Vancouver|TELUS Communications Inc.|
-|20|209.121.164.51|31147|Canada|Vancouver|TELUS Communications Inc.|
+|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|7|49.156.44.115|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|8|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|10|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|11|195.90.211.14|3128|Germany|Berlin|EVANZO e-commerce GmbH|
+|12|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|13|157.20.38.17|8080|Indonesia|Bekasi|PT Sinyal Khatulistiwa Network|
+|14|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|17|115.72.173.86|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
+|18|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|19|202.137.14.57|8085|Indonesia|Tangerang|customer in Corporate Access|
+|20|94.158.49.82|3128|Uzbekistan|Guliston|Iplus LLC|
 
 
 
