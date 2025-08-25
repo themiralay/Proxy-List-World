@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |3|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
 |4|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|10|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|11|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
-|12|103.190.120.98|30027|Vietnam|Da Nang|KINGBOND|
-|13|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|5|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|8|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|9|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|12|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|13|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
 |14|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|15|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|16|179.96.28.58|80|Brazil|Caldas Novas|Megatelecom Telecomunicacoes Ltda|
-|17|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|18|177.93.48.137|999|Colombia|Granada|TV AZTECA SUCURSAL COLOMBIA|
-|19|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
-|20|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|16|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|17|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
+|18|180.191.16.34|8082|Philippines|Cabanatuan City|Globe Telecom|
+|19|104.238.30.16|63231|Italy|Rome|AkhaliNet LLC|
+|20|104.238.30.14|63233|Italy|Rome|AkhaliNet LLC|
 
 
 
