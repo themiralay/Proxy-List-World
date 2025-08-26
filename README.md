@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|405|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|405|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|405|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|27.79.211.97|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
-|3|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|4|27.79.187.192|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|27.79.187.192|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|4|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
 |5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|27.79.184.232|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|10|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|11|152.53.39.66|8041|United States|Manassas|netcup GmbH|
-|12|37.123.192.106|8080|United States|San Jose|Kirino LLC|
-|13|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|14|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|15|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|16|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|19|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|20|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|6|27.79.184.232|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|8|152.53.39.66|8041|United States|Manassas|netcup GmbH|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|11|180.191.20.35|8082|Philippines|Cabanatuan City|Globe Telecom|
+|12|116.118.51.178|30019|Vietnam|Hanoi|SPT|
+|13|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|15|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|17|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|18|74.50.96.247|8888|United States|Los Angeles|HIVELOCITY|
+|19|37.123.192.106|8080|United States|San Jose|Kirino LLC|
+|20|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
 
 
 
