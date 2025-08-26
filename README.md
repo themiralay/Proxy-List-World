@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|391|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|391|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|391|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|27.79.242.226|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|4|209.121.164.51|31147|Canada|Vancouver|TELUS Communications Inc.|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|27.79.211.97|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|10|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|11|209.121.164.50|31147|Canada|Vancouver|TELUS Communications Inc.|
-|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|13|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|15|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|18|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|19|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|3|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|4|27.79.211.97|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|7|103.169.254.9|6080|Indonesia|Madiun|PT Master Star Network|
+|8|192.46.230.254|3128|Singapore|Singapore|Akamai Technologies, Inc.|
+|9|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|11|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|12|152.53.194.46|8065|United States|Reston|netcup GmbH|
+|13|20.204.175.243|3128|India|Pune|Microsoft Corporation|
+|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|17|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|18|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|19|171.251.22.140|10001|Vietnam|Da Nang|Viettel Corporation|
 |20|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
 
 
