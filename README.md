@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|27.79.242.226|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|10|134.209.152.106|3128|India|Bengaluru|DigitalOcean, LLC|
+|2|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|4|183.78.143.137|29554|South Korea|Gwangmyeong|Korea Telecom|
+|5|27.79.211.97|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|124.198.86.96|14448|South Korea|Gwangmyeong|Korea Telecom|
+|10|27.79.242.226|16000|Vietnam|Hanoi|Viettel Corporation|
 |11|183.78.143.138|22780|South Korea|Gwangmyeong|Korea Telecom|
-|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|13|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|13|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
 |14|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|17|124.198.86.96|14448|South Korea|Gwangmyeong|Korea Telecom|
-|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|19|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|16|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|17|113.162.238.224|20499|Vietnam|Thu Dau Mot|VietNam Post and Telecom Corporation|
+|18|181.205.39.236|8080|Colombia|Medellín|Colombia Móvil|
+|19|134.209.152.106|3128|India|Bengaluru|DigitalOcean, LLC|
 |20|51.79.99.237|4502|Canada|Montreal|OVH SAS|
 
 
