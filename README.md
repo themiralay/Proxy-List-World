@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|387|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|387|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|387|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|27.79.242.226|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|7|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|2|27.79.242.226|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|27.79.211.97|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|6|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |8|38.127.172.106|24171|United States|Washington|Cogent Communications|
-|9|38.127.172.106|24171|United States|Washington|Cogent Communications|
-|10|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|11|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|27.79.211.97|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|15|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|16|190.14.254.49|999|Colombia|Santiago de Cali|Media Commerce Partners S.A|
-|17|209.14.98.6|8080|Colombia|Repelón|AGIS|
-|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|19|171.248.80.7|8080|Vietnam|Long An|Viettel Corporation|
-|20|49.205.160.117|8080|India|Nellore|ACT Fibernet|
+|9|172.235.28.32|3128|India|Chennai|Akamai Technologies, Inc.|
+|10|152.53.194.46|8065|United States|Reston|netcup GmbH|
+|11|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|12|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|13|38.127.172.106|24171|United States|Washington|Cogent Communications|
+|14|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|17|216.195.100.62|3129|United States|Fort Worth|Belwave Communications|
+|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|19|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
+|20|46.34.165.86|443|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
 
 
 
