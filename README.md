@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|1|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |2|27.79.211.97|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|116.118.51.178|30019|Vietnam|Hanoi|SPT|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|27.79.184.232|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|152.53.39.66|8041|United States|Manassas|netcup GmbH|
+|3|27.79.184.232|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
 |7|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|10|61.29.96.146|80|Australia|Albury|AAPT Limited|
-|11|60.249.94.59|3128|Taiwan|Chang-hua|Chunghwa Telecom Co., Ltd.|
-|12|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|13|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|14|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|15|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|16|154.27.200.7|999|Mexico|Tochtepec|Cogent Communications|
-|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|18|37.123.192.106|8080|United States|San Jose|Kirino LLC|
-|19|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|20|77.110.114.19|8118|United States|Charlotte|Aeza International LTD|
+|8|152.53.39.66|8041|United States|Manassas|netcup GmbH|
+|9|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|14|114.9.24.102|8082|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|15|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|16|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|17|61.29.96.146|80|Australia|Albury|AAPT Limited|
+|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|19|38.127.172.5|24171|United States|Washington|Cogent Communications|
+|20|37.123.192.106|8080|United States|San Jose|Kirino LLC|
 
 
 
