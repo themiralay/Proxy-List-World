@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|103.139.98.50|8090|Indonesia|Jabung|Digital Network Setiawan|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|7|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|11|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|12|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|13|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|16|152.53.194.46|8065|United States|Reston|netcup GmbH|
-|17|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|19|38.127.172.106|24171|United States|Washington|Cogent Communications|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|9|209.121.164.51|31147|Canada|Vancouver|TELUS Communications Inc.|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|12|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|13|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|14|103.153.38.105|8083|Pakistan|Multan|Getlinks (SMC-Private) Limited|
+|15|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|16|47.252.81.108|8118|United States|Charlottesville|Alibaba Cloud LLC|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|27.79.242.226|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|202.154.18.172|8082|Indonesia|Babat|DIGITNET|
 
 
 
