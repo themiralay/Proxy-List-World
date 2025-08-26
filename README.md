@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|27.79.242.226|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|8|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|10|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|12|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|13|45.133.107.64|81|Armenia|Vedi|Art-net LLC|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|27.79.211.97|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|50.200.166.130|8080|United States|Cranbury|Comcast Cable Communications|
-|17|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|18|222.127.227.102|8082|Philippines|Iloilo City|GLBB|
-|19|120.28.137.232|8082|Philippines|Caloocan City|Globe Telecom|
-|20|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|8|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|9|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|10|38.127.172.106|24171|United States|Washington|Cogent Communications|
+|11|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|12|103.153.38.105|8083|Pakistan|Multan|Getlinks (SMC-Private) Limited|
+|13|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|103.154.118.154|57413|Indonesia|Jakarta|MORATELINDONAP|
+|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|18|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|19|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|20|38.127.172.106|24171|United States|Washington|Cogent Communications|
 
 
 
