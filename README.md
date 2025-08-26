@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75362** proxies at the latest update. Usable proxies are below.
+> Scraper found **75228** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -32,7 +32,7 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35804|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|87|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38425|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38291|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|27.79.145.251|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|27.79.211.97|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|27.79.184.232|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
-|6|27.79.187.217|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|27.79.193.165|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|27.79.161.218|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|27.79.199.188|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|27.79.188.65|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|13|152.53.39.66|8041|United States|Manassas|netcup GmbH|
-|14|27.79.160.36|16000|Vietnam|Hanoi|Viettel Corporation|
-|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|16|27.79.186.226|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|2|27.79.184.232|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|4|27.79.199.188|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.187.217|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|27.79.145.251|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|8|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|9|27.79.160.36|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|27.79.193.165|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|152.53.39.66|8041|United States|Manassas|netcup GmbH|
+|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|13|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|15|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|16|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|17|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
 |18|27.79.154.104|16000|Vietnam|Hanoi|Viettel Corporation|
-|19|27.79.157.127|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|19|27.79.188.65|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|35.206.88.200|8888|United States|Council Bluffs|Google LLC|
 
 
 
