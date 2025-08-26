@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|2|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|3|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
 |4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|152.53.39.66|8041|United States|Manassas|netcup GmbH|
+|5|27.79.211.97|16000|Vietnam|Hanoi|Viettel Corporation|
 |6|27.79.242.226|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|38.127.172.106|24171|United States|Washington|Cogent Communications|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|11|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|12|23.138.88.96|999|Puerto Rico|Adjuntas|Alphanet Corp|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|15|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|16|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|17|27.79.211.97|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|103.171.240.174|8080|Indonesia|Cileungsir|PT Abs Multimedia Indonesia|
-|19|58.147.190.147|8181|Indonesia|Jakarta|PT. Transhybrid Communication|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|7|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|8|152.53.39.66|8041|United States|Manassas|netcup GmbH|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|38.127.172.106|24171|United States|Washington|Cogent Communications|
+|13|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|15|38.127.172.106|24171|United States|Washington|Cogent Communications|
+|16|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|17|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 
 
 
