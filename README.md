@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|89|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|37948|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|2|27.79.193.165|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|27.79.145.251|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|27.79.188.65|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|27.79.187.217|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|27.79.161.218|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|27.79.184.232|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|12|152.53.39.66|8041|United States|Manassas|netcup GmbH|
-|13|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|14|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|15|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|16|38.127.172.5|24171|United States|Washington|Cogent Communications|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|38.127.172.206|24171|United States|Washington|Cogent Communications|
-|19|38.127.172.106|24171|United States|Washington|Cogent Communications|
-|20|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|1|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|2|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|3|152.53.39.66|8041|United States|Manassas|netcup GmbH|
+|4|27.79.187.217|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.184.232|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|27.79.193.165|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|8|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|9|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|10|27.79.188.65|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|27.79.145.251|16000|Vietnam|Hanoi|Viettel Corporation|
+|12|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|13|3.135.171.176|3128|United States|Dublin|Amazon.com, Inc.|
+|14|38.127.172.127|24171|United States|Washington|Cogent Communications|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|17|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|18|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|19|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
