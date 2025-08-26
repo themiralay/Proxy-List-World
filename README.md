@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75245** proxies at the latest update. Usable proxies are below.
+> Scraper found **75214** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|120|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35821|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35790|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|87|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38291|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
-|4|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|7|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|8|152.53.39.66|8041|United States|Manassas|netcup GmbH|
-|9|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|27.79.161.218|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|14|3.135.171.176|3128|United States|Dublin|Amazon.com, Inc.|
-|15|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|17|27.79.174.132|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|2|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|3|27.79.187.217|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|152.53.39.66|8041|United States|Manassas|netcup GmbH|
+|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|12|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|13|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|14|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|15|27.79.199.188|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|17|27.79.184.232|16000|Vietnam|Hanoi|Viettel Corporation|
+|18|23.237.210.82|80|United States|Dallas|FDCservers.net|
 |19|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|20|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
 
 
 
