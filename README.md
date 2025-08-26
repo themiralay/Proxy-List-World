@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|27.79.145.251|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|27.79.184.232|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|27.79.161.218|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|27.79.188.65|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|27.79.187.217|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|27.79.193.165|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|12|38.127.172.224|24171|United States|Washington|Cogent Communications|
-|13|38.127.172.31|24171|United States|Washington|Cogent Communications|
-|14|152.53.39.66|8041|United States|Manassas|netcup GmbH|
-|15|13.203.95.40|3128|India|Mumbai|Amazon Technologies Inc.|
-|16|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|18|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|19|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|20|38.127.172.106|24171|United States|Washington|Cogent Communications|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|4|27.79.187.192|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|38.127.172.205|24171|United States|Washington|Cogent Communications|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|7|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|8|35.181.151.37|3128|France|Paris|Amazon.com, Inc.|
+|9|38.127.172.89|24171|United States|Washington|Cogent Communications|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|38.127.172.183|24171|United States|Washington|Cogent Communications|
+|12|38.127.172.223|24171|United States|Washington|Cogent Communications|
+|13|38.127.172.93|24171|United States|Washington|Cogent Communications|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|16|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|17|13.203.95.40|3128|India|Mumbai|Amazon Technologies Inc.|
+|18|27.79.160.36|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|20|27.79.161.218|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
