@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|49.147.236.124|8082|Philippines|Los Baños|Philippine Long Distance Telephone Co.|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|103.126.173.203|8880|Indonesia|Natar|MEGARAP|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|45.126.125.206|8194|Hong Kong|Hong Kong|Kamatera|
-|8|152.53.39.66|8041|United States|Manassas|netcup GmbH|
-|9|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|2|27.79.211.97|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|27.79.242.226|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|49.146.154.43|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
+|5|45.126.125.206|8194|Hong Kong|Hong Kong|Kamatera|
+|6|152.53.39.66|8041|United States|Manassas|netcup GmbH|
+|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|8|119.82.244.38|8080|Indonesia|Ciputat|Indonesia Network Information Center|
+|9|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|11|51.79.99.237|4502|Canada|Montreal|OVH SAS|
 |12|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|15|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|16|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|17|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|38.127.172.106|24171|United States|Washington|Cogent Communications|
+|13|38.127.172.106|24171|United States|Washington|Cogent Communications|
+|14|38.127.172.106|24171|United States|Washington|Cogent Communications|
+|15|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|16|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|17|103.153.34.2|1111|Indonesia|Jatiwangi|JMExpress|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|121.101.133.220|8080|Indonesia|Gombong|PT SELARAS CITRA TERABIT|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
