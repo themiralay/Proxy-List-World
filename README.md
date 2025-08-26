@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|2|27.79.211.97|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|27.79.187.192|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|27.79.184.232|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|1|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|27.79.184.232|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|152.53.39.66|8041|United States|Manassas|netcup GmbH|
+|5|116.118.51.178|30019|Vietnam|Hanoi|SPT|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |7|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
-|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|9|152.53.39.66|8041|United States|Manassas|netcup GmbH|
-|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|11|37.123.192.106|8080|United States|San Jose|Kirino LLC|
-|12|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|13|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
-|14|116.118.51.178|30019|Vietnam|Hanoi|SPT|
+|8|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|9|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|14|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
 |15|185.192.246.42|3128|The Netherlands|Amsterdam|Timeweb, LLP|
-|16|38.127.172.106|24171|United States|Washington|Cogent Communications|
-|17|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|19|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|17|150.107.136.205|39843|Indonesia|Jakarta|PT. Media Antar Nusa|
+|18|37.123.192.106|8080|United States|San Jose|Kirino LLC|
+|19|42.118.213.22|1452|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|20|38.211.24.18|8080|Indonesia|Bandung|PT Putra Garsel Interkoneksi|
 
 
 
