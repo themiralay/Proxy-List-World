@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|27.79.161.30|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|27.79.232.116|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|27.79.211.60|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|152.53.39.66|8041|United States|Manassas|netcup GmbH|
-|8|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|9|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|12|45.167.126.1|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|13|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|14|38.127.172.157|24171|United States|Washington|Cogent Communications|
-|15|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|16|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|17|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|4|152.53.39.66|8041|United States|Manassas|netcup GmbH|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|3.135.171.176|3128|United States|Dublin|Amazon.com, Inc.|
+|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|8|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|9|27.79.230.142|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|3.135.171.176|3128|United States|Dublin|Amazon.com, Inc.|
+|11|45.167.126.1|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|12|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|13|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|15|27.79.161.30|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|27.79.196.141|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|38.127.172.60|24171|United States|Washington|Cogent Communications|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
