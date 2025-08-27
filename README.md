@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|203.74.125.18|8888|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|3|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|152.53.39.66|8041|United States|Manassas|netcup GmbH|
-|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|8|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|10|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|11|27.79.191.141|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|15|27.79.144.251|16000|Vietnam|Hanoi|Viettel Corporation|
-|16|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|17|103.169.254.9|6080|Indonesia|Madiun|PT Master Star Network|
-|18|38.127.172.163|24171|United States|Washington|Cogent Communications|
-|19|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|20|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|2|125.160.125.54|3128|Indonesia|Magelang|PT. TELKOM INDONESIA|
+|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|152.53.39.66|8041|United States|Manassas|netcup GmbH|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|38.127.172.252|24171|United States|Washington|Cogent Communications|
+|8|38.127.172.127|24171|United States|Washington|Cogent Communications|
+|9|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|10|38.127.172.223|24171|United States|Washington|Cogent Communications|
+|11|3.135.171.176|3128|United States|Dublin|Amazon.com, Inc.|
+|12|38.127.172.38|24171|United States|Washington|Cogent Communications|
+|13|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|14|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|15|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|16|103.165.253.183|8080|Indonesia|Jakarta|PT Pelangi Communication Network|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|45.167.126.1|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|19|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|20|103.132.54.18|8080|Indonesia|Kajen|PT. ADEAKSA INDO JAYATAMA|
 
 
 
