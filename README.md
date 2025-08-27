@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.53.39.66|8041|United States|Manassas|netcup GmbH|
-|2|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|38.127.172.205|24171|United States|Washington|Cogent Communications|
-|6|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|7|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|8|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|9|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|10|27.79.242.25|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|27.79.144.251|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|14|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|15|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|16|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|17|27.79.201.95|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|38.127.172.106|24171|United States|Washington|Cogent Communications|
+|1|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|2|152.53.39.66|8041|United States|Manassas|netcup GmbH|
+|3|37.123.193.67|8090|United States|San Jose|Kirino LLC|
+|4|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|5|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|6|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|7|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|9|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|152.53.39.66|8041|United States|Manassas|netcup GmbH|
+|12|152.53.194.46|8065|United States|Reston|netcup GmbH|
+|13|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|14|58.147.190.145|8181|Indonesia|Jakarta|PT. Transhybrid Communication|
+|15|27.79.186.162|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|147.28.240.214|9401|Germany|Frankfurt am Main|Packet Host, Inc.|
+|17|61.91.251.235|8081|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
+|18|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|19|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|20|103.48.68.110|83|India|Hyderabad|Country Online Services PVT LTD|
 
 
 
