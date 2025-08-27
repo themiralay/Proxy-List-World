@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|152.53.39.66|8041|United States|Manassas|netcup GmbH|
-|4|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|187.172.10.104|8080|Mexico|Mazatlán|Uninet S.A. de C.V.|
-|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|10|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|152.53.39.66|8041|United States|Manassas|netcup GmbH|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|187.172.10.104|8080|Mexico|Mazatlán|Uninet S.A. de C.V.|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |11|51.79.99.237|4502|Canada|Montreal|OVH SAS|
 |12|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|13|152.53.66.81|3128|Austria|Vienna|netcup GmbH|
-|14|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|38.127.172.14|24171|United States|Washington|Cogent Communications|
+|13|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|14|202.137.14.57|8085|Indonesia|Tangerang|customer in Corporate Access|
+|15|152.53.66.81|3128|Austria|Vienna|netcup GmbH|
+|16|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
 |17|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|18|38.127.172.89|24171|United States|Washington|Cogent Communications|
-|19|38.127.172.14|24171|United States|Washington|Cogent Communications|
-|20|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|18|202.93.247.51|8090|Indonesia|Wedoro|PT. Dutakom Wibawa Putra|
+|19|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
