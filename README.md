@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|27.79.187.166|16000|Vietnam|Hanoi|Viettel Corporation|
-|2|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|3|152.53.39.66|8041|United States|Manassas|netcup GmbH|
-|4|27.79.242.25|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|6|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|7|38.127.172.125|24171|United States|Washington|Cogent Communications|
-|8|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|9|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|10|27.79.144.251|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|12|38.127.172.125|24171|United States|Washington|Cogent Communications|
-|13|27.79.186.162|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|15|45.229.158.106|80|Brazil|Ipatinga|Brnet Telecomunicacoes LTDA - ME|
-|16|182.16.171.101|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|17|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|18|152.53.39.66|8041|United States|Manassas|netcup GmbH|
-|19|38.127.172.206|24171|United States|Washington|Cogent Communications|
-|20|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|1|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|2|152.53.39.66|8041|United States|Manassas|netcup GmbH|
+|3|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|27.79.242.25|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|7|38.127.172.60|24171|United States|Washington|Cogent Communications|
+|8|38.127.172.110|24171|United States|Washington|Cogent Communications|
+|9|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|12|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|13|27.79.144.251|16000|Vietnam|Hanoi|Viettel Corporation|
+|14|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|15|27.79.187.166|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|17|38.127.172.60|24171|United States|Washington|Cogent Communications|
+|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|19|43.130.52.194|8118|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|20|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
 
 
 
