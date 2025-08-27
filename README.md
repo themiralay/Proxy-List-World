@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|152.53.39.66|8041|United States|Manassas|netcup GmbH|
+|2|152.53.39.66|8041|United States|Manassas|netcup GmbH|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |5|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|6|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|9|27.79.196.141|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|38.127.172.163|24171|United States|Washington|Cogent Communications|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|8|38.52.155.162|999|Colombia|Bogotá|Giga Fibra SAS|
+|9|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|10|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
 |11|45.167.126.1|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|12|38.127.172.60|24171|United States|Washington|Cogent Communications|
-|13|38.127.172.106|24171|United States|Washington|Cogent Communications|
-|14|38.127.172.50|24171|United States|Washington|Cogent Communications|
-|15|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|16|38.127.172.183|24171|United States|Washington|Cogent Communications|
-|17|38.127.172.50|24171|United States|Washington|Cogent Communications|
-|18|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|19|38.127.172.106|24171|United States|Washington|Cogent Communications|
-|20|38.127.172.163|24171|United States|Washington|Cogent Communications|
+|12|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|13|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|14|38.127.172.223|24171|United States|Washington|Cogent Communications|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|38.127.172.223|24171|United States|Washington|Cogent Communications|
+|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|19|38.127.172.14|24171|United States|Washington|Cogent Communications|
+|20|182.253.36.151|8080|Indonesia|Sukabumi|BIZNET|
 
 
 
