@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|152.53.39.66|8041|United States|Manassas|netcup GmbH|
-|5|27.79.144.251|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|27.79.242.25|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|8|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|11|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|12|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|13|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|14|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|15|217.160.221.48|3128|Germany|Frankfurt am Main|1&1 IONOS SE|
-|16|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|17|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|18|91.121.208.196|5062|France|Roubaix|OVH SAS|
-|19|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|20|27.79.201.95|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|152.53.39.66|8041|United States|Manassas|netcup GmbH|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|9|184.180.9.150|3128|United States|Fairfax|Cox Communications Inc.|
+|10|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|13|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|14|38.127.172.50|24171|United States|Washington|Cogent Communications|
+|15|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|16|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|17|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|18|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|19|184.180.9.150|3128|United States|Fairfax|Cox Communications Inc.|
+|20|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
 
 
 
