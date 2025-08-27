@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75448** proxies at the latest update. Usable proxies are below.
+> Scraper found **75552** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -32,7 +32,7 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35913|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|74|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38235|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38339|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|2|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
 |3|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|103.152.238.93|1080|Indonesia|Cikarang|APRIN|
-|6|152.53.39.66|8041|United States|Manassas|netcup GmbH|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |7|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|8|103.247.23.53|4317|Indonesia|Wonosobo|PT wifian Solution|
-|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|11|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|12|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|15|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|16|186.180.48.106|999|Colombia|Medellín|Colombia Móvil|
-|17|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|103.81.175.218|28022|Bangladesh|Chittagong|ADN Telecom Ltd.|
-|19|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|8|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|10|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|11|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|12|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|13|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|14|27.79.144.251|16000|Vietnam|Hanoi|Viettel Corporation|
+|15|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|16|27.79.201.95|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|18|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|19|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|20|103.112.53.211|6314|Bangladesh|Dhaka|Carnival Internet|
 
 
 
