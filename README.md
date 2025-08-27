@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|2|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|3|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|1|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |5|152.53.39.66|8041|United States|Manassas|netcup GmbH|
-|6|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|7|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|8|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|9|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|13|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|14|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|15|38.127.172.106|24171|United States|Washington|Cogent Communications|
-|16|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|17|38.127.172.79|24171|United States|Washington|Cogent Communications|
-|18|152.53.39.66|8041|United States|Manassas|netcup GmbH|
-|19|152.53.194.46|8065|United States|Reston|netcup GmbH|
-|20|38.127.172.224|24171|United States|Washington|Cogent Communications|
+|6|27.79.144.251|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|8|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|9|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|10|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|85.239.144.149|8080|Sweden|Stockholm|Aeza International LTD|
+|14|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|15|38.127.172.125|24171|United States|Washington|Cogent Communications|
+|16|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|17|38.127.172.183|24171|United States|Washington|Cogent Communications|
+|18|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|19|38.127.172.5|24171|United States|Washington|Cogent Communications|
+|20|152.53.39.66|8041|United States|Manassas|netcup GmbH|
 
 
 
