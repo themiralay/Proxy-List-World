@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|152.53.39.66|8041|United States|Manassas|netcup GmbH|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|38.127.172.246|24171|United States|Washington|Cogent Communications|
-|8|187.172.10.104|8080|Mexico|Mazatlán|Uninet S.A. de C.V.|
-|9|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|10|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|152.53.39.66|8041|United States|Manassas|netcup GmbH|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|38.127.172.79|24171|United States|Washington|Cogent Communications|
+|7|38.127.172.223|24171|United States|Washington|Cogent Communications|
+|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|9|38.127.172.89|24171|United States|Washington|Cogent Communications|
+|10|187.172.10.104|8080|Mexico|Mazatlán|Uninet S.A. de C.V.|
 |11|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|12|38.127.172.106|24171|United States|Washington|Cogent Communications|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|15|103.152.7.245|8686|Indonesia|Banjar Lebah|Pemerintah Kabupaten Klungkung|
-|16|27.79.196.141|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|18|31.14.114.76|1081|Iran|Tehran|Afranet Co|
-|19|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|20|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|12|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|15|152.53.66.81|3128|Austria|Vienna|netcup GmbH|
+|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|19|38.127.172.79|24171|United States|Washington|Cogent Communications|
+|20|38.127.172.44|24171|United States|Washington|Cogent Communications|
 
 
 
