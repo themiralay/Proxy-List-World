@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|349|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|349|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|349|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|332|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|332|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|332|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|157.20.207.55|1111|Indonesia|Kudus|ERATELINDO|
-|3|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|4|38.65.174.107|999|Mexico|Actopan|Wantelco SAS de CV|
-|5|27.79.144.251|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|27.79.242.25|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|27.79.201.95|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|12|38.127.172.204|24171|United States|Washington|Cogent Communications|
-|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|14|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|15|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|16|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|17|152.53.39.66|8041|United States|Manassas|netcup GmbH|
-|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|19|184.180.9.150|3128|United States|Fairfax|Cox Communications Inc.|
-|20|103.146.184.101|8090|Indonesia|Sragen|YAMNET|
+|2|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|7|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|12|152.53.39.66|8041|United States|Manassas|netcup GmbH|
+|13|38.127.172.106|24171|United States|Washington|Cogent Communications|
+|14|38.127.172.11|24171|United States|Washington|Cogent Communications|
+|15|91.121.208.196|5062|France|Roubaix|OVH SAS|
+|16|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
+|17|38.127.172.110|24171|United States|Washington|Cogent Communications|
+|18|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
 
 
 
