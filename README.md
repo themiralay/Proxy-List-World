@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|27.79.191.141|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|27.79.165.204|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|27.79.230.142|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|27.79.211.60|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|27.79.161.30|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|27.79.227.205|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|11|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|12|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|13|152.53.39.66|8041|United States|Manassas|netcup GmbH|
-|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|15|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|16|27.79.144.251|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|18|38.127.172.224|24171|United States|Washington|Cogent Communications|
-|19|27.79.187.166|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|27.79.188.161|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|27.79.211.60|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|27.79.191.141|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|27.79.196.141|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|27.79.227.205|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|27.79.165.204|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|8|27.79.230.142|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|27.79.161.30|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|11|152.53.39.66|8041|United States|Manassas|netcup GmbH|
+|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|13|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|15|27.79.187.166|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|19|27.79.188.161|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
 
 
 
