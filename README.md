@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75878** proxies at the latest update. Usable proxies are below.
+> Scraper found **75809** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36239|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36153|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|64|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|81|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38349|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|27.79.196.141|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|6|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|4|27.79.196.141|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|38.127.172.110|24171|United States|Washington|Cogent Communications|
 |7|152.53.39.66|8041|United States|Manassas|netcup GmbH|
-|8|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|9|51.79.99.237|4502|Canada|Montreal|OVH SAS|
 |10|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|11|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|11|152.53.66.81|3128|Austria|Vienna|netcup GmbH|
 |12|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|14|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|15|38.127.172.183|24171|United States|Washington|Cogent Communications|
-|16|38.127.172.250|24171|United States|Washington|Cogent Communications|
-|17|24.172.34.114|49920|United States|Darlington|Charter Communications Inc|
-|18|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|19|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|20|38.127.172.246|24171|United States|Washington|Cogent Communications|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|15|38.127.172.250|24171|United States|Washington|Cogent Communications|
+|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|18|38.127.172.163|24171|United States|Washington|Cogent Communications|
+|19|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|20|38.127.172.163|24171|United States|Washington|Cogent Communications|
 
 
 
