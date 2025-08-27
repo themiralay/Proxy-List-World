@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75190** proxies at the latest update. Usable proxies are below.
+> Scraper found **75159** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36004|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|111|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|80|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|37849|✅|
 
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|27.79.201.95|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|116.103.136.199|1526|Vietnam|Buon Ma Thuot|Viettel Corporation|
-|4|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|5|152.53.39.66|8041|United States|Manassas|netcup GmbH|
-|6|103.169.128.158|80|Indonesia|Cirebon|PT Media Akses Data|
-|7|167.71.221.56|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|10|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|11|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|12|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|13|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|14|38.127.172.112|24171|United States|Washington|Cogent Communications|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|38.127.172.93|24171|United States|Washington|Cogent Communications|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|5|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|6|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|8|152.53.39.66|8041|United States|Manassas|netcup GmbH|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|38.127.172.106|24171|United States|Washington|Cogent Communications|
+|12|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|14|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|15|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
 |17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|19|38.127.172.157|24171|United States|Washington|Cogent Communications|
-|20|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|18|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|19|38.127.172.128|24171|United States|Washington|Cogent Communications|
+|20|38.127.172.160|24171|United States|Washington|Cogent Communications|
 
 
 
