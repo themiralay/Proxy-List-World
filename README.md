@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|3|152.53.39.66|8041|United States|Manassas|netcup GmbH|
-|4|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|5|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|6|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|6|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
 |7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|9|51.79.99.237|4502|Canada|Montreal|OVH SAS|
 |10|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|11|27.79.242.25|16000|Vietnam|Hanoi|Viettel Corporation|
-|12|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|13|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|38.127.172.127|24171|United States|Washington|Cogent Communications|
-|15|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|16|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|17|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|18|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|19|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|152.53.39.66|8041|United States|Manassas|netcup GmbH|
+|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|13|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|14|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|15|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|16|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|17|38.127.172.106|24171|United States|Washington|Cogent Communications|
+|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|19|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|20|38.127.172.157|24171|United States|Washington|Cogent Communications|
 
 
 
