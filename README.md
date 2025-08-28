@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|6|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|9|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|10|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|11|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|164.163.42.56|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|164.163.43.102|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|164.163.40.15|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|27.79.149.220|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|5|27.79.252.187|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|27.79.217.27|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|27.79.209.114|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|10|27.79.213.121|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|38.127.172.50|24171|United States|Washington|Cogent Communications|
+|12|27.79.134.138|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|14|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|15|27.79.239.132|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
 |17|38.127.172.246|24171|United States|Washington|Cogent Communications|
-|18|164.163.40.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|164.163.42.29|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|38.127.172.163|24171|United States|Washington|Cogent Communications|
+|18|38.127.172.127|24171|United States|Washington|Cogent Communications|
+|19|38.127.172.60|24171|United States|Washington|Cogent Communications|
+|20|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
 
 
 
