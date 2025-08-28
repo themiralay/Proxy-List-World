@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|27.79.134.138|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|103.30.29.115|6969|Bangladesh|Kāfrul|Broad Band Telecom Services Ltd|
-|7|152.53.39.66|8041|United States|Manassas|netcup GmbH|
-|8|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|9|38.127.172.232|24171|United States|Washington|Cogent Communications|
-|10|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|11|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|12|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|13|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|14|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|15|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|38.127.172.106|24171|United States|Washington|Cogent Communications|
-|18|38.127.172.128|24171|United States|Washington|Cogent Communications|
-|19|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|20|27.79.209.114|16000|Vietnam|Hanoi|Viettel Corporation|
+|2|27.79.180.40|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|27.79.242.215|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|58.187.70.195|16000|Vietnam|Hanoi|FPT Telecom Company|
+|5|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|6|209.121.164.50|31147|Canada|Vancouver|TELUS Communications Inc.|
+|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|8|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|27.79.134.138|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|27.79.209.193|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|12|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|13|152.53.39.66|8041|United States|Manassas|netcup GmbH|
+|14|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|15|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|16|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|17|38.127.172.160|24171|United States|Washington|Cogent Communications|
+|18|38.127.172.125|24171|United States|Washington|Cogent Communications|
+|19|38.127.172.50|24171|United States|Washington|Cogent Communications|
+|20|27.79.155.78|16000|Vietnam|Hanoi|Viettel Corporation|
 
 
 
