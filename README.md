@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|2|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
 |3|152.53.39.66|8041|United States|Manassas|netcup GmbH|
 |4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|187.172.10.104|8080|Mexico|Mazatlán|Uninet S.A. de C.V.|
-|8|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|9|38.127.172.223|24171|United States|Washington|Cogent Communications|
-|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|11|38.127.172.246|24171|United States|Washington|Cogent Communications|
-|12|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|13|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|14|38.127.172.246|24171|United States|Washington|Cogent Communications|
-|15|38.127.172.60|24171|United States|Washington|Cogent Communications|
-|16|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|17|38.127.172.119|24171|United States|Washington|Cogent Communications|
-|18|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|19|38.127.172.204|24171|United States|Washington|Cogent Communications|
-|20|38.127.172.223|24171|United States|Washington|Cogent Communications|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|8|187.172.10.104|8080|Mexico|Mazatlán|Uninet S.A. de C.V.|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|11|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|12|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|13|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|15|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|16|38.127.172.232|24171|United States|Washington|Cogent Communications|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|38.127.172.138|24171|United States|Washington|Cogent Communications|
+|19|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|20|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
 
 
 
