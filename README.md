@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|5|34.135.39.13|3128|United States|Council Bluffs|Google LLC|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|8|152.53.39.66|8041|United States|Manassas|netcup GmbH|
-|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|10|187.172.10.104|8080|Mexico|Mazatlán|Uninet S.A. de C.V.|
+|3|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|4|152.53.39.66|8041|United States|Manassas|netcup GmbH|
+|5|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|8|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|9|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |11|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|12|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|13|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|15|38.127.172.163|24171|United States|Washington|Cogent Communications|
-|16|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|34.135.39.13|3128|United States|Council Bluffs|Google LLC|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|12|187.172.10.104|8080|Mexico|Mazatlán|Uninet S.A. de C.V.|
+|13|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|14|38.127.172.202|24171|United States|Washington|Cogent Communications|
+|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|16|38.127.172.127|24171|United States|Washington|Cogent Communications|
+|17|38.127.172.53|24171|United States|Washington|Cogent Communications|
+|18|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|38.127.172.127|24171|United States|Washington|Cogent Communications|
 
 
 
