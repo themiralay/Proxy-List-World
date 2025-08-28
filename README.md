@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|3|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|4|152.53.39.66|8041|United States|Manassas|netcup GmbH|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
-|7|207.244.244.178|3128|United States|St Louis|Contabo Inc.|
-|8|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|9|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|11|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|12|207.244.244.178|3128|United States|St Louis|Contabo Inc.|
+|2|27.79.154.225|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|27.79.196.141|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|5|152.53.39.66|8041|United States|Manassas|netcup GmbH|
+|6|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|7|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|8|207.244.244.178|3128|United States|St Louis|Contabo Inc.|
+|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|10|187.172.10.104|8080|Mexico|Mazatlán|Uninet S.A. de C.V.|
+|11|38.127.172.5|24171|United States|Washington|Cogent Communications|
+|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|14|172.98.201.190|3128|United States|Dallas|Centrilogic|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|17|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|18|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|19|34.135.39.13|3128|United States|Council Bluffs|Google LLC|
-|20|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|14|38.127.172.183|24171|United States|Washington|Cogent Communications|
+|15|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|18|38.127.172.53|24171|United States|Washington|Cogent Communications|
+|19|207.244.244.178|3128|United States|St Louis|Contabo Inc.|
+|20|38.127.172.246|24171|United States|Washington|Cogent Communications|
 
 
 
