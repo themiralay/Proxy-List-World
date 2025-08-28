@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|2|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |4|27.79.154.225|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|6|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|152.53.39.66|8041|United States|Manassas|netcup GmbH|
-|9|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|12|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|13|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|14|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|15|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|16|27.79.233.205|16000|Vietnam|Hanoi|Viettel Corporation|
-|17|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|6|27.79.233.205|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|8|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|10|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|13|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|14|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|15|141.136.63.126|8080|Venezuela|Santa Ana|FRONTERA|
+|16|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|17|152.53.39.66|8041|United States|Manassas|netcup GmbH|
+|18|27.79.191.179|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|20|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
 
 
 
