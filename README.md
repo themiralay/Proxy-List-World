@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|5|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|27.79.149.220|16000|Vietnam|Hanoi|Viettel Corporation|
+|3|209.121.164.50|31147|Canada|Vancouver|TELUS Communications Inc.|
+|4|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|27.79.134.138|16000|Vietnam|Hanoi|Viettel Corporation|
 |7|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|8|152.53.194.46|8065|United States|Reston|netcup GmbH|
-|9|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|10|88.210.38.50|3128|The Netherlands|Amsterdam|Melbikomas UAB|
-|11|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|12|152.53.39.66|8041|United States|Manassas|netcup GmbH|
-|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|14|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|18|164.163.40.14|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|20|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|8|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|9|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|11|152.53.194.46|8065|United States|Reston|netcup GmbH|
+|12|88.210.38.50|3128|The Netherlands|Amsterdam|Melbikomas UAB|
+|13|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|14|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|15|27.79.162.61|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|17|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|18|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|19|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|20|23.237.210.82|80|United States|Dallas|FDCservers.net|
 
 
 
