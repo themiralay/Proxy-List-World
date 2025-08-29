@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75732** proxies at the latest update. Usable proxies are below.
+> Scraper found **75205** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -32,7 +32,7 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35981|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|53|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38472|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|37945|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|27.79.176.214|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|152.53.39.66|8041|United States|Manassas|netcup GmbH|
 |5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|8|152.53.39.66|8041|United States|Manassas|netcup GmbH|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|12|116.100.250.40|10001|Vietnam|Hanoi|Viettel Corporation|
-|13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|14|38.127.172.119|24171|United States|Washington|Cogent Communications|
-|15|38.127.172.85|24171|United States|Washington|Cogent Communications|
-|16|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|17|5.250.183.76|3128|France|Paris|IONOS SE|
+|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|12|38.127.172.11|24171|United States|Washington|Cogent Communications|
+|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|14|38.127.172.60|24171|United States|Washington|Cogent Communications|
+|15|27.79.176.214|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|17|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
 |18|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|19|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|20|5.252.74.5|30003|Poland|Warsaw|Ipxo LLC|
+|19|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|20|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
 
 
 
