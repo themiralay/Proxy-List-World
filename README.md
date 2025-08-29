@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|27.79.176.214|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|6|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|11|152.53.39.66|8041|United States|Manassas|netcup GmbH|
-|12|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|14|45.147.7.161|8087|Germany|Frankfurt am Main|24fire GmbH|
-|15|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|16|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|40.172.100.93|8088|United Arab Emirates|Dubai|Amazon.com|
-|18|18.143.165.238|84|Singapore|Singapore|Amazon Technologies Inc.|
-|19|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|20|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|209.141.57.216|80|United States|Las Vegas|FranTech Solutions|
+|4|152.53.39.66|8041|United States|Manassas|netcup GmbH|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|15|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|16|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|19|152.53.194.46|8065|United States|Reston|netcup GmbH|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
