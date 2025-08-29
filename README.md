@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75374** proxies at the latest update. Usable proxies are below.
+> Scraper found **75553** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -32,7 +32,7 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36134|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|69|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|37945|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38124|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|116.100.250.40|10001|Vietnam|Hanoi|Viettel Corporation|
 |4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|6|139.5.155.245|57412|Indonesia|Denpasar|PT Maxindo Mitra Solusi|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|152.53.39.66|8041|United States|Manassas|netcup GmbH|
+|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
 |9|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|12|97.79.251.186|80|United States|Dallas|Spectrum|
-|13|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|14|152.53.39.66|8041|United States|Manassas|netcup GmbH|
-|15|38.127.172.223|24171|United States|Washington|Cogent Communications|
-|16|38.127.172.79|24171|United States|Washington|Cogent Communications|
-|17|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|18|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|20|38.127.172.223|24171|United States|Washington|Cogent Communications|
+|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|11|38.127.172.85|24171|United States|Washington|Cogent Communications|
+|12|38.127.172.250|24171|United States|Washington|Cogent Communications|
+|13|38.127.172.79|24171|United States|Washington|Cogent Communications|
+|14|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|17|38.127.172.50|24171|United States|Washington|Cogent Communications|
+|18|38.127.172.79|24171|United States|Washington|Cogent Communications|
+|19|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|20|38.127.172.127|24171|United States|Washington|Cogent Communications|
 
 
 
