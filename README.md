@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|152.53.39.66|8041|United States|Manassas|netcup GmbH|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|5|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|49.156.44.116|8080|Cambodia|Phnom Penh|WiCAM Corporation|
 |8|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|9|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|10|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|11|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|13|38.127.172.223|24171|United States|Washington|Cogent Communications|
-|14|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|15|103.153.39.37|8083|Pakistan|Burewala|Getlinks (SMC-Private) Limited|
-|16|157.10.52.189|80|Vietnam|Quận Chín|SUCCESS|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|20|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|9|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|10|38.127.172.223|24171|United States|Washington|Cogent Communications|
+|11|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|13|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|14|152.53.39.66|8041|United States|Manassas|netcup GmbH|
+|15|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|16|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
+|17|38.127.172.80|24171|United States|Washington|Cogent Communications|
+|18|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|19|38.127.172.233|24171|United States|Washington|Cogent Communications|
+|20|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
 
 
 
