@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|175.118.246.102|3128|South Korea|Gwangsan-gu|broadNnet|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|152.53.39.66|8041|United States|Manassas|netcup GmbH|
-|6|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|7|103.169.128.158|80|Indonesia|Cirebon|PT Media Akses Data|
-|8|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|11|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|13|134.209.152.106|3128|India|Bengaluru|DigitalOcean, LLC|
-|14|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|16|51.159.159.73|80|France|Paris|SCALEWAY|
-|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|18|38.127.172.128|24171|United States|Washington|Cogent Communications|
-|19|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|20|187.172.10.104|8080|Mexico|Mazatlán|Uninet S.A. de C.V.|
+|5|134.209.166.17|9990|United States|Clifton|DigitalOcean, LLC|
+|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|7|187.172.10.104|8080|Mexico|Mazatlán|Uninet S.A. de C.V.|
+|8|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|9|152.53.39.66|8041|United States|Manassas|netcup GmbH|
+|10|38.127.172.138|24171|United States|Washington|Cogent Communications|
+|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|12|134.209.152.106|3128|India|Bengaluru|DigitalOcean, LLC|
+|13|38.127.172.44|24171|United States|Washington|Cogent Communications|
+|14|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|15|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|16|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|17|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|20|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
 
 
 
