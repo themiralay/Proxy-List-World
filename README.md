@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|6|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|7|38.127.172.183|24171|United States|Washington|Cogent Communications|
-|8|38.127.172.80|24171|United States|Washington|Cogent Communications|
-|9|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|10|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|11|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|12|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|179.96.28.58|80|Brazil|Caldas Novas|Megatelecom Telecomunicacoes Ltda|
-|17|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|18|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|20|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|6|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|7|38.127.172.89|24171|United States|Washington|Cogent Communications|
+|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|10|152.53.39.66|8041|United States|Manassas|netcup GmbH|
+|11|38.127.172.233|24171|United States|Washington|Cogent Communications|
+|12|38.127.172.50|24171|United States|Washington|Cogent Communications|
+|13|38.127.172.44|24171|United States|Washington|Cogent Communications|
+|14|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|15|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|18|38.127.172.125|24171|United States|Washington|Cogent Communications|
+|19|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|20|38.127.172.202|24171|United States|Washington|Cogent Communications|
 
 
 
