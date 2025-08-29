@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|152.53.39.66|8041|United States|Manassas|netcup GmbH|
-|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|5|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|6|152.53.194.46|8065|United States|Reston|netcup GmbH|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|9|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|10|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|11|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|12|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|13|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|14|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|15|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|16|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|17|38.211.24.18|8080|Indonesia|Bandung|PT Putra Garsel Interkoneksi|
-|18|38.127.172.247|24171|United States|Washington|Cogent Communications|
-|19|103.190.120.11|30008|Vietnam|Da Nang|KINGBOND|
-|20|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|152.53.39.66|8041|United States|Manassas|netcup GmbH|
+|3|38.127.172.5|24171|United States|Washington|Cogent Communications|
+|4|38.127.172.239|24171|United States|Washington|Cogent Communications|
+|5|38.127.172.247|24171|United States|Washington|Cogent Communications|
+|6|38.127.172.223|24171|United States|Washington|Cogent Communications|
+|7|38.127.172.85|24171|United States|Washington|Cogent Communications|
+|8|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|9|103.190.120.11|30008|Vietnam|Da Nang|KINGBOND|
+|10|38.127.172.138|24171|United States|Washington|Cogent Communications|
+|11|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|12|38.127.172.84|24171|United States|Washington|Cogent Communications|
+|13|38.127.172.252|24171|United States|Washington|Cogent Communications|
+|14|5.252.74.5|30003|Poland|Warsaw|Ipxo LLC|
+|15|5.252.74.3|30001|Poland|Warsaw|Ipxo LLC|
+|16|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|17|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|18|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|19|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|20|103.141.67.50|51935|Bangladesh|Dhaka|Link3 Technologies Limited|
 
 
 
