@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|3|152.53.39.66|8041|United States|Manassas|netcup GmbH|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|6|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|7|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|10|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|11|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|12|144.22.226.134|3128|Brazil|São Paulo|Oracle Corporation|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|134.209.166.17|9990|United States|Clifton|DigitalOcean, LLC|
-|15|152.53.194.46|8065|United States|Reston|netcup GmbH|
-|16|213.136.72.147|3128|France|Lauterbourg|Contabo GmbH|
-|17|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|18|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|19|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|20|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|152.53.39.66|8041|United States|Manassas|netcup GmbH|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|10|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|12|213.136.72.147|3128|France|Lauterbourg|Contabo GmbH|
+|13|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|14|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|17|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|18|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|19|185.200.37.123|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|20|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
