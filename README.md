@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|3|27.79.176.214|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|5|116.100.250.40|10001|Vietnam|Hanoi|Viettel Corporation|
-|6|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|10|152.53.39.66|8041|United States|Manassas|netcup GmbH|
-|11|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|15|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|16|38.127.172.5|24171|United States|Washington|Cogent Communications|
-|17|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|18|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|19|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|20|38.127.172.246|24171|United States|Washington|Cogent Communications|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|27.79.176.214|16000|Vietnam|Hanoi|Viettel Corporation|
+|5|152.53.39.66|8041|United States|Manassas|netcup GmbH|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|9|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|38.127.172.223|24171|United States|Washington|Cogent Communications|
+|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|13|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|14|47.250.159.34|17804|Malaysia|Kuala Lumpur|Alibaba (US) Technology Co., Ltd.|
+|15|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|16|38.127.172.125|24171|United States|Washington|Cogent Communications|
+|17|5.252.74.4|30002|Poland|Warsaw|Ipxo LLC|
+|18|5.252.74.2|30000|Poland|Warsaw|Ipxo LLC|
+|19|38.127.172.119|24171|United States|Washington|Cogent Communications|
+|20|116.100.250.40|10001|Vietnam|Hanoi|Viettel Corporation|
 
 
 
