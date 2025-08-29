@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|27.79.176.214|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|209.141.57.216|80|United States|Las Vegas|FranTech Solutions|
 |4|152.53.39.66|8041|United States|Manassas|netcup GmbH|
-|5|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|6|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|7|38.127.172.204|24171|United States|Washington|Cogent Communications|
-|8|38.127.172.246|24171|United States|Washington|Cogent Communications|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|11|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|12|38.127.172.128|24171|United States|Washington|Cogent Communications|
-|13|38.127.172.128|24171|United States|Washington|Cogent Communications|
-|14|38.127.172.11|24171|United States|Washington|Cogent Communications|
-|15|38.127.172.247|24171|United States|Washington|Cogent Communications|
-|16|38.127.172.80|24171|United States|Washington|Cogent Communications|
-|17|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|18|152.53.194.46|8065|United States|Reston|netcup GmbH|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|5|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|8|38.127.172.127|24171|United States|Washington|Cogent Communications|
+|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|10|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|11|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|12|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|13|5.252.74.2|30000|Poland|Warsaw|Ipxo LLC|
+|14|5.252.74.5|30003|Poland|Warsaw|Ipxo LLC|
+|15|5.252.74.3|30001|Poland|Warsaw|Ipxo LLC|
+|16|5.252.74.4|30002|Poland|Warsaw|Ipxo LLC|
+|17|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|18|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|19|45.115.113.90|7675|Bangladesh|Azimpur|Drik ICT Ltd|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
