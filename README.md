@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|27.79.176.214|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|152.53.39.66|8041|United States|Manassas|netcup GmbH|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |8|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|9|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|10|152.53.39.66|8041|United States|Manassas|netcup GmbH|
-|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|13|139.5.155.245|57412|Indonesia|Denpasar|PT Maxindo Mitra Solusi|
-|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|15|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|16|38.127.172.38|24171|United States|Washington|Cogent Communications|
-|17|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|18|38.127.172.127|24171|United States|Washington|Cogent Communications|
-|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|20|38.127.172.14|24171|United States|Washington|Cogent Communications|
+|9|116.100.250.40|10001|Vietnam|Hanoi|Viettel Corporation|
+|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|11|38.127.172.53|24171|United States|Washington|Cogent Communications|
+|12|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|14|38.127.172.50|24171|United States|Washington|Cogent Communications|
+|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|16|38.127.172.250|24171|United States|Washington|Cogent Communications|
+|17|103.112.53.211|6314|Bangladesh|Dhaka|Carnival Internet|
+|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|19|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|20|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
 
 
 
