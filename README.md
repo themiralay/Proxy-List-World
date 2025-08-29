@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|172.245.112.213|3128|United States|Buffalo|HostPapa|
-|4|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|5|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|6|152.53.39.66|8041|United States|Manassas|netcup GmbH|
-|7|27.79.176.214|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|103.188.169.160|7777|Indonesia|Kelodan|PT Lintas Jaringan Nusantara|
-|9|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|10|38.127.172.53|24171|United States|Washington|Cogent Communications|
-|11|209.141.57.216|80|United States|Las Vegas|FranTech Solutions|
-|12|38.127.172.85|24171|United States|Washington|Cogent Communications|
-|13|172.245.112.213|3128|United States|Buffalo|HostPapa|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|36.50.224.37|8085|Indonesia|Utan|PT Fixy Sinergi Nusantara|
-|16|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|17|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|18|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|19|116.100.250.40|10001|Vietnam|Hanoi|Viettel Corporation|
-|20|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|116.100.250.40|10001|Vietnam|Hanoi|Viettel Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|152.53.39.66|8041|United States|Manassas|netcup GmbH|
+|6|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|38.127.172.110|24171|United States|Washington|Cogent Communications|
+|9|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|10|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|12|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|13|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|14|38.127.172.237|24171|United States|Washington|Cogent Communications|
+|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|27.79.176.214|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|19|164.163.42.47|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|38.127.172.246|24171|United States|Washington|Cogent Communications|
 
 
 
