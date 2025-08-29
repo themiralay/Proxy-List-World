@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|74.207.235.213|1221|United States|Atlanta|Akamai Technologies, Inc.|
-|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|12|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|13|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|14|164.163.42.22|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|15|38.127.172.5|24171|United States|Washington|Cogent Communications|
-|16|38.127.172.38|24171|United States|Washington|Cogent Communications|
-|17|164.163.40.110|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|164.163.41.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|20|164.163.42.52|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|103.165.157.107|8080|Indonesia|Mojokerto|MEGADATA-ISP|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|209.141.57.216|80|United States|Las Vegas|FranTech Solutions|
+|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|10|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|38.127.172.31|24171|United States|Washington|Cogent Communications|
+|14|38.127.172.232|24171|United States|Washington|Cogent Communications|
+|15|38.127.172.247|24171|United States|Washington|Cogent Communications|
+|16|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|17|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|18|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|19|5.252.74.5|30003|Poland|Warsaw|Ipxo LLC|
+|20|5.252.74.3|30001|Poland|Warsaw|Ipxo LLC|
 
 
 
