@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
 
 ## Sources
 
@@ -39,27 +39,7 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|27.79.176.214|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|7|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|38.127.172.247|24171|United States|Washington|Cogent Communications|
-|10|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|11|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|12|38.127.172.127|24171|United States|Washington|Cogent Communications|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|38.127.172.127|24171|United States|Washington|Cogent Communications|
-|15|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|16|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|17|38.127.172.247|24171|United States|Washington|Cogent Communications|
-|18|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|19|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|20|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-
+**Something went wrong... Check the actions logs.**
 
 
 ## Contributing
