@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|152.53.39.66|8041|United States|Manassas|netcup GmbH|
-|3|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|4|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|6|45.89.53.245|3128|United States|Secaucus|PQ HOSTING PLUS S.R.L.|
-|7|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|8|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|9|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|12|38.127.172.164|24171|United States|Washington|Cogent Communications|
-|13|38.127.172.127|24171|United States|Washington|Cogent Communications|
-|14|142.93.252.198|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|16|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|17|47.79.94.34|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|18|45.89.53.245|3128|United States|Secaucus|PQ HOSTING PLUS S.R.L.|
-|19|142.93.252.198|3128|United States|North Bergen|DigitalOcean, LLC|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|4|152.53.39.66|8041|United States|Manassas|netcup GmbH|
+|5|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|6|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|7|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|8|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|9|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|10|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|11|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|13|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|14|103.30.29.115|6969|Bangladesh|Kāfrul|Broad Band Telecom Services Ltd|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|38.127.172.85|24171|United States|Washington|Cogent Communications|
+|17|45.147.7.161|8087|Germany|Frankfurt am Main|24fire GmbH|
+|18|31.14.114.74|1081|Iran|Tehran|Afranet Co|
+|19|38.127.172.11|24171|United States|Washington|Cogent Communications|
 |20|38.127.172.157|24171|United States|Washington|Cogent Communications|
 
 
