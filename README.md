@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|175.118.246.102|3128|South Korea|Gwangsan-gu|broadNnet|
-|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|6|152.53.39.66|8041|United States|Manassas|netcup GmbH|
-|7|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|9|187.172.10.104|8080|Mexico|Mazatlán|Uninet S.A. de C.V.|
-|10|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|11|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|12|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|15|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|51.159.159.73|80|France|Paris|SCALEWAY|
-|18|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|19|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|20|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|2|175.118.246.102|3128|South Korea|Gwangsan-gu|broadNnet|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|152.53.39.66|8041|United States|Manassas|netcup GmbH|
+|5|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|6|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|9|152.53.194.46|8065|United States|Reston|netcup GmbH|
+|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|14|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|15|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|16|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|17|187.172.10.104|8080|Mexico|Mazatlán|Uninet S.A. de C.V.|
+|18|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|38.52.155.162|999|Colombia|Bogotá|Giga Fibra SAS|
 
 
 
