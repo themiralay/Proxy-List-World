@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|49.156.44.116|8080|Cambodia|Phnom Penh|WiCAM Corporation|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|38.127.172.157|24171|United States|Washington|Cogent Communications|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|7|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
-|8|152.53.39.66|8041|United States|Manassas|netcup GmbH|
-|9|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|10|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|11|38.127.172.233|24171|United States|Washington|Cogent Communications|
-|12|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|13|38.127.172.31|24171|United States|Washington|Cogent Communications|
-|14|38.127.172.53|24171|United States|Washington|Cogent Communications|
-|15|38.127.172.157|24171|United States|Washington|Cogent Communications|
-|16|38.127.172.85|24171|United States|Washington|Cogent Communications|
-|17|142.93.252.198|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|38.127.172.233|24171|United States|Washington|Cogent Communications|
-|19|38.127.172.53|24171|United States|Washington|Cogent Communications|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|4|152.53.39.66|8041|United States|Manassas|netcup GmbH|
+|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|9|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|10|157.10.52.189|80|Vietnam|Quận Chín|SUCCESS|
+|11|38.127.172.239|24171|United States|Washington|Cogent Communications|
+|12|38.127.172.204|24171|United States|Washington|Cogent Communications|
+|13|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|14|180.191.14.66|8082|Philippines|Cabanatuan City|Globe Telecom|
+|15|38.127.172.84|24171|United States|Washington|Cogent Communications|
+|16|38.127.172.223|24171|United States|Washington|Cogent Communications|
+|17|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|18|63.141.249.242|8888|United States|Kansas City|Nocix, LLC|
+|19|38.127.172.204|24171|United States|Washington|Cogent Communications|
+|20|38.127.172.164|24171|United States|Washington|Cogent Communications|
 
 
 
