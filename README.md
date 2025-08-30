@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75105** proxies at the latest update. Usable proxies are below.
+> Scraper found **75179** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35940|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36014|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|69|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|37870|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.53.39.66|8041|United States|Manassas|netcup GmbH|
-|2|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|11|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|12|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|13|20.2.90.42|23128|Hong Kong|Hong Kong|Microsoft Corporation|
+|1|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|2|152.53.39.66|8041|United States|Manassas|netcup GmbH|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|5|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|8|179.96.28.58|80|Brazil|Caldas Novas|Megatelecom Telecomunicacoes Ltda|
+|9|20.2.90.42|23128|Hong Kong|Hong Kong|Microsoft Corporation|
+|10|38.127.172.239|24171|United States|Washington|Cogent Communications|
+|11|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|12|27.79.176.214|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
 |14|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|15|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|16|38.127.172.163|24171|United States|Washington|Cogent Communications|
-|17|27.79.176.214|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|38.127.172.44|24171|United States|Washington|Cogent Communications|
+|15|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|16|38.127.172.157|24171|United States|Washington|Cogent Communications|
+|17|157.180.121.252|35993|Finland|Helsinki|Hetzner Online GmbH|
+|18|164.163.42.36|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 |19|164.163.42.23|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|164.163.42.36|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|164.163.42.5|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
