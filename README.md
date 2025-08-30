@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
 |2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
 |3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|7|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|8|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|9|103.151.12.141|1080|Malaysia|Kuala Terengganu|Myklnet Sdn Bhd|
-|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|6|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|8|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|103.151.12.141|1080|Malaysia|Kuala Terengganu|Myklnet Sdn Bhd|
 |11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|12|20.2.90.42|23128|Hong Kong|Hong Kong|Microsoft Corporation|
+|12|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |13|116.100.250.40|10001|Vietnam|Hanoi|Viettel Corporation|
 |14|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
-|15|152.53.39.66|8041|United States|Manassas|netcup GmbH|
-|16|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|17|27.79.176.214|16000|Vietnam|Hanoi|Viettel Corporation|
-|18|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|19|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|15|27.79.176.214|16000|Vietnam|Hanoi|Viettel Corporation|
+|16|152.53.39.66|8041|United States|Manassas|netcup GmbH|
+|17|20.2.90.42|23128|Hong Kong|Hong Kong|Microsoft Corporation|
+|18|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|19|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |20|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 
 
