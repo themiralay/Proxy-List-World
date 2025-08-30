@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **76161** proxies at the latest update. Usable proxies are below.
+> Scraper found **76084** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|377|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|377|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|377|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36312|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36235|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|92|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38531|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|38.127.172.80|24171|United States|Washington|Cogent Communications|
-|4|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|9|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|11|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|12|116.100.250.40|10001|Vietnam|Hanoi|Viettel Corporation|
-|13|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|178.128.241.224|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|16|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|17|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|18|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|19|88.210.38.50|3128|The Netherlands|Amsterdam|Melbikomas UAB|
-|20|188.166.84.217|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|2|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|6|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|7|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|8|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|11|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|14|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|15|88.210.38.50|3128|The Netherlands|Amsterdam|Melbikomas UAB|
+|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|17|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|18|178.128.241.224|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|19|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|20|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
 
 
 
