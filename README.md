@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75373** proxies at the latest update. Usable proxies are below.
+> Scraper found **75346** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -32,7 +32,7 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35966|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|67|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38114|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38087|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|27.79.176.214|16000|Vietnam|Hanoi|Viettel Corporation|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|10|38.127.172.183|24171|United States|Washington|Cogent Communications|
-|11|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
-|12|38.127.172.125|24171|United States|Washington|Cogent Communications|
-|13|38.127.172.53|24171|United States|Washington|Cogent Communications|
-|14|38.127.172.44|24171|United States|Washington|Cogent Communications|
+|2|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|12|38.127.172.239|24171|United States|Washington|Cogent Communications|
+|13|38.127.172.223|24171|United States|Washington|Cogent Communications|
+|14|38.127.172.183|24171|United States|Washington|Cogent Communications|
 |15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|38.127.172.202|24171|United States|Washington|Cogent Communications|
-|19|38.127.172.127|24171|United States|Washington|Cogent Communications|
-|20|38.127.172.111|24171|United States|Washington|Cogent Communications|
+|16|38.127.172.38|24171|United States|Washington|Cogent Communications|
+|17|38.127.172.38|24171|United States|Washington|Cogent Communications|
+|18|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|20|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
 
 
 
