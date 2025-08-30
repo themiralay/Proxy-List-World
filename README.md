@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|10|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|12|178.128.241.224|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|15|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|152.53.194.46|8065|United States|Reston|netcup GmbH|
-|17|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|18|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|2.186.116.14|8080|Iran|Tabriz|Information Technology Company|
+|2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|7|152.53.194.46|8065|United States|Reston|netcup GmbH|
+|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|10|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|11|178.128.241.224|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|12|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|13|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|15|103.81.175.218|28022|Bangladesh|Chittagong|ADN Telecom Ltd.|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|40.172.100.93|8088|United Arab Emirates|Dubai|Amazon.com|
+|18|157.175.147.228|10010|Bahrain|Manama|Amazon.com, Inc.|
+|19|2.186.116.14|8080|Iran|Tabriz|Information Technology Company|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
