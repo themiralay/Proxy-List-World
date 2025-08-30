@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|47.250.159.34|17804|Malaysia|Kuala Lumpur|Alibaba (US) Technology Co., Ltd.|
-|4|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |6|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|9|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|16|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|17|14.225.3.194|3128|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|18|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|19|51.159.5.19|13128|France|Paris|SCALEWAY|
-|20|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|8|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|11|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|13|51.159.5.19|13128|France|Paris|SCALEWAY|
+|14|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|15|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|16|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|18|14.225.3.194|3128|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|19|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|20|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
 
 
 
