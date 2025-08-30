@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|4|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|5|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|7|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|10|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|11|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|12|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|2|116.100.250.40|10001|Vietnam|Hanoi|Viettel Corporation|
+|3|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|6|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|8|178.128.241.224|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|9|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|10|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|11|88.210.38.50|3128|The Netherlands|Amsterdam|Melbikomas UAB|
+|12|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|13|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
 |14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|178.128.241.224|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|17|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|18|38.127.172.233|24171|United States|Washington|Cogent Communications|
-|19|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|20|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|15|5.252.74.3|30001|Poland|Warsaw|Ipxo LLC|
+|16|5.252.74.2|30000|Poland|Warsaw|Ipxo LLC|
+|17|5.252.74.5|30003|Poland|Warsaw|Ipxo LLC|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
