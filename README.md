@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|20.2.90.42|23128|Hong Kong|Hong Kong|Microsoft Corporation|
 |3|27.79.176.214|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|154.19.38.195|1111|Indonesia|Tangerang|PT Lintas Network Solusi|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|38.127.172.53|24171|United States|Washington|Cogent Communications|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|4|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |8|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|9|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|10|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|13|103.151.12.141|1080|Malaysia|Kuala Terengganu|Myklnet Sdn Bhd|
-|14|47.176.240.250|4228|United States|Goleta|Frontier Communications of America, Inc.|
-|15|45.123.142.69|8181|Indonesia|Curug|PT Anten Sarana Teknologi|
-|16|51.159.5.19|13128|France|Paris|SCALEWAY|
-|17|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|18|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|19|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|20|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|9|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|12|103.151.12.141|1080|Malaysia|Kuala Terengganu|Myklnet Sdn Bhd|
+|13|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|15|38.127.172.233|24171|United States|Washington|Cogent Communications|
+|16|38.127.172.127|24171|United States|Washington|Cogent Communications|
+|17|38.127.172.160|24171|United States|Washington|Cogent Communications|
+|18|38.127.172.250|24171|United States|Washington|Cogent Communications|
+|19|38.127.172.85|24171|United States|Washington|Cogent Communications|
+|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
