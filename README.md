@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|175.118.246.102|3128|South Korea|Gwangsan-gu|broadNnet|
 |3|20.2.90.42|23128|Hong Kong|Hong Kong|Microsoft Corporation|
-|4|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|5|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|152.53.194.46|8065|United States|Reston|netcup GmbH|
+|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|6|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|10|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
-|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|13|38.127.172.85|24171|United States|Washington|Cogent Communications|
-|14|149.56.24.51|3128|Canada|Montreal|OVH SAS|
-|15|38.127.172.80|24171|United States|Washington|Cogent Communications|
-|16|51.159.5.19|13128|France|Paris|SCALEWAY|
-|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|19|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|20|38.127.172.11|24171|United States|Washington|Cogent Communications|
+|9|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|11|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|12|171.251.22.140|10001|Vietnam|Da Nang|Viettel Corporation|
+|13|38.127.172.202|24171|United States|Washington|Cogent Communications|
+|14|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|15|38.52.155.166|999|Colombia|Bogotá|Giga Fibra SAS|
+|16|185.41.152.110|3128|France|Valenciennes|global|
+|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|19|51.159.5.19|13128|France|Paris|SCALEWAY|
+|20|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
 
 
 
