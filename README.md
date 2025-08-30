@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
-|3|27.79.176.214|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|116.100.250.40|10001|Vietnam|Hanoi|Viettel Corporation|
-|5|152.53.39.66|8041|United States|Manassas|netcup GmbH|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|2|116.100.250.40|10001|Vietnam|Hanoi|Viettel Corporation|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|152.53.39.66|8041|United States|Manassas|netcup GmbH|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
 |7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
 |9|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|13|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|14|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|15|38.127.172.106|24171|United States|Washington|Cogent Communications|
-|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|19|38.127.172.85|24171|United States|Washington|Cogent Communications|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|38.127.172.5|24171|United States|Washington|Cogent Communications|
+|11|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|15|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|16|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|17|38.127.172.202|24171|United States|Washington|Cogent Communications|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
 
 
 
