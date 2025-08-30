@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|4|42.114.189.93|8080|Vietnam|Hanoi|FPT Telecom Company|
-|5|171.252.130.17|4001|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|6|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|7|103.172.42.183|2525|Indonesia|Kemantren Satu|PT Media Solusi Sukses|
-|8|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|9|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|11|38.127.172.160|24171|United States|Washington|Cogent Communications|
-|12|38.127.172.85|24171|United States|Washington|Cogent Communications|
-|13|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|14|178.128.241.224|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|15|103.87.148.17|8085|Indonesia|Pundong|Lintas Data Prima, PT|
-|16|38.127.172.164|24171|United States|Washington|Cogent Communications|
-|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|38.127.172.119|24171|United States|Washington|Cogent Communications|
-|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|20|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|1|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|171.252.130.17|4001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|5|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|10|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|11|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|12|103.172.42.183|2525|Indonesia|Kemantren Satu|PT Media Solusi Sukses|
+|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|14|38.127.172.164|24171|United States|Washington|Cogent Communications|
+|15|178.128.241.224|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|16|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|17|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|18|14.178.128.10|8080|Vietnam|Lai Cách|VNPT|
+|19|38.127.172.11|24171|United States|Washington|Cogent Communications|
+|20|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
 
 
 
