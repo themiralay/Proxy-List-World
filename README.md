@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|27.79.176.214|16000|Vietnam|Hanoi|Viettel Corporation|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|6|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|103.151.12.141|1080|Malaysia|Kuala Terengganu|Myklnet Sdn Bhd|
-|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|14|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|15|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|16|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|5|103.151.12.141|1080|Malaysia|Kuala Terengganu|Myklnet Sdn Bhd|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|10|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|38.127.172.232|24171|United States|Washington|Cogent Communications|
+|13|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|14|38.127.172.164|24171|United States|Washington|Cogent Communications|
+|15|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|17|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|19|38.211.24.18|8080|Indonesia|Bandung|PT Putra Garsel Interkoneksi|
+|20|23.237.210.82|80|United States|Dallas|FDCservers.net|
 
 
 
