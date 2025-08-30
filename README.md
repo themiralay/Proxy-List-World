@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|20.2.90.42|23128|Hong Kong|Hong Kong|Microsoft Corporation|
-|4|47.250.159.34|17804|Malaysia|Kuala Lumpur|Alibaba (US) Technology Co., Ltd.|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |6|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|8|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|13|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|15|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|16|103.151.12.141|1080|Malaysia|Kuala Terengganu|Myklnet Sdn Bhd|
-|17|38.127.172.11|24171|United States|Washington|Cogent Communications|
-|18|97.79.251.186|80|United States|Dallas|Spectrum|
+|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|8|38.127.172.232|24171|United States|Washington|Cogent Communications|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|14|20.2.90.42|23128|Hong Kong|Hong Kong|Microsoft Corporation|
+|15|51.159.5.19|13128|France|Paris|SCALEWAY|
+|16|38.127.172.183|24171|United States|Washington|Cogent Communications|
+|17|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|18|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
 |19|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|20|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|20|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
 
 
 
