@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|175.118.246.102|3128|South Korea|Gwangsan-gu|broadNnet|
-|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|175.118.246.102|3128|South Korea|Gwangsan-gu|broadNnet|
 |3|20.2.90.42|23128|Hong Kong|Hong Kong|Microsoft Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|152.53.194.46|8065|United States|Reston|netcup GmbH|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|13|51.159.5.19|13128|France|Paris|SCALEWAY|
-|14|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|15|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|16|103.153.38.105|8083|Pakistan|Multan|Getlinks (SMC-Private) Limited|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|19|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|20|38.127.172.160|24171|United States|Washington|Cogent Communications|
+|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|8|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|9|51.159.5.19|13128|France|Paris|SCALEWAY|
+|10|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|11|103.30.28.51|6969|Bangladesh|Bhātāra|Broad Band Telecom Services Ltd|
+|12|103.161.69.252|2698|Bangladesh|Chittagong|MiME|
+|13|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|14|132.145.75.68|5457|United Kingdom|London|Oracle Corporation|
+|15|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|16|27.79.176.214|16000|Vietnam|Hanoi|Viettel Corporation|
+|17|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|19|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|20|38.127.172.125|24171|United States|Washington|Cogent Communications|
 
 
 
