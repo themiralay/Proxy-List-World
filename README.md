@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|6|47.76.96.202|11112|Hong Kong|Hong Kong|Alibaba Cloud LLC|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|9|38.127.172.250|24171|United States|Washington|Cogent Communications|
-|10|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|11|38.127.172.50|24171|United States|Washington|Cogent Communications|
-|12|38.127.172.106|24171|United States|Washington|Cogent Communications|
-|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|15|115.72.175.207|10005|Vietnam|Ho Chi Minh City|VIETELmetro|
-|16|88.210.38.50|3128|The Netherlands|Amsterdam|Melbikomas UAB|
-|17|38.127.172.93|24171|United States|Washington|Cogent Communications|
-|18|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|3|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|5|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|116.100.250.40|10005|Vietnam|Hanoi|Viettel Corporation|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|11|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|13|168.220.89.95|3128|United States|Chicago|Fly.io, Inc.|
+|14|38.127.172.50|24171|United States|Washington|Cogent Communications|
+|15|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|16|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|20|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|20|38.127.172.60|24171|United States|Washington|Cogent Communications|
 
 
 
