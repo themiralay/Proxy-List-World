@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|3|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
-|4|116.100.250.40|10001|Vietnam|Hanoi|Viettel Corporation|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|9|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|10|51.79.99.237|4502|Canada|Montreal|OVH SAS|
-|11|178.128.241.224|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|14|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|15|88.210.38.50|3128|The Netherlands|Amsterdam|Melbikomas UAB|
-|16|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|17|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|18|5.252.74.5|30003|Poland|Warsaw|Ipxo LLC|
-|19|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|20|5.252.74.3|30001|Poland|Warsaw|Ipxo LLC|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|116.100.250.40|10001|Vietnam|Hanoi|Viettel Corporation|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|6|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|178.128.241.224|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|10|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|11|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|12|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|13|2.186.116.14|8080|Iran|Tabriz|Information Technology Company|
+|14|38.127.172.202|24171|United States|Washington|Cogent Communications|
+|15|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|16|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|17|38.127.172.111|24171|United States|Washington|Cogent Communications|
+|18|38.127.172.119|24171|United States|Washington|Cogent Communications|
+|19|18.143.165.238|84|Singapore|Singapore|Amazon Technologies Inc.|
+|20|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
 
 
 
