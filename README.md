@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|119.93.87.65|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|5|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
-|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|7|38.127.172.85|24171|United States|Washington|Cogent Communications|
+|2|47.250.159.34|17804|Malaysia|Kuala Lumpur|Alibaba (US) Technology Co., Ltd.|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |8|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|9|38.127.172.128|24171|United States|Washington|Cogent Communications|
-|10|27.79.176.214|16000|Vietnam|Hanoi|Viettel Corporation|
-|11|38.127.172.252|24171|United States|Washington|Cogent Communications|
-|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|13|38.127.172.128|24171|United States|Washington|Cogent Communications|
-|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|16|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|17|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|18|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|19|38.127.172.85|24171|United States|Washington|Cogent Communications|
-|20|51.159.5.19|13128|France|Paris|SCALEWAY|
+|9|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|14|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|15|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|16|38.127.172.223|24171|United States|Washington|Cogent Communications|
+|17|51.159.5.19|13128|France|Paris|SCALEWAY|
+|18|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|19|103.151.12.141|1080|Malaysia|Kuala Terengganu|Myklnet Sdn Bhd|
+|20|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
 
 
 
