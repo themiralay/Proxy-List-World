@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.100.250.40|10001|Vietnam|Hanoi|Viettel Corporation|
-|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|2|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |4|23.237.210.82|80|United States|Dallas|FDCservers.net|
 |5|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|6|152.53.194.46|8065|United States|Reston|netcup GmbH|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|9|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|10|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|15|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|16|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|17|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|18|38.127.172.246|24171|United States|Washington|Cogent Communications|
-|19|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|20|38.127.172.233|24171|United States|Washington|Cogent Communications|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|51.79.99.237|4502|Canada|Montreal|OVH SAS|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|10|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|38.127.172.11|24171|United States|Washington|Cogent Communications|
+|14|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|15|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|16|18.143.165.238|84|Singapore|Singapore|Amazon Technologies Inc.|
+|17|103.177.199.101|8080|Indonesia|Cikarang|PT Eyza Kausa Sinergi Abadi|
+|18|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|19|102.68.128.212|8080|Libya|Tripoli|LTT Autonomous System, Tripoli Libya|
+|20|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
 
 
 
