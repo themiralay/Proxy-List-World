@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|152.53.39.66|8041|United States|Manassas|netcup GmbH|
-|3|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|47.250.159.34|17804|Malaysia|Kuala Lumpur|Alibaba (US) Technology Co., Ltd.|
 |4|27.79.176.214|16000|Vietnam|Hanoi|Viettel Corporation|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|6|152.53.39.66|8041|United States|Manassas|netcup GmbH|
+|7|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|12|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
 |14|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|15|38.127.172.160|24171|United States|Washington|Cogent Communications|
-|16|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|17|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|18|116.100.250.40|10001|Vietnam|Hanoi|Viettel Corporation|
-|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|16|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|17|116.100.250.40|10001|Vietnam|Hanoi|Viettel Corporation|
+|18|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|19|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
