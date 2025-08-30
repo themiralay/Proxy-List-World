@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
-|5|20.2.90.42|23128|Hong Kong|Hong Kong|Microsoft Corporation|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|152.53.39.66|8041|United States|Manassas|netcup GmbH|
-|8|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|14|38.127.172.252|24171|United States|Washington|Cogent Communications|
-|15|38.127.172.127|24171|United States|Washington|Cogent Communications|
-|16|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|17|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|18|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|2|20.2.90.42|23128|Hong Kong|Hong Kong|Microsoft Corporation|
+|3|27.79.176.214|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|6|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|38.127.172.106|24171|United States|Washington|Cogent Communications|
+|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|10|38.127.172.204|24171|United States|Washington|Cogent Communications|
+|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|12|38.127.172.224|24171|United States|Washington|Cogent Communications|
+|13|38.127.172.125|24171|United States|Washington|Cogent Communications|
+|14|38.127.172.239|24171|United States|Washington|Cogent Communications|
+|15|38.127.172.93|24171|United States|Washington|Cogent Communications|
+|16|103.151.12.141|1080|Malaysia|Kuala Terengganu|Myklnet Sdn Bhd|
+|17|38.127.172.233|24171|United States|Washington|Cogent Communications|
+|18|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|19|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
