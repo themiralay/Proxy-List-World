@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|163.5.128.221|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|195.25.20.155|3128|France|Bellême|Orange Business Services|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|11|103.35.111.74|4840|Bangladesh|Azimpur|Ranks ITT|
-|12|38.127.172.128|24171|United States|Washington|Cogent Communications|
-|13|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|14|77.238.103.98|8080|Russia|Moscow|Telecom-Birzha, LLC|
-|15|38.127.172.93|24171|United States|Washington|Cogent Communications|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|18|163.5.128.221|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|19|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|20|38.127.172.31|24171|United States|Washington|Cogent Communications|
+|2|163.5.128.221|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|5|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|6|163.5.128.221|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|10|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|11|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|12|195.25.20.155|3128|France|Bellême|Orange Business Services|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|15|5.252.74.3|30001|Poland|Warsaw|Ipxo LLC|
+|16|5.252.74.5|30003|Poland|Warsaw|Ipxo LLC|
+|17|38.127.172.205|24171|United States|Washington|Cogent Communications|
+|18|202.93.247.51|8090|Indonesia|Wedoro|PT. Dutakom Wibawa Putra|
+|19|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|20|103.133.26.86|7153|Indonesia|Purwakarta|PT PHATRIA INTI PERSADA|
 
 
 
