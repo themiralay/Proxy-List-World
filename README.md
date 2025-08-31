@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |3|52.184.80.192|23128|Hong Kong|Hong Kong|Microsoft Corporation|
-|4|20.2.90.42|23128|Hong Kong|Hong Kong|Microsoft Corporation|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|7|163.5.128.221|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|163.5.128.221|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|7|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|8|195.25.20.155|3128|France|Bellême|Orange Business Services|
+|9|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
 |10|163.5.128.221|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|11|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|12|47.250.159.34|17804|Malaysia|Kuala Lumpur|Alibaba (US) Technology Co., Ltd.|
-|13|195.25.20.155|3128|France|Bellême|Orange Business Services|
-|14|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|15|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|16|45.167.126.169|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|17|38.127.172.112|24171|United States|Washington|Cogent Communications|
-|18|51.159.5.19|13128|France|Paris|SCALEWAY|
-|19|191.97.20.86|999|Peru|José Leonardo Ortiz|Integra Network Del Peru E.I.R.L.|
-|20|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|11|45.167.126.169|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|12|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|13|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|51.159.5.19|13128|France|Paris|SCALEWAY|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|18|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|19|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|20|65.108.251.40|53535|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
