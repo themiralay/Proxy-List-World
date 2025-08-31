@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|2|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|5|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|8|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|9|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|10|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|12|38.127.172.224|24171|United States|Washington|Cogent Communications|
-|13|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|14|20.2.90.42|23128|Hong Kong|Hong Kong|Microsoft Corporation|
-|15|52.184.80.192|23128|Hong Kong|Hong Kong|Microsoft Corporation|
-|16|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|18|20.120.225.109|3128|United States|Quincy|Microsoft Corporation|
-|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|20|45.167.126.1|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|3|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|11|218.39.176.236|13128|South Korea|Seocho-gu|SK Broadband Co Ltd|
+|12|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|14|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|15|5.252.74.6|30004|Poland|Warsaw|Ipxo LLC|
+|16|5.252.74.5|30003|Poland|Warsaw|Ipxo LLC|
+|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|18|5.252.74.2|30000|Poland|Warsaw|Ipxo LLC|
+|19|83.229.17.54|3733|United States|Dallas|Clouvider Limited|
+|20|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
 
 
 
