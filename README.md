@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|163.5.128.221|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|163.5.128.221|24171|United States|Ashburn|AT&T Enterprises, LLC|
 |4|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|5|116.100.250.40|10001|Vietnam|Hanoi|Viettel Corporation|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|163.5.128.221|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|6|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|7|116.100.250.40|10001|Vietnam|Hanoi|Viettel Corporation|
+|8|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|9|195.25.20.155|3128|France|Bellême|Orange Business Services|
 |10|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
 |11|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|12|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|16|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|17|18.143.165.238|84|Singapore|Singapore|Amazon Technologies Inc.|
-|18|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|19|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|12|163.5.128.221|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|13|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|19|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|20|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
 
 
 
