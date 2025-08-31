@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75460** proxies at the latest update. Usable proxies are below.
+> Scraper found **75462** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|87|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|89|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35978|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|64|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|163.5.128.221|24171|United States|Ashburn|AT&T Enterprises, LLC|
 |4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |5|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|6|163.5.128.221|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|7|163.5.128.221|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|8|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|18.143.165.238|84|Singapore|Singapore|Amazon Technologies Inc.|
-|11|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|12|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|8|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|9|163.5.128.221|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|10|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|11|195.25.20.155|3128|France|Bellême|Orange Business Services|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |13|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|17|164.163.42.29|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|171.231.50.86|1452|Vietnam|Pleiku|Viettel Corporation|
-|19|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|20|36.147.78.166|80|China|Guangzhou|China Mobile|
+|14|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|16|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|17|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|19|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|20|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
 
 
 
