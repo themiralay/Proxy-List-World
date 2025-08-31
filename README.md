@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|195.25.20.155|3128|France|Bellême|Orange Business Services|
-|4|163.5.128.114|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|38.127.172.127|24171|United States|Washington|Cogent Communications|
 |7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|163.5.128.219|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|10|163.5.128.233|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|11|45.167.126.175|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|12|163.5.128.114|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|13|38.127.172.106|24171|United States|Washington|Cogent Communications|
+|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|9|195.25.20.155|3128|France|Bellême|Orange Business Services|
+|10|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|163.5.128.238|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|13|163.5.128.112|24171|United States|Ashburn|AT&T Enterprises, LLC|
 |14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|164.163.42.31|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|17|163.5.128.60|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|18|38.127.172.5|24171|United States|Washington|Cogent Communications|
-|19|163.5.128.76|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|17|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|18|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|164.163.42.31|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
