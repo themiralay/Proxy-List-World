@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|3|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|163.5.128.221|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|6|116.100.250.40|10013|Vietnam|Hanoi|Viettel Corporation|
-|7|163.5.128.221|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|9|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|10|195.25.20.155|3128|France|Bellême|Orange Business Services|
-|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|13|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|14|38.127.172.183|24171|United States|Washington|Cogent Communications|
-|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|38.127.172.125|24171|United States|Washington|Cogent Communications|
-|20|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|163.5.128.221|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|4|163.5.128.221|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|5|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|8|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|9|103.30.29.115|6969|Bangladesh|Kāfrul|Broad Band Telecom Services Ltd|
+|10|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|11|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|14|38.127.172.125|24171|United States|Washington|Cogent Communications|
+|15|47.250.159.34|17804|Malaysia|Kuala Lumpur|Alibaba (US) Technology Co., Ltd.|
+|16|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|17|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|18|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|19|152.53.194.46|8065|United States|Reston|netcup GmbH|
+|20|47.129.253.163|938|Singapore|Singapore|Amazon Technologies Inc|
 
 
 
