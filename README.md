@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|2|52.184.80.192|23128|Hong Kong|Hong Kong|Microsoft Corporation|
-|3|20.2.90.42|23128|Hong Kong|Hong Kong|Microsoft Corporation|
-|4|163.5.128.221|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|195.25.20.155|3128|France|Bellême|Orange Business Services|
-|9|45.167.126.169|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|10|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|11|163.5.128.221|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|52.184.80.192|23128|Hong Kong|Hong Kong|Microsoft Corporation|
+|4|20.2.90.42|23128|Hong Kong|Hong Kong|Microsoft Corporation|
+|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|163.5.128.221|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|8|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|9|163.5.128.221|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|195.25.20.155|3128|France|Bellême|Orange Business Services|
 |12|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|14|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|13|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
 |15|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|16|20.2.90.42|23128|Hong Kong|Hong Kong|Microsoft Corporation|
-|17|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|18|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|19|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|20|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|16|185.41.152.110|3128|France|Valenciennes|global|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|45.167.126.169|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|19|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|20|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
 
 
 
