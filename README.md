@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|5|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|10|161.97.181.217|8118|France|Lauterbourg|Contabo GmbH|
-|11|47.250.159.34|17804|Malaysia|Kuala Lumpur|Alibaba (US) Technology Co., Ltd.|
-|12|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|13|178.128.241.224|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|14|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|15|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|16|38.127.172.112|24171|United States|Washington|Cogent Communications|
-|17|157.175.45.145|10005|Bahrain|Manama|Amazon.com, Inc.|
-|18|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|19|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|20|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|115.77.143.52|10001|Vietnam|Thành Phố Bà Rịa|Viettel Group|
+|4|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|5|116.100.250.40|10005|Vietnam|Hanoi|Viettel Corporation|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|8|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
+|9|171.252.130.17|4001|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|216.195.100.57|3129|United States|Fort Worth|Belwave Communications|
+|13|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|14|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|178.128.241.224|8888|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|17|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|18|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|19|216.195.100.61|3129|United States|Fort Worth|Belwave Communications|
+|20|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
 
 
 
