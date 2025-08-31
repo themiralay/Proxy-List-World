@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|20.2.90.42|23128|Hong Kong|Hong Kong|Microsoft Corporation|
-|4|52.184.80.192|23128|Hong Kong|Hong Kong|Microsoft Corporation|
-|5|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|163.5.128.221|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|9|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|11|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|12|163.5.128.221|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|15|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|16|103.164.227.101|60385|Vietnam|Ho Chi Minh City|Zinvps Company Limited|
-|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|18|45.167.126.169|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|19|5.252.74.4|30002|Poland|Warsaw|Ipxo LLC|
-|20|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|2|52.184.80.192|23128|Hong Kong|Hong Kong|Microsoft Corporation|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|8|20.2.90.42|23128|Hong Kong|Hong Kong|Microsoft Corporation|
+|9|163.5.128.221|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|10|163.5.128.221|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|11|47.250.159.34|17804|Malaysia|Kuala Lumpur|Alibaba (US) Technology Co., Ltd.|
+|12|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|13|45.167.126.169|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|14|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|15|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|16|191.97.20.86|999|Peru|José Leonardo Ortiz|Integra Network Del Peru E.I.R.L.|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|19|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|20|38.127.172.239|24171|United States|Washington|Cogent Communications|
 
 
 
