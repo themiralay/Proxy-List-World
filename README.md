@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|163.5.128.221|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|163.5.128.221|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|7|195.25.20.155|3128|France|Bellême|Orange Business Services|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|10|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|11|47.129.253.163|938|Singapore|Singapore|Amazon Technologies Inc|
-|12|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|2|163.5.128.221|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|3|195.25.20.155|3128|France|Bellême|Orange Business Services|
+|4|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|5|163.5.128.221|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|6|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|11|209.121.164.51|31147|Canada|Vancouver|TELUS Communications Inc.|
+|12|209.121.164.50|31147|Canada|Vancouver|TELUS Communications Inc.|
 |13|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|14|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|16|62.193.68.81|1976|Egypt|Cairo|Etisalat|
-|17|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|18|202.93.247.51|8090|Indonesia|Wedoro|PT. Dutakom Wibawa Putra|
-|19|37.220.83.49|8080|Germany|Frankfurt am Main|Timeweb, LLP|
-|20|157.175.147.228|10010|Bahrain|Manama|Amazon.com, Inc.|
+|14|175.100.35.103|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|15|103.35.111.74|4840|Bangladesh|Azimpur|Ranks ITT|
+|16|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|19|38.127.172.106|24171|United States|Washington|Cogent Communications|
+|20|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
 
 
 
