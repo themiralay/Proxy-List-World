@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |9|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|11|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|14|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|15|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|16|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|17|132.145.75.68|5457|United Kingdom|London|Oracle Corporation|
-|18|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|209.141.57.216|80|United States|Las Vegas|FranTech Solutions|
+|13|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|14|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|15|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|16|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|17|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
 
 
 
