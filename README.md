@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|163.5.128.52|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|38.127.172.110|24171|United States|Washington|Cogent Communications|
-|12|38.127.172.232|24171|United States|Washington|Cogent Communications|
-|13|163.5.128.52|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|14|115.72.0.64|10005|Vietnam|Ho Chi Minh City|VIETELmetro|
-|15|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|163.5.128.123|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|6|38.127.172.5|24171|United States|Washington|Cogent Communications|
+|7|163.5.128.233|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|8|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|9|163.5.128.189|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|163.5.128.121|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|163.5.128.101|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|15|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |16|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|38.127.172.239|24171|United States|Washington|Cogent Communications|
-|20|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|17|163.5.128.220|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|18|163.5.128.220|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
 
 
 
