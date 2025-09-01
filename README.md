@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|45.89.53.245|3128|United States|Secaucus|PQ HOSTING PLUS S.R.L.|
-|4|163.5.128.111|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|5|163.5.128.96|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|163.5.128.111|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|11|163.5.128.96|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|14|38.127.172.239|24171|United States|Washington|Cogent Communications|
-|15|103.30.29.115|6969|Bangladesh|Kāfrul|Broad Band Telecom Services Ltd|
-|16|38.127.172.223|24171|United States|Washington|Cogent Communications|
-|17|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|18|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|19|45.89.53.245|3128|United States|Secaucus|PQ HOSTING PLUS S.R.L.|
-|20|115.72.42.175|10002|Vietnam|Ho Chi Minh City|VIETELmetro|
+|2|209.121.164.51|31147|Canada|Vancouver|TELUS Communications Inc.|
+|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|7|45.89.53.245|3128|United States|Secaucus|PQ HOSTING PLUS S.R.L.|
+|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|13|157.175.147.228|10010|Bahrain|Manama|Amazon.com, Inc.|
+|14|45.89.53.245|3128|United States|Secaucus|PQ HOSTING PLUS S.R.L.|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|17|213.230.121.73|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|18|47.129.253.163|938|Singapore|Singapore|Amazon Technologies Inc|
+|19|40.172.232.213|13279|United Arab Emirates|Dubai|Amazon.com|
+|20|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
 
 
 
