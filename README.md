@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|27.76.166.182|10003|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|4|115.79.237.126|4007|Vietnam|Ho Chi Minh City|VIETELftth|
-|5|171.228.180.100|1001|Vietnam|Hanoi|Viettel Corporation|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|171.233.24.86|4002|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|8|115.79.224.45|4003|Vietnam|Ho Chi Minh City|VIETELftth|
-|9|171.228.191.8|5110|Vietnam|Hanoi|Viettel Corporation|
-|10|171.228.186.176|5105|Vietnam|Hanoi|Viettel Corporation|
-|11|171.234.189.116|1003|Vietnam|Hanoi|Viettel Corporation|
-|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|171.228.186.98|5108|Vietnam|Hanoi|Viettel Corporation|
-|14|202.158.245.149|7002|Vietnam|Da Nang|Viet Digital Technology Liability Company|
-|15|171.228.128.206|5102|Vietnam|Hanoi|Viettel Corporation|
-|16|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|17|171.228.185.99|5102|Vietnam|Hanoi|Viettel Corporation|
-|18|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|19|171.239.232.119|10002|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|20|115.77.160.145|10007|Vietnam|Quận Bình Thạnh|Viettel Group|
+|2|171.228.186.176|5104|Vietnam|Hanoi|Viettel Corporation|
+|3|171.228.186.98|5108|Vietnam|Hanoi|Viettel Corporation|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|171.228.187.56|5107|Vietnam|Hanoi|Viettel Corporation|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|171.224.58.227|1002|Vietnam|Thái Bình|Viettel Corporation|
+|8|171.228.186.88|5107|Vietnam|Hanoi|Viettel Corporation|
+|9|171.228.185.99|5108|Vietnam|Hanoi|Viettel Corporation|
+|10|163.5.128.52|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|11|171.228.184.67|5103|Vietnam|Hanoi|Viettel Corporation|
+|12|38.127.172.50|24171|United States|Washington|Cogent Communications|
+|13|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|14|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|16|171.228.128.206|5108|Vietnam|Hanoi|Viettel Corporation|
+|17|115.79.237.126|4007|Vietnam|Ho Chi Minh City|VIETELftth|
+|18|163.5.128.114|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|19|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|20|23.237.210.82|80|United States|Dallas|FDCservers.net|
 
 
 
