@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|10|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|11|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|12|157.66.50.147|8080|Indonesia|Karawang|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|13|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|14|72.10.160.170|3949|Canada|Montreal|GloboTech Communications|
-|15|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|16|38.127.172.239|24171|United States|Washington|Cogent Communications|
-|17|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|18|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|19|103.156.248.26|8080|Indonesia|Batam|Trans Media Telekomunikasi|
-|20|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|7|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|9|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|10|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|11|72.10.160.170|3949|Canada|Montreal|GloboTech Communications|
+|12|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|14|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|16|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|17|116.100.250.40|10001|Vietnam|Hanoi|Viettel Corporation|
+|18|38.127.172.79|24171|United States|Washington|Cogent Communications|
+|19|38.127.172.5|24171|United States|Washington|Cogent Communications|
+|20|132.145.75.68|5457|United Kingdom|London|Oracle Corporation|
 
 
 
