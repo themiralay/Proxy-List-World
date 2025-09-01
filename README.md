@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
 |4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |7|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|8|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|11|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|12|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|14|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|15|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|17|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|18|218.39.176.236|13128|South Korea|Seocho-gu|SK Broadband Co Ltd|
-|19|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|20|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|9|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|12|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|13|115.72.166.145|10004|Vietnam|Ho Chi Minh City|VIETELmetro|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|115.72.6.247|10002|Vietnam|Ho Chi Minh City|VIETELmetro|
+|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|17|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|18|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
