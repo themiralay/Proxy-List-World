@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|254|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|254|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|254|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|163.5.128.112|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|10|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
-|13|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|14|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|15|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|163.5.128.52|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|47.250.159.34|17804|Malaysia|Kuala Lumpur|Alibaba (US) Technology Co., Ltd.|
+|11|163.5.128.220|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|12|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|13|163.5.128.114|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|14|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|15|163.5.128.121|24171|United States|Ashburn|AT&T Enterprises, LLC|
 |16|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|17|163.5.128.221|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|19|8.222.128.50|9119|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|163.5.128.96|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|18|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|19|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|20|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
 
 
 
