@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
-|5|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|218.39.176.236|13128|South Korea|Seocho-gu|SK Broadband Co Ltd|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|116.97.4.169|1004|Vietnam|Tiền Hải|Viettel Corporation|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|12|163.5.128.114|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|13|163.5.128.114|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|14|163.5.128.96|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|15|103.30.29.115|6969|Bangladesh|Kāfrul|Broad Band Telecom Services Ltd|
-|16|163.5.128.96|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|17|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|18|38.127.172.205|24171|United States|Washington|Cogent Communications|
-|19|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|8|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|11|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|13|163.5.128.193|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|14|114.9.52.2|1452|Indonesia|Wonorejo|PT. INDOSAT Tbk|
+|15|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
+|16|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|17|115.77.135.109|10007|Vietnam|Thành Phố Bà Rịa|Viettel Group|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|20|115.79.237.126|4007|Vietnam|Ho Chi Minh City|VIETELftth|
 
 
 
