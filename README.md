@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|163.5.128.96|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|4|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|5|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
-|6|163.5.128.96|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|7|38.127.172.183|24171|United States|Washington|Cogent Communications|
-|8|163.5.128.93|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|9|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|10|47.129.253.163|938|Singapore|Singapore|Amazon Technologies Inc|
-|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|8|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|9|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|10|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|11|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|12|38.127.172.44|24171|United States|Washington|Cogent Communications|
 |13|45.89.53.245|3128|United States|Secaucus|PQ HOSTING PLUS S.R.L.|
-|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|38.127.172.237|24171|United States|Washington|Cogent Communications|
-|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|14|24.52.33.75|8080|United States|St. George|TDS TELECOM|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |18|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|19|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|20|45.174.95.137|8080|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|19|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|20|38.127.172.247|24171|United States|Washington|Cogent Communications|
 
 
 
