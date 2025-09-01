@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|163.5.128.212|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|163.5.128.219|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |8|163.5.128.238|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|9|163.5.128.237|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|10|163.5.128.96|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|11|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|163.5.128.96|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|14|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|15|163.5.128.86|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|16|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|12|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|14|163.5.128.114|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|15|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|16|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|17|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
 |18|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|19|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|20|18.143.165.238|84|Singapore|Singapore|Amazon Technologies Inc.|
+|19|163.5.128.96|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
