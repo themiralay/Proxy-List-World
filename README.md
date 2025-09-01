@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|6|163.5.128.219|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|7|163.5.128.97|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|8|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|9|38.127.172.205|24171|United States|Washington|Cogent Communications|
-|10|38.127.172.205|24171|United States|Washington|Cogent Communications|
-|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|12|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|13|38.127.172.5|24171|United States|Washington|Cogent Communications|
-|14|38.127.172.232|24171|United States|Washington|Cogent Communications|
-|15|163.5.128.60|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|16|163.5.128.97|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|17|38.127.172.106|24171|United States|Washington|Cogent Communications|
-|18|38.127.172.5|24171|United States|Washington|Cogent Communications|
-|19|38.127.172.106|24171|United States|Washington|Cogent Communications|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|2|163.5.128.111|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|3|163.5.128.220|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|4|163.5.128.107|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|5|163.5.128.96|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|6|163.5.128.86|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|7|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|8|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|9|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|10|163.5.128.93|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|13|163.5.128.107|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|14|163.5.128.219|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|15|163.5.128.212|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|16|163.5.128.52|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|17|38.127.172.163|24171|United States|Washington|Cogent Communications|
+|18|163.5.128.86|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|19|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|20|163.5.128.174|24171|United States|Ashburn|AT&T Enterprises, LLC|
 
 
 
