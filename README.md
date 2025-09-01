@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|18.143.165.238|84|Singapore|Singapore|Amazon Technologies Inc.|
-|6|163.5.128.220|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|7|163.5.128.174|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|11|163.5.128.121|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|12|163.5.128.114|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|13|163.5.128.154|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|16|163.5.128.121|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|17|38.127.172.44|24171|United States|Washington|Cogent Communications|
-|18|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|19|38.127.172.106|24171|United States|Washington|Cogent Communications|
-|20|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|103.112.53.211|6314|Bangladesh|Dhaka|Carnival Internet|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|163.5.128.237|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|163.5.128.121|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|12|163.5.128.237|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|18|163.5.128.154|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|19|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|20|163.5.128.219|24171|United States|Ashburn|AT&T Enterprises, LLC|
 
 
 
