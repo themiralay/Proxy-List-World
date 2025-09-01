@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|163.5.128.111|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|4|171.237.244.102|5102|Vietnam|Hanoi|Viettel Corporation|
-|5|163.5.128.202|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|8|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|9|163.5.128.96|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|10|163.5.128.97|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|11|38.127.172.224|24171|United States|Washington|Cogent Communications|
-|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|13|38.127.172.183|24171|United States|Washington|Cogent Communications|
-|14|38.127.172.106|24171|United States|Washington|Cogent Communications|
-|15|43.130.52.194|8118|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|16|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|17|38.127.172.239|24171|United States|Washington|Cogent Communications|
-|18|163.5.128.212|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|19|163.5.128.212|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|20|92.39.141.246|65056|Russia|Ryazan|InterTelecom ISP|
+|2|171.237.244.102|5102|Vietnam|Hanoi|Viettel Corporation|
+|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|58.69.1.146|8082|Philippines|Taguig|Philippine Long Distance Telephone Co.|
+|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|12|38.127.172.223|24171|United States|Washington|Cogent Communications|
+|13|163.5.128.212|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|14|163.5.128.193|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|16|163.5.128.238|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|17|163.5.128.215|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|18|163.5.128.233|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|19|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|20|38.127.172.79|24171|United States|Washington|Cogent Communications|
 
 
 
