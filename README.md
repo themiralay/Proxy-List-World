@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|7|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|8|163.5.128.187|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|9|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|10|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|11|163.5.128.4|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|12|163.5.128.93|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|13|38.127.172.38|24171|United States|Washington|Cogent Communications|
-|14|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|15|163.5.128.76|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|16|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|18|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|19|163.5.128.76|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|20|163.5.128.123|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|218.39.176.236|13128|South Korea|Seocho-gu|SK Broadband Co Ltd|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|6|163.5.128.123|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|7|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|8|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|14|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|15|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|16|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|17|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|18|163.5.128.111|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|19|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|20|163.5.128.119|24171|United States|Ashburn|AT&T Enterprises, LLC|
 
 
 
