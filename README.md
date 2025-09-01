@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|7|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|103.168.149.48|8181|Indonesia|Pematangsiantar|TORSADA|
+|2|163.5.128.114|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|163.5.128.219|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|6|163.5.128.97|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|10|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
 |11|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
 |12|163.5.128.114|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|14|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|15|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|16|163.5.128.111|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|17|31.14.114.70|1081|Iran|Tehran|Afranet Co|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
-|20|47.129.253.163|938|Singapore|Singapore|Amazon Technologies Inc|
+|13|163.5.128.97|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|14|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|103.30.29.115|6969|Bangladesh|Kāfrul|Broad Band Telecom Services Ltd|
+|18|115.79.237.126|4007|Vietnam|Ho Chi Minh City|VIETELftth|
+|19|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|20|163.5.128.96|24171|United States|Ashburn|AT&T Enterprises, LLC|
 
 
 
