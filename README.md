@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|38.127.172.223|24171|United States|Washington|Cogent Communications|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |7|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|8|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|8|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
 |9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|38.127.172.239|24171|United States|Washington|Cogent Communications|
-|12|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|13|163.5.128.212|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|14|163.5.128.96|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|15|163.5.128.202|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|16|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|17|38.127.172.106|24171|United States|Washington|Cogent Communications|
-|18|163.5.128.220|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|65.38.213.154|8881|Puerto Rico|San Juan|AT&T Mobility Puerto Rico|
+|11|38.127.172.85|24171|United States|Washington|Cogent Communications|
+|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|13|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|14|163.5.128.123|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|17|38.127.172.127|24171|United States|Washington|Cogent Communications|
+|18|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|19|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
