@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|163.5.128.114|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|163.5.128.174|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|9|163.5.128.112|24171|United States|Ashburn|AT&T Enterprises, LLC|
 |10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|12|163.5.128.220|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|13|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|15|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|17|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|18|163.5.128.220|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|19|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|20|47.250.159.34|17804|Malaysia|Kuala Lumpur|Alibaba (US) Technology Co., Ltd.|
+|11|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|13|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|14|163.5.128.237|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|15|116.100.250.40|10006|Vietnam|Hanoi|Viettel Corporation|
+|16|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|17|163.5.128.112|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|18|115.72.0.64|10002|Vietnam|Ho Chi Minh City|VIETELmetro|
+|19|163.5.128.121|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|20|163.5.128.215|24171|United States|Ashburn|AT&T Enterprises, LLC|
 
 
 
