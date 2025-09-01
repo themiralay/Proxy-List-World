@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|209.121.164.51|31147|Canada|Vancouver|TELUS Communications Inc.|
-|4|209.121.164.50|31147|Canada|Vancouver|TELUS Communications Inc.|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|163.5.128.114|24171|United States|Ashburn|AT&T Enterprises, LLC|
+|2|47.79.94.34|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
 |10|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|11|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|12|163.5.128.193|24171|United States|Ashburn|AT&T Enterprises, LLC|
 |13|163.5.128.96|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|14|163.5.128.96|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|15|163.5.128.219|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|18|163.5.128.250|24171|United States|Ashburn|AT&T Enterprises, LLC|
-|19|195.25.20.155|3128|France|Bellême|Orange Business Services|
-|20|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|14|195.25.20.155|3128|France|Bellême|Orange Business Services|
+|15|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|17|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|18.143.165.238|84|Singapore|Singapore|Amazon Technologies Inc.|
+|20|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
 
 
 
