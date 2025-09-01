@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|218.39.176.236|13128|South Korea|Seocho-gu|SK Broadband Co Ltd|
-|3|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|115.72.6.247|10002|Vietnam|Ho Chi Minh City|VIETELmetro|
+|4|209.121.164.51|31147|Canada|Vancouver|TELUS Communications Inc.|
 |5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|115.72.6.247|10002|Vietnam|Ho Chi Minh City|VIETELmetro|
-|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|115.72.166.145|10004|Vietnam|Ho Chi Minh City|VIETELmetro|
-|15|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|16|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|17|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|18|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|19|132.145.75.68|5457|United Kingdom|London|Oracle Corporation|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|10|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|11|115.72.3.88|10002|Vietnam|Ho Chi Minh City|VIETELmetro|
+|12|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|13|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|14|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|17|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|18|218.39.176.236|13128|South Korea|Seocho-gu|SK Broadband Co Ltd|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
 
 
 
