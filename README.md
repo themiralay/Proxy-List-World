@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **76048** proxies at the latest update. Usable proxies are below.
+> Scraper found **76009** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|400|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|400|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|400|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36209|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36170|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|69|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38544|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
 |4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
 |7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|62.112.11.77|14098|The Netherlands|Naaldwijk|WorldStream B.V.|
-|9|89.38.99.47|12672|The Netherlands|Naaldwijk|WorldStream B.V.|
-|10|217.23.5.66|14864|The Netherlands|Naaldwijk|WorldStream B.V.|
-|11|82.200.237.11|8080|Kazakhstan|Almaty|Kazakhtelecom Data Network Administration|
-|12|185.132.133.56|13638|The Netherlands|Naaldwijk|WorldStream B.V.|
-|13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|14|5.252.74.3|30001|Poland|Warsaw|Ipxo LLC|
-|15|175.110.113.236|19146|The Netherlands|Naaldwijk|WorldStream B.V.|
-|16|147.135.222.208|3128|France|Strasbourg|OVH SAS|
-|17|190.2.134.118|14049|The Netherlands|Naaldwijk|WorldStream B.V.|
-|18|175.110.113.94|23314|The Netherlands|Naaldwijk|WorldStream B.V.|
-|19|89.39.107.139|12457|The Netherlands|Naaldwijk|WorldStream B.V.|
-|20|27.76.166.182|10005|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|8|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|11|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|12|65.38.213.154|8881|Puerto Rico|San Juan|AT&T Mobility Puerto Rico|
+|13|89.38.99.47|12672|The Netherlands|Naaldwijk|WorldStream B.V.|
+|14|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|15|175.110.113.229|15058|The Netherlands|Naaldwijk|WorldStream B.V.|
+|16|175.110.113.236|19342|The Netherlands|Naaldwijk|WorldStream B.V.|
+|17|89.39.107.139|12457|The Netherlands|Naaldwijk|WorldStream B.V.|
+|18|185.132.133.56|13638|The Netherlands|Naaldwijk|WorldStream B.V.|
+|19|62.112.11.77|14098|The Netherlands|Naaldwijk|WorldStream B.V.|
+|20|190.2.134.118|14049|The Netherlands|Naaldwijk|WorldStream B.V.|
 
 
 
