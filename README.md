@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |6|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|8|186.96.73.181|999|Venezuela|Caracas|Gold Data USA Inc|
-|9|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
+|9|147.135.222.208|3128|France|Strasbourg|OVH SAS|
 |10|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|11|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|12|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|16|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|17|132.145.75.68|5457|United Kingdom|London|Oracle Corporation|
-|18|45.147.7.161|8087|Germany|Frankfurt am Main|24fire GmbH|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|13|195.90.211.14|3128|Germany|Berlin|EVANZO e-commerce GmbH|
+|14|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|15|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|16|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|17|103.238.232.182|1111|Indonesia|Bandung|PT Digital Netcom Solution|
+|18|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|19|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|20|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
 
 
 
