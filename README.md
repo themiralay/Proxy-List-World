@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|8|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|9|204.186.254.106|8080|United States|Allentown|PenTeleData Inc|
-|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|11|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
-|12|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|13|92.58.181.171|7575|Spain|Madrid|UNI2|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|16|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|17|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|19|84.247.188.39|8888|Germany|Düsseldorf|Contabo GmbH|
-|20|103.193.144.223|8080|Indonesia|Pangkalan Brandan|PT Lintas Jaringan Nusantara|
+|2|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|5|175.118.246.102|3128|South Korea|Gwangsan-gu|broadNnet|
+|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|7|195.25.20.155|3128|France|Bellême|Orange Business Services|
+|8|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|9|45.167.126.169|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|12|84.247.188.39|8888|Germany|Düsseldorf|Contabo GmbH|
+|13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|14|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|16|157.175.147.228|10010|Bahrain|Manama|Amazon.com, Inc.|
+|17|152.53.194.55|31212|United States|Reston|netcup GmbH|
+|18|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|20|164.163.42.56|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
 
 
 
