@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |4|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|5|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
 |6|195.25.20.155|3128|France|Bellême|Orange Business Services|
-|7|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|8|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|10|160.19.78.29|3128|Vietnam|Bo|VNPT Corp|
-|11|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|12|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|13|45.167.126.169|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|14|188.166.84.217|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|92.58.181.171|7575|Spain|Madrid|UNI2|
-|17|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|18|40.172.232.213|13279|United Arab Emirates|Dubai|Amazon.com|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|38.188.178.1|999|Colombia|Choachí|TECNOLOGÍA, INFORMACIÓN Y COMUNICACIONES DE COLOMBIA SAS|
+|7|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|8|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|9|92.58.181.171|7575|Spain|Madrid|UNI2|
+|10|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|12|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|13|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|152.53.194.55|21450|United States|Reston|netcup GmbH|
+|16|164.163.42.56|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|18|38.188.178.1|999|Colombia|Choachí|TECNOLOGÍA, INFORMACIÓN Y COMUNICACIONES DE COLOMBIA SAS|
+|19|84.247.188.39|8888|Germany|Düsseldorf|Contabo GmbH|
+|20|40.172.232.213|13279|United Arab Emirates|Dubai|Amazon.com|
 
 
 
