@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |3|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|4|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|5|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|8|152.53.194.46|8065|United States|Reston|netcup GmbH|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|92.58.181.171|7575|Spain|Madrid|UNI2|
-|11|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|12|95.47.239.65|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
-|13|103.76.148.42|8181|Indonesia|Jakarta|PT. Java Digital Nusantara|
-|14|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|92.58.181.171|7575|Spain|Madrid|UNI2|
+|8|195.25.20.155|3128|France|Bellême|Orange Business Services|
+|9|152.53.194.46|8065|United States|Reston|netcup GmbH|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|36.88.148.140|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|12|38.191.214.4|999|Colombia|Villavicencio|TECNOLOGÍA, INFORMACIÓN Y COMUNICACIONES DE COLOMBIA SAS|
+|13|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|15|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
 |16|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|17|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|38.46.233.146|8080|Indonesia|Boyolali|PT CYB Media Group|
+|17|160.20.128.9|1080|Indonesia|Cirebon|PT ASTI DIGITAL INDONESIA|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |19|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|20|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 
 
 
