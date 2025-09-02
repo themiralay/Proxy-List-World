@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|3|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|31.14.114.77|1081|Iran|Tehran|Afranet Co|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|36.147.78.166|80|China|Guangzhou|China Mobile|
-|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|9|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|10|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|12|43.153.28.68|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|13|132.145.75.68|5457|United Kingdom|London|Oracle Corporation|
-|14|182.253.143.226|8080|Indonesia|Semarang|Biznet Networks|
-|15|43.153.28.68|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|16|38.56.213.29|999|Peru|Santo Tomás|YOTTALAN|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|116.100.250.40|10009|Vietnam|Hanoi|Viettel Corporation|
-|19|45.167.126.169|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|20|181.205.161.187|999|Colombia|Medellín|Colombia Móvil|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|7|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|8|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|11|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|12|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|13|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|36.147.78.166|80|China|Guangzhou|China Mobile|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|193.24.30.50|37777|Ukraine|Kharkiv|Ukrtechstroy Ltd|
+|18|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
 
 
 
