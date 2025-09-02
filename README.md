@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|344|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|344|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|344|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|2|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|10|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|5|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|8|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
+|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|10|147.135.222.208|3128|France|Strasbourg|OVH SAS|
 |11|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|12|45.167.126.1|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|13|152.53.194.55|57672|United States|Reston|netcup GmbH|
-|14|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|15|103.48.68.122|82|India|Hyderabad|Country Online Services PVT LTD|
-|16|84.247.188.39|8888|Germany|Düsseldorf|Contabo GmbH|
-|17|43.153.28.68|3128|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|18|67.43.228.253|23415|Canada|Montreal|GloboTech Communications|
-|19|116.100.250.40|10054|Vietnam|Hanoi|Viettel Corporation|
-|20|72.10.164.178|23229|Canada|Montreal|GloboTech Communications|
+|12|190.2.134.118|14049|The Netherlands|Naaldwijk|WorldStream B.V.|
+|13|62.112.11.77|14098|The Netherlands|Naaldwijk|WorldStream B.V.|
+|14|89.39.107.139|12457|The Netherlands|Naaldwijk|WorldStream B.V.|
+|15|89.38.99.47|12672|The Netherlands|Naaldwijk|WorldStream B.V.|
+|16|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|17|178.132.2.28|20408|The Netherlands|Naaldwijk|WorldStream B.V.|
+|18|217.23.5.66|12056|The Netherlands|Naaldwijk|WorldStream B.V.|
+|19|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|20|178.132.0.94|11646|The Netherlands|Naaldwijk|WorldStream B.V.|
 
 
 
