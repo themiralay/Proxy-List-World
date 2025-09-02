@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|450|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|450|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|450|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|453|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|453|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|453|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|6|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|7|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|9|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|10|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|11|185.132.133.56|13638|The Netherlands|Naaldwijk|WorldStream B.V.|
-|12|89.39.107.139|12457|The Netherlands|Naaldwijk|WorldStream B.V.|
-|13|175.110.113.236|19342|The Netherlands|Naaldwijk|WorldStream B.V.|
-|14|62.112.11.77|14098|The Netherlands|Naaldwijk|WorldStream B.V.|
-|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|175.110.113.94|23314|The Netherlands|Naaldwijk|WorldStream B.V.|
-|18|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|19|217.23.5.66|15173|The Netherlands|Naaldwijk|WorldStream B.V.|
-|20|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|12|103.189.197.117|3125|Indonesia|Cirebon|PT Graha Sumber Teknologi|
+|13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|15|175.110.113.236|19342|The Netherlands|Naaldwijk|WorldStream B.V.|
+|16|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|89.38.99.47|11147|The Netherlands|Naaldwijk|WorldStream B.V.|
+|19|175.110.113.94|23314|The Netherlands|Naaldwijk|WorldStream B.V.|
+|20|175.110.113.229|15058|The Netherlands|Naaldwijk|WorldStream B.V.|
 
 
 
