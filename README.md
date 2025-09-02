@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|6|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|7|147.135.222.208|3128|France|Strasbourg|OVH SAS|
 |8|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
 |9|89.38.99.47|12672|The Netherlands|Naaldwijk|WorldStream B.V.|
-|10|62.112.11.77|14098|The Netherlands|Naaldwijk|WorldStream B.V.|
-|11|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|12|89.39.107.139|12457|The Netherlands|Naaldwijk|WorldStream B.V.|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|15|175.110.113.94|23314|The Netherlands|Naaldwijk|WorldStream B.V.|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|19|91.232.105.90|11085|The Netherlands|Naaldwijk|WorldStream B.V.|
-|20|217.23.5.66|14864|The Netherlands|Naaldwijk|WorldStream B.V.|
+|10|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|11|89.39.107.139|12457|The Netherlands|Naaldwijk|WorldStream B.V.|
+|12|62.112.11.77|14098|The Netherlands|Naaldwijk|WorldStream B.V.|
+|13|91.232.105.90|11085|The Netherlands|Naaldwijk|WorldStream B.V.|
+|14|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|190.2.134.118|14049|The Netherlands|Naaldwijk|WorldStream B.V.|
+|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|103.30.29.115|6969|Bangladesh|Kāfrul|Broad Band Telecom Services Ltd|
+|20|136.243.177.154|15670|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
