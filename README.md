@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|8|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
-|9|20.50.138.159|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|92.58.181.171|7575|Spain|Madrid|UNI2|
-|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|14|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
+|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|5|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
+|8|20.50.138.159|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|9|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|10|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|11|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|103.30.29.115|6969|Bangladesh|Kāfrul|Broad Band Telecom Services Ltd|
+|14|92.58.181.171|7575|Spain|Madrid|UNI2|
 |15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|37.187.109.70|10111|France|Roubaix|OVH SAS|
-|17|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|18|103.30.29.115|6969|Bangladesh|Kāfrul|Broad Band Telecom Services Ltd|
-|19|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|20|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|16|157.66.16.54|8989|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|17|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|177.234.217.42|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|20|191.97.20.78|999|Peru|José Leonardo Ortiz|Integra Network Del Peru E.I.R.L.|
 
 
 
