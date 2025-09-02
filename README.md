@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|3|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|7|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|20.50.138.159|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|10|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|11|92.58.181.171|7575|Spain|Madrid|UNI2|
-|12|168.228.44.66|999|Honduras|Yoro|CABLE NACIONAL, S.A|
-|13|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|14|37.187.109.70|10111|France|Roubaix|OVH SAS|
-|15|95.47.239.65|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
-|16|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|17|103.53.77.179|8050|Indonesia|Gubengairlangga|INTI|
-|18|103.169.41.212|8080|Indonesia|Medan|Telnet Indonesia|
-|19|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|20|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|2|209.121.164.50|31147|Canada|Vancouver|TELUS Communications Inc.|
+|3|209.121.164.51|31147|Canada|Vancouver|TELUS Communications Inc.|
+|4|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|20.50.138.159|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|12|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|14|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|15|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|16|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|17|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
