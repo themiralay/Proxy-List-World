@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|209.121.164.51|31147|Canada|Vancouver|TELUS Communications Inc.|
-|3|209.121.164.50|31147|Canada|Vancouver|TELUS Communications Inc.|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|12|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|13|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|5.252.74.6|30004|Poland|Warsaw|Ipxo LLC|
-|16|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|18|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|19|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|61.245.9.174|5050|Philippines|Manila|Infinivan Incorporated|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|12|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|15|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|16|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
+|17|92.58.181.171|7575|Spain|Madrid|UNI2|
+|18|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|19|119.93.82.171|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|20|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 
 
 
