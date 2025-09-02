@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
 |3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|4|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|5|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
 |6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|10|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|11|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|14|5.252.74.6|30004|Poland|Warsaw|Ipxo LLC|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|9|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|10|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|103.232.20.174|8080|Indonesia|Pasuruan|PT Terabyte Network Indonesia|
+|13|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|14|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
+|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |17|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|18|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|19|95.0.175.130|8080|Türkiye|Karkamış|Turk Telekomunikasyon Anonim Sirketi|
-|20|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|18|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|19|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|20|195.25.20.155|3128|France|Bellême|Orange Business Services|
 
 
 
