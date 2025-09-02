@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|5|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|92.58.181.171|7575|Spain|Madrid|UNI2|
-|8|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|9|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|10|38.211.24.18|8080|Indonesia|Bandung|PT Putra Garsel Interkoneksi|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|152.53.194.46|8065|United States|Reston|netcup GmbH|
-|13|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|14|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|15|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|16|190.202.59.26|8080|Venezuela|Chacao|CANTV Servicios, Venezuela|
-|17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|18|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|19|114.237.77.246|1080|China|Nanjing|Chinanet|
-|20|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|2|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|5|103.172.42.227|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|6|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
+|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|9|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|10|195.25.20.155|3128|France|Bellême|Orange Business Services|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|13|92.58.181.171|7575|Spain|Madrid|UNI2|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|152.53.194.46|8065|United States|Reston|netcup GmbH|
+|18|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
+|19|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
+|20|23.237.210.82|80|United States|Dallas|FDCservers.net|
 
 
 
