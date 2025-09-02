@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
 |4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|6|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|10|115.74.7.136|10007|Vietnam|Vũng Tàu|VIETELxdsl|
-|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|13|113.162.238.46|20399|Vietnam|Thu Dau Mot|VietNam Post and Telecom Corporation|
-|14|202.179.93.132|58080|India|Mumbai|Ankhnet|
-|15|5.252.74.2|30000|Poland|Warsaw|Ipxo LLC|
-|16|5.252.74.3|30001|Poland|Warsaw|Ipxo LLC|
-|17|5.252.74.4|30002|Poland|Warsaw|Ipxo LLC|
-|18|5.252.74.6|30004|Poland|Warsaw|Ipxo LLC|
-|19|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|20|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|5|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|8|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|9|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|10|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|13|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|5.252.74.6|30004|Poland|Warsaw|Ipxo LLC|
+|18|122.3.87.41|8080|Philippines|Guiguinto|Philippine Long Distance Telephone Co.|
+|19|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|20|182.160.114.213|8080|Bangladesh|Dhaka|Aamra Networks Limited|
 
 
 
