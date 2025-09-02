@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|3|209.121.164.51|31147|Canada|Vancouver|TELUS Communications Inc.|
-|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|38.188.178.1|999|Colombia|Choachí|TECNOLOGÍA, INFORMACIÓN Y COMUNICACIONES DE COLOMBIA SAS|
-|9|92.58.181.171|7575|Spain|Madrid|UNI2|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|12|36.95.61.186|8080|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|15|103.172.42.227|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|16|103.141.67.50|51935|Bangladesh|Dhaka|Link3 Technologies Limited|
-|17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|18|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|19|38.191.214.4|999|Colombia|Villavicencio|TECNOLOGÍA, INFORMACIÓN Y COMUNICACIONES DE COLOMBIA SAS|
-|20|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|5|152.53.194.46|8065|United States|Reston|netcup GmbH|
+|6|92.58.181.171|7575|Spain|Madrid|UNI2|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|9|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|10|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|12|38.191.214.4|999|Colombia|Villavicencio|TECNOLOGÍA, INFORMACIÓN Y COMUNICACIONES DE COLOMBIA SAS|
+|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|14|84.247.188.39|8888|Germany|Düsseldorf|Contabo GmbH|
+|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|16|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|17|38.188.178.1|999|Colombia|Choachí|TECNOLOGÍA, INFORMACIÓN Y COMUNICACIONES DE COLOMBIA SAS|
+|18|103.237.144.225|1400|Vietnam|Quận Chín|LVSOFT|
+|19|122.3.121.231|8082|Philippines|Taguig|Philippine Long Distance Telephone Co.|
+|20|157.180.121.252|35519|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
