@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|3|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|4|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|7|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|3|160.19.78.29|3128|Vietnam|Bo|VNPT Corp|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|203.207.56.101|8080|Indonesia|Paseh|STARNET|
 |8|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
 |9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|103.30.29.115|6969|Bangladesh|Kāfrul|Broad Band Telecom Services Ltd|
-|11|92.58.181.171|7575|Spain|Madrid|UNI2|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|14|20.50.138.159|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|15|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|16|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|17|195.25.20.155|3128|France|Bellême|Orange Business Services|
-|18|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|19|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|11|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|12|20.50.138.159|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|13|92.58.181.171|7575|Spain|Madrid|UNI2|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|16|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|17|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|18|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|20|23.237.210.82|80|United States|Dallas|FDCservers.net|
 
 
 
