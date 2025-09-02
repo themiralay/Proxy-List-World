@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|209.121.164.51|31147|Canada|Vancouver|TELUS Communications Inc.|
 |3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|103.30.29.115|6969|Bangladesh|Kāfrul|Broad Band Telecom Services Ltd|
 |9|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|10|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|11|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|13|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|14|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|18|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|157.175.147.228|10010|Bahrain|Manama|Amazon.com, Inc.|
+|10|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|15|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|16|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|17|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|18|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
+|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|20|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
 
 
 
