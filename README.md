@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|38.188.178.1|999|Colombia|Choachí|TECNOLOGÍA, INFORMACIÓN Y COMUNICACIONES DE COLOMBIA SAS|
-|8|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|9|92.58.181.171|7575|Spain|Madrid|UNI2|
-|10|103.214.101.14|8083|Indonesia|Batam|SMARTPLUS|
-|11|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|12|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|3|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|7|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|8|92.58.181.171|7575|Spain|Madrid|UNI2|
+|9|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|147.135.222.208|3128|France|Strasbourg|OVH SAS|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|38.188.178.1|999|Colombia|Choachí|TECNOLOGÍA, INFORMACIÓN Y COMUNICACIONES DE COLOMBIA SAS|
 |14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |15|157.10.97.235|8181|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
-|16|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|17|132.255.23.183|999|Colombia|Yopal|Media Commerce Partners S.A|
-|18|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|19|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|20|152.53.194.46|8065|United States|Reston|netcup GmbH|
+|16|167.234.224.70|37777|Brazil|São Paulo|Oracle Corporation|
+|17|27.76.166.182|10003|Vietnam|Hanoi|Newass2011xDSLHCMC|
+|18|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|19|190.202.59.26|8080|Venezuela|Chacao|CANTV Servicios, Venezuela|
+|20|23.237.210.82|80|United States|Dallas|FDCservers.net|
 
 
 
