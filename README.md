@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |5|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|6|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|8|45.174.95.142|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|9|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|20.50.138.159|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|12|92.58.181.171|7575|Spain|Madrid|UNI2|
-|13|152.53.194.46|8065|United States|Reston|netcup GmbH|
-|14|38.191.214.4|999|Colombia|Villavicencio|TECNOLOGÍA, INFORMACIÓN Y COMUNICACIONES DE COLOMBIA SAS|
-|15|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|16|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|17|51.159.159.73|80|France|Paris|SCALEWAY|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|103.172.17.51|8080|Indonesia|Meluwung|PT Media Access Telematika|
-|20|13.218.199.3|8080|United States|Ashburn|Amazon.com, Inc.|
+|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|7|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|10|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|11|157.10.97.185|8080|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|13|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|103.133.26.119|8080|Indonesia|Purwakarta|PT PHATRIA INTI PERSADA|
+|16|152.53.194.46|8065|United States|Reston|netcup GmbH|
+|17|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|18|92.58.181.171|7575|Spain|Madrid|UNI2|
+|19|20.50.138.159|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|20|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
 
 
 
