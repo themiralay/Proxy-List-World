@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|20.50.138.159|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|8|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|9|200.10.30.18|999|Colombia|La Virginia|Super Redes S.A.S|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|92.58.181.171|7575|Spain|Madrid|UNI2|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|103.151.22.26|8082|Indonesia|Jakarta|TERABYTE|
-|16|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|19|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|2|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|3|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|4|103.133.26.45|8080|Indonesia|Purwakarta|PT PHATRIA INTI PERSADA|
+|5|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|8|103.133.26.11|8080|Indonesia|Purwakarta|PT PHATRIA INTI PERSADA|
+|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|10|103.53.77.179|8050|Indonesia|Gubengairlangga|INTI|
+|11|160.22.198.4|8082|Indonesia|Terbanggi Besar|PT Ganesha Data Nusantara|
+|12|103.172.71.25|8080|Indonesia|Karangampel|AZNET|
+|13|103.245.36.20|1111|Indonesia|Jambi City|PT Mitra Bestari Prima Solusi|
+|14|103.191.155.70|8080|Indonesia|Cikampek|PT Ilham Wifi Solution|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|103.30.29.115|6969|Bangladesh|Kāfrul|Broad Band Telecom Services Ltd|
+|17|20.50.138.159|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|18|92.58.181.171|7575|Spain|Madrid|UNI2|
+|19|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|20|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
 
 
 
