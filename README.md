@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|4|152.53.194.46|8065|United States|Reston|netcup GmbH|
-|5|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|6|92.58.181.171|7575|Spain|Madrid|UNI2|
-|7|147.135.222.208|3128|France|Strasbourg|OVH SAS|
-|8|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|10|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|2|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|7|38.191.214.4|999|Colombia|Villavicencio|TECNOLOGÍA, INFORMACIÓN Y COMUNICACIONES DE COLOMBIA SAS|
+|8|152.53.194.46|8065|United States|Reston|netcup GmbH|
+|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|10|147.135.222.208|3128|France|Strasbourg|OVH SAS|
 |11|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|12|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|15|84.247.188.39|8888|Germany|Düsseldorf|Contabo GmbH|
-|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|17|147.135.222.208|3128|France|Strasbourg|OVH SAS|
-|18|38.191.214.4|999|Colombia|Villavicencio|TECNOLOGÍA, INFORMACIÓN Y COMUNICACIONES DE COLOMBIA SAS|
-|19|164.163.42.52|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|157.10.97.235|8181|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
+|12|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|16|38.188.178.1|999|Colombia|Choachí|TECNOLOGÍA, INFORMACIÓN Y COMUNICACIONES DE COLOMBIA SAS|
+|17|92.58.181.171|7575|Spain|Madrid|UNI2|
+|18|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|19|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
+|20|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
