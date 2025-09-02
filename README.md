@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|2|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
 |3|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |7|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|8|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|9|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|10|195.25.20.155|3128|France|Bellême|Orange Business Services|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|10|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
 |11|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|12|103.82.246.19|6080|Indonesia|Wedoro|PT Master Star Network|
-|13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|14|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
-|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|16|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|17|124.105.17.195|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|18|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|19|191.13.221.231|8888|Brazil|Americana|Vivo|
-|20|164.163.42.41|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|12|147.135.222.208|3128|France|Strasbourg|OVH SAS|
+|13|89.38.99.47|12672|The Netherlands|Naaldwijk|WorldStream B.V.|
+|14|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|89.39.107.139|12457|The Netherlands|Naaldwijk|WorldStream B.V.|
+|16|62.112.11.77|14098|The Netherlands|Naaldwijk|WorldStream B.V.|
+|17|178.132.2.28|14762|The Netherlands|Naaldwijk|WorldStream B.V.|
+|18|217.23.5.66|16931|The Netherlands|Naaldwijk|WorldStream B.V.|
+|19|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|20|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
 
 
 
