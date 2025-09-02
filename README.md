@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|92.58.181.171|7575|Spain|Madrid|UNI2|
-|10|195.25.20.155|3128|France|Bellême|Orange Business Services|
-|11|147.135.222.208|3128|France|Strasbourg|OVH SAS|
-|12|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|13|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|14|40.172.232.213|13279|United Arab Emirates|Dubai|Amazon.com|
-|15|84.247.188.39|8888|Germany|Düsseldorf|Contabo GmbH|
-|16|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|17|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
-|18|38.191.214.4|999|Colombia|Villavicencio|TECNOLOGÍA, INFORMACIÓN Y COMUNICACIONES DE COLOMBIA SAS|
-|19|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|20|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|2|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|14.225.8.195|3218|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|9|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|195.25.20.155|3128|France|Bellême|Orange Business Services|
+|12|20.50.138.159|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|13|92.58.181.171|7575|Spain|Madrid|UNI2|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|16|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|20|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
 
 
 
