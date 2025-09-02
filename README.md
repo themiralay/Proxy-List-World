@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|5|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|6|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|7|175.110.113.229|13634|The Netherlands|Naaldwijk|WorldStream B.V.|
-|8|175.110.113.236|19342|The Netherlands|Naaldwijk|WorldStream B.V.|
-|9|199.66.157.89|8080|United States|Alex|SCT Broadband|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|12|175.110.113.94|23314|The Netherlands|Naaldwijk|WorldStream B.V.|
-|13|91.232.105.90|12906|The Netherlands|Naaldwijk|WorldStream B.V.|
-|14|38.156.23.51|999|Dominican Republic|Puerto Plata|Visnetwork SRL|
-|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|16|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|17|89.39.107.139|12457|The Netherlands|Naaldwijk|WorldStream B.V.|
-|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|19|62.112.11.77|14098|The Netherlands|Naaldwijk|WorldStream B.V.|
-|20|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|4|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|5|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|175.110.113.229|15058|The Netherlands|Naaldwijk|WorldStream B.V.|
+|9|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|10|175.110.113.94|23314|The Netherlands|Naaldwijk|WorldStream B.V.|
+|11|175.110.113.236|12119|The Netherlands|Naaldwijk|WorldStream B.V.|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|62.112.11.77|14098|The Netherlands|Naaldwijk|WorldStream B.V.|
+|14|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|15|91.232.105.90|12906|The Netherlands|Naaldwijk|WorldStream B.V.|
+|16|45.167.126.1|8080|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|17|134.119.219.211|14765|France|Strasbourg|velia.net Internetdienste GmbH|
+|18|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|19|175.110.113.246|20281|The Netherlands|Naaldwijk|WorldStream B.V.|
+|20|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
