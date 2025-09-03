@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|175.118.246.102|3128|South Korea|Gwangsan-gu|broadNnet|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|2|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|9|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|10|160.19.78.29|3128|Vietnam|Bo|VNPT Corp|
-|11|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|195.25.20.155|3128|France|Bellême|Orange Business Services|
-|15|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|16|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|17|38.190.100.47|999|Peru|San Juan de Lurigancho|Conex TV E.I.R.L.|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|92.58.181.171|7575|Spain|Madrid|UNI2|
-|20|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|38.52.155.165|999|Colombia|Bogotá|Giga Fibra SAS|
+|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|9|177.234.217.42|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|10|92.58.181.171|7575|Spain|Madrid|UNI2|
+|11|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|12|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|38.188.178.1|999|Colombia|Choachí|TECNOLOGÍA, INFORMACIÓN Y COMUNICACIONES DE COLOMBIA SAS|
+|15|179.96.28.58|80|Brazil|Caldas Novas|Megatelecom Telecomunicacoes Ltda|
+|16|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|17|45.65.138.48|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|18|37.187.92.9|1032|France|Roubaix|OVH SAS|
+|19|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|20|188.132.222.69|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
 
 
 
