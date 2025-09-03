@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|20.196.112.56|3128|South Korea|Seoul|Microsoft Corporation|
 |3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|3.130.248.223|3128|United States|Dublin|Amazon.com, Inc.|
+|6|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
 |7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |8|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
 |9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|11|3.130.248.223|3128|United States|Dublin|Amazon.com, Inc.|
-|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|13|47.79.94.34|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|14|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|10|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|11|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|12|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|92.58.181.171|7575|Spain|Madrid|UNI2|
 |15|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|16|92.58.181.171|7575|Spain|Madrid|UNI2|
-|17|157.20.128.189|8080|Indonesia|Sagaranten|PT Citra Meta Data|
-|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|20|154.6.190.79|4444|France|Paris|haoxiangyun|
+|16|154.6.190.79|4444|France|Paris|haoxiangyun|
+|17|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|51.21.32.149|3128|Sweden|Stockholm|Amazon.com, Inc.|
+|19|51.84.204.156|3128|Israel|Tel Aviv|Amazon.com, Inc.|
+|20|152.53.194.46|8065|United States|Reston|netcup GmbH|
 
 
 
