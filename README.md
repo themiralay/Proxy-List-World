@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75899** proxies at the latest update. Usable proxies are below.
+> Scraper found **75903** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35966|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35970|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|45|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38662|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|5|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|8|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|9|38.52.155.166|999|Colombia|Bogotá|Giga Fibra SAS|
-|10|38.190.100.47|999|Peru|San Juan de Lurigancho|Conex TV E.I.R.L.|
-|11|152.53.194.46|8065|United States|Reston|netcup GmbH|
-|12|190.217.19.185|999|Colombia|Santiago de Cali|Level 3 Communications, Inc.|
-|13|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|14|45.174.95.142|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|15|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|16|185.4.29.243|7887|Iran|Tehran|Green Web Samaneh Novin' s|
-|17|157.175.147.228|10010|Bahrain|Manama|Amazon.com, Inc.|
-|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|19|119.93.64.216|8082|Philippines|Valenzuela|Philippine Long Distance Telephone Co.|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|3|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|6|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
+|7|38.190.100.47|999|Peru|San Juan de Lurigancho|Conex TV E.I.R.L.|
+|8|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
+|9|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|10|112.198.138.14|8082|Philippines|General Trias|Globe Telecom|
+|11|37.187.92.9|1032|France|Roubaix|OVH SAS|
+|12|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|13|103.157.117.226|81|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
+|14|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|15|182.253.38.179|3128|Indonesia|Yogyakarta|BIZNET|
+|16|152.53.194.46|8065|United States|Reston|netcup GmbH|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|19|115.79.194.39|1452|Vietnam|Ho Chi Minh City|VIETELftth|
+|20|202.154.241.199|808|Pakistan|Islamabad|LINKdotNET Telecom Limited|
 
 
 
