@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|139.162.44.152|3128|Singapore|Singapore|Akamai Technologies, Inc.|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|20.196.112.56|3128|South Korea|Seoul|Microsoft Corporation|
-|5|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|104.223.123.165|8888|United States|Chicago|HostPapa|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|66.228.47.125|110|United States|Cedar Knolls|Akamai Technologies, Inc.|
-|12|66.228.47.125|110|United States|Cedar Knolls|Akamai Technologies, Inc.|
-|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|14|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|15|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|2|47.79.95.169|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|4|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|5|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
+|8|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|11|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
+|14|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|15|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|16|152.53.194.46|8065|United States|Reston|netcup GmbH|
 |17|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
 |18|164.132.201.74|3128|France|Roubaix|OVH SAS|
-|19|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|20|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
 
 
 
