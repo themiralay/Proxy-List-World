@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|2|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|4|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
 |5|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|6|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|10|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|11|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|12|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|13|103.149.238.100|1111|Indonesia|Mojokerto|PT BITNIAGA CIPTA GEMILANG|
-|14|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|15|12.131.14.114|3128|United States|San Antonio|AT&T Enterprises, LLC|
-|16|15.164.211.168|8080|South Korea|Seoul|Amazon Technologies Inc.|
-|17|46.173.208.61|1194|Russia|Moscow|Garant-Park-Internet LLC|
-|18|72.10.160.90|7279|Canada|Montreal|GloboTech Communications|
-|19|152.53.194.55|59837|United States|Reston|netcup GmbH|
-|20|154.127.78.16|44444|Libya|Waddān|Aljeel Aljadeed For Technology|
+|8|12.131.14.114|3128|United States|San Antonio|AT&T Enterprises, LLC|
+|9|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|10|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|15.164.211.168|8080|South Korea|Seoul|Amazon Technologies Inc.|
+|13|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|14|47.88.18.204|8023|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|15|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|16|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|17|176.236.222.21|8085|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|18|183.88.220.245|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|19|202.154.18.172|8082|Indonesia|Babat|DIGITNET|
+|20|223.25.110.41|8080|Indonesia|Purbalingga|SinergiNet|
 
 
 
