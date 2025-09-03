@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
-|7|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|8|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|9|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|10|157.180.121.252|35993|Finland|Helsinki|Hetzner Online GmbH|
-|11|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|12|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|13|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
-|14|115.147.8.120|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|16|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
-|17|38.190.100.47|999|Peru|San Juan de Lurigancho|Conex TV E.I.R.L.|
-|18|157.180.121.252|35993|Finland|Helsinki|Hetzner Online GmbH|
-|19|195.25.20.155|3128|France|Bellême|Orange Business Services|
-|20|65.108.203.37|18080|Finland|Helsinki|Hetzner Online GmbH|
+|1|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|2|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|3|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|4|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|5|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|6|157.180.121.252|35993|Finland|Helsinki|Hetzner Online GmbH|
+|7|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|8|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|9|38.190.100.47|999|Peru|San Juan de Lurigancho|Conex TV E.I.R.L.|
+|10|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|11|157.180.121.252|35993|Finland|Helsinki|Hetzner Online GmbH|
+|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|13|45.167.126.169|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|14|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|15|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|16|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|17|45.167.126.175|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|20|117.161.170.163|9482|China|Guangzhou|China Mobile communications corporation|
 
 
 
