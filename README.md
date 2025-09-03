@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|160.22.74.110|39106|Vietnam|Quận Phú Nhuận|PHANHUUBAOSOLUTIONS|
-|3|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
-|4|138.2.64.185|8118|Singapore|Singapore|Oracle Corporation|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|7|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|14|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|15|51.84.204.156|3128|Israel|Tel Aviv|Amazon.com, Inc.|
-|16|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|17|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|18|92.58.181.171|7575|Spain|Madrid|UNI2|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|5.202.104.142|3128|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|8|92.58.181.171|7575|Spain|Madrid|UNI2|
+|9|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|10|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|11|47.79.94.34|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|51.84.204.156|3128|Israel|Tel Aviv|Amazon.com, Inc.|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|16|103.189.116.107|8080|Indonesia|Wonosobo|PT Callysta Total Solusindo|
+|17|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|18|40.172.232.213|13279|United Arab Emirates|Dubai|Amazon.com|
+|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|20|116.203.139.209|8080|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
