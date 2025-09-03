@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|3|3.130.248.223|3128|United States|Dublin|Amazon.com, Inc.|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|3.130.248.223|3128|United States|Dublin|Amazon.com, Inc.|
+|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|6|3.130.248.223|3128|United States|Dublin|Amazon.com, Inc.|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|14|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|15|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|9|3.130.248.223|3128|United States|Dublin|Amazon.com, Inc.|
+|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|11|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|12|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |16|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|103.67.85.154|3127|Indonesia|Sumbersewu|PT Tujuh Fondasi Teknologi|
-|19|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|20|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|17|81.90.149.188|3128|Iran|Tehran|Afranet|
+|18|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|19|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|20|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
 
 
 
