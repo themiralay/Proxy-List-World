@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
-|4|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|2|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|3|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|4|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
 |5|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|6|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|7|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|8|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|9|195.25.20.155|3128|France|Bellême|Orange Business Services|
-|10|103.10.55.137|8664|Bangladesh|Dhaka|Drik ICT Ltd|
-|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|12|209.141.57.216|80|United States|Las Vegas|FranTech Solutions|
-|13|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|14|209.141.57.216|80|United States|Las Vegas|FranTech Solutions|
-|15|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|16|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|17|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|179.96.28.58|80|Brazil|Caldas Novas|Megatelecom Telecomunicacoes Ltda|
+|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|103.81.194.167|8080|Indonesia|Ciampea|PT Rtiga Global Media|
+|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|11|195.25.20.155|3128|France|Bellême|Orange Business Services|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
+|14|116.254.113.86|8080|Indonesia|Yogyakarta|PT Media Sarana Data|
+|15|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|16|118.97.69.163|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|222.127.227.102|8082|Philippines|Iloilo City|GLBB|
+|19|182.253.42.148|8082|Indonesia|Ubud|BIZNET|
+|20|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
 
 
 
