@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|222.127.227.102|8082|Philippines|Iloilo City|GLBB|
-|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|4|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
-|5|172.98.201.190|3128|United States|Dallas|Centrilogic|
-|6|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|7|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|8|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|9|179.96.28.58|80|Brazil|Caldas Novas|Megatelecom Telecomunicacoes Ltda|
-|10|157.15.82.118|8080|Indonesia|Jakarta|PT Delapan Broadband Intermedia|
-|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|12|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|16|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|17|207.244.244.178|3128|United States|St Louis|Contabo Inc.|
-|18|114.130.153.58|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|19|203.162.13.26|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|2|35.206.88.200|8888|United States|Council Bluffs|Google LLC|
+|3|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|4|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|7|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|9|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|103.189.250.65|8080|Indonesia|Purwoharjo|PT Pandawa Lima Java Network|
+|12|179.96.28.58|80|Brazil|Caldas Novas|Megatelecom Telecomunicacoes Ltda|
+|13|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|14|157.10.97.141|8181|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
+|15|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|16|160.22.192.42|8080|Indonesia|Bekasi|PT Elemen Jaringan Nusantara|
+|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|18|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|19|179.32.62.127|999|Colombia|Medellín|Colombia Telecomunicaciones S.a. ESP BIC|
+|20|101.108.122.201|8080|Thailand|Bangkok|TOT Public Company Limited|
 
 
 
