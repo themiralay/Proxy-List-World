@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|113.186.242.159|1001|Vietnam|Vĩnh Tường|VNPT-VNNIC|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
-|8|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|9|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
-|10|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|11|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|92.58.181.171|7575|Spain|Madrid|UNI2|
-|14|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|51.21.32.149|3128|Sweden|Stockholm|Amazon.com, Inc.|
-|18|51.84.204.156|3128|Israel|Tel Aviv|Amazon.com, Inc.|
-|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|20|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|7|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|8|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
+|9|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|10|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|11|92.58.181.171|7575|Spain|Madrid|UNI2|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|51.21.32.149|3128|Sweden|Stockholm|Amazon.com, Inc.|
+|14|51.84.204.156|3128|Israel|Tel Aviv|Amazon.com, Inc.|
+|15|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|16|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|19|40.172.232.213|13279|United Arab Emirates|Dubai|Amazon.com|
+|20|120.28.214.157|8080|Philippines|Davao City|Globe Telecom|
 
 
 
