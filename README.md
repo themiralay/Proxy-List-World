@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|56|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|56|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|56|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|2|139.162.44.152|3128|Singapore|Singapore|Akamai Technologies, Inc.|
+|3|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|4|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
+|5|3.130.248.223|3128|United States|Dublin|Amazon.com, Inc.|
+|6|152.53.194.46|8065|United States|Reston|netcup GmbH|
+|7|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
 |8|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|9|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|10|51.21.32.149|3128|Sweden|Stockholm|Amazon.com, Inc.|
-|11|51.84.204.156|3128|Israel|Tel Aviv|Amazon.com, Inc.|
-|12|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|13|154.6.190.79|4444|France|Paris|haoxiangyun|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|16|164.132.201.74|3128|France|Roubaix|OVH SAS|
-|17|157.175.147.228|10010|Bahrain|Manama|Amazon.com, Inc.|
-|18|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
-|19|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|20|152.53.194.46|8065|United States|Reston|netcup GmbH|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|51.21.32.149|3128|Sweden|Stockholm|Amazon.com, Inc.|
+|12|51.84.204.156|3128|Israel|Tel Aviv|Amazon.com, Inc.|
+|13|3.130.248.223|3128|United States|Dublin|Amazon.com, Inc.|
+|14|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
+|15|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|16|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|17|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|19|85.192.63.38|8118|Germany|Frankfurt am Main|Aeza International LTD|
+|20|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
 
 
 
