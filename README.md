@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|4|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|8|152.53.194.46|8065|United States|Reston|netcup GmbH|
+|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |9|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|10|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|13|20.50.138.159|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|14|92.58.181.171|7575|Spain|Madrid|UNI2|
+|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|92.58.181.171|7575|Spain|Madrid|UNI2|
+|14|51.159.159.73|80|France|Paris|SCALEWAY|
 |15|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|16|51.159.159.73|80|France|Paris|SCALEWAY|
-|17|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
-|20|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|16|152.53.194.46|8065|United States|Reston|netcup GmbH|
+|17|38.191.214.4|999|Colombia|Villavicencio|TECNOLOGÍA, INFORMACIÓN Y COMUNICACIONES DE COLOMBIA SAS|
+|18|20.50.138.159|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|19|103.133.27.239|8080|Indonesia|Purwakarta|PT PHATRIA INTI PERSADA|
+|20|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
 
 
 
