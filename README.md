@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|6|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
-|7|152.53.194.46|8065|United States|Reston|netcup GmbH|
-|8|202.58.77.173|3127|Indonesia|Tawangrejo|PT Data Buana Nusantara|
-|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|5|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|8|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|9|38.52.155.166|999|Colombia|Bogotá|Giga Fibra SAS|
+|10|38.190.100.47|999|Peru|San Juan de Lurigancho|Conex TV E.I.R.L.|
+|11|152.53.194.46|8065|United States|Reston|netcup GmbH|
+|12|190.217.19.185|999|Colombia|Santiago de Cali|Level 3 Communications, Inc.|
 |13|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|14|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|15|103.19.79.234|999|Indonesia|Laren|Advertise Via PT Persada Data Multimedia|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|157.20.244.117|8821|Indonesia|Jakarta|PT.Global Media Data Prima|
-|18|182.253.151.54|3128|Indonesia|Sukabumi|BIZNET|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|195.25.20.155|3128|France|Bellême|Orange Business Services|
+|14|45.174.95.142|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|15|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|16|185.4.29.243|7887|Iran|Tehran|Green Web Samaneh Novin' s|
+|17|157.175.147.228|10010|Bahrain|Manama|Amazon.com, Inc.|
+|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|19|119.93.64.216|8082|Philippines|Valenzuela|Philippine Long Distance Telephone Co.|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
