@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75903** proxies at the latest update. Usable proxies are below.
+> Scraper found **75851** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35970|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35918|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|45|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38662|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|4|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|5|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
-|6|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|8|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
-|9|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|10|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|11|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|12|157.175.147.228|10010|Bahrain|Manama|Amazon.com, Inc.|
-|13|200.70.35.2|8080|Argentina|Lomas de Zamora|Telefonica de Argentina|
-|14|185.208.102.108|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|45.174.95.142|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|17|201.20.67.70|8080|Brazil|Fortaleza|DB3 SERVICOS DE TELECOMUNICACOES S.A|
-|18|81.90.149.188|3128|Iran|Tehran|Afranet|
-|19|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|20|49.156.44.116|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
+|4|152.53.194.46|8065|United States|Reston|netcup GmbH|
+|5|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|6|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|7|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|10|45.167.126.169|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|11|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|12|177.93.39.75|999|Colombia|Yaguará|TV AZTECA SUCURSAL COLOMBIA|
+|13|38.190.100.47|999|Peru|San Juan de Lurigancho|Conex TV E.I.R.L.|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|125.27.192.162|8081|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|16|103.156.248.26|8080|Indonesia|Batam|Trans Media Telekomunikasi|
+|17|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|18|185.4.29.243|7887|Iran|Tehran|Green Web Samaneh Novin' s|
+|19|202.47.189.132|8080|Indonesia|Madiun|Lintas Data Prima, PT|
+|20|181.39.24.154|999|Ecuador|Guayaquil|Telconet S.A|
 
 
 
