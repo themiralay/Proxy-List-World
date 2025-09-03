@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |3|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|4|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
 |5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|203.162.13.222|6868|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|8|179.96.28.58|80|Brazil|Caldas Novas|Megatelecom Telecomunicacoes Ltda|
-|9|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|10|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|38.52.155.165|999|Colombia|Bogotá|Giga Fibra SAS|
+|8|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|9|38.190.100.47|999|Peru|San Juan de Lurigancho|Conex TV E.I.R.L.|
+|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |11|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|12|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|13|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|179.96.28.58|80|Brazil|Caldas Novas|Megatelecom Telecomunicacoes Ltda|
-|17|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|18|213.233.178.137|3128|Iran|Tehran|Sharif University Of Technology|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|12|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|13|5.252.74.2|30000|Poland|Warsaw|Ipxo LLC|
+|14|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|15|45.174.95.142|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|16|84.247.188.39|8888|Germany|Düsseldorf|Contabo GmbH|
+|17|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|18|202.58.77.77|1111|Indonesia|Tawangrejo|PT Data Buana Nusantara|
+|19|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|20|65.108.251.40|10525|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
