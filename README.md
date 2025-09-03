@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|8|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|9|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|18|157.66.16.40|8787|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|19|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|103.82.134.199|8888|Vietnam|Thanh Khê|Cloudfly Corporation|
+|8|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|154.18.255.50|8080|Indonesia|Karawang|PT Media Solusi Sukses|
+|13|74.207.235.213|1221|United States|Atlanta|Akamai Technologies, Inc.|
+|14|103.30.29.115|6969|Bangladesh|Kāfrul|Broad Band Telecom Services Ltd|
+|15|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|16|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|17|38.194.246.34|999|Mexico|Reynosa|Cogent Communications|
+|18|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|20|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
 
 
 
