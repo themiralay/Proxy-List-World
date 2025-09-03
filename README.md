@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|3|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
-|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|6|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
-|7|38.190.100.47|999|Peru|San Juan de Lurigancho|Conex TV E.I.R.L.|
-|8|65.108.203.35|18080|Finland|Helsinki|Hetzner Online GmbH|
-|9|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|10|112.198.138.14|8082|Philippines|General Trias|Globe Telecom|
-|11|37.187.92.9|1032|France|Roubaix|OVH SAS|
-|12|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|13|103.157.117.226|81|Indonesia|Yogyakarta|PT Cloud Teknologi Nusantara|
-|14|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|15|182.253.38.179|3128|Indonesia|Yogyakarta|BIZNET|
-|16|152.53.194.46|8065|United States|Reston|netcup GmbH|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|19|115.79.194.39|1452|Vietnam|Ho Chi Minh City|VIETELftth|
-|20|202.154.241.199|808|Pakistan|Islamabad|LINKdotNET Telecom Limited|
+|2|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|4|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|5|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|6|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|8|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
+|9|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|10|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|11|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|12|157.175.147.228|10010|Bahrain|Manama|Amazon.com, Inc.|
+|13|200.70.35.2|8080|Argentina|Lomas de Zamora|Telefonica de Argentina|
+|14|185.208.102.108|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|45.174.95.142|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|17|201.20.67.70|8080|Brazil|Fortaleza|DB3 SERVICOS DE TELECOMUNICACOES S.A|
+|18|81.90.149.188|3128|Iran|Tehran|Afranet|
+|19|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|20|49.156.44.116|8080|Cambodia|Phnom Penh|WiCAM Corporation|
 
 
 
