@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|6|218.1.124.168|443|China|Shanghai|China Telecom (Group)|
-|7|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|8|152.53.194.46|8065|United States|Reston|netcup GmbH|
-|9|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|10|103.82.22.5|10012|Vietnam|Cầu Giấy|Vietnam Posts and Telecommunications Group|
-|11|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|13|139.170.229.46|443|China|Xining|China Unicom Qinghai Province Network|
-|14|43.200.175.206|8080|South Korea|Seoul|Amazon.com, Inc.|
-|15|157.180.121.252|35993|Finland|Helsinki|Hetzner Online GmbH|
-|16|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|17|103.169.148.3|1111|Indonesia|Pekanbaru|PT Kangen Network Solusindo|
-|18|222.127.227.102|8082|Philippines|Iloilo City|GLBB|
-|19|103.162.16.113|8080|Indonesia|Parenggan|PT Mega Data Perkasa|
-|20|103.188.173.54|8082|Indonesia|Jakarta|PT Satria Digital Media|
+|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|6|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|7|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|8|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|11|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|218.1.124.168|443|China|Shanghai|China Telecom (Group)|
+|14|3.34.199.213|8080|South Korea|Seoul|Amazon.com, Inc.|
+|15|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|16|152.53.194.46|8065|United States|Reston|netcup GmbH|
+|17|38.52.155.165|999|Colombia|Bogotá|Giga Fibra SAS|
+|18|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|19|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|20|207.246.234.115|4669|United States|Clovis|Plateau Telecommunications Incorporated|
 
 
 
