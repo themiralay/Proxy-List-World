@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |3|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|4|103.167.170.167|8080|Indonesia|Jakarta|PT Rajeg Media Telekomunikasi|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|8|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|9|134.209.229.237|3134|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|103.244.23.230|8181|Indonesia|Cileungsir|PT Kahuripan Makmur Sentosa|
-|11|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|12|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|15|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|16|47.88.18.204|8023|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|19|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|4|35.206.88.200|8888|United States|Council Bluffs|Google LLC|
+|5|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|6|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|7|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|8|27.124.81.146|8080|Indonesia|Sleman|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|9|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|14|103.197.206.97|23654|Bangladesh|Dhaka|Cosmopolitan Communications Limited|
+|15|36.91.62.47|52978|Indonesia|Bekasi|PT Telekomunikasi Indonesia|
+|16|160.25.8.2|8080|Bangladesh|Dhaka|Circle Network|
+|17|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
+|18|103.167.170.167|8080|Indonesia|Jakarta|PT Rajeg Media Telekomunikasi|
+|19|103.81.194.163|8080|Indonesia|Ciampea|PT Rtiga Global Media|
+|20|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
 
 
 
