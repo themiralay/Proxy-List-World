@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
-|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|6|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|113.186.242.159|1001|Vietnam|Vĩnh Tường|VNPT-VNNIC|
+|9|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|13|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|11|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|17|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|19|37.27.142.59|3128|Finland|Helsinki|Hetzner Online GmbH|
-|20|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|15|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|16|104.223.123.165|8888|United States|Chicago|HostPapa|
+|17|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|18|104.223.123.165|8888|United States|Chicago|HostPapa|
+|19|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|20|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
 
 
 
