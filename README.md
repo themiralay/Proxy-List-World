@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|3|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
 |4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|5|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|10|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|11|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|12|47.88.18.204|8023|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|13|5.252.74.2|30000|Poland|Warsaw|Ipxo LLC|
-|14|152.53.194.55|22522|United States|Reston|netcup GmbH|
-|15|179.96.28.58|80|Brazil|Caldas Novas|Megatelecom Telecomunicacoes Ltda|
-|16|123.128.12.93|9050|China|Jinan|CNC Group CHINA169 Shandong Province Network|
-|17|45.174.95.142|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|18|152.53.194.55|22522|United States|Reston|netcup GmbH|
-|19|72.10.160.90|17189|Canada|Montreal|GloboTech Communications|
-|20|123.20.4.210|1010|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|7|103.171.83.49|8080|Indonesia|Jakarta|PT Multi Network Indonesia|
+|8|161.49.87.222|8095|Philippines|Pasig|Converge ICT Solution Inc|
+|9|177.234.217.43|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|10|157.175.147.228|10010|Bahrain|Manama|Amazon.com, Inc.|
+|11|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|12|138.204.95.166|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
+|13|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|14|190.85.43.6|8080|Colombia|Jamundí|Telmex Colombia S.A.|
+|15|103.172.197.231|8080|Indonesia|Klatakan|PT Cahaya Solusindo Internusa|
+|16|40.172.232.213|13279|United Arab Emirates|Dubai|Amazon.com|
+|17|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|18|123.128.12.93|9050|China|Jinan|CNC Group CHINA169 Shandong Province Network|
+|19|179.32.62.127|999|Colombia|Medellín|Colombia Telecomunicaciones S.a. ESP BIC|
+|20|45.174.95.142|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
 
 
 
