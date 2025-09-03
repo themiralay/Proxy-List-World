@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|3|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
+|2|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |4|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|5|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|6|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|8|38.52.155.166|999|Colombia|Bogotá|Giga Fibra SAS|
-|9|122.52.33.231|8081|Philippines|Bacoor|Philippine Long Distance Telephone Co.|
-|10|115.79.194.39|1452|Vietnam|Ho Chi Minh City|VIETELftth|
-|11|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|12|157.20.253.43|8989|Indonesia|Jakarta|PT.Global Media Data Prima|
-|13|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|14|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|15|160.19.146.210|8080|Indonesia|Tasikmalaya|PT Taska Sarana Nusantara|
-|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|17|38.190.100.47|999|Peru|San Juan de Lurigancho|Conex TV E.I.R.L.|
-|18|191.97.1.89|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|19|45.167.126.175|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|5|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
+|6|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|7|38.52.155.166|999|Colombia|Bogotá|Giga Fibra SAS|
+|8|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|9|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|10|103.17.246.60|1080|Indonesia|Banjar Medura|PT Media Sarana Data|
+|11|157.20.253.43|8989|Indonesia|Jakarta|PT.Global Media Data Prima|
+|12|45.174.95.142|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|13|103.10.60.178|8080|Indonesia|Bandung|PT Hipernet Indodata|
+|14|157.175.147.228|10010|Bahrain|Manama|Amazon.com, Inc.|
+|15|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|17|185.208.102.108|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|18|185.41.152.110|3128|France|Valenciennes|global|
+|19|45.167.126.169|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|20|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
 
 
 
