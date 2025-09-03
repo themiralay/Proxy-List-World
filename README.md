@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
 |3|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
-|4|18.228.65.67|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|5|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|6|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|7|157.180.121.252|35993|Finland|Helsinki|Hetzner Online GmbH|
-|8|172.98.201.190|3128|United States|Dallas|Centrilogic|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|195.25.20.155|3128|France|Bellême|Orange Business Services|
-|11|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|4|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|5|18.228.65.67|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|6|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|7|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|8|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|9|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|10|157.180.121.252|35993|Finland|Helsinki|Hetzner Online GmbH|
+|11|152.53.194.46|8065|United States|Reston|netcup GmbH|
 |12|157.180.121.252|35993|Finland|Helsinki|Hetzner Online GmbH|
 |13|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
 |14|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|15|119.252.173.26|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
-|16|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|17|31.14.114.76|1081|Iran|Tehran|Afranet Co|
-|18|84.51.15.251|32650|Turkey|Beyoğlu|Superonline Iletisim Hizmetleri A.S.|
-|19|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|20|72.10.160.170|19447|Canada|Montreal|GloboTech Communications|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|72.10.160.170|19447|Canada|Montreal|GloboTech Communications|
+|17|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|18|38.190.100.47|999|Peru|San Juan de Lurigancho|Conex TV E.I.R.L.|
+|19|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|20|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
 
 
 
