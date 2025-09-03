@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -41,22 +41,22 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
-|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|3|3.130.248.223|3128|United States|Dublin|Amazon.com, Inc.|
 |4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |5|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
 |6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |7|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
 |8|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|9|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|10|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|14|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|15|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|152.53.194.55|17962|United States|Reston|netcup GmbH|
-|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|18|67.43.236.20|4067|Canada|Montreal|GloboTech Communications|
+|9|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|10|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|11|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|14|195.234.68.34|3128|Ukraine|Kyiv|SKIF|
+|15|38.191.219.107|999|Colombia|Santiago de Cali|TV&MÁS S.A.S|
+|16|152.53.194.55|14691|United States|Reston|netcup GmbH|
+|17|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|18|23.237.210.82|80|United States|Dallas|FDCservers.net|
 |19|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 |20|36.136.27.2|4999|China|Guangzhou|China Mobile|
 
