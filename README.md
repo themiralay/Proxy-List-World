@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|26|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38182|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
-|7|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
-|11|104.223.123.165|8888|United States|Chicago|HostPapa|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|15|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|18|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|104.223.123.165|8888|United States|Chicago|HostPapa|
+|2|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|12|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|14|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|15|92.58.181.171|7575|Spain|Madrid|UNI2|
+|16|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|51.21.32.149|3128|Sweden|Stockholm|Amazon.com, Inc.|
+|19|103.156.74.154|1111|Indonesia|Banjar Tengah|PT Trika Global Media|
+|20|190.52.99.220|999|Venezuela|Caracas|Gold Data USA Inc|
 
 
 
