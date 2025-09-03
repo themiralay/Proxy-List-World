@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|2|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
 |4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|9|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
-|10|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|11|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|13|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|14|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|15|157.175.147.228|10010|Bahrain|Manama|Amazon.com, Inc.|
-|16|40.71.46.210|8214|United States|Boydton|Microsoft Corporation|
-|17|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|5|152.53.194.46|8065|United States|Reston|netcup GmbH|
+|6|92.58.181.171|7575|Spain|Madrid|UNI2|
+|7|38.190.100.47|999|Peru|San Juan de Lurigancho|Conex TV E.I.R.L.|
+|8|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|9|45.174.95.142|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|38.52.155.166|999|Colombia|Bogotá|Giga Fibra SAS|
+|12|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|13|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|14|157.175.147.228|10010|Bahrain|Manama|Amazon.com, Inc.|
+|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|16|190.217.19.185|999|Colombia|Santiago de Cali|Level 3 Communications, Inc.|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |18|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|19|181.78.216.90|999|Paraguay|General Artigas|Ufinet Paraguay S.A|
-|20|203.177.237.138|8282|Philippines|Iloilo City|Globe Telecom|
+|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|20|200.26.187.67|999|Dominican Republic|Santo Domingo|FENIX NETWORKS, S.R.L.|
 
 
 
