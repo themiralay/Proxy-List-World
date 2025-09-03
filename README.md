@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|175.118.246.102|3128|South Korea|Gwangsan-gu|broadNnet|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|5|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|9|92.58.181.171|7575|Spain|Madrid|UNI2|
-|10|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|11|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|13|195.25.20.155|3128|France|Bellême|Orange Business Services|
-|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|17|38.190.100.47|999|Peru|San Juan de Lurigancho|Conex TV E.I.R.L.|
-|18|209.14.98.6|8080|Colombia|Repelón|AGIS|
-|19|45.167.126.174|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|20|209.14.98.5|8080|Colombia|Repelón|AGIS|
+|2|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|185.150.190.163|3128|United States|Piscataway|ReliableSite.Net LLC|
+|9|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|10|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|11|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|12|38.190.100.47|999|Peru|San Juan de Lurigancho|Conex TV E.I.R.L.|
+|13|209.14.98.6|8080|Colombia|Repelón|AGIS|
+|14|92.58.181.171|7575|Spain|Madrid|UNI2|
+|15|103.30.29.115|6969|Bangladesh|Kāfrul|Broad Band Telecom Services Ltd|
+|16|103.10.55.137|8664|Bangladesh|Dhaka|Drik ICT Ltd|
+|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|18|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|19|45.174.95.142|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
