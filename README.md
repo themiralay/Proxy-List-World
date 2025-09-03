@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
-|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|11|154.18.255.50|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|12|113.186.242.159|1001|Vietnam|Vĩnh Tường|VNPT-VNNIC|
-|13|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|14|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|15|104.223.123.165|8888|United States|Chicago|HostPapa|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|19|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|20|8.222.128.50|9119|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|171.228.180.100|1001|Vietnam|Hanoi|Viettel Corporation|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|10|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|11|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|103.16.118.78|1080|Indonesia|Madiun|CV Trustnet Media|
+|17|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|18|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|45.136.49.130|8118|The Netherlands|Amsterdam|Scalaxy B.V.|
 
 
 
