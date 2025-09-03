@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|86|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|86|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|86|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|3|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|4|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|5|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|6|191.13.221.231|8888|Brazil|Americana|Vivo|
-|7|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|8|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|9|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|10|157.180.121.252|35993|Finland|Helsinki|Hetzner Online GmbH|
-|11|38.190.100.47|999|Peru|San Juan de Lurigancho|Conex TV E.I.R.L.|
-|12|152.53.194.55|34379|United States|Reston|netcup GmbH|
-|13|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|14|67.43.236.20|21175|Canada|Montreal|GloboTech Communications|
-|15|45.167.126.175|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|16|222.208.8.48|9999|China|Nanchong|Chinanet|
-|17|195.175.29.38|9090|Türkiye|Istanbul|Turk Telekomunikasyon A.S|
-|18|124.67.43.106|8010|China|Hohhot|CNC Group CHINA169 Neimeng Province Network|
-|19|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|20|3.37.36.23|8080|South Korea|Seoul|Amazon.com, Inc.|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|4|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|5|40.172.232.213|13279|United Arab Emirates|Dubai|Amazon.com|
+|6|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|8|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|9|191.13.221.231|8888|Brazil|Americana|Vivo|
+|10|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|11|45.167.126.170|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|12|38.190.100.47|999|Peru|San Juan de Lurigancho|Conex TV E.I.R.L.|
+|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|14|157.180.121.252|35993|Finland|Helsinki|Hetzner Online GmbH|
+|15|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|16|45.167.126.175|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|17|124.67.43.106|8010|China|Hohhot|CNC Group CHINA169 Neimeng Province Network|
+|18|222.59.173.105|45019|China|Qinnan|China Mobile Communications Corporation|
+|19|157.180.121.252|35993|Finland|Helsinki|Hetzner Online GmbH|
+|20|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
 
 
 
