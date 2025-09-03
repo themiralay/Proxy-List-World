@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|20.196.112.56|3128|South Korea|Seoul|Microsoft Corporation|
-|3|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|2|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |4|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
-|10|3.130.248.223|3128|United States|Dublin|Amazon.com, Inc.|
-|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|12|92.58.181.171|7575|Spain|Madrid|UNI2|
-|13|164.132.201.74|3128|France|Roubaix|OVH SAS|
-|14|104.223.123.165|8888|United States|Chicago|HostPapa|
-|15|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|16|51.21.32.149|3128|Sweden|Stockholm|Amazon.com, Inc.|
-|17|51.84.204.156|3128|Israel|Tel Aviv|Amazon.com, Inc.|
-|18|20.13.34.208|8118|Netherlands|Amsterdam|Microsoft Corporation|
-|19|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|5|20.196.112.56|3128|South Korea|Seoul|Microsoft Corporation|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|10|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
+|11|3.130.248.223|3128|United States|Dublin|Amazon.com, Inc.|
+|12|171.228.185.227|5101|Vietnam|Hanoi|Viettel Corporation|
+|13|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|14|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|157.175.147.228|10010|Bahrain|Manama|Amazon.com, Inc.|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|92.58.181.171|7575|Spain|Madrid|UNI2|
+|19|154.6.190.79|4444|France|Paris|haoxiangyun|
+|20|164.132.201.74|3128|France|Roubaix|OVH SAS|
 
 
 
