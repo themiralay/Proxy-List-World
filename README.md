@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|4|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|9|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|11|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
+|2|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|5|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|11|152.53.194.46|8065|United States|Reston|netcup GmbH|
 |12|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|13|209.14.98.5|8080|Colombia|Repelón|AGIS|
+|13|195.25.20.155|3128|France|Bellême|Orange Business Services|
 |14|92.58.181.171|7575|Spain|Madrid|UNI2|
-|15|152.53.194.46|8065|United States|Reston|netcup GmbH|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|209.14.98.6|8080|Colombia|Repelón|AGIS|
-|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|94.156.152.115|3128|South Africa|Centurion|Internet Magnate (Pty) Ltd|
+|17|190.93.102.136|999|Dominican Republic|Santo Domingo Este|Airtime Technology SRL|
+|18|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|19|38.52.155.162|999|Colombia|Bogotá|Giga Fibra SAS|
+|20|209.14.98.6|8080|Colombia|Repelón|AGIS|
 
 
 
