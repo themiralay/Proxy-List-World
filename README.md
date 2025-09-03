@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **39908** proxies at the latest update. Usable proxies are below.
+> Scraper found **75530** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35922|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|20|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38662|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|2|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|3|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|4|35.206.88.200|8888|United States|Council Bluffs|Google LLC|
 |5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|37.187.92.9|1032|France|Roubaix|OVH SAS|
-|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|10|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|11|5.252.74.2|30000|Poland|Warsaw|Ipxo LLC|
-|12|5.252.74.3|30001|Poland|Warsaw|Ipxo LLC|
-|13|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|14|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|15|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|16|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|17|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|18|176.37.21.46|41890|Ukraine|Kyiv|Lanet Network|
-|19|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|20|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|7|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|10|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|11|201.46.24.174|3128|Brazil|São Paulo|Vero S.A|
+|12|157.175.147.228|10010|Bahrain|Manama|Amazon.com, Inc.|
+|13|170.239.18.90|1830|Brazil|Salvador|I B T|
+|14|66.19.21.242|7878|United States|Wellington|Windstream Communications LLC|
+|15|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|16|38.58.170.11|999|Mexico|Nuevo Laredo|Terameg SA De CV|
+|17|138.204.95.166|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
+|18|103.171.255.245|8080|Indonesia|Sleman|ZKI|
+|19|118.97.69.163|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|20|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
