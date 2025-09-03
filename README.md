@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|1|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|2|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|3|195.25.20.155|3128|France|Bellême|Orange Business Services|
+|4|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|5|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
 |6|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|9|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|10|38.190.100.47|999|Peru|San Juan de Lurigancho|Conex TV E.I.R.L.|
-|11|92.58.181.171|7575|Spain|Madrid|UNI2|
-|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|13|37.187.92.9|1032|France|Roubaix|OVH SAS|
-|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|15|185.41.152.110|3128|France|Valenciennes|global|
-|16|157.20.91.143|8080|Indonesia|Cempaka|PT Giga Global Network|
-|17|115.147.34.75|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|18|101.108.122.201|8080|Thailand|Bangkok|TOT Public Company Limited|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|45.174.95.142|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
+|7|103.156.74.186|8080|Indonesia|Negara|PT Trika Global Media|
+|8|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|9|182.253.151.54|3128|Indonesia|Sukabumi|BIZNET|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|102.219.231.22|8080|South Africa|Middelburg|Soepa Soap Vervaardigers CC|
+|12|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|13|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|14|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|15|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|16|152.53.194.55|49314|United States|Reston|netcup GmbH|
+|17|201.63.214.202|8080|Brazil|São Paulo|Vivo|
+|18|3.37.36.23|8080|South Korea|Seoul|Amazon.com, Inc.|
+|19|157.180.121.252|55503|Finland|Helsinki|Hetzner Online GmbH|
+|20|15.164.211.168|8080|South Korea|Seoul|Amazon Technologies Inc.|
 
 
 
