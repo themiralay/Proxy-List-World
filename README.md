@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|4|172.98.201.190|3128|United States|Dallas|Centrilogic|
-|5|195.25.20.155|3128|France|Bellême|Orange Business Services|
-|6|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|7|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|2|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
+|3|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|4|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|7|172.98.201.190|3128|United States|Dallas|Centrilogic|
 |8|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|9|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|190.85.43.6|8080|Colombia|Jamundí|Telmex Colombia S.A.|
-|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|13|85.133.240.75|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|14|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
-|15|104.244.78.150|5555|Luxembourg|Roost|FranTech Solutions|
-|16|103.126.119.155|8080|Indonesia|Tangerang|PT. Media Tekno Nusantara|
-|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|18|24.173.217.114|55443|United States|Mesquite|Spectrum|
-|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|20|103.167.170.167|8080|Indonesia|Jakarta|PT Rajeg Media Telekomunikasi|
+|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|10|207.244.244.178|3128|United States|St Louis|Contabo Inc.|
+|11|195.25.20.155|3128|France|Bellême|Orange Business Services|
+|12|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|13|152.231.25.155|999|Colombia|Toribío|Colombiatel Telecomunicaciones|
+|14|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|15|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|17|177.200.80.6|11221|Brazil|Senador Pompeu|Sobralnet Servicos E Telecomunicacoes Ltda - ME|
+|18|122.144.7.137|7775|Indonesia|Jakarta|Maxindo|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|203.177.237.138|8282|Philippines|Iloilo City|Globe Telecom|
 
 
 
