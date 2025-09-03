@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
 |7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
 |11|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
 |12|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|13|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|14|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|15|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|17|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|217.219.124.110|3128|Iran|Bandar Abbas|Iran Telecommunication Company PJS|
-|19|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|20|104.223.123.165|8888|United States|Chicago|HostPapa|
+|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|14|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|15|103.30.29.115|6969|Bangladesh|Kāfrul|Broad Band Telecom Services Ltd|
+|16|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|150.107.136.205|39843|Indonesia|Jakarta|PT. Media Antar Nusa|
 
 
 
