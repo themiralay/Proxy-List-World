@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
-|4|103.144.18.108|9000|Indonesia|Bondowoso|PT Gasatek Bintang Nusantara|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|47.79.95.169|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|14.224.200.210|80|Vietnam|Hanoi|VNPT|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|14|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|15|164.163.42.56|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|16|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|182.253.109.30|8080|Indonesia|Semarang|Biznet Metronet|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|15|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 |17|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|18|209.141.57.216|80|United States|Las Vegas|FranTech Solutions|
-|19|45.4.202.170|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|20|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
 
 
 
