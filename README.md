@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75213** proxies at the latest update. Usable proxies are below.
+> Scraper found **74913** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35909|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|31|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|3|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
-|4|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|5|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
+|3|51.84.204.156|3128|Israel|Tel Aviv|Amazon.com, Inc.|
+|4|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |6|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
 |7|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|8|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
-|9|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|10|218.1.124.168|443|China|Shanghai|China Telecom (Group)|
-|11|45.167.126.175|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|12|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|45.174.95.142|999|Mexico|San Juan Bautista Tuxtla|Enlace de Datos y Redes SA de CV|
-|14|67.43.236.20|29663|Canada|Montreal|GloboTech Communications|
-|15|157.180.121.252|43618|Finland|Helsinki|Hetzner Online GmbH|
-|16|72.10.160.170|21555|Canada|Montreal|GloboTech Communications|
-|17|200.26.187.67|999|Dominican Republic|Santo Domingo|FENIX NETWORKS, S.R.L.|
-|18|65.108.251.40|31603|Finland|Helsinki|Hetzner Online GmbH|
-|19|67.43.236.21|32055|Canada|Montreal|GloboTech Communications|
-|20|157.180.121.252|43618|Finland|Helsinki|Hetzner Online GmbH|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|10|52.15.223.84|3128|United States|Dublin|Amazon.com, Inc.|
+|11|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|12|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|13|103.133.61.191|8080|Indonesia|Bangunrejo|TLINK|
+|14|103.124.139.137|8080|Indonesia|Jakarta|Global Media Data Prima|
+|15|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|18|152.53.194.55|18185|United States|Reston|netcup GmbH|
+|19|45.167.126.175|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|20|67.43.236.20|16353|Canada|Montreal|GloboTech Communications|
 
 
 
