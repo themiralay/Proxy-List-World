@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75863** proxies at the latest update. Usable proxies are below.
+> Scraper found **75909** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35950|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35996|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|25|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38662|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|3|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|4|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
-|5|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
+|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|192.46.230.254|3128|Singapore|Singapore|Akamai Technologies, Inc.|
 |6|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|103.81.194.167|8080|Indonesia|Ciampea|PT Rtiga Global Media|
-|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|11|195.25.20.155|3128|France|Bellême|Orange Business Services|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
-|14|116.254.113.86|8080|Indonesia|Yogyakarta|PT Media Sarana Data|
-|15|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|16|118.97.69.163|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|7|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
+|8|172.98.201.190|3128|United States|Dallas|Centrilogic|
+|9|195.25.20.155|3128|France|Bellême|Orange Business Services|
+|10|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|11|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|12|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
+|13|112.198.138.14|8082|Philippines|General Trias|Globe Telecom|
+|14|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
+|15|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|16|179.96.28.58|80|Brazil|Caldas Novas|Megatelecom Telecomunicacoes Ltda|
 |17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|222.127.227.102|8082|Philippines|Iloilo City|GLBB|
-|19|182.253.42.148|8082|Indonesia|Ubud|BIZNET|
-|20|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|18|103.179.218.15|1080|Indonesia|Pandeglang|PT Wistel Teknologi Solusi|
+|19|122.185.198.242|7999|India|Delhi|Bharti Airtel Limited|
+|20|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
 
 
 
