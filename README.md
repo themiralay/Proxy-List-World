@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
-|3|120.28.76.192|8082|Philippines|Caloocan City|Globe Telecom|
-|4|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
-|5|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|3|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
+|4|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|5|3.130.248.223|3128|United States|Dublin|Amazon.com, Inc.|
 |6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|3.130.248.223|3128|United States|Dublin|Amazon.com, Inc.|
-|9|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|12|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|13|103.73.193.133|8080|Indonesia|Serang|Fot PT Kihnabil.net|
-|14|5.252.74.3|30001|Poland|Warsaw|Ipxo LLC|
-|15|5.252.74.4|30002|Poland|Warsaw|Ipxo LLC|
-|16|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|20|5.252.74.6|30004|Poland|Warsaw|Ipxo LLC|
+|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|8|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
+|9|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|10|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|11|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|13|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|14|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|200.24.139.161|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|18|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|19|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|20|92.247.12.136|9510|Bulgaria|Sofia|A1 Bulgaria EAD|
 
 
 
