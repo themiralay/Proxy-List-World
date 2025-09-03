@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|10|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|11|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|12|20.50.138.159|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|13|92.58.181.171|7575|Spain|Madrid|UNI2|
-|14|195.25.20.155|3128|France|Bellême|Orange Business Services|
+|2|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|64.69.43.232|1080|United States|Los Angeles|Multacom Corporation|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|11|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|12|209.14.98.5|8080|Colombia|Repelón|AGIS|
+|13|195.25.20.155|3128|France|Bellême|Orange Business Services|
+|14|92.58.181.171|7575|Spain|Madrid|UNI2|
 |15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |16|154.62.226.126|8888|Spain|Madrid|Ultahost, Inc.|
-|17|209.14.98.5|8080|Colombia|Repelón|AGIS|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |18|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|19|209.14.98.6|8080|Colombia|Repelón|AGIS|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|38.52.155.162|999|Colombia|Bogotá|Giga Fibra SAS|
+|20|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 
 
 
