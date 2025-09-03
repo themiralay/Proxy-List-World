@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|103.168.44.210|8088|Indonesia|Jakarta|PT CYB Media Group|
-|4|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|4|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|47.245.117.43|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|9|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|13|24.52.33.75|8080|United States|St. George|TDS TELECOM|
 |14|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|18|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
-|19|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|20|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|17|38.194.246.34|999|Mexico|Reynosa|Cogent Communications|
+|18|164.163.42.56|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|200.174.198.86|8888|Brazil|Rio de Janeiro|Claro S.A|
+|20|157.175.147.228|10010|Bahrain|Manama|Amazon.com, Inc.|
 
 
 
