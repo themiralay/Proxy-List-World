@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|3|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
-|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|171.228.180.100|1001|Vietnam|Hanoi|Viettel Corporation|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|12|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
-|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|14|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|18|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|19|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|20|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|5|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|134.209.166.17|9990|United States|Clifton|DigitalOcean, LLC|
+|8|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|11|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
+|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|13|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|19|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|20|103.126.86.91|7777|Indonesia|Karanganyar|PT. Rasi Bintang Perkasa|
 
 
 
