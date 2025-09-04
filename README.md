@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|42.118.3.215|16000|Vietnam|Hanoi|FPT Telecom Company|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|103.56.93.16|1935|Indonesia|Semarang|Argon Data Communication|
 |7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|11|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
 |12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|14|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|103.10.55.174|7653|Bangladesh|Dhaka|Drik ICT Ltd|
-|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|18|103.10.52.222|7653|Bangladesh|Dhaka|Drik ICT Ltd|
-|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|20|179.1.203.76|999|Colombia|Bogotá|Internexa S.a. E.S.P|
+|13|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|15|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|16|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|19|113.192.3.230|1452|Indonesia|Jogonalan|PT Boombas Carlo Medianet|
+|20|223.205.209.181|8080|Thailand|Ko Pha Ngan|Triple T Broadband Public Company Limited|
 
 
 
