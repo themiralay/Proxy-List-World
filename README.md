@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |6|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|7|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|8|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|9|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|12|36.91.166.98|8080|Indonesia|Bekasi|PT Telekomunikasi Indonesia|
-|13|45.70.236.194|999|Ecuador|Daule|Ufinet Panama S.A.|
-|14|103.164.171.210|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|15|32.142.206.26|9081|United States|New York|AT&T Enterprises, LLC|
-|16|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|17|72.10.160.170|4161|Canada|Montreal|GloboTech Communications|
-|18|218.1.124.168|443|China|Shanghai|China Telecom (Group)|
-|19|103.189.249.196|1111|Indonesia|Jatiroto|PT Berkah Media Kusuma Vision|
-|20|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|103.81.194.165|8080|Indonesia|Ciampea|PT Rtiga Global Media|
+|8|114.130.154.118|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|11|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|12|157.175.147.228|10010|Bahrain|Manama|Amazon.com, Inc.|
+|13|157.180.121.252|53919|Finland|Helsinki|Hetzner Online GmbH|
+|14|185.49.170.20|43626|Spain|Madrid|OLIVE|
+|15|72.10.160.172|20485|Canada|Montreal|GloboTech Communications|
+|16|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|17|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|18|3.37.36.23|8080|South Korea|Seoul|Amazon.com, Inc.|
+|19|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|20|102.36.152.26|8080|South Africa|Nelspruit|OCTOPI SMART SOLUTIONS (PTY) LTD|
 
 
 
