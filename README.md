@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.154.120.147|8080|Indonesia|Curug|MORATELINDONAP|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|202.58.77.173|3127|Indonesia|Tawangrejo|PT Data Buana Nusantara|
-|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|1|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
 |6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|54.218.95.233|3128|United States|Portland|Amazon.com, Inc.|
-|8|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
-|9|54.218.95.233|3128|United States|Portland|Amazon.com, Inc.|
-|10|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
-|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|13|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|14|61.118.38.234|60808|Japan|Chiyoda City|Open Computer Network|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|17|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|19|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
+|14|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|15|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
+|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|18|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|19|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|20|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
 
 
 
