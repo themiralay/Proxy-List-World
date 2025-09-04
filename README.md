@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|175.118.246.102|3128|South Korea|Gwangsan-gu|broadNnet|
 |3|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|5|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
+|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|12|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|9|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|51.84.204.156|3128|Israel|Tel Aviv|Amazon.com, Inc.|
 |13|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|14|51.84.204.156|3128|Israel|Tel Aviv|Amazon.com, Inc.|
-|15|103.86.117.58|8080|Indonesia|Lenteng|PT Link Data Sumber Barokah|
-|16|181.78.198.7|8080|Ecuador|Quito|Ufinet Panama S.A.|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|20|157.175.43.137|9812|Bahrain|Manama|Amazon.com, Inc.|
+|14|195.25.20.155|3128|France|Bellême|Orange Business Services|
+|15|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|132.145.75.68|5457|United Kingdom|London|Oracle Corporation|
+|18|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|19|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|20|208.102.24.225|8888|United States|Harrison|Fuse Internet Access|
 
 
 
