@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|159.223.64.126|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|223.204.81.212|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|10|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|11|183.80.23.4|16000|Vietnam|Hanoi|FPT Telecom Company|
+|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|10|159.223.64.126|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 |13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|17|42.118.3.215|16000|Vietnam|Hanoi|FPT Telecom Company|
-|18|92.58.181.171|7575|Spain|Madrid|UNI2|
-|19|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|14|152.53.194.46|8065|United States|Reston|netcup GmbH|
+|15|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|17|183.80.23.4|16000|Vietnam|Hanoi|FPT Telecom Company|
+|18|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|19|92.58.181.171|7575|Spain|Madrid|UNI2|
 |20|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
 
 
