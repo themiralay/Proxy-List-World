@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|74|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|74|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|74|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|183.80.23.4|16000|Vietnam|Hanoi|FPT Telecom Company|
-|4|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|51.84.204.156|3128|Israel|Tel Aviv|Amazon.com, Inc.|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|1|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|103.30.29.115|6969|Bangladesh|Kāfrul|Broad Band Telecom Services Ltd|
+|4|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|191.13.221.231|8888|Brazil|Americana|Vivo|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|42.118.3.215|16000|Vietnam|Hanoi|FPT Telecom Company|
 |9|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|10|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
-|11|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|12|49.48.49.213|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|13|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
-|14|203.176.134.41|8080|Cambodia|Phnom Penh|MekongNet|
-|15|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|16|103.172.71.113|1111|Indonesia|Tangerang|AZNET|
-|17|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|18|195.25.20.155|3128|France|Bellême|Orange Business Services|
-|19|191.7.197.8|8080|Brazil|Santa Quitéria|Online Telecomunicacoes Ltda|
-|20|103.193.144.42|8085|Indonesia|Pangkalan Brandan|PT Lintas Jaringan Nusantara|
+|10|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
+|11|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|12|58.147.186.214|3125|Indonesia|Sambas|PT. Transhybrid Communication|
+|13|183.80.23.4|16000|Vietnam|Hanoi|FPT Telecom Company|
+|14|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|15|138.117.13.129|999|Argentina|San Juan|Tamayo Magda Judith|
+|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|17|195.25.20.155|3128|France|Bellême|Orange Business Services|
+|18|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 
 
 
