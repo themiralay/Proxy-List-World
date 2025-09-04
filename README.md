@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|42.118.3.215|16000|Vietnam|Hanoi|FPT Telecom Company|
+|2|23.237.210.82|80|United States|Dallas|FDCservers.net|
 |3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|9|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |11|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|12|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|15|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|186.24.9.204|9898|Venezuela|Barcelona|TELEFONICA VENEZOLANA, C.A.|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|103.156.74.154|1111|Indonesia|Banjar Tengah|PT Trika Global Media|
+|12|42.118.3.215|16000|Vietnam|Hanoi|FPT Telecom Company|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|16|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|17|103.126.87.120|1136|Indonesia|Trucuk|PT. Rasi Bintang Perkasa|
+|18|103.30.29.115|6969|Bangladesh|Kāfrul|Broad Band Telecom Services Ltd|
+|19|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|190.145.194.210|8080|Colombia|Santiago de Cali|Telmex Colombia S.A.|
 
 
 
