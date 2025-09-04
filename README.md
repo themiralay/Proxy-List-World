@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|3|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
-|4|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|38.65.174.107|999|Mexico|Actopan|Wantelco SAS de CV|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|10|152.42.192.87|3128|Singapore|Singapore|DigitalOcean, LLC|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|13|54.218.95.233|3128|United States|Portland|Amazon.com, Inc.|
-|14|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
-|15|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|16|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|17|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|18|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|19|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|20|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|54.218.95.233|3128|United States|Portland|Amazon.com, Inc.|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|10|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
+|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|12|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|15|113.186.242.159|1001|Vietnam|Vĩnh Tường|VNPT-VNNIC|
+|16|103.30.29.115|6969|Bangladesh|Kāfrul|Broad Band Telecom Services Ltd|
+|17|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|18|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|19|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
+|20|38.65.174.107|999|Mexico|Actopan|Wantelco SAS de CV|
 
 
 
