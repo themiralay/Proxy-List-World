@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|175.118.246.102|3128|South Korea|Gwangsan-gu|broadNnet|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
 |4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |6|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
-|10|154.6.190.79|4444|France|Paris|haoxiangyun|
-|11|92.58.181.171|7575|Spain|Madrid|UNI2|
-|12|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|13|51.84.204.156|3128|Israel|Tel Aviv|Amazon.com, Inc.|
-|14|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|16|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|17|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|18|45.147.7.161|8087|Germany|Frankfurt am Main|24fire GmbH|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|157.175.43.137|9812|Bahrain|Manama|Amazon.com, Inc.|
+|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|8|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|13|92.58.181.171|7575|Spain|Madrid|UNI2|
+|14|154.6.190.79|4444|France|Paris|haoxiangyun|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|157.175.43.137|9812|Bahrain|Manama|Amazon.com, Inc.|
+|17|51.84.204.156|3128|Israel|Tel Aviv|Amazon.com, Inc.|
+|18|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|19|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
 
 
 
