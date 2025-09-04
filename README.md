@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|43.156.38.109|888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|10|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|91.218.244.153|8989|Russia|Moscow|Hostkey B.V.|
-|14|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|103.76.201.126|8080|Indonesia|Cileungsir|PT. Arjuna Global Teknologi Indonesia|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|47.79.94.34|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|11|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|15|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
 |18|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|19|31.193.193.69|1488|Lithuania|Vilnius|Telia Lietuva|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|20|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
 
 
 
