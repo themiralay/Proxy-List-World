@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|43.156.38.109|888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|12|157.175.147.228|10010|Bahrain|Manama|Amazon.com, Inc.|
-|13|223.205.209.181|8080|Thailand|Ko Pha Ngan|Triple T Broadband Public Company Limited|
-|14|179.228.241.22|8080|Brazil|Limeira|Vivo|
+|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|42.118.3.215|16000|Vietnam|Hanoi|FPT Telecom Company|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|47.252.81.108|8118|United States|Charlottesville|Alibaba Cloud LLC|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
 |15|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|103.17.246.60|1080|Indonesia|Banjar Medura|PT Media Sarana Data|
-|17|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|19|36.64.52.234|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|20|49.205.160.115|8080|India|Nellore|ACT Fibernet|
+|16|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|17|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 
 
 
