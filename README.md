@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|8|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|2|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|3|42.118.3.215|16000|Vietnam|Hanoi|FPT Telecom Company|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|183.80.23.4|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|7|43.252.107.119|1111|Indonesia|Pepe|PT Lintas Data Prima|
+|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
 |9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|152.53.194.46|8065|United States|Reston|netcup GmbH|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|159.223.64.126|3128|Singapore|Singapore|DigitalOcean, LLC|
 |13|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|183.80.23.4|16000|Vietnam|Hanoi|FPT Telecom Company|
-|16|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|17|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|18|42.118.3.215|16000|Vietnam|Hanoi|FPT Telecom Company|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|185.200.37.123|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|15|134.209.166.17|9990|United States|Clifton|DigitalOcean, LLC|
+|16|45.115.136.32|8080|Indonesia|Satui|PT Mitra Akses Globalindo|
+|17|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|18|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|20|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
 
 
 
