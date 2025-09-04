@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|6|54.218.95.233|3128|United States|Portland|Amazon.com, Inc.|
-|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|9|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
-|10|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
-|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|17|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|54.218.95.233|3128|United States|Portland|Amazon.com, Inc.|
-|19|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|103.78.1.209|39206|Vietnam|Thanh Xuân|Megacore Technology Company Limited|
+|4|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|11|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|12|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|13|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
+|14|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|159.223.64.126|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|139.59.221.206|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|152.53.194.46|8065|United States|Reston|netcup GmbH|
+|20|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
 
 
 
