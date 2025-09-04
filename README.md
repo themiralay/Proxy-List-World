@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|89|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|89|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|89|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|11|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
-|12|103.25.192.126|8181|Indonesia|Karawang|UNINA|
-|13|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|14|38.66.206.33|999|Venezuela|Valencia|Wifi-prado C.A|
-|15|181.15.220.154|8080|Argentina|Puerto Iguazú|Telecom Argentina S.A|
-|16|38.183.182.17|999|Peru|Huaura|Forza Bussines S.A.C.|
-|17|157.20.253.43|8989|Indonesia|Jakarta|PT.Global Media Data Prima|
-|18|195.25.20.155|3128|France|Bellême|Orange Business Services|
-|19|177.53.212.177|8080|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|20|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|202.154.18.172|8082|Indonesia|Babat|DIGITNET|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|103.151.177.221|8080|Indonesia|Jakarta|PT JASAMARGA TOLLROAD OPERATOR|
+|13|132.145.75.68|5457|United Kingdom|London|Oracle Corporation|
+|14|138.121.15.230|999|Colombia|Bucaramanga|Liberty Networks De Colombia|
+|15|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|16|180.149.234.73|6214|Bangladesh|Gazipur|Digi Jadoo Broadband Ltd|
+|17|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
+|18|103.25.192.126|8181|Indonesia|Karawang|UNINA|
+|19|103.177.199.101|8080|Indonesia|Cikarang|PT Eyza Kausa Sinergi Abadi|
+|20|203.192.199.158|8080|India|Pune|Entire In2Cable|
 
 
 
