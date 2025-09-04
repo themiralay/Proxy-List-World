@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|157.66.251.227|8080|Indonesia|Pasararba|PT Haykal Solutions Technology|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|103.66.149.194|8080|Pakistan|Sialkot|Sambrial Cable Network|
-|8|132.145.75.68|5457|United Kingdom|London|Oracle Corporation|
-|9|38.66.206.33|999|Venezuela|Valencia|Wifi-prado C.A|
-|10|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|11|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|12|138.121.15.230|999|Colombia|Bucaramanga|Liberty Networks De Colombia|
-|13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|14|218.1.124.168|443|China|Shanghai|China Telecom (Group)|
-|15|157.180.121.252|53919|Finland|Helsinki|Hetzner Online GmbH|
-|16|157.180.121.252|53919|Finland|Helsinki|Hetzner Online GmbH|
-|17|91.214.31.234|8080|Ukraine|Zaporizhzhya|TOV "Telza"|
-|18|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|72.10.160.172|20485|Canada|Montreal|GloboTech Communications|
-|20|152.53.194.55|38069|United States|Reston|netcup GmbH|
+|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|9|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|157.66.16.36|5568|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|45.123.142.69|8181|Indonesia|Curug|PT Anten Sarana Teknologi|
+|15|103.166.159.163|8080|Indonesia|Pugeran|PT Timor Lintas Nusantara|
+|16|181.174.231.30|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
+|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|18|102.36.152.26|8080|South Africa|Nelspruit|OCTOPI SMART SOLUTIONS (PTY) LTD|
+|19|176.105.220.74|3129|Ukraine|Kremenchug|NPK Home-Net Ltd.|
+|20|177.53.212.177|8080|Ecuador|Quito|Eliana Vanessa Morocho Oña|
 
 
 
