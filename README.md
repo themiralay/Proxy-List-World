@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|47.79.95.169|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|182.253.109.30|8080|Indonesia|Semarang|Biznet Metronet|
-|4|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|5|157.66.16.48|8181|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|6|45.123.142.146|8181|Indonesia|Curug|PT Anten Sarana Teknologi|
-|7|103.193.144.99|8080|Indonesia|Pangkalan Brandan|PT Lintas Jaringan Nusantara|
-|8|113.186.242.159|1001|Vietnam|Vĩnh Tường|VNPT-VNNIC|
-|9|103.144.102.82|8080|Indonesia|Karangsembung|PANDAWANET|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|138.2.64.185|8118|Singapore|Singapore|Oracle Corporation|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
 |10|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|11|103.48.71.114|84|India|Hyderabad|Country Online Services PVT LTD|
-|12|103.81.194.124|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|13|103.247.240.34|8080|Indonesia|Nipah Panjang|PT Media Kerinci Network|
-|14|134.209.166.17|9990|United States|Clifton|DigitalOcean, LLC|
-|15|191.7.215.165|1452|Brazil|Santa Quitéria|HTM Serviços de Telecomunicações EIRELI|
-|16|121.101.132.30|8999|Indonesia|Godean|PT SELARAS CITRA TERABIT|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|19|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|20|190.14.244.204|999|Colombia|Santiago de Cali|Media Commerce Partners S.A|
+|11|160.20.128.7|1080|Indonesia|Cirebon|PT ASTI DIGITAL INDONESIA|
+|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|13|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|36.95.173.90|8899|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
+|17|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|18|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
+|19|134.209.166.17|9990|United States|Clifton|DigitalOcean, LLC|
+|20|103.59.44.33|8181|Indonesia|Bangunrejo|PT INDONESIA TRANS NETWORK|
 
 
 
