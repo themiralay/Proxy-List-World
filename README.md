@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|112.203.40.8|8083|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|11|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|12|103.126.87.120|1136|Indonesia|Trucuk|PT. Rasi Bintang Perkasa|
-|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|14|212.92.204.54|80|Croatia|Zagreb|A1 Hrvatska d.o.o|
-|15|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|16|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|209.141.57.216|80|United States|Las Vegas|FranTech Solutions|
-|19|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
-|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|2|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|9|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|14|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|15|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|17|3.130.248.223|3128|United States|Dublin|Amazon.com, Inc.|
+|18|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|19|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|20|122.185.198.242|7999|India|Delhi|Bharti Airtel Limited|
 
 
 
