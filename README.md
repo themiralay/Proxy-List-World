@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|2|42.118.3.215|16000|Vietnam|Hanoi|FPT Telecom Company|
+|3|113.186.242.159|1001|Vietnam|Vĩnh Tường|VNPT-VNNIC|
 |4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|7|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|8|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
-|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|10|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|11|157.66.50.105|8181|Indonesia|Karawang|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|12|195.25.20.155|3128|France|Bellême|Orange Business Services|
-|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|14|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|15|103.189.197.105|8080|Indonesia|Cirebon|PT Graha Sumber Teknologi|
-|16|110.49.34.126|32650|Thailand|Bangkok|Advanced Wireless Network Company Limited|
-|17|72.10.160.90|29707|Canada|Montreal|GloboTech Communications|
-|18|152.53.194.46|8065|United States|Reston|netcup GmbH|
-|19|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
-|20|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|120.50.11.225|8080|Bangladesh|Azimpur|Telnet Communication Limited|
+|8|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|11|103.155.196.158|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|12|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|13|45.65.137.218|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|14|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|15|157.175.147.228|10010|Bahrain|Manama|Amazon.com, Inc.|
+|16|38.156.23.38|999|Dominican Republic|Puerto Plata|Visnetwork SRL|
+|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|18|179.60.240.69|53281|Colombia|Nueva Granada|ITELKOM|
+|19|66.70.235.23|5454|United States|Los Angeles|OVH Hosting|
+|20|195.25.20.155|3128|France|Bellême|Orange Business Services|
 
 
 
