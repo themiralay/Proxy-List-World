@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
-|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|9|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|15|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|16|43.231.69.206|3128|Australia|Sydney|Buroserv Australia Pty Ltd|
-|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|18|5.202.104.142|3128|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
-|19|2.139.62.85|3128|Spain|Madrid|RIMA (Red IP Multi Acceso)|
-|20|18.228.65.67|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|103.226.232.197|8099|Indonesia|Sumberketangi|PT Jaringan Multimedia Indonesia|
+|9|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|10|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|11|101.255.208.18|8090|Indonesia|Cileungsir|PT Remala Abadi|
+|12|132.145.75.68|5457|United Kingdom|London|Oracle Corporation|
+|13|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
+|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|15|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
+|16|191.103.219.225|48612|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|17|202.154.19.165|8080|Indonesia|Ngoro|DIGITNET|
+|18|195.25.20.155|3128|France|Bellême|Orange Business Services|
+|19|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|103.137.218.65|83|India|Bhagalpur|Nandbalaji Connecting Zone Pvt. Ltd|
 
 
 
