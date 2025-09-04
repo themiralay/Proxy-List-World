@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|5|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|129.213.69.94|80|United States|Ashburn|Oracle Corporation|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|157.175.45.145|8087|Bahrain|Manama|Amazon.com, Inc.|
-|13|145.40.96.156|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
-|14|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|15|3.130.248.223|3128|United States|Dublin|Amazon.com, Inc.|
-|16|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|145.40.96.156|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
-|18|103.126.87.120|1136|Indonesia|Trucuk|PT. Rasi Bintang Perkasa|
-|19|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|20|24.102.236.218|8888|United States|Lititz|PenTeleData Inc.|
+|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|11|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|12|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
+|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|145.40.96.156|9400|The Netherlands|Amsterdam|Packet Host, Inc.|
+|16|3.130.248.223|3128|United States|Dublin|Amazon.com, Inc.|
+|17|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|103.187.86.26|8080|Indonesia|Pinrang|PT Satunol Digital Teknologi|
+|19|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|20|45.231.221.193|999|Mexico|Tijuana|Distrokom S De RL De CV|
 
 
 
