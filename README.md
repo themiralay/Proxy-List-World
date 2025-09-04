@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
-|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|159.223.64.126|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
 |13|139.59.221.206|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|159.223.64.126|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
-|17|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
-|18|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|19|152.53.194.46|8065|United States|Reston|netcup GmbH|
-|20|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|15|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
+|16|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|18|154.6.190.79|4444|France|Paris|haoxiangyun|
+|19|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|20|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
 
 
 
