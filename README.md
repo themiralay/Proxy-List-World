@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|42.118.3.215|16000|Vietnam|Hanoi|FPT Telecom Company|
-|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|10|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|11|118.70.13.38|41857|Vietnam|Hanoi|FPT Telecom Company|
-|12|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|13|103.174.236.88|8080|Indonesia|Karangampel|PT Global Erasiber Teknologi|
-|14|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|15|103.189.197.105|8080|Indonesia|Cirebon|PT Graha Sumber Teknologi|
-|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|122.3.87.41|8080|Philippines|Guiguinto|Philippine Long Distance Telephone Co.|
-|19|45.81.146.7|8080|Iraq|Simele|Duhok Networks|
-|20|92.58.181.171|7575|Spain|Madrid|UNI2|
+|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|4|113.186.242.159|1001|Vietnam|Vĩnh Tường|VNPT-VNNIC|
+|5|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|6|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|7|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|8|157.175.147.228|10010|Bahrain|Manama|Amazon.com, Inc.|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|11|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
+|13|122.3.87.41|8080|Philippines|Guiguinto|Philippine Long Distance Telephone Co.|
+|14|195.25.20.155|3128|France|Bellême|Orange Business Services|
+|15|114.31.15.190|2024|Bangladesh|Dhaka|BDCOM Online Limited|
+|16|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|17|113.53.60.187|8180|Thailand|Chon Buri|TOT Public Company Limited|
+|18|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|19|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|20|222.59.173.105|45100|China|Qinnan|China Mobile Communications Corporation|
 
 
 
