@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|4|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|4|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |8|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|9|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|14|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|15|37.27.203.117|3128|Finland|Helsinki|Hetzner Online GmbH|
-|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|17|92.58.181.171|7575|Spain|Madrid|UNI2|
-|18|154.6.190.79|4444|France|Paris|haoxiangyun|
-|19|51.84.204.156|3128|Israel|Tel Aviv|Amazon.com, Inc.|
-|20|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|9|113.186.242.159|1001|Vietnam|Vĩnh Tường|VNPT-VNNIC|
+|10|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|12|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|195.25.20.155|3128|France|Bellême|Orange Business Services|
+|16|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|18|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
+|19|134.209.166.17|9990|United States|Clifton|DigitalOcean, LLC|
+|20|103.231.236.239|8182|Indonesia|Randudongkal|PT Level Indodata Teknologi|
 
 
 
