@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|183.80.23.4|16000|Vietnam|Hanoi|FPT Telecom Company|
-|3|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|2|42.118.3.215|16000|Vietnam|Hanoi|FPT Telecom Company|
+|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
-|7|92.58.181.171|7575|Spain|Madrid|UNI2|
-|8|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|9|115.72.175.207|18869|Vietnam|Ho Chi Minh City|VIETELmetro|
-|10|37.27.203.117|3128|Finland|Helsinki|Hetzner Online GmbH|
-|11|51.84.204.156|3128|Israel|Tel Aviv|Amazon.com, Inc.|
-|12|223.205.59.163|8080|Thailand|Pattani|Triple T Broadband Public Company Limited|
-|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|14|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|187.44.65.3|8080|Brazil|Catalão|WGO MULTIMIDIA LTDA|
-|17|42.118.3.215|16000|Vietnam|Hanoi|FPT Telecom Company|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|170.245.132.82|9000|Paraguay|Villa Villeta|MACHADO BAEZ, NERY JAVIER|
-|20|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
+|6|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|7|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|8|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|9|103.161.69.217|8469|Bangladesh|Chittagong|MiME|
+|10|157.66.50.105|8181|Indonesia|Karawang|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|113.53.60.187|8180|Thailand|Chon Buri|TOT Public Company Limited|
+|13|42.118.3.215|16000|Vietnam|Hanoi|FPT Telecom Company|
+|14|103.153.149.133|8080|Indonesia|Weleri|JARINGANKU|
+|15|183.178.50.58|8080|Hong Kong|Kwai Chung|Hong Kong Broadband Network Ltd|
+|16|222.208.8.48|9999|China|Nanchong|Chinanet|
+|17|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|19|38.190.100.47|999|Peru|San Juan de Lurigancho|Conex TV E.I.R.L.|
+|20|72.10.160.170|14957|Canada|Montreal|GloboTech Communications|
 
 
 
