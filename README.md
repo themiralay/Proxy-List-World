@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|9|42.118.3.215|16000|Vietnam|Hanoi|FPT Telecom Company|
-|10|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|11|183.80.23.4|16000|Vietnam|Hanoi|FPT Telecom Company|
-|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|152.53.194.46|8065|United States|Reston|netcup GmbH|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|17|92.58.181.171|7575|Spain|Madrid|UNI2|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|49.48.49.213|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|20|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|3|42.118.3.215|16000|Vietnam|Hanoi|FPT Telecom Company|
+|4|183.80.23.4|16000|Vietnam|Hanoi|FPT Telecom Company|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|13|38.188.178.1|999|Colombia|Choachí|TECNOLOGÍA, INFORMACIÓN Y COMUNICACIONES DE COLOMBIA SAS|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|152.53.194.46|8065|United States|Reston|netcup GmbH|
+|16|103.210.22.17|3128|Hong Kong|Hong Kong|Zenlayer Inc|
+|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|18|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 
 
 
