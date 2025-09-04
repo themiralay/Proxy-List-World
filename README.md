@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|118.173.88.82|8080|Thailand|Bangkok|TOT Public Company Limited|
+|2|47.79.95.169|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |4|182.253.109.30|8080|Indonesia|Semarang|Biznet Metronet|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|7|171.228.180.100|1001|Vietnam|Hanoi|Viettel Corporation|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|13|113.162.238.46|20399|Vietnam|Thu Dau Mot|VietNam Post and Telecom Corporation|
-|14|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|15|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|16|113.186.242.159|1001|Vietnam|Vĩnh Tường|VNPT-VNNIC|
-|17|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|20|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|5|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|8|103.164.229.149|8080|Indonesia|Jekulo|PT Muria Data Utama|
+|9|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|10|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|11|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|12|18.228.65.67|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|15|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|16|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|17|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
+|18|164.163.40.110|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|164.163.41.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|95.111.194.14|6045|Singapore|Singapore|UpCloud Ltd|
 
 
 
