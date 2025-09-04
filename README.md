@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|3|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|2|175.118.246.102|3128|South Korea|Gwangsan-gu|broadNnet|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
 |9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|15|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|16|157.175.147.228|10010|Bahrain|Manama|Amazon.com, Inc.|
-|17|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|19|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|20|195.25.20.155|3128|France|Bellême|Orange Business Services|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|12|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
+|13|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|14|154.6.190.79|4444|France|Paris|haoxiangyun|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|17|195.25.20.155|3128|France|Bellême|Orange Business Services|
+|18|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|19|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|20|37.27.203.117|3128|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
