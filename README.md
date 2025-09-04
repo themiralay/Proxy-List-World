@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75302** proxies at the latest update. Usable proxies are below.
+> Scraper found **75602** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -28,7 +28,7 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35964|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|33|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|103.26.176.137|8080|Indonesia|Kebomas|PT Lintas Jaringan Nusantara|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|10|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|11|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|12|103.158.121.245|8090|Indonesia|Majalengka|CDN|
-|13|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|14|192.203.0.250|999|Puerto Rico|Fajardo|Boom NET|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|113.162.238.46|20399|Vietnam|Thu Dau Mot|VietNam Post and Telecom Corporation|
-|17|170.81.171.189|8282|Brazil|São Paulo|Wireless Comm Services LTDA|
-|18|103.189.123.110|8080|Indonesia|Ciawi|PT Ikhlas Cipta Teknologi|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|7|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|103.155.169.62|8299|Indonesia|Cikampek|PT Arozak Bima Yudho Sangkara|
+|9|103.154.77.15|88|Indonesia|Sleman|T2NET|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|179.96.28.58|80|Brazil|Caldas Novas|Megatelecom Telecomunicacoes Ltda|
+|15|160.22.134.228|1111|Indonesia|Pasarkemis|PT GALAXY SINERGI NETWORK|
+|16|143.208.57.165|999|Guatemala|Patzicía|Comunicaciones Metropolitanas Cablecolor|
+|17|159.223.64.126|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|19|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
+|20|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
