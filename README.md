@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|10|92.58.181.171|7575|Spain|Madrid|UNI2|
-|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|12|157.180.121.252|35519|Finland|Helsinki|Hetzner Online GmbH|
-|13|38.52.155.165|999|Colombia|Bogotá|Giga Fibra SAS|
-|14|72.10.160.171|26111|Canada|Montreal|GloboTech Communications|
-|15|211.143.79.108|3128|China|Shijiazhuang|China Mobile communications corporation|
-|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|17|72.10.160.94|25683|Canada|Montreal|GloboTech Communications|
-|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|19|103.234.31.0|8080|Indonesia|Sungguminasa|PT Jenius Lintas Nusantara|
-|20|43.200.175.206|8080|South Korea|Seoul|Amazon.com, Inc.|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|11|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|12|182.253.109.30|8080|Indonesia|Semarang|Biznet Metronet|
+|13|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
+|14|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|15|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|16|195.25.20.155|3128|France|Bellême|Orange Business Services|
+|17|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|18|208.102.24.225|8888|United States|Harrison|Fuse Internet Access|
+|19|72.10.160.171|26111|Canada|Montreal|GloboTech Communications|
+|20|72.10.160.94|25683|Canada|Montreal|GloboTech Communications|
 
 
 
