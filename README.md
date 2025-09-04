@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|64|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|64|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|64|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|2|42.118.3.215|16000|Vietnam|Hanoi|FPT Telecom Company|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|191.13.221.231|8888|Brazil|Americana|Vivo|
-|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|7|157.175.147.228|10010|Bahrain|Manama|Amazon.com, Inc.|
-|8|84.244.119.36|23500|Czechia|Vlašim|BlueTone-CRa|
-|9|103.180.118.207|7777|Indonesia|Kebondempet|PT Persada Data Multimedia|
+|1|42.118.3.215|16000|Vietnam|Hanoi|FPT Telecom Company|
+|2|183.80.23.4|16000|Vietnam|Hanoi|FPT Telecom Company|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|113.186.242.159|1001|Vietnam|Vĩnh Tường|VNPT-VNNIC|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|7|191.13.221.231|8888|Brazil|Americana|Vivo|
+|8|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
 |10|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|11|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |12|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|13|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
-|14|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|13|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |15|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|16|38.190.100.46|999|Peru|San Juan de Lurigancho|Conex TV E.I.R.L.|
-|17|218.1.124.168|443|China|Shanghai|China Telecom (Group)|
+|16|42.118.3.215|16000|Vietnam|Hanoi|FPT Telecom Company|
+|17|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
 |18|152.53.194.46|8065|United States|Reston|netcup GmbH|
-|19|72.10.164.178|27349|Canada|Montreal|GloboTech Communications|
-|20|103.174.122.15|8080|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
+|19|38.190.100.46|999|Peru|San Juan de Lurigancho|Conex TV E.I.R.L.|
+|20|181.78.49.207|999|Guatemala|Salcajá|Ufinet Panama S.A.|
 
 
 
