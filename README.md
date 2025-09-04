@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
-|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|4|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|38.46.233.146|8080|Indonesia|Boyolali|PT CYB Media Group|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
-|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|11|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |12|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|13|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|14|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
-|15|45.224.97.227|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|16|103.84.177.35|8083|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|24.172.82.94|53281|United States|Charlotte|Spectrum|
-|19|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
-|20|37.27.80.214|3128|Finland|Helsinki|Hetzner Online GmbH|
+|13|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
+|14|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|195.25.20.155|3128|France|Bellême|Orange Business Services|
+|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|5.252.74.2|30000|Poland|Warsaw|Ipxo LLC|
+|20|208.102.24.225|8888|United States|Harrison|Fuse Internet Access|
 
 
 
