@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
-|3|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|1|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
+|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|170.78.208.241|999|Mexico|San Juan del Río|Wantelco SAS de CV|
-|10|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|11|27.147.215.56|13457|Bangladesh|Dhaka|Link3 Technologies Limited|
-|12|5.202.104.142|3128|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
-|13|8.215.31.146|1347|Indonesia|Jakarta|Alibaba (US) Technology Co., Ltd.|
-|14|202.179.69.216|58080|India|Pune|Ankhnet|
-|15|157.175.43.137|9812|Bahrain|Manama|Amazon.com, Inc.|
-|16|195.25.20.155|3128|France|Bellême|Orange Business Services|
-|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|18|209.14.113.2|999|Colombia|Quebradanegra|AGIS|
-|19|190.120.252.174|999|Venezuela|Valencia|CORPORACION FIBEX TELECOM, C.A.|
+|8|27.147.215.56|13457|Bangladesh|Dhaka|Link3 Technologies Limited|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|31.14.114.69|1081|Iran|Tehran|Afranet Co|
+|11|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|13|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|14|132.145.75.68|5457|United Kingdom|London|Oracle Corporation|
+|15|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|16|5.252.74.3|30001|Poland|Warsaw|Ipxo LLC|
+|17|18.228.65.67|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|18|41.33.252.209|80|Egypt|Cairo|TE Data|
+|19|103.56.205.84|8080|Indonesia|Jakarta|Argon Data Communication|
 |20|211.143.79.108|3128|China|Shijiazhuang|China Mobile communications corporation|
 
 
