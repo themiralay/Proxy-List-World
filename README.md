@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75757** proxies at the latest update. Usable proxies are below.
+> Scraper found **75758** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -31,7 +31,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35976|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|21|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|22|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38534|✅|
 
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|2|43.156.38.109|888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|42.118.3.215|16000|Vietnam|Hanoi|FPT Telecom Company|
+|5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |6|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|9|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|10|45.65.137.218|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
-|11|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|12|157.180.121.252|53919|Finland|Helsinki|Hetzner Online GmbH|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|15|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
-|16|1.1.220.100|8080|Thailand|Wiang Chiang Rung|TOT Public Company Limited|
-|17|103.174.122.15|8080|Indonesia|Sumedang|PT Jaya Sejahtra Nugraha|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|52.78.163.49|8080|South Korea|Seoul|Amazon Technologies Inc.|
-|20|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|10|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|11|157.175.147.228|10010|Bahrain|Manama|Amazon.com, Inc.|
+|12|92.58.181.171|7575|Spain|Madrid|UNI2|
+|13|202.93.247.51|8090|Indonesia|Wedoro|PT. Dutakom Wibawa Putra|
+|14|45.65.137.218|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|15|157.180.121.252|53919|Finland|Helsinki|Hetzner Online GmbH|
+|16|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|17|195.25.20.155|3128|France|Bellême|Orange Business Services|
+|18|103.81.194.165|8080|Indonesia|Ciampea|PT Rtiga Global Media|
+|19|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|20|190.60.60.220|8080|Colombia|Cereté|IFX NETWORKS COLOMBIA|
 
 
 
