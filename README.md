@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|12|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|14|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|13|186.194.161.141|999|Colombia|Bogotá|Telenet Digital S.A.S|
+|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|157.175.147.228|10010|Bahrain|Manama|Amazon.com, Inc.|
-|17|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|18|159.223.64.126|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|36.147.78.166|80|China|Guangzhou|China Mobile|
-|20|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
+|16|179.96.28.58|80|Brazil|Caldas Novas|Megatelecom Telecomunicacoes Ltda|
+|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|18|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|19|103.105.76.65|8080|Indonesia|Ngoro|PT. Garuda Media Telematika|
+|20|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
 
 
 
