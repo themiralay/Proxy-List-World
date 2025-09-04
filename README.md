@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
 |4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|8|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|103.125.174.85|8080|Indonesia|Pematangsiantar|PT Trinity Teknologi Nusantara|
-|12|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|159.223.64.126|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
+|5|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|195.25.20.155|3128|France|Bellême|Orange Business Services|
+|11|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
+|13|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|14|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|15|195.25.20.155|3128|France|Bellême|Orange Business Services|
 |16|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|18|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|37.187.109.70|10111|France|Roubaix|OVH SAS|
+|17|92.58.181.171|7575|Spain|Madrid|UNI2|
+|18|103.133.61.251|8181|Indonesia|Pringsewu|TLINK|
+|19|103.125.174.85|8080|Indonesia|Pematangsiantar|PT Trinity Teknologi Nusantara|
+|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 
 
 
