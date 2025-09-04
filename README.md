@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|183.80.23.4|16000|Vietnam|Hanoi|FPT Telecom Company|
-|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|12|92.58.181.171|7575|Spain|Madrid|UNI2|
-|13|57.128.133.70|3128|United Kingdom|City of London|OVH SAS|
-|14|37.27.203.117|3128|Finland|Helsinki|Hetzner Online GmbH|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|17|115.72.175.207|18869|Vietnam|Ho Chi Minh City|VIETELmetro|
-|18|41.33.252.209|80|Egypt|Cairo|TE Data|
-|19|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|20|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|5.252.74.6|30004|Poland|Warsaw|Ipxo LLC|
+|11|191.13.221.231|8888|Brazil|Americana|Vivo|
+|12|42.118.3.215|16000|Vietnam|Hanoi|FPT Telecom Company|
+|13|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|14|5.252.74.4|30002|Poland|Warsaw|Ipxo LLC|
+|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|5.252.74.3|30001|Poland|Warsaw|Ipxo LLC|
+|18|5.252.74.2|30000|Poland|Warsaw|Ipxo LLC|
+|19|5.252.74.5|30003|Poland|Warsaw|Ipxo LLC|
+|20|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
 
 
 
