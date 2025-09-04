@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|140.227.61.201|3128|Japan|Chiyoda City|InfoSphere|
-|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|10|191.101.190.175|3127|Singapore|Singapore|PT Perwira Media Solusi|
-|11|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
-|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|15|103.162.17.203|8080|Indonesia|Pajeksan|PT Mega Data Perkasa|
-|16|103.162.16.113|8080|Indonesia|Parenggan|PT Mega Data Perkasa|
-|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|18|5.190.36.2|3128|Iran|Bavānāt|Iran Telecommunication Company PJS|
-|19|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
-|20|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|38.46.233.146|8080|Indonesia|Boyolali|PT CYB Media Group|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|3.145.173.38|3128|United States|Dublin|Amazon.com, Inc.|
+|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|17|138.2.64.185|8118|Singapore|Singapore|Oracle Corporation|
+|18|77.110.114.116|8081|United States|Charlotte|Aeza International LTD|
+|19|157.175.43.137|9812|Bahrain|Manama|Amazon.com, Inc.|
+|20|27.147.215.56|13457|Bangladesh|Dhaka|Link3 Technologies Limited|
 
 
 
