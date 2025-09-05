@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|8|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |10|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|11|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 |12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
-|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
-|18|122.50.5.190|8080|Indonesia|Pamulang|PT Mora Telematika Indonesia|
-|19|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|13|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|14|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|103.127.220.62|8080|Indonesia|Jakarta|PT Multi Guna Sinergi|
+|17|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|18|164.163.42.45|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|164.163.42.56|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|20|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
 
 
 
