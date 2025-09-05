@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|167.71.221.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|3.130.248.223|3128|United States|Dublin|Amazon.com, Inc.|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|1.53.67.234|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|12|154.6.190.79|4444|France|Paris|haoxiangyun|
-|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|14|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|8|3.130.248.223|3128|United States|Dublin|Amazon.com, Inc.|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|13|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
+|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
 |16|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|17|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
-|18|167.71.221.56|3128|Singapore|Singapore|DigitalOcean, LLC|
+|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|18|154.6.190.79|4444|France|Paris|haoxiangyun|
 |19|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|20|157.175.147.228|10010|Bahrain|Manama|Amazon.com, Inc.|
+|20|23.237.210.82|80|United States|Dallas|FDCservers.net|
 
 
 
