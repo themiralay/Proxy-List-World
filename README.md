@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|11|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|12|3.130.248.223|3128|United States|Dublin|Amazon.com, Inc.|
-|13|187.102.14.135|8888|Brazil|Blumenau|UNIFIQUE TELECOMUNICACOES S/A|
-|14|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|15|84.247.188.39|8888|Germany|Düsseldorf|Contabo GmbH|
-|16|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|17|157.175.43.137|9812|Bahrain|Manama|Amazon.com, Inc.|
-|18|157.175.147.228|10010|Bahrain|Manama|Amazon.com, Inc.|
-|19|43.246.200.73|8888|Bangladesh|Sonargaon|HelloTech Limited|
-|20|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|1.53.67.234|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|12|157.175.43.137|9812|Bahrain|Manama|Amazon.com, Inc.|
+|13|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|14|84.247.188.39|8888|Germany|Düsseldorf|Contabo GmbH|
+|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|157.175.147.228|10010|Bahrain|Manama|Amazon.com, Inc.|
+|18|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|103.81.194.167|8080|Indonesia|Ciampea|PT Rtiga Global Media|
 
 
 
