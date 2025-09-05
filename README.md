@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|2|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
 |3|23.237.210.82|80|United States|Dallas|FDCservers.net|
 |4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|8|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
-|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
+|7|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|10|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
 |11|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|12|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|12|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|17|103.127.220.33|8080|Indonesia|Jakarta|PT Multi Guna Sinergi|
-|18|157.175.147.228|10010|Bahrain|Manama|Amazon.com, Inc.|
-|19|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|20|1.53.67.234|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|16|38.172.128.104|999|Peru|Lima|Conex TV E.I.R.L.|
+|17|177.52.221.99|999|Dominican Republic|Santiago de los Caballeros|TELERY NETWORKS, S.R.L|
+|18|103.123.235.42|8080|India|Mumbai|Esto Broadband|
+|19|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 
 
 
