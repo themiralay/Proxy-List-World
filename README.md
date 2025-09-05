@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
-|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|113.162.238.46|20399|Vietnam|Thu Dau Mot|VietNam Post and Telecom Corporation|
-|12|45.189.151.17|8080|Mexico|Jalpa de Méndez|Javier Tamayo Garcia|
-|13|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|14|132.145.75.68|5457|United Kingdom|London|Oracle Corporation|
-|15|103.156.118.104|8080|Indonesia|Jakarta|MYREPUBLIC|
-|16|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|17|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|36.147.78.166|80|China|Guangzhou|China Mobile|
-|20|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|209.141.57.216|80|United States|Las Vegas|FranTech Solutions|
+|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|9|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|13|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|15|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|16|195.234.68.34|3128|Ukraine|Kyiv|SKIF|
+|17|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
+|18|217.182.150.43|50013|Ireland|Dublin|OVH SAS|
+|19|157.175.43.137|9812|Bahrain|Manama|Amazon.com, Inc.|
+|20|103.194.175.51|7777|Indonesia|Sempu|MYNET|
 
 
 
