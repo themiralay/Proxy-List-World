@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -42,22 +42,22 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|175.118.246.102|3128|South Korea|Gwangsan-gu|broadNnet|
 |3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|1.53.67.234|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|1.53.67.234|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
 |11|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
-|12|154.6.190.79|4444|France|Paris|haoxiangyun|
-|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|14|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|15|37.27.203.117|3128|Finland|Helsinki|Hetzner Online GmbH|
-|16|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|17|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|157.175.43.137|9812|Bahrain|Manama|Amazon.com, Inc.|
-|19|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|13|195.25.20.155|3128|France|Bellême|Orange Business Services|
+|14|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|17|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|18|154.6.190.79|4444|France|Paris|haoxiangyun|
+|19|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
 |20|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 
 
