@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|11|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|103.68.214.32|8181|Indonesia|Sepatan|PT Media Grasi Internet|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
-|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|18|164.163.42.29|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|202.57.25.42|8080|Indonesia|Semarang|announced of WINET|
-|20|164.163.42.47|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|191.103.219.225|48612|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|14|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|103.147.77.204|8080|Indonesia|Caruban|TRIDATA|
+|17|201.63.214.202|8080|Brazil|São Paulo|Vivo|
+|18|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|19|103.81.194.123|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
+|20|117.102.86.148|8080|Indonesia|Jakarta|BIZNET|
 
 
 
