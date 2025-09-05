@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|1.53.67.234|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|10|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
-|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|14|113.162.238.46|20399|Vietnam|Thu Dau Mot|VietNam Post and Telecom Corporation|
-|15|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|16|84.247.188.39|8888|Germany|Düsseldorf|Contabo GmbH|
-|17|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|18|202.138.241.102|9384|Indonesia|Arcamanik|Melsa-i-net|
-|19|143.255.43.206|999|Mexico|Coacalco|Smartnett Carrier SA De CV|
-|20|157.175.147.228|10010|Bahrain|Manama|Amazon.com, Inc.|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|8|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|9|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|10|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
+|13|1.53.67.234|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|14|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|18|84.247.188.39|8888|Germany|Düsseldorf|Contabo GmbH|
+|19|103.247.21.226|1111|Indonesia|Purbalingga|PT wifian Solution|
+|20|103.81.194.167|8080|Indonesia|Ciampea|PT Rtiga Global Media|
 
 
 
