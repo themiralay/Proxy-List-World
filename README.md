@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|103.147.77.204|8080|Indonesia|Caruban|TRIDATA|
-|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|112.201.237.191|8080|Philippines|Malabon|Philippine Long Distance Telephone Co.|
-|8|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|11|200.215.229.33|999|Peru|Cusco|Gpon Networks S.A.C.|
-|12|115.75.184.174|8080|Vietnam|Ho Chi Minh City|VIETELxdsl|
-|13|103.127.220.62|8080|Indonesia|Jakarta|PT Multi Guna Sinergi|
-|14|157.175.147.228|10010|Bahrain|Manama|Amazon.com, Inc.|
-|15|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|16|103.106.112.166|1234|Indonesia|Labuhanmaringgai|SMSNET|
-|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|19|45.77.131.47|31280|Japan|Minamishinagawa|Choopa|
-|20|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|103.155.199.106|3128|Indonesia|Cikadu|PT Lintas Jaringan Nusantara|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|12|85.192.63.38|8118|Germany|Frankfurt am Main|Aeza International LTD|
+|13|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|17|195.25.20.155|3128|France|Bellême|Orange Business Services|
+|18|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|19|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|20|115.75.184.174|8080|Vietnam|Ho Chi Minh City|VIETELxdsl|
 
 
 
