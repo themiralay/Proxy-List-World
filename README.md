@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|7|157.15.80.43|7777|Indonesia|Tulangbawang|PT Digitama Network Indonesia|
-|8|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|9|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
-|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|16|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|17|223.197.178.186|3128|Hong Kong|Tsuen Wan|PCCW IMSBiz|
-|18|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
-|19|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|20|103.174.145.97|83|India|Ahmedabad|Vaidik Netsol OPC PVT LTD|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|5|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|6|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
+|7|195.25.20.155|3128|France|Bellême|Orange Business Services|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|103.166.8.238|1080|Indonesia|Bekasi|PT Akses Bersama Sedaya|
+|10|38.194.253.228|999|Mexico|San Andrés Tuxtla|Cogent Communications|
+|11|103.30.29.115|6969|Bangladesh|Kāfrul|Broad Band Telecom Services Ltd|
+|12|45.167.126.174|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|13|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|14|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|15|24.102.236.218|8888|United States|Lititz|PenTeleData Inc.|
+|16|38.183.146.181|8090|Indonesia|Comal|PT Ikhlas Cipta Teknologi|
+|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|18|27.147.129.26|5050|Bangladesh|Dhaka|Link3 Technologies Limited|
+|19|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|199.116.62.148|9999|Puerto Rico|Palomas|OSNET Wireless|
 
 
 
