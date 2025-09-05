@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|67|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|67|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|67|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|103.153.246.142|8181|Indonesia|Siwa|PRIMAHOME|
-|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|8|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|11|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|12|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
+|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|103.30.29.115|6969|Bangladesh|Kāfrul|Broad Band Telecom Services Ltd|
-|19|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
-|20|157.175.147.228|10010|Bahrain|Manama|Amazon.com, Inc.|
+|17|192.203.0.166|999|Puerto Rico|Fajardo|Boom NET|
+|18|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|19|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|20|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
 
 
 
