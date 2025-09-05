@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|47.79.16.186|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|1.53.67.234|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|6|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|3|175.118.246.102|3128|South Korea|Gwangsan-gu|broadNnet|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |7|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
-|8|154.6.190.79|4444|France|Paris|haoxiangyun|
-|9|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|10|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|12|37.27.203.117|3128|Finland|Helsinki|Hetzner Online GmbH|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|17|201.65.173.179|8080|Brazil|Brasília|Claro S.A.|
-|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|19|164.163.42.43|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|20|195.25.20.155|3128|France|Bellême|Orange Business Services|
+|8|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|13|154.6.190.79|4444|France|Paris|haoxiangyun|
+|14|37.27.203.117|3128|Finland|Helsinki|Hetzner Online GmbH|
+|15|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|132.145.75.68|5457|United Kingdom|London|Oracle Corporation|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|113.162.238.46|20399|Vietnam|Thu Dau Mot|VietNam Post and Telecom Corporation|
 
 
 
