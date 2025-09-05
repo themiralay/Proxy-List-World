@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|3|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
-|4|103.30.29.115|6969|Bangladesh|Kāfrul|Broad Band Telecom Services Ltd|
-|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|6|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |7|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|8|51.159.159.73|80|France|Paris|SCALEWAY|
-|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|92.58.181.171|7575|Spain|Madrid|UNI2|
-|13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|14|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|15|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|115.231.181.40|8128|China|Hangzhou|China Telecom|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|113.162.238.46|20399|Vietnam|Thu Dau Mot|VietNam Post and Telecom Corporation|
-|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|9|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|10|157.175.43.137|9812|Bahrain|Manama|Amazon.com, Inc.|
+|11|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|12|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|14|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|15|123.16.15.41|1452|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|209.121.164.50|31147|Canada|Vancouver|TELUS Communications Inc.|
+|17|209.121.164.51|31147|Canada|Vancouver|TELUS Communications Inc.|
+|18|51.159.159.73|80|France|Paris|SCALEWAY|
+|19|51.159.159.73|80|France|Paris|SCALEWAY|
+|20|185.4.29.243|7887|Iran|Tehran|Green Web Samaneh Novin' s|
 
 
 
