@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|1|175.118.246.102|3128|South Korea|Gwangsan-gu|broadNnet|
+|2|103.73.193.133|8080|Indonesia|Serang|Fot PT Kihnabil.net|
+|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|4|182.52.229.165|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|5|103.231.236.238|8182|Indonesia|Randudongkal|PT Level Indodata Teknologi|
 |6|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|8|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|9|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|13|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|14|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|157.175.147.228|10010|Bahrain|Manama|Amazon.com, Inc.|
-|17|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|9|221.120.248.85|8080|Pakistan|Islamabad|Pakistan Telecommuication company limited|
+|10|92.58.181.171|7575|Spain|Madrid|UNI2|
+|11|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|12|38.194.235.146|999|Mexico|San Salvador|Cogent Communications|
+|13|96.227.245.221|999|United States|Philadelphia|Verizon Business|
+|14|103.76.151.74|8089|Indonesia|Kedungtaman|PT. Java Digital Nusantara|
+|15|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|45.225.89.145|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|17|191.242.111.26|8080|Brazil|Rio de Janeiro|V W INTERNET|
+|18|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|19|157.175.147.228|10010|Bahrain|Manama|Amazon.com, Inc.|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
