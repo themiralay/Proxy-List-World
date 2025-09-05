@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|99|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|99|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|99|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|47.79.95.169|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|4|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|5|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|6|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
 |7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|12|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|8|180.149.232.201|2024|Bangladesh|Gazipur|Digi Jadoo Broadband Ltd|
+|9|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|10|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|132.145.75.68|5457|United Kingdom|London|Oracle Corporation|
+|13|209.141.57.216|80|United States|Las Vegas|FranTech Solutions|
 |14|157.175.43.137|9812|Bahrain|Manama|Amazon.com, Inc.|
-|15|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|16|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|19|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|15|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|17|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|19|160.20.128.19|1080|Indonesia|Cirebon|PT ASTI DIGITAL INDONESIA|
+|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
 
 
 
