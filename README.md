@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|175.118.246.102|3128|South Korea|Gwangsan-gu|broadNnet|
-|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
-|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|52.186.152.254|443|United States|Boydton|Microsoft Corporation|
-|10|195.25.20.155|3128|France|Bellême|Orange Business Services|
-|11|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|52.186.152.254|443|United States|Boydton|Microsoft Corporation|
-|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|3|171.237.91.231|10004|Vietnam|Hanoi|Viettel Corporation|
+|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|6|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|7|112.198.130.142|8081|Philippines|Nasugbu|Globe Telecom|
+|8|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|9|175.118.246.102|3128|South Korea|Gwangsan-gu|broadNnet|
+|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|103.155.166.150|8181|Indonesia|Cileungsir|PT Network Lintas Fiberindo|
+|13|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|14|36.95.22.27|8080|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
+|15|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
 |16|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|17|92.58.181.171|7575|Spain|Madrid|UNI2|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|157.175.43.137|9812|Bahrain|Manama|Amazon.com, Inc.|
-|20|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|19|177.200.239.141|999|Dominican Republic|Cotuí|ESQUIRE CORPORATE SERVICES, S.R.L.|
+|20|195.25.20.155|3128|France|Bellême|Orange Business Services|
 
 
 
