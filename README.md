@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |6|23.237.210.82|80|United States|Dallas|FDCservers.net|
 |7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|9|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
-|14|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|17|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|103.247.23.197|8080|Indonesia|Ngawi|PT wifian Solution|
+|8|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|9|3.130.248.223|3128|United States|Dublin|Amazon.com, Inc.|
+|10|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
+|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|1.53.67.234|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|15|120.28.212.240|5050|Philippines|Davao City|Globe Telecom|
+|16|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|103.125.179.6|8080|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
 |20|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
 
 
