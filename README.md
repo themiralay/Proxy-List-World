@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|175.118.246.102|3128|South Korea|Gwangsan-gu|broadNnet|
-|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|43.130.52.194|8118|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|10|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|10|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
+|11|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 |13|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|103.187.162.75|8085|Indonesia|Tangerang|PT Misqot Sejahtera Indonesia|
-|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|17|92.58.181.171|7575|Spain|Madrid|UNI2|
-|18|64.92.82.61|8081|United States|Los Angeles|Momentum Telecom, Inc.|
-|19|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|20|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|15|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|16|72.10.164.178|28247|Canada|Montreal|GloboTech Communications|
+|17|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|43.130.52.194|8118|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
+|19|3.130.248.223|3128|United States|Dublin|Amazon.com, Inc.|
+|20|134.209.166.17|9990|United States|Clifton|DigitalOcean, LLC|
 
 
 
