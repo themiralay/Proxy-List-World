@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|200.125.170.108|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|3|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|8|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|9|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|42.96.16.158|1311|Vietnam|Hanoi|HOALAC-VNNIC|
-|12|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|14|84.247.188.39|8888|Germany|Düsseldorf|Contabo GmbH|
-|15|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|2|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|7|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
+|8|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|9|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|10|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|12|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|14|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|15|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
 |16|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|17|103.169.38.240|8080|Indonesia|Jogonalan|PT Boombas Carlo Medianet|
-|18|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
-|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|20|114.9.27.246|8080|Indonesia|Kebomas|PT. INDOSAT Tbk|
+|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|18|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|19|195.25.20.155|3128|France|Bellême|Orange Business Services|
+|20|84.247.188.39|8888|Germany|Düsseldorf|Contabo GmbH|
 
 
 
