@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
 |2|128.199.67.95|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|45.150.128.10|3128|Thailand|Nonthaburi|Siamdata Communication Co., ltd.|
-|4|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|5|103.21.220.141|3128|Canada|Fergus|Leaseweb Hong Kong Limited|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|10|113.186.140.94|10001|Vietnam|Vĩnh Tường|VNPT-VNNIC|
-|11|103.242.104.149|8080|Indonesia|Batu|PT Lintas Jaringan Nusantara|
-|12|27.79.227.173|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|139.59.221.206|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|159.223.64.126|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|113.186.140.94|10001|Vietnam|Vĩnh Tường|VNPT-VNNIC|
+|5|159.223.64.126|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|27.79.227.173|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|103.242.104.149|8080|Indonesia|Batu|PT Lintas Jaringan Nusantara|
+|8|103.21.220.141|3128|Canada|Fergus|Leaseweb Hong Kong Limited|
+|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|10|139.59.221.206|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|182.253.109.168|8080|Indonesia|Semarang|Biznet Metronet|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|15|171.228.185.227|5109|Vietnam|Hanoi|Viettel Corporation|
+|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
 |17|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|18|182.253.109.168|8080|Indonesia|Semarang|Biznet Metronet|
-|19|171.228.185.227|5109|Vietnam|Hanoi|Viettel Corporation|
-|20|50.28.85.53|3128|United States|Lansing|Liquid Web, L.L.C|
+|18|3.130.248.223|3128|United States|Dublin|Amazon.com, Inc.|
+|19|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
