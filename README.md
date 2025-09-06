@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|7|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|7|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
 |8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|10|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|2.180.10.65|8443|Iran|Tehran|orumieh|
-|13|152.53.194.46|8065|United States|Reston|netcup GmbH|
-|14|154.6.190.79|4444|France|Paris|haoxiangyun|
-|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|16|203.190.46.99|8080|Indonesia|Pandak|PT Jaring Lintas Utara|
-|17|152.53.194.55|19055|United States|Reston|netcup GmbH|
-|18|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|19|179.49.113.230|999|Honduras|San Pedro Sula|Asociacion De Servicio De Internet S. De RL|
-|20|117.161.170.163|9401|China|Guangzhou|China Mobile communications corporation|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|11|65.109.54.12|8888|Finland|Helsinki|Hetzner Online GmbH|
+|12|83.212.82.185|3128|Greece|Athens|National Infrastructures for Research and Technology S.A.|
+|13|102.38.13.9|19000|Libya|Tripoli|Giga for Telecommunication and Technology Limited|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|16|152.53.194.46|8065|United States|Reston|netcup GmbH|
+|17|154.6.190.79|4444|France|Paris|haoxiangyun|
+|18|157.175.43.137|9812|Bahrain|Manama|Amazon.com, Inc.|
+|19|207.248.2.114|999|Chile|Graneros|Grupo Metrowan Telecom SPA|
+|20|152.53.194.55|19055|United States|Reston|netcup GmbH|
 
 
 
