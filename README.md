@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|81|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|81|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|81|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
-|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
 |4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|152.53.194.46|8065|United States|Reston|netcup GmbH|
-|8|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
-|9|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|10|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|11|38.194.233.172|1010|Mexico|Tepeji del Río de Ocampo|Cogent Communications|
+|5|49.146.61.187|8082|Philippines|Koronadal|Philippine Long Distance Telephone Co.|
+|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|8|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |12|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|16|38.188.178.1|999|Colombia|Choachí|TECNOLOGÍA, INFORMACIÓN Y COMUNICACIONES DE COLOMBIA SAS|
-|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|18|191.13.221.231|8888|Brazil|Americana|Vivo|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|41.204.8.1|8246|Eswatini|Manzini|Real Image Network|
+|13|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|14|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|152.53.194.46|8065|United States|Reston|netcup GmbH|
+|17|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|20|3.37.36.23|8080|South Korea|Seoul|Amazon.com, Inc.|
 
 
 
