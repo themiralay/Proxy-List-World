@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
 |6|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|8|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|9|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
 |10|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|11|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|12|92.58.181.171|7575|Spain|Madrid|UNI2|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|16|181.224.226.154|8080|Peru|Lima|Econocable Media SAC|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|84.247.188.39|8888|Germany|Düsseldorf|Contabo GmbH|
+|11|152.53.194.46|8065|United States|Reston|netcup GmbH|
+|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|13|92.58.181.171|7575|Spain|Madrid|UNI2|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|157.66.50.105|8181|Indonesia|Karawang|PT BARAYA TELEKOMUNIKASI INDONESIA|
+|19|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|20|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
