@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75598** proxies at the latest update. Usable proxies are below.
+> Scraper found **75572** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36019|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35993|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|30|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38323|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
 |3|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
 |4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|5|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
 |6|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|7|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|8|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|9|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|10|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|11|43.156.38.109|888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|91.121.106.55|8118|France|Roubaix|OVH SAS|
-|18|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|7|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|16|38.65.174.107|999|Mexico|Actopan|Wantelco SAS de CV|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|103.167.170.167|8080|Indonesia|Jakarta|PT Rajeg Media Telekomunikasi|
+|19|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|20|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 
 
 
