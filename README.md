@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|203.174.26.212|3128|Mongolia|Ulan Bator|YokozunaNET|
-|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|4|45.150.128.10|3128|Thailand|Nonthaburi|Siamdata Communication Co., ltd.|
+|5|49.229.25.67|3128|Thailand|Phaya Thai|Advanced Wireless Network Company Limited|
 |6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|49.229.25.67|3128|Thailand|Phaya Thai|Advanced Wireless Network Company Limited|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|10|157.66.16.40|8787|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|34.59.253.55|8080|United States|Council Bluffs|Google LLC|
+|7|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|203.174.26.212|3128|Mongolia|Ulan Bator|YokozunaNET|
+|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
 |14|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|15|50.28.85.53|3128|United States|Lansing|Liquid Web, L.L.C|
-|16|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|17|50.28.85.14|3128|United States|Lansing|Liquid Web, L.L.C|
-|18|34.59.253.55|8080|United States|Council Bluffs|Google LLC|
-|19|103.156.75.132|8181|Indonesia|Gianyar|PT Trika Global Media|
-|20|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|15|50.28.85.14|3128|United States|Lansing|Liquid Web, L.L.C|
+|16|134.209.166.17|9990|United States|Clifton|DigitalOcean, LLC|
+|17|50.28.85.53|3128|United States|Lansing|Liquid Web, L.L.C|
+|18|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|19|34.59.253.55|8080|United States|Council Bluffs|Google LLC|
+|20|34.59.253.55|8080|United States|Council Bluffs|Google LLC|
 
 
 
