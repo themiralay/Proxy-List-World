@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|209.121.164.51|31147|Canada|Vancouver|TELUS Communications Inc.|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|45.150.128.10|3128|Thailand|Nonthaburi|Siamdata Communication Co., ltd.|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|8|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|15|49.229.25.67|3128|Thailand|Phaya Thai|Advanced Wireless Network Company Limited|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|65.38.213.154|8881|Puerto Rico|San Juan|AT&T Mobility Puerto Rico|
-|18|50.28.85.14|3128|United States|Lansing|Liquid Web, L.L.C|
-|19|50.28.85.53|3128|United States|Lansing|Liquid Web, L.L.C|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|45.150.128.10|3128|Thailand|Nonthaburi|Siamdata Communication Co., ltd.|
+|5|49.229.25.67|3128|Thailand|Phaya Thai|Advanced Wireless Network Company Limited|
+|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|134.209.166.17|9990|United States|Clifton|DigitalOcean, LLC|
+|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|14|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|16|34.59.253.55|8080|United States|Council Bluffs|Google LLC|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|157.20.219.184|8080|Indonesia|Wonosobo|PT Sindoro Sumbing Network Solution|
+|20|115.79.70.69|8470|Vietnam|Ho Chi Minh City|VIETELftth|
 
 
 
