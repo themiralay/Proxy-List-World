@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|8|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|195.25.20.155|3128|France|Bellême|Orange Business Services|
-|11|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|12|156.225.70.152|39151|United States|Piscataway|ZAgency Media and Technology Company Limited|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|157.175.43.137|9812|Bahrain|Manama|Amazon.com, Inc.|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|18|200.116.198.222|9812|Colombia|Medellín|UNE EPM TELECOMUNICACIONES S.A|
-|19|160.238.12.2|8080|Thailand|Don Mueang|Bangmod Enterprise Co., Ltd.|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|4|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|6|195.25.20.155|3128|France|Bellême|Orange Business Services|
+|7|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|8|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|157.175.43.137|9812|Bahrain|Manama|Amazon.com, Inc.|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|24.52.33.75|8080|United States|St. George|TDS TELECOM|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|200.116.198.222|9812|Colombia|Medellín|UNE EPM TELECOMUNICACIONES S.A|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|152.53.194.46|8065|United States|Reston|netcup GmbH|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|160.238.12.2|8080|Thailand|Don Mueang|Bangmod Enterprise Co., Ltd.|
+|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|20|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
 
 
 
