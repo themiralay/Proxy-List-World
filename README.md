@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|96|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|96|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|96|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|3|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
-|4|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|5|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|6|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|2|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|8|152.53.194.46|8065|United States|Reston|netcup GmbH|
+|9|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
 |12|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|13|84.247.188.39|8888|Germany|Düsseldorf|Contabo GmbH|
-|14|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|15|49.205.160.115|8080|India|Nellore|ACT Fibernet|
-|16|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|17|38.190.100.46|999|Peru|San Juan de Lurigancho|Conex TV E.I.R.L.|
-|18|45.167.126.148|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|19|103.81.175.218|28022|Bangladesh|Chittagong|ADN Telecom Ltd.|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|117.18.20.66|8080|Indonesia|Blitar|PT ALUCIO|
+|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|18|195.25.20.155|3128|France|Bellême|Orange Business Services|
+|19|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|20|179.60.240.69|53281|Colombia|Nueva Granada|ITELKOM|
 
 
 
