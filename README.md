@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|10|157.175.43.137|9812|Bahrain|Manama|Amazon.com, Inc.|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|13|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|16|181.48.160.114|9090|Colombia|Bogotá|Telmex Colombia S.A.|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|103.81.194.162|8080|Indonesia|Ciampea|PT Rtiga Global Media|
-|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|20|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|36.93.8.34|11000|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|12|43.200.175.206|8080|South Korea|Seoul|Amazon.com, Inc.|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|19|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|20|103.39.51.190|8080|Indonesia|Kuningan|PT. Mega Mentari Mandiri|
 
 
 
