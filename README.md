@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|1|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|195.25.20.155|3128|France|Bellême|Orange Business Services|
-|8|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|11|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|15|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|24.52.33.75|8080|United States|St. George|TDS TELECOM|
-|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|20|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|6|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|179.49.113.230|999|Honduras|San Pedro Sula|Asociacion De Servicio De Internet S. De RL|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
+|11|157.175.43.137|9812|Bahrain|Manama|Amazon.com, Inc.|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|14|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|103.163.80.108|8080|Indonesia|Caruban|PT Data Arta Sedaya|
+|17|185.4.29.243|7887|Iran|Tehran|Green Web Samaneh Novin' s|
+|18|139.135.145.198|5050|Philippines|Pasig|ComClark Network & Technology Corp|
+|19|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
+|20|87.126.65.11|1388|Bulgaria|Kazanlak|Vivacom Bulgaria EAD|
 
 
 
