@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.67.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|175.118.246.102|3128|South Korea|Gwangsan-gu|broadNnet|
+|1|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|2|128.199.67.95|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|45.150.128.10|3128|Thailand|Nonthaburi|Siamdata Communication Co., ltd.|
-|5|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|6|159.223.64.126|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|139.59.221.206|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|49.229.25.67|3128|Thailand|Phaya Thai|Advanced Wireless Network Company Limited|
-|9|27.79.227.173|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|103.21.220.141|3128|Canada|Fergus|Leaseweb Hong Kong Limited|
-|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|182.253.109.168|8080|Indonesia|Semarang|Biznet Metronet|
-|14|103.242.104.149|8080|Indonesia|Batu|PT Lintas Jaringan Nusantara|
-|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|16|171.228.185.227|5109|Vietnam|Hanoi|Viettel Corporation|
-|17|113.186.140.94|10001|Vietnam|Vĩnh Tường|VNPT-VNNIC|
-|18|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|20|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|5|103.21.220.141|3128|Canada|Fergus|Leaseweb Hong Kong Limited|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|7|27.79.227.173|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|9|139.59.221.206|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|159.223.64.126|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|13|171.228.185.227|5109|Vietnam|Hanoi|Viettel Corporation|
+|14|182.253.109.168|8080|Indonesia|Semarang|Biznet Metronet|
+|15|103.164.221.34|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|18|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
