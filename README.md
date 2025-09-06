@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|45.45.237.121|3128|United States|Chicago|Infraly, LLC|
-|6|45.150.128.10|3128|Thailand|Nonthaburi|Siamdata Communication Co., ltd.|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|50.28.85.53|3128|United States|Lansing|Liquid Web, L.L.C|
+|6|171.228.185.227|5109|Vietnam|Hanoi|Viettel Corporation|
 |7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|8|171.228.185.227|5109|Vietnam|Hanoi|Viettel Corporation|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|15|49.229.25.67|3128|Thailand|Phaya Thai|Advanced Wireless Network Company Limited|
-|16|50.28.85.53|3128|United States|Lansing|Liquid Web, L.L.C|
-|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|9|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|45.150.128.10|3128|Thailand|Nonthaburi|Siamdata Communication Co., ltd.|
+|12|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|45.45.237.121|3128|United States|Chicago|Infraly, LLC|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|17|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|18|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|19|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|20|50.28.85.53|3128|United States|Lansing|Liquid Web, L.L.C|
 
 
 
