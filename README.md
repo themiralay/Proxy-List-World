@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|1|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|4|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
+|4|152.53.194.46|8065|United States|Reston|netcup GmbH|
 |5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|7|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|8|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|14|103.155.198.141|1080|Indonesia|Cileungsir|PT Lintas Jaringan Nusantara|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
-|17|43.200.175.206|8080|South Korea|Seoul|Amazon.com, Inc.|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|152.53.194.46|8065|United States|Reston|netcup GmbH|
-|20|5.202.191.225|8080|Iran|Tehran|PTS-Network|
+|6|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|7|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|8|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
+|9|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|10|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|122.54.147.110|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
+|13|113.53.60.187|8180|Thailand|Chon Buri|TOT Public Company Limited|
+|14|209.141.57.216|80|United States|Las Vegas|FranTech Solutions|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|200.39.120.81|999|Mexico|Villa García|COORDINADORA DE CARRIER'S, S.A. DE C.V.|
+|17|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|18|209.141.57.216|80|United States|Las Vegas|FranTech Solutions|
+|19|117.161.170.163|9246|China|Guangzhou|China Mobile communications corporation|
+|20|152.53.194.46|8065|United States|Reston|netcup GmbH|
 
 
 
