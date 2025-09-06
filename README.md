@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
-|4|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|13|152.53.194.55|21609|United States|Reston|netcup GmbH|
-|14|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
-|15|84.247.188.39|8888|Germany|Düsseldorf|Contabo GmbH|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|192.214.193.136|8080|France|Balma|Adista SAS|
-|18|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|19|103.126.87.76|8081|Indonesia|Trucuk|PT. Rasi Bintang Perkasa|
-|20|103.105.76.10|3125|Indonesia|Jombang|PT. Garuda Media Telematika|
+|2|39.110.235.25|13128|Japan|Tokyo|Sony Network Communications Inc|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|43.156.38.109|888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|103.191.254.134|8080|Indonesia|Jadi|PT Ayodya Data Internusa|
+|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|15|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|152.53.194.55|21609|United States|Reston|netcup GmbH|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|84.247.188.39|8888|Germany|Düsseldorf|Contabo GmbH|
 
 
 
