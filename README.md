@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|8|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|9|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|10|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|11|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
-|12|154.6.190.79|4444|France|Paris|haoxiangyun|
-|13|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|113.192.12.102|8080|Indonesia|Cikarang|PT Parsaoran Global Datatrans|
-|17|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|18|195.25.20.155|3128|France|Bellême|Orange Business Services|
-|19|103.149.118.51|8080|Indonesia|Ciputat|Sekolah Tinggi Teknik - PLN|
-|20|177.234.226.83|1994|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|4|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|5|154.6.190.79|4444|France|Paris|haoxiangyun|
+|6|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|7|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
+|8|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|10|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|84.247.188.39|8888|Germany|Düsseldorf|Contabo GmbH|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|38.188.178.1|999|Colombia|Choachí|TECNOLOGÍA, INFORMACIÓN Y COMUNICACIONES DE COLOMBIA SAS|
+|17|103.188.169.160|7777|Indonesia|Kelodan|PT Lintas Jaringan Nusantara|
+|18|119.93.173.202|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|19|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|20|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 
 
 
