@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|97|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|97|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|97|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|5|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|84.247.188.39|8888|Germany|Düsseldorf|Contabo GmbH|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|113.162.238.46|20399|Vietnam|Thu Dau Mot|VietNam Post and Telecom Corporation|
-|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|12|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|14|157.175.43.137|9812|Bahrain|Manama|Amazon.com, Inc.|
-|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|16|185.89.156.2|44224|Albania|Elbasan|ATU|
-|17|103.76.148.42|8181|Indonesia|Jakarta|PT. Java Digital Nusantara|
-|18|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
-|19|72.10.160.92|20479|Canada|Montreal|GloboTech Communications|
-|20|103.170.100.96|8080|Indonesia|Jakarta|Subnet Data Nusantara|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|38.158.83.193|999|Peru|Arequipa|Fiberred SAC|
+|13|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|14|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|15|103.96.79.75|8080|Australia|South Brisbane|Asia Pacific Network Information Center|
+|16|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|17|187.102.14.135|8888|Brazil|Blumenau|UNIFIQUE TELECOMUNICACOES S/A|
+|18|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|19|195.25.20.155|3128|France|Bellême|Orange Business Services|
+|20|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
 
 
 
