@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|171.228.185.227|5109|Vietnam|Hanoi|Viettel Corporation|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|45.150.128.10|3128|Thailand|Nonthaburi|Siamdata Communication Co., ltd.|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|13|174.140.109.250|3128|United States|Miami|Atlantic Broadband Finance|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|5|45.150.128.10|3128|Thailand|Nonthaburi|Siamdata Communication Co., ltd.|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|7|171.228.185.227|5109|Vietnam|Hanoi|Viettel Corporation|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|134.209.166.17|9990|United States|Clifton|DigitalOcean, LLC|
+|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |15|50.28.85.53|3128|United States|Lansing|Liquid Web, L.L.C|
 |16|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|205.237.104.203|3128|France|Paris|ESTOXY OU|
-|19|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|20|95.47.239.65|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
+|17|174.140.109.250|3128|United States|Miami|Atlantic Broadband Finance|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|205.237.104.203|3128|France|Paris|ESTOXY OU|
+|20|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
