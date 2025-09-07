@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|80|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|80|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|80|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|13.38.48.111|9090|France|Paris|Amazon Technologies Inc.|
-|7|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|11|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|12|49.145.125.45|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|14|37.187.135.131|8080|France|Roubaix|OVH SAS|
-|15|38.49.38.154|8080|United States|Los Angeles|Cogent Communications|
-|16|38.7.1.88|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
-|17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|18|154.23.91.199|8888|Hong Kong|Hong Kong|HONG KONG Megalayer Technology Co., Limited|
-|19|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|20|157.175.43.137|9812|Bahrain|Manama|Amazon.com, Inc.|
+|2|13.211.35.233|8888|Australia|Sydney|Amazon Technologies Inc.|
+|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|5|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|6|3.110.191.52|8888|India|Mumbai|Amazon Technologies Inc.|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
+|9|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
+|10|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|13.38.48.111|9090|France|Paris|Amazon Technologies Inc.|
+|14|154.23.91.199|8888|Hong Kong|Hong Kong|HONG KONG Megalayer Technology Co., Limited|
+|15|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|16|167.71.34.74|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|45.188.167.25|999|Mexico|La Barca|Velocom SA De CV|
 
 
 
