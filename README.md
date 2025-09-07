@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|84|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|84|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|84|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|13.38.48.111|9090|France|Paris|Amazon Technologies Inc.|
-|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|103.104.15.149|8080|Indonesia|Bandung|STARNET-JTL|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|195.62.50.233|8080|Turkey|Adana|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|11|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|12|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|13|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|157.175.147.228|10010|Bahrain|Manama|Amazon.com, Inc.|
-|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|17|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|38.123.220.173|999|Mexico|Ixtlahuaca de Rayón|Cogent Communications|
-|20|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|18.217.113.132|3128|United States|Dublin|Amazon.com, Inc.|
+|5|18.217.113.132|3128|United States|Dublin|Amazon.com, Inc.|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|13.38.48.111|9090|France|Paris|Amazon Technologies Inc.|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|14|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|15|118.179.205.170|8080|Bangladesh|Pābna|Dhakacom Limited|
+|16|157.175.147.228|10010|Bahrain|Manama|Amazon.com, Inc.|
+|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|18|190.128.248.134|999|Paraguay|Asunción|Telecel S.A.|
+|19|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|20|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
 
 
 
