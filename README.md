@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|3|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|4|42.119.2.128|16000|Vietnam|Hanoi|FPT Telecom Company|
-|5|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|6|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
-|12|27.71.139.184|16000|Vietnam|Bảo Lộc|Viettel Group|
-|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|14|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
-|15|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|2|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|3|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|4|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|5|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|209.121.164.51|31147|Canada|Vancouver|TELUS Communications Inc.|
+|8|209.121.164.50|31147|Canada|Vancouver|TELUS Communications Inc.|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|3.110.191.52|8888|India|Mumbai|Amazon Technologies Inc.|
+|14|27.71.139.184|16000|Vietnam|Bảo Lộc|Viettel Group|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|18|49.229.25.67|3128|Thailand|Phaya Thai|Advanced Wireless Network Company Limited|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|18|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
+|19|167.71.34.74|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
