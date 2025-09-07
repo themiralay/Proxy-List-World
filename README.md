@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.67.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|14.247.255.209|8080|Vietnam|Hanoi|VNPT|
-|5|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|6|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|7|157.175.43.137|9812|Bahrain|Manama|Amazon.com, Inc.|
+|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|14.247.255.209|8080|Vietnam|Hanoi|VNPT|
 |8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|138.2.64.185|8118|Singapore|Singapore|Oracle Corporation|
-|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|11|103.179.218.7|8080|Indonesia|Pandeglang|PT Wistel Teknologi Solusi|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|13|181.204.39.202|26312|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
-|14|14.247.255.209|8080|Vietnam|Hanoi|VNPT|
-|15|49.151.213.192|8082|Philippines|Baguio City|Philippine Long Distance Telephone Co.|
-|16|27.71.141.39|16000|Vietnam|Bảo Lộc|Viettel Group|
-|17|147.75.34.105|443|The Netherlands|Amsterdam|Packet Host, Inc.|
-|18|190.7.138.78|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|19|45.123.142.146|8181|Indonesia|Curug|PT Anten Sarana Teknologi|
-|20|183.88.231.188|34599|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|15|45.150.128.10|3128|Thailand|Nonthaburi|Siamdata Communication Co., ltd.|
+|16|46.185.34.136|8187|Ukraine|Poltava|Kyivstar UA|
+|17|42.119.2.128|16000|Vietnam|Hanoi|FPT Telecom Company|
+|18|103.215.60.14|8080|Indonesia|Pontianak|PT Uwais Borneo Group|
+|19|27.71.141.39|16000|Vietnam|Bảo Lộc|Viettel Group|
+|20|37.27.203.117|3128|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
