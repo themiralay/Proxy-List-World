@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|128.199.67.95|8080|Singapore|Singapore|DigitalOcean, LLC|
 |3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
 |4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |6|45.150.128.10|3128|Thailand|Nonthaburi|Siamdata Communication Co., ltd.|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|43.156.38.109|888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |12|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|13|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
-|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|103.242.104.149|8080|Indonesia|Batu|PT Lintas Jaringan Nusantara|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|14|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
+|15|134.209.166.17|9990|United States|Clifton|DigitalOcean, LLC|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |18|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|19|40.172.232.213|13279|United Arab Emirates|Dubai|Amazon.com|
-|20|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|103.242.104.149|8080|Indonesia|Batu|PT Lintas Jaringan Nusantara|
 
 
 
