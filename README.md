@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|79|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|79|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|79|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|3|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|4|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|5|213.32.85.26|3128|France|Roubaix|OVH SAS|
-|6|37.27.203.117|3128|Finland|Helsinki|Hetzner Online GmbH|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|38.183.183.114|999|Peru|Huaura|Forza Bussines S.A.C.|
-|9|157.175.43.137|9812|Bahrain|Manama|Amazon.com, Inc.|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|16|14.247.255.209|8080|Vietnam|Hanoi|VNPT|
-|17|147.75.34.105|443|The Netherlands|Amsterdam|Packet Host, Inc.|
-|18|185.112.151.207|8022|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
-|19|182.253.109.168|8080|Indonesia|Semarang|Biznet Metronet|
-|20|193.188.21.69|8118|Sweden|Stockholm|xorek.cloud International LTD|
+|2|128.199.67.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|14.247.255.209|8080|Vietnam|Hanoi|VNPT|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|122.54.193.69|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|10|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|11|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|12|38.183.183.114|999|Peru|Huaura|Forza Bussines S.A.C.|
+|13|157.175.43.137|9812|Bahrain|Manama|Amazon.com, Inc.|
+|14|45.150.128.10|3128|Thailand|Nonthaburi|Siamdata Communication Co., ltd.|
+|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|16|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|17|101.255.119.206|8080|Indonesia|Bekasi|PT Remala Abadi|
+|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|19|200.39.139.65|999|Chile|Santiago|Iconex SPA|
+|20|38.51.233.82|8090|Colombia|La Unión|SP SISTEMAS PALACIOS LTDA|
 
 
 
