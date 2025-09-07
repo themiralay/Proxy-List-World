@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|14.247.255.209|8080|Vietnam|Hanoi|VNPT|
-|4|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|138.2.64.185|8118|Singapore|Singapore|Oracle Corporation|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|12|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|13|51.159.159.73|80|France|Paris|SCALEWAY|
-|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|15|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|16|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|17|122.52.185.72|8080|Philippines|Lañgub|Philippine Long Distance Telephone Co.|
-|18|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|20|157.175.43.137|9812|Bahrain|Manama|Amazon.com, Inc.|
+|2|14.247.255.209|8080|Vietnam|Hanoi|VNPT|
+|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|10|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|37.27.203.117|3128|Finland|Helsinki|Hetzner Online GmbH|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|138.121.15.230|999|Colombia|Bucaramanga|Liberty Networks De Colombia|
+|14|38.156.75.39|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|15|157.66.16.52|8080|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|16|157.175.43.137|9812|Bahrain|Manama|Amazon.com, Inc.|
+|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|18|164.163.41.1|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|103.9.188.228|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
 
 
 
