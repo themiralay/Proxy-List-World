@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
-|5|13.38.48.111|9090|France|Paris|Amazon Technologies Inc.|
-|6|49.145.125.45|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|7|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|10|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|13|37.187.135.131|8080|France|Roubaix|OVH SAS|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|16|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|17|41.139.220.125|8080|Kenya|Mpeketoni|Converged services Western|
-|18|157.175.43.137|9812|Bahrain|Manama|Amazon.com, Inc.|
-|19|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|20|52.36.84.247|8888|United States|Portland|Amazon.com, Inc.|
+|2|13.211.35.233|8888|Australia|Sydney|Amazon Technologies Inc.|
+|3|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|13.38.48.111|9090|France|Paris|Amazon Technologies Inc.|
+|15|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|16|167.71.34.74|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|85.133.243.3|8080|Iran|Tehran|Web Gostaran Shaina Shiraz LLC|
+|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|19|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|20|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
