@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75426** proxies at the latest update. Usable proxies are below.
+> Scraper found **75391** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|82|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|82|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|82|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35919|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35884|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|17|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38264|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.67.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|42.119.2.128|16000|Vietnam|Hanoi|FPT Telecom Company|
-|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|16.52.47.20|3128|Canada|Toronto|Amazon.com|
-|6|3.150.77.219|3128|United States|Dublin|Amazon.com, Inc.|
+|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|13.38.48.111|9090|France|Paris|Amazon Technologies Inc.|
 |7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|8|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|15.228.191.108|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|11|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|157.20.253.195|1111|Indonesia|Jakarta|PT.Global Media Data Prima|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|181.224.226.154|8080|Peru|Lima|Econocable Media SAC|
-|17|46.161.194.93|8085|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|18|103.105.55.180|8080|Indonesia|Yogyakarta|PT. Mega Artha Lintas Data|
-|19|38.190.100.47|999|Peru|San Juan de Lurigancho|Conex TV E.I.R.L.|
-|20|103.35.108.250|2024|Bangladesh|Sirajganj|Ranks ITT|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|42.119.2.128|16000|Vietnam|Hanoi|FPT Telecom Company|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|103.179.218.14|1080|Indonesia|Pandeglang|PT Wistel Teknologi Solusi|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|14|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|103.178.87.42|8080|Indonesia|Parung|PT Adhi Pradana Makayasa|
+|16|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|17|209.14.117.220|999|Colombia|Granada|AGIS|
+|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|103.172.42.121|8086|Indonesia|Karawang|PT Media Solusi Sukses|
+|20|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
 
 
 
