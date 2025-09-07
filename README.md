@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
 |3|128.199.67.95|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|5|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
 |6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |10|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|13|65.38.213.154|8881|Puerto Rico|San Juan|AT&T Mobility Puerto Rico|
-|14|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
+|11|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|12|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|13|18.217.113.132|3128|United States|Dublin|Amazon.com, Inc.|
+|14|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
 |15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|16|13.60.92.114|3128|Sweden|Stockholm|Amazon.com, Inc.|
-|17|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|185.112.151.207|8022|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|17|209.141.57.216|80|United States|Las Vegas|FranTech Solutions|
+|18|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
+|19|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
