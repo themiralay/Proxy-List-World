@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|128.199.67.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|42.119.2.128|16000|Vietnam|Hanoi|FPT Telecom Company|
-|5|49.229.25.67|3128|Thailand|Phaya Thai|Advanced Wireless Network Company Limited|
-|6|183.81.95.123|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|2|128.199.67.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|42.119.2.128|16000|Vietnam|Hanoi|FPT Telecom Company|
+|4|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|183.81.95.123|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|6|45.150.128.10|3128|Thailand|Nonthaburi|Siamdata Communication Co., ltd.|
 |7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|45.150.128.10|3128|Thailand|Nonthaburi|Siamdata Communication Co., ltd.|
+|8|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |13|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|45.45.237.121|3128|United States|Chicago|Infraly, LLC|
-|17|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|14|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|15|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
 |18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|19|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|20|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|19|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|20|34.59.253.55|8080|United States|Council Bluffs|Google LLC|
 
 
 
