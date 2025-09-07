@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|5|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|6|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
-|7|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|8|15.228.191.108|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|9|14.247.255.209|8080|Vietnam|Hanoi|VNPT|
-|10|185.112.151.207|8022|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
-|11|157.175.147.228|10010|Bahrain|Manama|Amazon.com, Inc.|
-|12|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
-|13|80.210.54.212|8080|Iran|Tehran|TIC|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|16|13.38.48.111|9090|France|Paris|Amazon Technologies Inc.|
-|17|112.201.187.177|8083|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|128.199.67.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|115.75.184.174|8080|Vietnam|Ho Chi Minh City|VIETELxdsl|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|16.52.47.20|3128|Canada|Toronto|Amazon.com|
+|7|14.247.255.209|8080|Vietnam|Hanoi|VNPT|
+|8|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|13.38.48.111|9090|France|Paris|Amazon Technologies Inc.|
+|11|15.228.191.108|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|12|112.201.176.124|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|13|103.178.87.42|8080|Indonesia|Parung|PT Adhi Pradana Makayasa|
+|14|31.14.114.66|1081|Iran|Tehran|Afranet Co|
+|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|16|191.97.1.89|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|17|61.216.156.222|60808|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
 |18|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
-|19|45.174.206.120|999|Chile|Olmué|SERVICIOS INFORMÁTICOS IGNACIO LIZANA CARREÑO E.I.R.L(INALTEC).|
-|20|103.13.204.11|8090|Indonesia|Ngulaan|PT JARINGANKU SARANA NUSANTARA|
+|19|200.117.0.225|999|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|20|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 
 
 
