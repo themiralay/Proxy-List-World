@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|71|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|71|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|71|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|67|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|67|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|67|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
-|3|128.199.67.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|14.247.255.209|8080|Vietnam|Hanoi|VNPT|
-|5|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|6|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|7|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
+|2|42.119.2.128|16000|Vietnam|Hanoi|FPT Telecom Company|
+|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|128.199.67.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|14.247.255.209|8080|Vietnam|Hanoi|VNPT|
+|6|16.52.47.20|3128|Canada|Toronto|Amazon.com|
+|7|13.38.48.111|9090|France|Paris|Amazon Technologies Inc.|
+|8|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
 |9|15.228.191.108|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|185.112.151.207|8022|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
-|12|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
-|13|157.175.147.228|10010|Bahrain|Manama|Amazon.com, Inc.|
-|14|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|18|103.139.98.69|8080|Indonesia|Jabung|Digital Network Setiawan|
-|19|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
-|20|128.199.67.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|12|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
+|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|14|154.19.38.195|1111|Indonesia|Tangerang|PT Lintas Network Solusi|
+|15|201.149.100.32|8085|Brazil|Cruzeiro do Oeste|Vibe Provedor De Internet Ltda|
+|16|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
+|17|128.199.67.95|8080|Singapore|Singapore|DigitalOcean, LLC|
+|18|182.253.109.168|8080|Indonesia|Semarang|Biznet Metronet|
+|19|13.38.48.111|9090|France|Paris|Amazon Technologies Inc.|
+|20|23.237.210.82|80|United States|Dallas|FDCservers.net|
 
 
 
