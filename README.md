@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
+|2|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
 |3|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|4|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|5|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|6|8.217.37.153|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|7|27.71.136.102|16000|Vietnam|Bảo Lộc|Viettel Group|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|27.71.141.39|16000|Vietnam|Bảo Lộc|Viettel Group|
-|10|27.71.139.184|16000|Vietnam|Bảo Lộc|Viettel Group|
+|4|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|5|8.217.37.153|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|27.71.139.184|16000|Vietnam|Bảo Lộc|Viettel Group|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |11|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|12|52.36.84.247|8888|United States|Portland|Amazon.com, Inc.|
-|13|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
-|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|17|52.36.84.247|8888|United States|Portland|Amazon.com, Inc.|
-|18|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|171.228.185.99|5109|Vietnam|Hanoi|Viettel Corporation|
+|13|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|14|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
+|17|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
+|18|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
+|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
