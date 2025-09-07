@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|4|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
-|5|13.38.48.111|9090|France|Paris|Amazon Technologies Inc.|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|9|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|10|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|11|37.187.135.131|8080|France|Roubaix|OVH SAS|
-|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|13|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|182.253.109.168|8080|Indonesia|Semarang|Biznet Metronet|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|185.112.151.207|8022|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
-|18|103.184.54.93|8080|Indonesia|Krajan Satu Plalangan|PT Proxi Jaringan Nusantara|
-|19|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
-|20|113.188.79.243|5103|Vietnam|Ho Chi Minh City|VNPT|
+|2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|3.110.191.52|8888|India|Mumbai|Amazon Technologies Inc.|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|13.211.35.233|8888|Australia|Sydney|Amazon Technologies Inc.|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|13.200.61.155|8888|India|Mumbai|Amazon.com, Inc.|
+|8|154.23.91.199|8888|Hong Kong|Hong Kong|HONG KONG Megalayer Technology Co., Limited|
+|9|167.71.34.74|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|13.38.48.111|9090|France|Paris|Amazon Technologies Inc.|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|38.49.38.154|8080|United States|Los Angeles|Cogent Communications|
+|13|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|14|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|15|154.23.91.199|8888|Hong Kong|Hong Kong|HONG KONG Megalayer Technology Co., Limited|
+|16|52.36.84.247|8888|United States|Portland|Amazon.com, Inc.|
+|17|85.133.243.3|8080|Iran|Tehran|Web Gostaran Shaina Shiraz LLC|
+|18|37.187.135.131|8080|France|Roubaix|OVH SAS|
+|19|81.46.200.111|8080|Spain|Alcobendas|acens Technologies, S.L.|
+|20|23.237.210.82|80|United States|Dallas|FDCservers.net|
 
 
 
