@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|87|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|87|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|87|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.67.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|13.38.48.111|9090|France|Paris|Amazon Technologies Inc.|
-|4|3.150.77.219|3128|United States|Dublin|Amazon.com, Inc.|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|15.228.191.108|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|3|3.150.77.219|3128|United States|Dublin|Amazon.com, Inc.|
+|4|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|5|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
+|6|15.228.191.108|3128|Brazil|São Paulo|Amazon.com, Inc.|
+|7|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
 |8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|12|103.179.218.14|1080|Indonesia|Pandeglang|PT Wistel Teknologi Solusi|
-|13|154.19.38.195|1111|Indonesia|Tangerang|PT Lintas Network Solusi|
-|14|103.247.14.38|9285|Indonesia|Temanggung|TERABIT|
-|15|103.178.87.42|8080|Indonesia|Parung|PT Adhi Pradana Makayasa|
-|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|18|45.150.128.10|3128|Thailand|Nonthaburi|Siamdata Communication Co., ltd.|
-|19|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|101.108.186.147|8080|Thailand|Nakhon Pathom|TOT Public Company Limited|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|12|168.110.52.228|3128|Japan|Tokyo|Oracle Corporation|
+|13|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|14|185.112.151.207|8022|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
+|15|157.175.43.137|9812|Bahrain|Manama|Amazon.com, Inc.|
+|16|157.175.147.228|10010|Bahrain|Manama|Amazon.com, Inc.|
+|17|103.179.218.14|1080|Indonesia|Pandeglang|PT Wistel Teknologi Solusi|
+|18|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|181.12.169.91|11201|Argentina|Oberá|Telecom Argentina S.A|
+|20|138.99.94.51|8080|Brazil|Ibaretama|Fgtech Informatica Ltda|
 
 
 
