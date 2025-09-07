@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|69|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|69|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|69|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.67.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|3.150.77.219|3128|United States|Dublin|Amazon.com, Inc.|
-|6|16.52.47.20|3128|Canada|Toronto|Amazon.com|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|13.38.48.111|9090|France|Paris|Amazon Technologies Inc.|
-|9|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|3|42.119.2.128|16000|Vietnam|Hanoi|FPT Telecom Company|
+|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|16.52.47.20|3128|Canada|Toronto|Amazon.com|
+|6|3.150.77.219|3128|United States|Dublin|Amazon.com, Inc.|
+|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|8|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |10|15.228.191.108|3128|Brazil|São Paulo|Amazon.com, Inc.|
-|11|200.125.171.77|9991|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|12|103.26.116.138|8080|Indonesia|Malang|PT Parsaoran Global Datatrans|
-|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|14|152.53.194.46|8065|United States|Reston|netcup GmbH|
-|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|16|118.163.120.181|58837|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|17|186.182.6.191|3129|Argentina|Catamarca|Techtel LMDS Comunicaciones Interactivas S.A.|
-|18|128.199.67.95|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|13.38.48.111|9090|France|Paris|Amazon Technologies Inc.|
-|20|152.53.194.46|8065|United States|Reston|netcup GmbH|
+|11|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|157.20.253.195|1111|Indonesia|Jakarta|PT.Global Media Data Prima|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|181.224.226.154|8080|Peru|Lima|Econocable Media SAC|
+|17|46.161.194.93|8085|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|18|103.105.55.180|8080|Indonesia|Yogyakarta|PT. Mega Artha Lintas Data|
+|19|38.190.100.47|999|Peru|San Juan de Lurigancho|Conex TV E.I.R.L.|
+|20|103.35.108.250|2024|Bangladesh|Sirajganj|Ranks ITT|
 
 
 
