@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|3|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|4|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|3|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|4|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
 |5|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|6|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|27.71.139.184|16000|Vietnam|Bảo Lộc|Viettel Group|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|10|42.119.2.128|16000|Vietnam|Hanoi|FPT Telecom Company|
-|11|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
-|12|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
-|13|182.253.109.168|8080|Indonesia|Semarang|Biznet Metronet|
-|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|17|3.110.191.52|8888|India|Mumbai|Amazon Technologies Inc.|
-|18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|19|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
-|20|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|6|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
+|13|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|14|182.253.109.168|8080|Indonesia|Semarang|Biznet Metronet|
+|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|16|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
+|17|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
