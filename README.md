@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
-|2|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|3|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|4|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|5|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
 |8|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|27.71.130.246|16000|Vietnam|Bảo Lộc|Viettel Group|
-|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|27.71.130.246|16000|Vietnam|Bảo Lộc|Viettel Group|
+|14|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
 |15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|164.163.42.39|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|18|43.208.25.125|30008|Thailand|Bangkok|Amazon.com, Inc.|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|17|27.71.142.182|16000|Vietnam|Bảo Lộc|Viettel Group|
+|18|81.46.200.111|8080|Spain|Alcobendas|acens Technologies, S.L.|
+|19|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|20|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
 
 
 
