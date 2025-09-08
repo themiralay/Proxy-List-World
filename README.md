@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|2|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|3|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|4|27.71.130.246|16000|Vietnam|Bảo Lộc|Viettel Group|
-|5|117.6.61.220|16000|Vietnam|Hanoi|VIETTEL|
+|2|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|3|8.217.37.153|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|5|27.71.130.246|16000|Vietnam|Bảo Lộc|Viettel Group|
 |6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|8.217.37.153|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
-|10|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|14|116.203.72.64|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|7|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
+|8|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|117.6.61.220|16000|Vietnam|Hanoi|VIETTEL|
+|11|116.203.72.64|8080|Germany|Nuremberg|Hetzner Online GmbH|
+|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|14|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
 |15|167.71.34.74|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|81.46.200.111|8080|Spain|Alcobendas|acens Technologies, S.L.|
-|19|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|81.46.200.111|8080|Spain|Alcobendas|acens Technologies, S.L.|
+|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|20|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
