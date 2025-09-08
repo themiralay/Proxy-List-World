@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|2|27.71.139.184|16000|Vietnam|Bảo Lộc|Viettel Group|
-|3|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|4|117.6.61.220|16000|Vietnam|Hanoi|VIETTEL|
-|5|27.71.130.246|16000|Vietnam|Bảo Lộc|Viettel Group|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
 |6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
-|8|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|9|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |10|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
-|11|81.46.200.111|8080|Spain|Alcobendas|acens Technologies, S.L.|
-|12|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|13|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|15|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|171.228.185.227|5109|Vietnam|Hanoi|Viettel Corporation|
-|19|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|20|164.163.42.56|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|3.248.8.208|3128|Ireland|Dublin|Amazon Technologies Inc.|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
+|15|81.46.200.111|8080|Spain|Alcobendas|acens Technologies, S.L.|
+|16|27.71.139.184|16000|Vietnam|Bảo Lộc|Viettel Group|
+|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|19|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
 
 
 
