@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
-|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|27.71.130.246|16000|Vietnam|Bảo Lộc|Viettel Group|
-|4|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|14|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|43.208.25.125|30008|Thailand|Bangkok|Amazon.com, Inc.|
-|17|123.157.255.82|3128|China|Quzhou|CNC Group CHINA169 Zhejiang Province Network|
-|18|164.163.42.39|10000|Argentina|Villa Ángela|Interret Villa Angela SRL|
-|19|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
+|8|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|11|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|15|27.71.130.246|16000|Vietnam|Bảo Lộc|Viettel Group|
+|16|81.46.200.111|8080|Spain|Alcobendas|acens Technologies, S.L.|
+|17|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|20|5.202.104.142|3128|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
 
 
 
