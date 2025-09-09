@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|3|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|4|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|172.98.201.190|3128|United States|Dallas|Centrilogic|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|2|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|3|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|4|120.28.198.16|5050|Philippines|Davao City|Globe Telecom|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|8|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
 |9|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
-|13|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
-|14|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|10|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|13|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|17|149.86.146.222|8080|Turkey|Sille|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
 |18|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|20|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|19|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|185.112.151.207|8022|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
 
 
 
