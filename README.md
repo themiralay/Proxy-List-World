@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|3|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|5|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|2|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|3|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|4|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|5|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|6|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
-|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|15|103.141.152.108|8989|Indonesia|Bandung|PRIMACOM|
-|16|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|167.71.34.74|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|9|27.71.130.246|16000|Vietnam|Bảo Lộc|Viettel Group|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
+|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|13|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|14|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|15|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|18|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|19|167.71.34.74|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |20|81.46.200.111|8080|Spain|Alcobendas|acens Technologies, S.L.|
 
 
