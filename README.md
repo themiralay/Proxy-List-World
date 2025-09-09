@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|9|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|3|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|5|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|103.190.60.29|9090|Indonesia|Pekanbaru|SUPERLINK - PT Garuda Super Link|
 |10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|13|27.76.161.81|10007|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
-|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|17|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|19|167.71.34.74|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|11|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
+|12|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
+|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|14|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|15|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|103.215.60.14|8080|Indonesia|Pontianak|PT Uwais Borneo Group|
+|18|103.126.86.122|8080|Indonesia|Karanganyar|PT. Rasi Bintang Perkasa|
+|19|103.150.255.104|43969|Bangladesh|Mātuail|RED ONLINE|
+|20|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 
