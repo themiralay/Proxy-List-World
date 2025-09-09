@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|8.210.175.71|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|4|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|5|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|6|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|5|27.71.130.246|16000|Vietnam|Bảo Lộc|Viettel Group|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|8|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
 |9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|15|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
-|16|27.76.161.81|10007|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|20|81.46.200.111|8080|Spain|Alcobendas|acens Technologies, S.L.|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|13|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
+|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|15|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
+|18|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|19|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
