@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.210.175.71|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|8.217.37.153|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|5|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|6|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|10|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|27.71.130.246|16000|Vietnam|Bảo Lộc|Viettel Group|
-|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
-|15|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|18|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
-|19|81.46.200.111|8080|Spain|Alcobendas|acens Technologies, S.L.|
-|20|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|1|8.210.175.71|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|8.217.37.153|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|4|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|7|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|9|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
+|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|11|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|13|81.46.200.111|8080|Spain|Alcobendas|acens Technologies, S.L.|
+|14|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|15|27.71.130.246|16000|Vietnam|Bảo Lộc|Viettel Group|
+|16|114.141.50.211|8080|Indonesia|Bandung|PT Cyberplus Media Pratama|
+|17|167.71.34.74|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|103.250.69.145|16464|Bangladesh|Azimpur|Next Online Ltd.|
+|20|15.235.132.252|8080|Singapore|Singapore|OVH Hosting|
 
 
 
