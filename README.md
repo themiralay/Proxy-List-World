@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|145|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|145|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|145|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|2|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
 |3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|157.66.84.14|8080|Indonesia|Madiun|Menaksopal Lintas Nusantara|
-|5|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|6|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|7|103.153.96.153|8181|Indonesia|Serang|NITNET|
-|8|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|9|5.202.104.142|3128|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
-|10|103.243.238.20|8080|Bangladesh|Dhaka|Circle Network|
-|11|181.78.216.90|999|Paraguay|General Artigas|Ufinet Paraguay S.A|
-|12|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
-|13|188.132.249.138|8080|Türkiye|Reyhanlı|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|18|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
-|19|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|6|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
+|7|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|8|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|9|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
+|10|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|15.235.132.252|8080|Singapore|Singapore|OVH Hosting|
+|14|167.71.34.74|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|103.189.197.105|8080|Indonesia|Cirebon|PT Graha Sumber Teknologi|
+|17|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|18|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|19|81.90.149.188|3128|Iran|Tehran|Afranet|
+|20|202.154.18.56|8080|Indonesia|Babat|DIGITNET|
 
 
 
