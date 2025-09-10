@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|8.210.175.71|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|4|181.215.18.122|8080|Hong Kong|Tsuen Wan|Datacamp Limited|
-|5|43.156.183.113|443|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|188.166.230.140|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|1.52.143.124|16000|Vietnam|Ho Chi Minh City|FPTDYNAMICIP|
-|8|27.71.132.77|16000|Vietnam|Bảo Lộc|Viettel Group|
-|9|27.73.168.107|8000|Vietnam|Quảng Ninh|Newass2011xDSLHN|
-|10|27.79.202.19|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|5|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|6|1.52.143.124|16000|Vietnam|Ho Chi Minh City|FPTDYNAMICIP|
+|7|8.217.37.153|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|188.166.230.140|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|27.79.179.38|16000|Vietnam|Hanoi|Viettel Corporation|
+|10|27.71.132.77|16000|Vietnam|Bảo Lộc|Viettel Group|
 |11|113.22.134.211|12016|Vietnam|Hanoi|FPT Telecom Company|
-|12|8.217.37.153|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|27.79.179.38|16000|Vietnam|Hanoi|Viettel Corporation|
-|14|117.5.240.250|8000|Vietnam|Hanoi|VIETTEL|
-|15|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|16|27.76.212.234|8000|Vietnam|Hanoi|Viettel Group|
+|12|27.73.168.107|8000|Vietnam|Quảng Ninh|Newass2011xDSLHN|
+|13|27.76.212.228|8000|Vietnam|Hanoi|Viettel Group|
+|14|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|205.185.125.238|80|United States|Las Vegas|FranTech Solutions|
+|16|15.235.132.252|8080|Singapore|Singapore|OVH Hosting|
 |17|14.235.71.53|8080|Vietnam|Bắc Giang|VNPT|
-|18|117.5.244.97|8000|Vietnam|Hanoi|VIETTEL|
-|19|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|205.185.120.162|80|United States|Las Vegas|FranTech Solutions|
+|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|20|205.185.114.191|80|United States|Las Vegas|FranTech Solutions|
 
 
 
