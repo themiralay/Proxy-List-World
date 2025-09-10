@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.217.37.153|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|1|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|2|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|3|8.217.37.153|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |4|8.210.175.71|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|6|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|7|193.46.217.79|3128|United States|Fremont|ZhouyiSat Communications|
-|8|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|14.235.71.53|8080|Vietnam|Bắc Giang|VNPT|
-|10|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
-|11|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|14|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|15|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|18|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
-|19|142.171.48.249|3128|United States|Los Angeles|Multacom Corporation|
-|20|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|5|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|6|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|43.156.183.113|443|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|14.235.71.53|8080|Vietnam|Bắc Giang|VNPT|
+|12|171.228.118.208|1001|Vietnam|Hòa Bình|Viettel Corporation|
+|13|193.46.217.79|3128|United States|Fremont|ZhouyiSat Communications|
+|14|103.159.220.215|8080|Indonesia|Jakarta|Universitas Muhammadiyah Jakarta|
+|15|85.131.243.125|3128|Japan|Chiyoda City|Xserver Inc.|
+|16|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|17|103.81.194.167|8080|Indonesia|Ciampea|PT Rtiga Global Media|
+|18|157.66.251.227|8080|Indonesia|Pasararba|PT Haykal Solutions Technology|
+|19|193.122.140.56|3128|United States|Ashburn|Oracle Corporation|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
