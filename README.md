@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|8.210.175.71|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|14.235.71.53|8080|Vietnam|Bắc Giang|VNPT|
-|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|8|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|13|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
-|14|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|16|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
-|17|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|43.208.251.198|1080|Thailand|Bangkok|Amazon.com, Inc.|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|43.156.183.113|443|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
+|7|14.235.71.53|8080|Vietnam|Bắc Giang|VNPT|
+|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|11|47.88.105.97|1080|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|12|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|19|18.143.173.102|30045|Singapore|Singapore|Amazon Technologies Inc.|
+|20|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
 
 
 
