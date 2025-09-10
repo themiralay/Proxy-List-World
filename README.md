@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|14.235.71.53|8080|Vietnam|Bắc Giang|VNPT|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
-|5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|8|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
-|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|10|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|11|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|12|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|13|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|14|18.143.165.238|86|Singapore|Singapore|Amazon Technologies Inc.|
-|15|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|167.71.34.74|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|19|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|1|8.210.175.71|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|4|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|14.235.71.53|8080|Vietnam|Bắc Giang|VNPT|
+|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
+|13|50.28.85.14|3128|United States|Lansing|Liquid Web, L.L.C|
+|14|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|18|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
 
 
 
