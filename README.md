@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|8.217.37.153|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
-|6|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|5|142.171.48.249|3128|United States|Los Angeles|Multacom Corporation|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|14|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
-|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|15|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
+|16|167.71.34.74|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |18|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|167.71.34.74|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|19|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
