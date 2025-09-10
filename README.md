@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|3|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|6|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|7|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|2|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|4|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|222.165.205.156|8089|Indonesia|Jakarta|PT NettoCyber Indonesia|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
 |9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
+|10|103.130.129.114|10001|Indonesia|Cibinong|PT. Eka Mas Republik|
+|11|143.198.147.156|8888|United States|Santa Clara|DigitalOcean, LLC|
+|12|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |14|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
-|15|167.71.34.74|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|19|15.235.132.252|8080|Singapore|Singapore|OVH Hosting|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|103.215.60.14|8080|Indonesia|Pontianak|PT Uwais Borneo Group|
+|19|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
+|20|167.71.34.74|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
