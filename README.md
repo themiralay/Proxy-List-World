@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|3|8.210.175.71|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|8.217.37.153|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|103.21.220.141|3128|Canada|Fergus|Leaseweb Hong Kong Limited|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|8|14.235.71.53|8080|Vietnam|Bắc Giang|VNPT|
-|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|10|27.76.161.81|10007|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|11|157.66.16.36|5568|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|12|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|13|103.179.252.74|8181|Indonesia|Bandilan Krajan|PT Pusaka Kreasi Mandiri|
-|14|117.247.233.48|8080|India|Jaipur|BSNL Internet|
-|15|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
-|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|19|150.107.136.205|39843|Indonesia|Jakarta|PT. Media Antar Nusa|
-|20|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|2|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
+|3|8.217.37.153|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|103.21.220.141|3128|Canada|Fergus|Leaseweb Hong Kong Limited|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|7|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|9|14.235.71.53|8080|Vietnam|Bắc Giang|VNPT|
+|10|8.210.175.71|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|11|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|12|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
+|13|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
+|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|15|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|18|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|20|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
 
 
 
