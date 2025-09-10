@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|2|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|3|103.188.169.160|7777|Indonesia|Kelodan|PT Lintas Jaringan Nusantara|
-|4|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|5|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|10|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
-|11|170.78.208.241|999|Mexico|San Juan del Río|Wantelco SAS de CV|
-|12|167.71.34.74|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|14|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|15|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|16|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
-|17|177.234.194.30|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|18|2.139.62.85|3128|Spain|Madrid|RIMA (Red IP Multi Acceso)|
-|19|149.86.159.4|8080|Turkey|Sille|Gibirnet Iletisim Hizmetleri Sanayi VE Ticaret Limited Sirketi|
-|20|38.253.80.25|999|Peru|Lima|Corporacion Tarazona Catv S.A.C.|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|3|122.52.170.254|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|8|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
+|17|157.151.157.214|8080|United States|Ashburn|Oracle Corporation|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
 
 
 
