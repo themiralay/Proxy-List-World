@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|3|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|4|8.217.37.153|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|8.217.37.153|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |5|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|6|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|7|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 |8|14.235.71.53|8080|Vietnam|Bắc Giang|VNPT|
-|9|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|36.95.173.90|8899|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
-|13|81.90.149.188|3128|Iran|Tehran|Afranet|
-|14|41.65.160.173|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|15|18.143.165.238|86|Singapore|Singapore|Amazon Technologies Inc.|
-|16|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|17|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|18|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|19|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|20|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|11|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|12|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|13|47.88.105.97|1080|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|15|47.88.105.97|1080|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|16|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|17|188.132.150.68|8080|Turkey|Kilis|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|18|171.241.7.116|20046|Vietnam|Hanoi|Viettel Corporation|
+|19|167.71.34.74|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
 
 
 
