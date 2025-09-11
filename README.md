@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|47.82.66.158|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|8.210.175.71|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|6|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|8|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|104.199.125.151|3128|United States|The Dalles|Google LLC|
-|10|34.16.238.28|3128|United States|Las Vegas|Google LLC|
-|11|34.72.74.97|3128|United States|Council Bluffs|Google LLC|
-|12|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|13|104.199.125.151|3128|United States|The Dalles|Google LLC|
-|14|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|15|14.235.71.53|8080|Vietnam|Bắc Giang|VNPT|
-|16|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|17|34.16.238.28|3128|United States|Las Vegas|Google LLC|
-|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|19|43.156.183.113|443|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|4|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|104.199.125.151|3128|United States|The Dalles|Google LLC|
+|7|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|34.16.238.28|3128|United States|Las Vegas|Google LLC|
+|9|34.72.74.97|3128|United States|Council Bluffs|Google LLC|
+|10|104.199.125.151|3128|United States|The Dalles|Google LLC|
+|11|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|12|14.235.71.53|8080|Vietnam|Bắc Giang|VNPT|
+|13|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
+|14|34.16.238.28|3128|United States|Las Vegas|Google LLC|
+|15|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|16|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
+|17|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|18|34.72.74.97|3128|United States|Council Bluffs|Google LLC|
+|19|212.227.55.218|3128|Germany|Berlin|IONOS SE|
+|20|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
 
 
 
