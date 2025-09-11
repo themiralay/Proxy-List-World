@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.210.175.71|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|3|8.210.175.71|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|47.82.66.158|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|7|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
 |8|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|10|119.18.146.114|8443|Bangladesh|Nowlamary|BBTS Network|
-|11|47.79.93.202|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|12|47.82.66.158|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|13|116.98.41.153|1452|Vietnam|Hanoi|Viettel Corporation|
-|14|43.208.251.198|1080|Thailand|Bangkok|Amazon.com, Inc.|
-|15|103.247.22.15|1111|Indonesia|Cikarang|PT wifian Solution|
-|16|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|17|31.15.169.77|808|Slovenia|Šentjur pri Celju|Telemach Slovenija d.o.o.|
-|18|134.199.192.31|1337|United States|Douglasville|DigitalOcean, LLC|
-|19|38.188.48.73|8080|Venezuela|Tucacas|HHNETWORK T, C.A.|
-|20|209.141.57.216|80|United States|Las Vegas|FranTech Solutions|
+|9|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
+|10|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|11|15.235.132.252|8080|Singapore|Singapore|OVH Hosting|
+|12|43.208.25.125|30008|Thailand|Bangkok|Amazon.com, Inc.|
+|13|118.27.111.97|80|Japan|Chiyoda City|GMO Internet, Inc.|
+|14|223.204.51.63|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|15|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|16|134.199.192.31|1337|United States|Douglasville|DigitalOcean, LLC|
+|17|119.18.146.114|8443|Bangladesh|Nowlamary|BBTS Network|
+|18|47.82.66.158|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|19|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
