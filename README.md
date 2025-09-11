@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|27.64.74.194|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|2|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|3|27.64.74.194|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
-|7|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|9|14.235.71.53|8080|Vietnam|Bắc Giang|VNPT|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|14.235.71.53|8080|Vietnam|Bắc Giang|VNPT|
 |11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|12|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|13|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|16|2.56.172.45|3128|Serbia|Belgrade|PQ HOSTING PLUS S.R.L.|
-|17|103.153.149.133|8080|Indonesia|Weleri|JARINGANKU|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|20|35.224.157.191|8080|United States|Council Bluffs|Google LLC|
+|12|2.56.172.45|3128|Serbia|Belgrade|PQ HOSTING PLUS S.R.L.|
+|13|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|15|35.224.157.191|8080|United States|Council Bluffs|Google LLC|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|18|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
 
 
 
