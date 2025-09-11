@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.210.175.71|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|2|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
 |3|8.217.37.153|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |4|1.52.143.124|16000|Vietnam|Ho Chi Minh City|FPTDYNAMICIP|
-|5|188.166.230.140|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|7|27.79.202.19|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|9|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|10|14.235.71.53|8080|Vietnam|Bắc Giang|VNPT|
-|11|27.71.132.77|16000|Vietnam|Bảo Lộc|Viettel Group|
-|12|205.185.114.191|80|United States|Las Vegas|FranTech Solutions|
-|13|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|171.224.255.0|12016|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|17|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
-|18|205.185.120.49|80|United States|Las Vegas|FranTech Solutions|
-|19|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|6|27.71.132.77|16000|Vietnam|Bảo Lộc|Viettel Group|
+|7|205.185.114.191|80|United States|Las Vegas|FranTech Solutions|
+|8|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|9|14.235.71.53|8080|Vietnam|Bắc Giang|VNPT|
+|10|27.79.202.19|16000|Vietnam|Hanoi|Viettel Corporation|
+|11|205.185.120.49|80|United States|Las Vegas|FranTech Solutions|
+|12|116.97.13.69|12016|Vietnam|Hanoi|ETC(ENET) Company|
+|13|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|8.210.175.71|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|15|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|16|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
+|17|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|18|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
+|19|205.185.125.238|80|United States|Las Vegas|FranTech Solutions|
+|20|205.185.120.49|80|United States|Las Vegas|FranTech Solutions|
 
 
 
