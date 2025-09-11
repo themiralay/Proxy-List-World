@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
 |5|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|6|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
-|7|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|9|50.28.85.14|3128|United States|Lansing|Liquid Web, L.L.C|
-|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|11|14.235.71.53|8080|Vietnam|Bắc Giang|VNPT|
-|12|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|13|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
-|14|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|15|50.28.85.14|3128|United States|Lansing|Liquid Web, L.L.C|
-|16|191.13.221.231|8888|Brazil|Americana|Vivo|
-|17|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|18|167.71.34.74|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|43.208.251.198|1080|Thailand|Bangkok|Amazon.com, Inc.|
-|20|15.235.132.252|8080|Singapore|Singapore|OVH Hosting|
+|6|50.28.85.14|3128|United States|Lansing|Liquid Web, L.L.C|
+|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|8|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
+|9|14.235.71.53|8080|Vietnam|Bắc Giang|VNPT|
+|10|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
+|11|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
+|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|13|50.28.85.14|3128|United States|Lansing|Liquid Web, L.L.C|
+|14|15.235.132.252|8080|Singapore|Singapore|OVH Hosting|
+|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|16|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|17|191.13.221.231|8888|Brazil|Americana|Vivo|
+|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
