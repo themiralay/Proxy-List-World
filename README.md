@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|8.210.175.71|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|14.235.71.53|8080|Vietnam|Bắc Giang|VNPT|
-|4|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
+|3|8.217.37.153|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
 |5|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|27.79.202.19|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|9|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|10|45.225.120.36|40033|Brazil|Aracaju|Centrosulnet Informatica Eireli|
-|11|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|12|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|13|35.224.157.191|8080|United States|Council Bluffs|Google LLC|
-|14|157.66.84.1|8080|Indonesia|Madiun|Menaksopal Lintas Nusantara|
-|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|16|103.215.60.14|8080|Indonesia|Pontianak|PT Uwais Borneo Group|
-|17|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|18|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|19|51.161.197.172|6542|Australia|Sydney|OVH SAS|
-|20|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
+|9|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|14.235.71.53|8080|Vietnam|Bắc Giang|VNPT|
+|11|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|13|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
+|14|103.239.200.210|34567|Philippines|San Juan|Sky Cable Corporation|
+|15|122.54.193.69|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|16|38.194.251.180|999|Mexico|Amealco|Cogent Communications|
+|17|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|19|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
