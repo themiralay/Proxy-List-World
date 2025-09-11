@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|43.156.183.113|443|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|4|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
-|5|14.235.71.53|8080|Vietnam|Bắc Giang|VNPT|
-|6|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|7|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|8|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|9|15.235.132.252|8080|Singapore|Singapore|OVH Hosting|
-|10|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|11|167.71.34.74|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|35.224.157.191|8080|United States|Council Bluffs|Google LLC|
-|13|222.127.227.102|8082|Philippines|Iloilo City|GLBB|
-|14|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|17|81.90.149.188|3128|Iran|Tehran|Afranet|
-|18|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|8.217.37.153|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|47.88.105.97|1080|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|5|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|6|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|9|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|11|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|12|14.235.71.53|8080|Vietnam|Bắc Giang|VNPT|
+|13|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|47.88.105.97|1080|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
+|15|35.224.157.191|8080|United States|Council Bluffs|Google LLC|
+|16|171.241.7.116|20046|Vietnam|Hanoi|Viettel Corporation|
+|17|35.224.157.191|8080|United States|Council Bluffs|Google LLC|
+|18|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|20|103.48.71.46|83|India|Hyderabad|Country Online Services PVT LTD|
 
 
 
