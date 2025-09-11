@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|8.210.175.71|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|8.217.37.153|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|43.156.183.113|443|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|6|27.79.202.19|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|103.21.220.141|3128|Canada|Fergus|Leaseweb Hong Kong Limited|
-|9|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
-|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|13|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
-|14|27.76.161.81|10007|Vietnam|Hanoi|Newass2011xDSLHCMC|
-|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|16|167.71.34.74|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|18|103.125.174.5|8080|Indonesia|Parit Kali Patopah|PT Trinity Teknologi Nusantara|
-|19|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|20|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|4|103.21.220.141|3128|Canada|Fergus|Leaseweb Hong Kong Limited|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|8|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|9|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|10|14.235.71.53|8080|Vietnam|Bắc Giang|VNPT|
+|11|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|13|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|14|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|15|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|16|147.135.222.208|3128|France|Strasbourg|OVH SAS|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|19|18.143.173.102|30045|Singapore|Singapore|Amazon Technologies Inc.|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
