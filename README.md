@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|2|8.217.37.153|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |3|8.210.175.71|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|8.217.37.153|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|4|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |6|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|103.124.137.99|8080|Indonesia|Jakarta|Global Media Data Prima|
+|7|14.235.71.53|8080|Vietnam|Bắc Giang|VNPT|
+|8|27.79.202.19|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |10|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|11|14.235.71.53|8080|Vietnam|Bắc Giang|VNPT|
-|12|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
-|13|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|11|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
+|12|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|13|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
 |14|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
-|15|185.144.158.1|80|United States|Miami|Kamatera, Inc.|
-|16|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|17|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|18|38.194.251.180|999|Mexico|Amealco|Cogent Communications|
-|19|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|20|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|15|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|16|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|17|167.71.34.74|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|19|18.143.173.102|30045|Singapore|Singapore|Amazon Technologies Inc.|
+|20|5.202.104.142|3128|Iran|Tehran|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
 
 
 
