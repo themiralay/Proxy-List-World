@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|47.79.93.202|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|4|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|11|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
-|12|14.235.71.53|8080|Vietnam|Bắc Giang|VNPT|
-|13|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|14|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|15|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
-|16|191.13.221.231|8888|Brazil|Americana|Vivo|
-|17|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|185.112.151.207|8022|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
-|20|15.235.132.252|8080|Singapore|Singapore|OVH Hosting|
+|2|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|3|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|4|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|5|14.235.71.53|8080|Vietnam|Bắc Giang|VNPT|
+|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|14|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
+|15|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|16|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|17|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|18|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
+|19|167.71.34.74|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
 
 
 
