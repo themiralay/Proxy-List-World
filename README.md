@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|14.235.71.53|8080|Vietnam|Bắc Giang|VNPT|
-|6|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|2|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|14.235.71.53|8080|Vietnam|Bắc Giang|VNPT|
+|8|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
 |9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|12|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
-|13|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|14|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
-|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|18|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|19|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
-|20|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
+|13|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
+|14|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|15|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|16|191.13.221.231|8888|Brazil|Americana|Vivo|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|43.208.251.198|1080|Thailand|Bangkok|Amazon.com, Inc.|
+|19|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|20|35.224.157.191|8080|United States|Council Bluffs|Google LLC|
 
 
 
