@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|8.210.175.71|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|188.166.230.140|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
-|5|27.71.132.77|16000|Vietnam|Bảo Lộc|Viettel Group|
-|6|181.215.18.122|8080|Hong Kong|Tsuen Wan|Datacamp Limited|
-|7|8.217.37.153|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|4|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|5|188.166.230.140|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|27.71.132.77|16000|Vietnam|Bảo Lộc|Viettel Group|
+|7|27.79.202.19|16000|Vietnam|Hanoi|Viettel Corporation|
 |8|1.52.143.124|16000|Vietnam|Ho Chi Minh City|FPTDYNAMICIP|
-|9|27.79.202.19|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|11|116.97.13.69|12016|Vietnam|Hanoi|ETC(ENET) Company|
-|12|205.185.114.191|80|United States|Las Vegas|FranTech Solutions|
-|13|14.235.71.53|8080|Vietnam|Bắc Giang|VNPT|
-|14|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
-|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|16|205.185.120.162|80|United States|Las Vegas|FranTech Solutions|
-|17|205.185.120.49|80|United States|Las Vegas|FranTech Solutions|
-|18|205.185.125.238|80|United States|Las Vegas|FranTech Solutions|
-|19|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|8.217.37.153|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|10|116.97.13.69|12016|Vietnam|Hanoi|ETC(ENET) Company|
+|11|205.185.120.162|80|United States|Las Vegas|FranTech Solutions|
+|12|205.185.125.238|80|United States|Las Vegas|FranTech Solutions|
+|13|205.185.114.191|80|United States|Las Vegas|FranTech Solutions|
+|14|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
+|18|205.185.120.49|80|United States|Las Vegas|FranTech Solutions|
+|19|14.235.71.53|8080|Vietnam|Bắc Giang|VNPT|
+|20|205.185.114.191|80|United States|Las Vegas|FranTech Solutions|
 
 
 
