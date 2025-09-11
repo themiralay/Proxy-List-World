@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|8.217.37.153|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|27.79.202.19|16000|Vietnam|Hanoi|Viettel Corporation|
-|4|27.71.132.77|16000|Vietnam|Bảo Lộc|Viettel Group|
-|5|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|6|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
-|7|14.235.71.53|8080|Vietnam|Bắc Giang|VNPT|
-|8|13.211.35.233|8888|Australia|Sydney|Amazon Technologies Inc.|
-|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|4|13.211.35.233|8888|Australia|Sydney|Amazon Technologies Inc.|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|14.235.71.53|8080|Vietnam|Bắc Giang|VNPT|
+|7|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|8|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|10|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
 |11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
-|13|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
-|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|15|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|17|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|18|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|19|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|20|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
+|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|14|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
+|16|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|17|8.222.128.50|9119|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|159.69.57.20|8880|Germany|Falkenstein|Hetzner Online GmbH|
+|19|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|20|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
