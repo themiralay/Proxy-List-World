@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|3|8.210.175.71|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|2|8.210.175.71|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|8.217.37.153|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|103.21.220.141|3128|Canada|Fergus|Leaseweb Hong Kong Limited|
 |5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|14.235.71.53|8080|Vietnam|Bắc Giang|VNPT|
-|7|103.21.220.141|3128|Canada|Fergus|Leaseweb Hong Kong Limited|
-|8|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
-|9|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|7|50.28.85.14|3128|United States|Lansing|Liquid Web, L.L.C|
+|8|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|10|14.241.80.37|8080|Vietnam|Hanoi|VNPT|
 |11|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|14|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|16|15.235.132.252|8080|Singapore|Singapore|OVH Hosting|
-|17|35.224.157.191|8080|United States|Council Bluffs|Google LLC|
-|18|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|19|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|20|103.193.144.42|8085|Indonesia|Pangkalan Brandan|PT Lintas Jaringan Nusantara|
+|12|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
+|13|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|14|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|15|50.28.85.14|3128|United States|Lansing|Liquid Web, L.L.C|
+|16|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|17|14.235.71.53|8080|Vietnam|Bắc Giang|VNPT|
+|18|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|19|171.241.7.116|20046|Vietnam|Hanoi|Viettel Corporation|
+|20|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
