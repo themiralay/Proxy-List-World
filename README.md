@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.210.175.71|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|3.150.54.120|3128|United States|Dublin|Amazon.com, Inc.|
-|6|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
-|7|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|1|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|43.156.183.113|443|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |8|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
 |9|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|10|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
-|11|3.150.54.120|3128|United States|Dublin|Amazon.com, Inc.|
-|12|182.253.109.14|8080|Indonesia|Semarang|Biznet Metronet|
-|13|31.97.105.167|3128|Indonesia|Jakarta|Hostinger International Limited|
-|14|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|16|103.167.12.179|8080|Indonesia|Pekanbaru|PT. Fiber Networks Indonesia|
-|17|186.190.225.152|999|Colombia|San José del Guaviare|TV AZTECA SUCURSAL COLOMBIA|
-|18|46.45.108.149|3128|Poland|Ostrowiec Świętokrzyski|Sieci Blokowe S.C.|
-|19|202.154.19.165|8080|Indonesia|Ngoro|DIGITNET|
-|20|15.235.132.252|8080|Singapore|Singapore|OVH Hosting|
+|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|11|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|12|52.6.104.222|8888|United States|Ashburn|Amazon.com, Inc.|
+|13|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|14|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|17|179.61.251.217|8080|Germany|Frankfurt am Main|Collin Schneeweiss trading as Unesty Company|
+|18|74.207.235.213|1221|United States|Atlanta|Akamai Technologies, Inc.|
+|19|168.205.2.6|8089|Argentina|Villa Angelica|Alvarez Cable Hogar S.A.|
+|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 
 
 
