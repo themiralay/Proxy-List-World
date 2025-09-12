@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
+|2|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
 |3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|7|103.155.198.253|8006|Indonesia|Cileungsir|PT Lintas Jaringan Nusantara|
+|4|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|5|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
 |8|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |9|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|12|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|13|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
-|16|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|17|8.210.175.71|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|11|8.210.175.71|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|12|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|13|47.82.66.158|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 |19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|20|165.16.27.42|1981|Libya|Benghazi|Aljeel Aljadeed For Technology|
 
 
 
