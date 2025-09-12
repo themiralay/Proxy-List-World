@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.210.175.71|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|5|47.82.66.158|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|7|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|8|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|3|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|6|43.156.183.113|443|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|7|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|12|15.235.132.252|8080|Singapore|Singapore|OVH Hosting|
+|10|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|11|152.53.194.46|8065|United States|Reston|netcup GmbH|
+|12|20.2.83.243|3128|Hong Kong|Hong Kong|Microsoft Corporation|
 |13|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|14|160.25.48.33|9090|Indonesia|Bangsal Aceh|PT Shs Solusindo Network|
-|15|210.79.146.106|8090|Indonesia|Situbondo|PT Petabyte Network Indonesia|
-|16|152.53.194.46|8065|United States|Reston|netcup GmbH|
-|17|167.71.34.74|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
-|19|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
-|20|85.235.150.219|3128|Italy|Arezzo|Aruba S.p.A.|
+|14|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|15|160.25.48.33|9090|Indonesia|Bangsal Aceh|PT Shs Solusindo Network|
+|16|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|17|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|18|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|19|177.86.207.2|42864|Brazil|Bom Despacho|Zap Online Ltda|
+|20|134.199.192.31|1337|United States|Douglasville|DigitalOcean, LLC|
 
 
 
