@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|3|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|8.210.175.71|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|47.82.66.158|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|7|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|8|140.112.90.49|3128|Taiwan|Taipei|T-NTU.EDU.TW|
-|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|10|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|12|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|7|140.112.90.49|3128|Taiwan|Taipei|T-NTU.EDU.TW|
+|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|9|47.79.93.202|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|10|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|11|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|12|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
 |13|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
 |14|182.253.109.14|8080|Indonesia|Semarang|Biznet Metronet|
-|15|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|157.66.26.11|8888|Vietnam|Quận Phú Nhuận|Trumvps Company Limited|
-|18|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|19|15.235.132.252|8080|Singapore|Singapore|OVH Hosting|
-|20|43.208.251.198|1080|Thailand|Bangkok|Amazon.com, Inc.|
+|15|176.9.1.226|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|16|217.154.200.53|3129|Germany|Berlin|IONOS SE|
+|17|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|18|103.150.255.123|43969|Bangladesh|Mātuail|RED ONLINE|
+|19|134.199.192.31|1337|United States|Douglasville|DigitalOcean, LLC|
+|20|134.199.192.31|1337|United States|Douglasville|DigitalOcean, LLC|
 
 
 
