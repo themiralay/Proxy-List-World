@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.210.175.71|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|5|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|6|57.128.133.70|3128|United Kingdom|City of London|OVH SAS|
-|7|182.253.109.14|8080|Indonesia|Semarang|Biznet Metronet|
-|8|13.60.92.114|3128|Sweden|Stockholm|Amazon.com, Inc.|
-|9|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|10|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|11|13.60.12.206|3128|Sweden|Stockholm|Amazon.com, Inc.|
-|12|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|13|15.235.132.252|8080|Singapore|Singapore|OVH Hosting|
-|14|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|15|140.112.90.49|3128|Taiwan|Taipei|T-NTU.EDU.TW|
-|16|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|17|217.154.200.53|3129|Germany|Berlin|IONOS SE|
-|18|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|19|167.71.34.74|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|45.77.156.171|9091|United States|Piscataway|The Constant Company|
+|2|8.217.37.153|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|8.210.175.71|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|5|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|6|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|9|182.253.109.14|8080|Indonesia|Semarang|Biznet Metronet|
+|10|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
+|11|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
+|12|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|13|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|15|57.128.133.70|3128|United Kingdom|City of London|OVH SAS|
+|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|17|13.60.92.114|3128|Sweden|Stockholm|Amazon.com, Inc.|
+|18|13.60.12.206|3128|Sweden|Stockholm|Amazon.com, Inc.|
+|19|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|20|47.88.105.97|1080|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
 
 
 
