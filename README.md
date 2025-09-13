@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|140.112.90.49|3128|Taiwan|Xindian District|T-NTU.EDU.TW|
-|3|8.217.37.153|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|4|8.210.175.71|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|8|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|9|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|12|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|13|8.210.175.71|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|185.112.151.207|8022|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
-|17|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|18|140.112.90.49|3128|Taiwan|Xindian District|T-NTU.EDU.TW|
-|19|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
-|20|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|8|8.217.37.153|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|10|38.225.225.20|8080|Colombia|Medellín|Somos Networks Colombia S.a.s. BIC|
+|11|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|12|103.247.23.76|8081|Indonesia|Cilacap|PT wifian Solution|
+|13|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|15|134.199.192.31|1081|United States|Douglasville|DigitalOcean, LLC|
+|16|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|17|103.141.67.50|51935|Bangladesh|Dhaka|Link3 Technologies Limited|
+|18|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|19|140.112.90.49|3128|Taiwan|Xindian District|T-NTU.EDU.TW|
+|20|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
 
 
 
