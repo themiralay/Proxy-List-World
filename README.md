@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|2|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
 |3|8.217.37.153|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|5|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|6|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|4|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|5|8.210.175.71|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
 |7|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|8|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
-|9|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|10|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|13|38.225.225.20|8080|Colombia|Medellín|Somos Networks Colombia S.a.s. BIC|
-|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|17|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
-|18|167.71.34.74|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|152.53.66.81|3128|Austria|Vienna|netcup GmbH|
-|20|8.210.175.71|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|9|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|12|38.225.225.20|8080|Colombia|Medellín|Somos Networks Colombia S.a.s. BIC|
+|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|152.53.66.81|3128|Austria|Vienna|netcup GmbH|
+|16|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|17|209.14.98.5|8080|Colombia|Repelón|AGIS|
+|18|45.77.156.171|9091|United States|Piscataway|The Constant Company|
+|19|134.199.192.31|2000|United States|Douglasville|DigitalOcean, LLC|
+|20|95.47.239.65|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
 
 
 
