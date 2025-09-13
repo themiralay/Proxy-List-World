@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|8.217.37.153|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|8.210.175.71|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|8.217.37.153|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|3|8.210.175.71|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|4|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
 |5|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|11|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|12|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|15|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|16|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|17|47.88.105.97|1080|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|18|134.199.192.31|1080|United States|Douglasville|DigitalOcean, LLC|
-|19|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|20|103.134.246.42|3172|Indonesia|Banjar Soka Kaja|Wisuandha Network Globalindo|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|7|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|8|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
+|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|14|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|18|114.9.27.246|8080|Indonesia|Kebomas|PT. INDOSAT Tbk|
+|19|205.185.120.162|80|United States|Las Vegas|FranTech Solutions|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
