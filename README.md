@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|387|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|387|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|387|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|43.156.183.113|443|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |4|123.18.234.178|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|8|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|5|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|6|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|7|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|8|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
 |9|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|10|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|11|189.232.98.21|8080|Mexico|Atitalaquia|UNINET|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|14|38.194.231.70|999|Mexico|Tequixquiac|Cogent Communications|
-|15|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
-|16|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|200.24.146.97|8080|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|20|164.163.73.153|999|Honduras|Santa Rosa de Copán|Grupo Inma S.A|
+|10|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|168.231.75.7|8080|United States|Boston|HOSTINGER US|
+|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|16|38.225.225.20|8080|Colombia|Medellín|Somos Networks Colombia S.a.s. BIC|
+|17|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
+|18|164.163.73.153|999|Honduras|Santa Rosa de Copán|Grupo Inma S.A|
+|19|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
