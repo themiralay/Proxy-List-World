@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|386|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|386|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|386|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|140.112.90.49|3128|Taiwan|Xindian District|T-NTU.EDU.TW|
+|5|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
 |6|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
 |7|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|8|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
-|9|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|13|152.53.194.46|8065|United States|Manassas|netcup GmbH|
-|14|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|123.18.234.178|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|144.124.228.87|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|19|43.225.148.234|8989|Bangladesh|Tongi|Next Online|
-|20|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|140.112.90.49|3128|Taiwan|Xindian District|T-NTU.EDU.TW|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|119.92.142.172|5050|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|12|123.18.234.178|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|16|115.147.16.205|5050|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|17|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|18|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
+|19|146.196.98.50|37777|Indonesia|Bekasi|PT Maxindo Mitra Solusi|
+|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
