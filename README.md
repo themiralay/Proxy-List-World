@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|4|140.112.90.49|3128|Taiwan|Xindian District|T-NTU.EDU.TW|
-|5|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|11|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|12|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
-|13|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|14|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|15|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|46.202.179.233|8080|United States|Boston|Hostinger International Limited|
-|18|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|19|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
-|20|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|2|140.112.90.49|3128|Taiwan|Xindian District|T-NTU.EDU.TW|
+|3|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|6|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|7|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|10|124.217.47.48|8080|Philippines|Calamba|Philippine Long Distance Telephone Co.|
+|11|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|12|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|13|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
+|14|152.53.194.46|8065|United States|Manassas|netcup GmbH|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|217.160.224.54|8118|Germany|Berlin|IONOS SE|
+|17|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|18|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|19|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|20|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
