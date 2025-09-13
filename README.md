@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
 |3|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|4|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|3.150.77.219|3128|United States|Dublin|Amazon.com, Inc.|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|3.150.77.219|3128|United States|Dublin|Amazon.com, Inc.|
-|9|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|10|37.220.83.49|8080|Germany|Frankfurt am Main|Timeweb, LLP|
-|11|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|134.199.192.31|2000|United States|Douglasville|DigitalOcean, LLC|
-|14|157.20.157.24|8080|Indonesia|Madiun|PT Ismaya Djati Nuswantara|
-|15|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|16|134.199.192.31|2000|United States|Douglasville|DigitalOcean, LLC|
-|17|157.180.121.252|33839|Finland|Helsinki|Hetzner Online GmbH|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|20|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|8|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|9|157.180.121.252|33839|Finland|Helsinki|Hetzner Online GmbH|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|38.225.225.20|8080|Colombia|Medellín|Somos Networks Colombia S.a.s. BIC|
+|14|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
+|15|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|16|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|17|134.199.192.31|2000|United States|Douglasville|DigitalOcean, LLC|
+|18|157.180.121.252|33839|Finland|Helsinki|Hetzner Online GmbH|
+|19|157.180.121.252|33839|Finland|Helsinki|Hetzner Online GmbH|
+|20|157.180.121.252|33839|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
