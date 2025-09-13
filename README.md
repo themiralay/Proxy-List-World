@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|394|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|394|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|394|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
-|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|4|123.18.234.178|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
 |5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|7|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|14|189.232.98.21|8080|Mexico|Atitalaquia|UNINET|
-|15|38.194.231.70|999|Mexico|Tequixquiac|Cogent Communications|
-|16|103.160.205.230|8080|Indonesia|Pendaleman|PRIME|
-|17|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
-|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|9|123.18.234.178|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|189.232.98.21|8080|Mexico|Atitalaquia|UNINET|
+|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|13|38.194.231.70|999|Mexico|Tequixquiac|Cogent Communications|
+|14|15.235.132.252|8080|Singapore|Singapore|OVH Hosting|
+|15|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|16|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
+|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|168.231.75.7|8080|United States|Boston|HOSTINGER US|
+|19|164.163.73.153|999|Honduras|Santa Rosa de Copán|Grupo Inma S.A|
+|20|181.78.202.29|8080|Ecuador|Quito|Ufinet Panama S.A.|
 
 
 
