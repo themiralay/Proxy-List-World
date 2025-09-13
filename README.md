@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|3|8.210.175.71|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|14|103.179.218.14|1080|Indonesia|Pandeglang|PT Wistel Teknologi Solusi|
-|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|16|18.143.165.238|86|Singapore|Singapore|Amazon Technologies Inc.|
-|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|18|62.24.120.147|8080|Kenya|Eldoret|TKL-JAMBONET|
-|19|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
-|20|51.79.241.31|3128|Singapore|Singapore|OVH SAS|
+|2|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|3|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|8.210.175.71|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|9|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|12|220.134.5.4|8080|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
+|13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|134.199.192.31|1081|United States|Douglasville|DigitalOcean, LLC|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|20|160.20.128.7|1080|Indonesia|Cikarang|PT ASTI DIGITAL INDONESIA|
 
 
 
