@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|384|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|384|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|384|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|395|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|395|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|395|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|3|123.18.234.178|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|189.232.98.21|8080|Mexico|Atitalaquia|UNINET|
-|7|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|2|123.18.234.178|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|15.235.132.252|8080|Singapore|Singapore|OVH Hosting|
+|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
 |8|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
 |10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|38.194.231.70|999|Mexico|Tequixquiac|Cogent Communications|
-|12|168.231.75.7|8080|United States|Boston|HOSTINGER US|
-|13|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|15|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|16|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|12|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|13|189.232.98.21|8080|Mexico|Atitalaquia|UNINET|
+|14|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|15|168.231.75.7|8080|United States|Boston|HOSTINGER US|
+|16|38.194.231.70|999|Mexico|Tequixquiac|Cogent Communications|
 |17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|181.78.202.29|8080|Ecuador|Quito|Ufinet Panama S.A.|
-|20|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|19|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|20|181.78.202.29|8080|Ecuador|Quito|Ufinet Panama S.A.|
 
 
 
