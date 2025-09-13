@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|4|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|5|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|140.112.90.49|3128|Taiwan|Xindian District|T-NTU.EDU.TW|
+|1|8.220.200.221|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|8.220.223.66|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|4|8.213.131.36|8080|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|140.112.90.49|3128|Taiwan|Xindian District|T-NTU.EDU.TW|
+|7|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
 |9|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|10|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
 |11|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
 |12|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|13|51.79.71.106|8080|Canada|Beauharnois|OVH SAS|
-|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|15|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|17|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|19|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|13|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|15|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |20|152.53.194.46|8065|United States|Manassas|netcup GmbH|
 
 
