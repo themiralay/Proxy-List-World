@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|43.156.183.113|443|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|9|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|10|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
+|7|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|8|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|16|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|17|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|18|164.92.172.206|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|15|115.77.140.171|10005|Vietnam|Thành Phố Bà Rịa|Viettel Group|
+|16|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
+|17|164.92.172.206|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|103.184.21.68|8080|Indonesia|Bondowoso|PT Tekling Media Telematika|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
