@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|384|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|384|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|384|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|373|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|373|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|373|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|123.18.234.178|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|123.18.234.178|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|7|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|139.162.13.186|8888|Singapore|Singapore|LINODE|
 |9|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|10|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |11|140.112.90.49|3128|Taiwan|Xindian District|T-NTU.EDU.TW|
-|12|182.253.109.234|8080|Indonesia|Semarang|Biznet Metronet|
-|13|74.207.235.213|1221|United States|Atlanta|Akamai Technologies, Inc.|
-|14|38.194.231.70|999|Mexico|Tequixquiac|Cogent Communications|
+|12|38.194.231.70|999|Mexico|Tequixquiac|Cogent Communications|
+|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |15|187.234.31.28|3128|Mexico|Naucalpan|UNINET|
-|16|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
-|17|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|18|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|19|12.131.14.114|3128|United States|San Antonio|AT&T Enterprises, LLC|
-|20|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
+|16|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|17|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|18|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|19|182.253.109.234|8080|Indonesia|Semarang|Biznet Metronet|
+|20|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
 
 
 
