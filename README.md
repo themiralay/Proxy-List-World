@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
 |3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|117.1.203.43|1010|Vietnam|Hanoi|Viettel Corporation|
-|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|6|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
 |7|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|12|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|13|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|14|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
-|15|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|11|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|15|27.124.81.146|8080|Indonesia|Bangsal Aceh|PT. JAWA POS NATIONAL NETWORK MEDIALINK|
+|16|113.192.31.199|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |18|164.92.172.206|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|38.225.225.20|8080|Colombia|Medellín|Somos Networks Colombia S.a.s. BIC|
-|20|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|19|15.235.132.252|8080|Singapore|Singapore|OVH Hosting|
+|20|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
 
 
 
