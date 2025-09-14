@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|140.112.90.49|3128|Taiwan|Xindian District|T-NTU.EDU.TW|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|123.18.234.178|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|13|15.235.132.252|8080|Singapore|Singapore|OVH Hosting|
-|14|38.225.225.20|8080|Colombia|Medellín|Somos Networks Colombia S.a.s. BIC|
-|15|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|16|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
-|17|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|19|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|20|182.253.109.234|8080|Indonesia|Semarang|Biznet Metronet|
+|2|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|3|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|4|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
+|5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|123.18.234.178|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|38.225.225.20|8080|Colombia|Medellín|Somos Networks Colombia S.a.s. BIC|
+|8|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
+|12|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|13|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|15|182.253.109.234|8080|Indonesia|Semarang|Biznet Metronet|
+|16|168.196.227.203|999|Argentina|Mariano Moreno|Vanet Telecomunicaciones S.R.L.|
+|17|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|18|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|19|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|20|43.225.148.210|8989|Bangladesh|Tongi|Next Online|
 
 
 
