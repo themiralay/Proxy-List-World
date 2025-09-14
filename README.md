@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|15.235.132.252|8080|Singapore|Singapore|OVH Hosting|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|38.225.225.20|8080|Colombia|Medellín|Somos Networks Colombia S.a.s. BIC|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
-|10|123.18.234.178|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|14|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|123.18.234.178|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|38.123.220.11|999|Mexico|Ixtlahuaca de Rayón|Cogent Communications|
-|18|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|19|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|20|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|2|140.112.90.49|3128|Taiwan|Xindian District|T-NTU.EDU.TW|
+|3|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|4|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|5|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|6|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|7|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|123.18.234.178|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|38.225.225.20|8080|Colombia|Medellín|Somos Networks Colombia S.a.s. BIC|
+|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|14|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|17|139.5.155.245|57412|Indonesia|Denpasar|PT Maxindo Mitra Solusi|
+|18|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|20|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 
 
 
