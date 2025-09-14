@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|43.156.183.113|443|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|10|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|14|123.18.234.178|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|38.225.225.20|8080|Colombia|Medellín|Somos Networks Colombia S.a.s. BIC|
-|16|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|17|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|18|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|19|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|20|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|3.150.54.120|3128|United States|Dublin|Amazon.com, Inc.|
+|5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|7|3.150.54.120|3128|United States|Dublin|Amazon.com, Inc.|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|10|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|13|15.235.132.252|8080|Singapore|Singapore|OVH Hosting|
+|14|181.79.81.104|8080|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|15|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|16|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|17|182.253.109.234|8080|Indonesia|Semarang|Biznet Metronet|
+|18|116.105.9.239|10003|Vietnam|Hanoi|Viettel Corporation|
+|19|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|20|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 
 
 
