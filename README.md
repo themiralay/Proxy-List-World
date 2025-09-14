@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|6|123.18.234.178|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |9|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|110.171.40.132|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|15|182.253.109.234|8080|Indonesia|Semarang|Biznet Metronet|
-|16|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|17|43.208.251.198|1080|Thailand|Bangkok|Amazon.com, Inc.|
-|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|19|95.67.103.70|3128|Ukraine|Kyiv|Cosmonova|
+|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|11|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|13|123.18.234.178|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|126.209.3.203|8080|Philippines|Marawi City|Infinivan Incorporated|
+|15|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|16|103.146.184.101|8090|Indonesia|Sragen|YAMNET|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|43.208.251.198|1080|Thailand|Bangkok|Amazon.com, Inc.|
+|19|182.253.109.234|8080|Indonesia|Semarang|Biznet Metronet|
 |20|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
 
 
