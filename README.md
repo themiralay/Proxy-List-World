@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|2|140.112.90.49|3128|Taiwan|Xindian District|T-NTU.EDU.TW|
 |3|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|4|140.112.90.49|3128|Taiwan|Xindian District|T-NTU.EDU.TW|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|9|38.194.231.70|999|Mexico|Tequixquiac|Cogent Communications|
-|10|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|123.18.234.178|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|16|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|17|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
+|4|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|38.194.231.70|999|Mexico|Tequixquiac|Cogent Communications|
+|7|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|10|123.18.234.178|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|14|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|15|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|16|167.71.34.74|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|18|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
+|19|38.225.225.20|8080|Colombia|Medellín|Somos Networks Colombia S.a.s. BIC|
 |20|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
 
 
