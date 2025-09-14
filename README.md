@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
-|5|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|8|123.18.234.178|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|10|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
+|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|7|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
 |11|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|15|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|18|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|19|182.253.109.234|8080|Indonesia|Semarang|Biznet Metronet|
-|20|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|13|15.235.132.252|8080|Singapore|Singapore|OVH Hosting|
+|14|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|15|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|16|182.253.109.234|8080|Indonesia|Semarang|Biznet Metronet|
+|17|5.9.176.197|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|18|181.79.81.104|8080|Colombia|Bogotá|IFX Networks Argentina S.R.L|
+|19|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
