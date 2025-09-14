@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|284|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|284|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|284|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|43.156.183.113|443|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|116.98.190.60|1010|Vietnam|Hanoi|Viettel Corporation|
-|4|123.18.234.178|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|9|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|10|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|103.178.87.42|8080|Indonesia|Parung|PT Adhi Pradana Makayasa|
-|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|15|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|18|115.77.140.171|10004|Vietnam|Thành Phố Bà Rịa|Viettel Group|
-|19|115.72.175.202|10008|Vietnam|Ho Chi Minh City|VIETELmetro|
-|20|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|2|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|123.18.234.178|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|12|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|13|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|14|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|15|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|16|134.199.192.31|1100|United States|Douglasville|DigitalOcean, LLC|
+|17|115.72.0.35|10004|Vietnam|Ho Chi Minh City|VIETELmetro|
+|18|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|19|205.185.120.162|80|United States|Las Vegas|FranTech Solutions|
+|20|15.235.132.252|8080|Singapore|Singapore|OVH Hosting|
 
 
 
