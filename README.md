@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|3|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|4|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|7|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|12|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|13|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|14|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|15|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|18.143.165.238|86|Singapore|Singapore|Amazon Technologies Inc.|
-|17|31.133.97.9|3128|Ukraine|Kyiv|Syntegra Telecom LLC|
-|18|123.18.234.178|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
+|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|5|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|123.18.234.178|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|10|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|11|103.153.149.130|8181|Indonesia|Gianyar|JARINGANKU|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|14|37.187.92.9|1040|France|Roubaix|OVH SAS|
+|15|31.133.97.9|3128|Ukraine|Kyiv|Syntegra Telecom LLC|
+|16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|17|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|18|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|20|18.143.165.238|86|Singapore|Singapore|Amazon Technologies Inc.|
 
 
 
