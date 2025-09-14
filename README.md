@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|353|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|353|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|353|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|140.112.90.49|3128|Taiwan|Xindian District|T-NTU.EDU.TW|
-|5|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|123.18.234.178|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|9|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|12|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
-|13|182.253.109.234|8080|Indonesia|Semarang|Biznet Metronet|
+|3|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
+|6|123.18.234.178|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|8|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|9|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
+|10|187.234.31.28|3128|Mexico|Naucalpan|UNINET|
+|11|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|12|140.112.90.49|3128|Taiwan|Xindian District|T-NTU.EDU.TW|
+|13|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
 |14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|15|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
-|16|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
-|17|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|15|45.77.156.171|9091|United States|Piscataway|The Constant Company|
+|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|17|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
 |18|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|19|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|20|45.77.156.171|9091|United States|Piscataway|The Constant Company|
+|19|182.253.109.234|8080|Indonesia|Semarang|Biznet Metronet|
+|20|134.209.152.106|3128|India|Bengaluru|DigitalOcean, LLC|
 
 
 
