@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|334|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|334|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|334|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|5|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|6|123.18.234.178|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|117.0.198.128|7001|Vietnam|Hanoi|Viettel Group|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|4|123.18.234.178|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|116.102.107.254|10003|Vietnam|Hanoi|Viettel Corporation|
+|7|205.185.120.49|80|United States|Las Vegas|FranTech Solutions|
+|8|167.71.34.74|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|210.5.93.251|8080|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|10|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|11|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
 |12|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|14|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|15|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
+|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|14|170.78.208.251|999|Mexico|San Juan del Río|Wantelco SAS de CV|
+|15|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|16|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|153.204.45.181|8080|Japan|Yokohama|NTT Communications Corporation|
+|19|134.199.192.31|1452|United States|Douglasville|DigitalOcean, LLC|
+|20|104.129.194.45|11548|United States|Reston|ZSCALER, INC.|
 
 
 
