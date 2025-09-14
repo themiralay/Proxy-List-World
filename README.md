@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|13|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|14|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|16|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|19|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|20|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|3|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|13|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|15|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
+|16|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|18|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|19|177.234.192.14|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|20|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
 
 
 
