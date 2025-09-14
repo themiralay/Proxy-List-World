@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|43.156.183.113|443|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|61.14.233.245|3128|Vietnam|Quận Bình Thạnh|Digital Storage Company Limited|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|123.18.234.178|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
-|15|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|16|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|17|38.225.225.20|8080|Colombia|Medellín|Somos Networks Colombia S.a.s. BIC|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|20|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
+|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|123.18.234.178|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|7|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|8|61.14.233.245|3128|Vietnam|Quận Bình Thạnh|Digital Storage Company Limited|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|11|45.77.156.171|9091|United States|Piscataway|The Constant Company|
+|12|191.233.249.130|3128|Brazil|São Paulo|Microsoft Corporation|
+|13|38.225.225.20|8080|Colombia|Medellín|Somos Networks Colombia S.a.s. BIC|
+|14|205.185.125.238|80|United States|Las Vegas|FranTech Solutions|
+|15|134.199.192.31|1080|United States|Douglasville|DigitalOcean, LLC|
+|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|17|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|18|5.196.5.215|3128|France|Strasbourg|OVH SAS|
+|19|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|20|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
 
 
 
