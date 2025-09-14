@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|103.187.162.221|8022|Indonesia|Tangerang|PT Misqot Sejahtera Indonesia|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|140.112.90.49|3128|Taiwan|Xindian District|T-NTU.EDU.TW|
+|2|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|3|140.112.90.49|3128|Taiwan|Xindian District|T-NTU.EDU.TW|
+|4|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
 |5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|123.18.234.178|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|8|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|9|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|13|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
-|14|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|38.194.231.70|999|Mexico|Tequixquiac|Cogent Communications|
-|18|15.235.132.252|8080|Singapore|Singapore|OVH Hosting|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|123.18.234.178|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|14|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|15|205.185.120.49|80|United States|Las Vegas|FranTech Solutions|
+|16|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|17|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
+|18|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|19|176.9.65.172|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|20|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
 
 
 
