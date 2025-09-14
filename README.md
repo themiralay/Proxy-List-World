@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|4|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|140.112.90.49|3128|Taiwan|Xindian District|T-NTU.EDU.TW|
-|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|38.194.231.70|999|Mexico|Tequixquiac|Cogent Communications|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|123.18.234.178|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|19|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
-|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|116.105.72.60|10007|Vietnam|Hanoi|Viettel Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|6|116.98.190.60|1010|Vietnam|Hanoi|Viettel Corporation|
+|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|123.18.234.178|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|117.0.198.128|7001|Vietnam|Hanoi|Viettel Group|
+|11|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|17|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|18|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|19|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|20|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 
 
 
