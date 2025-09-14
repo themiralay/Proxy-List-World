@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|384|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|384|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|384|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
-|3|143.189.6.174|8080|Japan|Honchō|Sony Network Communications Inc|
-|4|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|5|103.167.171.153|2222|Indonesia|Jakarta|PT Rajeg Media Telekomunikasi|
-|6|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|7|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|140.112.90.49|3128|Taiwan|Xindian District|T-NTU.EDU.TW|
-|9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|11|123.18.234.178|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|14|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|15|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
-|16|182.253.109.234|8080|Indonesia|Semarang|Biznet Metronet|
-|17|103.159.96.146|3128|Indonesia|Caruban|PT Jinde Grup Indonesia|
-|18|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|19|168.231.75.7|8080|United States|Boston|HOSTINGER US|
-|20|38.194.231.70|999|Mexico|Tequixquiac|Cogent Communications|
+|2|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|182.253.109.234|8080|Indonesia|Semarang|Biznet Metronet|
+|5|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
+|6|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|10|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
+|11|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|12|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|13|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|14|123.18.234.178|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|38.194.231.70|999|Mexico|Tequixquiac|Cogent Communications|
+|16|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|17|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|18|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|19|140.112.90.49|3128|Taiwan|Xindian District|T-NTU.EDU.TW|
+|20|134.209.152.106|3128|India|Bengaluru|DigitalOcean, LLC|
 
 
 
