@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|3|34.16.238.28|3128|United States|Las Vegas|Google LLC|
-|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|34.16.238.28|3128|United States|Las Vegas|Google LLC|
+|5|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
 |6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|34.16.238.28|3128|United States|Las Vegas|Google LLC|
-|9|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|8|140.112.90.49|3128|Taiwan|Xindian District|T-NTU.EDU.TW|
+|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|5.189.187.118|3128|France|Lauterbourg|Contabo GmbH|
 |12|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|13|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|14|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|15|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|16|103.165.157.122|8085|Indonesia|Banyumas|MEGADATA-ISP|
-|17|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|14|190.97.230.198|999|Venezuela|Caracas|Viginet C.A|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|17|34.72.74.97|3128|United States|Council Bluffs|Google LLC|
+|18|41.65.160.172|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|19|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|20|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
 
 
 
