@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|352|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|352|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|352|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|104.199.125.151|3128|United States|The Dalles|Google LLC|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|8|34.72.74.97|3128|United States|Council Bluffs|Google LLC|
-|9|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|10|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|11|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|13|38.225.225.20|8080|Colombia|Medellín|Somos Networks Colombia S.a.s. BIC|
-|14|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|34.16.238.28|3128|United States|Las Vegas|Google LLC|
-|17|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|18|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|34.16.238.28|3128|United States|Las Vegas|Google LLC|
+|4|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|5|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|6|34.72.74.97|3128|United States|Council Bluffs|Google LLC|
+|7|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|8|104.199.125.151|3128|United States|The Dalles|Google LLC|
+|9|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
+|13|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
+|14|38.225.225.20|8080|Colombia|Medellín|Somos Networks Colombia S.a.s. BIC|
+|15|167.71.34.74|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|18|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
 |19|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|20|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
