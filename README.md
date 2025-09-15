@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |8|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
 |9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |11|103.205.141.26|3128|India|Pune|Leapswitch Networks Private Limited|
-|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|13|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|14|171.237.81.227|10003|Vietnam|Ninh Bình|Viettel Corporation|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|14|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
 |15|194.163.149.123|1111|Germany|Düsseldorf|Contabo GmbH|
-|16|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|17|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|18|45.45.237.121|3128|United States|Chicago|Infraly, LLC|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|18|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|20|103.118.175.200|3127|Indonesia|Tigaraksa|PT Perwira Media Solusi|
 
 
 
