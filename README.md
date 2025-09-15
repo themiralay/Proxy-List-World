@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|43.156.183.113|443|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|6|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|3|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|4|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|5|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|6|140.112.90.49|3128|Taiwan|Xindian District|T-NTU.EDU.TW|
 |7|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|8|140.112.90.49|3128|Taiwan|Xindian District|T-NTU.EDU.TW|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|11|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|12|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|13|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|144.124.228.87|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|31.133.97.9|3128|Ukraine|Kyiv|Syntegra Telecom LLC|
-|19|14.102.70.89|8080|India|Patna|World Phone Internet Services Pvt Ltd|
-|20|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|8|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|31.133.97.9|3128|Ukraine|Kyiv|Syntegra Telecom LLC|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|15|223.205.191.159|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|16|200.71.109.102|999|Mexico|Xicotepec de Juárez|Digy Networks S.A De C.V.|
+|17|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|18|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|19|15.235.132.252|8080|Singapore|Singapore|OVH Hosting|
+|20|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
 
 
 
