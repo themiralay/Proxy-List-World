@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|431|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|431|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|431|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|395|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|395|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|395|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|43.156.183.113|443|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|3|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |5|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
 |6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|9|45.77.156.171|9091|United States|Piscataway|The Constant Company|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|16|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|17|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|45.77.156.171|9091|United States|Piscataway|The Constant Company|
-|19|118.34.4.196|80|South Korea|Sejong|Korea Telecom|
-|20|112.210.197.104|8080|Philippines|Lipa City|Philippine Long Distance Telephone Co.|
+|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|8|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|10|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|12|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|15|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|18|103.26.176.31|8080|Indonesia|Utan|PT Lintas Jaringan Nusantara|
+|19|103.126.87.181|7777|Indonesia|Selogiri|PT. Rasi Bintang Perkasa|
+|20|160.22.221.2|8080|Indonesia|Tegal|PT Tomihonk Network Nusantara|
 
 
 
