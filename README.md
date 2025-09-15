@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |3|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|4|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|7|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|10|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|11|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
-|13|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|14|40.172.232.213|8088|United Arab Emirates|Dubai|Amazon.com|
-|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|16|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|17|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|18|41.204.8.1|8246|Eswatini|Manzini|Real Image Network|
-|19|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|9|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|10|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
+|11|38.159.232.108|999|Dominican Republic|Santo Domingo Este|Lightwave S.R.L|
+|12|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|13|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|14|101.255.208.18|8090|Indonesia|Cileungsir|PT Remala Abadi|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|43.225.151.30|8989|Bangladesh|Dhaka|Next Online|
+|17|192.203.0.118|999|Puerto Rico|Fajardo|Boom NET|
+|18|103.10.55.174|7653|Bangladesh|Dhaka|Drik ICT Ltd|
+|19|223.25.100.42|2222|Indonesia|Prapen|SINERGINET|
+|20|117.161.170.163|9078|China|Guangzhou|China Mobile communications corporation|
 
 
 
