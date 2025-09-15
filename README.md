@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|45.77.156.171|9091|United States|Piscataway|The Constant Company|
+|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|5|43.156.183.113|443|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |6|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|7|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|8|169.155.48.155|3128|France|Paris|Fly.io, Inc.|
-|9|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|91.108.130.18|3128|Iran|Tehran|Rayaneh Gostar Farzanegan Ahwaz Company LTD.|
-|13|164.92.172.206|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|167.71.34.74|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|38.156.73.51|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|16|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|17|140.112.90.49|3128|Taiwan|Xindian District|T-NTU.EDU.TW|
-|18|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|164.92.172.206|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|13|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|14|103.162.37.194|8080|Indonesia|Bandung|PT Lintas Satu Visi|
+|15|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|16|91.108.130.18|3128|Iran|Tehran|Rayaneh Gostar Farzanegan Ahwaz Company LTD.|
+|17|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|18|140.112.90.49|3128|Taiwan|Xindian District|T-NTU.EDU.TW|
 |19|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|20|103.199.215.43|6262|India|Bānsdīh|RailTel Corporation of India Ltd.|
+|20|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
 
 
 
