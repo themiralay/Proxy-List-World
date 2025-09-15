@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
 |4|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
 |5|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
-|6|50.174.91.29|3128|United States|West Orange|Comcast Cable Communications, LLC|
-|7|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|15.235.132.252|8080|Singapore|Singapore|OVH Hosting|
-|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|11|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|103.191.254.134|8080|Indonesia|Jadi|PT Ayodya Data Internusa|
-|15|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
-|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|17|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
-|18|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|19|185.112.151.207|8022|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
-|20|157.180.121.252|19087|Finland|Helsinki|Hetzner Online GmbH|
+|6|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|7|50.174.91.29|3128|United States|West Orange|Comcast Cable Communications, LLC|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|10|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|11|153.204.45.181|8080|Japan|Yokohama|NTT Communications Corporation|
+|12|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|13|101.255.164.213|8090|Indonesia|Jakarta|PT Remala Abadi|
+|14|15.235.132.252|8080|Singapore|Singapore|OVH Hosting|
+|15|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|18|157.180.121.252|14325|Finland|Helsinki|Hetzner Online GmbH|
+|19|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
