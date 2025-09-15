@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|34.72.74.97|3128|United States|Council Bluffs|Google LLC|
+|2|104.199.125.151|3128|United States|The Dalles|Google LLC|
+|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
 |6|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|7|104.199.125.151|3128|United States|The Dalles|Google LLC|
-|8|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|9|35.226.66.119|8080|United States|Council Bluffs|Google LLC|
-|10|34.16.238.28|3128|United States|Las Vegas|Google LLC|
-|11|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|12|167.71.34.74|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|14|200.24.146.97|8080|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|15|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|16|143.198.147.156|8888|United States|Santa Clara|DigitalOcean, LLC|
-|17|157.66.138.79|1080|Indonesia|Bogor|PT Neo Fiber Teknologi|
-|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|19|15.235.132.252|8080|Singapore|Singapore|OVH Hosting|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|7|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|8|34.16.238.28|3128|United States|Las Vegas|Google LLC|
+|9|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|10|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|11|34.72.74.97|3128|United States|Council Bluffs|Google LLC|
+|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|13|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|15|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|16|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|17|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|18|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|19|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
 
 
 
