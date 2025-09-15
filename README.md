@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|2|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
 |3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|5|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|13|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
-|14|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|4|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|5|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|6|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|140.112.90.49|3128|Taiwan|Xindian District|T-NTU.EDU.TW|
+|9|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|12|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
+|13|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
+|14|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
 |15|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|16|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
-|17|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|19|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|20|45.175.59.0|61950|Brazil|Fortaleza|Infortec - Informatica & Tecnologia Ltda - ME|
+|16|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|17|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
