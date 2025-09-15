@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|43.156.183.113|443|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |3|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
 |4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |5|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|160.25.48.33|9090|Indonesia|Bangsal Aceh|PT Shs Solusindo Network|
-|8|34.72.74.97|3128|United States|Council Bluffs|Google LLC|
-|9|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|10|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|11|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|12|34.72.74.97|3128|United States|Council Bluffs|Google LLC|
-|13|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|14|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|15|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|16|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
-|17|178.62.251.73|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|18|217.154.200.53|3129|Germany|Berlin|IONOS SE|
-|19|45.89.52.241|3128|Türkiye|Izmir|PQ HOSTING PLUS S.R.L.|
-|20|49.156.44.115|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|49.156.44.115|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|9|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|11|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|12|180.190.184.82|8080|Philippines|Lahug|Globe Telecom|
+|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|16|38.225.225.20|8080|Colombia|Medellín|Somos Networks Colombia S.a.s. BIC|
+|17|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
+|18|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
