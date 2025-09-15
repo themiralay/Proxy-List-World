@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|34.72.74.97|3128|United States|Council Bluffs|Google LLC|
-|3|34.16.238.28|3128|United States|Las Vegas|Google LLC|
-|4|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|5|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|34.72.74.97|3128|United States|Council Bluffs|Google LLC|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|34.72.74.97|3128|United States|Council Bluffs|Google LLC|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|7|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|34.16.238.28|3128|United States|Las Vegas|Google LLC|
+|9|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
 |11|140.112.90.49|3128|Taiwan|Xindian District|T-NTU.EDU.TW|
-|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|14|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|16|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|14|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|15|34.72.74.97|3128|United States|Council Bluffs|Google LLC|
+|16|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
 |17|34.16.238.28|3128|United States|Las Vegas|Google LLC|
-|18|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
-|19|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|19|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|20|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
 
 
 
