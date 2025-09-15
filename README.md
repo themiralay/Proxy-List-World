@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|3|103.102.12.129|1452|Indonesia|Rembangan|FISNET|
-|4|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|3|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|4|34.16.238.28|3128|United States|Las Vegas|Google LLC|
+|5|43.156.183.113|443|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
-|11|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|13|167.71.34.74|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
-|15|34.16.238.28|3128|United States|Las Vegas|Google LLC|
-|16|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|17|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|20|18.143.165.238|86|Singapore|Singapore|Amazon Technologies Inc.|
+|9|46.202.179.233|8080|United States|Boston|Hostinger International Limited|
+|10|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|46.202.179.233|8080|United States|Boston|Hostinger International Limited|
+|13|34.16.238.28|3128|United States|Las Vegas|Google LLC|
+|14|103.180.118.99|8044|Indonesia|Made|PT Persada Data Multimedia|
+|15|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|16|38.191.42.200|999|Colombia|Cúcuta|Servinet Comunicaciones S.A.S.|
+|17|34.16.238.28|3128|United States|Las Vegas|Google LLC|
+|18|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|19|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|20|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
 
 
 
