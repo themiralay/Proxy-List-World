@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|324|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|324|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|324|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|5|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
-|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|11|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
-|12|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|164.92.172.206|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|18.143.165.238|86|Singapore|Singapore|Amazon Technologies Inc.|
-|17|112.204.108.148|8080|Philippines|Antipolo City|Philippine Long Distance Telephone Co.|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|167.71.34.74|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|3|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|4|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|10|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|11|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|12|124.83.43.145|8080|Philippines|Pasay|Philippine Long Distance Telephone Co.|
+|13|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
+|14|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|15|18.143.165.238|86|Singapore|Singapore|Amazon Technologies Inc.|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|164.92.172.206|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|19|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|20|91.108.130.18|3128|Iran|Tehran|Rayaneh Gostar Farzanegan Ahwaz Company LTD.|
 
 
 
