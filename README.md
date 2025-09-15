@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
 |2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|43.156.183.113|443|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |5|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|8|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
-|9|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|10|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|50.174.91.29|3128|United States|West Orange|Comcast Cable Communications, LLC|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|16|181.78.202.29|8080|Ecuador|Quito|Ufinet Panama S.A.|
-|17|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|18|103.191.254.134|8080|Indonesia|Jadi|PT Ayodya Data Internusa|
-|19|40.172.232.213|8088|United Arab Emirates|Dubai|Amazon.com|
+|6|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|7|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
+|8|180.190.184.82|8080|Philippines|Lahug|Globe Telecom|
+|9|50.174.91.29|3128|United States|West Orange|Comcast Cable Communications, LLC|
+|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|11|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|12|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|13|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|14|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|15|103.191.254.134|8080|Indonesia|Jadi|PT Ayodya Data Internusa|
+|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|17|157.20.219.189|8080|Indonesia|Wonosobo|PT Sindoro Sumbing Network Solution|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|181.78.202.29|8080|Ecuador|Quito|Ufinet Panama S.A.|
 |20|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
 
 
