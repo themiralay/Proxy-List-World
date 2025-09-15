@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **75739** proxies at the latest update. Usable proxies are below.
+> Scraper found **75670** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36019|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|35950|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|78|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38416|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|3|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|6|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|9|153.204.45.181|8080|Japan|Yokohama|NTT Communications Corporation|
-|10|50.174.91.29|3128|United States|West Orange|Comcast Cable Communications, LLC|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|180.190.184.82|8080|Philippines|Lahug|Globe Telecom|
-|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|14|157.180.121.252|14793|Finland|Helsinki|Hetzner Online GmbH|
+|1|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
+|3|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|4|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|5|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
+|6|50.174.91.29|3128|United States|West Orange|Comcast Cable Communications, LLC|
+|7|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|15.235.132.252|8080|Singapore|Singapore|OVH Hosting|
+|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|11|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|103.191.254.134|8080|Indonesia|Jadi|PT Ayodya Data Internusa|
 |15|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
-|16|126.209.82.130|8082|Philippines|Manila|Infinivan Incorporated|
-|17|103.172.42.175|8085|Indonesia|Karawang|PT Media Solusi Sukses|
-|18|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
-|19|104.129.194.45|11548|United States|Reston|ZSCALER, INC.|
-|20|104.129.194.45|11548|United States|Reston|ZSCALER, INC.|
+|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|17|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
+|18|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|19|185.112.151.207|8022|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
+|20|157.180.121.252|19087|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
