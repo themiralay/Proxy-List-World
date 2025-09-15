@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|34.16.238.28|3128|United States|Las Vegas|Google LLC|
-|6|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|7|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|167.71.34.74|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|12|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|13|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|17|103.82.126.202|8080|Indonesia|Kresek|PT.PLATINUM CITRA INDONESIA|
-|18|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
+|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|34.16.238.28|3128|United States|Las Vegas|Google LLC|
+|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|6|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|7|140.112.90.49|3128|Taiwan|Xindian District|T-NTU.EDU.TW|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|160.19.19.43|8080|Indonesia|Kediri|PT Indo Telemedia Solusi|
+|10|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|12|95.47.239.75|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|119.93.173.202|8081|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|15|201.46.24.174|3128|Brazil|São Paulo|Vero S.A|
+|16|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|17|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|19|103.230.81.28|8080|Indonesia|Pandeglang|PT. Pandeglang Akses Semesta|
+|20|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
 
 
 
