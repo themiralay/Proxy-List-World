@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|3|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|8|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|9|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
-|10|34.16.238.28|3128|United States|Las Vegas|Google LLC|
-|11|91.108.130.18|3128|Iran|Tehran|Rayaneh Gostar Farzanegan Ahwaz Company LTD.|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|140.112.90.49|3128|Taiwan|Xindian District|T-NTU.EDU.TW|
-|14|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|16|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|17|43.225.151.129|8989|Bangladesh|Dhaka|Next Online|
-|18|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|19|5.135.59.43|50008|Portugal|Lisbon|OVH SAS|
-|20|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|5|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|6|34.16.238.28|3128|United States|Las Vegas|Google LLC|
+|7|140.112.90.49|3128|Taiwan|Xindian District|T-NTU.EDU.TW|
+|8|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|9|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|10|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|11|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|13|43.252.106.5|8090|Indonesia|Kudus|PT Lintas Data Prima|
+|14|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
+|15|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|16|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|19|103.86.117.58|8080|Indonesia|Lenteng|PT Link Data Sumber Barokah|
+|20|189.112.34.110|8080|Brazil|Belo Horizonte|ALGAR TELECOM S/A|
 
 
 
