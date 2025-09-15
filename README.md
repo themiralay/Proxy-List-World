@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|406|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|406|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|406|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|118.34.4.196|80|South Korea|Sejong|Korea Telecom|
+|2|43.156.183.113|443|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|5|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|112.210.197.104|8080|Philippines|Lipa City|Philippine Long Distance Telephone Co.|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|14|175.138.75.137|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|16|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|19|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|20|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|4|103.16.118.78|1080|Indonesia|Madiun|CV Trustnet Media|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|11|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|12|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|182.253.36.151|8080|Indonesia|Sukabumi|BIZNET|
+|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|15|93.241.82.48|8080|Germany|Hamburg|Deutsche Telekom AG|
+|16|185.200.38.213|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|103.184.50.102|9090|Indonesia|Sragen|PT Aktech Digital Solutions|
+|18|45.115.136.32|8080|Indonesia|Satui|PT Mitra Akses Globalindo|
+|19|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|20|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
