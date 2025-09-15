@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|3|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|164.92.172.206|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|35.226.66.119|8080|United States|Council Bluffs|Google LLC|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|116.203.192.255|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|14|40.172.232.213|8088|United Arab Emirates|Dubai|Amazon.com|
-|15|103.138.71.133|8085|Indonesia|Rokan|PT Centronet Data Indonesia|
-|16|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|17|41.72.213.182|8090|Kenya|Nairobi|Maintainer Liquid Telecommunications Operations Limited|
-|18|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|19|138.117.230.131|999|Guatemala|La Democracia|Fibernet S.A|
-|20|161.49.90.70|1337|Philippines|Pasig|Converge ICT Solution Inc|
+|1|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|9|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|10|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|17|116.203.192.255|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|18|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
 
 
 
