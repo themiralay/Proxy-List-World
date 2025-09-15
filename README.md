@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|116.105.72.60|10008|Vietnam|Hanoi|Viettel Corporation|
-|6|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|7|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|9|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|10|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
-|11|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|15|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|16|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|17|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|18|116.203.192.255|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|19|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|20|15.235.132.252|8080|Singapore|Singapore|OVH Hosting|
+|1|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|2|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|3|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|116.105.72.60|10008|Vietnam|Hanoi|Viettel Corporation|
+|5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
+|9|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|10|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|11|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|12|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|13|116.203.192.255|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|16|35.226.66.119|8080|United States|Council Bluffs|Google LLC|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|91.84.99.28|8444|The Netherlands|Amsterdam|Servers Tech Fzco|
+|19|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|20|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
