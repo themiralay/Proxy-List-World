@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|5|34.72.74.97|3128|United States|Council Bluffs|Google LLC|
-|6|34.72.74.97|3128|United States|Council Bluffs|Google LLC|
-|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|8|34.16.238.28|3128|United States|Las Vegas|Google LLC|
-|9|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|12|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|13|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|104.199.125.151|3128|United States|The Dalles|Google LLC|
-|15|104.199.125.151|3128|United States|The Dalles|Google LLC|
-|16|34.16.238.28|3128|United States|Las Vegas|Google LLC|
+|2|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|3|34.16.238.28|3128|United States|Las Vegas|Google LLC|
+|4|34.72.74.97|3128|United States|Council Bluffs|Google LLC|
+|5|104.199.125.151|3128|United States|The Dalles|Google LLC|
+|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|8|34.72.74.97|3128|United States|Council Bluffs|Google LLC|
+|9|34.16.238.28|3128|United States|Las Vegas|Google LLC|
+|10|140.112.90.49|3128|Taiwan|Xindian District|T-NTU.EDU.TW|
+|11|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|15|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|16|104.199.125.151|3128|United States|The Dalles|Google LLC|
 |17|38.194.231.70|999|Mexico|Tequixquiac|Cogent Communications|
-|18|140.112.90.49|3128|Taiwan|Xindian District|T-NTU.EDU.TW|
-|19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|20|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|20|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 
 
 
