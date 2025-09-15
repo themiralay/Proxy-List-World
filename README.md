@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|4|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|1|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |5|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|6|50.174.91.29|3128|United States|West Orange|Comcast Cable Communications, LLC|
-|7|153.204.45.181|8080|Japan|Yokohama|NTT Communications Corporation|
-|8|103.143.197.218|8000|Indonesia|Karanganom|JERNIHNETWORK|
-|9|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|10|114.130.154.118|58080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|11|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|6|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|9|35.226.66.119|8080|United States|Council Bluffs|Google LLC|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|12|167.71.34.74|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|14|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
 |15|104.129.194.45|11548|United States|Reston|ZSCALER, INC.|
-|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|17|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
-|18|192.145.206.193|8080|Brazil|São João da Ponte|Vianet Guaraciama Eireli ME|
-|19|104.129.194.45|11548|United States|Reston|ZSCALER, INC.|
-|20|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
+|16|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
+|17|157.180.121.252|14793|Finland|Helsinki|Hetzner Online GmbH|
+|18|102.0.18.198|8080|Kenya|Kerugoya|Airtel KE Mobile & Fixed Internet|
+|19|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
+|20|104.129.194.45|11548|United States|Reston|ZSCALER, INC.|
 
 
 
