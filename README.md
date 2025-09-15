@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
-|6|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|9|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|16|104.199.125.151|3128|United States|The Dalles|Google LLC|
-|17|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|18|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|19|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
-|20|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|3|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|9|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|12|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|13|41.65.160.172|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|14|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|15|40.172.232.213|8088|United Arab Emirates|Dubai|Amazon.com|
+|16|41.204.8.1|8246|Eswatini|Manzini|Real Image Network|
+|17|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
+|18|89.117.145.245|3128|United States|St Louis|Contabo Inc.|
+|19|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
+|20|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
 
 
 
