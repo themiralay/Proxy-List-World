@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|43.156.183.113|443|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|140.112.90.49|3128|Taiwan|Xindian District|T-NTU.EDU.TW|
-|11|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|12|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|13|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|14|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|15|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|19|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|20|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|2|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|3|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|4|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|5|140.112.90.49|3128|Taiwan|Xindian District|T-NTU.EDU.TW|
+|6|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|9|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|182.253.215.158|8080|Indonesia|Jakarta|BIZNET|
+|12|167.71.34.74|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|40.172.232.213|8088|United Arab Emirates|Dubai|Amazon.com|
+|15|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|16|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
+|17|45.123.142.69|8181|Indonesia|Curug|PT Anten Sarana Teknologi|
+|18|34.16.238.28|3128|United States|Las Vegas|Google LLC|
+|19|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|20|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
 
 
 
