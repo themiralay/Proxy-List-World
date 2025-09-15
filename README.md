@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|5|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|6|140.112.90.49|3128|Taiwan|Xindian District|T-NTU.EDU.TW|
-|7|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|11|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|41.65.160.172|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|14|140.112.90.49|3128|Taiwan|Xindian District|T-NTU.EDU.TW|
-|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|2|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|3|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|140.112.90.49|3128|Taiwan|Xindian District|T-NTU.EDU.TW|
+|10|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|16|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |18|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|19|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|20|160.19.19.43|8080|Indonesia|Kediri|PT Indo Telemedia Solusi|
+|19|176.100.60.249|3128|Russia|Volodarskiy|PE Scherban Evgeniy Aleksandrovich|
+|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 
 
 
