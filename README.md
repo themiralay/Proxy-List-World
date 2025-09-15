@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|386|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|386|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|386|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|425|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|425|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|425|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|118.34.4.196|80|South Korea|Sejong|Korea Telecom|
-|3|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|9|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|10|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|11|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|3|103.127.132.66|8888|Indonesia|Bogor|PT Biznet Gio Nusantara|
+|4|107.178.115.140|3128|United States|Phoenix|Input Output Flood LLC|
+|5|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|120.28.137.232|8082|Philippines|Caloocan City|Globe Telecom|
+|8|107.178.115.140|3128|United States|Phoenix|Input Output Flood LLC|
+|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |14|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|16|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|148.251.86.68|16379|Germany|Falkenstein|Hetzner Online GmbH|
-|18|87.106.144.63|3128|Germany|Berlin|IONOS SE ber.de|
-|19|185.200.38.213|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|20|103.173.140.144|7777|Indonesia|Rawaseser|WIFIAN ID|
+|15|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|16|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|17|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|20|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
 
 
 
