@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|43.156.183.113|443|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|6|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|7|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|9|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|10|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|11|36.66.121.131|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|12|178.62.251.73|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|13|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|14|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
-|15|180.190.184.82|8080|Philippines|Lahug|Globe Telecom|
-|16|140.112.90.49|3128|Taiwan|Xindian District|T-NTU.EDU.TW|
-|17|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|18|103.158.121.179|8090|Indonesia|Weru|CDN|
-|19|103.126.119.155|8080|Indonesia|Tangerang|PT. Media Tekno Nusantara|
-|20|191.101.190.175|3127|Singapore|Singapore|PT Perwira Media Solusi|
+|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|11|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|12|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|14|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|103.205.141.26|3128|India|Pune|Leapswitch Networks Private Limited|
+|18|194.163.149.123|1111|Germany|Düsseldorf|Contabo GmbH|
+|19|8.208.46.143|13128|United Kingdom|London|Alibaba.com Singapore E-Commerce Private Limited|
+|20|38.194.233.172|1010|Mexico|Tepeji del Río de Ocampo|Cogent Communications|
 
 
 
