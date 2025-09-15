@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|34.72.74.97|3128|United States|Council Bluffs|Google LLC|
-|3|34.16.238.28|3128|United States|Las Vegas|Google LLC|
-|4|104.199.125.151|3128|United States|The Dalles|Google LLC|
-|5|43.156.183.113|443|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|7|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|8|34.16.238.28|3128|United States|Las Vegas|Google LLC|
-|9|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|38.194.231.70|999|Mexico|Tequixquiac|Cogent Communications|
-|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|12|34.72.74.97|3128|United States|Council Bluffs|Google LLC|
-|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|14|104.199.125.151|3128|United States|The Dalles|Google LLC|
-|15|140.112.90.49|3128|Taiwan|Xindian District|T-NTU.EDU.TW|
-|16|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|18|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
-|19|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|20|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|2|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|3|34.72.74.97|3128|United States|Council Bluffs|Google LLC|
+|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|5|104.199.125.151|3128|United States|The Dalles|Google LLC|
+|6|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|7|34.16.238.28|3128|United States|Las Vegas|Google LLC|
+|8|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|9|34.72.74.97|3128|United States|Council Bluffs|Google LLC|
+|10|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|104.199.125.151|3128|United States|The Dalles|Google LLC|
+|12|140.112.90.49|3128|Taiwan|Xindian District|T-NTU.EDU.TW|
+|13|38.194.231.70|999|Mexico|Tequixquiac|Cogent Communications|
+|14|34.16.238.28|3128|United States|Las Vegas|Google LLC|
+|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|16|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|17|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
+|18|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|19|43.208.251.198|1080|Thailand|Bangkok|Amazon.com, Inc.|
+|20|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
 
 
 
