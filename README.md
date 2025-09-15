@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |8|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|9|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|103.154.230.106|8090|Indonesia|Bilo|DIGITNET|
-|16|103.172.42.179|8080|Indonesia|Karawang|PT Media Solusi Sukses|
-|17|210.87.74.31|8080|Indonesia|Krajan Gajahmati|PT.Global Media Data Prima|
-|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|19|38.123.220.173|999|Mexico|Ixtlahuaca de Rayón|Cogent Communications|
-|20|91.108.130.18|3128|Iran|Tehran|Rayaneh Gostar Farzanegan Ahwaz Company LTD.|
+|9|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
+|10|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|11|38.188.48.73|8080|Venezuela|Tucacas|HHNETWORK T, C.A.|
+|12|103.156.86.130|1080|Indonesia|Watampone|PT Chacha Networking System|
+|13|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|14|38.123.220.173|999|Mexico|Ixtlahuaca de Rayón|Cogent Communications|
+|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|20|103.48.71.46|83|India|Hyderabad|Country Online Services PVT LTD|
 
 
 
