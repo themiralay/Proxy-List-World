@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|34.16.238.28|3128|United States|Las Vegas|Google LLC|
-|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|7|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|8|104.199.125.151|3128|United States|The Dalles|Google LLC|
-|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|10|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|11|103.10.55.137|8664|Bangladesh|Dhaka|Drik ICT Ltd|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|38.225.225.20|8080|Colombia|Medellín|Somos Networks Colombia S.a.s. BIC|
-|14|103.179.218.14|1080|Indonesia|Pandeglang|PT Wistel Teknologi Solusi|
-|15|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|16|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|17|15.235.132.252|8080|Singapore|Singapore|OVH Hosting|
-|18|34.72.74.97|3128|United States|Council Bluffs|Google LLC|
-|19|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|20|116.105.9.239|10003|Vietnam|Hanoi|Viettel Corporation|
+|2|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|8|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|9|34.72.74.97|3128|United States|Council Bluffs|Google LLC|
+|10|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|104.199.125.151|3128|United States|The Dalles|Google LLC|
+|13|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|14|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|16|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|34.16.238.28|3128|United States|Las Vegas|Google LLC|
+|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|19|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
+|20|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
 
 
 
