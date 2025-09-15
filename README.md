@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|3|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|3|140.112.90.49|3128|Taiwan|Xindian District|T-NTU.EDU.TW|
 |4|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|5|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|6|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|7|140.112.90.49|3128|Taiwan|Xindian District|T-NTU.EDU.TW|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|12|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|13|144.124.228.87|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|18|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|6|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|7|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|8|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|9|103.158.121.64|7777|Indonesia|Jatibarang|CDN|
+|10|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|11|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|144.124.228.87|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|13|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|14|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|15|45.77.156.171|9091|United States|Piscataway|The Constant Company|
+|16|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|35.226.66.119|8080|United States|Council Bluffs|Google LLC|
+|18|43.231.69.206|3128|Australia|Sydney|Buroserv Australia Pty Ltd|
 |19|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|20|177.234.194.30|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
 
 
 
