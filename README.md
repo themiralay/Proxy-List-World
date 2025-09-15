@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|3|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|1|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
+|5|43.156.183.113|443|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |6|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|97.79.251.186|80|United States|Dallas|Spectrum|
-|10|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|103.138.71.133|8085|Indonesia|Rokan|PT Centronet Data Indonesia|
+|10|103.78.201.242|5001|India|Lucknow|Tachyon Communications Pvt Ltd|
+|11|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|14|116.203.192.255|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|15|169.155.48.155|3128|France|Paris|Fly.io, Inc.|
-|16|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|13|45.77.156.171|9091|United States|Piscataway|The Constant Company|
+|14|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|116.203.192.255|1080|Germany|Nuremberg|Hetzner Online GmbH|
 |17|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|18|186.96.73.181|999|Venezuela|Caracas|Gold Data USA Inc|
-|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|20|49.146.61.187|8082|Philippines|Koronadal|Philippine Long Distance Telephone Co.|
+|18|41.65.160.172|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|19|169.155.48.155|3128|France|Paris|Fly.io, Inc.|
+|20|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
 
 
 
