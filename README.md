@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|2|43.156.183.113|443|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|5|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
-|8|3.150.77.219|3128|United States|Dublin|Amazon.com, Inc.|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|18.222.34.42|3128|United States|Dublin|Amazon.com, Inc.|
-|11|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|50.174.91.29|3128|United States|West Orange|Comcast Cable Communications, LLC|
-|15|167.71.34.74|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|35.226.66.119|8080|United States|Council Bluffs|Google LLC|
-|20|103.180.123.27|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|3|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|6|149.97.239.166|8080|United States|Atlanta|Equinix (EMEA) Acquisition Enterprises B.V.|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|9|153.204.45.181|8080|Japan|Yokohama|NTT Communications Corporation|
+|10|50.174.91.29|3128|United States|West Orange|Comcast Cable Communications, LLC|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|180.190.184.82|8080|Philippines|Lahug|Globe Telecom|
+|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|14|157.180.121.252|14793|Finland|Helsinki|Hetzner Online GmbH|
+|15|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
+|16|126.209.82.130|8082|Philippines|Manila|Infinivan Incorporated|
+|17|103.172.42.175|8085|Indonesia|Karawang|PT Media Solusi Sukses|
+|18|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
+|19|104.129.194.45|11548|United States|Reston|ZSCALER, INC.|
+|20|104.129.194.45|11548|United States|Reston|ZSCALER, INC.|
 
 
 
