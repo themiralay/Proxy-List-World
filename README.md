@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|180.190.184.82|8080|Philippines|Lahug|Globe Telecom|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|6|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|13|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|14|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|15|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|16|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|17|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
-|18|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|19|38.225.225.20|8080|Colombia|Medellín|Somos Networks Colombia S.a.s. BIC|
-|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|3|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|4|140.112.90.49|3128|Taiwan|Xindian District|T-NTU.EDU.TW|
+|5|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|9|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|10|180.190.184.82|8080|Philippines|Lahug|Globe Telecom|
+|11|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|13|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
+|14|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|15|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
+|16|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|17|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|18|217.154.200.53|3129|Germany|Berlin|IONOS SE|
+|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|103.247.240.34|8080|Indonesia|Nipah Panjang|PT Media Kerinci Network|
 
 
 
