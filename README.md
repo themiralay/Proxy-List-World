@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|43.156.183.113|443|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|202.154.18.160|8084|Indonesia|Babat|DIGITNET|
-|7|103.238.232.182|1111|Indonesia|Banjaran|PT Digital Netcom Solution|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
 |8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|12|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|220.130.186.59|8080|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
-|15|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|119.93.81.143|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|20|38.123.220.11|999|Mexico|Ixtlahuaca de Rayón|Cogent Communications|
+|9|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|10|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|71.168.71.12|8890|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
+|13|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|14|140.112.90.49|3128|Taiwan|Xindian District|T-NTU.EDU.TW|
+|15|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|17|70.183.141.254|3128|United States|Chesapeake|Cox Communications Inc.|
+|18|67.219.118.122|8080|United States|Aledo|Nextlink Broadband|
+|19|194.238.27.113|3128|United States|St Louis|Contabo Inc.|
+|20|157.180.121.252|52393|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
