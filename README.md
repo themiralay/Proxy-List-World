@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|6|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|7|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|10|103.53.77.179|8050|Indonesia|Gubengairlangga|INTI|
-|11|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|12|157.175.196.63|56420|Bahrain|Manama|Amazon.com, Inc.|
-|13|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
+|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
 |14|91.108.130.18|3128|Iran|Tehran|Rayaneh Gostar Farzanegan Ahwaz Company LTD.|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|20|160.20.38.14|8080|Indonesia|Indramayu|PT SAMUDRA DIGITAL NETWORK|
+|15|43.208.251.198|1080|Thailand|Bangkok|Amazon.com, Inc.|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|89.46.249.252|5080|United Kingdom|London|Hydra Communications Ltd|
+|18|103.147.250.93|1452|India|Prayagraj|Prayag Broadband Pvt Ltd|
+|19|24.56.124.111|8888|United States|Forest|Shenandoah Cable Television LLC|
+|20|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
 
 
 
