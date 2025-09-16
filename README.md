@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|11|72.10.160.90|3581|Canada|Montreal|GloboTech Communications|
-|12|51.250.88.121|9998|Russia|Moscow|Yandex.Cloud LLC|
-|13|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|18|103.127.220.78|1111|Indonesia|Jakarta|PT Multi Guna Sinergi|
-|19|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|7|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|72.10.160.90|3581|Canada|Montreal|GloboTech Communications|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|97.79.251.186|80|United States|Dallas|Spectrum|
+|15|51.250.88.121|9998|Russia|Moscow|Yandex.Cloud LLC|
+|16|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|19|190.205.49.51|3128|Venezuela|Caracas|CANTV Servicios, Venezuela|
+|20|36.92.146.125|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
 
 
 
