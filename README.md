@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|8|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|9|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|10|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|1|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|3|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|7|38.194.231.70|999|Mexico|Tequixquiac|Cogent Communications|
+|8|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
+|9|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
+|10|167.71.34.74|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
-|13|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
-|14|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
-|15|67.43.228.253|4741|Canada|Montreal|GloboTech Communications|
-|16|72.10.164.178|8067|Canada|Montreal|GloboTech Communications|
-|17|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|18|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|19|47.88.18.204|8023|United States|Minkler|Alibaba (US) Technology Co., Ltd.|
-|20|179.1.192.231|9992|Colombia|Ibagué|Internexa S.a. E.S.P|
+|12|182.253.69.95|8080|Indonesia|Denpasar|BIZNET|
+|13|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|14|179.1.192.231|9992|Colombia|Ibagué|Internexa S.a. E.S.P|
+|15|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|16|126.209.50.252|1234|Philippines|Manila|Infinivan Incoporated|
+|17|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
+|18|67.43.228.253|4741|Canada|Montreal|GloboTech Communications|
+|19|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|193.237.192.7|8888|United Kingdom|Biddulph|Vodafone|
 
 
 
