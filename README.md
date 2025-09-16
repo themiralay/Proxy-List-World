@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|5|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|144.124.228.87|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|10|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|167.71.34.74|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|140.112.90.49|3128|Taiwan|Xindian District|T-NTU.EDU.TW|
-|15|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
-|16|203.190.44.233|8181|Indonesia|Pemalang|PT Jaring Lintas Utara|
-|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|157.180.121.252|10062|Finland|Helsinki|Hetzner Online GmbH|
-|19|157.180.121.252|10062|Finland|Helsinki|Hetzner Online GmbH|
-|20|179.61.110.253|999|Chile|Petorca|SOC. TELEVISIVA CABLE SANTA JUANA LIMITADA.|
+|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|14|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|15|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|16|24.56.124.111|8888|United States|Forest|Shenandoah Cable Television LLC|
+|17|24.56.124.111|8888|United States|Forest|Shenandoah Cable Television LLC|
+|18|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
+|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|20|140.112.90.49|3128|Taiwan|Xindian District|T-NTU.EDU.TW|
 
 
 
