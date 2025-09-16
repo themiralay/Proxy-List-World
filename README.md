@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|356|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|356|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|356|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|3|134.209.152.106|3128|India|Bengaluru|DigitalOcean, LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
-|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|103.191.129.245|8020|Indonesia|Depok|PT Metro Ring Bersama|
-|11|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|12|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|13|103.156.17.39|8818|Indonesia|Jatibarang|RSTNET|
-|14|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|15|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|16|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|17|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|19|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|20|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|5|103.126.173.203|8880|Indonesia|Sidorejo|MEGARAP|
+|6|103.231.236.235|8182|Indonesia|Randudongkal|PT Level Indodata Teknologi|
+|7|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|8|210.87.125.146|8090|Indonesia|Temenggungan|CV Brawijaya Giga Network|
+|9|38.159.63.8|999|Venezuela|Barquisimeto|Boom Solutions C.A.|
+|10|103.162.16.113|8080|Indonesia|Parenggan|PT Mega Data Perkasa|
+|11|38.159.229.139|999|Ecuador|Vinces|Turbonet S.A.|
+|12|71.168.71.12|8890|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
+|13|103.154.230.99|8090|Indonesia|Bilo|DIGITNET|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|103.171.194.52|83|India|Mangaluru|Udupi Fastnet Private Limited|
+|17|103.167.171.134|8181|Indonesia|Jakarta|PT Rajeg Media Telekomunikasi|
+|18|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|19|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|20|71.168.71.12|8890|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
 
 
 
