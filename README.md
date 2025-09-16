@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|12|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|13|38.211.24.14|8181|Indonesia|Bandung|PT Putra Garsel Interkoneksi|
-|14|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|17|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|18|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|19|144.124.228.87|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|4.216.195.194|3128|Japan|Tokyo|Microsoft Corporation|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|5|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|9|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|12|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|13|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|14|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|15|141.253.127.218|3243|France|Paris|Oracle Corporation|
+|16|35.226.66.119|8080|United States|Council Bluffs|Google LLC|
+|17|144.124.228.87|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|19|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|20|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
 
 
 
