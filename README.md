@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|2|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
 |3|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|7|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|9|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|11|144.124.228.87|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|5|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
+|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |13|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|14|91.230.149.27|3128|Turkey|Mahmutbey|Makdos Bilisim Teknolojileri Sanayi Ticaret Limited Sirketi|
-|15|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|16|41.65.160.172|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|19|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|20|96.227.245.221|999|United States|Norristown|Verizon Business|
+|14|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|15|91.230.149.27|3128|Turkey|Mahmutbey|Makdos Bilisim Teknolojileri Sanayi Ticaret Limited Sirketi|
+|16|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|17|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|18|103.172.71.25|8080|Indonesia|Karangampel|AZNET|
+|19|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
+|20|24.56.124.111|8888|United States|Forest|Shenandoah Cable Television LLC|
 
 
 
