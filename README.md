@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
 |3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|4|41.65.160.172|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|5|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |6|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
-|7|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|8|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|9|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|10|202.5.32.137|5720|Bangladesh|Bāndarban|BBTS-NEW|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|177.234.194.30|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|13|191.97.14.189|999|Colombia|Tame|TV AZTECA SUCURSAL COLOMBIA|
-|14|38.194.231.70|999|Mexico|Tequixquiac|Cogent Communications|
-|15|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|16|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|17|157.66.84.14|8080|Indonesia|Ponorogo|Menaksopal Lintas Nusantara|
+|7|222.59.173.105|45023|China|Qinnan|China Mobile Communications Corporation|
+|8|222.59.173.105|45023|China|Qinnan|China Mobile Communications Corporation|
+|9|38.194.231.70|999|Mexico|Tequixquiac|Cogent Communications|
+|10|167.71.34.74|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|157.180.121.252|29059|Finland|Helsinki|Hetzner Online GmbH|
+|12|34.59.253.55|8080|United States|Council Bluffs|Google LLC|
+|13|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|14|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|15|152.53.194.46|8065|United States|Manassas|netcup GmbH|
+|16|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|17|72.10.164.178|8067|Canada|Montreal|GloboTech Communications|
 |18|157.180.121.252|29059|Finland|Helsinki|Hetzner Online GmbH|
-|19|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|20|72.10.164.178|26779|Canada|Montreal|GloboTech Communications|
+|19|157.180.121.252|29059|Finland|Helsinki|Hetzner Online GmbH|
+|20|157.180.121.252|29059|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
