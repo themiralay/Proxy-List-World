@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
 |3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|5|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|6|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|7|157.175.196.63|56420|Bahrain|Manama|Amazon.com, Inc.|
-|8|103.147.250.93|1452|India|Prayagraj|Prayag Broadband Pvt Ltd|
-|9|103.81.194.124|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|10|163.223.78.139|8080|Indonesia|Jombang|PT Big Network Indonesia|
+|4|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|5|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|6|43.208.251.198|1080|Thailand|Bangkok|Amazon.com, Inc.|
+|7|160.20.38.14|8080|Indonesia|Indramayu|PT SAMUDRA DIGITAL NETWORK|
+|8|138.121.161.85|8097|Argentina|Rosario|WICORP SA|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
 |11|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|138.121.161.85|8097|Argentina|Rosario|WICORP SA|
-|14|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|15|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
-|16|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|17|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
-|18|43.208.251.198|1080|Thailand|Bangkok|Amazon.com, Inc.|
-|19|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|20|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|12|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|114.9.26.182|8080|Indonesia|Sukadana|PT. INDOSAT Tbk|
+|15|36.67.114.94|8187|Indonesia|Cijantung|PT. Telekomunikasi Indonesia|
+|16|103.153.250.65|83|India|Jabalpur|Purenet Telecom India Pvt. Ltd.|
+|17|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|18|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|19|157.175.196.63|56420|Bahrain|Manama|Amazon.com, Inc.|
+|20|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
