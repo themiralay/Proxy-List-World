@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|3|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|116.105.9.239|10003|Vietnam|Hanoi|Viettel Corporation|
+|1|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|41.65.160.172|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|4|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|9|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
 |10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |11|157.180.121.252|57728|Finland|Helsinki|Hetzner Online GmbH|
-|12|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|13|72.10.164.178|29655|Canada|Montreal|GloboTech Communications|
-|14|34.59.253.55|8080|United States|Council Bluffs|Google LLC|
+|12|157.66.84.14|8080|Indonesia|Ponorogo|Menaksopal Lintas Nusantara|
+|13|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|14|116.105.9.239|10003|Vietnam|Hanoi|Viettel Corporation|
 |15|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
 |16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|47.79.95.136|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|18|200.215.229.33|999|Peru|Cusco|Gpon Networks S.A.C.|
-|19|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|20|72.10.164.178|29655|Canada|Montreal|GloboTech Communications|
+|17|34.59.253.55|8080|United States|Council Bluffs|Google LLC|
+|18|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|19|202.5.32.72|5720|Bangladesh|Bāndarban|BBTS-NEW|
+|20|117.161.170.163|9015|China|Guangzhou|China Mobile communications corporation|
 
 
 
