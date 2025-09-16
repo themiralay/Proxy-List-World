@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|103.230.81.28|8080|Indonesia|Pandeglang|PT. Pandeglang Akses Semesta|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|4|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
 |5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|38.225.225.20|8080|Colombia|Medellín|Somos Networks Colombia S.a.s. BIC|
-|8|35.226.66.119|8080|United States|Council Bluffs|Google LLC|
-|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|157.66.50.37|8080|Indonesia|Karawang|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|12|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|13|117.103.71.77|8715|Indonesia|Malang|NARATEL|
-|14|161.97.131.23|8899|Germany|Düsseldorf|Contabo GmbH|
-|15|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|16|163.223.78.169|8080|Indonesia|Mojoagung|PT Big Network Indonesia|
-|17|24.199.124.152|3128|United States|Santa Clara|DigitalOcean, LLC|
-|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|19|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|20|103.156.75.41|8080|Indonesia|Banjar Pasekan|PT Trika Global Media|
+|6|89.58.15.147|3128|Germany|Nuremberg|netcup GmbH|
+|7|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|8|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|9|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|10|210.87.125.146|8090|Indonesia|Temenggungan|CV Brawijaya Giga Network|
+|11|103.156.75.41|8080|Indonesia|Banjar Pasekan|PT Trika Global Media|
+|12|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|13|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|14|81.90.149.188|3128|Iran|Tehran|Afranet|
+|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|16|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|17|38.159.63.8|999|Venezuela|Barquisimeto|Boom Solutions C.A.|
+|18|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|19|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|20|123.16.15.41|1452|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 
