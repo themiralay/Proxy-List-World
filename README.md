@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
-|3|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|4|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|9|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|14|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|103.81.194.124|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|18|43.208.251.198|1080|Thailand|Bangkok|Amazon.com, Inc.|
-|19|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|20|103.147.250.93|1452|India|Prayagraj|Prayag Broadband Pvt Ltd|
+|2|4.216.195.194|3128|Japan|Tokyo|Microsoft Corporation|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|12|35.226.66.119|8080|United States|Council Bluffs|Google LLC|
+|13|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|15|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|51.250.88.121|9998|Russia|Moscow|Yandex.Cloud LLC|
+|17|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|18|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|19|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|20|141.253.119.217|3143|France|Paris|Oracle Corporation|
 
 
 
