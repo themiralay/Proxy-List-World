@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|143.198.147.156|8888|United States|Santa Clara|DigitalOcean, LLC|
-|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|6|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|143.198.147.156|8888|United States|Santa Clara|DigitalOcean, LLC|
-|9|103.156.75.41|8080|Indonesia|Banjar Pasekan|PT Trika Global Media|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|38.225.225.20|8080|Colombia|Medellín|Somos Networks Colombia S.a.s. BIC|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|16|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|17|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
-|18|103.230.81.28|8080|Indonesia|Pandeglang|PT. Pandeglang Akses Semesta|
-|19|103.153.136.10|8080|Indonesia|Gorontalo|PT Andalas Global Network|
-|20|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|103.153.136.10|8080|Indonesia|Gorontalo|PT Andalas Global Network|
+|4|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|6|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|7|103.171.194.52|83|India|Mangaluru|Udupi Fastnet Private Limited|
+|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|9|203.76.220.126|16464|Bangladesh|Dhaka|BUSINESSNETWORK|
+|10|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|11|103.178.194.131|8080|Indonesia|Pasarkemis|PT Jaringan Keluarga Bersama|
+|12|45.167.126.170|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|13|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|15|103.46.11.92|8080|Indonesia|Bakalan|Lintas Data Prima, PT|
+|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|17|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|18|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|19|163.223.78.169|8080|Indonesia|Mojoagung|PT Big Network Indonesia|
+|20|200.70.35.2|8080|Argentina|Buenos Aires|Telefonica de Argentina|
 
 
 
