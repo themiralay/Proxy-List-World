@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|4.216.195.194|3128|Japan|Tokyo|Microsoft Corporation|
 |2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|3|43.156.183.113|443|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|47.79.93.202|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|139.162.13.186|8888|Singapore|Singapore|LINODE|
 |10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|15|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|17|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|18|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|19|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|20|51.250.88.121|9998|Russia|Moscow|Yandex.Cloud LLC|
+|11|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|12|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|15|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|16|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|17|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|18|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|19|51.250.88.121|9998|Russia|Moscow|Yandex.Cloud LLC|
+|20|144.124.228.87|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
