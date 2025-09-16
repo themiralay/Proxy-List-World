@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|434|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|434|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|434|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|423|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|423|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|423|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|103.147.250.93|1452|India|Prayagraj|Prayag Broadband Pvt Ltd|
-|10|119.92.142.172|5050|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|12|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|13|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|81.90.149.188|3128|Iran|Tehran|Afranet|
-|15|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
-|17|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|18|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|19|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|20|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|1|47.79.43.52|1122|Japan|Tokyo|Alibaba.com LLC|
+|2|60.249.94.59|3128|Taiwan|Chang-hua|Chunghwa Telecom Co., Ltd.|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|11|45.77.156.171|9091|United States|Piscataway|The Constant Company|
+|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|13|103.143.197.90|8080|Indonesia|Gunung Kendil|JERNIHNETWORK|
+|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|15|168.197.42.74|8080|Mexico|Puebla City|Kiwi Networks S A P I de CV|
+|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|17|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|45.77.156.171|9091|United States|Piscataway|The Constant Company|
+|19|103.147.250.93|1452|India|Prayagraj|Prayag Broadband Pvt Ltd|
+|20|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
 
 
 
