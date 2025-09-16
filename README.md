@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|8|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|11|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|13|140.112.90.49|3128|Taiwan|Xindian District|T-NTU.EDU.TW|
-|14|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|15|185.218.202.182|8080|Ukraine|Kyiv|"DOMINET" LLC|
-|16|157.180.121.252|46389|Finland|Helsinki|Hetzner Online GmbH|
-|17|119.2.45.105|8080|Indonesia|Jakarta|PT. Laxo Global Akses|
-|18|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
-|19|194.238.27.113|3128|United States|St Louis|Contabo Inc.|
-|20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|1|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|2|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|144.124.228.87|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|8|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|9|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|164.92.172.206|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
+|14|140.112.90.49|3128|Taiwan|Xindian District|T-NTU.EDU.TW|
+|15|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
+|16|169.239.86.148|8080|South Africa|Calvinia|Mezobyte (Pty) LTD|
+|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|19|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|20|119.2.45.105|8080|Indonesia|Jakarta|PT. Laxo Global Akses|
 
 
 
