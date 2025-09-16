@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|5|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|13|140.112.90.49|3128|Taiwan|Xindian District|T-NTU.EDU.TW|
-|14|157.180.121.252|10062|Finland|Helsinki|Hetzner Online GmbH|
-|15|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
-|16|157.180.121.252|10062|Finland|Helsinki|Hetzner Online GmbH|
-|17|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
-|18|157.180.121.252|10062|Finland|Helsinki|Hetzner Online GmbH|
-|19|24.56.124.111|8888|United States|Forest|Shenandoah Cable Television LLC|
-|20|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|7|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|8|18.143.165.238|86|Singapore|Singapore|Amazon Technologies Inc.|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|11|47.79.95.122|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|12|35.226.66.119|8080|United States|Council Bluffs|Google LLC|
+|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|16|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|17|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|18|71.168.71.12|8890|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
+|19|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|20|157.180.121.252|46389|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
