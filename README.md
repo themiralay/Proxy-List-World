@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|477|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|477|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|477|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|531|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|531|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|531|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|9|134.209.152.106|3128|India|Bengaluru|DigitalOcean, LLC|
-|10|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|11|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|13|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|14|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|71.168.71.12|8890|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
-|18|118.27.111.97|80|Japan|Chiyoda City|GMO Internet, Inc.|
-|19|188.132.222.147|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
-|20|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|103.54.80.151|8080|Indonesia|Purbalingga|MEDIACOMPUTINDO|
+|5|134.209.152.106|3128|India|Bengaluru|DigitalOcean, LLC|
+|6|163.223.78.169|8080|Indonesia|Mojoagung|PT Big Network Indonesia|
+|7|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|42.98.208.100|8080|Hong Kong|Hang Hau|PCCW IMS Limited|
+|11|121.58.225.226|5050|Philippines|Pasig|Converge ICT Solution Inc|
+|12|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|13|169.155.48.155|3128|France|Paris|Fly.io, Inc.|
+|14|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|15|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|16|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|17|38.159.63.8|999|Venezuela|Barquisimeto|Boom Solutions C.A.|
+|18|43.198.248.18|453|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|19|45.167.126.170|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|20|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
