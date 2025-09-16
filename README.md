@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|277|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|277|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|277|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|3|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|8|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|9|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|11|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|12|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
-|13|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|14|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|212.227.55.218|3128|Germany|Berlin|IONOS SE|
-|16|38.194.231.70|999|Mexico|Tequixquiac|Cogent Communications|
-|17|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|19|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|20|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|7|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|8|51.250.88.121|9998|Russia|Moscow|Yandex.Cloud LLC|
+|9|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|10|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|11|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|12|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|13|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|15|103.133.27.179|8080|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
+|16|120.28.216.23|8080|Philippines|Cagayan de Oro|Globe Telecom|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
+|19|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
