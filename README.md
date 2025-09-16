@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|10|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|18.143.165.238|86|Singapore|Singapore|Amazon Technologies Inc.|
-|13|14.103.231.162|1080|China|Beijing|BITNET|
-|14|71.168.71.12|8890|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
-|15|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
-|16|24.56.124.111|8888|United States|Forest|Shenandoah Cable Television LLC|
-|17|103.153.34.2|1111|Indonesia|Jatiwangi|JMExpress|
-|18|157.180.121.252|10024|Finland|Helsinki|Hetzner Online GmbH|
-|19|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|20|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|5|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|7|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|8|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|51.250.88.121|9998|Russia|Moscow|Yandex.Cloud LLC|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|35.226.66.119|8080|United States|Council Bluffs|Google LLC|
+|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|13|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|14|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|17|103.154.77.15|88|Indonesia|Sleman|T2NET|
+|18|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
+|19|157.180.121.252|10024|Finland|Helsinki|Hetzner Online GmbH|
+|20|157.180.121.252|10024|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
