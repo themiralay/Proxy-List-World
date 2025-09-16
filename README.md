@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|285|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|285|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|285|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|3|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|4|43.156.183.113|443|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|6|119.18.151.194|8443|Bangladesh|Comilla|BBTS Network|
-|7|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|8|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|141.253.121.129|3227|France|Paris|Oracle Corporation|
-|11|169.155.48.155|3128|France|Paris|Fly.io, Inc.|
-|12|169.155.48.155|3128|France|Paris|Fly.io, Inc.|
-|13|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|14|51.250.88.121|9998|Russia|Moscow|Yandex.Cloud LLC|
+|2|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|8|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|9|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|11|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|12|144.124.228.87|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|13|41.65.160.172|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |15|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|16|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|19|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
-|20|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|16|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|17|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|18|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|19|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
