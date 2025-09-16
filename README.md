@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|302|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|302|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|302|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|8|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
-|11|45.77.99.40|8990|United States|Piscataway|The Constant Company|
-|12|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|13|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|14|163.223.78.139|8080|Indonesia|Jombang|PT Big Network Indonesia|
-|15|91.108.130.18|3128|Iran|Tehran|Rayaneh Gostar Farzanegan Ahwaz Company LTD.|
-|16|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|17|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|18|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|19|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|20|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|3|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|6|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|7|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|8|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|9|163.223.78.139|8080|Indonesia|Jombang|PT Big Network Indonesia|
+|10|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|11|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|12|43.208.251.198|1080|Thailand|Bangkok|Amazon.com, Inc.|
+|13|38.253.80.25|999|Peru|Lima|Corporacion Tarazona Catv S.A.C.|
+|14|138.121.161.85|8097|Argentina|Rosario|WICORP SA|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
+|19|41.65.160.172|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|20|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
