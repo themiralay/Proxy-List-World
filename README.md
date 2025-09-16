@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|103.9.190.130|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|10|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|11|157.10.97.75|8090|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
-|12|190.60.57.42|3128|Colombia|San Diego|IFX NETWORKS COLOMBIA|
-|13|119.18.151.194|8443|Bangladesh|Comilla|BBTS Network|
-|14|103.167.4.10|8080|Indonesia|Wedoro|PT iForte Global Internet|
-|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|16|35.226.66.119|8080|United States|Council Bluffs|Google LLC|
-|17|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|3|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|9|119.18.151.194|8443|Bangladesh|Comilla|BBTS Network|
+|10|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|11|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|13|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|144.124.228.87|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|15|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|91.230.149.27|3128|Turkey|Mahmutbey|Makdos Bilisim Teknolojileri Sanayi Ticaret Limited Sirketi|
+|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |18|65.38.213.154|8881|Puerto Rico|San Juan|AT&T Mobility Puerto Rico|
-|19|157.100.53.124|999|Ecuador|Machala|Ufinet Panama S.A.|
-|20|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|19|51.250.88.121|9998|Russia|Moscow|Yandex.Cloud LLC|
+|20|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
 
 
 
