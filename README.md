@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|315|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|315|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|315|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|6|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|10|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|167.71.34.74|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|15|67.43.236.20|24955|Canada|Montreal|GloboTech Communications|
-|16|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|17|51.159.159.73|80|France|Paris|SCALEWAY|
-|18|157.180.121.252|15757|Finland|Helsinki|Hetzner Online GmbH|
-|19|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|157.180.121.252|15757|Finland|Helsinki|Hetzner Online GmbH|
+|3|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|4|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|5|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|157.180.121.252|35203|Finland|Helsinki|Hetzner Online GmbH|
+|8|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|67.43.236.20|24955|Canada|Montreal|GloboTech Communications|
+|11|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|12|202.159.35.84|9933|Indonesia|Jakarta|PT IndoInternet|
+|13|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|157.180.121.252|35203|Finland|Helsinki|Hetzner Online GmbH|
+|15|157.180.121.252|35203|Finland|Helsinki|Hetzner Online GmbH|
+|16|24.56.124.111|8888|United States|Forest|Shenandoah Cable Television LLC|
+|17|103.167.171.147|8080|Indonesia|Jakarta|PT Rajeg Media Telekomunikasi|
+|18|157.180.121.252|35203|Finland|Helsinki|Hetzner Online GmbH|
+|19|139.135.145.198|5050|Philippines|Pasig|ComClark Network & Technology Corp|
+|20|190.61.116.103|999|Honduras|Tegucigalpa|Ufinet Honduras|
 
 
 
