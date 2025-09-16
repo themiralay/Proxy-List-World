@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|2|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|134.209.152.106|3128|India|Bengaluru|DigitalOcean, LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|8|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|43.198.248.18|453|Hong Kong|Hong Kong|Amazon.com, Inc.|
-|10|42.98.208.100|8080|Hong Kong|Hang Hau|PCCW IMS Limited|
-|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|12|113.192.31.162|8080|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|14|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|15|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|16|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
-|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|18|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|19|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|20|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|5|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|134.209.152.106|3128|India|Bengaluru|DigitalOcean, LLC|
+|7|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|8|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|97.79.251.186|80|United States|Dallas|Spectrum|
+|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|13|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|14|35.226.66.119|8080|United States|Council Bluffs|Google LLC|
+|15|103.188.169.95|8080|Indonesia|Kresek|PT Lintas Jaringan Nusantara|
+|16|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|17|103.139.253.56|8080|Bangladesh|Savar Upazila|Ntech Communication|
+|18|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|19|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|20|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
