@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|3|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|4|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|5|103.188.169.95|8080|Indonesia|Kresek|PT Lintas Jaringan Nusantara|
-|6|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|9|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|10|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|11|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|12|103.191.129.245|8020|Indonesia|Depok|PT Metro Ring Bersama|
-|13|103.126.173.203|8880|Indonesia|Sidorejo|MEGARAP|
-|14|180.232.171.210|8080|Philippines|Biñan|Eastern Telecommunications Philippines, Inc.|
-|15|134.209.152.106|3128|India|Bengaluru|DigitalOcean, LLC|
-|16|103.189.63.149|56457|Indonesia|Denpasar|PT Blip Integrator Provider|
-|17|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|203.76.220.126|16464|Bangladesh|Dhaka|BUSINESSNETWORK|
-|19|103.156.75.41|8080|Indonesia|Banjar Pasekan|PT Trika Global Media|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|134.209.152.106|3128|India|Bengaluru|DigitalOcean, LLC|
+|4|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|43.198.248.18|453|Hong Kong|Hong Kong|Amazon.com, Inc.|
+|6|35.226.66.119|8080|United States|Council Bluffs|Google LLC|
+|7|103.153.136.10|8080|Indonesia|Gorontalo|PT Andalas Global Network|
+|8|81.90.149.188|3128|Iran|Tehran|Afranet|
+|9|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|12|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|13|188.132.150.199|8080|Turkey|Kilis|Guneydogu Telekom int.bil. ve ilt. hiz. tic. ltd. sti.|
+|14|103.171.183.146|7777|Indonesia|Cianjur|PT Hayat Teknologi Informatika|
+|15|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
+|19|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|20|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
 
 
 
