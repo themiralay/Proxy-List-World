@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |3|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |4|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|5|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|6|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
-|7|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|8|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|9|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|10|191.242.182.7|8080|Brazil|Taperoá|Conect Telecom|
-|11|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|12|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|51.250.88.121|9998|Russia|Moscow|Yandex.Cloud LLC|
-|16|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|17|164.92.172.206|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|125.27.159.208|8080|Thailand|Bangkok|TOT Public Company Limited|
-|19|67.43.236.19|29879|Canada|Montreal|GloboTech Communications|
-|20|103.97.140.23|8080|Indonesia|Bandung|PT Jembatan Data Pangrango|
+|5|41.65.160.172|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|6|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|8|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|9|191.242.182.7|8080|Brazil|Taperoá|Conect Telecom|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|45.136.198.40|3128|Germany|Frankfurt am Main|Managed by IROKO Networks|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|14|103.131.19.44|8080|Indonesia|Batang|PT Global Media Data Prima|
+|15|193.237.192.7|8888|United Kingdom|Biddulph|Vodafone|
+|16|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|17|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|18|103.158.121.64|7777|Indonesia|Jatibarang|CDN|
+|19|103.163.80.108|8080|Indonesia|Caruban|PT Data Arta Sedaya|
+|20|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
 
 
 
