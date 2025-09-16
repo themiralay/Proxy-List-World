@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|5|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |7|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|51.250.88.121|9998|Russia|Moscow|Yandex.Cloud LLC|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|77.110.114.19|8118|United States|Charlotte|Aeza International LTD|
-|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|17|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|35.226.66.119|8080|United States|Council Bluffs|Google LLC|
+|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|10|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|11|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|12|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|13|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
+|14|157.180.121.252|10024|Finland|Helsinki|Hetzner Online GmbH|
+|15|157.180.121.252|10024|Finland|Helsinki|Hetzner Online GmbH|
+|16|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
+|17|34.48.171.130|33080|United States|Washington|Google LLC|
+|18|157.180.121.252|10024|Finland|Helsinki|Hetzner Online GmbH|
+|19|157.180.121.252|10024|Finland|Helsinki|Hetzner Online GmbH|
+|20|157.180.121.252|10024|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
