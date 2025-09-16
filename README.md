@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|3|43.156.183.113|443|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|6|103.160.182.103|8080|Indonesia|Muktisari|PT Internusa Duta Makmur|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|171.228.134.93|1001|Vietnam|Hanoi|Viettel Corporation|
-|12|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|14|103.245.205.227|1515|Bangladesh|Bhātāra|Next Online Limited|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|17|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|18|199.66.157.89|8080|United States|Alex|SCT Broadband|
-|19|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|20|120.89.91.194|8085|Indonesia|Cianjur|PT. Java Digital Nusantara|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|11|103.245.205.227|1515|Bangladesh|Bhātāra|Next Online Limited|
+|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|14|209.14.98.6|8080|Colombia|Repelón|AGIS|
+|15|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|16|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|17|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|37.27.142.59|3128|Finland|Helsinki|Hetzner Online GmbH|
+|19|103.78.215.250|8080|Indonesia|Bandung|MORATELINDO|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
