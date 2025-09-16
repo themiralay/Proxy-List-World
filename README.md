@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
-|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|20.121.130.84|3128|United States|Boydton|Microsoft Corporation|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|103.187.86.26|8080|Indonesia|Pinrang|PT Satunol Digital Teknologi|
-|8|47.79.93.202|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|210.79.142.73|8080|Indonesia|Krajan Pringapus|PT Gayatri Lintas Nusantara|
-|11|43.252.107.102|7777|Indonesia|Krajan Pundungsari|PT Lintas Data Prima|
-|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|13|38.171.255.28|8080|Venezuela|Maracaibo|Airtek Solutions C.A.|
-|14|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|15|20.121.130.84|3128|United States|Boydton|Microsoft Corporation|
-|16|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|17|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|45.5.119.70|999|Guatemala|Coatepeque|Infinitum S.A.|
-|20|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|1|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|11|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|20.121.130.84|3128|United States|Boydton|Microsoft Corporation|
+|13|20.121.130.84|3128|United States|Boydton|Microsoft Corporation|
+|14|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
+|15|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|16|103.147.250.93|1452|India|Prayagraj|Prayag Broadband Pvt Ltd|
+|17|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|18|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|19|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|20|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
