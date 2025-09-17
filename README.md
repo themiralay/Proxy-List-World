@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|411|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|411|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|411|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|384|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|384|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|384|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.43.52|1122|Japan|Tokyo|Alibaba.com LLC|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|43.156.183.113|443|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|50.174.91.29|3128|United States|West Orange|Comcast Cable Communications, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|5|222.253.103.175|1006|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|7|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|11|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|116.203.192.255|1080|Germany|Nuremberg|Hetzner Online GmbH|
 |12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|14|50.174.91.29|3128|United States|West Orange|Comcast Cable Communications, LLC|
-|15|103.242.104.149|8080|Indonesia|Batu|PT Lintas Jaringan Nusantara|
-|16|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|17|200.24.146.97|8080|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|18|97.79.251.186|80|United States|Dallas|Spectrum|
-|19|167.71.34.74|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|181.78.202.29|8080|Ecuador|Quito|Ufinet Panama S.A.|
+|13|181.41.201.85|3128|Brazil|São Paulo|Datacamp Limited|
+|14|47.79.94.191|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|15|50.174.91.29|3128|United States|West Orange|Comcast Cable Communications, LLC|
+|16|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|17|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|18|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|19|103.55.22.252|8080|Indonesia|Kisaran|PT General Media Network|
+|20|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
 
 
 
