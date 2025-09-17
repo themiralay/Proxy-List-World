@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|27.66.26.153|10005|Vietnam|Ho Chi Minh City|Viettel Group|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|49.146.154.43|8082|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
-|12|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|13|38.225.225.20|8080|Colombia|Medellín|Somos Networks Colombia S.a.s. BIC|
-|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|16|103.153.79.253|10001|Vietnam|Láng Thượng|HN-VIETSERVER|
-|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
-|20|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|8|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
+|9|27.66.26.153|10005|Vietnam|Ho Chi Minh City|Viettel Group|
+|10|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
+|17|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
