@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|103.126.87.134|8089|Indonesia|Selogiri|PT. Rasi Bintang Perkasa|
-|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|103.133.26.11|8080|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
-|10|110.44.115.83|8080|Nepal|Kathmandu|VIA NET COMMUNICATION PUBLIC LIMITED|
-|11|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|13|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|14|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|2|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|13|51.250.88.121|9998|Russia|Moscow|Yandex.Cloud LLC|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|45.77.156.171|9091|United States|Piscataway|The Constant Company|
+|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|17|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
 |18|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|19|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|20|45.77.156.171|9091|United States|Piscataway|The Constant Company|
+|19|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
+|20|103.81.175.218|28022|Bangladesh|Dhaka|ADN Telecom Ltd.|
 
 
 
