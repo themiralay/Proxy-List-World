@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.94.78|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|1|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
 |2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|6|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|181.41.201.85|3128|Brazil|São Paulo|Datacamp Limited|
-|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|182.253.42.148|8082|Indonesia|Banjar Tengah|BIZNET|
-|13|43.156.183.113|443|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|15|181.78.50.121|999|Guatemala|Asunción Mita|Ufinet Panama S.A.|
-|16|45.77.156.171|9091|United States|Piscataway|The Constant Company|
-|17|45.4.0.60|999|Chile|San José de Tango|Tlink SPA|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|45.77.156.171|9091|United States|Piscataway|The Constant Company|
+|6|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|38.225.225.20|8080|Colombia|Medellín|Somos Networks Colombia S.a.s. BIC|
+|10|45.77.156.171|9091|United States|Piscataway|The Constant Company|
+|11|103.143.197.218|8000|Indonesia|Karanganom|JERNIHNETWORK|
+|12|203.201.174.166|64321|Indonesia|Jagirsidosermo|DNET-SBY|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|15|103.240.68.87|1111|Indonesia|Percut|PT Parsaoran Global Datatrans|
+|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|17|24.56.124.111|8888|United States|Forest|Shenandoah Cable Television LLC|
+|18|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|19|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
+|20|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
 
 
 
