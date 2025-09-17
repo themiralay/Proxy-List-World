@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|27.66.26.153|10005|Vietnam|Ho Chi Minh City|Viettel Group|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|115.77.223.144|1001|Vietnam|Ho Chi Minh City|Viettel Group|
-|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|10|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|11|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|12|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|13|27.66.26.153|10005|Vietnam|Ho Chi Minh City|Viettel Group|
-|14|40.172.232.213|8088|United Arab Emirates|Dubai|Amazon.com|
-|15|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|16|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|17|50.174.91.29|3128|United States|West Orange|Comcast Cable Communications, LLC|
-|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|13|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|18|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
 |19|37.220.139.219|8080|Hungary|Budapest|ACE Telecom Kft|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|191.242.182.7|8080|Brazil|Taperoá|Conect Telecom|
 
 
 
