@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|5|27.66.26.153|10005|Vietnam|Ho Chi Minh City|Viettel Group|
-|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|11|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
-|12|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
+|2|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|27.66.26.153|10005|Vietnam|Ho Chi Minh City|Viettel Group|
+|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
+|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|12|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
 |13|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|14|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|116.102.106.106|10004|Vietnam|Vũng Tàu|Viettel Corporation|
-|17|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|18|35.222.31.167|80|United States|Council Bluffs|Google LLC|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|16|35.222.31.167|80|United States|Council Bluffs|Google LLC|
+|17|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|103.171.245.111|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
 
 
 
