@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
 |7|27.66.26.153|10005|Vietnam|Ho Chi Minh City|Viettel Group|
 |8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
+|11|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|35.226.66.119|8080|United States|Council Bluffs|Google LLC|
 |14|103.153.79.253|10001|Vietnam|Láng Thượng|HN-VIETSERVER|
-|15|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|17|18.143.165.238|86|Singapore|Singapore|Amazon Technologies Inc.|
-|18|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|19|164.92.172.206|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|15|45.77.156.171|9091|United States|Piscataway|The Constant Company|
+|16|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
+|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|19|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
