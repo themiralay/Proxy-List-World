@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|182.253.109.140|8080|Indonesia|Semarang|Biznet Metronet|
-|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|5|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|12|203.76.220.126|16464|Bangladesh|Dhaka|BUSINESSNETWORK|
-|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
-|16|71.168.71.12|8890|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
-|17|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|18|38.194.231.70|999|Mexico|Tequixquiac|Cogent Communications|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|2|182.253.109.140|8080|Indonesia|Semarang|Biznet Metronet|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|103.126.119.155|8080|Indonesia|Tangerang|PT. Media Tekno Nusantara|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|10|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|11|38.194.231.70|999|Mexico|Tequixquiac|Cogent Communications|
+|12|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|15|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|16|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|185.4.29.243|7887|Iran|Tehran|Green Web Samaneh Novin' s|
+|19|77.110.114.19|8118|United States|Charlotte|Aeza International LTD|
+|20|103.187.162.221|8022|Indonesia|Tangerang|PT Misqot Sejahtera Indonesia|
 
 
 
