@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|27.66.26.153|10005|Vietnam|Ho Chi Minh City|Viettel Group|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|10|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|11|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|8|27.66.26.153|10005|Vietnam|Ho Chi Minh City|Viettel Group|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|11|103.171.245.111|1080|Indonesia|Ngawi|PT Data Arta Sedaya|
 |12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
 |14|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|17|18.143.165.238|86|Singapore|Singapore|Amazon Technologies Inc.|
-|18|115.72.39.200|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|20|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
 
 
 
