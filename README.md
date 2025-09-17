@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|27.66.26.153|10005|Vietnam|Ho Chi Minh City|Viettel Group|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|27.66.26.153|10005|Vietnam|Ho Chi Minh City|Viettel Group|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|38.211.24.18|8080|Indonesia|Bandung|PT Putra Garsel Interkoneksi|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|164.92.172.206|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|85.119.120.55|8080|Malta|Birkirkara|Melita Ltd|
-|20|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|7|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|209.141.57.216|80|United States|Las Vegas|FranTech Solutions|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|16|157.20.244.73|8766|Indonesia|Tulungagung|PT.Global Media Data Prima|
+|17|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|18|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|19|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|20|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
