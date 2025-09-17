@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|10|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|222.59.173.105|45069|China|Qinnan|China Mobile Communications Corporation|
-|13|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
-|14|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|18|72.10.160.90|24279|Canada|Montreal|GloboTech Communications|
-|19|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|20|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|3|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|7|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|38.194.246.34|999|Mexico|León|Cogent Communications|
+|12|74.207.235.213|1221|United States|Atlanta|Akamai Technologies, Inc.|
+|13|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|14|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
+|15|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|16|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|17|72.10.160.90|12793|Canada|Montreal|GloboTech Communications|
+|18|185.112.151.207|8022|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
+|19|180.190.202.175|8082|Philippines|Lahug|Globe Telecom|
+|20|154.19.38.195|1111|Indonesia|Tangerang|PT Lintas Network Solusi|
 
 
 
