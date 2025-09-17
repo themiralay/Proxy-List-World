@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|355|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|355|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|355|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
-|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|68.183.179.119|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|223.25.110.216|8080|Indonesia|Gombong|SinergiNet|
-|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|8|50.174.91.29|3128|United States|West Orange|Comcast Cable Communications, LLC|
-|9|24.173.217.114|55443|United States|Mesquite|Spectrum|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|12|103.153.52.114|8080|Bangladesh|Nārāyanganj|BKB Network|
-|13|103.230.62.102|8080|Bangladesh|Chittagong|Next Online Ltd|
-|14|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|50.174.91.29|3128|United States|West Orange|Comcast Cable Communications, LLC|
+|8|163.47.166.70|8080|New Zealand|Ashburton|Ultimate Mobile limited|
+|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|10|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|14|200.24.146.97|8080|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|193.237.192.7|8888|United Kingdom|Biddulph|Vodafone|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |18|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|19|167.71.34.74|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|103.84.176.122|8084|Philippines|Iloilo City|Panay Broadband / Buenavista Cable TV., Inc.|
+|19|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|20|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
 
 
 
