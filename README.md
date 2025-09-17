@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|47.79.94.78|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|4|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|10|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|12|72.10.160.90|3581|Canada|Montreal|GloboTech Communications|
-|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|15|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
-|18|103.155.167.149|8181|Indonesia|Serpong|PT Network Lintas Fiberindo|
-|19|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|47.79.91.116|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|6|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|7|72.10.160.90|3581|Canada|Montreal|GloboTech Communications|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|11|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|12|103.156.16.45|8080|Indonesia|Indramayu|RSTNET|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|203.201.174.166|64321|Indonesia|Jagirsidosermo|DNET-SBY|
+|15|103.81.175.218|28022|Bangladesh|Dhaka|ADN Telecom Ltd.|
+|16|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|17|103.124.137.60|8755|Indonesia|Ungaran|Global Media Data Prima|
+|18|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
+|19|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
+|20|157.180.121.252|23353|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
