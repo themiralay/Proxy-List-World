@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|182.253.109.30|8080|Indonesia|Semarang|Biznet Metronet|
-|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|15|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|16|62.193.108.144|1981|Egypt|Giza|Etisalat|
-|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|18.143.165.238|86|Singapore|Singapore|Amazon Technologies Inc.|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|182.253.109.30|8080|Indonesia|Semarang|Biznet Metronet|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|11|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|16|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|17|81.90.149.188|3128|Iran|Tehran|Afranet|
+|18|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|20|95.67.103.70|3128|Ukraine|Kyiv|Cosmonova|
 
 
 
