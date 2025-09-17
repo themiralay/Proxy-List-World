@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|27.66.26.153|10005|Vietnam|Ho Chi Minh City|Viettel Group|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|6|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|14|164.92.172.206|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|17|116.102.106.106|10004|Vietnam|Vũng Tàu|Viettel Corporation|
-|18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|19|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|20|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|8|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|9|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|12|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|14|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|15|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
+|16|191.97.14.189|999|Colombia|Tame|TV AZTECA SUCURSAL COLOMBIA|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
+|19|27.72.143.112|10020|Vietnam|Hanoi|Newass2011xDSLHN|
+|20|36.147.78.166|443|China|Guangzhou|China Mobile|
 
 
 
