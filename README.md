@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|3|47.79.94.78|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|6|45.77.156.171|9091|United States|Piscataway|The Constant Company|
-|7|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|8|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|9|190.5.96.154|999|Honduras|Tegucigalpa|Liberty Networks Honduras|
-|10|131.100.48.73|999|Colombia|Florencia|Fibernet TV SAS|
-|11|45.77.156.171|9091|United States|Piscataway|The Constant Company|
-|12|103.35.111.233|19753|Bangladesh|Azimpur|Ranks ITT|
-|13|103.234.27.194|8080|Bangladesh|Dhaka|BTS Communications (BD) Ltd|
-|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|15|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|16|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|19|119.18.148.66|5720|Bangladesh|Chittagong|BBTS Network|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|103.133.26.11|8080|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
+|6|157.10.97.229|8080|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
+|7|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|8|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|45.77.156.171|9091|United States|Piscataway|The Constant Company|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|14|157.66.251.227|8080|Indonesia|Pasararba|PT Haykal Solutions Technology|
+|15|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
+|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|17|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|19|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
