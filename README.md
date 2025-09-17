@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
-|10|18.143.165.238|86|Singapore|Singapore|Amazon Technologies Inc.|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|15|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|16|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|19|181.129.183.19|53281|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
-|20|37.220.139.219|8080|Hungary|Budapest|ACE Telecom Kft|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|8|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|10|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|11|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
+|15|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
+|16|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|17|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|19|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|20|164.92.172.206|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
