@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|103.160.68.213|8080|Indonesia|Surabaya|PT Gayatri Lintas Nusantara|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|12|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|13|109.74.132.178|8080|Russia|Moscow|OOO WestCall Ltd|
-|14|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
-|17|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
-|18|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|19|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|20|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|13|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|14|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|15|157.66.16.52|8080|Indonesia|Indramayu|PT Mitra Mandiri Network|
+|16|77.110.114.19|8118|United States|Charlotte|Aeza International LTD|
+|17|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|166.249.54.64|7234|United States|District Heights|Verizon Business|
 
 
 
