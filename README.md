@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.43.52|1122|Japan|Tokyo|Alibaba.com LLC|
-|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|8|50.174.91.29|3128|United States|West Orange|Comcast Cable Communications, LLC|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|1|50.174.91.29|3128|United States|West Orange|Comcast Cable Communications, LLC|
+|2|43.156.183.113|443|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|9|200.24.135.77|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|163.47.166.70|8080|New Zealand|Ashburton|Ultimate Mobile limited|
 |12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|14|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|13|103.230.62.102|8080|Bangladesh|Chittagong|Next Online Ltd|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |15|193.237.192.7|8888|United Kingdom|Biddulph|Vodafone|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|50.174.91.29|3128|United States|West Orange|Comcast Cable Communications, LLC|
-|18|113.192.3.230|1452|Indonesia|Jogonalan|PT Boombas Carlo Medianet|
-|19|172.98.201.190|3128|United States|Dallas|Centrilogic|
-|20|200.24.146.97|8080|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|16|51.250.88.121|9998|Russia|Moscow|Yandex.Cloud LLC|
+|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|20|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
 
 
 
