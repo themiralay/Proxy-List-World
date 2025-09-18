@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|11|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|13|67.43.228.254|9105|Canada|Montreal|GloboTech Communications|
-|14|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|15|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|18|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|19|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|20|164.92.172.206|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|45.167.126.174|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|10|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|11|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|12|181.205.161.187|999|Colombia|Medellín|Colombia Móvil|
+|13|103.247.23.37|1111|Indonesia|Wonosobo|PT wifian Solution|
+|14|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|15|103.174.238.67|8080|Indonesia|Arjawinangun|PT Anugerah Cimanuk Raya|
+|16|103.83.224.176|8080|Philippines|Mandaue City|Channel Information Technology Support and Leasing Services Inc.|
+|17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|18|46.161.194.93|8085|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|20|103.153.39.35|8083|Pakistan|Burewala|Getlinks (SMC-Private) Limited|
 
 
 
