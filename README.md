@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|4|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|6|182.253.109.30|8080|Indonesia|Semarang|Biznet Metronet|
-|7|187.153.245.111|8888|Mexico|Ciudad Nezahualcoyotl|UNINET|
-|8|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|12|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|13|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|14|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|16|209.14.98.6|8080|Colombia|Repelón|AGIS|
-|17|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|18|181.41.201.85|3128|Brazil|São Paulo|Datacamp Limited|
-|19|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|20|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|2|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|10|182.253.109.30|8080|Indonesia|Semarang|Biznet Metronet|
+|11|160.25.48.33|9090|Indonesia|Bangsal Aceh|PT Shs Solusindo Network|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|15|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|16|43.225.151.193|8989|Bangladesh|Dhaka|Next Online|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|19|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|20|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
 
 
 
