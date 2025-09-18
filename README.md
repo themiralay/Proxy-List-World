@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
-|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|5|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|6|182.253.109.30|8080|Indonesia|Semarang|Biznet Metronet|
-|7|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|175.138.75.137|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|9|47.79.94.78|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|11|38.183.146.21|8085|Indonesia|Weleri|PT Ikhlas Cipta Teknologi|
-|12|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|13|187.153.245.111|8888|Mexico|Ciudad Nezahualcoyotl|UNINET|
-|14|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|15|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|8|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|9|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|10|182.253.109.30|8080|Indonesia|Semarang|Biznet Metronet|
+|11|43.225.151.193|8989|Bangladesh|Dhaka|Next Online|
+|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|13|35.226.66.119|8080|United States|Council Bluffs|Google LLC|
+|14|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|15|103.82.246.249|6080|Indonesia|Ciputat|PT Master Star Network|
+|16|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
 |17|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|18|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|19|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|18|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|19|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
 |20|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
 
 
