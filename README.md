@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|4|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|6|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|7|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|182.253.109.30|8080|Indonesia|Semarang|Biznet Metronet|
-|10|49.156.44.115|8080|Cambodia|Phnom Penh|WiCAM Corporation|
-|11|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|12|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|13|43.225.151.193|8989|Bangladesh|Dhaka|Next Online|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|172.236.19.151|3128|United Kingdom|London|Akamai Technologies, Inc.|
-|16|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|17|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|18|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|19|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|20|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|2|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|3|182.253.109.30|8080|Indonesia|Semarang|Biznet Metronet|
+|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|7|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|8|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|10|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|11|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|12|181.41.201.85|3128|Brazil|São Paulo|Datacamp Limited|
+|13|49.156.44.115|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|14|38.56.198.24|8080|Syria|Damascus|Abdul Rahman Mustafa trading as Alfateh Company for Communications|
+|15|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|16|189.203.180.244|999|Mexico|Santa Cruz Amilpas|Total Play Telecomunicaciones SA De CV|
+|17|71.168.71.12|8890|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
+|18|185.112.151.207|8022|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
+|19|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|20|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
 
 
 
