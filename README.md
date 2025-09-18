@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
-|3|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|4|144.124.228.87|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|5|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|8|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|9|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|10|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|11|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|144.124.228.87|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|17|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
-|18|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|19|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|20|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
+|3|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|12|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|13|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|15|38.225.225.20|8080|Colombia|Medellín|Somos Networks Colombia S.a.s. BIC|
+|16|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|17|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|18|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|19|122.3.41.154|8090|Philippines|Cainta|Philippine Long Distance Telephone Co.|
+|20|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
 
 
 
