@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|4|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|8|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|9|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|10|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|164.92.172.206|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|15|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
-|16|58.136.171.193|8080|Thailand|Bangkok|AIS-Fibre|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|20|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|11|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|14|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|15|103.193.144.81|8080|Indonesia|Pangkalan Brandan|PT Lintas Jaringan Nusantara|
+|16|161.49.91.13|1337|Philippines|Pasig|Converge ICT Solution Inc|
+|17|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|18|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|20|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
 
 
 
