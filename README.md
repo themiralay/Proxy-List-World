@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|6|182.253.109.30|8080|Indonesia|Semarang|Biznet Metronet|
-|7|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|8|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|172.236.19.151|3128|United Kingdom|London|Akamai Technologies, Inc.|
-|10|49.156.44.115|8080|Cambodia|Phnom Penh|WiCAM Corporation|
-|11|71.168.71.12|8890|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
-|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|16|209.14.98.5|8080|Colombia|Repelón|AGIS|
-|17|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|18|181.41.201.85|3128|Brazil|São Paulo|Datacamp Limited|
-|19|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|20|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|7|182.253.109.30|8080|Indonesia|Semarang|Biznet Metronet|
+|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|9|49.156.44.115|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|10|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|11|45.167.126.175|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|12|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|13|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|14|181.41.201.85|3128|Brazil|São Paulo|Datacamp Limited|
+|15|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|16|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|17|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|18|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|19|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|20|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
 
 
 
