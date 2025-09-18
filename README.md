@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|5|182.253.109.30|8080|Indonesia|Semarang|Biznet Metronet|
+|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
 |6|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|43.225.148.26|8989|Bangladesh|Tongi|Next Online|
-|12|143.208.57.162|999|Guatemala|Parramos|Comunicaciones Metropolitanas Cablecolor|
-|13|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|14|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|7|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|8|182.253.109.30|8080|Indonesia|Semarang|Biznet Metronet|
+|9|152.53.194.46|8065|United States|Manassas|netcup GmbH|
+|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|11|49.156.44.115|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|12|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|13|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|14|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
 |15|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|16|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|17|91.84.99.28|8444|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|181.41.201.85|3128|Brazil|São Paulo|Datacamp Limited|
-|19|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|20|103.97.140.96|8080|Indonesia|Bandung|PT Jembatan Data Pangrango|
+|16|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|17|175.138.75.137|8080|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
+|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|19|103.167.170.244|1111|Indonesia|Jakarta|PT Rajeg Media Telekomunikasi|
+|20|103.189.197.117|3125|Indonesia|Cirebon|PT Graha Sumber Teknologi|
 
 
 
