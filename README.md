@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|113.192.31.19|8090|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|6|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|1|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|9|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|103.10.52.222|7653|Bangladesh|Dhaka|Drik ICT Ltd|
-|11|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|144.124.228.87|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|16|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|17|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|18|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|19|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|20|169.155.48.155|3128|France|Paris|Fly.io, Inc.|
+|9|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|10|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|11|38.225.225.20|8080|Colombia|Medellín|Somos Networks Colombia S.a.s. BIC|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|144.124.228.87|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|15|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|16|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|19|45.77.156.171|9091|United States|Piscataway|The Constant Company|
+|20|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
 
 
 
