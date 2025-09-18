@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|2|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|8|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|10|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|11|180.191.20.10|8081|Philippines|Cabanatuan City|Globe Telecom|
-|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|13|144.124.228.87|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|14|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|15|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|16|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|191.242.182.7|8080|Brazil|Taperoá|Conect Telecom|
-|19|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|20|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
+|1|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|3|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|7|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|8|144.124.228.87|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|9|45.77.156.171|9091|United States|Piscataway|The Constant Company|
+|10|213.231.7.10|8282|Ukraine|Odesa|TOV TRK "Briz"|
+|11|34.48.171.130|33080|United States|Washington|Google LLC|
+|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|191.242.182.7|8080|Brazil|Taperoá|Conect Telecom|
 
 
 
