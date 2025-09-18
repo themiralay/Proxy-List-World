@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
-|3|77.110.114.19|8118|United States|Charlotte|Aeza International LTD|
+|2|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |4|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|77.110.114.19|8118|United States|Charlotte|Aeza International LTD|
-|7|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|8|38.225.225.20|8080|Colombia|Medellín|Somos Networks Colombia S.a.s. BIC|
-|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|212.80.216.232|3128|The Netherlands|Amsterdam|Serverio technologijos MB|
-|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|13|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|15|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|144.124.228.87|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|38.225.225.20|8080|Colombia|Medellín|Somos Networks Colombia S.a.s. BIC|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|14|157.230.49.238|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|212.80.216.232|3128|The Netherlands|Amsterdam|Serverio technologijos MB|
+|16|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
 |17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|19|103.118.102.98|80|Indonesia|Jakarta|PT Cyberindo Aditama|
-|20|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|18|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|19|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|117.103.71.77|8715|Indonesia|Malang|NARATEL|
 
 
 
