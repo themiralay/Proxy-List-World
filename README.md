@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|7|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
-|8|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|9|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|10|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|11|164.92.172.206|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|191.242.182.7|8080|Brazil|Taperoá|Conect Telecom|
+|1|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|6|43.225.151.129|8989|Bangladesh|Dhaka|Next Online|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|35.226.66.119|8080|United States|Council Bluffs|Google LLC|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|11|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|144.124.228.87|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
-|17|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|43.225.151.129|8989|Bangladesh|Dhaka|Next Online|
-|20|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
+|15|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|16|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|17|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|191.242.182.7|8080|Brazil|Taperoá|Conect Telecom|
+|19|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
+|20|38.225.225.20|8080|Colombia|Medellín|Somos Networks Colombia S.a.s. BIC|
 
 
 
