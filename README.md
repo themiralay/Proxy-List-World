@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|8|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|12|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|13|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
-|14|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
-|15|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|10|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|12|181.41.201.85|3128|Brazil|São Paulo|Datacamp Limited|
+|13|144.124.228.87|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|15|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
 |16|45.77.156.171|9091|United States|Piscataway|The Constant Company|
-|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|18|35.226.66.119|8080|United States|Council Bluffs|Google LLC|
-|19|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|20|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|18|45.77.156.171|9091|United States|Piscataway|The Constant Company|
+|19|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
