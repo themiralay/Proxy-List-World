@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
-|8|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|9|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|10|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|11|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|12|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|13|144.124.228.87|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|16|116.203.139.209|5678|Germany|Nuremberg|Hetzner Online GmbH|
-|17|181.41.201.85|3128|Brazil|São Paulo|Datacamp Limited|
-|18|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|19|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|2|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
+|3|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|6|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|7|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|9|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|10|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
+|14|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|15|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|17|147.75.68.85|443|United States|San Jose|Packet Host, Inc.|
+|18|34.48.171.130|33080|United States|Washington|Google LLC|
+|19|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|20|43.225.148.130|8989|Bangladesh|Tongi|Next Online|
 
 
 
