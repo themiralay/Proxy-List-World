@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|2|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|5|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|6|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
-|7|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|8|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|9|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|10|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|11|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|14|176.235.182.71|8080|Türkiye|Kilis|Superonline Iletisim Hizmetleri A.S.|
-|15|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|16|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|4|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
+|7|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
+|8|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|11|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|14|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|15|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|16|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|36.95.245.7|8090|Indonesia|Batam|PT. Telekomunikasi Indonesia|
+|19|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|20|139.135.141.12|8095|Philippines|Mamburao|ComClark Network & Technology Corp|
 
 
 
