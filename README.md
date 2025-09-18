@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|3|182.253.109.30|8080|Indonesia|Semarang|Biznet Metronet|
-|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|15|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|16|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|17|114.9.62.250|1452|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|18|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|19|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
+|3|103.52.115.171|3128|Indonesia|Cicurug|PT. Cloud Hosting Indonesia|
+|4|182.253.109.30|8080|Indonesia|Semarang|Biznet Metronet|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|9|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|10|38.225.225.20|8080|Colombia|Medellín|Somos Networks Colombia S.a.s. BIC|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|12|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|13|47.79.94.191|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|14|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|15|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|16|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|17|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|20|200.125.170.108|999|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
 
 
 
