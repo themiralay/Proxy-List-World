@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|7|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|10|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|14|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|16|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|164.92.172.206|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|103.159.96.195|2117|Indonesia|Caruban|PT Jinde Grup Indonesia|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|126.209.2.2|8081|Philippines|Manila|Infinivan Incorporated|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|8|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|9|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|10|103.153.39.37|8083|Pakistan|Burewala|Getlinks (SMC-Private) Limited|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
+|13|40.172.232.213|8088|United Arab Emirates|Dubai|Amazon.com|
+|14|41.128.77.77|1976|Egypt|Cairo|LINKdotNET AS number|
+|15|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|16|103.83.224.176|8080|Philippines|Mandaue City|Channel Information Technology Support and Leasing Services Inc.|
+|17|119.18.149.83|8443|Bangladesh|Chittagong|BBTS Network|
+|18|204.199.140.24|999|Chile|Villa Alegre|Ingbell Chile SPA|
+|19|46.245.123.10|8080|Iran|Tehran|Asiatech Data Transmission company|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
