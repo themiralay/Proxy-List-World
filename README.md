@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
-|3|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|8|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
-|9|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
-|10|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|11|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|13|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|1|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|2|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|4|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|5|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|6|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|7|3.79.73.102|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|8|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|9|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|10|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|45.77.156.171|9091|United States|Piscataway|The Constant Company|
+|12|181.41.201.85|3128|Brazil|São Paulo|Datacamp Limited|
+|13|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|144.124.228.87|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
 |16|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|17|144.124.228.87|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|19|181.41.201.85|3128|Brazil|São Paulo|Datacamp Limited|
-|20|144.124.228.87|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|17|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|20|115.72.47.208|10001|Vietnam|Ho Chi Minh City|VIETELmetro|
 
 
 
