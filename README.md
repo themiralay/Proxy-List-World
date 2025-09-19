@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|9|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|12|152.53.194.46|8065|United States|Manassas|netcup GmbH|
-|13|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|14|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
-|15|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|16|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|17|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|18|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|19|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|7|164.92.172.206|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|9|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|10|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
+|11|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|14|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|17|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|20|157.230.49.238|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
