@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
 |2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|77.110.114.19|8118|United States|Charlotte|Aeza International LTD|
-|7|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|12|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|16|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|17|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|18|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|19|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|13|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|14|124.83.120.47|8081|Philippines|Marilao|Philippine Long Distance Telephone Co.|
+|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|144.124.228.87|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|19|65.108.203.36|28080|Finland|Helsinki|Hetzner Online GmbH|
 |20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 
 
