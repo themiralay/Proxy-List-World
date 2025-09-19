@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|379|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|379|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|379|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|4|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|5|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|13|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|15|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|16|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
-|17|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|18|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
-|19|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|4|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|9|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|10|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
+|11|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|12|129.146.167.15|3128|United States|Phoenix|Oracle Corporation|
+|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|16|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|18|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|19|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|20|35.226.66.119|8080|United States|Council Bluffs|Google LLC|
 
 
 
