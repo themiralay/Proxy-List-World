@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|4|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|5|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|6|45.123.142.77|8181|Indonesia|Curug|PT Anten Sarana Teknologi|
 |7|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|13|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|15|157.180.121.252|54029|Finland|Helsinki|Hetzner Online GmbH|
-|16|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|17|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|19|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|20|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
+|8|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|9|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|10|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|11|157.180.121.252|31034|Finland|Helsinki|Hetzner Online GmbH|
+|12|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|13|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|14|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|18|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
+|19|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|20|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
 
 
 
