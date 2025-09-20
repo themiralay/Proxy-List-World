@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|47.79.93.202|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|5|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|2|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|7|158.69.185.37|3129|Canada|Montreal|OVH SAS|
 |8|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|12|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|14|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|15|103.122.65.242|8080|Indonesia|Munduk|PT. Jinom Network Indonesia|
-|16|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|17|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|18|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|19|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|20|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|10|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|15|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|18|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|19|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|20|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
 
 
 
