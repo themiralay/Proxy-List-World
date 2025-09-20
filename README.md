@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|9|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|12|103.48.71.138|83|India|Hyderabad|Country Online Services PVT LTD|
-|13|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|14|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|15|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|18|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
-|19|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|7|152.53.194.46|8065|United States|Manassas|netcup GmbH|
+|8|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|11|89.144.32.77|1123|Poland|Warsaw|Sebastian Stefanek trading as MatHost.eu|
+|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|13|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|16|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|20|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 
 
 
