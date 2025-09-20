@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
 |3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|5|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|4|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|5|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |7|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|10|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
-|11|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|12|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
-|13|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
-|14|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|193.237.192.7|8888|United Kingdom|Biddulph|Vodafone|
-|17|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|18|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|10|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|13|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|16|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|17|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|18|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
