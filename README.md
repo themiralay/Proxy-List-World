@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|103.167.171.153|2222|Indonesia|Jakarta|PT Rajeg Media Telekomunikasi|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|222.127.55.155|8082|Philippines|Lahug|INNOVE|
 |4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |6|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|7|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|10|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|13|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|15|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|16|35.226.66.119|8080|United States|Council Bluffs|Google LLC|
-|17|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|18|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|129.146.169.173|3128|United States|Phoenix|Oracle Corporation|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|11|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|12|145.223.74.203|8080|United States|Boston|HOSTINGER US|
+|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|17|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|103.133.26.11|8080|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
 
 
 
