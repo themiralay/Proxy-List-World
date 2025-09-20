@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|6|163.223.78.87|3127|Indonesia|Jombang|PT Big Network Indonesia|
-|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|11|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|12|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|14|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
-|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|16|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|19|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
-|20|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|3|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|103.245.205.227|1515|Bangladesh|Bhātāra|Next Online Limited|
+|11|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|12|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|13|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|14|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
+|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|16|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|17|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|18|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|20|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
 
 
 
