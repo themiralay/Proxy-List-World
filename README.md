@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|23.95.248.47|5566|United States|Los Angeles|HostPapa|
-|6|88.216.98.201|53983|United States|Chicago|AT&T Enterprises, LLC|
-|7|88.216.98.194|53983|United States|Chicago|AT&T Enterprises, LLC|
-|8|88.216.98.205|53983|United States|Chicago|AT&T Enterprises, LLC|
-|9|88.216.98.247|53983|United States|Chicago|AT&T Enterprises, LLC|
-|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|11|88.216.98.242|53983|United States|Chicago|AT&T Enterprises, LLC|
-|12|88.216.98.251|53983|United States|Chicago|AT&T Enterprises, LLC|
-|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|14|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|88.216.98.185|53983|United States|Chicago|AT&T Enterprises, LLC|
-|16|88.216.98.233|53983|United States|Chicago|AT&T Enterprises, LLC|
-|17|88.216.98.220|53983|United States|Chicago|AT&T Enterprises, LLC|
-|18|88.216.98.211|53983|United States|Chicago|AT&T Enterprises, LLC|
-|19|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|20|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|47.79.94.78|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|23.95.248.47|5566|United States|Los Angeles|HostPapa|
+|4|88.216.98.200|53983|United States|Chicago|AT&T Enterprises, LLC|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|88.216.98.205|53983|United States|Chicago|AT&T Enterprises, LLC|
+|7|88.216.98.242|53983|United States|Chicago|AT&T Enterprises, LLC|
+|8|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|10|88.216.98.220|53983|United States|Chicago|AT&T Enterprises, LLC|
+|11|88.216.98.233|53983|United States|Chicago|AT&T Enterprises, LLC|
+|12|88.216.98.247|53983|United States|Chicago|AT&T Enterprises, LLC|
+|13|88.216.98.211|53983|United States|Chicago|AT&T Enterprises, LLC|
+|14|88.216.98.189|53983|United States|Chicago|AT&T Enterprises, LLC|
+|15|88.216.98.194|53983|United States|Chicago|AT&T Enterprises, LLC|
+|16|88.216.98.185|53983|United States|Chicago|AT&T Enterprises, LLC|
+|17|88.216.98.199|53983|United States|Chicago|AT&T Enterprises, LLC|
+|18|23.95.248.47|5566|United States|Los Angeles|HostPapa|
+|19|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
