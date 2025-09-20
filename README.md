@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|157.66.51.155|8080|Indonesia|Cikampek|PT BARAYA TELEKOMUNIKASI INDONESIA|
-|5|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|6|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|5|116.101.227.101|12004|Vietnam|Hanoi|Viettel Corporation|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|116.101.227.101|12004|Vietnam|Hanoi|Viettel Corporation|
-|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|12|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|17|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|19|103.172.42.113|1111|Indonesia|Karawang|PT Media Solusi Sukses|
-|20|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|8|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|13|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|14|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|15|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|16|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|17|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|18|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|19|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
+|20|23.237.210.82|80|United States|Dallas|FDCservers.net|
 
 
 
