@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|47.79.91.116|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|7|112.198.178.194|8080|Philippines|Nasugbu|Globe Telecom|
-|8|43.252.107.119|1111|Indonesia|Pepe|PT Lintas Data Prima|
-|9|74.50.96.247|8888|United States|Los Angeles|HIVELOCITY|
-|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|11|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|15|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|182.253.6.236|8080|Indonesia|Jakarta|Biznet Networks|
+|12|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|13|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|14|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |16|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|17|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|18|18.143.173.102|21681|Singapore|Singapore|Amazon Technologies Inc.|
-|19|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|20|74.50.96.247|8888|United States|Los Angeles|HIVELOCITY|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|103.10.228.119|8080|Thailand|Si Maha Phot|CATBB|
+|19|103.193.144.223|8080|Indonesia|Pangkalan Brandan|PT Lintas Jaringan Nusantara|
+|20|172.98.201.190|3128|United States|Dallas|Centrilogic|
 
 
 
