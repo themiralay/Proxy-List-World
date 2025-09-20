@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|4|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
-|5|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|12|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|13|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|14|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
-|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|16|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
-|17|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|2|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|8|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|9|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|12|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|13|38.194.231.70|999|Mexico|Tequixquiac|Cogent Communications|
+|14|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|15|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|16|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|17|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
 |18|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|19|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|20|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|19|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
+|20|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
