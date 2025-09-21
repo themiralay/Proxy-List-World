@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
-|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
 |4|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
-|5|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
-|6|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|7|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|13|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|14|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|15|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|16|185.191.236.162|3128|Switzerland|Zurich|Grupo Panaglobal 15 S.A|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|164.92.172.206|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|103.87.67.75|8888|Indonesia|Bogor|PT Biznet Gio Nusantara|
-|20|185.112.151.207|8022|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
+|5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|8|103.173.164.10|7777|Indonesia|Pati|PT Pusat Net Media|
+|9|116.101.233.211|12008|Vietnam|Hanoi|Viettel Corporation|
+|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|13|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
+|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|103.56.206.77|8099|Indonesia|Jakarta|Argon Data Communication|
+|17|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|20|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
 
 
 
