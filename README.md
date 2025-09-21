@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|2|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
 |3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |4|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
-|5|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|8|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
+|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|8|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |10|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|12|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
-|15|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
+|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|15|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|16|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |18|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|19|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|20|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
+|19|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|20|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
 
 
 
