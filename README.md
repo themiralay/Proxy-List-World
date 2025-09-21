@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|140.82.22.235|34587|United States|Los Angeles|The Constant Company|
 |3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |11|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|14|45.77.156.171|9091|United States|Piscataway|The Constant Company|
-|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|18|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
-|19|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|20|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|13|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|14|38.225.225.20|8080|Colombia|Medellín|Somos Networks Colombia S.a.s. BIC|
+|15|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|17|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|18|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|19|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|20|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
 
 
 
