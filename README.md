@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|8|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|9|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|116.101.233.211|12008|Vietnam|Hanoi|Viettel Corporation|
-|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|16|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
-|17|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
-|18|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|19|93.113.63.73|33100|Turkey|Denizli|Netinternet Datacenter|
-|20|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|209.97.175.223|8888|Singapore|Singapore|DigitalOcean, LLC|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|11|103.112.130.14|8080|Bangladesh|Dukuria|Mohiuddin Shaikh|
+|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|16|103.147.250.93|1452|India|Prayagraj|Prayag Broadband Pvt Ltd|
+|17|116.101.233.211|12008|Vietnam|Hanoi|Viettel Corporation|
+|18|36.147.78.166|443|China|Guangzhou|China Mobile|
+|19|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|20|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
 
 
 
