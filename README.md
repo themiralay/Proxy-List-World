@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |3|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|4|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|5|118.70.13.38|41857|Vietnam|Hanoi|FPT Telecom Company|
-|6|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
 |7|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|8|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|8|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
 |9|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|10|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|11|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
-|12|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|13|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
-|14|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|104.238.30.17|54112|Italy|Rome|AkhaliNet LLC|
-|17|103.247.240.34|8080|Indonesia|Nipah Panjang|PT Media Kerinci Network|
-|18|77.242.98.39|8080|Russia|Tyumen|JSC "Russian Company" LIR|
-|19|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|8.243.68.10|8080|Colombia|Bogotá|CTL Colombia|
+|11|122.3.121.231|8082|Philippines|Taguig|Philippine Long Distance Telephone Co.|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|185.112.151.207|8022|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
+|14|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|15|24.173.217.114|55443|United States|Mesquite|Spectrum|
+|16|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|17|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|18|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|19|81.12.40.250|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|20|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 
 
 
