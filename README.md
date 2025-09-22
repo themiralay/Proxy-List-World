@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|4|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
-|5|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|6|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
 |7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|10|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|8|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|10|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|116.80.93.34|3172|Japan|Yokohama|InfoSphere|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|101.255.211.54|8082|Indonesia|Cileungsir|PT Remala Abadi|
-|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|15|164.92.172.206|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|18|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|20|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
 
 
 
