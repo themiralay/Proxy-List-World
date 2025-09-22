@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|1|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
 |4|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
 |6|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
 |7|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |8|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
-|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|12|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
-|13|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|14|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
-|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|17|35.222.31.167|80|United States|Council Bluffs|Google LLC|
-|18|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|19|35.222.31.167|80|United States|Council Bluffs|Google LLC|
-|20|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|9|118.34.4.196|80|South Korea|Sejong|Korea Telecom|
+|10|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|12|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
+|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|14|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
+|15|171.228.134.93|1001|Vietnam|Hanoi|Viettel Corporation|
+|16|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|18|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|20|35.222.31.167|80|United States|Council Bluffs|Google LLC|
 
 
 
