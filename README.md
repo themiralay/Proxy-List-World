@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **78708** proxies at the latest update. Usable proxies are below.
+> Scraper found **78713** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37671|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37676|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|39|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|39772|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|116.80.63.46|3172|Japan|Yokohama|InfoSphere|
-|3|116.80.92.146|3172|Japan|Yokohama|InfoSphere|
-|4|116.80.80.201|3172|Japan|Yokohama|InfoSphere|
-|5|116.80.47.59|3172|Japan|Yokohama|InfoSphere|
-|6|116.80.94.83|3172|Japan|Yokohama|InfoSphere|
-|7|116.80.47.15|3172|Japan|Yokohama|InfoSphere|
+|3|116.80.80.201|3172|Japan|Yokohama|InfoSphere|
+|4|116.80.92.146|3172|Japan|Yokohama|InfoSphere|
+|5|116.80.80.182|3172|Japan|Yokohama|InfoSphere|
+|6|116.80.47.15|3172|Japan|Yokohama|InfoSphere|
+|7|116.80.80.184|3172|Japan|Yokohama|InfoSphere|
 |8|116.80.80.181|3172|Japan|Yokohama|InfoSphere|
-|9|116.80.80.183|3172|Japan|Yokohama|InfoSphere|
-|10|116.80.90.101|3172|Japan|Yokohama|InfoSphere|
+|9|116.80.94.83|3172|Japan|Yokohama|InfoSphere|
+|10|116.80.80.183|3172|Japan|Yokohama|InfoSphere|
 |11|116.80.80.156|3172|Japan|Yokohama|InfoSphere|
-|12|116.80.80.184|3172|Japan|Yokohama|InfoSphere|
-|13|116.80.80.182|3172|Japan|Yokohama|InfoSphere|
-|14|116.80.80.189|3172|Japan|Yokohama|InfoSphere|
-|15|116.80.47.47|3172|Japan|Yokohama|InfoSphere|
-|16|116.80.80.173|3172|Japan|Yokohama|InfoSphere|
-|17|116.80.47.52|3172|Japan|Yokohama|InfoSphere|
-|18|116.80.94.189|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.47.53|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.80.191|3172|Japan|Yokohama|InfoSphere|
+|12|116.80.80.189|3172|Japan|Yokohama|InfoSphere|
+|13|116.80.90.101|3172|Japan|Yokohama|InfoSphere|
+|14|116.80.94.189|3172|Japan|Yokohama|InfoSphere|
+|15|116.80.47.52|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.47.47|3172|Japan|Yokohama|InfoSphere|
+|17|116.80.80.173|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.47.53|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.80.196|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.92.149|3172|Japan|Yokohama|InfoSphere|
 
 
 
