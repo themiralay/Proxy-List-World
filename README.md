@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|3|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|2|47.79.94.34|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|116.101.239.152|12008|Vietnam|Hanoi|Viettel Corporation|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|14|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|16|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|78.188.75.172|8080|Türkiye|Çankaya|TurkTelecom|
-|19|116.80.93.34|3172|Japan|Yokohama|InfoSphere|
-|20|116.101.225.47|12008|Vietnam|Hanoi|Viettel Corporation|
+|7|116.101.225.47|12008|Vietnam|Hanoi|Viettel Corporation|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|116.101.239.152|12008|Vietnam|Hanoi|Viettel Corporation|
+|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|16|160.25.8.17|11011|Bangladesh|Dhaka|Circle Network|
+|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|19|213.230.121.73|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|20|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
 
 
 
