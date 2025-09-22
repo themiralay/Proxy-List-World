@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|9|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|116.80.92.153|3172|Japan|Yokohama|InfoSphere|
-|12|116.80.80.189|3172|Japan|Yokohama|InfoSphere|
-|13|116.80.47.59|3172|Japan|Yokohama|InfoSphere|
-|14|116.80.80.200|3172|Japan|Yokohama|InfoSphere|
-|15|115.72.12.34|10015|Vietnam|Ho Chi Minh City|VIETELmetro|
-|16|116.80.47.51|3172|Japan|Yokohama|InfoSphere|
-|17|116.80.60.31|3172|Japan|Yokohama|InfoSphere|
-|18|116.80.94.84|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.63.16|3172|Japan|Yokohama|InfoSphere|
+|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|4|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|107.174.54.213|3128|United States|Los Angeles|HostPapa|
+|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|10|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|11|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|12|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|18|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|19|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
 |20|116.80.92.153|3172|Japan|Yokohama|InfoSphere|
 
 
