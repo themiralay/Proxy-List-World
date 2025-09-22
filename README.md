@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|2.180.31.98|8035|Iran|Zarrīn Shahr|mashhad|
-|12|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|14|116.80.63.16|3172|Japan|Yokohama|InfoSphere|
-|15|116.80.60.31|3172|Japan|Yokohama|InfoSphere|
-|16|116.80.92.147|3172|Japan|Yokohama|InfoSphere|
-|17|116.80.62.126|3172|Japan|Yokohama|InfoSphere|
-|18|116.80.94.190|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.47.48|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.47.49|3172|Japan|Yokohama|InfoSphere|
+|2|116.80.92.146|3172|Japan|Yokohama|InfoSphere|
+|3|116.80.63.46|3172|Japan|Yokohama|InfoSphere|
+|4|116.80.90.101|3172|Japan|Yokohama|InfoSphere|
+|5|116.80.94.83|3172|Japan|Yokohama|InfoSphere|
+|6|116.80.80.183|3172|Japan|Yokohama|InfoSphere|
+|7|116.80.80.184|3172|Japan|Yokohama|InfoSphere|
+|8|116.80.80.182|3172|Japan|Yokohama|InfoSphere|
+|9|116.80.94.189|3172|Japan|Yokohama|InfoSphere|
+|10|116.80.47.53|3172|Japan|Yokohama|InfoSphere|
+|11|116.80.92.149|3172|Japan|Yokohama|InfoSphere|
+|12|116.80.80.201|3172|Japan|Yokohama|InfoSphere|
+|13|116.80.80.191|3172|Japan|Yokohama|InfoSphere|
+|14|116.80.80.173|3172|Japan|Yokohama|InfoSphere|
+|15|116.80.63.17|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.47.52|3172|Japan|Yokohama|InfoSphere|
+|17|116.80.80.189|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.47.47|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.80.200|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.80.195|3172|Japan|Yokohama|InfoSphere|
 
 
 
