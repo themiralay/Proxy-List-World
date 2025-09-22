@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|326|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|326|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|326|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|116.80.92.79|3172|Japan|Yokohama|InfoSphere|
-|3|116.80.94.187|3172|Japan|Yokohama|InfoSphere|
-|4|116.80.60.2|3172|Japan|Yokohama|InfoSphere|
-|5|116.80.91.222|3172|Japan|Yokohama|InfoSphere|
-|6|116.80.92.148|3172|Japan|Yokohama|InfoSphere|
-|7|116.80.92.147|3172|Japan|Yokohama|InfoSphere|
-|8|116.80.94.84|3172|Japan|Yokohama|InfoSphere|
-|9|116.80.94.190|3172|Japan|Yokohama|InfoSphere|
-|10|116.80.93.54|3172|Japan|Yokohama|InfoSphere|
-|11|116.80.47.62|3172|Japan|Yokohama|InfoSphere|
-|12|116.80.62.126|3172|Japan|Yokohama|InfoSphere|
-|13|116.80.47.48|3172|Japan|Yokohama|InfoSphere|
-|14|116.80.80.185|3172|Japan|Yokohama|InfoSphere|
-|15|116.80.63.16|3172|Japan|Yokohama|InfoSphere|
-|16|116.80.77.71|3172|Japan|Yokohama|InfoSphere|
-|17|116.80.80.188|3172|Japan|Yokohama|InfoSphere|
-|18|116.80.80.192|3172|Japan|Yokohama|InfoSphere|
-|19|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|20|116.80.78.172|3172|Japan|Yokohama|InfoSphere|
+|2|116.80.92.146|3172|Japan|Yokohama|InfoSphere|
+|3|116.80.63.46|3172|Japan|Yokohama|InfoSphere|
+|4|116.80.90.101|3172|Japan|Yokohama|InfoSphere|
+|5|116.80.80.183|3172|Japan|Yokohama|InfoSphere|
+|6|116.80.47.15|3172|Japan|Yokohama|InfoSphere|
+|7|116.80.94.83|3172|Japan|Yokohama|InfoSphere|
+|8|116.80.80.182|3172|Japan|Yokohama|InfoSphere|
+|9|116.80.80.189|3172|Japan|Yokohama|InfoSphere|
+|10|116.80.47.59|3172|Japan|Yokohama|InfoSphere|
+|11|116.80.80.184|3172|Japan|Yokohama|InfoSphere|
+|12|116.80.94.189|3172|Japan|Yokohama|InfoSphere|
+|13|116.80.47.52|3172|Japan|Yokohama|InfoSphere|
+|14|116.80.47.47|3172|Japan|Yokohama|InfoSphere|
+|15|116.80.80.191|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.92.149|3172|Japan|Yokohama|InfoSphere|
+|17|116.80.80.201|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.63.17|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.47.53|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.80.200|3172|Japan|Yokohama|InfoSphere|
 
 
 
