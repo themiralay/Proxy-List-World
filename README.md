@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
 |3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
 |4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|16|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|17|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|18|116.80.47.17|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.80.189|3172|Japan|Yokohama|InfoSphere|
-|20|36.253.18.38|8181|Nepal|Patan|Ncell Pty. Ltd.|
+|8|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|116.80.80.189|3172|Japan|Yokohama|InfoSphere|
+|13|116.80.47.17|3172|Japan|Yokohama|InfoSphere|
+|14|116.80.94.84|3172|Japan|Yokohama|InfoSphere|
+|15|116.80.47.60|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.80.184|3172|Japan|Yokohama|InfoSphere|
+|17|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|19|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|20|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
 
 
 
