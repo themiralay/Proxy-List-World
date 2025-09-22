@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|3|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
 |4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|157.10.97.141|8181|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
-|6|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|10|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|12|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|13|113.192.1.82|8181|Indonesia|Cileungsir|PT Surya Bestari Lestari|
-|14|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|5|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|7|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|119.148.39.30|8444|Bangladesh|Dhaka|Agni Systems Limited|
+|13|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |15|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|119.148.39.30|8444|Bangladesh|Dhaka|Agni Systems Limited|
-|18|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
+|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
 |19|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|20|169.155.48.155|3128|France|Paris|Fly.io, Inc.|
+|20|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
 
 
 
