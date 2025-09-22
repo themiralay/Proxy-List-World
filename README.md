@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |4|107.174.54.213|3128|United States|Los Angeles|HostPapa|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|7|166.249.54.61|7234|United States|District Heights|Verizon Business|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|12|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|10|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|160.25.8.17|11011|Bangladesh|Dhaka|Circle Network|
 |14|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
-|15|116.80.47.48|3172|Japan|Yokohama|InfoSphere|
-|16|116.80.60.2|3172|Japan|Yokohama|InfoSphere|
-|17|116.80.80.185|3172|Japan|Yokohama|InfoSphere|
-|18|116.80.47.61|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.47.55|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.47.58|3172|Japan|Yokohama|InfoSphere|
+|15|116.80.80.197|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.47.48|3172|Japan|Yokohama|InfoSphere|
+|17|116.80.60.2|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.47.55|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.63.16|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.47.49|3172|Japan|Yokohama|InfoSphere|
 
 
 
