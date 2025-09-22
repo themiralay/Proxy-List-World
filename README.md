@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **78441** proxies at the latest update. Usable proxies are below.
+> Scraper found **40773** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37668|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|35|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|39512|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|116.80.80.201|3172|Japan|Yokohama|InfoSphere|
-|3|116.80.92.146|3172|Japan|Yokohama|InfoSphere|
-|4|116.80.47.15|3172|Japan|Yokohama|InfoSphere|
-|5|116.80.80.184|3172|Japan|Yokohama|InfoSphere|
-|6|116.80.80.183|3172|Japan|Yokohama|InfoSphere|
-|7|116.80.80.156|3172|Japan|Yokohama|InfoSphere|
-|8|116.80.80.181|3172|Japan|Yokohama|InfoSphere|
-|9|116.80.90.101|3172|Japan|Yokohama|InfoSphere|
-|10|116.80.80.182|3172|Japan|Yokohama|InfoSphere|
-|11|116.80.94.83|3172|Japan|Yokohama|InfoSphere|
-|12|116.80.47.59|3172|Japan|Yokohama|InfoSphere|
-|13|116.80.80.189|3172|Japan|Yokohama|InfoSphere|
-|14|116.80.63.46|3172|Japan|Yokohama|InfoSphere|
-|15|116.80.80.196|3172|Japan|Yokohama|InfoSphere|
-|16|116.80.94.189|3172|Japan|Yokohama|InfoSphere|
-|17|116.80.80.191|3172|Japan|Yokohama|InfoSphere|
-|18|116.80.92.149|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.80.173|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.47.52|3172|Japan|Yokohama|InfoSphere|
+|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|7|160.25.8.17|11011|Bangladesh|Dhaka|Circle Network|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|11|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|12|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|35.222.31.167|80|United States|Council Bluffs|Google LLC|
+|14|188.166.197.129|3128|Singapore|Singapore|DigitalOcean, LLC|
+|15|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|16|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|17|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|201.62.125.142|8080|Brazil|Rio Claro|Claro NXT Telecomunicacoes Ltda|
 
 
 
