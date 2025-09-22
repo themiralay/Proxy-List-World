@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
-|4|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|6|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|7|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|9|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
-|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|12|35.222.31.167|80|United States|Council Bluffs|Google LLC|
-|13|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|14|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|16|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|18|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
-|19|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|4|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|7|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|9|35.222.31.167|80|United States|Council Bluffs|Google LLC|
+|10|169.155.48.155|3128|France|Paris|Fly.io, Inc.|
+|11|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
+|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|13|35.222.31.167|80|United States|Council Bluffs|Google LLC|
+|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|169.155.48.155|3128|France|Paris|Fly.io, Inc.|
+|16|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
+|17|145.40.90.214|10043|United States|La Center|Packet Host, Inc.|
+|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|19|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|20|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
 
 
 
