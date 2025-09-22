@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|3|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|4|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|5|5.196.5.215|3128|France|Strasbourg|OVH SAS|
-|6|38.191.214.4|999|Colombia|Villavicencio|TECNOLOGÍA, INFORMACIÓN Y COMUNICACIONES DE COLOMBIA SAS|
-|7|38.225.225.20|8080|Colombia|Medellín|Somos Networks Colombia S.a.s. BIC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|116.80.47.53|3172|Japan|Yokohama|InfoSphere|
-|11|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|116.80.47.60|3172|Japan|Yokohama|InfoSphere|
-|14|164.70.67.20|3172|Japan|Chiyoda City|InfoSphere|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|116.80.47.48|3172|Japan|Yokohama|InfoSphere|
-|17|116.80.80.187|3172|Japan|Yokohama|InfoSphere|
-|18|116.80.80.197|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.63.16|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.47.62|3172|Japan|Yokohama|InfoSphere|
+|9|38.191.214.4|999|Colombia|Villavicencio|TECNOLOGÍA, INFORMACIÓN Y COMUNICACIONES DE COLOMBIA SAS|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|38.225.225.20|8080|Colombia|Medellín|Somos Networks Colombia S.a.s. BIC|
+|13|5.196.5.215|3128|France|Strasbourg|OVH SAS|
+|14|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|15|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|16|107.174.54.213|3128|United States|Los Angeles|HostPapa|
+|17|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|19|116.80.47.53|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.47.60|3172|Japan|Yokohama|InfoSphere|
 
 
 
