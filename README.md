@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|3|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|4|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|8|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|11|138.0.143.120|8080|Brazil|Mirandópolis|F.B. BABETO ME|
-|12|107.174.54.213|3128|United States|Los Angeles|HostPapa|
-|13|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|15|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|16|116.80.94.190|3172|Japan|Yokohama|InfoSphere|
-|17|116.80.47.17|3172|Japan|Yokohama|InfoSphere|
-|18|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|19|116.80.63.16|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.94.84|3172|Japan|Yokohama|InfoSphere|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|107.174.54.213|3128|United States|Los Angeles|HostPapa|
+|6|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|7|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|8|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|9|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|10|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|160.25.8.17|11011|Bangladesh|Dhaka|Circle Network|
+|13|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|14|115.72.12.34|10015|Vietnam|Ho Chi Minh City|VIETELmetro|
+|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|17|103.195.252.161|83|India|Ranchi|Speed Airlive Broadband Services PVT LTD|
+|18|116.80.94.190|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.47.17|3172|Japan|Yokohama|InfoSphere|
+|20|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
 
 
 
