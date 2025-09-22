@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|367|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|367|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|367|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|364|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|364|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|364|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|3|107.174.54.213|3128|United States|Los Angeles|HostPapa|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |8|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|9|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|45.77.156.171|9091|United States|Piscataway|The Constant Company|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|14|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|15|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|16|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|17|51.159.159.73|80|France|Paris|SCALEWAY|
-|18|116.80.92.79|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.80.187|3172|Japan|Yokohama|InfoSphere|
-|20|185.112.151.207|8022|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
+|9|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|10|107.174.54.213|3128|United States|Los Angeles|HostPapa|
+|11|51.159.159.73|80|France|Paris|SCALEWAY|
+|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|16|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|185.112.151.207|8022|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
+|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|20|116.80.92.79|3172|Japan|Yokohama|InfoSphere|
 
 
 
