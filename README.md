@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|107.174.54.213|3128|United States|Los Angeles|HostPapa|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|14|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|15|24.173.217.114|55443|United States|Mesquite|Spectrum|
-|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|18|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|19|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|20|116.80.47.58|3172|Japan|Yokohama|InfoSphere|
+|7|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|107.174.54.213|3128|United States|Los Angeles|HostPapa|
+|13|116.80.80.180|3172|Japan|Yokohama|InfoSphere|
+|14|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
+|15|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|16|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
+|17|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|18|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|19|116.80.47.48|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.60.2|3172|Japan|Yokohama|InfoSphere|
 
 
 
