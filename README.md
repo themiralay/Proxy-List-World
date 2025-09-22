@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|301|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|301|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|301|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|2|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|38.191.202.216|999|Colombia|San José del Guaviare|Hola Telecomunicacines Colombia S.A.S|
-|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|12|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|13|38.225.225.20|8080|Colombia|Medellín|Somos Networks Colombia S.a.s. BIC|
-|14|107.174.54.213|3128|United States|Los Angeles|HostPapa|
+|4|107.174.54.213|3128|United States|Los Angeles|HostPapa|
+|5|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|107.174.54.213|3128|United States|Los Angeles|HostPapa|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|13|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|14|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
 |15|116.80.94.190|3172|Japan|Yokohama|InfoSphere|
-|16|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|17|164.70.67.20|3172|Japan|Chiyoda City|InfoSphere|
-|18|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|19|116.80.47.48|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.63.16|3172|Japan|Yokohama|InfoSphere|
+|16|164.70.67.20|3172|Japan|Chiyoda City|InfoSphere|
+|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|18|116.80.47.48|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.63.16|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.47.49|3172|Japan|Yokohama|InfoSphere|
 
 
 
