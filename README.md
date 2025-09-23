@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|339|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|339|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|339|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.93.34|3172|Japan|Yokohama|InfoSphere|
-|2|45.207.226.170|51422|United States|Los Angeles|Zillion Network Inc.|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|107.167.49.215|15999|United States|Los Angeles|HostPapa|
-|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|9|38.225.225.20|8080|Colombia|Medellín|Somos Networks Colombia S.a.s. BIC|
-|10|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|11|116.80.92.146|3172|Japan|Yokohama|InfoSphere|
-|12|116.80.92.144|3172|Japan|Yokohama|InfoSphere|
-|13|164.70.70.13|3172|Japan|Chiyoda City|InfoSphere|
-|14|116.80.80.201|3172|Japan|Yokohama|InfoSphere|
-|15|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|16|116.80.47.49|3172|Japan|Yokohama|InfoSphere|
-|17|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|18|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|19|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|103.155.196.105|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|4|107.167.49.215|15999|United States|Los Angeles|HostPapa|
+|5|107.167.49.200|15999|United States|Los Angeles|HostPapa|
+|6|45.207.226.170|51422|United States|Los Angeles|Zillion Network Inc.|
+|7|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|8|107.167.49.215|15999|United States|Los Angeles|HostPapa|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|107.167.49.200|15999|United States|Los Angeles|HostPapa|
+|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|38.225.225.20|8080|Colombia|Medellín|Somos Networks Colombia S.a.s. BIC|
+|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|16|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|17|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|18|116.80.63.46|3172|Japan|Yokohama|InfoSphere|
+|19|190.130.6.11|8080|Honduras|Tegucigalpa|Hondutel|
 |20|116.80.61.94|3172|Japan|Yokohama|InfoSphere|
 
 
