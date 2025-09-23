@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|5|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|9|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|10|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|11|107.167.49.200|15999|United States|Los Angeles|HostPapa|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|14|41.65.160.172|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|15|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|16|107.167.49.215|15999|United States|Los Angeles|HostPapa|
-|17|103.42.118.29|8080|Indonesia|Batam|PT Kusuma Dinatha Jaya Abadi|
-|18|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|19|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|20|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|6|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|9|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|10|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|11|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|41.65.160.172|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|15|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|16|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|17|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|18|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|19|41.204.8.1|8246|Eswatini|Manzini|Real Image Network|
+|20|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
 
 
 
