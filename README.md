@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|116.80.47.56|3172|Japan|Yokohama|InfoSphere|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|8|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|13|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|14|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|16|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|18|45.89.52.241|3128|Türkiye|Izmir|PQ HOSTING PLUS S.R.L.|
-|19|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|20|190.60.37.245|999|Colombia|Medellín|IFX NETWORKS COLOMBIA|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|9|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|11|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|12|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|14|45.167.126.170|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|15|45.89.52.241|3128|Türkiye|Izmir|PQ HOSTING PLUS S.R.L.|
+|16|103.165.156.171|8090|Indonesia|Jember|MEGADATA-ISP|
+|17|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|19|38.199.65.97|999|Colombia|Bogotá|TV COLOMBIA DIGITAL SAS|
+|20|185.112.151.207|8022|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
 
 
 
