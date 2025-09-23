@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|116.80.47.56|3172|Japan|Yokohama|InfoSphere|
-|3|143.189.6.174|8080|Japan|Honchō|Sony Network Communications Inc|
+|2|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|3|116.80.47.56|3172|Japan|Yokohama|InfoSphere|
 |4|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
 |5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|107.167.49.215|15999|United States|Los Angeles|HostPapa|
-|10|107.167.49.200|15999|United States|Los Angeles|HostPapa|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
-|13|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|15|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|12|107.167.49.200|15999|United States|Los Angeles|HostPapa|
+|13|107.167.49.215|15999|United States|Los Angeles|HostPapa|
+|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|15|20.67.56.141|3128|Netherlands|Amsterdam|Microsoft Corporation|
 |16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|19|119.148.39.29|8444|Bangladesh|Dhaka|Agni Systems Limited|
-|20|45.89.52.241|3128|Türkiye|Izmir|PQ HOSTING PLUS S.R.L.|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|112.201.237.191|8080|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 
 
 
