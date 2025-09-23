@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|327|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|327|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|327|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|74.208.166.64|3128|United States|Washington|IONOS SE|
-|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|1|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|5|50.174.91.29|3128|United States|West Orange|Comcast Cable Communications, LLC|
 |6|188.128.254.4|3128|Poland|Warsaw|home.pl S.A.|
 |7|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|8|50.174.91.29|3128|United States|West Orange|Comcast Cable Communications, LLC|
-|9|107.174.54.213|3128|United States|Los Angeles|HostPapa|
-|10|116.80.47.58|3172|Japan|Yokohama|InfoSphere|
-|11|116.80.80.182|3172|Japan|Yokohama|InfoSphere|
-|12|116.80.94.188|3172|Japan|Yokohama|InfoSphere|
-|13|74.208.166.64|3128|United States|Washington|IONOS SE|
-|14|116.80.80.184|3172|Japan|Yokohama|InfoSphere|
-|15|116.80.59.245|3172|Japan|Yokohama|InfoSphere|
+|8|116.80.80.182|3172|Japan|Yokohama|InfoSphere|
+|9|116.80.59.245|3172|Japan|Yokohama|InfoSphere|
+|10|116.80.94.188|3172|Japan|Yokohama|InfoSphere|
+|11|116.80.80.184|3172|Japan|Yokohama|InfoSphere|
+|12|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|13|164.70.67.20|3172|Japan|Chiyoda City|InfoSphere|
+|14|116.80.47.62|3172|Japan|Yokohama|InfoSphere|
+|15|116.80.47.49|3172|Japan|Yokohama|InfoSphere|
 |16|116.80.80.186|3172|Japan|Yokohama|InfoSphere|
-|17|164.70.67.20|3172|Japan|Chiyoda City|InfoSphere|
-|18|116.80.94.84|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.60.2|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.80.197|3172|Japan|Yokohama|InfoSphere|
+|17|116.80.47.55|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.63.16|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.47.63|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.80.192|3172|Japan|Yokohama|InfoSphere|
 
 
 
