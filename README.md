@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.93.34|3172|Japan|Yokohama|InfoSphere|
-|2|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
+|2|107.167.49.215|15999|United States|Los Angeles|HostPapa|
 |3|107.167.49.200|15999|United States|Los Angeles|HostPapa|
-|4|45.207.226.170|51422|United States|Los Angeles|Zillion Network Inc.|
-|5|107.167.49.215|15999|United States|Los Angeles|HostPapa|
-|6|107.167.49.215|15999|United States|Los Angeles|HostPapa|
-|7|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|107.167.49.200|15999|United States|Los Angeles|HostPapa|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|164.70.116.97|3172|Japan|Chiyoda City|InfoSphere|
+|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|45.207.226.170|51422|United States|Los Angeles|Zillion Network Inc.|
+|7|107.167.49.215|15999|United States|Los Angeles|HostPapa|
+|8|107.167.49.200|15999|United States|Los Angeles|HostPapa|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|11|164.70.116.97|3172|Japan|Chiyoda City|InfoSphere|
+|12|116.80.80.197|3172|Japan|Yokohama|InfoSphere|
+|13|116.80.80.181|3172|Japan|Yokohama|InfoSphere|
 |14|116.80.94.187|3172|Japan|Yokohama|InfoSphere|
 |15|116.80.94.188|3172|Japan|Yokohama|InfoSphere|
-|16|116.80.80.181|3172|Japan|Yokohama|InfoSphere|
-|17|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|16|103.155.196.105|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|17|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
 |18|38.225.225.20|8080|Colombia|Medellín|Somos Networks Colombia S.a.s. BIC|
-|19|116.80.80.197|3172|Japan|Yokohama|InfoSphere|
+|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |20|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
 
 
