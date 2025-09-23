@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|350|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|350|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|350|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.93.34|3172|Japan|Yokohama|InfoSphere|
 |2|45.207.226.170|51422|United States|Los Angeles|Zillion Network Inc.|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|8|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|9|116.80.92.149|3172|Japan|Yokohama|InfoSphere|
-|10|116.80.60.31|3172|Japan|Yokohama|InfoSphere|
-|11|116.80.77.71|3172|Japan|Yokohama|InfoSphere|
-|12|116.80.61.94|3172|Japan|Yokohama|InfoSphere|
-|13|164.70.70.13|3172|Japan|Chiyoda City|InfoSphere|
-|14|164.70.116.97|3172|Japan|Chiyoda City|InfoSphere|
-|15|164.70.115.103|3172|Japan|Chiyoda City|InfoSphere|
-|16|164.70.114.46|3172|Japan|Chiyoda City|InfoSphere|
-|17|116.80.43.177|3172|Japan|Yokohama|InfoSphere|
-|18|164.70.68.104|3172|Japan|Chiyoda City|InfoSphere|
-|19|116.80.44.80|3172|Japan|Yokohama|InfoSphere|
-|20|164.70.116.98|3172|Japan|Chiyoda City|InfoSphere|
+|3|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|10|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|11|116.80.60.31|3172|Japan|Yokohama|InfoSphere|
+|12|116.80.77.71|3172|Japan|Yokohama|InfoSphere|
+|13|116.80.92.149|3172|Japan|Yokohama|InfoSphere|
+|14|116.80.80.186|3172|Japan|Yokohama|InfoSphere|
+|15|116.80.61.94|3172|Japan|Yokohama|InfoSphere|
+|16|164.70.115.103|3172|Japan|Chiyoda City|InfoSphere|
+|17|164.70.116.97|3172|Japan|Chiyoda City|InfoSphere|
+|18|164.70.70.13|3172|Japan|Chiyoda City|InfoSphere|
+|19|164.70.68.104|3172|Japan|Chiyoda City|InfoSphere|
+|20|116.80.44.80|3172|Japan|Yokohama|InfoSphere|
 
 
 
