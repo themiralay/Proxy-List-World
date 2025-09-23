@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|376|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|376|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|376|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|402|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|402|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|402|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|164.70.68.104|3172|Japan|Chiyoda City|InfoSphere|
-|3|116.80.80.199|3172|Japan|Yokohama|InfoSphere|
-|4|43.156.66.39|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|5|152.67.232.161|2355|United States|San Jose|Oracle Corporation|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|107.174.54.213|3128|United States|Los Angeles|HostPapa|
-|8|152.67.232.161|2355|United States|San Jose|Oracle Corporation|
+|1|164.70.68.104|3172|Japan|Chiyoda City|InfoSphere|
+|2|116.80.80.199|3172|Japan|Yokohama|InfoSphere|
+|3|152.67.232.161|2355|United States|San Jose|Oracle Corporation|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|6|204.12.241.74|3535|United States|Kansas City|WholeSale Internet|
+|7|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|8|107.167.49.215|15999|United States|Los Angeles|HostPapa|
 |9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|204.12.241.74|3535|United States|Kansas City|WholeSale Internet|
-|11|204.12.241.74|3535|United States|Kansas City|WholeSale Internet|
-|12|107.174.54.213|3128|United States|Los Angeles|HostPapa|
+|10|152.67.232.161|2355|United States|San Jose|Oracle Corporation|
+|11|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|204.12.241.74|3535|United States|Kansas City|WholeSale Internet|
 |13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|107.167.49.215|15999|United States|Los Angeles|HostPapa|
-|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|116.80.47.59|3172|Japan|Yokohama|InfoSphere|
-|18|116.80.60.31|3172|Japan|Yokohama|InfoSphere|
-|19|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|20|180.149.232.201|2024|Bangladesh|Gazipur|Digi Jadoo Broadband Ltd|
+|14|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|15|107.174.54.213|3128|United States|Los Angeles|HostPapa|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|18|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|19|116.80.47.59|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.60.31|3172|Japan|Yokohama|InfoSphere|
 
 
 
