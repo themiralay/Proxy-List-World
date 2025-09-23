@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|107.167.49.200|15999|United States|Los Angeles|HostPapa|
-|3|107.167.49.215|15999|United States|Los Angeles|HostPapa|
-|4|107.167.49.215|15999|United States|Los Angeles|HostPapa|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|9|107.167.49.200|15999|United States|Los Angeles|HostPapa|
-|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|2|107.167.49.215|15999|United States|Los Angeles|HostPapa|
+|3|107.167.49.200|15999|United States|Los Angeles|HostPapa|
+|4|160.25.8.17|11011|Bangladesh|Dhaka|Circle Network|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|107.167.49.215|15999|United States|Los Angeles|HostPapa|
+|7|58.69.114.117|5050|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|8|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|107.167.49.200|15999|United States|Los Angeles|HostPapa|
 |11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|38.225.225.20|8080|Colombia|Medellín|Somos Networks Colombia S.a.s. BIC|
-|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|16|113.163.189.162|8080|Vietnam|Sóc Trăng|VietNam Post and Telecom Corporation|
-|17|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|12|223.25.110.41|8080|Indonesia|Purbalingga|SinergiNet|
+|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|14|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|15|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
 |18|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|19|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|20|65.38.213.154|8881|Puerto Rico|San Juan|AT&T Mobility Puerto Rico|
+|19|103.230.62.102|8080|Bangladesh|Chittagong|Next Online Ltd|
+|20|103.189.123.110|8080|Indonesia|Ciawi|PT Ikhlas Cipta Teknologi|
 
 
 
