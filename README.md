@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|116.80.80.199|3172|Japan|Yokohama|InfoSphere|
-|3|164.70.68.104|3172|Japan|Chiyoda City|InfoSphere|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|204.12.241.74|3535|United States|Kansas City|WholeSale Internet|
-|8|107.167.49.215|15999|United States|Los Angeles|HostPapa|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|116.80.47.46|3172|Japan|Yokohama|InfoSphere|
-|11|116.80.47.45|3172|Japan|Yokohama|InfoSphere|
-|12|204.12.241.74|3535|United States|Kansas City|WholeSale Internet|
-|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|46.202.179.233|8080|United States|Boston|Hostinger International Limited|
-|16|107.174.54.213|3128|United States|Los Angeles|HostPapa|
-|17|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|18|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|19|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|20|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|1|164.70.114.46|3172|Japan|Chiyoda City|InfoSphere|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|116.80.44.195|3172|Japan|Yokohama|InfoSphere|
+|4|116.80.45.203|3172|Japan|Yokohama|InfoSphere|
+|5|116.80.77.103|3172|Japan|Yokohama|InfoSphere|
+|6|45.207.226.170|51422|United States|Los Angeles|Zillion Network Inc.|
+|7|107.167.49.215|15999|United States|Los Angeles|HostPapa|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|107.167.49.200|15999|United States|Los Angeles|HostPapa|
+|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|14|107.174.54.213|3128|United States|Los Angeles|HostPapa|
+|15|107.167.49.215|15999|United States|Los Angeles|HostPapa|
+|16|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|17|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|19|204.12.241.74|3535|United States|Kansas City|WholeSale Internet|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
