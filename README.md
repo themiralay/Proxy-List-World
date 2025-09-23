@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|352|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|352|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|352|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|366|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|366|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|366|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|2|107.174.54.213|3128|United States|Los Angeles|HostPapa|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|7|188.128.254.4|3128|Poland|Warsaw|home.pl S.A.|
+|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|107.174.54.213|3128|United States|Los Angeles|HostPapa|
+|6|188.128.254.4|3128|Poland|Warsaw|home.pl S.A.|
+|7|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
 |8|116.80.80.191|3172|Japan|Yokohama|InfoSphere|
 |9|116.80.47.55|3172|Japan|Yokohama|InfoSphere|
-|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|11|116.80.43.204|3172|Japan|Yokohama|InfoSphere|
-|12|116.80.80.186|3172|Japan|Yokohama|InfoSphere|
-|13|116.80.44.82|3172|Japan|Yokohama|InfoSphere|
-|14|164.70.67.20|3172|Japan|Chiyoda City|InfoSphere|
-|15|103.105.55.207|8999|Indonesia|Sidoarjo|PT. Mega Artha Lintas Data|
-|16|116.80.62.126|3172|Japan|Yokohama|InfoSphere|
-|17|116.80.92.147|3172|Japan|Yokohama|InfoSphere|
-|18|116.80.78.172|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.47.48|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.47.55|3172|Japan|Yokohama|InfoSphere|
+|10|116.80.44.82|3172|Japan|Yokohama|InfoSphere|
+|11|116.80.80.186|3172|Japan|Yokohama|InfoSphere|
+|12|164.70.67.20|3172|Japan|Chiyoda City|InfoSphere|
+|13|116.80.43.204|3172|Japan|Yokohama|InfoSphere|
+|14|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|15|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|116.80.47.49|3172|Japan|Yokohama|InfoSphere|
+|17|116.80.47.62|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.47.61|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.63.16|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.80.187|3172|Japan|Yokohama|InfoSphere|
 
 
 
