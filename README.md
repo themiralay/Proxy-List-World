@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|188.128.254.4|3128|Poland|Warsaw|home.pl S.A.|
-|4|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|3|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|4|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 |5|116.80.58.246|3172|Japan|Yokohama|InfoSphere|
 |6|116.80.90.101|3172|Japan|Yokohama|InfoSphere|
 |7|116.80.47.48|3172|Japan|Yokohama|InfoSphere|
-|8|116.80.80.186|3172|Japan|Yokohama|InfoSphere|
+|8|180.191.20.35|8082|Philippines|Cabanatuan City|Globe Telecom|
 |9|164.70.67.20|3172|Japan|Chiyoda City|InfoSphere|
-|10|116.80.47.48|3172|Japan|Yokohama|InfoSphere|
-|11|116.80.47.58|3172|Japan|Yokohama|InfoSphere|
-|12|116.80.80.187|3172|Japan|Yokohama|InfoSphere|
-|13|116.80.63.16|3172|Japan|Yokohama|InfoSphere|
-|14|116.80.47.62|3172|Japan|Yokohama|InfoSphere|
-|15|116.80.94.84|3172|Japan|Yokohama|InfoSphere|
-|16|116.80.60.2|3172|Japan|Yokohama|InfoSphere|
-|17|116.80.47.49|3172|Japan|Yokohama|InfoSphere|
-|18|116.80.78.172|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.47.60|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.94.190|3172|Japan|Yokohama|InfoSphere|
+|10|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|11|116.80.78.172|3172|Japan|Yokohama|InfoSphere|
+|12|116.80.47.48|3172|Japan|Yokohama|InfoSphere|
+|13|116.80.47.49|3172|Japan|Yokohama|InfoSphere|
+|14|116.80.60.31|3172|Japan|Yokohama|InfoSphere|
+|15|116.80.63.16|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.47.55|3172|Japan|Yokohama|InfoSphere|
+|17|116.80.60.2|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.80.186|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.47.63|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.47.60|3172|Japan|Yokohama|InfoSphere|
 
 
 
