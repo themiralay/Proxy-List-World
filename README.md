@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|2|107.167.49.215|15999|United States|Los Angeles|HostPapa|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |5|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|6|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|6|107.167.49.200|15999|United States|Los Angeles|HostPapa|
 |7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|8|107.167.49.200|15999|United States|Los Angeles|HostPapa|
-|9|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|9|107.167.49.200|15999|United States|Los Angeles|HostPapa|
 |10|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|11|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|11|107.167.49.215|15999|United States|Los Angeles|HostPapa|
 |12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|13|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|14|185.112.151.207|8022|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
-|15|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|16|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|17|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|18|116.80.63.46|3172|Japan|Yokohama|InfoSphere|
-|19|116.80.80.200|3172|Japan|Yokohama|InfoSphere|
-|20|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
+|13|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|16|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|17|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|20|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
 
 
 
