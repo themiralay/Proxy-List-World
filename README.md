@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|2|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|3|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|105.159.1.249|3128|Morocco|Tangier|Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|1|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|4|183.88.214.44|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|7|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|8|195.234.68.34|3128|Ukraine|Kyiv|SKIF|
+|9|185.112.151.207|8022|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|180.191.59.41|51804|Philippines|Tarlac City|Globe Telecom|
 |12|116.80.47.56|3172|Japan|Yokohama|InfoSphere|
-|13|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
-|14|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
-|15|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|16|185.112.151.207|8022|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
-|17|201.62.82.4|8080|Brazil|Marília|Life Tecnologia Ltda.|
-|18|116.80.77.71|3172|Japan|Yokohama|InfoSphere|
-|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|20|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|13|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|14|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|15|188.163.170.130|41209|Ukraine|Lviv|Kyivstar UA|
+|16|116.80.77.71|3172|Japan|Yokohama|InfoSphere|
+|17|116.80.47.45|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.80.191|3172|Japan|Yokohama|InfoSphere|
+|19|46.10.209.230|8080|Bulgaria|Sofia|BTC-BROADBAND|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
