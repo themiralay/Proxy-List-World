@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.216.195.194|3128|Japan|Tokyo|Microsoft Corporation|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|38.225.225.20|8080|Colombia|Medellín|Somos Networks Colombia S.a.s. BIC|
-|10|109.107.173.8|3128|The Netherlands|Amsterdam|Servers Tech Fzco|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|171.238.100.241|2022|Vietnam|Ninh Bình|Viettel Corporation|
-|14|190.121.136.185|999|Colombia|Villanueva|Media Commerce Partners S.A|
-|15|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|171.238.100.241|2022|Vietnam|Ninh Bình|Viettel Corporation|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|10|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
+|11|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|12|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|13|45.77.156.171|9091|United States|Piscataway|The Constant Company|
+|14|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|15|160.25.8.17|11011|Bangladesh|Dhaka|Circle Network|
 |16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|4.216.195.194|3128|Japan|Tokyo|Microsoft Corporation|
-|19|38.224.223.246|9991|Mexico|Cunduacán|Javier Tamayo Garcia|
-|20|47.79.95.122|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|17|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|191.242.182.7|8080|Brazil|Taperoá|Conect Telecom|
+|20|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 
 
 
