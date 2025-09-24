@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|2|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|1|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|2|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
 |3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
 |6|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|8|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|9|195.234.68.34|3128|Ukraine|Kyiv|SKIF|
-|10|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|11|147.185.221.19|14365|United States|Carson City|Developed Methods LLC|
-|12|183.88.214.44|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|13|185.112.151.207|8022|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
-|14|103.156.114.13|8080|Indonesia|Jakarta|MYREPUBLIC|
-|15|116.80.47.56|3172|Japan|Yokohama|InfoSphere|
-|16|105.159.1.249|3128|Morocco|Tangier|Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM|
-|17|223.25.110.216|8080|Indonesia|Gombong|SinergiNet|
-|18|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
-|19|116.80.77.71|3172|Japan|Yokohama|InfoSphere|
+|7|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|169.155.48.155|3128|France|Paris|Fly.io, Inc.|
+|10|116.80.47.56|3172|Japan|Yokohama|InfoSphere|
+|11|185.112.151.207|8022|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|13|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|14|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|15|103.75.84.181|7788|Indonesia|Candi Prambanan|MEGADATA|
+|16|116.80.77.71|3172|Japan|Yokohama|InfoSphere|
+|17|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|18|77.37.132.129|8080|Russia|Moscow|NCNET|
+|19|103.177.199.101|8080|Indonesia|Cikarang|PT Eyza Kausa Sinergi Abadi|
 |20|116.80.47.45|3172|Japan|Yokohama|InfoSphere|
 
 
