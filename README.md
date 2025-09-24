@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|1|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|8|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|9|116.80.47.56|3172|Japan|Yokohama|InfoSphere|
-|10|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|11|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|12|116.80.77.71|3172|Japan|Yokohama|InfoSphere|
+|6|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|7|185.112.151.207|8022|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
+|8|116.80.47.56|3172|Japan|Yokohama|InfoSphere|
+|9|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|10|116.80.77.71|3172|Japan|Yokohama|InfoSphere|
+|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
 |13|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|14|185.112.151.207|8022|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
-|15|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|16|116.80.47.45|3172|Japan|Yokohama|InfoSphere|
-|17|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|18|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
-|19|169.155.48.155|3128|France|Paris|Fly.io, Inc.|
-|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|14|116.80.47.45|3172|Japan|Yokohama|InfoSphere|
+|15|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|16|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|17|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|18|45.167.126.174|999|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|19|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|20|169.155.48.155|3128|France|Paris|Fly.io, Inc.|
 
 
 
