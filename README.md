@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|4|119.92.71.40|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|5|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|8|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|1|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|3|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|4|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|5|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
 |9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|43.224.118.89|2626|Bangladesh|Dhaka|Next Online|
-|18|103.165.156.11|8090|Indonesia|Jember|MEGADATA-ISP|
-|19|103.173.139.10|8080|Indonesia|Semarang|PT Serayu Multi Connection|
-|20|38.183.182.242|999|Peru|Huaura|Forza Bussines S.A.C.|
+|10|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|43.224.118.89|2626|Bangladesh|Dhaka|Next Online|
+|14|209.141.57.216|80|United States|Las Vegas|FranTech Solutions|
+|15|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|16|103.189.116.20|8080|Indonesia|Banjarnegara|PT Callysta Total Solusindo|
+|17|110.76.145.59|89|Indonesia|Krajan|PT Pika Media Komunika|
+|18|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|19|103.194.175.181|7777|Indonesia|Sempu|MYNET|
+|20|103.126.119.155|8080|Indonesia|Tangerang|PT. Media Tekno Nusantara|
 
 
 
