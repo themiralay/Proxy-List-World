@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|116.80.90.111|3172|Japan|Yokohama|InfoSphere|
-|3|42.118.0.37|16000|Vietnam|Hanoi|FPT Telecom Company|
-|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|14|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|15|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|18|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|19|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
-|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|1|42.118.0.37|16000|Vietnam|Hanoi|FPT Telecom Company|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|7|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|8|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|11|43.225.148.210|8989|Bangladesh|Tongi|Next Online|
+|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|13|190.130.6.11|8080|Honduras|Tegucigalpa|Hondutel|
+|14|182.253.109.189|8080|Indonesia|Semarang|Biznet Metronet|
+|15|116.80.43.177|3172|Japan|Yokohama|InfoSphere|
+|16|116.80.63.46|3172|Japan|Yokohama|InfoSphere|
+|17|36.147.78.166|443|China|Guangzhou|China Mobile|
+|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|19|116.80.80.159|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.47.56|3172|Japan|Yokohama|InfoSphere|
 
 
 
