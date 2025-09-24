@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|4.216.195.194|3128|Japan|Tokyo|Microsoft Corporation|
-|2|116.80.90.101|3172|Japan|Yokohama|InfoSphere|
-|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|116.80.91.222|3172|Japan|Yokohama|InfoSphere|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|116.80.91.222|3172|Japan|Yokohama|InfoSphere|
+|4|116.80.90.101|3172|Japan|Yokohama|InfoSphere|
 |5|116.80.94.83|3172|Japan|Yokohama|InfoSphere|
-|6|116.80.60.2|3172|Japan|Yokohama|InfoSphere|
-|7|116.80.92.146|3172|Japan|Yokohama|InfoSphere|
+|6|116.80.92.146|3172|Japan|Yokohama|InfoSphere|
+|7|116.80.60.2|3172|Japan|Yokohama|InfoSphere|
 |8|116.80.60.31|3172|Japan|Yokohama|InfoSphere|
-|9|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|116.80.47.49|3172|Japan|Yokohama|InfoSphere|
+|10|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|17|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|18|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
-|19|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|20|116.80.61.94|3172|Japan|Yokohama|InfoSphere|
+|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|17|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|18|116.80.61.94|3172|Japan|Yokohama|InfoSphere|
+|19|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
+|20|116.80.92.146|3172|Japan|Yokohama|InfoSphere|
 
 
 
