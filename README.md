@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|116.80.45.203|3172|Japan|Yokohama|InfoSphere|
-|3|116.80.44.80|3172|Japan|Yokohama|InfoSphere|
-|4|116.80.80.180|3172|Japan|Yokohama|InfoSphere|
-|5|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|3|116.80.80.180|3172|Japan|Yokohama|InfoSphere|
+|4|116.80.44.80|3172|Japan|Yokohama|InfoSphere|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|11|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|13|43.225.151.193|8989|Bangladesh|Dhaka|Next Online|
-|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|75.57.252.234|3128|United States|Miami Gardens|AT&T Enterprises, LLC|
-|16|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|17|63.250.32.220|3128|United States|Los Angeles|Namecheap, Inc.|
-|18|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|9|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|10|63.250.32.220|3128|United States|Los Angeles|Namecheap, Inc.|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|12|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|14|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|15|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|160.25.8.17|11011|Bangladesh|Dhaka|Circle Network|
+|20|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
