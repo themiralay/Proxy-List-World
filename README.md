@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|6|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|116.80.90.111|3172|Japan|Yokohama|InfoSphere|
-|9|116.80.80.183|3172|Japan|Yokohama|InfoSphere|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|202.154.18.160|8084|Indonesia|Babat|DIGITNET|
-|12|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|13|103.171.255.204|8080|Indonesia|Godean|ZKI|
-|14|107.174.88.206|3128|United States|Santa Clara|HostPapa|
-|15|38.253.95.58|999|Dominican Republic|Santo Domingo|LAUAM MEGARED TELECOM, S.R.L.|
-|16|185.89.156.2|44224|Albania|Elbasan|ATU|
-|17|103.150.255.104|43969|Bangladesh|Paltan|RED ONLINE|
-|18|185.112.151.207|8022|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
-|19|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|20|67.43.236.20|20837|Canada|Montreal|GloboTech Communications|
+|2|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|103.242.104.191|8080|Indonesia|Bekasi|PT Lintas Jaringan Nusantara|
+|8|181.129.183.19|53281|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
+|9|116.80.90.111|3172|Japan|Yokohama|InfoSphere|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|116.80.80.183|3172|Japan|Yokohama|InfoSphere|
+|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|13|5.196.5.215|3128|France|Strasbourg|OVH SAS|
+|14|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|17|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|18|5.160.89.154|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|185.112.151.207|8022|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
 
 
 
