@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|116.80.80.184|3172|Japan|Yokohama|InfoSphere|
-|3|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|1|116.80.80.184|3172|Japan|Yokohama|InfoSphere|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 |4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
 |5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|164.70.70.13|3172|Japan|Chiyoda City|InfoSphere|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|12|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|13|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|14|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|6|209.141.62.12|5555|United States|Las Vegas|FranTech Solutions|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|38.225.225.20|8080|Colombia|Medellín|Somos Networks Colombia S.a.s. BIC|
+|10|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|164.70.70.13|3172|Japan|Chiyoda City|InfoSphere|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |16|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
 |18|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
 |19|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|20|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|20|38.211.24.18|8080|Indonesia|Bandung|PT Putra Garsel Interkoneksi|
 
 
 
