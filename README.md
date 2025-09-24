@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.216.195.194|3128|Japan|Tokyo|Microsoft Corporation|
+|1|116.80.80.184|3172|Japan|Yokohama|InfoSphere|
 |2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|116.80.80.184|3172|Japan|Yokohama|InfoSphere|
-|4|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
-|5|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|45.77.156.171|9091|United States|Piscataway|The Constant Company|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|147.185.221.19|14365|United States|Carson City|Developed Methods LLC|
-|12|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|16|164.70.70.13|3172|Japan|Chiyoda City|InfoSphere|
-|17|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|18|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|19|124.105.17.195|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
-|20|188.132.222.4|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|5|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|6|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|9|209.141.57.216|80|United States|Las Vegas|FranTech Solutions|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|14|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|15|164.70.70.13|3172|Japan|Chiyoda City|InfoSphere|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|18|43.225.151.193|8989|Bangladesh|Dhaka|Next Online|
+|19|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|20|190.97.228.46|465|Venezuela|Caracas|Viginet C.A|
 
 
 
