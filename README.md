@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|2|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
 |3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|9|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|10|195.234.68.34|3128|Ukraine|Kyiv|SKIF|
+|4|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|5|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|6|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|105.159.1.249|3128|Morocco|Tangier|Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|195.234.68.34|3128|Ukraine|Kyiv|SKIF|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |11|185.112.151.207|8022|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
-|12|116.80.92.153|3172|Japan|Yokohama|InfoSphere|
-|13|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|14|201.62.82.4|8080|Brazil|Marília|Life Tecnologia Ltda.|
-|15|103.156.114.13|8080|Indonesia|Jakarta|MYREPUBLIC|
-|16|223.25.110.216|8080|Indonesia|Gombong|SinergiNet|
-|17|180.191.36.113|8082|Philippines|Cabanatuan City|Globe Telecom|
-|18|68.183.179.119|8888|Singapore|Singapore|DigitalOcean, LLC|
-|19|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|20|164.70.115.103|3172|Japan|Chiyoda City|InfoSphere|
+|12|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|13|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|14|116.80.92.153|3172|Japan|Yokohama|InfoSphere|
+|15|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|16|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|17|103.123.168.202|3932|Bangladesh|Mātuail|Sajid Trading Ltd.|
+|18|191.97.20.86|999|Peru|José Leonardo Ortiz|Integra Network Del Peru E.I.R.L.|
+|19|164.70.115.103|3172|Japan|Chiyoda City|InfoSphere|
+|20|204.186.254.106|8080|United States|Phillipsburg|PenTeleData Inc|
 
 
 
