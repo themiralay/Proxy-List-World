@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.92.144|3172|Japan|Yokohama|InfoSphere|
-|2|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|5|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|6|116.80.47.51|3172|Japan|Yokohama|InfoSphere|
+|1|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|5|116.80.92.144|3172|Japan|Yokohama|InfoSphere|
+|6|116.80.80.185|3172|Japan|Yokohama|InfoSphere|
 |7|116.80.80.189|3172|Japan|Yokohama|InfoSphere|
-|8|116.80.78.172|3172|Japan|Yokohama|InfoSphere|
-|9|116.80.47.60|3172|Japan|Yokohama|InfoSphere|
-|10|116.80.80.185|3172|Japan|Yokohama|InfoSphere|
-|11|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|15|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|18|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|20|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|8|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|9|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|10|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|11|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|12|116.80.47.51|3172|Japan|Yokohama|InfoSphere|
+|13|107.167.49.215|15999|United States|Los Angeles|HostPapa|
+|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|15|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|17|116.80.78.172|3172|Japan|Yokohama|InfoSphere|
+|18|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|19|116.80.47.60|3172|Japan|Yokohama|InfoSphere|
+|20|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 
 
 
