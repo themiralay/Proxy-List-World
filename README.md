@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|209|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|209|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|209|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|116.80.47.60|3172|Japan|Yokohama|InfoSphere|
-|3|116.80.47.48|3172|Japan|Yokohama|InfoSphere|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|12|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|13|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|14|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|43.154.134.238|50001|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
-|17|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|18|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|3|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|4|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|7|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|12|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|13|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|38.225.225.20|8080|Colombia|Medellín|Somos Networks Colombia S.a.s. BIC|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|116.80.47.48|3172|Japan|Yokohama|InfoSphere|
+|18|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
 |19|45.89.52.241|3128|Türkiye|Izmir|PQ HOSTING PLUS S.R.L.|
-|20|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|20|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
 
 
 
