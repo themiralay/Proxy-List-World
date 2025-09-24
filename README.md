@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|116.80.47.48|3172|Japan|Yokohama|InfoSphere|
-|3|116.80.47.60|3172|Japan|Yokohama|InfoSphere|
-|4|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|5|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|3|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|4|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
 |8|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|9|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|10|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|14|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|15|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
-|16|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|18|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
-|19|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|12|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|38.225.225.20|8080|Colombia|Medellín|Somos Networks Colombia S.a.s. BIC|
+|19|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|20|45.89.52.241|3128|Türkiye|Izmir|PQ HOSTING PLUS S.R.L.|
 
 
 
