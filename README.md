@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|1|173.249.198.31|5448|United States|San Jose|tzulo, inc.|
 |2|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|7|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|8|183.88.214.44|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|9|116.80.94.190|3172|Japan|Yokohama|InfoSphere|
-|10|116.80.80.195|3172|Japan|Yokohama|InfoSphere|
+|3|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|4|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|6|116.80.94.190|3172|Japan|Yokohama|InfoSphere|
+|7|116.80.80.195|3172|Japan|Yokohama|InfoSphere|
+|8|116.80.43.205|3172|Japan|Yokohama|InfoSphere|
+|9|185.112.151.207|8022|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
+|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
 |11|116.80.77.71|3172|Japan|Yokohama|InfoSphere|
-|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|13|185.112.151.207|8022|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
-|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|18|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
-|19|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|20|182.93.75.77|8080|Nepal|Kathmandu|Subisu Cablenet|
+|12|103.177.199.101|8080|Indonesia|Cikarang|PT Eyza Kausa Sinergi Abadi|
+|13|103.75.84.181|7788|Indonesia|Candi Prambanan|MEGADATA|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|16|116.80.80.192|3172|Japan|Yokohama|InfoSphere|
+|17|170.80.50.66|8080|Brazil|Cabo de Santo Agostinho|Ponte Digital|
+|18|67.43.236.19|8485|Canada|Montreal|GloboTech Communications|
+|19|103.4.147.181|2626|Bangladesh|Dhaka|Next Online Limited|
+|20|67.43.236.20|8079|Canada|Montreal|GloboTech Communications|
 
 
 
