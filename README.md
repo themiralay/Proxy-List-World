@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|116.80.45.203|3172|Japan|Yokohama|InfoSphere|
 |3|116.80.80.180|3172|Japan|Yokohama|InfoSphere|
 |4|116.80.44.80|3172|Japan|Yokohama|InfoSphere|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|7|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|47.79.95.122|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|17|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|18|209.141.57.216|80|United States|Las Vegas|FranTech Solutions|
-|19|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|20|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|11|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|15|64.110.118.98|8080|Japan|Osaka|Oracle Corporation|
+|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|19|103.250.70.214|16464|Bangladesh|Gaibandha|Next Online Ltd|
+|20|119.148.39.29|8444|Bangladesh|Dhaka|Agni Systems Limited|
 
 
 
