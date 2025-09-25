@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |5|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|10|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
-|11|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|12|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|18|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|19|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|20|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|7|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|14|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|15|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|16|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|17|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|18|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|20|27.72.100.236|4995|Vietnam|Hanoi|Newass2011xDSLHN|
 
 
 
