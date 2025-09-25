@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|116.80.43.205|3172|Japan|Yokohama|InfoSphere|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|92.38.135.142|3128|South Korea|Seoul|G-Core Labs S.A.|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|43.224.116.170|2626|Bangladesh|Dhaka|Next Online Limited|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|43.224.119.194|2626|Bangladesh|Dhaka|Next Online|
-|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|13|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|14|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|16|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|17|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|18|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|3|103.36.11.21|8080|Indonesia|Gunungjulang|PT Awinet Global Mandiri|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|6|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|9|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|10|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|11|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|181.204.39.202|26312|Colombia|Bucaramanga|Colombia Móvil|
+|13|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|15|92.38.135.142|3128|South Korea|Seoul|G-Core Labs S.A.|
+|16|43.224.119.194|2626|Bangladesh|Dhaka|Next Online|
+|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|18|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
 |19|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|20|80.151.150.113|8080|Germany|Köngen|Deutsche Telekom AG|
+|20|185.112.151.207|8022|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
 
 
 
