@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 |7|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|10|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|11|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|9|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|10|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|11|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
 |12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|192.203.0.118|999|Puerto Rico|Fajardo|Boom NET|
-|15|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|16|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|17|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|18|157.66.16.48|8181|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|19|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|20|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|14|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|15|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|16|27.72.100.236|4995|Vietnam|Hanoi|Newass2011xDSLHN|
+|17|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|18|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|157.66.16.48|8181|Indonesia|Indramayu|PT Mitra Mandiri Network|
 
 
 
