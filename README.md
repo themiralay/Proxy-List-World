@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|116.80.43.205|3172|Japan|Yokohama|InfoSphere|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|92.38.135.142|3128|South Korea|Seoul|G-Core Labs S.A.|
 |4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|6|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
-|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|8|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|9|92.38.135.142|3128|South Korea|Seoul|G-Core Labs S.A.|
-|10|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|7|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|9|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |11|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
 |12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|14|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|15|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|16|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|103.233.152.18|8080|Indonesia|Jimbaran|BIZNET|
-|19|185.112.151.207|8022|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
-|20|43.224.116.170|2626|Bangladesh|Dhaka|Next Online Limited|
+|13|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|15|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|20|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
 
 
 
