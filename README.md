@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|5|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|9|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|10|103.80.98.46|8080|Indonesia|Demak|Advertise via PT Menaksopal|
-|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|12|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|13|182.253.40.149|8080|Indonesia|Mojokerto|BIZNET|
-|14|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|15|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|16|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|17|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|2|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|4|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|5|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|6|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|7|49.147.236.124|8082|Philippines|Los Baños|Philippine Long Distance Telephone Co.|
+|8|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|9|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|10|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|11|160.19.178.42|8080|Indonesia|Tangerang|PT Jaringan Cyber Evo|
+|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|15|191.103.216.234|8085|Colombia|Tolú|EPM Telecomunicaciones S.A. E.S.P.|
+|16|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|17|154.0.14.116|3128|South Africa|Johannesburg|Cisp IP3|
+|18|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
+|19|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
