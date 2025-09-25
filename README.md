@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|262|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|262|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|262|
 
 ## Sources
 
@@ -41,22 +41,22 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|175.45.210.190|3128|South Korea|Seongnam-si|Naver Business Platform Asia Pacific Pte. Ltd.|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|18.61.27.114|3128|India|Hyderabad|Amazon.com, Inc.|
-|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|6|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|7|107.158.179.123|3128|United States|Newport Beach|Eonix Corporation|
-|8|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|9|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|11|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|12|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|13|131.106.1.98|3128|United States|Upper Darby|RCN|
-|14|177.234.192.14|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
-|15|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
-|16|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|17|103.82.246.19|6080|Indonesia|Wedoro|PT Master Star Network|
-|18|45.86.228.233|3128|United Arab Emirates|Fujairah|BlueVPS OU|
+|3|107.158.179.123|3128|United States|Newport Beach|Eonix Corporation|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|6|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|7|18.61.27.114|3128|India|Hyderabad|Amazon.com, Inc.|
+|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|9|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|10|18.179.41.102|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|11|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|12|52.195.182.229|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|14|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|15|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|131.106.1.98|3128|United States|Upper Darby|RCN|
 |19|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
 |20|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
 
