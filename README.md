@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|2|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|3|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|7|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
 |8|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|9|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|10|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|11|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|13|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|16|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|19|103.68.214.32|8181|Indonesia|Sepatan|PT Media Grasi Internet|
-|20|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|9|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|14|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|15|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|16|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|17|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|19|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|20|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
