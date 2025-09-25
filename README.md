@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|116.80.93.34|3172|Japan|Yokohama|InfoSphere|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|6|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|9|112.209.19.35|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
-|10|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|11|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|12|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|13|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|14|114.9.52.2|1452|Indonesia|Langnga|PT. INDOSAT Tbk|
-|15|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|2|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|5|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|6|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|7|116.80.93.34|3172|Japan|Yokohama|InfoSphere|
+|8|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|9|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|11|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|12|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|13|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|14|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |16|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|17|45.225.89.145|999|Ecuador|Balzar|Vasquez Burgos Livington|
+|17|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
 |18|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|19|187.61.98.7|8080|Brazil|Palmeirândia|CINTE Telecom Comercio e Servicos Ltda|
-|20|124.83.115.242|8081|Philippines|Marilao|Philippine Long Distance Telephone Co.|
+|19|216.122.181.210|999|Dominican Republic|Santiago de los Caballeros|Internet Utilities NA LLC|
+|20|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
 
 
 
