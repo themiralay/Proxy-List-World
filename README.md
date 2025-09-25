@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.93.34|3172|Japan|Yokohama|InfoSphere|
 |2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|4|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|5|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|14|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|15|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|16|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|17|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|8|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|9|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|10|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|13|103.144.209.104|8715|Indonesia|Gandul|PT. Indonesia Comnets Plus|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|16|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|19|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
 |20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
