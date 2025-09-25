@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|2|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|6|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|7|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|8|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|9|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|10|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|11|156.54.213.122|9092|Italy|Milan|Telecom Italia S.p.A.|
-|12|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|14|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|15|180.190.238.62|8080|Philippines|Iloilo City|Globe Telecom|
-|16|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|17|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|116.80.47.58|3172|Japan|Yokohama|InfoSphere|
+|1|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|4|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|5|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|6|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|11|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|12|156.54.213.122|9092|Italy|Milan|Telecom Italia S.p.A.|
+|13|157.20.143.215|8085|Philippines|City of Muntinlupa|Fiberbro Internet Communication Services Corp.|
+|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|15|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|16|103.105.76.10|3125|Indonesia|Jombang|PT. Garuda Media Telematika|
+|17|157.15.62.23|8085|Indonesia|Malang|AMAN ISP Customer Malang|
+|18|196.251.11.160|8080|South Africa|Bloubergstrand|HERO TELECOMS (PTY) LTD|
+|19|116.80.47.58|3172|Japan|Yokohama|InfoSphere|
+|20|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
 
 
 
