@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|5|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|6|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
 |8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 |9|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|10|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|12|116.80.43.177|3172|Japan|Yokohama|InfoSphere|
-|13|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|14|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|15|45.77.156.171|9091|United States|Piscataway|The Constant Company|
-|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|17|36.147.78.166|80|China|Guangzhou|China Mobile|
-|18|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|19|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
-|20|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|10|45.77.156.171|9091|United States|Piscataway|The Constant Company|
+|11|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|14|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|15|116.80.43.177|3172|Japan|Yokohama|InfoSphere|
+|16|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|19|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|20|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
 
 
 
