@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|203|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|203|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|203|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.93.34|3172|Japan|Yokohama|InfoSphere|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|103.82.93.219|3128|Indonesia|Padalarang|PT Cloud Hosting Indonesia|
-|5|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|10|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|12|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|14|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|15|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|16|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|18|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|19|156.54.213.122|9092|Italy|Milan|Telecom Italia S.p.A.|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|3|116.80.93.34|3172|Japan|Yokohama|InfoSphere|
+|4|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|5|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
+|6|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|7|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|12|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|16|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|17|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|18|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|19|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
