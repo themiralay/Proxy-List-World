@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|52.195.182.229|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|2|18.179.41.102|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|3|175.45.210.190|3128|South Korea|Seongnam-si|Naver Business Platform Asia Pacific Pte. Ltd.|
-|4|111.250.103.98|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|5|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|6|107.158.179.123|3128|United States|Newport Beach|Eonix Corporation|
-|7|45.86.228.233|3128|United Arab Emirates|Fujairah|BlueVPS OU|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|18.61.27.114|3128|India|Hyderabad|Amazon.com, Inc.|
-|12|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|13|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|14|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|15|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|131.106.1.98|3128|United States|Upper Darby|RCN|
-|18|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|19|103.188.169.114|7777|Indonesia|Kresek|PT Lintas Jaringan Nusantara|
-|20|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|1|175.45.210.190|3128|South Korea|Seongnam-si|Naver Business Platform Asia Pacific Pte. Ltd.|
+|2|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|3|18.61.27.114|3128|India|Hyderabad|Amazon.com, Inc.|
+|4|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|45.86.228.233|3128|United Arab Emirates|Fujairah|BlueVPS OU|
+|7|107.158.179.123|3128|United States|Newport Beach|Eonix Corporation|
+|8|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|18.179.41.102|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|11|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|12|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|15|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|16|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|17|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|177.234.192.15|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|20|179.60.53.25|999|Ecuador|Sigsig|Stealth Telecom del Ecuador|
 
 
 
