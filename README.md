@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|4|116.80.93.34|3172|Japan|Yokohama|InfoSphere|
-|5|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|6|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|10|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|2|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|116.80.93.34|3172|Japan|Yokohama|InfoSphere|
+|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|5|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|6|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|7|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|9|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|10|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|13|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
 |14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|17|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|18|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|19|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|20|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|15|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|16|118.97.75.82|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|17|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|18|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|19|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
 
 
 
