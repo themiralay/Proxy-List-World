@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|32|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38857|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.93.34|3172|Japan|Yokohama|InfoSphere|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
 |7|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|8|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|9|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|10|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|13|103.144.209.104|8715|Indonesia|Gandul|PT. Indonesia Comnets Plus|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|16|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|19|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|11|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
+|12|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|13|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|14|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|15|65.108.251.40|24127|Finland|Helsinki|Hetzner Online GmbH|
+|16|188.132.222.8|8080|Türkiye|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|17|116.80.47.15|3172|Japan|Yokohama|InfoSphere|
+|18|116.80.47.55|3172|Japan|Yokohama|InfoSphere|
+|19|164.70.118.82|3172|Japan|Chiyoda City|InfoSphere|
+|20|116.80.47.51|3172|Japan|Yokohama|InfoSphere|
 
 
 
