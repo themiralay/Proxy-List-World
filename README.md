@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|303|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|303|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|303|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|330|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|330|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|330|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|2|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
 |3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|4|159.223.197.189|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|103.16.118.10|8070|Indonesia|Caruban|CV Trustnet Media|
+|6|123.255.200.13|8070|Indonesia|Weleri|DATAUTAMANET|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|103.4.147.250|2626|Bangladesh|Dhaka|Next Online Limited|
 |9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|10|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|11|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|12|43.224.119.194|2626|Bangladesh|Dhaka|Next Online|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|159.223.197.189|3128|United States|Santa Clara|DigitalOcean, LLC|
-|15|169.155.48.155|3128|France|Paris|Fly.io, Inc.|
-|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|11|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|13|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|43.224.119.194|2626|Bangladesh|Dhaka|Next Online|
+|16|119.18.151.198|2626|Bangladesh|Comilla|BBTS Network|
 |17|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
 |18|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|19|43.224.118.116|2626|Bangladesh|Dhaka|Next Online|
-|20|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|19|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|20|135.125.97.184|38807|France|Wattrelos|OVH SAS|
 
 
 
