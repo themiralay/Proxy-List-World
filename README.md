@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|4|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|5|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|2|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|13|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|14|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|16|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
-|17|185.112.151.207|8022|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
-|18|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|19|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|20|116.80.47.45|3172|Japan|Yokohama|InfoSphere|
+|9|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|14|45.77.156.171|9091|United States|Piscataway|The Constant Company|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|18|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
+|19|185.112.151.207|8022|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
+|20|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
 
 
 
