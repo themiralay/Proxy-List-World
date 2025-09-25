@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **77278** proxies at the latest update. Usable proxies are below.
+> Scraper found **77182** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -29,36 +29,36 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36760|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36705|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|55|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|39237|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|39196|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|3|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|6|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|7|152.32.77.213|8095|Philippines|Makati City|ComClark Network & Technology Corp|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|116.80.78.172|3172|Japan|Yokohama|InfoSphere|
-|10|45.132.87.79|8080|Kazakhstan|Temirtau|TTK LLP|
-|11|209.141.57.216|80|United States|Las Vegas|FranTech Solutions|
-|12|103.165.155.254|2016|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
-|13|118.172.23.177|8081|Thailand|Ao Nang|TOT Public Company Limited|
-|14|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|16|157.66.16.40|8787|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|17|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|196.204.83.232|1981|Egypt|Cairo|Vodafone Data|
-|19|116.80.77.71|3172|Japan|Yokohama|InfoSphere|
-|20|116.80.47.46|3172|Japan|Yokohama|InfoSphere|
+|1|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|3|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|4|103.165.155.254|2016|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|10|116.80.78.172|3172|Japan|Yokohama|InfoSphere|
+|11|91.84.99.28|8444|The Netherlands|Amsterdam|Servers Tech Fzco|
+|12|189.195.139.178|999|Mexico|La Piedad|Mega Cable, S.A. de C.V.|
+|13|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|14|36.136.27.2|4999|China|Guangzhou|China Mobile|
+|15|115.231.181.40|8128|China|Hangzhou|China Telecom|
+|16|200.24.146.97|8080|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|116.80.80.191|3172|Japan|Yokohama|InfoSphere|
+|19|116.80.45.203|3172|Japan|Yokohama|InfoSphere|
+|20|116.80.44.80|3172|Japan|Yokohama|InfoSphere|
 
 
 
