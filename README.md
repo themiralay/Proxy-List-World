@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|4|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|3|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |5|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|7|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|8|18.61.27.114|3128|India|Hyderabad|Amazon.com, Inc.|
-|9|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|9|18.61.27.114|3128|India|Hyderabad|Amazon.com, Inc.|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|13|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|14|195.74.86.205|80|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|12|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|15|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|18|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
 |19|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|20|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
