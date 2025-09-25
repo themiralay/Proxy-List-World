@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|2|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|1|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|3|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |4|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
 |5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|8|180.190.238.62|8080|Philippines|Iloilo City|Globe Telecom|
 |9|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|10|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|11|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|12|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
-|13|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|14|43.225.151.140|8989|Bangladesh|Dhaka|Next Online|
-|15|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|16|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|19|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|20|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|157.20.128.247|8080|Indonesia|Sagaranten|PT Citra Meta Data|
+|12|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|13|200.125.171.77|9991|Dominican Republic|Mejía de Navarrete|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|14|112.209.19.35|8082|Philippines|Manila|Philippine Long Distance Telephone Co.|
+|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|16|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|17|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|18|116.80.47.58|3172|Japan|Yokohama|InfoSphere|
+|19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|20|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
 
 
 
