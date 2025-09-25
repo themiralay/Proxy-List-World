@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|3|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|4|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|5|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|10|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|11|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|12|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|116.80.77.71|3172|Japan|Yokohama|InfoSphere|
-|15|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|16|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|17|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|19|157.66.16.48|8181|Indonesia|Indramayu|PT Mitra Mandiri Network|
-|20|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
+|2|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|5|103.171.31.77|8080|Indonesia|Bekasi|MORATELINDONAP|
+|6|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|7|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|14|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|18|116.80.77.71|3172|Japan|Yokohama|InfoSphere|
+|19|27.72.100.236|4995|Vietnam|Hanoi|Newass2011xDSLHN|
+|20|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
 
 
 
