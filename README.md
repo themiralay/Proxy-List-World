@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|2|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|3|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|4|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|7|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|9|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|10|209.141.57.216|80|United States|Las Vegas|FranTech Solutions|
-|11|115.42.67.186|8080|Pakistan|Karachi|Connect Communication|
-|12|116.80.43.177|3172|Japan|Yokohama|InfoSphere|
-|13|103.141.67.50|51935|Bangladesh|Dhaka|Link3 Technologies Limited|
-|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|16|103.222.255.161|8055|Indonesia|Wates|PT Iktiar Doa Tawakal|
-|17|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|18|102.209.76.109|8080|Kenya|Nairobi|Safhome Fibre Limited|
-|19|92.38.135.142|3128|South Korea|Seoul|G-Core Labs S.A.|
-|20|189.36.129.185|8080|Brazil|Belo Horizonte|BL PROVEDOR DE ACESSO A INTERNET LTDA|
+|1|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|3|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|5|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|6|222.252.194.29|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|9|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|10|103.25.111.246|8080|Indonesia|Pamulang|PT. Indonesia Comnet Plus|
+|11|45.132.87.79|8080|Kazakhstan|Temirtau|TTK LLP|
+|12|115.245.89.250|8080|India|Chennai|Reliance Jio Infocomm Limited|
+|13|116.80.43.177|3172|Japan|Yokohama|InfoSphere|
+|14|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|15|117.54.106.26|8080|Indonesia|Jakarta|PT IndoInternet|
+|16|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|17|92.38.135.142|3128|South Korea|Seoul|G-Core Labs S.A.|
+|18|223.206.184.238|8080|Thailand|Sam Phran|Triple T Broadband Public Company Limited|
+|19|196.204.83.232|1981|Egypt|Cairo|Vodafone Data|
+|20|152.32.77.213|8095|Philippines|Makati City|ComClark Network & Technology Corp|
 
 
 
