@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|116.80.43.205|3172|Japan|Yokohama|InfoSphere|
-|3|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|4|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |5|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|8|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|6|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|10|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|15|185.112.151.207|8022|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
+|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|11|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
 |16|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|17|138.117.230.131|999|Guatemala|La Democracia|Fibernet S.A|
-|18|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|19|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|20|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|17|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|18|124.83.120.47|8081|Philippines|Marilao|Philippine Long Distance Telephone Co.|
+|19|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|20|103.16.118.78|1080|Indonesia|Madiun|CV Trustnet Media|
 
 
 
