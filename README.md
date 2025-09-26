@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|116.80.47.63|3172|Japan|Yokohama|InfoSphere|
-|3|52.195.182.229|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|4|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|5|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|10|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|11|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|12|45.89.52.241|3128|Türkiye|Izmir|PQ HOSTING PLUS S.R.L.|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|15|41.65.160.172|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|16|38.194.231.70|999|Mexico|Tequixquiac|Cogent Communications|
-|17|35.243.0.220|3128|United States|Los Angeles|Google LLC|
-|18|128.140.113.110|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|19|185.112.151.207|8022|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
-|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|4|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|5|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|6|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|43.129.93.201|5000|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|9|185.112.151.207|8022|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
+|10|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|11|35.243.0.220|3128|United States|Los Angeles|Google LLC|
+|12|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|14|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|15|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|16|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|17|38.194.231.70|999|Mexico|Tequixquiac|Cogent Communications|
+|18|209.14.118.116|999|Colombia|Quinchía|AGIS|
+|19|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|20|103.247.23.28|9223|Indonesia|Wonosobo|PT wifian Solution|
 
 
 
