@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|307|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|307|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|307|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
 |4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |5|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|6|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
 |9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|15|34.22.184.163|1000|Belgium|Brussels|Google LLC|
-|16|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|17|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|18|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|19|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|20|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|10|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|13|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|16|195.74.86.205|80|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|17|34.22.184.163|1000|Belgium|Brussels|Google LLC|
+|18|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|19|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|20|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
 
 
 
