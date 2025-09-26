@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|363|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|363|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|363|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|382|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|382|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|382|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|2|20.2.83.243|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|3|116.80.47.60|3172|Japan|Yokohama|InfoSphere|
-|4|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|6|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|7|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|8|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
-|9|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|10|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
-|11|158.69.185.37|3129|Canada|Montreal|OVH SAS|
-|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|13|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|14|98.130.121.180|8080|India|Hyderabad|Amazon.com|
-|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|16|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|17|211.225.214.241|80|South Korea|Gimcheon|Korea Telecom|
-|18|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|19|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|20|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|116.80.47.60|3172|Japan|Yokohama|InfoSphere|
+|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|6|103.87.185.39|8080|Indonesia|Jakarta|FIBERSTAR|
+|7|62.60.178.137|8080|United States|Charlotte|Aeza International LTD|
+|8|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
+|9|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|10|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|11|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|12|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|13|98.130.121.180|8080|India|Hyderabad|Amazon.com|
+|14|62.60.178.137|8080|United States|Charlotte|Aeza International LTD|
+|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|16|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|17|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|18|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|20|103.167.172.2|8080|India|Noida|Gungun Fiber Broadband|
 
 
 
