@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|3|116.80.92.79|3172|Japan|Yokohama|InfoSphere|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|116.80.92.79|3172|Japan|Yokohama|InfoSphere|
+|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|14|34.22.184.163|1000|Belgium|Brussels|Google LLC|
-|15|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|16|113.192.1.122|8181|Indonesia|Cileungsir|PT Surya Bestari Lestari|
-|17|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|19|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
-|20|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|11|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|34.22.184.163|1000|Belgium|Brussels|Google LLC|
+|14|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|15|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|18|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|19|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|20|170.78.208.251|999|Mexico|San Juan del Río|Wantelco SAS de CV|
 
 
 
