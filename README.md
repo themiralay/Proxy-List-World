@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|164.70.68.105|3172|Japan|Chiyoda City|InfoSphere|
-|2|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
-|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|11|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|12|43.252.107.119|1111|Indonesia|Pepe|PT Lintas Data Prima|
-|13|35.243.0.220|3128|United States|Los Angeles|Google LLC|
-|14|41.65.160.172|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|15|103.88.91.14|8080|Indonesia|Malang|PT Paket Switch Bersama|
-|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|19|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|20|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|3|116.80.47.63|3172|Japan|Yokohama|InfoSphere|
+|4|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|5|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|6|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|7|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|8|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|9|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|10|43.129.93.201|5000|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|11|41.65.160.172|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|12|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|14|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|15|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|16|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|17|35.243.0.220|3128|United States|Los Angeles|Google LLC|
+|18|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|185.112.151.207|8022|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
 
 
 
