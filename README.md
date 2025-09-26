@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|5|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|6|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|7|116.80.92.146|3172|Japan|Yokohama|InfoSphere|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|35.243.0.220|3128|United States|Los Angeles|Google LLC|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|12|191.242.182.7|8080|Brazil|Taperoá|Conect Telecom|
-|13|81.169.155.104|6588|Germany|Berlin|Strato AG|
-|14|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|15|34.22.184.163|1000|Belgium|Brussels|Google LLC|
-|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|17|45.231.221.193|999|Mexico|Tijuana|Distrokom S De RL De CV|
-|18|13.159.17.235|3128|Japan|Tokyo|Amazon.com|
-|19|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|20|143.198.147.156|2626|United States|Santa Clara|DigitalOcean, LLC|
+|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|7|116.80.47.46|3172|Japan|Yokohama|InfoSphere|
+|8|116.80.80.192|3172|Japan|Yokohama|InfoSphere|
+|9|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|10|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|34.22.184.163|1000|Belgium|Brussels|Google LLC|
+|13|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|14|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|15|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|16|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|17|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|20|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 
 
 
