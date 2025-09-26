@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|384|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|384|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|384|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|432|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|432|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|432|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|2|116.80.47.60|3172|Japan|Yokohama|InfoSphere|
+|1|116.80.47.60|3172|Japan|Yokohama|InfoSphere|
+|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
-|5|98.130.121.180|8080|India|Hyderabad|Amazon.com|
-|6|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|7|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
 |8|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
 |9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|11|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|14|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|15|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|16|202.137.14.57|8085|Indonesia|Tangerang|customer in Corporate Access|
-|17|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|18|95.47.239.75|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
-|19|195.234.68.34|3128|Ukraine|Kyiv|SKIF|
-|20|181.78.202.29|8080|Ecuador|Quito|Ufinet Panama S.A.|
+|10|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|11|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
+|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|13|171.234.191.86|1010|Vietnam|Hanoi|Viettel Corporation|
+|14|98.130.121.180|8080|India|Hyderabad|Amazon.com|
+|15|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|16|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|19|181.78.202.29|8080|Ecuador|Quito|Ufinet Panama S.A.|
+|20|116.104.219.120|30944|Vietnam|Hanoi|Viettel Corporation|
 
 
 
