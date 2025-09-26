@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |5|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|10|34.22.184.163|1000|Belgium|Brussels|Google LLC|
-|11|81.169.155.104|6588|Germany|Berlin|Strato AG|
-|12|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|13|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|14|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|15|116.80.47.46|3172|Japan|Yokohama|InfoSphere|
-|16|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|17|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|10|81.169.155.104|6588|Germany|Berlin|Strato AG|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|13|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|14|116.80.47.46|3172|Japan|Yokohama|InfoSphere|
+|15|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |18|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|19|36.147.78.166|80|China|Guangzhou|China Mobile|
-|20|191.242.182.7|8080|Brazil|Taperoá|Conect Telecom|
+|19|191.242.182.7|8080|Brazil|Taperoá|Conect Telecom|
+|20|187.94.222.135|3128|Brazil|Manhumirim|Acesse Comunicação Ltda|
 
 
 
