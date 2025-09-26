@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|5|116.80.47.46|3172|Japan|Yokohama|InfoSphere|
-|6|116.80.80.192|3172|Japan|Yokohama|InfoSphere|
-|7|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|5|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|7|34.22.184.163|1000|Belgium|Brussels|Google LLC|
 |8|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|13|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|14|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|15|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
-|16|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|17|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|18|34.22.184.163|1000|Belgium|Brussels|Google LLC|
-|19|36.147.78.166|80|China|Guangzhou|China Mobile|
-|20|98.154.21.253|4228|United States|Whittier|Charter Communications Inc|
+|9|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|10|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|11|116.80.47.46|3172|Japan|Yokohama|InfoSphere|
+|12|116.80.80.192|3172|Japan|Yokohama|InfoSphere|
+|13|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|14|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|15|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|16|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|20|95.111.194.14|6045|Singapore|Singapore|UpCloud Ltd|
 
 
 
