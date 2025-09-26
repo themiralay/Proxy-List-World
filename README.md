@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|5|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|6|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|10|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|11|103.168.148.129|8080|Indonesia|Kawapante|PT Skala Jaringan Indonesia|
-|12|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|13|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|15|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|18|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|19|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
-|20|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|2|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|3|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|4|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|8|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|9|145.40.90.214|10038|United States|La Center|Packet Host, Inc.|
+|10|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|11|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|12|201.182.242.211|999|Ecuador|Saraguro|Gualan Japon Luis Joaquin|
+|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|14|187.94.222.135|3128|Brazil|Manhumirim|Acesse Comunicação Ltda|
+|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|17|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|18|13.159.17.235|3128|Japan|Tokyo|Amazon.com|
+|19|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|20|45.152.87.67|8443|Latvia|Riga|RETN Limited|
 
 
 
