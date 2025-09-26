@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|10|81.169.155.104|6588|Germany|Berlin|Strato AG|
-|11|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|12|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|13|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|14|52.195.182.229|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|15|186.123.26.79|8080|Argentina|Ciudad del Libertador General San Martín|Techtel LMDS Comunicaciones Interactivas S.A.|
-|16|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|17|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|18|39.185.41.193|5911|China|Ningbo|China Mobile Communications Corporation|
+|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|43.129.93.201|5000|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|7|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|8|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|10|202.21.115.178|8080|Mongolia|Ulan Bator|Mobinet LLC|
+|11|209.146.18.132|5050|Philippines|Davao City|Cogent Communications|
+|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|13|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|15|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|16|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|17|182.253.215.158|8080|Indonesia|Jakarta|BIZNET|
+|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |19|35.243.0.217|3128|United States|Los Angeles|Google LLC|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|47.252.81.108|8118|United States|Charlottesville|Alibaba Cloud LLC|
 
 
 
