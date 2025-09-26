@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|427|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|427|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|427|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|422|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|422|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|422|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
-|5|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|6|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|5|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
+|6|111.90.143.43|3128|Malaysia|Kuala Lumpur|Shinjiru Technology Sdn Bhd|
 |7|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|9|62.60.178.137|8080|United States|Charlotte|Aeza International LTD|
-|10|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|192.46.230.254|3128|Singapore|Singapore|Akamai Technologies|
-|13|103.154.230.77|8090|Indonesia|Bilo|DIGITNET|
-|14|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|10|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|11|62.60.178.137|8080|United States|Charlotte|Aeza International LTD|
+|12|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|13|192.46.230.254|3128|Singapore|Singapore|Akamai Technologies|
+|14|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |15|20.204.175.243|3128|India|Pune|Microsoft Corporation|
-|16|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
-|17|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|19|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|20|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|154.205.155.190|3129|United States|New York|Kaopu Cloud HK Limited|
+|19|202.137.14.57|8085|Indonesia|Tangerang|customer in Corporate Access|
+|20|45.152.87.67|8443|Latvia|Riga|RETN Limited|
 
 
 
