@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|118.174.203.237|8080|Thailand|Pattaya|TOT Public Company Limited|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|62.60.178.137|8080|United States|Charlotte|Aeza International LTD|
-|7|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|8|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
-|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|115.77.129.27|20950|Vietnam|Thành Phố Bà Rịa|Viettel Group|
-|12|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|13|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
-|14|62.60.178.137|8080|United States|Charlotte|Aeza International LTD|
-|15|125.163.136.211|8080|Indonesia|Krajan|PT. Telekomunikasi Indonesia|
-|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|18|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|19|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|20|180.194.158.154|8080|Philippines|Malaybalay|Philippine Long Distance Telephone Co.|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
+|5|163.192.216.146|8080|United States|Chicago|Oracle Corporation|
+|6|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|103.187.86.27|8182|Indonesia|Pinrang|PT Satunol Digital Teknologi|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|210.79.142.73|8080|Indonesia|Krajan Pringapus|PT Gayatri Lintas Nusantara|
+|13|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|16|31.145.50.7|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler|
+|17|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|18|125.163.136.211|8080|Indonesia|Krajan|PT. Telekomunikasi Indonesia|
+|19|103.67.85.154|3127|Indonesia|Sumbersewu|PT Tujuh Fondasi Teknologi|
+|20|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
 
 
 
