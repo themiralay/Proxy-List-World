@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|422|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|422|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|422|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|424|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|424|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|424|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.2.83.243|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|116.80.47.60|3172|Japan|Yokohama|InfoSphere|
-|4|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|5|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
-|6|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|7|20.204.175.243|3128|India|Pune|Microsoft Corporation|
+|3|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|4|116.80.47.60|3172|Japan|Yokohama|InfoSphere|
+|5|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|7|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
 |8|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|10|98.130.121.180|8080|India|Hyderabad|Amazon.com|
-|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|12|14.230.227.11|20500|Vietnam|Ho Chi Minh City|VNPT|
-|13|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|14|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|16|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|17|157.66.84.24|1983|Indonesia|Ponorogo|Menaksopal Lintas Nusantara|
-|18|34.22.184.163|1000|Belgium|Brussels|Google LLC|
-|19|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|20|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|9|62.60.178.137|8080|United States|Charlotte|Aeza International LTD|
+|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|11|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|13|98.130.121.180|8080|India|Hyderabad|Amazon.com|
+|14|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|15|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|16|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|17|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|19|103.165.156.11|8090|Indonesia|Jember|MEGADATA-ISP|
+|20|62.60.178.137|8080|United States|Charlotte|Aeza International LTD|
 
 
 
