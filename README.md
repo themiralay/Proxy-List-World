@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|335|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|335|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|335|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|13.230.216.204|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|2|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
 |3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
-|6|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|7|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|6|62.60.178.137|8080|United States|Charlotte|Aeza International LTD|
+|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
 |9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|125.163.136.211|8080|Indonesia|Krajan|PT. Telekomunikasi Indonesia|
-|11|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|157.20.207.55|1111|Indonesia|Kudus|PT Erajaya Telco Indonesia|
-|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|15|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|16|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|17|4.239.94.226|3128|Canada|Québec|Microsoft Corporation|
-|18|187.188.15.249|8080|Mexico|Iztapalapa|Total Play Telecomunicaciones SA De CV|
-|19|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|11|192.46.230.254|3128|Singapore|Singapore|Akamai Technologies|
+|12|20.204.175.243|3128|India|Pune|Microsoft Corporation|
+|13|31.145.50.15|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler|
+|14|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|15|180.194.158.154|8080|Philippines|Malaybalay|Philippine Long Distance Telephone Co.|
+|16|31.145.174.186|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler AS|
+|17|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|18|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
 
 
 
