@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|4|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|4|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
+|5|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|6|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|11|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|12|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|34.22.184.163|1000|Belgium|Brussels|Google LLC|
-|17|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|18|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|19|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|20|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|15|34.22.184.163|1000|Belgium|Brussels|Google LLC|
+|16|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|19|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|20|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
 
 
 
