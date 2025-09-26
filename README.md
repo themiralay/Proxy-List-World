@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|13.159.17.235|3128|Japan|Tokyo|Amazon.com|
-|2|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|1|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|3|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|4|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
 |5|51.81.46.174|3128|United States|Warrenton|OVH SAS|
 |6|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
 |7|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|8|81.169.155.104|6588|Germany|Berlin|Strato AG|
-|9|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|10|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|12|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|13|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|14|38.194.253.30|999|Mexico|Apaseo el Alto|Cogent Communications|
-|15|35.243.0.220|3128|United States|Los Angeles|Google LLC|
-|16|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|18|185.112.151.207|8022|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|8|209.141.57.216|80|United States|Las Vegas|FranTech Solutions|
+|9|35.243.0.220|3128|United States|Los Angeles|Google LLC|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|11|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|18.179.41.102|3128|Japan|Tokyo|Amazon Technologies Inc.|
+|15|41.223.119.156|3128|Zambia|Lusaka|MTN Zambia|
+|16|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|18|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
+|19|186.218.251.185|8389|Brazil|Camaçari|Claro NXT Telecomunicacoes Ltda|
+|20|116.80.47.59|3172|Japan|Yokohama|InfoSphere|
 
 
 
