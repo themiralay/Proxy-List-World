@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|397|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|397|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|397|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|388|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|388|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|388|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.2.83.243|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|2|116.80.47.60|3172|Japan|Yokohama|InfoSphere|
-|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
-|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|1|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|116.80.47.60|3172|Japan|Yokohama|InfoSphere|
+|4|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|5|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
 |6|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|20.204.175.243|3128|India|Pune|Microsoft Corporation|
-|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|10|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|11|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|12|103.87.185.39|8080|Indonesia|Jakarta|FIBERSTAR|
-|13|98.130.121.180|8080|India|Hyderabad|Amazon.com|
-|14|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|16|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|18|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|19|195.234.68.34|3128|Ukraine|Kyiv|SKIF|
-|20|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|62.60.178.137|8080|United States|Charlotte|Aeza International LTD|
+|9|20.2.83.243|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|10|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
+|11|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|12|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|13|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
+|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|15|103.87.185.39|8080|Indonesia|Jakarta|FIBERSTAR|
+|16|98.130.121.180|8080|India|Hyderabad|Amazon.com|
+|17|113.11.127.176|16464|Bangladesh|Dhaka|BDCOM Online Limited|
+|18|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|19|62.60.178.137|8080|United States|Charlotte|Aeza International LTD|
+|20|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
 
 
 
