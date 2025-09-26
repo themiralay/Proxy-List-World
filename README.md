@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|2|116.80.47.63|3172|Japan|Yokohama|InfoSphere|
-|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|3|116.80.47.63|3172|Japan|Yokohama|InfoSphere|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|6|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
 |7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|11|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|12|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|13|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|34.22.184.163|1000|Belgium|Brussels|Google LLC|
-|17|38.194.231.70|999|Mexico|Tequixquiac|Cogent Communications|
-|18|42.115.31.129|20608|Vietnam|An Dương|FPT Telecom Company|
-|19|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|20|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|13|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|16|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|17|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|20|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
 
 
 
