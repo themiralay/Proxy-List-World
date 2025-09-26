@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
 |2|116.80.60.31|3172|Japan|Yokohama|InfoSphere|
 |3|116.80.78.172|3172|Japan|Yokohama|InfoSphere|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|6|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
-|7|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|6|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 |8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
 |12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|16|34.22.184.163|1000|Belgium|Brussels|Google LLC|
-|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|18|103.162.61.221|8081|Indonesia|Pundong|PT Indo Prima Akses|
-|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|20|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|14|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|15|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|16|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|17|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|18|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|34.22.184.163|1000|Belgium|Brussels|Google LLC|
+|20|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 
 
 
