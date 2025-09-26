@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|4|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|5|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|6|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|116.80.47.46|3172|Japan|Yokohama|InfoSphere|
-|10|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|11|116.80.45.203|3172|Japan|Yokohama|InfoSphere|
-|12|201.182.242.211|999|Ecuador|Saraguro|Gualan Japon Luis Joaquin|
-|13|36.147.78.166|80|China|Guangzhou|China Mobile|
-|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|2|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|3|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|5|34.22.184.163|1000|Belgium|Brussels|Google LLC|
+|6|78.47.219.204|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|8|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|9|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|10|116.80.45.203|3172|Japan|Yokohama|InfoSphere|
+|11|116.80.47.46|3172|Japan|Yokohama|InfoSphere|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|14|191.242.182.7|8080|Brazil|Taperoá|Conect Telecom|
 |15|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|16|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|17|191.242.182.7|8080|Brazil|Taperoá|Conect Telecom|
-|18|87.126.65.11|1388|Bulgaria|Sofia|Vivacom Bulgaria EAD|
-|19|116.80.92.147|3172|Japan|Yokohama|InfoSphere|
+|16|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
+|17|116.80.92.147|3172|Japan|Yokohama|InfoSphere|
+|18|24.172.34.114|49920|United States|Darlington|Charter Communications Inc|
+|19|67.43.236.19|8195|Canada|Montreal|GloboTech Communications|
 |20|116.80.47.48|3172|Japan|Yokohama|InfoSphere|
 
 
