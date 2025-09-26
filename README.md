@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|360|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|360|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|360|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
-|4|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|118.174.203.237|8080|Thailand|Pattaya|TOT Public Company Limited|
+|2|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|5|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|6|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|7|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
 |8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|9|14.225.8.195|3218|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|125.163.136.211|8080|Indonesia|Krajan|PT. Telekomunikasi Indonesia|
-|12|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|13|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|14|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|15|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|16|4.239.94.226|3128|Canada|Québec|Microsoft Corporation|
-|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
-|19|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|20|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|14.225.8.195|3218|Vietnam|Hanoi|Vietnam Posts and Telecommunications Group|
+|11|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|12|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|14|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|15|118.174.203.237|8080|Thailand|Pattaya|TOT Public Company Limited|
+|16|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|17|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|18|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|19|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|20|31.145.50.15|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler|
 
 
 
