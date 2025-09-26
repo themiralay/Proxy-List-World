@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.68.105|3172|Japan|Chiyoda City|InfoSphere|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|8|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|12|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|13|164.70.116.97|3172|Japan|Chiyoda City|InfoSphere|
-|14|41.65.160.172|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
-|15|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|16|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|17|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|18|116.80.47.51|3172|Japan|Yokohama|InfoSphere|
-|19|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
-|20|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|2|8.209.255.114|20172|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|3|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|5|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|12|41.65.160.172|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|13|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|14|50.235.247.114|8085|United States|Richmond|Comcast Cable Communications, LLC|
+|15|116.80.47.51|3172|Japan|Yokohama|InfoSphere|
+|16|164.70.116.97|3172|Japan|Chiyoda City|InfoSphere|
+|17|116.106.28.209|30391|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|18|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|19|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
+|20|116.107.124.194|20613|Vietnam|Hanoi|Viettel Corporation|
 
 
 
