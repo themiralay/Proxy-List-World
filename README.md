@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
-|3|52.195.182.229|3128|Japan|Tokyo|Amazon Technologies Inc.|
-|4|116.80.92.79|3172|Japan|Yokohama|InfoSphere|
-|5|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|1|116.80.92.79|3172|Japan|Yokohama|InfoSphere|
+|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|3|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|13|34.22.184.163|1000|Belgium|Brussels|Google LLC|
-|14|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|15|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|16|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|18|116.80.47.46|3172|Japan|Yokohama|InfoSphere|
-|19|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|10|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|11|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|13|5.78.130.46|12016|United States|Hillsboro|Hetzner Online GmbH|
+|14|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|16|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|17|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|18|34.22.184.163|1000|Belgium|Brussels|Google LLC|
+|19|116.80.47.46|3172|Japan|Yokohama|InfoSphere|
+|20|41.65.160.172|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
 
 
 
