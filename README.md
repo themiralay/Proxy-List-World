@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **76788** proxies at the latest update. Usable proxies are below.
+> Scraper found **76851** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36642|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36705|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|65|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38855|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|116.80.61.94|3172|Japan|Yokohama|InfoSphere|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|3|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|4|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|5|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
 |11|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|14|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|15|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|16|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|17|116.80.93.34|3172|Japan|Yokohama|InfoSphere|
-|18|202.47.188.186|2010|Indonesia|Magetan|Lintas Data Prima, PT|
-|19|37.187.92.9|1028|France|Roubaix|OVH SAS|
-|20|115.72.39.28|10002|Vietnam|Ho Chi Minh City|VIETELmetro|
+|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|13|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|104.152.49.22|8080|Germany|Nuremberg|DA International Group Ltd.|
+|16|116.80.93.34|3172|Japan|Yokohama|InfoSphere|
+|17|82.103.94.190|8080|Bulgaria|Sofia|Spectrum NET|
+|18|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|19|103.191.196.212|8080|Indonesia|Pamanukan|PT Pangkalan Lintas Data|
+|20|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 
 
 
