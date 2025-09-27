@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
-|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|206.237.27.169|8000|Hong Kong|Kwun Tong|Cloudie Limited|
-|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
-|10|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|11|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|34.22.184.163|1000|Belgium|Brussels|Google LLC|
-|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|16|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|17|31.145.174.186|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler AS|
-|18|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|31.145.174.170|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler AS|
+|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|3|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|7|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|12|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|13|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|14|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|15|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|17|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|103.247.22.15|1111|Indonesia|Cileungsir|PT wifian Solution|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
