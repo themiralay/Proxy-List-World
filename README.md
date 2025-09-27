@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |4|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
 |5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|7|157.66.221.103|39099|Vietnam|Thành Phố Thủ Dầu Một|Sandclock Service Trading Company Limited|
-|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|12|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|10|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
+|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|14|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|15|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
+|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|17|51.81.46.174|3128|United States|Warrenton|OVH SAS|
 |18|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|19|103.39.75.123|8080|Indonesia|Karanganyar|PT. GOLDEN NETWORK NUSANTARA|
-|20|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|19|31.145.50.2|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler|
+|20|31.145.50.15|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler|
 
 
 
