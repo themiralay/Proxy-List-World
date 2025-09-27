@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|351|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|351|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|351|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|116.80.80.197|3172|Japan|Yokohama|InfoSphere|
 |2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|116.80.94.188|3172|Japan|Yokohama|InfoSphere|
-|4|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|5|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
 |9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|11|206.237.27.169|8000|Hong Kong|Kwun Tong|Cloudie Limited|
-|12|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|12|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|13|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
 |14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|16|38.7.1.88|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
-|17|103.81.194.167|8080|Indonesia|Cileungsir|PT Rtiga Global Media|
-|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|65.38.213.154|8881|Puerto Rico|San Juan|AT&T Mobility Puerto Rico|
-|20|31.145.50.10|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler|
+|15|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|16|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|43.129.93.201|5000|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|19|34.22.184.163|1000|Belgium|Brussels|Google LLC|
+|20|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
 
 
 
