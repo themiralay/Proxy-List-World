@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|403|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|403|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|403|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|372|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|372|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|372|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|116.80.44.124|3172|Japan|Yokohama|InfoSphere|
-|4|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
-|5|103.87.85.198|80|Indonesia|South Tangerang|PT Cyberindo Aditama|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|11|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|14|103.126.119.99|8080|Indonesia|Tangerang|PT. Media Tekno Nusantara|
-|15|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|16|31.145.50.15|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler|
-|17|31.145.174.181|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler AS|
-|18|31.145.174.170|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler AS|
-|19|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|3|206.237.27.169|8000|Hong Kong|Kwun Tong|Cloudie Limited|
+|4|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|5|116.80.44.124|3172|Japan|Yokohama|InfoSphere|
+|6|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|13|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|118.172.23.177|8081|Thailand|Ao Nang|TOT Public Company Limited|
+|16|31.145.174.183|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler AS|
+|17|31.145.50.15|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler|
+|18|31.145.174.178|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler AS|
+|19|116.107.124.194|20613|Vietnam|Hanoi|Viettel Corporation|
+|20|31.145.174.170|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler AS|
 
 
 
