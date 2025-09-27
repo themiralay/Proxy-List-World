@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|371|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|371|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|371|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
 
 ## Sources
 
@@ -45,20 +45,20 @@ Click the file format that you want and copy the URL.
 |4|116.80.43.204|3172|Japan|Yokohama|InfoSphere|
 |5|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|134.209.152.106|3128|India|Bengaluru|DigitalOcean, LLC|
-|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|14|101.255.211.41|1111|Indonesia|Cileungsir|PT Remala Abadi|
-|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|16|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|17|119.18.151.170|2626|Bangladesh|Comilla|BBTS Network|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|7|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|8|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
+|9|159.223.197.189|3128|United States|Santa Clara|DigitalOcean, LLC|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|12|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|14|103.171.255.244|8080|Indonesia|Sleman|ZKI|
+|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|16|134.209.152.106|3128|India|Bengaluru|DigitalOcean, LLC|
+|17|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|18|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|19|62.60.178.137|8080|United States|Charlotte|Aeza International LTD|
+|20|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 
 
 
