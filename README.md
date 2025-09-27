@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -45,20 +45,20 @@ Click the file format that you want and copy the URL.
 |4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |6|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|11|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|3.110.191.52|8888|India|Mumbai|Amazon Technologies Inc.|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |12|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|17|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|19|31.145.50.3|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler|
-|20|31.145.174.176|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler AS|
+|13|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|17|31.145.50.19|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler|
+|18|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|19|81.169.155.104|6588|Germany|Berlin|Strato AG|
+|20|31.145.50.3|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler|
 
 
 
