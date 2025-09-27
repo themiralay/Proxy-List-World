@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **77046** proxies at the latest update. Usable proxies are below.
+> Scraper found **40130** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|419|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|419|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|419|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36916|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|103|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|38801|✅|
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|116.80.43.204|3172|Japan|Yokohama|InfoSphere|
 |4|116.80.93.34|3172|Japan|Yokohama|InfoSphere|
 |5|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|6|202.137.14.57|8085|Indonesia|Tangerang|customer in Corporate Access|
-|7|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
+|6|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|7|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|10|49.49.20.30|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|11|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|12|159.223.197.189|3128|United States|Santa Clara|DigitalOcean, LLC|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|12|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
 |13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|14|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|14|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
 |15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|16|134.209.152.106|3128|India|Bengaluru|DigitalOcean, LLC|
-|17|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|103.250.70.214|16464|Bangladesh|Gaibandha|Next Online Ltd|
-|19|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|20|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|16|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
+|17|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|19|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
