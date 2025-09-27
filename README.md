@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|306|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|306|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|306|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
-|4|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|7|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
 |8|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|9|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|31.145.174.186|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler AS|
-|14|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|15|31.145.50.15|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler|
-|16|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|17|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|18|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|20|31.145.174.178|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler AS|
+|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|10|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|11|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|12|81.169.155.104|6588|Germany|Berlin|Strato AG|
+|13|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|15|31.145.50.19|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler|
+|16|31.145.174.174|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler AS|
+|17|31.145.174.161|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler AS|
+|18|31.145.174.165|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler AS|
+|19|31.145.50.15|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler|
+|20|31.145.174.169|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler AS|
 
 
 
