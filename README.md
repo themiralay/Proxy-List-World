@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
-|4|163.192.216.146|8080|United States|Chicago|Oracle Corporation|
-|5|62.60.178.137|8080|United States|Charlotte|Aeza International LTD|
-|6|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|116.80.47.60|3172|Japan|Yokohama|InfoSphere|
-|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|1|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|2|116.80.47.60|3172|Japan|Yokohama|InfoSphere|
+|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|163.192.216.146|8080|United States|Chicago|Oracle Corporation|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |10|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
-|11|162.243.149.86|31028|United States|San Francisco|DigitalOcean, LLC|
-|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|15|98.130.121.180|8080|India|Hyderabad|Amazon.com|
-|16|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|17|62.60.178.137|8080|United States|Charlotte|Aeza International LTD|
+|11|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|13|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|14|98.130.121.180|8080|India|Hyderabad|Amazon.com|
+|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|16|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|17|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
 |18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|19|103.87.185.39|8080|Indonesia|Jakarta|FIBERSTAR|
-|20|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|19|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|20|110.136.87.29|1111|Indonesia|Tangerang|PT. TELKOM INDONESIA|
 
 
 
