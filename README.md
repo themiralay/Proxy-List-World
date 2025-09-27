@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
-|4|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
+|2|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|4|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
 |5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
-|10|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|12|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|13|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|15|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|16|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
-|19|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|20|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|6|206.237.27.169|8000|Hong Kong|Kwun Tong|Cloudie Limited|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
+|9|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|11|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
+|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|14|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|15|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|17|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
+|18|103.163.103.163|8010|Indonesia|Jatiroto|PT Mamura Inter Media|
+|19|202.58.77.19|3127|Indonesia|Pasuruan|PT Data Buana Nusantara|
+|20|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
