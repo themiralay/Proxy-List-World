@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|116.80.61.94|3172|Japan|Yokohama|InfoSphere|
-|3|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|222.127.55.155|8082|Philippines|Lahug|INNOVE|
-|5|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
-|6|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|11|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|14|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
 |15|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|16|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|17|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
-|18|103.191.196.212|8080|Indonesia|Pamanukan|PT Pangkalan Lintas Data|
-|19|103.56.92.186|80|Indonesia|Semarang|Argon Data Communication|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|17|116.80.93.34|3172|Japan|Yokohama|InfoSphere|
+|18|202.47.188.186|2010|Indonesia|Magetan|Lintas Data Prima, PT|
+|19|37.187.92.9|1028|France|Roubaix|OVH SAS|
+|20|115.72.39.28|10002|Vietnam|Ho Chi Minh City|VIETELmetro|
 
 
 
