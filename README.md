@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
-|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|1|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |4|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
 |5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|12|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
-|13|222.165.205.212|1452|Indonesia|Jakarta|PT NettoCyber Indonesia|
-|14|45.77.156.171|9091|United States|Piscataway|The Constant Company|
-|15|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|16|103.230.62.197|2626|Bangladesh|Chittagong|Next Online Ltd|
-|17|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|20|38.194.231.70|999|Mexico|Tequixquiac|Cogent Communications|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|11|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|12|103.167.170.42|8097|Indonesia|Jakarta|PT Rajeg Media Telekomunikasi|
+|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|14|103.67.84.17|2022|Indonesia|Banyuwangi|PT Tujuh Fondasi Teknologi|
+|15|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|16|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|17|206.237.27.169|8000|Hong Kong|Kwun Tong|Cloudie Limited|
+|18|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|20|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
 
 
 
