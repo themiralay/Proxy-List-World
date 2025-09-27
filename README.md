@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|257|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|257|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|257|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|2|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|6|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|8|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|9|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|10|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|11|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|12|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|13|31.145.174.161|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler AS|
-|14|31.145.50.10|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler|
-|15|31.145.174.176|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler AS|
-|16|31.145.174.186|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler AS|
-|17|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|18|31.145.174.183|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler AS|
-|19|31.145.174.170|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler AS|
-|20|31.145.50.15|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
+|5|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|11|206.237.27.169|8000|Hong Kong|Kwun Tong|Cloudie Limited|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|27.254.99.183|8118|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|14|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|16|31.145.50.7|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler|
+|17|31.145.174.161|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler AS|
+|18|34.22.184.163|1000|Belgium|Brussels|Google LLC|
+|19|31.145.50.19|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler|
+|20|45.89.52.241|3128|Türkiye|Izmir|PQ HOSTING PLUS S.R.L.|
 
 
 
