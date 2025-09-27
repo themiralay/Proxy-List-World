@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.80.187|3172|Japan|Yokohama|InfoSphere|
-|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
-|4|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|5|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|116.80.80.187|3172|Japan|Yokohama|InfoSphere|
+|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|4|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|9|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|11|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|12|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|13|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|14|116.80.80.199|3172|Japan|Yokohama|InfoSphere|
-|15|157.20.244.174|8080|Indonesia|Jakarta|PT.Global Media Data Prima|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|12|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|14|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|15|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
 |16|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|17|124.105.186.206|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|18|190.108.82.244|999|Peru|Urcos|Internexa Peru S.A|
-|19|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|20|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|17|116.80.80.199|3172|Japan|Yokohama|InfoSphere|
+|18|14.234.141.1|20499|Vietnam|Ho Chi Minh City|VNPT|
+|19|38.41.12.88|999|Venezuela|Caracas|MDS TELECOM C.A.|
+|20|38.46.233.146|8080|Indonesia|Boyolali|PT CYB Media Group|
 
 
 
