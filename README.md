@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|4|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|51.81.46.174|3128|United States|Warrenton|OVH SAS|
-|9|31.145.50.10|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler|
-|10|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|11|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|12|81.169.155.104|6588|Germany|Berlin|Strato AG|
-|13|31.145.174.169|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler AS|
-|14|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|15|31.145.174.174|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler AS|
-|16|34.22.184.163|1000|Belgium|Brussels|Google LLC|
-|17|31.145.174.178|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler AS|
-|18|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|19|103.131.19.44|8080|Indonesia|Batang|PT Global Media Data Prima|
-|20|31.145.174.170|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler AS|
+|1|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|2|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
+|4|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|6|206.237.27.169|8000|Hong Kong|Kwun Tong|Cloudie Limited|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|10|51.81.46.174|3128|United States|Warrenton|OVH SAS|
+|11|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|13|34.22.184.163|1000|Belgium|Brussels|Google LLC|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|91.230.149.113|3128|Turkey|Mahmutbey|Makdos Bilisim Teknolojileri Sanayi Ticaret Limited Sirketi|
+|16|31.145.174.178|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler AS|
+|17|31.145.50.15|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler|
+|18|31.145.50.10|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler|
+|19|31.145.50.7|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler|
+|20|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
 
 
 
