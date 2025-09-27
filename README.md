@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|290|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|290|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|290|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|9|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
+|3|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|4|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |13|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|14|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|14|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |15|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|17|81.169.155.104|6588|Germany|Berlin|Strato AG|
-|18|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|19|31.145.50.4|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler|
-|20|31.145.174.181|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler AS|
+|17|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|18|31.145.50.10|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler|
+|19|31.145.174.165|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler AS|
+|20|31.145.50.3|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler|
 
 
 
