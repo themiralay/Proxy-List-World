@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
-|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|3|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
+|4|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|8|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|123.25.88.61|20118|Vietnam|Ha Long|VietNam Post and Telecom Corporation|
+|8|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|9|104.152.49.22|8080|Germany|Nuremberg|DA International Group Ltd.|
+|10|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|11|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
 |12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|13|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|14|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|15|60.48.202.208|8081|Malaysia|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|
-|16|103.133.26.11|8080|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
-|17|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|18|31.145.174.178|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler AS|
-|19|124.105.186.206|8181|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|20|72.10.164.178|16341|Canada|Montreal|GloboTech Communications|
+|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|15|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
+|16|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
+|17|176.236.227.98|8080|Türkiye|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|18|31.145.174.174|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler AS|
+|19|31.145.50.2|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler|
+|20|202.138.241.102|9384|Indonesia|Bandung|Melsa-i-net|
 
 
 
