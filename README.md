@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.80.187|3172|Japan|Yokohama|InfoSphere|
-|2|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|116.80.80.187|3172|Japan|Yokohama|InfoSphere|
 |3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |4|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|7|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|8|46.166.83.132|8081|Russia|Krasnoyarsk|SIBTTK|
-|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|10|116.80.60.31|3172|Japan|Yokohama|InfoSphere|
-|11|38.41.12.88|999|Venezuela|Caracas|MDS TELECOM C.A.|
-|12|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|13|38.41.2.201|999|Venezuela|Caracas|MDS TELECOM C.A.|
-|14|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|15|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|16|81.169.155.104|6588|Germany|Berlin|Strato AG|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|185.112.151.207|8022|Iran|Tehran|Sefroyek Pardaz Engineering PJSC|
-|19|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|20|103.54.80.194|8082|Indonesia|Purbalingga|MEDIACOMPUTINDO|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|10|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
+|11|116.80.47.58|3172|Japan|Yokohama|InfoSphere|
+|12|193.95.53.131|8077|Tunisia|Tunis|3S INF|
+|13|116.80.47.48|3172|Japan|Yokohama|InfoSphere|
+|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|15|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
+|16|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|17|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|18|157.175.147.228|8181|Bahrain|Manama|Amazon.com, Inc.|
+|19|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|20|80.151.150.113|8080|Germany|Köngen|Deutsche Telekom AG|
 
 
 
