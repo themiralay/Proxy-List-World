@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|266|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|266|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|266|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|13|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|16|34.22.184.163|1000|Belgium|Brussels|Google LLC|
-|17|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|18|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|19|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|20|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|2|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|4|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|15|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|16|51.159.159.73|80|France|Paris|SCALEWAY|
+|17|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|18|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
 
 
 
