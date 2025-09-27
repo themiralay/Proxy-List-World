@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
 |3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|116.105.254.222|20185|Vietnam|Hanoi|Viettel Corporation|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |6|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
 |7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|12|3.110.191.52|8888|India|Mumbai|Amazon Technologies Inc.|
-|13|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|17|81.169.155.104|6588|Germany|Berlin|Strato AG|
+|8|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|9|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
+|10|3.110.191.52|8888|India|Mumbai|Amazon Technologies Inc.|
+|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|13|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|14|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
+|15|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|16|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |18|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|19|95.47.239.75|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
-|20|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|19|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
