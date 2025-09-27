@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
-|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|5|206.237.27.169|8000|Hong Kong|Kwun Tong|Cloudie Limited|
+|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|3|206.237.27.169|8000|Hong Kong|Kwun Tong|Cloudie Limited|
+|4|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
+|5|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
 |6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
-|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|180.193.214.201|8082|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
 |12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|51.159.159.73|80|France|Paris|SCALEWAY|
-|17|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|18|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|19|43.224.118.116|2626|Bangladesh|Dhaka|Next Online|
-|20|208.67.28.29|58090|United States|Eagle River|SonicNet Inc.|
+|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|15|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|16|45.65.137.218|999|Colombia|Cúcuta|Telecomunicaciones Del Catatumbo S.A.S|
+|17|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|18|51.159.159.73|80|France|Paris|SCALEWAY|
+|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|103.165.126.65|8080|Indonesia|Kahuripan|PT iForte Global Internet|
 
 
 
