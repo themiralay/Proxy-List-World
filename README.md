@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|288|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|288|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|288|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
-|4|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
-|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|8|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|206.237.27.169|8000|Hong Kong|Kwun Tong|Cloudie Limited|
-|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|12|175.106.11.58|7878|Indonesia|Jakarta|Quantum Dist POP KK|
-|13|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|4|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|5|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|7|171.253.54.122|20799|Vietnam|Hanoi|Viettel Corporation|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|10|124.107.144.249|8080|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
+|11|36.94.30.238|8080|Indonesia|Bandung|PT. Telekomunikasi Indonesia|
+|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |14|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|15|103.167.170.42|8097|Indonesia|Jakarta|PT Rajeg Media Telekomunikasi|
-|16|103.122.64.248|8090|Indonesia|Kotabesi|PT. Jinom Network Indonesia|
-|17|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|18|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|20|38.191.214.4|999|Colombia|Villavicencio|TECNOLOGÍA, INFORMACIÓN Y COMUNICACIONES DE COLOMBIA SAS|
+|15|206.237.27.169|8000|Hong Kong|Kwun Tong|Cloudie Limited|
+|16|103.189.197.105|8080|Indonesia|Cirebon|PT Graha Sumber Teknologi|
+|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|18|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|19|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
+|20|171.228.47.183|30569|Vietnam|Hòa Bình|Viettel Corporation|
 
 
 
