@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|3|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
+|4|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
 |5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
-|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|9|103.173.138.177|8080|Indonesia|Pulaupanggung|PT Serayu Multi Connection|
-|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|14|51.159.159.73|80|France|Paris|SCALEWAY|
+|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |16|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|17|43.224.116.65|8989|Bangladesh|Dhaka|Next Online Limited|
-|18|34.22.184.163|1000|Belgium|Brussels|Google LLC|
+|17|34.22.184.163|1000|Belgium|Brussels|Google LLC|
+|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |19|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|20|31.145.174.178|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler AS|
+|20|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
 
 
 
