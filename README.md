@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|494|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|494|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|494|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|419|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|419|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|419|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.80.192|3172|Japan|Yokohama|InfoSphere|
-|2|116.80.93.34|3172|Japan|Yokohama|InfoSphere|
+|2|164.70.68.104|3172|Japan|Chiyoda City|InfoSphere|
 |3|116.80.43.204|3172|Japan|Yokohama|InfoSphere|
-|4|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|5|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|8|159.223.197.189|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|116.80.93.34|3172|Japan|Yokohama|InfoSphere|
+|5|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|6|202.137.14.57|8085|Indonesia|Tangerang|customer in Corporate Access|
+|7|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
+|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |10|49.49.20.30|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
-|11|103.250.70.214|16464|Bangladesh|Gaibandha|Next Online Ltd|
-|12|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|13|134.209.152.106|3128|India|Bengaluru|DigitalOcean, LLC|
-|14|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|17|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|19|34.22.184.163|1000|Belgium|Brussels|Google LLC|
-|20|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|11|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|12|159.223.197.189|3128|United States|Santa Clara|DigitalOcean, LLC|
+|13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|14|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|16|134.209.152.106|3128|India|Bengaluru|DigitalOcean, LLC|
+|17|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|18|103.250.70.214|16464|Bangladesh|Gaibandha|Next Online Ltd|
+|19|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|20|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
 
 
 
