@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|440|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|440|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|440|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|502|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|502|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|502|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.80.192|3172|Japan|Yokohama|InfoSphere|
 |2|164.70.68.104|3172|Japan|Chiyoda City|InfoSphere|
-|3|116.80.43.204|3172|Japan|Yokohama|InfoSphere|
-|4|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|5|116.80.93.34|3172|Japan|Yokohama|InfoSphere|
-|6|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
-|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|134.209.152.106|3128|India|Bengaluru|DigitalOcean, LLC|
-|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|10|159.223.197.189|3128|United States|Santa Clara|DigitalOcean, LLC|
-|11|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|14|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|17|70.183.141.254|3128|United States|Chesapeake|Cox Communications Inc.|
-|18|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|19|38.65.174.107|999|Mexico|Amealco|Wantelco SAS de CV|
-|20|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|3|116.80.93.34|3172|Japan|Yokohama|InfoSphere|
+|4|116.80.43.204|3172|Japan|Yokohama|InfoSphere|
+|5|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|6|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|7|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
+|8|159.223.197.189|3128|United States|Santa Clara|DigitalOcean, LLC|
+|9|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|10|134.209.152.106|3128|India|Bengaluru|DigitalOcean, LLC|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|12|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|13|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|14|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|16|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|17|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|19|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|20|34.22.184.163|1000|Belgium|Brussels|Google LLC|
 
 
 
