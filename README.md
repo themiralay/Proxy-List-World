@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|2|116.80.77.71|3172|Japan|Yokohama|InfoSphere|
-|3|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
-|4|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|10|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|12|62.60.178.137|8080|United States|Charlotte|Aeza International LTD|
-|13|103.158.253.13|8382|Indonesia|Margasari|Rapid Network|
-|14|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|195.74.86.205|80|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|62.60.178.137|8080|United States|Charlotte|Aeza International LTD|
-|18|103.155.196.105|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|19|116.68.162.82|8080|Indonesia|Kediri|PT. Sumber Data Indonesia|
-|20|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|116.80.77.71|3172|Japan|Yokohama|InfoSphere|
+|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|3|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|62.60.178.137|8080|United States|Charlotte|Aeza International LTD|
+|6|62.60.178.137|8080|United States|Charlotte|Aeza International LTD|
+|7|195.74.86.205|80|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|8|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|9|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|11|178.251.228.137|8008|Germany|Frankfurt am Main|Ian David Klemm|
+|12|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|13|51.159.159.73|80|France|Paris|SCALEWAY|
+|14|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|15|3.110.191.52|8888|India|Mumbai|Amazon Technologies Inc.|
+|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|18|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
+|19|171.253.54.122|20799|Vietnam|Hanoi|Viettel Corporation|
+|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
