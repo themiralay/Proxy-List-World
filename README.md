@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|8|67.223.241.33|43080|United States|Jacksonville|Newfold Digital, Inc.|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|51.159.159.73|80|France|Paris|SCALEWAY|
-|13|116.80.78.172|3172|Japan|Yokohama|InfoSphere|
-|14|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
-|15|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|3|103.68.233.142|8097|Indonesia|Jakarta|PT OREN ABADI SAKTI|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|10|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
+|11|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|12|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|13|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|14|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|51.159.159.73|80|France|Paris|SCALEWAY|
 |16|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|17|92.124.115.104|8080|Russia|Irkutsk|OJSC "Sibirtelecom"|
-|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|19|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|20|117.161.170.163|9330|China|Guangzhou|China Mobile communications corporation|
+|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|18|116.80.78.172|3172|Japan|Yokohama|InfoSphere|
+|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|20|91.84.99.28|8444|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
