@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|116.80.47.63|3172|Japan|Yokohama|InfoSphere|
-|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|116.80.80.199|3172|Japan|Yokohama|InfoSphere|
-|4|116.80.58.246|3172|Japan|Yokohama|InfoSphere|
-|5|116.80.47.46|3172|Japan|Yokohama|InfoSphere|
-|6|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|7|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
-|8|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|10|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|14|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|16|43.129.93.201|5000|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
-|17|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|116.80.58.246|3172|Japan|Yokohama|InfoSphere|
+|3|116.80.47.46|3172|Japan|Yokohama|InfoSphere|
+|4|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|5|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|116.80.47.63|3172|Japan|Yokohama|InfoSphere|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|116.80.80.199|3172|Japan|Yokohama|InfoSphere|
+|9|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
+|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|12|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|13|209.141.57.216|80|United States|Las Vegas|FranTech Solutions|
+|14|103.54.80.152|8085|Indonesia|Purbalingga|MEDIACOMPUTINDO|
+|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|16|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|17|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
 |18|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|19|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|20|103.153.39.37|8083|Pakistan|Burewala|Getlinks (SMC-Private) Limited|
+|19|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
 
 
 
