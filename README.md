@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |2|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
 |3|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|10|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|11|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|10|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|14|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|18|3.110.191.52|8888|India|Mumbai|Amazon Technologies Inc.|
-|19|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|20|51.159.159.73|80|France|Paris|SCALEWAY|
+|13|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|14|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|20|31.145.174.186|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler AS|
 
 
 
