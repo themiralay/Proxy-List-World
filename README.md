@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|212|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|212|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|212|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|3.110.191.52|8888|India|Mumbai|Amazon Technologies Inc.|
+|6|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|9|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
-|10|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|11|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|9|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|10|62.60.178.137|8080|United States|Charlotte|Aeza International LTD|
+|11|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
 |12|31.145.174.165|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler AS|
-|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|14|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|15|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
-|16|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|17|72.10.160.90|24805|Canada|Montreal|GloboTech Communications|
-|18|116.80.47.49|3172|Japan|Yokohama|InfoSphere|
-|19|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|20|31.145.50.2|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler|
+|13|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|17|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|20|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
 
 
 
