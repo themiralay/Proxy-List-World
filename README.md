@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|116.80.78.172|3172|Japan|Yokohama|InfoSphere|
-|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|15|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|17|116.105.254.222|20185|Vietnam|Hanoi|Viettel Corporation|
-|18|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|19|164.70.70.13|3172|Japan|Chiyoda City|InfoSphere|
-|20|3.110.191.52|8888|India|Mumbai|Amazon Technologies Inc.|
+|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|3|116.80.78.172|3172|Japan|Yokohama|InfoSphere|
+|4|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|11|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|12|62.60.178.137|8080|United States|Charlotte|Aeza International LTD|
+|13|111.250.114.227|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|14|62.60.178.137|8080|United States|Charlotte|Aeza International LTD|
+|15|180.149.232.201|2024|Bangladesh|Gazipur|Digi Jadoo Broadband Ltd|
+|16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|19|3.110.191.52|8888|India|Mumbai|Amazon Technologies Inc.|
+|20|43.129.93.201|5000|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
 
 
 
