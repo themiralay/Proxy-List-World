@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|5|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|3|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|9|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
 |10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|67.223.241.33|43080|United States|Jacksonville|Newfold Digital, Inc.|
-|13|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|15|31.145.174.165|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler AS|
-|16|31.145.50.15|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler|
-|17|31.145.50.5|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler|
-|18|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|19|31.145.174.169|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler AS|
-|20|31.145.174.170|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler AS|
+|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|3.110.191.52|8888|India|Mumbai|Amazon Technologies Inc.|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|51.159.159.73|80|France|Paris|SCALEWAY|
+|17|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
+|18|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|31.145.50.7|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler|
 
 
 
