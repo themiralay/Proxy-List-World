@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|250|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|250|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|250|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|116.80.47.55|3172|Japan|Yokohama|InfoSphere|
 |3|116.80.80.180|3172|Japan|Yokohama|InfoSphere|
-|4|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
-|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|13|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
-|14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|4|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|5|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|6|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
+|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|14|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |15|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|16|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
-|17|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|135.125.97.184|43163|France|Wattrelos|OVH SAS|
-|20|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|17|43.129.93.201|5000|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|18|135.125.97.184|43163|France|Wattrelos|OVH SAS|
+|19|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|31.145.174.181|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler AS|
 
 
 
