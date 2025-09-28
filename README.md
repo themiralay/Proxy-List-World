@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **40539** proxies at the latest update. Usable proxies are below.
+> Scraper found **77553** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|8|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37014|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|35|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|39570|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|3|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|8|67.223.241.33|43080|United States|Jacksonville|Newfold Digital, Inc.|
 |9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|11|51.159.159.73|80|France|Paris|SCALEWAY|
-|12|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|13|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|157.175.147.228|8181|Bahrain|Manama|Amazon.com, Inc.|
-|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|16|61.216.156.222|60808|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
-|17|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|18|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|19|121.237.181.137|8888|China|Nanjing|China Telecom|
-|20|116.80.92.149|3172|Japan|Yokohama|InfoSphere|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|51.159.159.73|80|France|Paris|SCALEWAY|
+|13|116.80.78.172|3172|Japan|Yokohama|InfoSphere|
+|14|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
+|15|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|16|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|17|92.124.115.104|8080|Russia|Irkutsk|OJSC "Sibirtelecom"|
+|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|19|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|20|117.161.170.163|9330|China|Guangzhou|China Mobile communications corporation|
 
 
 
