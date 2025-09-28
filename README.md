@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|62.60.178.137|8080|United States|Charlotte|Aeza International LTD|
-|7|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |9|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|10|113.11.2.33|43969|Bangladesh|Dhaka|BDCOM Online Limited|
-|11|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|14|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|15|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|16|51.159.159.73|80|France|Paris|SCALEWAY|
-|17|201.65.173.179|8080|Brazil|Brasília|Claro S.A.|
-|18|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
-|19|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
-|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
+|11|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|51.159.159.73|80|France|Paris|SCALEWAY|
+|14|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|15|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
+|16|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
+|17|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|18|181.209.116.190|7070|Argentina|Benavídez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|19|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|20|45.152.87.67|8443|Latvia|Riga|RETN Limited|
 
 
 
