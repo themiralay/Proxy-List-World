@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
 |4|116.80.47.48|3172|Japan|Yokohama|InfoSphere|
 |5|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|12|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
+|6|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
+|10|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
+|11|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|12|62.60.178.137|8080|United States|Charlotte|Aeza International LTD|
 |13|139.177.200.192|1994|United States|Atlanta|Akamai Technologies, Inc.|
-|14|62.60.178.137|8080|United States|Charlotte|Aeza International LTD|
-|15|62.60.178.137|8080|United States|Charlotte|Aeza International LTD|
-|16|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|18|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|19|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|20|139.177.200.192|1994|United States|Atlanta|Akamai Technologies, Inc.|
+|14|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
+|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|16|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|62.60.178.137|8080|United States|Charlotte|Aeza International LTD|
+|18|139.177.200.192|1994|United States|Atlanta|Akamai Technologies, Inc.|
+|19|111.250.102.34|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|20|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 
 
 
