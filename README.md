@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|227|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|227|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|227|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|116.80.78.172|3172|Japan|Yokohama|InfoSphere|
-|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|203.175.127.240|8080|Indonesia|Pasuruan|PT Cubiespot Pilar Data Nusantara|
-|7|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
-|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|11|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|12|135.125.97.184|43163|France|Wattrelos|OVH SAS|
-|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|14|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|15|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|10|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
+|11|62.60.178.137|8080|United States|Charlotte|Aeza International LTD|
+|12|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|13|62.60.178.137|8080|United States|Charlotte|Aeza International LTD|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|180.149.232.201|2024|Bangladesh|Gazipur|Digi Jadoo Broadband Ltd|
+|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |18|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|19|3.110.191.52|8888|India|Mumbai|Amazon Technologies Inc.|
-|20|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|19|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|20|111.250.114.227|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
 
 
 
