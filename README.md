@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
-|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|116.80.47.48|3172|Japan|Yokohama|InfoSphere|
-|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|11|116.105.254.222|20185|Vietnam|Hanoi|Viettel Corporation|
-|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|3|116.80.47.48|3172|Japan|Yokohama|InfoSphere|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
+|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|11|62.60.178.137|8080|United States|Charlotte|Aeza International LTD|
+|12|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
 |13|62.60.178.137|8080|United States|Charlotte|Aeza International LTD|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|62.60.178.137|8080|United States|Charlotte|Aeza International LTD|
+|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 |17|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|18|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|19|31.145.50.1|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler|
-|20|31.145.174.176|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler AS|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|103.167.170.83|8097|Indonesia|Jakarta|PT Rajeg Media Telekomunikasi|
 
 
 
