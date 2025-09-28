@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|298|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|298|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|298|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|1|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
 |2|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
 |3|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|4|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|4|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
 |5|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |6|116.80.47.17|3172|Japan|Yokohama|InfoSphere|
-|7|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
-|8|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
-|9|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
-|10|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
-|11|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|12|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|13|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
+|7|20.78.118.91|8561|Japan|Tokyo|Microsoft Corporation|
+|8|20.27.15.111|8561|Japan|Tokyo|Microsoft Corporation|
+|9|20.27.11.248|8561|Japan|Tokyo|Microsoft Corporation|
+|10|20.210.39.153|8561|Japan|Tokyo|Microsoft Corporation|
+|11|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|12|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|13|20.27.14.220|8561|Japan|Tokyo|Microsoft Corporation|
 |14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|15|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
-|16|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
-|17|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|15|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
+|16|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|17|20.78.26.206|8561|Japan|Tokyo|Microsoft Corporation|
 |18|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|20|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|19|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|20|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 
 
 
