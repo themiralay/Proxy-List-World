@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **77550** proxies at the latest update. Usable proxies are below.
+> Scraper found **77491** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -29,9 +29,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37012|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|36977|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|71|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|47|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|39241|✅|
 
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|116.80.47.17|3172|Japan|Yokohama|InfoSphere|
 |2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
-|4|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|4|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
 |5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|6|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
-|7|20.2.83.243|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |9|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|10|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|13|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|14|112.78.44.238|1111|Indonesia|Semarang|PT DES Teknologi Informasi|
-|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|16|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|10|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
+|11|20.2.83.243|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|13|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|15|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|17|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|19|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
+|20|203.172.225.227|8080|Thailand|Pom Prap Sattru Phai|Ministry of Education - EMISC|
 
 
 
