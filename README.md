@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|116.80.77.71|3172|Japan|Yokohama|InfoSphere|
-|3|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
-|4|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|62.60.178.137|8080|United States|Charlotte|Aeza International LTD|
-|10|62.60.178.137|8080|United States|Charlotte|Aeza International LTD|
-|11|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
-|14|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
-|15|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
-|18|31.145.174.169|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler AS|
-|19|31.145.50.3|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler|
-|20|31.145.174.161|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler AS|
+|1|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|3|116.80.77.71|3172|Japan|Yokohama|InfoSphere|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|7|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|9|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
+|12|37.230.57.112|999|Paraguay|Ciudad del Este|Aranda Cardozo Lider Ramon|
+|13|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|14|51.159.159.73|80|France|Paris|SCALEWAY|
+|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|201.221.134.154|8080|Colombia|Bucaramanga|Telebucaramanga S.a. E.S.P.|
+|17|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
+|18|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|19|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
+|20|147.75.34.105|443|The Netherlands|Amsterdam|Packet Host, Inc.|
 
 
 
