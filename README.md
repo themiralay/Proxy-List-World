@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|263|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|263|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|263|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
-|2|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
-|3|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
-|4|116.80.47.17|3172|Japan|Yokohama|InfoSphere|
-|5|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
-|6|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|10|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
-|11|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
-|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|13|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|15|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|16|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|17|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|1|20.210.76.178|8561|Japan|Tokyo|Microsoft Corporation|
+|2|20.210.76.175|8561|Japan|Tokyo|Microsoft Corporation|
+|3|20.210.76.104|8561|Japan|Tokyo|Microsoft Corporation|
+|4|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|5|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|6|116.80.47.17|3172|Japan|Yokohama|InfoSphere|
+|7|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|8|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|9|20.27.15.49|8561|Japan|Tokyo|Microsoft Corporation|
+|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|14|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|15|14.176.31.87|8080|Vietnam|Hanoi|VNPT|
+|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|17|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |18|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |19|18.60.107.58|3128|India|Hyderabad|Amazon.com, Inc.|
-|20|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|20|217.76.243.2|999|Mexico|Chihuahua City|Nidix Networks S.a. De C.V.|
 
 
 
