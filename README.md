@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|47.79.91.116|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|4|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|1|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|4|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 |8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|13|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|14|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|10|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|11|67.223.241.33|43080|United States|Jacksonville|Newfold Digital, Inc.|
+|12|45.77.156.171|9091|United States|Piscataway|The Constant Company|
+|13|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|14|45.77.156.171|9091|United States|Piscataway|The Constant Company|
 |15|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
-|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|19|45.77.156.171|9091|United States|Piscataway|The Constant Company|
-|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|19|103.67.85.154|3127|Indonesia|Sumbersewu|PT Tujuh Fondasi Teknologi|
+|20|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
 
 
 
