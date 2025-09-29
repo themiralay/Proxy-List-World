@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|164.70.115.103|3172|Japan|Chiyoda City|InfoSphere|
-|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
-|14|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
-|15|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|17|67.223.241.33|43080|United States|Jacksonville|Newfold Digital, Inc.|
-|18|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|3|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|7|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|67.223.241.33|43080|United States|Jacksonville|Newfold Digital, Inc.|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|77.105.137.42|8080|The Netherlands|Amsterdam|Servers Tech Fzco|
+|16|97.79.251.186|80|United States|Dallas|Spectrum|
+|17|195.74.86.205|80|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|18|38.194.224.134|1452|Mexico|Tecozautla|Cogent Communications|
+|19|58.69.78.115|8081|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|20|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
 
 
 
