@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|321|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|321|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|321|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|3|116.80.93.34|3172|Japan|Yokohama|InfoSphere|
-|4|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|5|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|3|47.79.95.169|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|4|116.80.93.34|3172|Japan|Yokohama|InfoSphere|
+|5|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
 |8|23.237.210.82|80|United States|Dallas|FDCservers.net|
 |9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|10|134.209.152.106|3128|India|Bengaluru|DigitalOcean, LLC|
-|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|14|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|103.247.14.25|9285|Indonesia|Magelang|TERABIT|
-|16|67.223.241.33|43080|United States|Jacksonville|Newfold Digital, Inc.|
-|17|114.9.26.182|8080|Indonesia|Sukadana|PT. INDOSAT Tbk|
-|18|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|19|193.95.53.131|8077|Tunisia|Tunis|3S INF|
-|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|134.209.152.106|3128|India|Bengaluru|DigitalOcean, LLC|
+|13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|14|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|16|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
 
 
 
