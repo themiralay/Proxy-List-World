@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |4|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|5|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|10|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|12|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
-|15|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|97.79.251.186|80|United States|Dallas|Spectrum|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|46.39.105.157|8080|Sweden|Stockholm|Stockholms Stadsnat AB|
+|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|11|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|13|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|14|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 |16|62.60.178.137|8080|United States|Charlotte|Aeza International LTD|
-|17|212.51.157.178|8080|Switzerland|Zurich|Init7 (Switzerland) Ltd.|
-|18|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|19|201.182.242.210|999|Ecuador|Urdaneta|Gualan Japon Luis Joaquin|
-|20|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|17|62.60.178.137|8080|United States|Charlotte|Aeza International LTD|
+|18|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|19|171.253.54.122|20799|Vietnam|Hanoi|Viettel Corporation|
+|20|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
 
 
 
