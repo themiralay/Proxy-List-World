@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|164.70.115.103|3172|Japan|Chiyoda City|InfoSphere|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|6|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|7|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
-|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|11|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|12|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|13|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|62.60.178.137|8080|United States|Charlotte|Aeza International LTD|
-|17|62.60.178.137|8080|United States|Charlotte|Aeza International LTD|
-|18|166.249.54.64|7234|United States|District Heights|Verizon Business|
-|19|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|20|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|2|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|4|20.205.16.149|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|154.205.155.190|3129|United States|New York|Kaopu Cloud HK Limited|
+|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|15|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|16|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|17|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|18|66.36.234.130|1339|United States|Revere|DediOutlet, LLC|
+|19|202.178.125.136|8080|Cambodia|Phnom Penh|Cambodia Data Communication|
+|20|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 
 
 
