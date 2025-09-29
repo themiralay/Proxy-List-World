@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **77825** proxies at the latest update. Usable proxies are below.
+> Scraper found **77776** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|189|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|189|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|189|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|139|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37074|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37025|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|33|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|39653|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|152.67.199.163|3128|South Korea|Chuncheon|Oracle Corporation|
-|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|20.205.16.149|3128|Hong Kong|Hong Kong|Microsoft Corporation|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|8|203.190.44.233|8181|Indonesia|Pemalang|PT Jaring Lintas Utara|
-|9|202.137.122.4|8082|Philippines|Davao City|DC Tech Micro Services Inc.|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|13|202.5.33.229|5720|Bangladesh|Chittagong|BBTS-NEW|
-|14|67.223.241.33|43080|United States|Jacksonville|Newfold Digital, Inc.|
-|15|103.39.70.223|8181|Indonesia|Sambas|PT Gateway media Zafira|
-|16|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|17|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|20|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|8|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
+|9|67.223.241.33|43080|United States|Jacksonville|Newfold Digital, Inc.|
+|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|14|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|17|82.214.86.82|8080|Serbia|Belgrade|AKTON|
+|18|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|19|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|20|18.226.170.181|36970|United States|Dublin|Amazon.com, Inc.|
 
 
 
