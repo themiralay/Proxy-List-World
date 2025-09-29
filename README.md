@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|294|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|294|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|294|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|2|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|97.79.251.186|80|United States|Dallas|Spectrum|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|103.68.233.142|8097|Indonesia|Jakarta|PT OREN ABADI SAKTI|
-|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|13|67.223.241.33|43080|United States|Jacksonville|Newfold Digital, Inc.|
-|14|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|15|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|16|171.253.54.122|20799|Vietnam|Hanoi|Viettel Corporation|
-|17|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|18|62.60.178.137|8080|United States|Charlotte|Aeza International LTD|
-|19|31.145.174.181|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler AS|
-|20|31.145.174.165|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler AS|
+|5|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|223.135.156.183|8080|Japan|Higashiyamato|So-net Corporation|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|13|45.77.156.171|9091|United States|Piscataway|The Constant Company|
+|14|62.60.178.137|8080|United States|Charlotte|Aeza International LTD|
+|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|16|3.110.191.52|8888|India|Mumbai|Amazon Technologies Inc.|
+|17|103.208.102.2|8080|Indonesia|Mungkid|PT Tidar Lintas Nusa|
+|18|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|19|31.145.50.2|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler|
+|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
