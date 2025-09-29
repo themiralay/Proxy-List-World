@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|355|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|355|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|355|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|47.79.94.78|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|5|67.223.241.33|43080|United States|Jacksonville|Newfold Digital, Inc.|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|103.68.233.142|8097|Indonesia|Jakarta|PT OREN ABADI SAKTI|
-|10|67.223.241.33|43080|United States|Jacksonville|Newfold Digital, Inc.|
-|11|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
-|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|15|38.7.1.88|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
-|16|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
-|17|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|20|177.234.210.56|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|65.38.213.154|8881|Puerto Rico|San Juan|AT&T Mobility Puerto Rico|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|222.253.19.1|20399|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|11|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
+|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|16|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|17|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|18|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|31.145.50.5|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler|
 
 
 
