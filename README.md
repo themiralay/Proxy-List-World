@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -41,23 +41,23 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|3|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|45.86.228.233|3128|United Arab Emirates|Fujairah|BlueVPS OU|
-|10|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|8|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 |11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|14|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|15|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|16|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|17|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|18|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|19|103.169.132.58|8085|Indonesia|Rengasdengklok|PT Alfa Omega Interkoneksi|
+|12|103.188.169.160|7777|Indonesia|Kresek|PT Lintas Jaringan Nusantara|
+|13|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|14|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|15|81.169.155.104|6588|Germany|Berlin|Strato AG|
+|16|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|17|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|18|195.74.86.205|80|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|19|45.14.224.247|80|The Netherlands|Amsterdam|SpectraIP B.V.|
 |20|103.230.62.197|2626|Bangladesh|Chittagong|Next Online Ltd|
 
 
