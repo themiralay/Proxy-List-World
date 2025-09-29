@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
-|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|8|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|3|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
+|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |9|34.170.24.59|3128|United States|Council Bluffs|Google LLC|
 |10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|11|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|12|62.60.178.137|8080|United States|Charlotte|Aeza International LTD|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|14|195.74.86.205|80|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|16|62.60.178.137|8080|United States|Charlotte|Aeza International LTD|
-|17|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|195.234.68.34|3128|Ukraine|Kyiv|SKIF|
-|20|3.110.191.52|8888|India|Mumbai|Amazon Technologies Inc.|
+|11|62.60.178.137|8080|United States|Charlotte|Aeza International LTD|
+|12|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|15|62.60.178.137|8080|United States|Charlotte|Aeza International LTD|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|19|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|20|195.234.68.34|3128|Ukraine|Kyiv|SKIF|
 
 
 
