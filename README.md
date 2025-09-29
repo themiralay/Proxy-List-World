@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|4|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
-|5|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|6|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|7|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|14|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|15|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|16|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|17|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|18|85.132.37.9|1313|Azerbaijan|Baku|AzerSat|
-|19|14.225.240.23|8562|Vietnam|Ho Chi Minh City|Vietnam Posts and Telecommunications Group|
-|20|45.168.244.16|8080|Brazil|São João Batista do Glória|Maxima Internet Banda Larga|
+|3|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|8|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|11|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|12|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|14|78.157.57.71|3128|Iran|Tehran|Dade Samane Fanava Company|
+|15|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|16|36.95.24.221|8080|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
+|17|209.146.18.134|5050|Philippines|Davao City|Cogent Communications|
+|18|154.19.38.113|8097|Indonesia|Tangerang|PT Lintas Network Solusi|
+|19|40.172.232.213|8787|United Arab Emirates|Dubai|Amazon.com|
+|20|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 
 
 
