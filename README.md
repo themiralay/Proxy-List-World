@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|343|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|343|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|343|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.94.78|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|6|113.160.37.152|53281|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|4|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|5|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|6|62.60.178.137|8080|United States|Charlotte|Aeza International LTD|
 |7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|103.129.172.141|8080|Indonesia|Jakarta|PT. Eka Mas Republik|
-|9|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|11|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
-|12|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
-|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|13|195.74.86.205|80|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|14|62.60.178.137|8080|United States|Charlotte|Aeza International LTD|
+|15|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
+|16|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|122.3.87.41|8080|Philippines|Guiguinto|Philippine Long Distance Telephone Co.|
 |19|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|20|62.60.178.137|8080|United States|Charlotte|Aeza International LTD|
+|20|160.22.198.4|8082|Indonesia|Sidorejo|PT Ganesha Data Nusantara|
 
 
 
