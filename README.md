@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|8|103.68.233.142|8097|Indonesia|Jakarta|PT OREN ABADI SAKTI|
-|9|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|10|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|11|62.60.178.137|8080|United States|Charlotte|Aeza International LTD|
-|12|62.60.178.137|8080|United States|Charlotte|Aeza International LTD|
-|13|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|14|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
-|15|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|17|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|18|103.180.123.229|8090|Indonesia|Duren Tiga|PT Indo Telemedia Solusi|
-|19|117.102.86.148|8080|Indonesia|Jakarta|BIZNET|
-|20|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
+|2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|181.78.51.157|999|Guatemala|Santa Cruz Balanyá|Ufinet Panama S.A.|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|8|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|9|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|10|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|31.145.50.5|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler|
+|12|31.145.174.170|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler AS|
+|13|31.145.50.1|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler|
+|14|31.145.50.3|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler|
+|15|122.52.246.166|8081|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|16|31.145.50.4|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler|
+|17|31.145.50.6|8080|Türkiye|Istanbul|Vodafone Net Iletisim Hizmetler|
+|18|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|20|62.60.178.137|8080|United States|Charlotte|Aeza International LTD|
 
 
 
