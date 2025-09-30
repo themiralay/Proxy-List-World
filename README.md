@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|383|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|383|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|383|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|361|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|361|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|361|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|2|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|8|103.133.27.239|8080|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|11|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|14|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|15|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|16|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|17|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|18|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|19|104.128.228.69|8118|United States|Los Angeles|HostUS|
-|20|89.104.102.209|58080|Uzbekistan|Bukhara|"Uzbektelekom" Joint Stock Company|
+|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|2|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|7|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|10|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|11|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|12|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|13|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|14|38.180.230.188|1080|Estonia|Tallinn|Aktsiaselts WaveCom|
+|15|114.31.15.190|2024|Bangladesh|Dhaka|BDCOM Online Limited|
+|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|17|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|18|35.243.0.217|10081|United States|Los Angeles|Google LLC|
+|19|171.228.47.183|30569|Vietnam|Hòa Bình|Viettel Corporation|
+|20|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 
 
 
