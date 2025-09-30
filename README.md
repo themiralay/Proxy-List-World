@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|360|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|360|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|360|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |4|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|5|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|7|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|10|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|11|157.66.223.9|10003|Vietnam|Qui Nhon|TANTHOIVPS|
-|12|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|13|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|14|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|157.20.252.97|8097|Indonesia|Kediri|PT.Global Media Data Prima|
-|17|124.158.186.195|1111|Indonesia|Jakarta|PT Jala Lintas Media|
-|18|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|19|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
-|20|71.168.71.12|8889|United States|Salem|FAIRPOINT COMMUNICATIONS, INC.|
+|5|116.108.38.248|4002|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|7|116.108.16.41|4002|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|8|116.108.39.180|4002|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|11|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|14|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|15|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|16|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|17|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|18|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|19|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|178.251.228.137|8008|Germany|Frankfurt am Main|Ian David Klemm|
 
 
 
