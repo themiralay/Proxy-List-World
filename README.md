@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|156.59.103.43|8080|Hong Kong|Hong Kong|Zenlayer Inc|
-|3|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|6|58.186.177.7|16000|Vietnam|Hanoi|FPT Telecom Company|
-|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|8|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|9|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|12|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|13|58.186.99.32|16000|Vietnam|Da Nang|FPT Telecom Company|
-|14|58.187.181.37|16000|Vietnam|Hanoi|FPT Telecom Company|
+|5|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|7|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|10|199.188.204.171|8080|United States|Los Angeles|Namecheap, Inc.|
+|11|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|14|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
 |15|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|16|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
-|17|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|18|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|19|27.79.248.199|16000|Vietnam|Hanoi|Viettel Corporation|
-|20|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|16|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|17|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|18|27.79.248.199|16000|Vietnam|Hanoi|Viettel Corporation|
+|19|199.188.204.171|8080|United States|Los Angeles|Namecheap, Inc.|
+|20|45.152.87.67|8443|Latvia|Riga|RETN Limited|
 
 
 
