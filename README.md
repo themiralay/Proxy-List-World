@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|313|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|313|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|313|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|5|103.173.164.10|7777|Indonesia|Pati|PT Pusat Net Media|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|11|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|12|14.226.150.153|10005|Vietnam|Ho Chi Minh City|VNPT|
 |13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|15|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|16|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|17|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
-|18|65.108.203.37|28080|Finland|Helsinki|Hetzner Online GmbH|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|14|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
+|15|179.96.28.58|80|Brazil|Goiânia|Megatelecom Telecomunicacoes Ltda|
+|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|17|36.93.73.154|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|18|103.183.8.118|8090|Indonesia|Jakarta|PT Cepat Multi Data|
+|19|103.101.216.42|8090|Indonesia|Sungaibamban|PT Duta Trans Nusantara Network|
+|20|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 
 
 
