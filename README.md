@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|291|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|291|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|291|
 
 ## Sources
 
@@ -42,22 +42,22 @@ Click the file format that you want and copy the URL.
 |1|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|11|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|8|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |12|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|13|74.50.96.247|8888|United States|Los Angeles|HIVELOCITY|
-|14|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|15|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
-|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|17|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
+|13|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
+|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|15|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|16|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
+|17|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|18|47.252.29.28|11222|United States|Charlottesville|Alibaba Cloud LLC|
+|19|51.79.207.21|8080|Singapore|Singapore|OVH SAS|
 |20|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
 
 
