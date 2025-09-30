@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|281|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|281|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|281|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|45.77.156.171|9091|United States|Piscataway|The Constant Company|
-|6|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|10|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|11|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
-|12|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
-|13|45.77.156.171|9091|United States|Piscataway|The Constant Company|
-|14|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|15|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|17|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|18|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
-|19|103.173.139.10|8080|Indonesia|Semarang|PT Serayu Multi Connection|
-|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|1|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|4|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|6|67.223.241.33|43080|United States|Jacksonville|Newfold Digital, Inc.|
+|7|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|8|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|9|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|10|74.50.96.247|8888|United States|Los Angeles|HIVELOCITY|
+|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|15|202.47.188.193|7777|Indonesia|Magetan|Lintas Data Prima, PT|
+|16|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|19|45.77.156.171|9091|United States|Piscataway|The Constant Company|
+|20|62.205.169.74|53281|Russia|Moscow|CORBINA|
 
 
 
