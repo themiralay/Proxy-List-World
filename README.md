@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|4|45.77.133.69|1080|Japan|Minamishinagawa|The Constant Company|
-|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|6|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|65.108.203.35|28080|Finland|Helsinki|Hetzner Online GmbH|
 |9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|10|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|13|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|14|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|15|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|16|195.74.86.205|80|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|17|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|18|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|19|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|20|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|10|119.18.148.3|2314|Bangladesh|Chittagong|BBTS Network|
+|11|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|12|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|13|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|14|35.243.0.217|10030|United States|Los Angeles|Google LLC|
+|15|36.147.78.166|80|China|Guangzhou|China Mobile|
+|16|35.243.0.220|10000|United States|Los Angeles|Google LLC|
+|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|35.243.0.220|10000|United States|Los Angeles|Google LLC|
+|19|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|20|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
 
 
 
