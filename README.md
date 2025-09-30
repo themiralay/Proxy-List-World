@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|508|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|508|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|508|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|475|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|475|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|475|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|156.59.103.43|8080|Hong Kong|Hong Kong|Zenlayer Inc|
-|3|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|6|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|7|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|8|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|9|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|10|195.86.215.2|3128|Philippines|Manila|ZTNET CO., LTD|
-|11|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|12|58.187.181.37|16000|Vietnam|Hanoi|FPT Telecom Company|
-|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|14|54.198.117.197|8888|United States|Ashburn|Amazon.com, Inc.|
-|15|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|16|202.5.60.205|2727|Bangladesh|Sonargaon|BBTS-NEW|
-|17|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|18|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|19|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|20|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|3|156.59.103.43|8080|Hong Kong|Hong Kong|Zenlayer Inc|
+|4|58.186.177.7|16000|Vietnam|Hanoi|FPT Telecom Company|
+|5|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|6|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|8|27.79.240.0|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|10|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|11|58.187.181.37|16000|Vietnam|Hanoi|FPT Telecom Company|
+|12|103.126.119.99|8080|Indonesia|Tangerang|PT. Media Tekno Nusantara|
+|13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|14|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|15|202.5.60.205|2727|Bangladesh|Sonargaon|BBTS-NEW|
+|16|119.148.39.241|2727|Bangladesh|Dhaka|Agni Systems Limited|
+|17|58.187.163.167|16000|Vietnam|Hanoi|FPT Telecom Company|
+|18|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|19|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|20|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
 
 
 
