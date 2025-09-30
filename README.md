@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|348|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|348|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|348|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|1|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|2|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
 |3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|10|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|11|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|4|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|5|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|9|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|104.219.214.43|8888|United States|Los Angeles|Dignitas Technology Inc|
 |12|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|13|38.180.230.188|1080|Estonia|Tallinn|Aktsiaselts WaveCom|
-|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|35.243.0.217|10081|United States|Los Angeles|Google LLC|
+|13|81.90.149.188|3128|Iran|Tehran|Afranet|
+|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|15|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|16|35.243.0.220|9480|United States|Los Angeles|Google LLC|
 |17|35.243.0.217|10081|United States|Los Angeles|Google LLC|
-|18|35.243.0.217|10081|United States|Los Angeles|Google LLC|
+|18|35.243.0.220|9480|United States|Los Angeles|Google LLC|
 |19|35.243.0.220|9480|United States|Los Angeles|Google LLC|
-|20|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|20|1.54.167.224|16000|Vietnam|Hanoi|FPT Telecom Company|
 
 
 
