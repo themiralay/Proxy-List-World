@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|370|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|370|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|370|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|329|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|329|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|329|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|164.70.70.13|3172|Japan|Chiyoda City|InfoSphere|
-|4|117.5.245.144|8000|Vietnam|Hanoi|VIETTEL|
-|5|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|6|117.5.247.189|8000|Vietnam|Hanoi|VIETTEL|
-|7|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|10|72.240.9.63|80|United States|Toledo|Buckeye Cablevision, Inc.|
+|1|164.70.70.13|3172|Japan|Chiyoda City|InfoSphere|
+|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|4|116.108.16.41|4002|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|5|116.108.39.180|4002|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|6|116.108.38.248|4002|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|7|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|8|117.5.247.189|8000|Vietnam|Hanoi|VIETTEL|
+|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|13|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|14|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|15|14.228.107.242|3128|Vietnam|Haiphong|VNPT|
-|16|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|12|171.240.27.59|5101|Vietnam|Hanoi|Viettel Corporation|
+|13|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|14|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|15|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
 |17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|18|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|20|41.65.160.172|1976|Egypt|Cairo|Etisalat Misr Mobile BB|
+|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|20|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
 
 
 
