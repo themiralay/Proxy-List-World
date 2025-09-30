@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|318|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|318|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|318|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|311|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|311|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|311|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.229.181.188|1080|Taiwan|Taipei|Google LLC|
-|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|3|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
 |4|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|5|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|10|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|13|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|9|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|12|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|13|193.237.192.7|8888|United Kingdom|Biddulph|Vodafone|
 |14|38.180.230.188|1080|Estonia|Tallinn|Aktsiaselts WaveCom|
-|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|103.162.16.109|8080|Indonesia|Parenggan|PT Mega Data Perkasa|
-|17|103.169.53.145|8080|India|Aizawl|Hyosec Solutions Private Limited|
-|18|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|19|193.237.192.7|8888|United Kingdom|Biddulph|Vodafone|
-|20|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|15|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|16|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|18|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|187.111.144.102|8080|Brazil|São Sebastião do Caí|Caezar Provedor de Internet EIRELI|
+|20|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
