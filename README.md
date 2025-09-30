@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|432|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|432|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|432|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|410|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|410|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|410|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
-|3|156.59.103.43|8080|Hong Kong|Hong Kong|Zenlayer Inc|
+|2|156.59.103.43|8080|Hong Kong|Hong Kong|Zenlayer Inc|
+|3|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |4|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|58.186.99.32|16000|Vietnam|Da Nang|FPT Telecom Company|
-|7|58.187.181.37|16000|Vietnam|Hanoi|FPT Telecom Company|
-|8|58.186.177.7|16000|Vietnam|Hanoi|FPT Telecom Company|
-|9|27.79.248.199|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|11|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|12|27.79.240.0|16000|Vietnam|Hanoi|Viettel Corporation|
-|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|14|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|15|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|16|58.187.163.167|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|7|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|8|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|9|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|58.186.99.32|16000|Vietnam|Da Nang|FPT Telecom Company|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|199.188.204.171|8080|United States|Los Angeles|Namecheap, Inc.|
+|14|199.188.204.171|8080|United States|Los Angeles|Namecheap, Inc.|
+|15|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|16|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
 |17|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|18|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|19|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|20|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|18|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|19|27.79.248.199|16000|Vietnam|Hanoi|Viettel Corporation|
+|20|27.79.47.21|10002|Vietnam|Tân Tiến|Viettel Corporation|
 
 
 
