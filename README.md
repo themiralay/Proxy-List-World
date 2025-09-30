@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|368|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|368|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|368|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|378|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|378|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|378|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|164.70.70.13|3172|Japan|Chiyoda City|InfoSphere|
 |2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|12|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|13|14.228.107.242|3128|Vietnam|Haiphong|VNPT|
-|14|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|222.253.19.1|20399|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|17|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|18|27.124.86.245|8080|Indonesia|Siak Sri Indrapura|PT. Indonesia Comnet Plus|
-|19|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|20|43.224.118.91|2626|Bangladesh|Dhaka|Next Online|
+|4|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|5|117.5.245.144|8000|Vietnam|Hanoi|VIETTEL|
+|6|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|117.5.247.189|8000|Vietnam|Hanoi|VIETTEL|
+|9|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|11|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|12|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|13|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|14|14.228.107.242|3128|Vietnam|Haiphong|VNPT|
+|15|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
+|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|17|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|70.183.141.254|3128|United States|Chesapeake|Cox Communications Inc.|
+|19|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|20|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
 
 
 
