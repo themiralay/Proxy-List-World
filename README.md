@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |4|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|5|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|8|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|9|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|45.77.133.69|1080|Japan|Minamishinagawa|The Constant Company|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|9|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
 |10|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|11|49.145.56.106|8082|Philippines|Cebu City|Philippine Long Distance Telephone Co.|
-|12|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|13|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|14|38.180.230.188|1080|Estonia|Tallinn|Aktsiaselts WaveCom|
-|15|118.97.69.163|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|16|115.178.49.119|8080|Indonesia|Margabakti|NOC SIMAYA|
-|17|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|161.248.190.100|8080|Philippines|San Francisco|Gemstar Cable TV - Agusan Del SUR|
-|20|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|15|38.180.230.188|1080|Estonia|Tallinn|Aktsiaselts WaveCom|
+|16|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|17|24.152.58.22|999|Colombia|Bucaramanga|Atenea Telecomunicaciones S.A.S|
+|18|103.247.22.83|8080|Indonesia|Purbalingga|PT wifian Solution|
+|19|101.255.107.181|8090|Indonesia|Jakarta|PT Remala Abadi|
+|20|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
