@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|295|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|295|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|295|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|116.80.63.46|3172|Japan|Yokohama|InfoSphere|
-|2|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|2|35.229.181.188|1080|Taiwan|Taipei|Google LLC|
 |3|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |4|118.34.4.196|80|South Korea|Sejong|Korea Telecom|
 |5|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |6|160.153.172.248|80|United States|Tempe|GoDaddy.com, LLC|
-|7|45.77.133.69|1080|Japan|Minamishinagawa|The Constant Company|
-|8|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|160.153.172.248|80|United States|Tempe|GoDaddy.com, LLC|
-|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|7|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|8|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|9|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
+|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|11|160.153.172.248|80|United States|Tempe|GoDaddy.com, LLC|
+|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
 |13|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
-|14|193.122.197.154|80|United States|Ashburn|Oracle Corporation|
-|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|17|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|18|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
-|19|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|20|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|16|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|17|104.248.81.109|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
+|18|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|19|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
 
 
 
