@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|304|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|304|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|304|
 
 ## Sources
 
@@ -40,23 +40,23 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|2|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|3|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|2|103.159.96.195|2117|Indonesia|Caruban|PT Jinde Grup Indonesia|
+|3|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|8|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|9|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|11|45.77.156.171|9091|United States|Piscataway|The Constant Company|
-|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|13|191.103.219.225|48612|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|14|81.90.149.188|3128|Iran|Tehran|Afranet|
-|15|35.243.0.220|9480|United States|Los Angeles|Google LLC|
-|16|35.243.0.217|10081|United States|Los Angeles|Google LLC|
-|17|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|11|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|12|103.172.42.175|8085|Indonesia|Karawang|PT Media Solusi Sukses|
+|13|35.243.0.220|9480|United States|Los Angeles|Google LLC|
+|14|35.243.0.217|10081|United States|Los Angeles|Google LLC|
+|15|84.214.150.146|8080|Norway|Oslo|Get AS|
+|16|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|17|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|18|35.243.0.217|10081|United States|Los Angeles|Google LLC|
 |19|35.243.0.217|10081|United States|Los Angeles|Google LLC|
 |20|35.243.0.220|9480|United States|Los Angeles|Google LLC|
 
