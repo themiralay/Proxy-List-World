@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|401|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|401|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|401|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|422|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|422|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|422|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|156.59.103.43|8080|Hong Kong|Hong Kong|Zenlayer Inc|
-|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|3|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
 |4|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|5|58.186.99.32|16000|Vietnam|Da Nang|FPT Telecom Company|
-|6|58.186.177.7|16000|Vietnam|Hanoi|FPT Telecom Company|
-|7|27.79.248.199|16000|Vietnam|Hanoi|Viettel Corporation|
-|8|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|9|27.79.240.0|16000|Vietnam|Hanoi|Viettel Corporation|
-|10|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|11|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|12|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|13|58.187.181.37|16000|Vietnam|Hanoi|FPT Telecom Company|
-|14|58.187.163.167|16000|Vietnam|Hanoi|FPT Telecom Company|
-|15|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|16|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|17|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|18|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|19|190.52.101.148|999|Venezuela|Caracas|Gold Data USA Inc|
-|20|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|7|47.79.94.72|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|8|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|9|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|159.203.61.169|8080|Canada|Toronto|DigitalOcean, LLC|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|14|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|15|62.60.178.137|8080|United States|Charlotte|Aeza International LTD|
+|16|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|17|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|18|190.52.101.148|999|Venezuela|Caracas|Gold Data USA Inc|
+|19|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|20|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
