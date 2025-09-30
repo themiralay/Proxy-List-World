@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|502|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|502|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|502|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|472|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|472|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|472|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|156.59.103.43|8080|Hong Kong|Hong Kong|Zenlayer Inc|
 |3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|58.186.177.7|16000|Vietnam|Hanoi|FPT Telecom Company|
-|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|6|27.79.248.199|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|8|27.79.240.0|16000|Vietnam|Hanoi|Viettel Corporation|
-|9|58.187.181.37|16000|Vietnam|Hanoi|FPT Telecom Company|
-|10|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|11|58.187.163.167|16000|Vietnam|Hanoi|FPT Telecom Company|
-|12|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|13|54.198.50.8|8888|United States|Ashburn|Amazon.com, Inc.|
-|14|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|15|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|121.132.61.211|3128|South Korea|Hwaseong-si|Korea Telecom|
+|5|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
+|6|27.79.240.0|16000|Vietnam|Hanoi|Viettel Corporation|
+|7|58.186.177.7|16000|Vietnam|Hanoi|FPT Telecom Company|
+|8|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|9|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|10|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|12|171.228.47.183|30569|Vietnam|Hòa Bình|Viettel Corporation|
+|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|14|54.198.117.197|8888|United States|Ashburn|Amazon.com, Inc.|
+|15|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
 |16|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|18|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|19|54.198.50.8|8888|United States|Ashburn|Amazon.com, Inc.|
-|20|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|17|54.198.50.8|8888|United States|Ashburn|Amazon.com, Inc.|
+|18|119.148.39.241|2727|Bangladesh|Dhaka|Agni Systems Limited|
+|19|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|20|34.94.98.68|8080|United States|Los Angeles|Google LLC|
 
 
 
