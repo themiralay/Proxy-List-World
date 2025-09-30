@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **77618** proxies at the latest update. Usable proxies are below.
+> Scraper found **77790** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|338|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|338|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|338|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|419|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|419|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|419|
 
 ## Sources
 
@@ -32,32 +32,32 @@ Click the file format that you want and copy the URL.
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37173|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|69|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|39150|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|39322|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|156.59.103.43|8080|Hong Kong|Hong Kong|Zenlayer Inc|
 |3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|58.186.177.7|16000|Vietnam|Hanoi|FPT Telecom Company|
-|11|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
-|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|14|180.180.85.197|8080|Thailand|Rayong|TOT Public Company Limited|
-|15|223.205.73.152|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|16|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|17|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|18|54.198.50.8|8888|United States|Ashburn|Amazon.com, Inc.|
-|19|27.79.248.199|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|58.187.181.37|16000|Vietnam|Hanoi|FPT Telecom Company|
+|5|58.187.163.167|16000|Vietnam|Hanoi|FPT Telecom Company|
+|6|58.186.177.7|16000|Vietnam|Hanoi|FPT Telecom Company|
+|7|27.79.240.0|16000|Vietnam|Hanoi|Viettel Corporation|
+|8|27.79.248.199|16000|Vietnam|Hanoi|Viettel Corporation|
+|9|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|10|58.186.99.32|16000|Vietnam|Da Nang|FPT Telecom Company|
+|11|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|13|54.198.50.8|8888|United States|Ashburn|Amazon.com, Inc.|
+|14|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|15|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|17|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|18|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|19|202.5.60.201|2727|Bangladesh|Sonargaon|BBTS-NEW|
 |20|54.198.50.8|8888|United States|Ashburn|Amazon.com, Inc.|
 
 
