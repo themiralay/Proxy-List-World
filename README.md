@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|4|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
-|5|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|8|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|5|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|10|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|11|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|12|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|13|104.238.228.201|3128|United States|Kirkland|EliteWork LLC|
-|14|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|10|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|11|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|12|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|13|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |15|83.43.97.182|8228|Spain|Sitges|Telefonica de Espana SAU|
 |16|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|17|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|20|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
+|17|35.193.78.97|8080|United States|Council Bluffs|Google LLC|
+|18|43.129.93.201|5000|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|19|95.47.239.65|3128|Uzbekistan|Tashkent|PRO DATA-TECH Ltd.|
+|20|212.16.77.50|3128|Iran|Tehran|Farhang Azma Communications Company LTD|
 
 
 
