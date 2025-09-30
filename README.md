@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|316|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|316|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|316|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|4|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|5|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|169.155.48.155|3128|France|Paris|Fly.io, Inc.|
-|10|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|11|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
-|12|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|13|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|14|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|169.155.48.155|3128|France|Paris|Fly.io, Inc.|
-|17|103.247.22.83|8080|Indonesia|Purbalingga|PT wifian Solution|
-|18|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|19|36.64.195.242|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|20|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|4|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|6|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|7|48.218.198.55|8080|Japan|Tokyo|Microsoft Corporation|
+|8|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|9|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|10|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|12|195.74.86.205|80|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|14|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|17|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|20|135.125.97.184|38807|France|Wattrelos|OVH SAS|
 
 
 
