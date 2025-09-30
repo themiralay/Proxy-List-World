@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|331|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|331|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|331|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
-|2|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|3|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|4|103.133.27.239|8080|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
-|5|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|9|171.228.47.183|30569|Vietnam|Hòa Bình|Viettel Corporation|
-|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|13|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|15|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|17|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|35.243.0.220|9480|United States|Los Angeles|Google LLC|
-|20|35.243.0.217|10081|United States|Los Angeles|Google LLC|
+|2|188.166.230.109|31028|Singapore|Singapore|DigitalOcean, LLC|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|6|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|11|97.64.28.193|8080|United States|Los Angeles|IT7 Networks Inc|
+|12|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
+|13|43.129.93.201|5000|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|14|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|15|54.198.50.8|8888|United States|Ashburn|Amazon.com, Inc.|
+|16|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|17|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|18|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|19|81.90.149.188|3128|Iran|Tehran|Afranet|
+|20|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 
 
 
