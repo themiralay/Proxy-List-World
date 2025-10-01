@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|510|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|510|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|510|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|410|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|410|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|410|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|156.59.103.43|8080|Hong Kong|Hong Kong|Zenlayer Inc|
-|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|4|58.187.163.167|16000|Vietnam|Hanoi|FPT Telecom Company|
-|5|58.186.99.32|16000|Vietnam|Da Nang|FPT Telecom Company|
-|6|27.79.248.199|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|8|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|9|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|1|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|2|156.59.103.43|8080|Hong Kong|Hong Kong|Zenlayer Inc|
+|3|27.79.248.199|16000|Vietnam|Hanoi|Viettel Corporation|
+|4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|6|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|7|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|8|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|12|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|13|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|14|103.245.96.161|3214|Bangladesh|Azimpur|OptiMax Communication Ltd|
-|15|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|16|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|18|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|19|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|20|92.113.150.5|1080|Denmark|Nørre Åby|Webdock.io ApS|
+|11|58.187.163.167|16000|Vietnam|Hanoi|FPT Telecom Company|
+|12|58.186.99.32|16000|Vietnam|Da Nang|FPT Telecom Company|
+|13|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|14|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|16|92.113.150.5|1080|Denmark|Nørre Åby|Webdock.io ApS|
+|17|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
+|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|19|185.216.214.205|8888|Germany|Frankfurt am Main|Marcel Andrew Zaiser trading as Metaliance ISP Systems e.k|
+|20|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 
