@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|400|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|400|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|0|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -39,7 +39,27 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-**Something went wrong... Check the actions logs.**
+|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|156.59.103.43|8080|Hong Kong|Hong Kong|Zenlayer Inc|
+|3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|4|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|5|103.188.169.160|7777|Indonesia|Kresek|PT Lintas Jaringan Nusantara|
+|6|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|7|139.59.1.14|3128|India|Bengaluru|DIGITALOCEAN|
+|8|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|11|199.188.204.171|8080|United States|Los Angeles|Namecheap, Inc.|
+|12|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|13|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|14|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
+|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|17|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
+|18|199.188.204.171|8080|United States|Los Angeles|Namecheap, Inc.|
+|19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+
 
 
 ## Contributing
