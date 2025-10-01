@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|267|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|267|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|267|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|156.59.103.43|8080|Hong Kong|Hong Kong|Zenlayer Inc|
 |3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|5|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|10|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|15|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
-|16|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|17|140.238.184.182|3128|Brazil|São Paulo|Oracle Corporation|
-|18|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|19|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|20|81.218.86.226|8080|Israel|Caesarea|Bezeq International Ltd.|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
+|9|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|12|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|14|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|15|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|18|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|19|222.253.19.1|20399|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|20|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
 
 
 
