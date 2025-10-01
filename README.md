@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|156.59.103.43|8080|Hong Kong|Hong Kong|Zenlayer Inc|
-|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|103.68.233.142|8097|Indonesia|Jakarta|PT OREN ABADI SAKTI|
-|5|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
-|6|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|7|62.60.178.137|8080|United States|Charlotte|Aeza International LTD|
-|8|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|9|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|10|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|2|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|3|156.59.103.43|8080|Hong Kong|Hong Kong|Zenlayer Inc|
+|4|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|9|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|10|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
 |12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|13|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
-|14|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
-|15|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|17|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|18|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
-|19|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|20|66.228.47.125|110|United States|Cedar Knolls|Akamai Technologies, Inc.|
+|13|66.228.47.125|110|United States|Cedar Knolls|Akamai Technologies, Inc.|
+|14|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|16|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|17|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|19|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|20|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
 
 
 
