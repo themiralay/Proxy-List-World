@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|468|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|468|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|468|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|403|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|403|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|403|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|156.59.103.43|8080|Hong Kong|Hong Kong|Zenlayer Inc|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|4|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
-|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|5|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
+|6|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |8|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|9|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|10|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
-|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
-|14|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|15|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|16|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|17|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|20|191.96.96.223|8080|The Netherlands|Ede|Triple Interactive B.V.|
+|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
+|13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|103.25.210.102|348|Indonesia|Baturaden|TRANSDATA|
+|16|103.199.109.154|2525|Bangladesh|Dhaka|Bijoy Online Ltd|
+|17|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
+|18|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
+|19|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|20|34.94.98.68|8080|United States|Los Angeles|Google LLC|
 
 
 
