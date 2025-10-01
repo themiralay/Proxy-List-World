@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|458|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|458|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|458|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|403|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|403|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|403|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|156.59.103.43|8080|Hong Kong|Hong Kong|Zenlayer Inc|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|4|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|7|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|10|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|12|210.79.142.73|8080|Indonesia|Krajan Pringapus|PT Gayatri Lintas Nusantara|
-|13|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|14|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|15|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|16|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
-|19|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
-|20|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|5|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|7|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|8|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
+|11|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|12|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|13|171.228.166.129|1001|Vietnam|Hanoi|Viettel Corporation|
+|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|15|202.58.77.77|1111|Indonesia|Pasuruan|PT Data Buana Nusantara|
+|16|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
+|17|103.133.26.72|8080|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
+|18|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|19|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|20|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
 
 
 
