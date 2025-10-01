@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|399|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|399|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|399|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|425|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|425|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|425|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|156.59.103.43|8080|Hong Kong|Hong Kong|Zenlayer Inc|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|4|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
-|7|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|8|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|11|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|12|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|14|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
-|15|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|17|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|18|103.133.26.119|8080|Indonesia|Sukabumi|PT PHATRIA INTI PERSADA|
-|19|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|20|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|6|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|7|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|8|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
+|9|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
+|10|103.25.210.102|348|Indonesia|Baturaden|TRANSDATA|
+|11|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|13|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|15|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
+|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|17|45.77.156.171|9091|United States|Piscataway|The Constant Company|
+|18|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
+|19|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|20|103.199.109.154|2525|Bangladesh|Dhaka|Bijoy Online Ltd|
 
 
 
