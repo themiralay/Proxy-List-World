@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|309|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|309|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|309|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
 |3|156.59.103.43|8080|Hong Kong|Hong Kong|Zenlayer Inc|
-|4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
-|7|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|6|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|47.79.94.191|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|8|43.163.26.238|8080|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
 |9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|11|103.122.1.130|8181|Indonesia|Kabupaten Ogan Komering Ilir|PT. Java Digital Nusantara|
-|12|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|13|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|15|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|17|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|18|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|19|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|14|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|15|66.228.47.125|110|United States|Cedar Knolls|Akamai Technologies, Inc.|
+|16|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|17|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|18|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
 
 
 
