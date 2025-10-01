@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **78529** proxies at the latest update. Usable proxies are below.
+> Scraper found **41106** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|374|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|374|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|374|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37423|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|🚫|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|79|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|39801|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|156.59.103.43|8080|Hong Kong|Hong Kong|Zenlayer Inc|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
+|3|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|5|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
-|6|103.157.79.166|1111|Indonesia|Jakarta|EASTMEDIA|
-|7|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|8|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
+|7|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
 |10|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|11|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|12|42.117.124.249|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|13|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|14|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
+|11|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|12|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
+|13|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|14|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |15|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|16|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
-|17|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|18|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|19|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|17|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|18|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|19|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
+|20|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
 
 
 
