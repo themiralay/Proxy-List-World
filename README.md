@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|428|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|428|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|428|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|345|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|345|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|345|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|156.59.103.43|8080|Hong Kong|Hong Kong|Zenlayer Inc|
 |4|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|6|112.198.132.199|8082|Philippines|Nasugbu|Globe Telecom|
-|7|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
-|11|182.52.137.159|8080|Thailand|Bangkok|TOT Public Company Limited|
-|12|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|13|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|15|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
-|16|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|17|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|18|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|19|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|20|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|11|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|12|27.79.248.199|16000|Vietnam|Hanoi|Viettel Corporation|
+|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|14|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|15|121.165.169.217|8094|South Korea|Songpa-gu|Korea Telecom|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|18|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|19|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
+|20|81.218.86.226|8080|Israel|Caesarea|Bezeq International Ltd.|
 
 
 
