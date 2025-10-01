@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|470|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|470|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|470|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|459|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|459|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|459|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|2|156.59.103.43|8080|Hong Kong|Hong Kong|Zenlayer Inc|
-|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|6|27.79.248.199|16000|Vietnam|Hanoi|Viettel Corporation|
-|7|58.186.99.32|16000|Vietnam|Da Nang|FPT Telecom Company|
+|1|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|3|156.59.103.43|8080|Hong Kong|Hong Kong|Zenlayer Inc|
+|4|58.186.99.32|16000|Vietnam|Da Nang|FPT Telecom Company|
+|5|27.79.248.199|16000|Vietnam|Hanoi|Viettel Corporation|
+|6|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|7|34.94.98.68|8080|United States|Los Angeles|Google LLC|
 |8|58.187.163.167|16000|Vietnam|Hanoi|FPT Telecom Company|
-|9|8.217.147.173|8080|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|10|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|11|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
-|12|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|14|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
-|15|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|185.216.214.205|8888|Germany|Frankfurt am Main|Marcel Andrew Zaiser trading as Metaliance ISP Systems e.k|
-|18|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
-|19|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|20|92.113.150.5|1080|Denmark|Nørre Åby|Webdock.io ApS|
+|9|158.69.185.37|3129|Canada|Montreal|OVH SAS|
+|10|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|13|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|14|103.72.89.33|8097|Indonesia|Gorontalo|PT Insolikh Jaringan Multimedia|
+|15|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|16|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|17|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|185.216.214.205|8888|Germany|Frankfurt am Main|Marcel Andrew Zaiser trading as Metaliance ISP Systems e.k|
+|20|49.49.185.145|8080|Thailand|Suphan Buri|Triple T Broadband Public Company Limited|
 
 
 
