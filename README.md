@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|286|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|286|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|286|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|265|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|265|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|265|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|156.59.103.43|8080|Hong Kong|Hong Kong|Zenlayer Inc|
 |3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|7|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|8|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|11|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|12|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|6|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|7|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|8|129.159.114.120|8080|United States|Ashburn|Oracle Corporation|
+|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|10|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|11|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
 |14|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
-|15|150.107.136.205|39843|Indonesia|Jakarta|PT. Media Antar Nusa|
-|16|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|17|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|18|81.218.86.226|8080|Israel|Caesarea|Bezeq International Ltd.|
-|19|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
-|20|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|15|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|16|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|17|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|19|81.218.86.226|8080|Israel|Caesarea|Bezeq International Ltd.|
+|20|103.153.134.27|8090|Indonesia|Cikupa|WMINET|
 
 
 
