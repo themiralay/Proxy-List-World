@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|156.59.103.43|8080|Hong Kong|Hong Kong|Zenlayer Inc|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|5|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
-|6|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|7|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|14|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
-|15|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|16|50.174.91.29|3128|United States|West Orange|Comcast Cable Communications, LLC|
-|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|19|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|20|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|5|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|6|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|7|156.59.103.43|8080|Hong Kong|Hong Kong|Zenlayer Inc|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|10|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|11|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|14|50.174.91.29|3128|United States|West Orange|Comcast Cable Communications, LLC|
+|15|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|16|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|17|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
+|18|103.247.23.10|8549|Indonesia|Wonosobo|PT wifian Solution|
+|19|195.74.86.205|80|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|20|45.77.156.171|9091|United States|Piscataway|The Constant Company|
 
 
 
