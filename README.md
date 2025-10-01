@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|365|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|365|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|365|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|336|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|336|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|336|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|116.80.60.2|3172|Japan|Yokohama|InfoSphere|
-|3|156.59.103.43|8080|Hong Kong|Hong Kong|Zenlayer Inc|
-|4|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|4|156.59.103.43|8080|Hong Kong|Hong Kong|Zenlayer Inc|
+|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |7|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|10|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|11|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
-|12|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|13|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|14|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|15|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|16|202.58.77.173|3127|Indonesia|Pasuruan|PT Data Buana Nusantara|
-|17|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
-|18|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|19|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|20|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|42.117.124.249|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|9|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|10|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|11|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
+|14|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|15|171.235.245.168|30133|Vietnam|Biên Hòa|Viettel Corporation|
+|16|116.106.78.110|30533|Vietnam|Hanoi|Viettel Corporation|
+|17|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|18|27.74.215.131|30245|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|19|171.252.27.157|30421|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|20|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
 
 
 
