@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|289|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|289|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|289|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|341|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|341|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|341|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|47.79.95.169|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|2|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
 |3|116.80.47.17|3172|Japan|Yokohama|InfoSphere|
-|4|156.59.103.43|8080|Hong Kong|Hong Kong|Zenlayer Inc|
-|5|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|6|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|7|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
-|8|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|9|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|4|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|5|156.59.103.43|8080|Hong Kong|Hong Kong|Zenlayer Inc|
+|6|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
+|7|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|8|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
 |10|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
 |11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|12|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
-|13|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|14|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|15|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
+|12|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|13|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|14|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|15|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
 |16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|17|157.10.3.10|8080|Indonesia|Semarang|PT Parsaoran Global Datatrans|
-|18|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|19|141.95.127.58|3128|Germany|Limburg an der Lahn|OVH SAS|
-|20|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|17|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|18|43.129.93.201|5000|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|19|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
+|20|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
 
 
 
