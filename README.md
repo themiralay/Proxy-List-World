@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|470|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|470|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|470|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|421|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|421|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|421|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
-|3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|4|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|5|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|7|34.160.134.22|3128|United States|Kansas City|Google LLC|
-|8|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|9|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|11|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
-|12|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|13|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|14|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
-|15|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|16|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|18|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|19|51.159.159.73|80|France|Paris|SCALEWAY|
-|20|34.60.80.157|3128|United States|Council Bluffs|Google LLC|
+|1|34.160.134.22|3128|United States|Kansas City|Google LLC|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|5|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|6|34.160.134.22|3128|United States|Kansas City|Google LLC|
+|7|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
+|8|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|9|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|12|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|13|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
+|15|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|16|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|17|34.60.80.157|3128|United States|Council Bluffs|Google LLC|
+|18|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|19|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|20|45.22.209.157|8888|United States|Miami|AT&T Enterprises, LLC|
 
 
 
