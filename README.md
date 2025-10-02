@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|737|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|737|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|737|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|697|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|697|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|697|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.115.103|3172|Japan|Chiyoda City|InfoSphere|
-|2|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
-|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|156.59.103.43|8080|Hong Kong|Hong Kong|Zenlayer Inc|
-|5|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|7|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
-|8|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|2|156.59.103.43|8080|Hong Kong|Hong Kong|Zenlayer Inc|
+|3|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|5|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
+|6|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|7|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|8|171.243.243.232|33185|Vietnam|Ho Chi Minh City|Viettel Corporation|
 |9|115.76.192.198|21065|Vietnam|Ho Chi Minh City|VIETELGPRS|
-|10|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
-|11|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
-|12|160.22.205.87|8082|Indonesia|Kisaran|PT. PANCA DUTA UTAMA|
-|13|171.245.67.98|1005|Vietnam|Hanoi|Viettel Corporation|
-|14|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|15|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|16|199.188.204.171|8080|United States|Los Angeles|Namecheap, Inc.|
-|17|116.101.155.197|12250|Vietnam|Sơn La|Viettel Corporation|
-|18|27.66.192.91|20827|Vietnam|Haiphong|Viettel Group|
-|19|171.243.243.232|33185|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|20|116.101.128.255|20815|Vietnam|Hanoi|Viettel Corporation|
+|10|27.66.192.91|20827|Vietnam|Haiphong|Viettel Group|
+|11|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
+|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
+|14|116.101.147.102|34067|Vietnam|Hanoi|Viettel Corporation|
+|15|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|16|160.25.74.119|10354|Vietnam|Vĩnh Tuy|VNPT Corp|
+|17|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|18|116.101.146.241|14287|Vietnam|Hanoi|Viettel Corporation|
+|19|116.101.137.161|16921|Vietnam|Hanoi|Viettel Corporation|
+|20|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
 
 
 
