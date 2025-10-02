@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|497|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|497|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|497|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|499|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|499|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|499|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
-|4|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|2|34.160.134.22|3128|United States|Kansas City|Google LLC|
+|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|4|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
 |5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|199.188.204.171|8080|United States|Los Angeles|Namecheap, Inc.|
-|8|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
-|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|10|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|11|58.147.171.38|4010|Bangladesh|Dhaka|Aftab IT Limited|
-|12|199.188.204.171|8080|United States|Los Angeles|Namecheap, Inc.|
-|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|14|180.149.232.153|61245|Bangladesh|Gazipur|Digi Jadoo Broadband Ltd|
-|15|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|202.5.60.203|2727|Bangladesh|Sonargaon|BBTS-NEW|
+|9|58.147.171.38|4010|Bangladesh|Dhaka|Aftab IT Limited|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
+|12|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|13|201.159.126.133|8081|Mexico|Guadalupe|Jose Miguel Macias Contreras|
+|14|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
+|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
 |17|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
-|18|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
-|19|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|20|178.17.62.152|8881|Germany|Frankfurt am Main|Partner Hosting LTD|
+|18|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|19|178.17.62.152|8881|Germany|Frankfurt am Main|Partner Hosting LTD|
+|20|112.203.208.207|8082|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
 
 
 
