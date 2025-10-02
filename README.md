@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|34.160.134.22|3128|United States|Kansas City|Google LLC|
 |3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|4|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 |5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|6|12.218.209.130|53281|United States|San Jose|AT&T Enterprises, LLC|
-|7|103.68.214.32|8181|Indonesia|Sepatan|PT Media Grasi Internet|
-|8|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
-|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|34.160.134.22|3128|United States|Kansas City|Google LLC|
-|12|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|13|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|14|69.75.140.157|8080|United States|Bellflower|Spectrum|
-|15|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|43.224.116.222|2626|Bangladesh|Dhaka|Next Online Limited|
+|6|34.160.134.22|3128|United States|Kansas City|Google LLC|
+|7|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
+|8|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|14|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|15|57.129.81.201|8081|Germany|Frankfurt am Main|OVH SAS|
+|16|54.232.217.2|3128|Brazil|São Paulo|Amazon Technologies Inc.|
+|17|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
 |18|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|19|54.232.217.2|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|20|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|19|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
+|20|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
 
 
 
