@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|495|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|495|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|495|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|553|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|553|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|553|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|34.160.134.22|3128|United States|Kansas City|Google LLC|
+|1|34.160.134.22|3128|United States|Kansas City|Google LLC|
+|2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
-|5|211.72.82.56|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|6|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
-|9|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|10|202.5.33.33|2727|Bangladesh|Chittagong|BBTS-NEW|
-|11|58.147.171.38|4010|Bangladesh|Dhaka|Aftab IT Limited|
-|12|103.250.69.190|1516|Bangladesh|Azimpur|Next Online Ltd.|
-|13|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|15|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|103.199.109.154|2525|Bangladesh|Dhaka|Bijoy Online Ltd|
-|17|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|18|36.50.53.219|11995|Vietnam|Tây Hồ|Vietserver Services Technology Company Limited|
-|19|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
-|20|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|6|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|7|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|10|43.224.118.130|2525|Bangladesh|Dhaka|Next Online|
+|11|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
+|12|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
+|13|103.199.109.154|2525|Bangladesh|Dhaka|Bijoy Online Ltd|
+|14|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|16|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|17|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
+|18|42.117.124.249|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|20|36.50.53.219|11995|Vietnam|Tây Hồ|Vietserver Services Technology Company Limited|
 
 
 
