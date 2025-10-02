@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|723|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|723|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|723|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|608|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|608|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|608|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
 |3|156.59.103.43|8080|Hong Kong|Hong Kong|Zenlayer Inc|
 |4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|116.105.25.128|10002|Vietnam|Hanoi|Viettel Corporation|
+|5|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |6|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|7|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
-|8|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
-|9|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
-|10|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
-|12|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|13|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|14|27.65.59.144|31947|Vietnam|Ho Chi Minh City|Viettel Group|
-|15|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|16|159.203.61.169|3128|Canada|Toronto|DigitalOcean, LLC|
-|17|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|18|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|19|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|20|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
+|7|116.105.25.128|10002|Vietnam|Hanoi|Viettel Corporation|
+|8|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
+|9|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|27.65.59.144|31947|Vietnam|Ho Chi Minh City|Viettel Group|
+|12|198.199.86.11|3128|United States|North Bergen|DigitalOcean, LLC|
+|13|139.59.1.14|8080|India|Bengaluru|DIGITALOCEAN|
+|14|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
+|15|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|16|104.219.214.43|8888|United States|Los Angeles|Dignitas Technology Inc|
+|17|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|18|27.70.233.242|18002|Vietnam|Ho Chi Minh City|Viettel Group|
+|19|116.101.26.64|32120|Vietnam|Hanoi|Viettel Corporation|
+|20|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
