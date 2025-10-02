@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|652|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|652|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|652|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|647|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|647|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|647|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|34.160.134.22|3128|United States|Kansas City|Google LLC|
-|3|150.230.207.84|16712|Japan|Tokyo|Oracle Corporation|
-|4|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|5|211.72.82.56|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|6|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
-|7|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|8|124.106.116.34|1337|Philippines|Mandaluyong|Philippine Long Distance Telephone Co.|
-|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|10|171.228.166.129|1001|Vietnam|Hanoi|Viettel Corporation|
-|11|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|12|116.98.190.20|1519|Vietnam|Hanoi|Viettel Corporation|
-|13|103.250.69.190|1516|Bangladesh|Azimpur|Next Online Ltd.|
-|14|202.5.60.203|2727|Bangladesh|Sonargaon|BBTS-NEW|
-|15|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|16|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|17|118.34.4.196|80|South Korea|Sejong|Korea Telecom|
-|18|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
+|2|150.230.207.84|16712|Japan|Tokyo|Oracle Corporation|
+|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|4|34.160.134.22|3128|United States|Kansas City|Google LLC|
+|5|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|6|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|7|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|8|209.141.57.216|80|United States|Las Vegas|FranTech Solutions|
+|9|209.141.57.216|80|United States|Las Vegas|FranTech Solutions|
+|10|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
+|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|12|103.109.212.85|8428|Bangladesh|Dhaka|Bismillah Telecom Service|
+|13|202.5.33.33|2727|Bangladesh|Chittagong|BBTS-NEW|
+|14|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|15|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|17|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|18|103.250.70.61|8441|Bangladesh|Gaibandha|Next Online Ltd|
 |19|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|206.81.31.215|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|20|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
 
 
 
