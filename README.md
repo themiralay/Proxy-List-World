@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|323|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|323|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|323|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|296|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|296|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|296|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.160.134.22|3128|United States|Kansas City|Google LLC|
-|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|34.160.134.22|3128|United States|Kansas City|Google LLC|
+|2|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|6|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
-|7|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|8|34.60.80.157|3128|United States|Council Bluffs|Google LLC|
-|9|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|10|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|11|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|13|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
-|14|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|15|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|16|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|5|34.160.134.22|3128|United States|Kansas City|Google LLC|
+|6|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|7|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|8|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
+|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|10|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
+|11|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
+|12|34.60.80.157|3128|United States|Council Bluffs|Google LLC|
+|13|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|14|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|15|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|16|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
 |17|35.243.0.249|10018|United States|Los Angeles|Google LLC|
-|18|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
-|19|107.172.96.11|24283|United States|Santa Clara|HostPapa|
+|18|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|19|35.243.0.249|10018|United States|Los Angeles|Google LLC|
 |20|35.243.0.249|10018|United States|Los Angeles|Google LLC|
 
 
