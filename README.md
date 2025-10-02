@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|328|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|328|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|328|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|116.80.47.17|3172|Japan|Yokohama|InfoSphere|
-|3|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
-|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|5|156.59.103.43|8080|Hong Kong|Hong Kong|Zenlayer Inc|
-|6|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|7|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|8|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
-|9|34.160.134.22|3128|United States|Kansas City|Google LLC|
-|10|27.65.59.144|31947|Vietnam|Ho Chi Minh City|Viettel Group|
-|11|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
-|12|34.160.134.22|3128|United States|Kansas City|Google LLC|
-|13|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|14|103.168.44.210|8088|Indonesia|Jakarta|PT CYB Media Group|
-|15|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|16|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
-|17|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|20|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|3|156.59.103.43|8080|Hong Kong|Hong Kong|Zenlayer Inc|
+|4|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|5|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
+|6|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|7|27.65.59.144|31947|Vietnam|Ho Chi Minh City|Viettel Group|
+|8|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|10|34.160.134.22|3128|United States|Kansas City|Google LLC|
+|11|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|12|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
+|13|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
+|14|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|15|202.181.16.173|3325|Bangladesh|Gaurnadi|Level3 Carrier Limited|
+|16|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|17|191.96.96.223|8080|The Netherlands|Ede|Triple Interactive B.V.|
+|18|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
 
 
 
