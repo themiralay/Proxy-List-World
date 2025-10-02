@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|396|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|396|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|396|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|116.80.47.17|3172|Japan|Yokohama|InfoSphere|
-|3|156.59.103.43|8080|Hong Kong|Hong Kong|Zenlayer Inc|
-|4|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|5|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|6|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|7|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|8|43.100.75.107|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
-|10|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
-|11|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|12|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
-|13|199.188.204.171|8080|United States|Los Angeles|Namecheap, Inc.|
-|14|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
-|15|27.65.59.144|31947|Vietnam|Ho Chi Minh City|Viettel Group|
-|16|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
-|17|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
-|18|116.103.250.56|30903|Vietnam|Thanh Khê|Viettel Corporation|
-|19|171.228.166.129|1001|Vietnam|Hanoi|Viettel Corporation|
-|20|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|2|156.59.103.43|8080|Hong Kong|Hong Kong|Zenlayer Inc|
+|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|4|116.80.47.17|3172|Japan|Yokohama|InfoSphere|
+|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|6|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|7|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
+|8|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
+|9|27.65.59.144|31947|Vietnam|Ho Chi Minh City|Viettel Group|
+|10|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
+|11|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|12|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|13|97.79.251.186|80|United States|Dallas|Spectrum|
+|14|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
+|15|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|16|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|17|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|18|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
+|19|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|20|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
 
 
 
