@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|479|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|479|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|479|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|549|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|549|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|549|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|34.160.134.22|3128|United States|Kansas City|Google LLC|
 |3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|6|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|7|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|9|203.74.125.18|8888|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|12|103.199.109.154|2525|Bangladesh|Dhaka|Bijoy Online Ltd|
-|13|202.5.60.203|2727|Bangladesh|Sonargaon|BBTS-NEW|
-|14|42.117.124.249|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|15|119.18.151.170|2727|Bangladesh|Comilla|BBTS Network|
-|16|202.5.57.15|2727|Bangladesh|Rangpur City|BBTS-NEW|
-|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|43.224.118.130|2525|Bangladesh|Dhaka|Next Online|
-|19|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|20|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|4|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|5|211.72.82.56|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|6|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|7|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
+|8|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|9|199.188.204.171|8080|United States|Los Angeles|Namecheap, Inc.|
+|10|103.250.69.190|1516|Bangladesh|Azimpur|Next Online Ltd.|
+|11|103.199.109.154|2525|Bangladesh|Dhaka|Bijoy Online Ltd|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|199.188.204.171|8080|United States|Los Angeles|Namecheap, Inc.|
+|14|103.124.227.89|12445|Bangladesh|Habiganj|Level3|
+|15|103.250.70.61|8441|Bangladesh|Gaibandha|Next Online Ltd|
+|16|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|17|202.5.33.33|2727|Bangladesh|Chittagong|BBTS-NEW|
+|18|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|19|202.5.57.15|2727|Bangladesh|Rangpur City|BBTS-NEW|
+|20|58.147.171.38|4010|Bangladesh|Dhaka|Aftab IT Limited|
 
 
 
