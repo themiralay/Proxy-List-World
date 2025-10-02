@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|312|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|312|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|312|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
-|3|156.59.103.43|8080|Hong Kong|Hong Kong|Zenlayer Inc|
-|4|43.100.75.107|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|6|34.160.134.22|3128|United States|Kansas City|Google LLC|
-|7|34.160.134.22|3128|United States|Kansas City|Google LLC|
-|8|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|9|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
-|10|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|11|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|14|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
-|15|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|16|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|67.223.241.33|43080|United States|Jacksonville|Newfold Digital, Inc.|
+|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|3|34.160.134.22|3128|United States|Kansas City|Google LLC|
+|4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|5|34.160.134.22|3128|United States|Kansas City|Google LLC|
+|6|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
+|7|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|9|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|10|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
+|13|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
+|14|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|15|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
+|16|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|17|43.100.75.107|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|18|141.95.127.58|3128|Germany|Limburg an der Lahn|OVH SAS|
+|19|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|20|144.124.228.87|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
 
 
 
