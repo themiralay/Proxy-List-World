@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.160.134.22|3128|United States|Kansas City|Google LLC|
-|2|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
-|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
 |4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
 |5|34.160.134.22|3128|United States|Kansas City|Google LLC|
 |6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
 |9|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|10|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|11|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
-|12|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
-|13|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
-|14|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
-|15|35.243.0.249|10018|United States|Los Angeles|Google LLC|
-|16|35.243.0.249|10018|United States|Los Angeles|Google LLC|
-|17|35.243.0.249|10018|United States|Los Angeles|Google LLC|
-|18|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|19|35.243.0.249|10018|United States|Los Angeles|Google LLC|
-|20|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
+|10|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
+|11|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|12|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|13|58.147.187.20|8080|Indonesia|Kuningan Barat|PT. Transhybrid Communication|
+|14|31.25.92.114|8080|Iran|Ţorqabeh|Cooperative Afra ertebatat-e-sabet-e Rasa Co|
+|15|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|16|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
+|17|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|163.61.55.113|7777|Indonesia|Probolinggo|PT INFINITY GLOBAL DATA NUSANTARA|
+|19|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|20|45.152.87.67|8443|Latvia|Riga|RETN Limited|
 
 
 
