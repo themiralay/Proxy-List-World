@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|34.160.134.22|3128|United States|Kansas City|Google LLC|
 |3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|5|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
-|6|34.160.134.22|3128|United States|Kansas City|Google LLC|
-|7|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
-|8|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
-|9|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|10|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
-|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|13|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|14|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|15|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|16|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|17|119.148.39.241|2727|Bangladesh|Dhaka|Agni Systems Limited|
-|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|6|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|34.160.134.22|3128|United States|Kansas City|Google LLC|
+|9|43.224.116.222|2626|Bangladesh|Dhaka|Next Online Limited|
+|10|43.129.93.201|5000|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|11|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|12|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|13|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
+|14|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
+|15|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|18|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|19|119.148.39.241|2727|Bangladesh|Dhaka|Agni Systems Limited|
+|20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
 
