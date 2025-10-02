@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|322|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|322|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|322|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|156.59.103.43|8080|Hong Kong|Hong Kong|Zenlayer Inc|
 |3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|5|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|27.65.59.144|31947|Vietnam|Ho Chi Minh City|Viettel Group|
 |6|34.160.134.22|3128|United States|Kansas City|Google LLC|
-|7|34.160.134.22|3128|United States|Kansas City|Google LLC|
-|8|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
-|9|27.65.59.144|31947|Vietnam|Ho Chi Minh City|Viettel Group|
-|10|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|12|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|13|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|15|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|16|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
-|17|113.160.37.152|53281|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|45.77.156.171|9091|United States|Piscataway|The Constant Company|
-|19|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|20|43.100.75.107|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|9|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|10|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
+|11|198.199.86.11|80|United States|North Bergen|DigitalOcean, LLC|
+|12|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
+|13|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|14|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|17|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
+|18|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|19|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|20|45.152.87.67|8443|Latvia|Riga|RETN Limited|
 
 
 
