@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **78533** proxies at the latest update. Usable proxies are below.
+> Scraper found **78402** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|346|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|346|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|346|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|402|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|402|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|402|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37326|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37195|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|151|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|39830|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|156.59.103.43|8080|Hong Kong|Hong Kong|Zenlayer Inc|
-|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|5|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
-|6|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|7|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|8|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
-|9|27.65.59.144|31947|Vietnam|Ho Chi Minh City|Viettel Group|
+|2|116.80.47.17|3172|Japan|Yokohama|InfoSphere|
+|3|34.160.134.22|3128|United States|Kansas City|Google LLC|
+|4|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|5|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|6|156.59.103.43|8080|Hong Kong|Hong Kong|Zenlayer Inc|
+|7|43.100.75.107|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
+|8|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|9|34.94.98.68|8080|United States|Los Angeles|Google LLC|
 |10|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|171.245.0.248|14814|Vietnam|Hanoi|Viettel Corporation|
-|13|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
-|14|167.172.253.162|4857|United States|Clifton|DigitalOcean, LLC|
-|15|134.209.29.120|80|United Kingdom|Slough|DigitalOcean, LLC|
-|16|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|17|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|18|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|19|141.95.127.58|3128|Germany|Limburg an der Lahn|OVH SAS|
-|20|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
+|11|146.190.87.51|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|27.65.59.144|31947|Vietnam|Ho Chi Minh City|Viettel Group|
+|13|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|14|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
+|15|171.247.234.238|32609|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|16|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|17|138.68.60.8|80|United States|Santa Clara|DigitalOcean, LLC|
+|18|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
+|19|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
