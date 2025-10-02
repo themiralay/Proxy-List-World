@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|593|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|593|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|593|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|528|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|528|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|528|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|150.230.207.84|16712|Japan|Tokyo|Oracle Corporation|
-|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|5|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|6|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|7|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|43.224.118.130|2525|Bangladesh|Dhaka|Next Online|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
+|2|34.160.134.22|3128|United States|Kansas City|Google LLC|
+|3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|4|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|9|202.5.33.33|2727|Bangladesh|Chittagong|BBTS-NEW|
+|10|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |11|103.250.69.190|1516|Bangladesh|Azimpur|Next Online Ltd.|
-|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|13|202.5.57.15|2727|Bangladesh|Rangpur City|BBTS-NEW|
-|14|58.147.171.38|4010|Bangladesh|Dhaka|Aftab IT Limited|
-|15|195.74.86.205|80|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|16|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|13|43.224.118.130|2525|Bangladesh|Dhaka|Next Online|
+|14|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|15|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|16|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 |17|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
-|18|202.5.60.203|2727|Bangladesh|Sonargaon|BBTS-NEW|
-|19|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|20|202.5.33.33|2727|Bangladesh|Chittagong|BBTS-NEW|
+|18|178.17.62.152|8881|Germany|Frankfurt am Main|Partner Hosting LTD|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|34.160.134.22|3128|United States|Kansas City|Google LLC|
 
 
 
