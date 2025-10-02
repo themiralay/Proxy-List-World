@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
 |4|34.160.134.22|3128|United States|Kansas City|Google LLC|
-|5|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|6|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |8|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
 |9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|11|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|12|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|10|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|11|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|12|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
 |13|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|14|36.136.27.2|4999|China|Guangzhou|China Mobile|
-|15|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
-|16|202.5.56.194|2727|Bangladesh|Rangpur City|BBTS-NEW|
-|17|36.147.78.166|443|China|Guangzhou|China Mobile|
-|18|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|19|182.93.75.162|8080|Nepal|Kathmandu|Subisu Cablenet|
-|20|122.52.246.166|8081|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|14|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|15|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|16|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|17|106.75.50.90|8082|China|Yangpu|UCLOUD|
+|18|199.188.204.171|8080|United States|Los Angeles|Namecheap, Inc.|
+|19|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
+|20|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
 
 
 
