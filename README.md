@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|319|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|319|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|319|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -45,20 +45,20 @@ Click the file format that you want and copy the URL.
 |4|156.59.103.43|8080|Hong Kong|Hong Kong|Zenlayer Inc|
 |5|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |6|128.199.202.122|80|Singapore|Singapore|DigitalOcean, LLC|
-|7|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|34.94.98.68|8080|United States|Los Angeles|Google LLC|
 |8|43.100.75.107|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|9|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|9|27.65.59.144|31947|Vietnam|Ho Chi Minh City|Viettel Group|
 |10|23.237.210.82|80|United States|Dallas|FDCservers.net|
 |11|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
-|12|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|14|119.148.39.241|2727|Bangladesh|Dhaka|Agni Systems Limited|
-|15|27.65.59.144|31947|Vietnam|Ho Chi Minh City|Viettel Group|
-|16|43.129.93.201|5000|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
-|17|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|18|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
+|12|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
+|13|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|14|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|15|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
+|16|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|17|119.148.39.241|2727|Bangladesh|Dhaka|Agni Systems Limited|
+|18|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
 |19|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|20|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|20|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
 
 
 
