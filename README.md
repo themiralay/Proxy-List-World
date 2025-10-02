@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|630|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|630|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|630|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|652|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|652|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|652|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|43.100.75.107|3128|Hong Kong|Hong Kong|Alibaba (US) Technology Co., Ltd.|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|6|202.5.57.15|2727|Bangladesh|Rangpur City|BBTS-NEW|
-|7|202.5.33.33|2727|Bangladesh|Chittagong|BBTS-NEW|
-|8|103.250.69.190|1516|Bangladesh|Azimpur|Next Online Ltd.|
-|9|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|10|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
-|11|103.124.227.89|12445|Bangladesh|Habiganj|Level3|
-|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|15|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|16|199.188.204.171|8080|United States|Los Angeles|Namecheap, Inc.|
-|17|202.5.60.211|2727|Bangladesh|Sonargaon|BBTS-NEW|
-|18|199.188.204.171|8080|United States|Los Angeles|Namecheap, Inc.|
-|19|36.50.53.219|11995|Vietnam|Tây Hồ|Vietserver Services Technology Company Limited|
-|20|178.17.62.152|8881|Germany|Frankfurt am Main|Partner Hosting LTD|
+|2|34.160.134.22|3128|United States|Kansas City|Google LLC|
+|3|150.230.207.84|16712|Japan|Tokyo|Oracle Corporation|
+|4|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|5|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
+|6|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|7|211.72.82.56|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|8|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|9|116.98.190.20|1519|Vietnam|Hanoi|Viettel Corporation|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|103.165.155.254|2016|Indonesia|Sepatan|PT Jaringan Keluarga Bersama|
+|12|119.95.167.228|8082|Philippines|Hermosa|Philippine Long Distance Telephone Co.|
+|13|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|14|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|15|103.132.52.32|8080|Indonesia|Wiradesa|PT Adeaksa Indo Jayatama|
+|16|202.5.60.203|2727|Bangladesh|Sonargaon|BBTS-NEW|
+|17|103.56.205.84|8080|Indonesia|Jakarta|Argon Data Communication|
+|18|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|19|103.17.246.60|1080|Indonesia|Banjar Medura|PT Media Sarana Data|
+|20|103.250.69.190|1516|Bangladesh|Azimpur|Next Online Ltd.|
 
 
 
