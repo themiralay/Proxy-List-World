@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|754|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|754|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|754|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|679|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|679|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|679|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|34.160.134.22|3128|United States|Kansas City|Google LLC|
 |3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |4|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
-|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|6|34.94.98.68|8080|United States|Los Angeles|Google LLC|
 |7|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|8|103.10.55.137|8664|Bangladesh|Dhaka|Drik ICT Ltd|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|34.160.134.22|3128|United States|Kansas City|Google LLC|
-|11|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|12|45.77.156.171|9091|United States|Piscataway|The Constant Company|
-|13|171.235.245.168|30133|Vietnam|Biên Hòa|Viettel Corporation|
-|14|27.74.215.131|30245|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
-|15|116.106.78.110|30533|Vietnam|Hanoi|Viettel Corporation|
-|16|103.250.69.190|1516|Bangladesh|Azimpur|Next Online Ltd.|
-|17|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|18|202.5.60.203|2727|Bangladesh|Sonargaon|BBTS-NEW|
-|19|202.5.57.15|2727|Bangladesh|Rangpur City|BBTS-NEW|
-|20|202.5.33.33|2727|Bangladesh|Chittagong|BBTS-NEW|
+|8|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|9|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|10|199.188.204.171|8080|United States|Los Angeles|Namecheap, Inc.|
+|11|103.250.69.190|1516|Bangladesh|Azimpur|Next Online Ltd.|
+|12|116.106.78.110|30533|Vietnam|Hanoi|Viettel Corporation|
+|13|27.74.215.131|30245|Vietnam|Ho Chi Minh City|Newass2011xDSLHN|
+|14|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|15|171.235.245.168|30133|Vietnam|Biên Hòa|Viettel Corporation|
+|16|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|17|34.160.134.22|3128|United States|Kansas City|Google LLC|
+|18|103.250.70.61|8441|Bangladesh|Gaibandha|Next Online Ltd|
+|19|42.117.124.249|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|20|69.164.194.19|3128|United States|Richardson|Akamai Technologies, Inc.|
 
 
 
