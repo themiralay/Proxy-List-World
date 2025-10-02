@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|585|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|585|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|585|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|562|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|562|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|562|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|164.70.115.103|3172|Japan|Chiyoda City|InfoSphere|
-|2|156.59.103.43|8080|Hong Kong|Hong Kong|Zenlayer Inc|
-|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|116.103.236.14|14181|Vietnam|Qui Nhon|Viettel Corporation|
+|2|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|3|156.59.103.43|8080|Hong Kong|Hong Kong|Zenlayer Inc|
+|4|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |6|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
 |7|34.94.98.68|8080|United States|Los Angeles|Google LLC|
 |8|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|9|171.245.67.98|1001|Vietnam|Hanoi|Viettel Corporation|
-|10|14.177.94.218|12892|Vietnam|Hanoi|VNPT|
-|11|103.127.106.209|2024|Indonesia|Jombang|PT Media Inovasi Data Indonesia|
-|12|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
-|13|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
-|14|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|15|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|16|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
-|17|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|18|119.148.39.241|2727|Bangladesh|Dhaka|Agni Systems Limited|
-|19|138.68.60.8|8080|United States|Santa Clara|DigitalOcean, LLC|
-|20|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|9|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|10|35.232.62.97|8080|United States|Council Bluffs|Google LLC|
+|11|159.203.61.169|80|Canada|Toronto|DigitalOcean, LLC|
+|12|223.204.159.229|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
+|13|198.199.86.11|8080|United States|North Bergen|DigitalOcean, LLC|
+|14|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
+|15|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|16|103.245.205.227|1515|Bangladesh|Bhātāra|Next Online Limited|
+|17|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|18|177.234.194.31|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|19|202.5.60.203|2727|Bangladesh|Sonargaon|BBTS-NEW|
+|20|119.148.39.241|2727|Bangladesh|Dhaka|Agni Systems Limited|
 
 
 
