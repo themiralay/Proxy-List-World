@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|34.160.134.22|3128|United States|Kansas City|Google LLC|
+|3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
 |4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|5|34.160.134.22|3128|United States|Kansas City|Google LLC|
-|6|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|8|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|7|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|9|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
 |10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|12|43.208.240.77|318|Thailand|Bangkok|Amazon.com, Inc.|
-|13|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|14|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|15|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|16|45.188.167.25|999|Mexico|La Barca|Velocom SA De CV|
-|17|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|212.252.71.30|8080|Turkey|Kilis|GUNEYDOGUTELEKOM|
-|20|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
+|11|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|12|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|13|34.160.134.22|3128|United States|Kansas City|Google LLC|
+|14|34.160.134.22|3128|United States|Kansas City|Google LLC|
+|15|103.144.209.104|8715|Indonesia|Gandul|PT. Indonesia Comnets Plus|
+|16|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|17|88.247.215.249|3310|Türkiye|Izmir|TurkTelecom|
+|18|177.234.217.88|999|Ecuador|Guayaquil|Ufinet Panama S.A.|
+|19|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|20|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
 
 
 
