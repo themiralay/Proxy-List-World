@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|587|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|587|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|587|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|562|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|562|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|562|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|34.160.134.22|3128|United States|Kansas City|Google LLC|
 |2|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|3|34.160.134.22|3128|United States|Kansas City|Google LLC|
-|4|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|5|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|4|103.136.150.210|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
+|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
 |6|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|7|122.2.48.121|8080|Philippines|Pasig|Philippine Long Distance Telephone Co.|
-|8|116.105.25.128|10002|Vietnam|Hanoi|Viettel Corporation|
-|9|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
-|12|35.243.0.249|10096|United States|Los Angeles|Google LLC|
-|13|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|14|190.145.194.210|8080|Colombia|Santiago de Cali|Telmex Colombia S.A.|
-|15|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
-|17|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|18|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|19|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
-|20|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
+|7|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
+|8|34.160.134.22|3128|United States|Kansas City|Google LLC|
+|9|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|45.77.156.171|9091|United States|Piscataway|The Constant Company|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|13|35.243.0.249|10096|United States|Los Angeles|Google LLC|
+|14|199.188.204.171|8080|United States|Los Angeles|Namecheap, Inc.|
+|15|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|17|157.66.221.103|39099|Vietnam|Thành Phố Thủ Dầu Một|Sandclock Service Trading Company Limited|
+|18|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|199.188.204.171|8080|United States|Los Angeles|Namecheap, Inc.|
+|20|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
 
 
 
