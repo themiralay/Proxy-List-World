@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|4|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|5|34.160.134.22|3128|United States|Kansas City|Google LLC|
-|6|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|7|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
-|8|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|5|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|6|34.160.134.22|3128|United States|Kansas City|Google LLC|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|34.160.134.22|3128|United States|Kansas City|Google LLC|
 |10|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|34.160.134.22|3128|United States|Kansas City|Google LLC|
-|13|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|14|43.208.240.77|318|Thailand|Bangkok|Amazon.com, Inc.|
-|15|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
-|16|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|17|119.148.39.241|2727|Bangladesh|Dhaka|Agni Systems Limited|
-|18|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|19|103.211.26.94|80|Indonesia|Madiun|PT Olean Permata Telematika|
-|20|62.171.152.87|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|11|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|14|81.90.149.188|3128|Iran|Tehran|Afranet|
+|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|16|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|17|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
+|18|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|19|62.171.152.87|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|20|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
 
 
 
