@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|628|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|628|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|628|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|592|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|592|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|592|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
 |4|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |5|116.105.25.128|10056|Vietnam|Hanoi|Viettel Corporation|
-|6|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|6|128.199.202.122|3128|Singapore|Singapore|DigitalOcean, LLC|
 |7|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|8|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
-|9|42.117.124.249|16000|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|10|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|11|34.160.134.22|3128|United States|Kansas City|Google LLC|
-|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|13|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|9|103.136.150.210|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
+|10|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|11|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|12|210.87.125.146|8090|Indonesia|Temenggungan|CV Brawijaya Giga Network|
+|13|34.160.134.22|3128|United States|Kansas City|Google LLC|
 |14|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|15|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
 |16|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|17|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|18|97.79.251.186|80|United States|Dallas|Spectrum|
-|19|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|20|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
+|17|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|18|140.174.52.105|8888|United States|Los Angeles|NTT DATA|
+|19|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|20|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
 
 
 
