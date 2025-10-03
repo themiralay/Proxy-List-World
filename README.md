@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -43,22 +43,22 @@ Click the file format that you want and copy the URL.
 |2|34.160.134.22|3128|United States|Kansas City|Google LLC|
 |3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|6|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
+|5|34.160.134.22|3128|United States|Kansas City|Google LLC|
+|6|34.94.98.68|8080|United States|Los Angeles|Google LLC|
 |7|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
-|9|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
-|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|11|186.97.138.69|999|Colombia|Medellín|Colombia Móvil|
-|12|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
-|13|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|14|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|15|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|17|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|18|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|8|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|9|103.109.213.134|3325|Bangladesh|Dhaka|Bismillah Telecom Service|
+|10|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|13|43.208.240.77|318|Thailand|Bangkok|Amazon.com, Inc.|
+|14|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
+|15|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|16|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|17|103.204.211.48|32255|Bangladesh|Dhaka|Level3 Carrier Limited|
+|18|202.5.60.204|2727|Bangladesh|Sonargaon|BBTS-NEW|
+|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
+|20|203.217.169.26|8080|Cambodia|Siem Reap|S.I Group|
 
 
 
