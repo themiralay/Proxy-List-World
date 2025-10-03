@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|215|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|215|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|215|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
-|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|216.238.75.89|999|Mexico|Querétaro City|The Constant Company|
-|6|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|2|34.160.134.22|3128|United States|Kansas City|Google LLC|
+|3|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|4|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|34.160.134.22|3128|United States|Kansas City|Google LLC|
 |7|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|8|34.160.134.22|3128|United States|Kansas City|Google LLC|
-|9|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
-|10|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|8|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|9|198.23.236.47|1111|United States|Santa Clara|HostPapa|
+|10|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
 |11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|12|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|13|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|14|34.160.134.22|3128|United States|Kansas City|Google LLC|
-|15|103.109.212.85|8428|Bangladesh|Dhaka|Bismillah Telecom Service|
+|12|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|13|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|14|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
 |16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|66.29.156.102|8080|United States|Phoenix|Namecheap, Inc.|
-|18|14.177.236.212|55443|Vietnam|Hanoi|VNPT|
-|19|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|20|103.9.188.20|8080|Cambodia|Phnom Penh|EZECOM CO., LTD.|
+|17|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|18|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|19|36.50.53.219|11995|Vietnam|Tây Hồ|Vietserver Services Technology Company Limited|
+|20|43.208.240.77|318|Thailand|Bangkok|Amazon.com, Inc.|
 
 
 
