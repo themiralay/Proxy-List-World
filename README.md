@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.160.134.22|3128|United States|Kansas City|Google LLC|
-|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|5|34.160.134.22|3128|United States|Kansas City|Google LLC|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|8|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|10|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|13|103.115.243.237|2214|Bangladesh|Sātkhira|Digi Jadoo Broadband Limited|
-|14|103.217.216.30|8080|Indonesia|Bekasi|PT. Infotama Lintas Global|
-|15|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
-|16|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
-|17|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
-|18|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|19|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|20|103.158.253.13|8382|Indonesia|Margasari|Rapid Network|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|3|34.160.134.22|3128|United States|Kansas City|Google LLC|
+|4|34.160.134.22|3128|United States|Kansas City|Google LLC|
+|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|6|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|7|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|8|43.129.93.201|5000|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
+|9|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|10|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|11|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|36.50.53.219|11995|Vietnam|Tây Hồ|Vietserver Services Technology Company Limited|
+|13|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|14|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|15|165.227.104.238|8118|United States|Clifton|DigitalOcean, LLC|
+|16|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|17|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|18|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|19|103.80.224.33|83|India|Vadodara|Robust Pixel Connect Private Limited|
+|20|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 
 
 
