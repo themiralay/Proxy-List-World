@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **78032** proxies at the latest update. Usable proxies are below.
+> Scraper found **77743** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -28,8 +28,8 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37065|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37076|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|29|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|39738|✅|
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|2|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|5|35.243.0.211|10114|United States|Los Angeles|Google LLC|
-|6|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|9|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|10|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|6|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|35.243.0.211|10114|United States|Los Angeles|Google LLC|
 |11|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|12|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
-|15|190.110.36.195|999|Dominican Republic|Santiago de los Caballeros|Centric Mobility|
-|16|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|17|103.68.233.142|8097|Indonesia|Jakarta|PT OREN ABADI SAKTI|
-|18|209.141.57.216|80|United States|Las Vegas|FranTech Solutions|
-|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
-|20|190.145.216.195|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|14|103.211.26.94|80|Indonesia|Madiun|PT Olean Permata Telematika|
+|15|36.50.53.219|11995|Vietnam|Tây Hồ|Vietserver Services Technology Company Limited|
+|16|103.109.212.85|8428|Bangladesh|Dhaka|Bismillah Telecom Service|
+|17|103.67.84.17|2022|Indonesia|Banyuwangi|PT Tujuh Fondasi Teknologi|
+|18|81.90.149.188|3128|Iran|Tehran|Afranet|
+|19|64.181.240.152|3128|United States|San Jose|Oracle Corporation|
+|20|141.253.121.129|3227|France|Paris|Oracle Corporation|
 
 
 
