@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
 |5|34.160.134.22|3128|United States|Kansas City|Google LLC|
-|6|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|7|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|138.68.60.8|3128|United States|Santa Clara|DigitalOcean, LLC|
+|6|47.252.81.108|8118|United States|Charlottesville|Alibaba Cloud LLC|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |10|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|13|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|14|36.50.53.219|11995|Vietnam|Tây Hồ|Vietserver Services Technology Company Limited|
-|15|91.108.130.18|3128|Iran|Tehran|Rayaneh Gostar Farzanegan Ahwaz Company LTD.|
-|16|119.148.39.241|2727|Bangladesh|Dhaka|Agni Systems Limited|
-|17|43.208.240.77|318|Thailand|Bangkok|Amazon.com, Inc.|
-|18|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
-|19|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
-|20|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|11|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|12|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|13|43.208.240.77|318|Thailand|Bangkok|Amazon.com, Inc.|
+|14|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|15|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|17|119.148.39.241|2727|Bangladesh|Dhaka|Agni Systems Limited|
+|18|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|19|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|20|35.243.0.211|10114|United States|Los Angeles|Google LLC|
 
 
 
