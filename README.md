@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|5|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|6|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|10|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|12|62.171.152.87|8888|Germany|Frankfurt am Main|Contabo GmbH|
-|13|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|14|79.127.54.89|3130|Iran|Tehran|Asiatech Data Transmission company|
-|15|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|6|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|7|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|8|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|10|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|11|91.238.104.155|2023|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|12|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|14|62.171.152.87|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|15|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
 |16|77.123.145.21|3128|Ukraine|Kyiv|Volia-Cable LLC|
-|17|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|17|91.238.105.43|2023|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
 |18|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|19|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|20|34.94.98.68|8080|United States|Los Angeles|Google LLC|
 
 
 
