@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|420|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|420|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|420|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|451|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|451|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|451|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|4|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
 |5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
 |6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|7|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|9|141.145.206.230|3240|France|Paris|Oracle Corporation|
-|10|43.129.93.201|5000|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
-|11|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|12|152.32.67.243|10101|Philippines|Makati City|Converge ICT Solution Inc|
-|13|117.7.195.193|11991|Vietnam|Hanoi|Viettel Group|
-|14|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|16|91.108.130.18|3128|Iran|Tehran|Rayaneh Gostar Farzanegan Ahwaz Company LTD.|
-|17|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|18|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|19|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
-|20|35.243.0.249|10034|United States|Los Angeles|Google LLC|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|9|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|10|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|11|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|13|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|14|77.123.145.21|3128|Ukraine|Kyiv|Volia-Cable LLC|
+|15|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
+|16|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|17|119.148.39.241|2727|Bangladesh|Dhaka|Agni Systems Limited|
+|18|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|19|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|20|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
 
 
 
