@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|34.160.134.22|3128|United States|Kansas City|Google LLC|
-|3|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|6|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|12|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
-|13|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|15|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|16|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
-|17|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|18|161.49.81.37|8082|Philippines|Pasig|Converge Information and Communications Technology Solutions|
-|19|72.10.160.92|23429|Canada|Montreal|GloboTech Communications|
-|20|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|5|34.160.134.22|3128|United States|Kansas City|Google LLC|
+|6|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|10|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|13|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|14|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|15|103.227.24.194|3128|Indonesia|Krajan Wetan Wonojoyo|PT Sumber Data Indonesia|
+|16|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|17|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|18|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|19|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
+|20|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
 
 
 
