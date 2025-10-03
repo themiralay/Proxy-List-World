@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|494|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|494|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|494|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|433|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|433|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|433|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
-|2|34.160.134.22|3128|United States|Kansas City|Google LLC|
-|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|4|164.70.91.60|3172|Japan|Chiyoda City|InfoSphere|
-|5|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|6|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|9|34.160.134.22|3128|United States|Kansas City|Google LLC|
-|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|11|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
-|12|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|13|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|14|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|15|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|16|222.165.205.212|1452|Indonesia|Jakarta|PT NettoCyber Indonesia|
-|17|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|18|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|19|43.129.93.201|5000|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
-|20|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|1|34.160.134.22|3128|United States|Kansas City|Google LLC|
+|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|4|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|6|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|10|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|11|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|115.74.10.144|10001|Vietnam|Vũng Tàu|VIETELxdsl|
+|13|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|14|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|16|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|17|147.75.66.234|9443|United States|Secaucus|Equinix (EMEA) Acquisition Enterprises B.V.|
+|18|147.75.66.234|9443|United States|Secaucus|Equinix (EMEA) Acquisition Enterprises B.V.|
+|19|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|20|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
 
 
 
