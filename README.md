@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|569|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|569|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|569|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|568|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|568|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|568|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.160.134.22|3128|United States|Kansas City|Google LLC|
-|2|34.160.134.22|3128|United States|Kansas City|Google LLC|
-|3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|2|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|3|116.105.25.128|10056|Vietnam|Hanoi|Viettel Corporation|
 |4|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
 |5|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|6|116.105.25.128|10056|Vietnam|Hanoi|Viettel Corporation|
-|7|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|8|122.2.48.121|8080|Philippines|Pasig|Philippine Long Distance Telephone Co.|
-|9|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|10|35.243.0.249|10032|United States|Los Angeles|Google LLC|
-|11|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|12|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|14|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|15|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|16|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|143.198.147.156|2626|United States|Santa Clara|DigitalOcean, LLC|
+|6|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|7|34.160.134.22|3128|United States|Kansas City|Google LLC|
+|8|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|9|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
+|10|122.2.48.121|8080|Philippines|Pasig|Philippine Long Distance Telephone Co.|
+|11|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|12|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|13|35.243.0.249|10032|United States|Los Angeles|Google LLC|
+|14|45.77.156.171|9091|United States|Piscataway|The Constant Company|
+|15|131.100.48.73|999|Colombia|Florencia|Fibernet TV SAS|
+|16|134.209.29.120|8080|United Kingdom|Slough|DigitalOcean, LLC|
+|17|57.129.81.201|8080|Germany|Frankfurt am Main|OVH SAS|
 |18|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|19|8.212.165.33|3333|Philippines|Manila|Alibaba (US) Technology Co., Ltd.|
-|20|143.198.147.156|2626|United States|Santa Clara|DigitalOcean, LLC|
+|19|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|20|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
