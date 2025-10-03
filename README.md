@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|34.160.134.22|3128|United States|Kansas City|Google LLC|
-|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|34.160.134.22|3128|United States|Kansas City|Google LLC|
-|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|6|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|7|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|34.160.134.22|3128|United States|Kansas City|Google LLC|
+|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|4|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|5|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|6|34.160.134.22|3128|United States|Kansas City|Google LLC|
+|7|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|8|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
 |9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|10|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
-|11|36.50.53.219|11995|Vietnam|Tây Hồ|Vietserver Services Technology Company Limited|
-|12|165.227.104.238|8118|United States|Clifton|DigitalOcean, LLC|
-|13|103.146.184.101|8090|Indonesia|Sragen|YAMNET|
-|14|81.90.149.188|3128|Iran|Tehran|Afranet|
-|15|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|16|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
-|17|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
-|18|103.171.31.77|8080|Indonesia|Bekasi|MORATELINDONAP|
-|19|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|20|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|10|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|11|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|12|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
+|13|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
+|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
+|15|165.227.104.238|8118|United States|Clifton|DigitalOcean, LLC|
+|16|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|17|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|18|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
+|19|36.50.53.219|11995|Vietnam|Tây Hồ|Vietserver Services Technology Company Limited|
+|20|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
 
 
 
