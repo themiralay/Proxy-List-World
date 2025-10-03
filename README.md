@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|4|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|5|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|6|35.243.0.211|10104|United States|Los Angeles|Google LLC|
-|7|35.243.0.211|10104|United States|Los Angeles|Google LLC|
-|8|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|9|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|3|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|103.211.26.94|80|Indonesia|Madiun|PT Olean Permata Telematika|
+|9|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
 |10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |11|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|12|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|13|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|14|62.171.152.87|8888|Germany|Frankfurt am Main|Contabo GmbH|
-|15|103.126.174.187|8080|Indonesia|Kedaton|MEGARAP|
+|12|103.126.174.187|8080|Indonesia|Kedaton|MEGARAP|
+|13|62.171.152.87|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|14|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
 |16|77.123.145.21|3128|Ukraine|Kyiv|Volia-Cable LLC|
-|17|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
-|18|81.90.149.188|3128|Iran|Tehran|Afranet|
-|19|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|20|195.158.8.123|3128|Uzbekistan|Tashkent|"Uzbektelekom" Joint Stock Company|
+|17|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|18|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|19|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
 
 
 
