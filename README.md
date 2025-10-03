@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|4|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
-|5|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|6|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
-|7|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|10|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|11|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|12|62.171.152.87|8888|Germany|Frankfurt am Main|Contabo GmbH|
-|13|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
-|14|77.123.145.21|3128|Ukraine|Kyiv|Volia-Cable LLC|
-|15|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|16|91.191.233.250|3128|Russia|Yekaterinburg|MiraLogic Telecommunication Systems|
-|17|5.75.196.127|1080|Germany|Nuremberg|Hetzner Online GmbH|
-|18|102.216.85.17|8080|Kenya|Nairobi|Surf Net Solutions Limited|
-|19|186.96.97.203|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|20|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|8|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|9|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|10|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|12|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|14|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|15|62.171.152.87|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|16|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|17|91.238.104.155|2023|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|18|43.208.240.77|318|Thailand|Bangkok|Amazon.com, Inc.|
+|19|77.123.145.21|3128|Ukraine|Kyiv|Volia-Cable LLC|
+|20|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
 
 
 
