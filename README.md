@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|397|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|397|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|397|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|386|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|386|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|386|
 
 ## Sources
 
@@ -40,25 +40,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|2|108.61.250.163|5555|Japan|Minamishinagawa|Choopa|
-|3|211.72.82.56|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|4|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|2|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|3|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|4|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
 |5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|6|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
-|7|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|8|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
-|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|10|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
-|11|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|14|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|15|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
-|16|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|17|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|18|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|9|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|13|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|14|152.32.67.243|10101|Philippines|Makati City|Converge ICT Solution Inc|
+|15|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
+|16|65.108.159.129|8081|Finland|Helsinki|Hetzner Online GmbH|
+|17|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
+|18|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
 |19|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|20|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|20|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
 
 
 
