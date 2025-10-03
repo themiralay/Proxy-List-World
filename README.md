@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **78832** proxies at the latest update. Usable proxies are below.
+> Scraper found **78781** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|580|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|580|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|580|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|523|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|523|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|523|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37662|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37611|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|185|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|39785|✅|
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.79.93.202|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
-|2|34.160.134.22|3128|United States|Kansas City|Google LLC|
+|1|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|2|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
 |3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|4|103.167.170.167|8080|Indonesia|Jakarta|PT Rajeg Media Telekomunikasi|
-|5|116.105.25.128|10002|Vietnam|Hanoi|Viettel Corporation|
-|6|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
-|7|139.162.13.186|8888|Singapore|Singapore|LINODE|
-|8|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|9|34.160.134.22|3128|United States|Kansas City|Google LLC|
-|10|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
-|11|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|12|35.243.0.249|10096|United States|Los Angeles|Google LLC|
-|13|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
-|14|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
-|16|91.84.99.28|80|The Netherlands|Amsterdam|Servers Tech Fzco|
-|17|65.108.203.36|18080|Finland|Helsinki|Hetzner Online GmbH|
-|18|67.211.221.112|3128|United States|Secaucus|Interserver, Inc|
-|19|208.87.243.199|7878|United States|Los Angeles|Psychz Networks|
-|20|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|4|112.216.83.10|3128|South Korea|Cheongju-si|LG DACOM Corporation|
+|5|34.160.134.22|3128|United States|Kansas City|Google LLC|
+|6|139.162.13.186|8888|Singapore|Singapore|LINODE|
+|7|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|8|116.105.25.128|10002|Vietnam|Hanoi|Viettel Corporation|
+|9|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|11|35.243.0.249|10096|United States|Los Angeles|Google LLC|
+|12|122.2.48.121|8080|Philippines|Pasig|Philippine Long Distance Telephone Co.|
+|13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|14|201.159.111.121|8081|Mexico|Salinas Victoria|Jose Miguel Macias Contreras|
+|15|184.180.9.150|3128|United States|Fairfax|Cox Communications Inc.|
+|16|67.211.221.112|3128|United States|Secaucus|Interserver, Inc|
+|17|57.129.81.201|999|Germany|Frankfurt am Main|OVH SAS|
+|18|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|19|66.29.156.102|8080|United States|Phoenix|Namecheap, Inc.|
+|20|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
 
 
 
