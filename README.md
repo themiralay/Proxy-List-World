@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|347|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|347|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|347|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|358|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|358|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|358|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|7|97.79.251.186|80|United States|Dallas|Spectrum|
-|8|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
-|9|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|10|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|11|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
-|12|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|13|103.162.17.205|8080|Indonesia|Dopang|PT Mega Data Perkasa|
-|14|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|15|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|16|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
-|17|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|3|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|5|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|97.79.251.186|80|United States|Dallas|Spectrum|
+|7|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|9|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|13|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|14|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
+|15|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
+|16|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
+|17|124.108.19.6|9292|India|Pune|Advantus Corporate Infoserv Private Ltd|
 |18|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
-|19|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
-|20|150.107.136.205|39843|Indonesia|Jakarta|PT. Media Antar Nusa|
+|19|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|20|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
 
 
 
