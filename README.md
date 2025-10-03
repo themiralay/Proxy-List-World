@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|375|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|375|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|375|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|425|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|425|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|425|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|4|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|7|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|3|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|5|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|6|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|7|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
 |9|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|10|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|12|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|13|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|14|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|15|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|16|119.148.39.241|2727|Bangladesh|Dhaka|Agni Systems Limited|
-|17|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
-|18|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
-|19|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|20|77.123.145.21|3128|Ukraine|Kyiv|Volia-Cable LLC|
+|10|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|12|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|15|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|16|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|17|186.96.50.113|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|18|77.123.145.21|3128|Ukraine|Kyiv|Volia-Cable LLC|
+|19|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|20|119.148.39.241|2727|Bangladesh|Dhaka|Agni Systems Limited|
 
 
 
