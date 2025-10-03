@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|364|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|364|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|364|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|394|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|394|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|394|
 
 ## Sources
 
@@ -39,26 +39,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.160.134.22|3128|United States|Kansas City|Google LLC|
-|2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|1|164.70.91.60|3172|Japan|Chiyoda City|InfoSphere|
+|2|34.160.134.22|3128|United States|Kansas City|Google LLC|
+|3|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |4|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|6|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
-|7|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|8|34.160.134.22|3128|United States|Kansas City|Google LLC|
-|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|11|43.129.93.201|5000|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|14|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|15|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
-|16|147.75.66.234|9443|United States|Secaucus|Equinix (EMEA) Acquisition Enterprises B.V.|
-|17|109.248.59.70|1080|Russia|Moscow|Chernyshov Aleksandr Aleksandrovich|
-|18|176.126.103.194|44214|Russia|Moscow|Miglovets Egor Andreevich|
-|19|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|20|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|5|34.160.134.22|3128|United States|Kansas City|Google LLC|
+|6|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|8|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
+|9|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|10|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|11|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|13|103.176.190.98|8080|India|Mormugao|Merv Enterprises PVT LTD|
+|14|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|15|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|16|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|17|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|18|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|19|202.178.125.136|8080|Cambodia|Phnom Penh|Cambodia Data Communication|
+|20|109.248.59.70|1080|Russia|Moscow|Chernyshov Aleksandr Aleksandrovich|
 
 
 
