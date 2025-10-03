@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|359|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|359|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|359|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|357|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|357|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|357|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|4|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|5|4.239.94.226|3128|Canada|Québec|Microsoft Corporation|
 |6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|8|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|10|43.129.93.201|5000|Hong Kong|Hong-kong|Shenzhen Tencent Computer Systems Company Limited|
-|11|103.156.16.76|1080|Indonesia|Indramayu|RSTNET|
-|12|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|13|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
-|14|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
-|15|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|16|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|17|83.212.82.185|3128|Greece|Athens|National Infrastructures for Research and Technology S.A.|
-|18|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
-|19|195.74.86.205|80|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
-|20|91.108.130.18|3128|Iran|Tehran|Rayaneh Gostar Farzanegan Ahwaz Company LTD.|
+|7|97.79.251.186|80|United States|Dallas|Spectrum|
+|8|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
+|9|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
+|10|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|195.74.86.205|80|The Netherlands|Meppel|PQ HOSTING PLUS S.R.L.|
+|14|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|15|45.166.93.113|999|Honduras|Gracias|Multicable De Honduras|
+|16|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|17|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|18|89.168.33.150|3226|France|Paris|Oracle Corporation|
+|19|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|20|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
 
 
 
