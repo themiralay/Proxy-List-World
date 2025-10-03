@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|271|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|271|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|271|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|4|47.79.95.169|1122|Japan|Tokyo|Alibaba (US) Technology Co., Ltd.|
+|4|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
 |5|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|6|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|7|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|8|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|9|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|10|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|11|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|12|116.96.250.131|9000|Vietnam|Bắc Ninh|Viettel Corporation|
-|13|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|14|120.28.152.190|8082|Philippines|San Juan|Globe Telecom|
-|15|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|16|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|6|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
+|7|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|8|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|9|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|11|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|161.35.70.249|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|14|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|15|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|16|45.152.87.67|8443|Latvia|Riga|RETN Limited|
 |17|77.123.145.21|3128|Ukraine|Kyiv|Volia-Cable LLC|
 |18|119.148.39.241|2727|Bangladesh|Dhaka|Agni Systems Limited|
-|19|103.54.43.131|8080|Bangladesh|Kāfrul|THE NET HEADS|
-|20|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|116.96.250.131|9000|Vietnam|Bắc Ninh|Viettel Corporation|
+|20|103.99.27.188|8282|Indonesia|Tangerang|PT Lintas Network Solusi|
 
 
 
