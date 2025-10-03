@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.160.134.22|3128|United States|Kansas City|Google LLC|
-|2|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|1|139.162.78.109|80|Japan|Tokyo|Akamai Technologies, Inc.|
+|2|34.160.134.22|3128|United States|Kansas City|Google LLC|
 |3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
 |5|34.160.134.22|3128|United States|Kansas City|Google LLC|
-|6|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|7|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|8|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|10|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|11|103.109.213.134|3325|Bangladesh|Dhaka|Bismillah Telecom Service|
-|12|103.124.227.89|12445|Bangladesh|Habiganj|Level3|
-|13|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|14|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|6|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
+|7|157.230.220.25|4857|United States|North Bergen|DigitalOcean, LLC|
+|8|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|9|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|10|101.255.69.26|8080|Indonesia|Jakarta|PT Remala Abadi|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|13|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|14|103.109.212.29|2231|Bangladesh|Dhaka|Bismillah Telecom Service|
 |15|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
-|16|103.109.212.166|6124|Bangladesh|Jessore|Bismillah Telecom Service|
-|17|199.188.204.195|8080|United States|Los Angeles|Namecheap, Inc.|
-|18|103.118.175.200|3127|Indonesia|Tigaraksa|PT Perwira Media Solusi|
-|19|202.5.56.188|2727|Bangladesh|Rangpur City|BBTS-NEW|
+|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|17|36.50.53.219|11995|Vietnam|Tây Hồ|Vietserver Services Technology Company Limited|
+|18|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|19|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
 |20|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
 
 
