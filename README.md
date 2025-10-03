@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **78664** proxies at the latest update. Usable proxies are below.
+> Scraper found **78725** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37416|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37477|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|124|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|39924|✅|
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|34.160.134.22|3128|United States|Kansas City|Google LLC|
 |2|139.162.78.109|3128|Japan|Tokyo|Akamai Technologies, Inc.|
 |3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|4|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|4|34.160.134.22|3128|United States|Kansas City|Google LLC|
 |5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|6|34.160.134.22|3128|United States|Kansas City|Google LLC|
-|7|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|9|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|157.15.66.105|8080|Indonesia|Tulungagung|PT Trimitra Aditama Koneksindo|
-|11|152.70.137.18|8888|United States|Phoenix|Oracle Corporation|
-|12|103.187.162.75|8085|Indonesia|Tangerang|PT Misqot Sejahtera Indonesia|
-|13|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
-|14|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|15|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|16|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|17|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|19|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|20|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|6|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|7|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|9|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
+|10|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|11|78.134.20.48|8080|Italy|Campalto|NGI|
+|12|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|66.29.156.102|8080|United States|Phoenix|Namecheap, Inc.|
+|14|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|15|45.152.87.67|8443|Latvia|Riga|RETN Limited|
+|16|195.234.68.34|3128|Ukraine|Kyiv|SKIF|
+|17|138.124.49.149|10808|Sweden|Stockholm|Aeza International LTD|
+|18|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|19|103.136.150.210|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
+|20|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
 
 
 
