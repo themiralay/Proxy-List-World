@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|4|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|5|209.97.150.167|80|United States|Clifton|DigitalOcean, LLC|
+|4|52.188.28.218|3128|United States|Boydton|Microsoft Corporation|
+|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
 |6|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|7|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|8|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|9|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|8|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|9|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
 |10|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
-|11|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|12|62.171.152.87|8888|Germany|Frankfurt am Main|Contabo GmbH|
-|13|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|14|77.123.145.21|3128|Ukraine|Kyiv|Volia-Cable LLC|
-|15|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|16|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|17|45.152.87.67|8443|Latvia|Riga|RETN Limited|
-|18|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
-|19|92.113.150.5|1080|Denmark|Nørre Åby|Webdock.io ApS|
-|20|103.126.174.187|8080|Indonesia|Kedaton|MEGARAP|
+|11|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|13|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
+|14|62.171.152.87|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|15|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|16|77.123.145.21|3128|Ukraine|Kyiv|Volia-Cable LLC|
+|17|91.238.105.43|2023|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|18|91.238.104.172|2024|Ukraine|Vinnytsia|FOP "Reznichenko Sergey Mykolayovich"|
+|19|47.90.205.231|33333|United States|Charlottesville|Alibaba.com LLC|
+|20|43.224.116.222|2626|Bangladesh|Dhaka|Next Online Limited|
 
 
 
