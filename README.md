@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|320|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|320|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|320|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|293|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|293|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|293|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|34.160.134.22|3128|United States|Kansas City|Google LLC|
 |3|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
-|4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|5|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
-|6|49.156.44.114|8080|Cambodia|Phnom Penh|WiCAM Corporation|
-|7|34.160.134.22|3128|United States|Kansas City|Google LLC|
-|8|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|9|119.18.146.242|2314|Bangladesh|Nowlamary|BBTS Network|
-|10|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
-|11|116.105.25.128|10056|Vietnam|Hanoi|Viettel Corporation|
-|12|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|13|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
-|14|146.190.232.76|3128|The Netherlands|Amsterdam|DigitalOcean, LLC|
-|15|57.129.81.201|3128|Germany|Frankfurt am Main|OVH SAS|
-|16|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|17|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|5.78.67.134|8088|United States|Hillsboro|Hetzner Online GmbH|
-|19|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
-|20|134.209.29.120|3128|United Kingdom|Slough|DigitalOcean, LLC|
+|4|103.136.150.210|8080|Hong Kong|Chai Wan|Baxet Group Inc.|
+|5|116.105.25.128|10056|Vietnam|Hanoi|Viettel Corporation|
+|6|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|7|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|8|49.156.44.114|8080|Cambodia|Phnom Penh|WiCAM Corporation|
+|9|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|10|34.160.134.22|3128|United States|Kansas City|Google LLC|
+|11|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|12|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|13|171.228.2.114|23950|Vietnam|Hòa Bình|Viettel Corporation|
+|14|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|15|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
+|16|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|66.29.154.105|3128|United States|Los Angeles|Namecheap, Inc.|
+|18|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|19|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
+|20|162.238.123.152|8888|United States|Fremont|AT&T Enterprises, LLC|
 
 
 
