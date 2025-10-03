@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -44,21 +44,21 @@ Click the file format that you want and copy the URL.
 |3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |4|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
 |5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|6|123.58.219.225|8080|Hong Kong|Hong Kong|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|8|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|9|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
-|10|34.160.134.22|3128|United States|Kansas City|Google LLC|
-|11|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|12|66.29.154.103|3128|United States|Los Angeles|Namecheap, Inc.|
-|13|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|14|138.197.68.35|4857|United States|Clifton|DigitalOcean, LLC|
-|15|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|16|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|6|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|7|199.188.204.105|8080|United States|Los Angeles|Namecheap, Inc.|
+|8|34.160.134.22|3128|United States|Kansas City|Google LLC|
+|9|103.68.233.142|8097|Indonesia|Jakarta|PT OREN ABADI SAKTI|
+|10|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|11|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|12|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|13|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|14|103.142.254.101|1111|Indonesia|Madiun|PT.CITRA BERDIKARI NUSANTARA|
+|15|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|16|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
 |17|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |18|144.124.228.87|1080|The Netherlands|Amsterdam|Servers Tech Fzco|
-|19|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|20|103.109.213.134|3325|Bangladesh|Dhaka|Bismillah Telecom Service|
+|19|43.208.240.77|318|Thailand|Bangkok|Amazon.com, Inc.|
+|20|37.187.92.9|1028|France|Roubaix|OVH SAS|
 
 
 
