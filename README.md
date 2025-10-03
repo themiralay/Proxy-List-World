@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|34.160.134.22|3128|United States|Kansas City|Google LLC|
 |2|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
-|3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|4|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|5|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|6|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
-|7|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|8|34.160.134.22|3128|United States|Kansas City|Google LLC|
-|9|20.252.53.196|3128|United States|Quincy|Microsoft Corporation|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|211.230.49.122|3128|South Korea|Seo-gu|Korea Telecom|
+|3|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
+|4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|5|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
+|6|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|7|34.160.134.22|3128|United States|Kansas City|Google LLC|
+|8|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|9|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|10|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|11|175.100.34.177|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|12|182.253.40.149|8080|Indonesia|Mojokerto|BIZNET|
 |13|176.65.132.67|3128|Morocco|Rabat|Pfcloud UG|
-|14|185.216.125.251|8888|United States|Wilmington|Ipxo LLC|
+|14|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |15|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|17|103.67.84.17|2022|Indonesia|Banyuwangi|PT Tujuh Fondasi Teknologi|
-|18|43.208.240.77|318|Thailand|Bangkok|Amazon.com, Inc.|
-|19|62.171.159.232|8888|Germany|Frankfurt am Main|Contabo GmbH|
-|20|116.80.47.17|3172|Japan|Yokohama|InfoSphere|
+|16|42.96.16.176|1312|Vietnam|Hanoi|HOALAC-VNNIC|
+|17|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|18|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|19|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
+|20|150.136.153.231|80|United States|Ashburn|Oracle Corporation|
 
 
 
