@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -42,23 +42,23 @@ Click the file format that you want and copy the URL.
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
 |3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|5|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|6|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
-|7|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
-|8|35.243.0.211|10114|United States|Los Angeles|Google LLC|
-|9|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|4|35.243.0.211|10114|United States|Los Angeles|Google LLC|
+|5|101.1.59.65|443|South Korea|Yongsan-dong|AESNET|
+|6|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|7|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
+|8|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|9|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
 |10|35.243.0.211|10114|United States|Los Angeles|Google LLC|
-|11|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
-|12|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|11|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|12|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
 |13|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|14|161.35.70.249|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
-|16|62.171.152.87|8888|Germany|Frankfurt am Main|Contabo GmbH|
-|17|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|43.208.240.77|318|Thailand|Bangkok|Amazon.com, Inc.|
-|19|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|20|182.253.93.3|53281|Indonesia|Jakarta|BIZNET|
+|14|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|15|62.171.152.87|8888|Germany|Frankfurt am Main|Contabo GmbH|
+|16|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|17|157.250.203.202|8080|United States|Secaucus|Interserver, Inc|
+|18|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|19|190.242.157.215|8080|Colombia|Santiago de Cali|Columbus Networks USA, Inc.|
+|20|77.123.145.21|3128|Ukraine|Kyiv|Volia-Cable LLC|
 
 
 
