@@ -4,7 +4,7 @@
 It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **78434** proxies at the latest update. Usable proxies are below.
+> Scraper found **78374** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -13,9 +13,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|435|
-|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|435|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|435|
+|[data.txt](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.txt)|`ip_address:port` combined (seperated new line)|491|
+|[data.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data.json)|`ip, port`|491|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/themiralay/Proxy-List-World/master/data-with-geolocation.json)|`ip, port, geolocation`|491|
 
 ## Sources
 
@@ -29,7 +29,7 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37377|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|37317|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
 |[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|135|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|39722|✅|
@@ -41,24 +41,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|139.162.78.109|8080|Japan|Tokyo|Akamai Technologies, Inc.|
 |2|91.103.120.49|443|Hong Kong|Tsuen Wan|Alice Networks LTD|
-|3|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|4|128.199.202.122|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|34.94.98.68|8080|United States|Los Angeles|Google LLC|
-|6|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
-|7|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|8|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
-|9|23.237.210.82|80|United States|Dallas|FDCservers.net|
-|10|209.97.150.167|8080|United States|Clifton|DigitalOcean, LLC|
-|11|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
-|12|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|13|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
-|14|200.85.167.254|8080|Nicaragua|Managua|IBW Communications|
-|15|77.123.145.21|3128|Ukraine|Kyiv|Volia-Cable LLC|
-|16|119.148.39.241|2727|Bangladesh|Dhaka|Agni Systems Limited|
-|17|47.251.43.115|33333|United States|Santa Clara|Alibaba Cloud LLC|
-|18|157.250.203.234|8080|United States|Secaucus|Interserver, Inc|
-|19|61.216.156.222|60808|Taiwan|New Taipei City|Chunghwa Telecom Co., Ltd.|
-|20|200.174.198.158|8888|Brazil|Rio de Janeiro|Claro S.A.|
+|3|213.35.105.30|8080|Singapore|Singapore|Oracle Corporation|
+|4|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|5|103.169.128.158|8080|Indonesia|Cirebon|PT Media Akses Data|
+|6|209.97.150.167|3128|United States|Clifton|DigitalOcean, LLC|
+|7|115.77.241.248|10001|Vietnam|Ho Chi Minh City|Viettel Group|
+|8|14.251.13.0|8080|Vietnam|Hanoi|VNPT|
+|9|52.148.130.219|8080|United States|Quincy|Microsoft Corporation|
+|10|176.65.132.67|8080|Morocco|Rabat|Pfcloud UG|
+|11|139.59.1.14|80|India|Bengaluru|DIGITALOCEAN|
+|12|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
+|13|34.94.98.68|8080|United States|Los Angeles|Google LLC|
+|14|66.29.147.185|8080|United States|Phoenix|Namecheap, Inc.|
+|15|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|16|23.237.210.82|80|United States|Dallas|FDCservers.net|
+|17|66.29.156.102|8080|United States|Phoenix|Namecheap, Inc.|
+|18|157.10.97.185|8080|Indonesia|Palembang|PT Lintas Jaringan Nusantara|
+|19|103.169.132.58|8085|Indonesia|Rengasdengklok|PT Alfa Omega Interkoneksi|
+|20|161.35.70.249|8080|Germany|Frankfurt am Main|DigitalOcean, LLC|
 
 
 
